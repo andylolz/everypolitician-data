@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/bahamas-parliament-scraper",
-        "query": "SELECT *, name AS id FROM data ORDER BY id"
+        "query": "SELECT name AS id, name, sort_name, family_name, given_name, birth_date, image FROM data ORDER BY id"
       },
       "source": "http://www.bahamas.gov.bs/wps/portal/public/?urile=wcm%3apath%3a/MOF_Content/internet/The+Government/Government/The+Government/Legislative/Members+of+Parliament/",
       "type": "person",
