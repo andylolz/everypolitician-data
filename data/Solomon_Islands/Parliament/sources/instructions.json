@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/solomon-islands-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, sort_name, phone, image FROM data ORDER BY id"
       },
       "source": "http://www.parliament.gov.sb/index.php?q=node/833",
       "type": "person",
