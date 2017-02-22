@@ -15968,6 +15968,10 @@
           "url": "https://hsb.wikipedia.org/wiki/Jüri_Ratas"
         },
         {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Jüri_Ratas"
         },
@@ -20754,7 +20758,7 @@
       ],
       "email": "Anne.Sulling@riigikogu.ee",
       "gender": "female",
-      "given_name": "Anne-Sophie",
+      "given_name": "Anne",
       "id": "ca220e41-2833-436b-b94c-91273c29b73a",
       "identifiers": [
         {
@@ -20879,6 +20883,11 @@
       ],
       "name": "Etti Kagarov",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Etti Kagarov",
+          "note": "multilingual"
+        },
         {
           "lang": "et",
           "name": "Etti Kagarov",
@@ -25079,7 +25088,7 @@
           "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/4be86ba4-dd84-4fff-b31d-d94b81645700.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Tõrvikurongkäik_2015_-_Jaak_Madison.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/RK_Jaak_Madison.jpg"
         }
       ],
       "links": [
