@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turks-and-caicos-assembly-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data WHERE term=2012 ORDER BY name"
       },
       "merge": {
         "incoming_field": "name",
