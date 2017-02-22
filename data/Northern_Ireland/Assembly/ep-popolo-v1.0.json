@@ -4290,6 +4290,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ga",
+          "name": "Arlene Foster",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Arlene Foster",
           "note": "multilingual"
@@ -11969,6 +11974,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sl",
+          "name": "John Hume",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "John Hume",
           "note": "multilingual"
@@ -17916,7 +17926,7 @@
     {
       "birth_date": "1980-01-01",
       "gender": "female",
-      "given_name": "Emma",
+      "given_name": "Enma",
       "id": "d75803ce-1eff-4152-94ef-64f49f767451",
       "identifiers": [
         {
@@ -18752,6 +18762,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Conor_Murphy"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Conor_Murphy"
         }
       ],
       "name": "Conor Murphy",
