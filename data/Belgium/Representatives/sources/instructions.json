@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/belgium-lachambre",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, sort_name, email, website, image FROM data ORDER BY id"
       },
       "source": "http://www.lachambre.be/",
       "type": "person",
