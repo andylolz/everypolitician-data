@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "struan/netherlands",
-        "query": "SELECT id, name, family_name, given_name, sort_name, gender, img, dob, email, source, website AS term FROM data ORDER BY id"
+        "query": "SELECT id, name, family_name, given_name, sort_name, gender, img, dob, email, source FROM data ORDER BY id"
       },
       "source": "http://www.houseofrepresentatives.nl/members_of_parliament/members_of_parliament",
       "merge": {
