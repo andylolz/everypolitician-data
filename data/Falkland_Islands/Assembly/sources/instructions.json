@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/falkland-islands-assembly",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, name, image FROM data ORDER BY name"
       },
       "source": "http://www.falklands.gov.fk/self-governance/legislative/assembly-members/",
       "type": "person",
