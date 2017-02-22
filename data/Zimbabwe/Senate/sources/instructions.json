@@ -30,7 +30,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/zimbabwe-parliament",
-        "query": "SELECT * FROM data WHERE house = 'senate' ORDER BY id"
+        "query": "SELECT id, name, image, gender, email, cell, phone, source FROM data WHERE house = 'senate' ORDER BY id"
       },
       "merge": {
         "incoming_field": "name",
