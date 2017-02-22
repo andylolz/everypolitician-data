@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "wfdd/wf-assemblee-territoriale-scraper",
-        "query": "SELECT *, name AS id FROM data ORDER BY name"
+        "query": "SELECT name AS id, name, sort_name, family_name, given_name, gender FROM data ORDER BY name"
       },
       "source": "http://www.wallis-et-futuna.pref.gouv.fr/Wallis-et-Futuna/Organisation-institutionnelle/Assemblee-Territoriale-collectivite",
       "type": "person",
