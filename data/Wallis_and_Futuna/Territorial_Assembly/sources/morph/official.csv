@@ -1,21 +1,21 @@
-name,sort_name,family_name,given_name,gender,term,area,id
-BAUDRY Frédéric,BAUDRY Frédéric,BAUDRY,Frédéric,male,2012,ALO,BAUDRY Frédéric
-FALELAVAKI Petelo,FALELAVAKI Petelo,FALELAVAKI,Petelo,male,2012,SIGAVE,FALELAVAKI Petelo
-FELEU Yannick,FELEU Yannick,FELEU,Yannick,female,2012,MUA,FELEU Yannick
-HANISI Petelo,HANISI Petelo,HANISI,Petelo,male,2012,HAHAKE,HANISI Petelo
-IKAI Eselone,IKAI Eselone,IKAI,Eselone,male,2012,MUA,IKAI Eselone
-ILOAI Nivaleta,ILOAI Nivaleta,ILOAI,Nivaleta,female,2012,HIHIFO,ILOAI Nivaleta
-KANIMOA Patalione,KANIMOA Patalione,KANIMOA,Patalione,male,2012,HAHAKE,KANIMOA Patalione
-KOLOKILAGI Atoloto,KOLOKILAGI Atoloto,KOLOKILAGI,Atoloto,male,2012,HIHIFO,KOLOKILAGI Atoloto
-KULIMOETOKE Mikaele,KULIMOETOKE Mikaele,KULIMOETOKE,Mikaele,male,2012,HAHAKE,KULIMOETOKE Mikaele
-LAUFILITOGA Mireille,LAUFILITOGA Mireille,LAUFILITOGA,Mireille,female,2012,MUA,LAUFILITOGA Mireille
-MOTUKU Sosefo,MOTUKU Sosefo,MOTUKU,Sosefo,male,2012,ALO,MOTUKU Sosefo
-MULIAKAAKA Munipoese,MULIAKAAKA Munipoese,MULIAKAAKA,Munipoese,male,2012,MUA,MULIAKAAKA Munipoese
-NAU Vetelino,NAU Vetelino,NAU,Vetelino,male,2012,ALO,NAU Vetelino
-NIUTOUA Pasikale « MOETOTO »,NIUTOUA Pasikale « MOETOTO »,NIUTOUA,Pasikale « MOETOTO »,male,2012,SIGAVE,NIUTOUA Pasikale « MOETOTO »
-SAVEA Toma Akino,SAVEA Toma Akino,SAVEA,Toma Akino,male,2012,ALO,SAVEA Toma Akino
-SELUI Emile,SELUI Emile,SELUI,Emile,male,2012,MUA,SELUI Emile
-SUVE Sosefo,SUVE Sosefo,SUVE,Sosefo,male,2012,HIHIFO,SUVE Sosefo
-TAUFANA Bernard,TAUFANA Bernard,TAUFANA,Bernard,male,2012,MUA,TAUFANA Bernard
-VEA Savelina,VEA Savelina,VEA,Savelina,female,2012,SIGAVE,VEA Savelina
-VERGE David,VERGE David,VERGE,David,male,2012,HAHAKE,VERGE David
+id,name,sort_name,family_name,given_name,gender
+BAUDRY Frédéric,BAUDRY Frédéric,BAUDRY Frédéric,BAUDRY,Frédéric,male
+FALELAVAKI Petelo,FALELAVAKI Petelo,FALELAVAKI Petelo,FALELAVAKI,Petelo,male
+FELEU Yannick,FELEU Yannick,FELEU Yannick,FELEU,Yannick,female
+HANISI Petelo,HANISI Petelo,HANISI Petelo,HANISI,Petelo,male
+IKAI Eselone,IKAI Eselone,IKAI Eselone,IKAI,Eselone,male
+ILOAI Nivaleta,ILOAI Nivaleta,ILOAI Nivaleta,ILOAI,Nivaleta,female
+KANIMOA Patalione,KANIMOA Patalione,KANIMOA Patalione,KANIMOA,Patalione,male
+KOLOKILAGI Atoloto,KOLOKILAGI Atoloto,KOLOKILAGI Atoloto,KOLOKILAGI,Atoloto,male
+KULIMOETOKE Mikaele,KULIMOETOKE Mikaele,KULIMOETOKE Mikaele,KULIMOETOKE,Mikaele,male
+LAUFILITOGA Mireille,LAUFILITOGA Mireille,LAUFILITOGA Mireille,LAUFILITOGA,Mireille,female
+MOTUKU Sosefo,MOTUKU Sosefo,MOTUKU Sosefo,MOTUKU,Sosefo,male
+MULIAKAAKA Munipoese,MULIAKAAKA Munipoese,MULIAKAAKA Munipoese,MULIAKAAKA,Munipoese,male
+NAU Vetelino,NAU Vetelino,NAU Vetelino,NAU,Vetelino,male
+NIUTOUA Pasikale « MOETOTO »,NIUTOUA Pasikale « MOETOTO »,NIUTOUA Pasikale « MOETOTO »,NIUTOUA,Pasikale « MOETOTO »,male
+SAVEA Toma Akino,SAVEA Toma Akino,SAVEA Toma Akino,SAVEA,Toma Akino,male
+SELUI Emile,SELUI Emile,SELUI Emile,SELUI,Emile,male
+SUVE Sosefo,SUVE Sosefo,SUVE Sosefo,SUVE,Sosefo,male
+TAUFANA Bernard,TAUFANA Bernard,TAUFANA Bernard,TAUFANA,Bernard,male
+VEA Savelina,VEA Savelina,VEA Savelina,VEA,Savelina,female
+VERGE David,VERGE David,VERGE David,VERGE,David,male
