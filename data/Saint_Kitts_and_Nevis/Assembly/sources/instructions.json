@@ -120,7 +120,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/saint-kitts-and-nevis-elections-wikipedia",
-        "query": "SELECT *, REPLACE(LOWER(name),' ','_') AS id FROM data ORDER BY name"
+        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, name, wikiname FROM data ORDER BY name"
       },
       "source": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis_general_election,_2015",
       "type": "person",
