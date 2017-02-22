@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/kenya-national-assembly",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT id, name, sort_name, image FROM data ORDER BY id"
       },
       "source": "http://www.parliament.go.ke/",
       "type": "person",
