@@ -1055,11 +1055,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Belgium/Representatives/sources",
         "popolo": "data/Belgium/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f8bb7e919d115f7644cedd4f468c4dfa0a870db3/data/Belgium/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/342ffec93785203fa12b08c97636b26a17e5bd1f/data/Belgium/Representatives/ep-popolo-v1.0.json",
         "names": "data/Belgium/Representatives/names.csv",
         "lastmod": "1487544605",
         "person_count": 170,
-        "sha": "f8bb7e919d115f7644cedd4f468c4dfa0a870db3",
+        "sha": "342ffec93785203fa12b08c97636b26a17e5bd1f",
         "legislative_periods": [
           {
             "id": "term/54",
