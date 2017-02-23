@@ -2258,11 +2258,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Cook_Islands/Parliament/sources",
         "popolo": "data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/040a072f9149c6e8f53433310c6cc83849622d92/data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/ep-popolo-v1.0.json",
         "names": "data/Cook_Islands/Parliament/names.csv",
-        "lastmod": "1486193627",
+        "lastmod": "1487869512",
         "person_count": 49,
-        "sha": "040a072f9149c6e8f53433310c6cc83849622d92",
+        "sha": "07f4995fdab89da0c891255be7d1bda6334fbe67",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -2279,7 +2279,7 @@
             "start_date": "2011-02-18",
             "slug": "13",
             "csv": "data/Cook_Islands/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2de544896ca43427b609b7a3f69f0d5c0f321705/data/Cook_Islands/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/term-13.csv"
           },
           {
             "end_date": "2010-09-24",
@@ -2288,10 +2288,10 @@
             "start_date": "2006-09-27",
             "slug": "12",
             "csv": "data/Cook_Islands/Parliament/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e53b65b967e1f0aef92f6eeeed517224483d1f3b/data/Cook_Islands/Parliament/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/07f4995fdab89da0c891255be7d1bda6334fbe67/data/Cook_Islands/Parliament/term-12.csv"
           }
         ],
-        "statement_count": 2369,
+        "statement_count": 2371,
         "type": "unicameral legislature"
       }
     ]
