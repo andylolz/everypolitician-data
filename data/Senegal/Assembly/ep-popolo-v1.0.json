@@ -576,14 +576,51 @@
       "name": "Aïssata Daouda Dia"
     },
     {
+      "birth_date": "1959",
+      "gender": "male",
       "id": "2b846d4c-cc55-448d-9400-589b86f002d5",
       "identifiers": [
         {
+          "identifier": "12452866s",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "mamadou_lamine_diallo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "29628759",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3284840",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mamadou Lamine Diallo"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mamadou_Lamine_Diallo"
+        }
+      ],
+      "name": "Mamadou Lamine Diallo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mamadou Lamine Diallo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mamadou Lamine Diallo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mamadou Lamine Diallo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "2d258ff5-e641-4458-8d7a-bf5cca72f2b2",
@@ -787,14 +824,43 @@
       "name": "Ndeye Lucie Cissé"
     },
     {
+      "birth_date": "1962-08-13",
+      "gender": "female",
       "id": "4615f5a2-8237-4b80-ab80-a2dd31976e35",
       "identifiers": [
         {
           "identifier": "anta_sarr",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17350914",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Anta Sarr"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anta_Sarr"
+        }
+      ],
+      "name": "Anta Sarr",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anta Sarr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anta Sarr",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Anta Sarr",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "47461d57-8bb9-4dab-904a-8ab39fbd71a1",
