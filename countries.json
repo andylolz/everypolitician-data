@@ -3003,11 +3003,11 @@
         "slug": "Logting",
         "sources_directory": "data/Faroe_Islands/Logting/sources",
         "popolo": "data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/48bb86c304d939ad3d51f0a08591e51f09cece9c/data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5894b2ad6e1ecfe842063267dab74099c08a4b61/data/Faroe_Islands/Logting/ep-popolo-v1.0.json",
         "names": "data/Faroe_Islands/Logting/names.csv",
-        "lastmod": "1487191432",
+        "lastmod": "1487852968",
         "person_count": 103,
-        "sha": "48bb86c304d939ad3d51f0a08591e51f09cece9c",
+        "sha": "5894b2ad6e1ecfe842063267dab74099c08a4b61",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -3081,7 +3081,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/007547d714b196f7f6332b5add2b8402b387b5c7/data/Faroe_Islands/Logting/term-1990.csv"
           }
         ],
-        "statement_count": 7735,
+        "statement_count": 7738,
         "type": "unicameral legislature"
       }
     ]
