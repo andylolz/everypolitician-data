@@ -42,6 +42,15 @@
       }
     },
     {
+      "file": "morph/cabinet.csv",
+      "type": "wikidata-cabinet",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/italy-positions",
+        "query": "SELECT * FROM data ORDER BY id, position, start_date"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
