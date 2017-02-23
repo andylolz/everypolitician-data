@@ -13515,6 +13515,9 @@
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/16th/zamora-r.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ronaldo_Zamora_(cropped).jpg"
         }
       ],
       "links": [
@@ -14698,6 +14701,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ينغ_جياو"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Yeng_Guiao"
         },
@@ -14711,6 +14718,11 @@
         {
           "name": "Yeng Guiao",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "ينغ جياو",
+          "note": "multilingual"
         },
         {
           "lang": "de",
