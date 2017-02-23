@@ -698,11 +698,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9375cd59255ec5afd9ba3f35d922e3640b421da5/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/adb28a7ed0e7dfd5dc23fc9239047c6690aff812/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
         "lastmod": "1487198933",
         "person_count": 257,
-        "sha": "9375cd59255ec5afd9ba3f35d922e3640b421da5",
+        "sha": "adb28a7ed0e7dfd5dc23fc9239047c6690aff812",
         "legislative_periods": [
           {
             "id": "term/45",
