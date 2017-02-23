@@ -688,21 +688,39 @@
     {
       "contact_details": [
         {
+          "type": "email",
+          "value": "hussainian.hse@gmail.com"
+        },
+        {
           "type": "phone",
           "value": "08036337217"
         }
       ],
+      "email": "hussainian.hse@gmail.com",
       "id": "244d7026-f7a3-4334-ad1c-8a9a8dca123f",
+      "identifiers": [
+        {
+          "identifier": "salihu-egye",
+          "scheme": "shineyoureye"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/519.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/519.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/APC_-_Salihu_Egye.jpg"
         }
       ],
       "name": "HUSSAIN SALIHU",
       "other_names": [
         {
           "name": "HUSSAIN EGYE SALIHU",
+          "note": "alternate"
+        },
+        {
+          "name": "Salihu Egye",
           "note": "alternate"
         }
       ]
