@@ -686,6 +686,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "phone",
+          "value": "08036337217"
+        }
+      ],
+      "id": "244d7026-f7a3-4334-ad1c-8a9a8dca123f",
+      "image": "http://www.nass.gov.ng/images/mps/519.jpg",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/519.jpg"
+        }
+      ],
+      "name": "HUSSAIN SALIHU",
+      "other_names": [
+        {
+          "name": "HUSSAIN EGYE SALIHU",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "birth_date": "1957-10-01",
       "contact_details": [
         {
@@ -2202,6 +2224,16 @@
       ]
     },
     {
+      "id": "78a5c98d-8bbb-45ec-8faa-937d77a93191",
+      "name": "ATAI USMAN",
+      "other_names": [
+        {
+          "name": "ATAI AIDOKO ALI USMAN",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "birth_date": "1970-04-14",
       "contact_details": [
         {
@@ -2948,7 +2980,7 @@
         },
         {
           "note": "Wikipedia (yo)",
-          "url": "https://yo.wikipedia.org/wiki/Suleiman_Adokwe"
+          "url": "https://yo.wikipedia.org/wiki/Suleiman_Asonya_Adokwe"
         }
       ],
       "name": "SULEIMAN ADOKWE",
@@ -5370,6 +5402,22 @@
       ]
     },
     {
+      "id": "f8a2b149-a5ae-43c2-a3de-249c8da9e5fe",
+      "image": "http://www.nass.gov.ng/images/mps/204.jpg",
+      "images": [
+        {
+          "url": "http://www.nass.gov.ng/images/mps/204.jpg"
+        }
+      ],
+      "name": "MAGNUS ABE",
+      "other_names": [
+        {
+          "name": "MAGNUS NGEI ABE",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "birth_date": "1956-12-02",
       "gender": "male",
       "id": "f95eee1d-5f81-4813-8164-7e1cc908e878",
@@ -6115,6 +6163,19 @@
       ]
     },
     {
+      "area_id": "area/nasarawa_south,_nassarawa_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "10da9af5-426a-4857-9ae5-54c594e5f877",
+      "person_id": "244d7026-f7a3-4334-ad1c-8a9a8dca123f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/519"
+        }
+      ]
+    },
+    {
       "area_id": "area/gombe_south,_gombe_state",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "PDP",
@@ -6488,6 +6549,19 @@
       "sources": [
         {
           "url": "http://www.nass.gov.ng/mp/profile/600"
+        }
+      ]
+    },
+    {
+      "area_id": "area/kogi_east,_kogi_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "10da9af5-426a-4857-9ae5-54c594e5f877",
+      "person_id": "78a5c98d-8bbb-45ec-8faa-937d77a93191",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/144"
         }
       ]
     },
@@ -7307,6 +7381,19 @@
       "sources": [
         {
           "url": "http://nass.gov.ng/mp/profile/506"
+        }
+      ]
+    },
+    {
+      "area_id": "area/rivers_south_east,_rivers_state",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "APC",
+      "organization_id": "10da9af5-426a-4857-9ae5-54c594e5f877",
+      "person_id": "f8a2b149-a5ae-43c2-a3de-249c8da9e5fe",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.nass.gov.ng/mp/profile/204"
         }
       ]
     },
