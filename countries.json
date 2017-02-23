@@ -5171,11 +5171,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Kenya/Assembly/sources",
         "popolo": "data/Kenya/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3b36a806dc03d78dacffd10ffee258b13516bd2e/data/Kenya/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1464f2ccd9238bcf995866cfdc49ff98ec9a4889/data/Kenya/Assembly/ep-popolo-v1.0.json",
         "names": "data/Kenya/Assembly/names.csv",
         "lastmod": "1487130560",
         "person_count": 355,
-        "sha": "3b36a806dc03d78dacffd10ffee258b13516bd2e",
+        "sha": "1464f2ccd9238bcf995866cfdc49ff98ec9a4889",
         "legislative_periods": [
           {
             "id": "term/11",
