@@ -5402,11 +5402,30 @@
       ]
     },
     {
+      "birth_date": "1965-05-24",
+      "gender": "male",
+      "given_name": "Magnus",
       "id": "f8a2b149-a5ae-43c2-a3de-249c8da9e5fe",
+      "identifiers": [
+        {
+          "identifier": "Q6732156",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/204.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/204.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Magnus_Ngei_Abe"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Magnus_Ngei_Abe"
         }
       ],
       "name": "MAGNUS ABE",
@@ -5414,6 +5433,35 @@
         {
           "name": "MAGNUS NGEI ABE",
           "note": "alternate"
+        },
+        {
+          "name": "Magnus Ngei Abe",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Magnus Ngei Abe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Magnus Ngei Abe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Magnus Ngei Abe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Magnus Ngei Abe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Magnus Ngei Abe",
+          "note": "multilingual"
         }
       ]
     },
