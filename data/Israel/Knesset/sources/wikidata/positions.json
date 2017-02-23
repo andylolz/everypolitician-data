@@ -8574,6 +8574,24 @@
         "P580": "1949-02-14",
         "P582": "1971-08-07"
       }
+    },
+    {
+      "id": "Q7970888",
+      "label": "Warsaw City Council",
+      "title": "Warsaw City Council",
+      "qualifiers": {
+        "P580": "1924",
+        "P453": "member"
+      }
+    },
+    {
+      "id": "Q223732",
+      "label": "Declaration of the Establishment of the State of Israel",
+      "title": "Declaration of the Establishment of the State of Israel",
+      "description": "declaration of independence",
+      "qualifiers": {
+        "P453": "signatory"
+      }
     }
   ],
   "Q2909120": [
