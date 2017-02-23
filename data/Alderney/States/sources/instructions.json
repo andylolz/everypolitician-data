@@ -12,7 +12,7 @@
         "scraper": "everypolitician-scrapers/Alderney",
         "query": "SELECT *, 2017 AS term FROM data ORDER BY id"
       },
-      "source": "http://www.alderney.gov.gg/article/4077/States-Members",
+      "source": "http://www.alderney.gov.gg",
       "type": "membership",
       "merge": {
         "incoming_field": "name",
