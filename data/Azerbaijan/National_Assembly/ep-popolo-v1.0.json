@@ -3351,6 +3351,10 @@
           "url": "https://az.wikipedia.org/wiki/İsa_Həbibbəyli"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Isa_Habibbayli"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Габиббейли,_Иса_Акпер_оглы"
         }
@@ -4252,6 +4256,10 @@
           "url": "https://cs.wikipedia.org/wiki/Mehriban_Alijeva"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mehriban_Əliyeva"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mehriban_Aliyeva"
         },
@@ -4296,8 +4304,16 @@
           "url": "https://ru.wikipedia.org/wiki/Алиева,_Мехрибан_Ариф_кызы"
         },
         {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Мехрибан_Алиева"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Mehriban_Əliyeva"
+        },
+        {
+          "note": "Wikipedia (tg)",
+          "url": "https://tg.wikipedia.org/wiki/Меҳрубон_Алиева"
         },
         {
           "note": "Wikipedia (tr)",
@@ -4445,7 +4461,7 @@
         },
         {
           "lang": "ru",
-          "name": "Алиева, Мехрибан Ариф кызы",
+          "name": "Мехрибан Ариф кызы Алиева",
           "note": "multilingual"
         },
         {
@@ -4455,7 +4471,7 @@
         },
         {
           "lang": "tg",
-          "name": "Меҳрибан Алиева",
+          "name": "Меҳрубон Алиева",
           "note": "multilingual"
         },
         {
