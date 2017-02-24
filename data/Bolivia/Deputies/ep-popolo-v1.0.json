@@ -524,6 +524,23 @@
       "name": "Francisco Cuellar Rios"
     },
     {
+      "gender": "male",
+      "id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
+      "identifiers": [
+        {
+          "identifier": "monron.oe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg",
+      "images": [
+        {
+          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg"
+        }
+      ],
+      "name": "Erik Morón Osinaga"
+    },
+    {
       "gender": "female",
       "id": "53605ee9-68a3-475b-89f1-eb9231c4e91f",
       "identifiers": [
@@ -2025,16 +2042,6 @@
       "name": "Jacinto Vega Rivero"
     },
     {
-      "id": "e68b50f4-511a-4e25-84b1-99069797e0d1",
-      "image": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg",
-      "images": [
-        {
-          "url": "http://www.diputados.bo/script/imagenes/Santa%20Cruz/moron.oe.jpg"
-        }
-      ],
-      "name": "Erik Morón Osinaga"
-    },
-    {
       "gender": "male",
       "id": "e82560b9-c43f-4446-8e79-0b4204f0166e",
       "identifiers": [
@@ -2951,6 +2958,19 @@
       "on_behalf_of_id": "party/mas",
       "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
       "person_id": "4f47ed65-585e-429f-8f14-5aa3070c5bcb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.diputados.bo/script/dip-index.php"
+        }
+      ]
+    },
+    {
+      "area_id": "area/santa_cruz",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/ud",
+      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
+      "person_id": "5103e0e5-5d30-4f6e-a7cf-1c9dacfb6dd2",
       "role": "member",
       "sources": [
         {
@@ -4069,19 +4089,6 @@
       "on_behalf_of_id": "party/mas",
       "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
       "person_id": "e630a680-7299-4d04-b242-ad633f72a14d",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.diputados.bo/script/dip-index.php"
-        }
-      ]
-    },
-    {
-      "area_id": "area/santa_cruz",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "party/ud",
-      "organization_id": "22b091f6-4031-4527-b7ea-b53e6f50b524",
-      "person_id": "e68b50f4-511a-4e25-84b1-99069797e0d1",
       "role": "member",
       "sources": [
         {
