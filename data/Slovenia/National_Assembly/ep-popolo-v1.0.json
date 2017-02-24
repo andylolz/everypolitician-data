@@ -99,6 +99,10 @@
       "id": "12fc9986-7cab-4219-bf17-f93df3e76e86",
       "identifiers": [
         {
+          "identifier": "206563939",
+          "scheme": "conor"
+        },
+        {
           "identifier": "018",
           "scheme": "everypolitician_legacy"
         },
@@ -858,6 +862,7 @@
     },
     {
       "birth_date": "1958-09-17",
+      "family_name": "Janša",
       "gender": "male",
       "given_name": "Janez",
       "id": "2e6bec82-c5a7-489b-aed4-c1b9afe30c35",
@@ -1889,6 +1894,10 @@
       "id": "4c7558ed-ef97-455b-b0f7-632cde5e2656",
       "identifiers": [
         {
+          "identifier": "216206179",
+          "scheme": "conor"
+        },
+        {
           "identifier": "169",
           "scheme": "everypolitician_legacy"
         },
@@ -2200,6 +2209,10 @@
       "given_name": "Luka",
       "id": "4d577194-acf2-42d1-b7dc-ce5ec7fa672e",
       "identifiers": [
+        {
+          "identifier": "204950371",
+          "scheme": "conor"
+        },
         {
           "identifier": "273",
           "scheme": "everypolitician_legacy"
@@ -4938,6 +4951,10 @@
       "id": "a36ebef7-01f2-4ea3-a9d2-b4f4f88ae0a2",
       "identifiers": [
         {
+          "identifier": "274294115",
+          "scheme": "conor"
+        },
+        {
           "identifier": "176",
           "scheme": "everypolitician_legacy"
         },
@@ -5440,6 +5457,10 @@
       "given_name": "Jani",
       "id": "b82a6b6f-1a7d-46d4-b2ea-838a81312033",
       "identifiers": [
+        {
+          "identifier": "180221283",
+          "scheme": "conor"
+        },
         {
           "identifier": "191",
           "scheme": "everypolitician_legacy"
@@ -7261,6 +7282,7 @@
     },
     {
       "birth_date": "1959-08-01",
+      "family_name": "Novak",
       "gender": "female",
       "given_name": "Ljudmila",
       "id": "d07617bc-6545-4076-8919-a666bfd7ddf8",
@@ -7886,6 +7908,7 @@
     },
     {
       "birth_date": "1972-01-30",
+      "family_name": "Pogačnik",
       "gender": "male",
       "given_name": "Marko",
       "id": "d8ad580c-c5e6-4187-838c-b9a97dcbc5c9",
@@ -9600,6 +9623,10 @@
       "given_name": "Franc",
       "id": "e1605dcf-172c-4e69-b75f-b70862a889d5",
       "identifiers": [
+        {
+          "identifier": "145006947",
+          "scheme": "conor"
+        },
         {
           "identifier": "122",
           "scheme": "everypolitician_legacy"
