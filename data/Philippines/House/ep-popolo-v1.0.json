@@ -10397,14 +10397,54 @@
       "name": "Almario, Joel Mayo Z."
     },
     {
+      "birth_date": "1942-12-20",
+      "gender": "male",
+      "given_name": "Danilo",
       "id": "ab0ed65d-9eef-48a5-bfdb-241f7c4d0482",
+      "identifiers": [
+        {
+          "identifier": "Q17371295",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/17th/suarez-d.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/suarez-d.jpg"
         }
       ],
-      "name": "Suarez, Danilo E."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Danilo_Suarez"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Danilo_Suarez"
+        }
+      ],
+      "name": "Suarez, Danilo E.",
+      "other_names": [
+        {
+          "name": "Danilo Suarez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Danilo Suarez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Danilo Suarez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Danilo Suarez",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "ab1cdda3-b74d-4246-a726-4623776eb7e7",
@@ -12140,11 +12180,16 @@
       "name": "Olivarez, Eric L."
     },
     {
+      "gender": "male",
       "id": "c0fe38b7-f24c-4779-bf97-c50f0ff4ebf9",
       "identifiers": [
         {
           "identifier": "eriguel-e",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17371060",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/eriguel-e.jpg",
@@ -12153,7 +12198,66 @@
           "url": "http://www.congress.gov.ph/members/images/16th/eriguel-e.jpg"
         }
       ],
-      "name": "Eriguel, Eufranio \"Franny\" C., M.D."
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eufranio_Eriguel"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Eufranio_Eriguel"
+        },
+        {
+          "note": "Wikipedia (ilo)",
+          "url": "https://ilo.wikipedia.org/wiki/Eufranio_Eriguel"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Eufranio_Eriguel"
+        }
+      ],
+      "name": "Eriguel, Eufranio \"Franny\" C., M.D.",
+      "other_names": [
+        {
+          "name": "Eufranio Eriguel",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Eufranio Eriguel",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
