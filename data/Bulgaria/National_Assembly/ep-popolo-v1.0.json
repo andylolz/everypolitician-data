@@ -25781,7 +25781,7 @@
         },
         {
           "lang": "he",
-          "name": "איוון קוסטוב",
+          "name": "איוואן קוסטוב",
           "note": "multilingual"
         },
         {
@@ -28986,6 +28986,10 @@
           "url": "https://en.wikipedia.org/wiki/Ognyan_Gerdzhikov"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ognian_Gerdzhikov"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ognyan_Guerdjikov"
         },
@@ -29016,6 +29020,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Огнян_Герджиков"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/奧格尼揚·格爾吉科夫"
         }
       ],
       "name": "ОГНЯН СТЕФАНОВ ГЕРДЖИКОВ",
@@ -31153,6 +31161,11 @@
         {
           "lang": "fr",
           "name": "Ahmed Dogan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אחמד דוגאן",
           "note": "multilingual"
         },
         {
