@@ -3299,6 +3299,10 @@
           "url": "https://ga.wikipedia.org/wiki/Alex_White"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alex_White"
+        },
+        {
           "note": "website",
           "url": "http://www.alexwhite.ie"
         }
@@ -20147,6 +20151,10 @@
         {
           "identifier": "/m/0csxt4",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "Tom-Hayes-26",
+          "scheme": "quora"
         },
         {
           "identifier": "Q3777584",
