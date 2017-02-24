@@ -7867,11 +7867,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Portugal/Assembly/sources",
         "popolo": "data/Portugal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eef6fe4376f64dfbee3d09c9d89ca8ee318abd9f/data/Portugal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23d4c3aa0bdf78cada4a671b89a7edf29afc43cf/data/Portugal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Portugal/Assembly/names.csv",
-        "lastmod": "1487175373",
+        "lastmod": "1487910611",
         "person_count": 1356,
-        "sha": "eef6fe4376f64dfbee3d09c9d89ca8ee318abd9f",
+        "sha": "23d4c3aa0bdf78cada4a671b89a7edf29afc43cf",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -7990,7 +7990,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 49633,
+        "statement_count": 49636,
         "type": "unicameral legislature"
       }
     ]
