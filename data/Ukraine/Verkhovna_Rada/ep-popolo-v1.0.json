@@ -32227,6 +32227,25 @@
       "patronymic_name": "Петрович"
     },
     {
+      "family_name": "Бендюженко",
+      "given_name": "Федір",
+      "id": "f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
+      "identifiers": [
+        {
+          "identifier": "19550",
+          "scheme": "rada"
+        }
+      ],
+      "image": "http://static.rada.gov.ua/dep_img8/nf80.jpg",
+      "images": [
+        {
+          "url": "http://static.rada.gov.ua/dep_img8/nf80.jpg"
+        }
+      ],
+      "name": "Бендюженко Федір Володимирович",
+      "patronymic_name": "Володимирович"
+    },
+    {
       "birth_date": "1978-05-31",
       "family_name": "Іонова",
       "gender": "female",
@@ -36202,11 +36221,21 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2017-02-21",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2615",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "022c3a2d-6b80-4d76-82ff-a057903c9f04",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "022c3a2d-6b80-4d76-82ff-a057903c9f04",
+      "role": "member",
+      "start_date": "2017-02-22"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -40900,6 +40929,15 @@
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "f37b0ccf-7328-41d7-b255-8331e388e82e",
       "role": "member"
+    },
+    {
+      "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
+      "role": "member",
+      "start_date": "2017-02-21"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
