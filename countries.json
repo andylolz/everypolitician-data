@@ -7684,11 +7684,11 @@
         "slug": "House",
         "sources_directory": "data/Philippines/House/sources",
         "popolo": "data/Philippines/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ffcca1d0d804e41762c605ef872bbd9a3a9cad7/data/Philippines/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0760c34360a857ec36c4d159e56095e31448a1a6/data/Philippines/House/ep-popolo-v1.0.json",
         "names": "data/Philippines/House/names.csv",
-        "lastmod": "1487132568",
+        "lastmod": "1487926982",
         "person_count": 431,
-        "sha": "7ffcca1d0d804e41762c605ef872bbd9a3a9cad7",
+        "sha": "0760c34360a857ec36c4d159e56095e31448a1a6",
         "legislative_periods": [
           {
             "id": "term/17",
@@ -7696,7 +7696,7 @@
             "start_date": "2016-07-25",
             "slug": "17",
             "csv": "data/Philippines/House/term-17.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84b0df8afa05b3b16be661a2496b5b22781bd393/data/Philippines/House/term-17.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0760c34360a857ec36c4d159e56095e31448a1a6/data/Philippines/House/term-17.csv"
           },
           {
             "end_date": "2016-06-06",
@@ -7705,10 +7705,10 @@
             "start_date": "2013-07-22",
             "slug": "16",
             "csv": "data/Philippines/House/term-16.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38c4d82656538097752a1c748596dd561a432b7a/data/Philippines/House/term-16.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0760c34360a857ec36c4d159e56095e31448a1a6/data/Philippines/House/term-16.csv"
           }
         ],
-        "statement_count": 12655,
+        "statement_count": 12715,
         "type": "lower house"
       }
     ]
