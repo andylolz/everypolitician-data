@@ -4398,11 +4398,11 @@
         "slug": "Legislative-Council",
         "sources_directory": "data/Hong_Kong/Legislative_Council/sources",
         "popolo": "data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/02f88de96b8695466951b9625d5aeaa3db3fb5a2/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e65c69c637feb7fbb2267f857cc1dbdea88ffd98/data/Hong_Kong/Legislative_Council/ep-popolo-v1.0.json",
         "names": "data/Hong_Kong/Legislative_Council/names.csv",
-        "lastmod": "1487239939",
+        "lastmod": "1487904161",
         "person_count": 98,
-        "sha": "02f88de96b8695466951b9625d5aeaa3db3fb5a2",
+        "sha": "e65c69c637feb7fbb2267f857cc1dbdea88ffd98",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -4422,7 +4422,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aea5e11cd92c7ab9f7be934bfdec000e18179666/data/Hong_Kong/Legislative_Council/term-5.csv"
           }
         ],
-        "statement_count": 8859,
+        "statement_count": 8861,
         "type": "unicameral legislature"
       }
     ]
