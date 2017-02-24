@@ -1064,11 +1064,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Belgium/Representatives/sources",
         "popolo": "data/Belgium/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/342ffec93785203fa12b08c97636b26a17e5bd1f/data/Belgium/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b95612d943a06232f0bf90a7c233a5e4038fa808/data/Belgium/Representatives/ep-popolo-v1.0.json",
         "names": "data/Belgium/Representatives/names.csv",
-        "lastmod": "1487544605",
+        "lastmod": "1487929248",
         "person_count": 170,
-        "sha": "342ffec93785203fa12b08c97636b26a17e5bd1f",
+        "sha": "b95612d943a06232f0bf90a7c233a5e4038fa808",
         "legislative_periods": [
           {
             "id": "term/54",
@@ -1079,7 +1079,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9924bc55839b4bc21c6a9686082b3d6f73d06e28/data/Belgium/Representatives/term-54.csv"
           }
         ],
-        "statement_count": 13620,
+        "statement_count": 13632,
         "type": "lower house"
       }
     ]
