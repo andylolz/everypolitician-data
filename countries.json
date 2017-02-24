@@ -9075,11 +9075,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Slovenia/National_Assembly/sources",
         "popolo": "data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ba5bc5056480a89fd85bb88a54d026e0c1cb783b/data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cac830f663a0192ce8e74606d131c8c72f9757a4/data/Slovenia/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Slovenia/National_Assembly/names.csv",
-        "lastmod": "1487229890",
+        "lastmod": "1487912486",
         "person_count": 93,
-        "sha": "ba5bc5056480a89fd85bb88a54d026e0c1cb783b",
+        "sha": "cac830f663a0192ce8e74606d131c8c72f9757a4",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -9090,7 +9090,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/96241e2aaf7d04d879e666e93b76d6d5e1e672c7/data/Slovenia/National_Assembly/term-7.csv"
           }
         ],
-        "statement_count": 7415,
+        "statement_count": 7430,
         "type": "lower house"
       }
     ]
