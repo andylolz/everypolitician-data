@@ -11293,6 +11293,10 @@
           "url": "https://ptwikiquote.wikipedia.org/wiki/Jerónimo_de_Sousa"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Жерониму_де_Суза"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/热罗尼莫·德索萨"
         }
@@ -12929,6 +12933,11 @@
         },
         {
           "lang": "mwl",
+          "name": "António Guterres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
           "name": "António Guterres",
           "note": "multilingual"
         },
