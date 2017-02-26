@@ -1104,6 +1104,10 @@
           "url": "https://eo.wikipedia.org/wiki/Serge_Vohor"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Serge_Vohor"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Serge_Vohor"
         },
@@ -2418,6 +2422,11 @@
         },
         {
           "lang": "en",
+          "name": "Robert Bohn Sikol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Robert Bohn Sikol",
           "note": "multilingual"
         },
