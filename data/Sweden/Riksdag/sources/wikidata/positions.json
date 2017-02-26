@@ -5250,7 +5250,10 @@
       "id": "Q10655178",
       "label": "Member of the Riksdag",
       "title": "Member of the Riksdag",
-      "description": "Member of the Swedish parlament"
+      "description": "Member of the Swedish parlament",
+      "qualifiers": {
+        "P580": "1998-10-05"
+      }
     },
     {
       "id": "Q3315958",
@@ -5258,10 +5261,19 @@
       "title": "Minister for Justice",
       "description": "Swedish cabinet minister",
       "qualifiers": {
-        "P580": "1982",
-        "P582": "1983",
-        "P1366": "Sten Wickbom",
-        "P1365": "Carl Axel Petri"
+        "P580": "2014-10-03",
+        "P1365": "Beatrice Ask"
+      }
+    },
+    {
+      "id": "Q3273722",
+      "label": "health minister",
+      "title": "health minister",
+      "description": "minister in charge of health matters",
+      "qualifiers": {
+        "P580": "2002-09-30",
+        "P582": "2006-10-06",
+        "P1366": "Maria Larsson"
       }
     }
   ],
