@@ -258,7 +258,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 3955,Gavin Barwell,"Barwell, Gavin",1972-01-23,"",male,gavin.barwell.mp@parliament.uk,020 7219 2119,"",http://www.gavinbarwell.com/,https://twitter.com/GavinBarwellMP,"","","","",72243,5519
 3956,Susan Elan Jones,"Jones, Susan Elan",1968-06-01,"",female,susan.jones.mp@parliament.uk,020 7219 0920,"",http://www.susanelanjones.co.uk,https://twitter.com/susanelanjones,"","","","",83418,5602
 3957,Martin Vickers,"Vickers, Martin",1950-09-13,"",male,martin.vickers.mp@parliament.uk,020 7219 7212,"",http://www.martinvickers.org.uk/,https://twitter.com/martinvickersmp,"","","","",40371,5540
-3958,Fiona Bruce,"Bruce, Fiona",1957-03-26,"",female,fiona.bruce.mp@parliament.uk,020 7219 7042,020 7219 1258,http://fionabruce.mp/,"","","","","",35510,5527
+3958,Fiona Bruce,"Bruce, Fiona",1957-03-26,"",female,fiona.bruce.mp@parliament.uk,020 7219 7042,020 7219 1258,http://www.fionabruce.org.uk/,"","","","","",35510,5527
 3960,Henry Smith,"Smith, Henry",1969-05-14,"",male,henry.smith.mp@parliament.uk,020 7219 7043,"",http://henrysmith.info/,https://twitter.com/HenrySmithMP,https://www.facebook.com/henrysmithmp,"","","",35320,5533
 3966,Ian Murray,"Murray, Ian",1976-08-10,"",male,ian.murray.mp@parliament.uk ; ian@ianmurraymp.co.uk,020 7219 7064,"",http://www.ianmurraymp.co.uk,https://twitter.com/IanMurrayMP,"","","","",85111,5730
 3969,Damian Hinds,"Hinds, Damian",1969-11-27,"",male,damian.hinds.mp@parliament.uk,020 7219 7057,"",http://www.damianhinds.com/,"","","","","",35480,5583
@@ -626,6 +626,8 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4589,Robert Courts,"Courts, Robert",1978-10-21,"",male,robert.courts.mp@parliament.uk,0207 219 5638,"",http://www.robertcourts.co.uk/,https://twitter.com/robertcourts,"","","","",134363,6189
 4591,Sarah Olney,"Olney, Sarah","","",female,sarah.olney.mp@parliament.uk,0207 219 3000,"","","","","","","",145640,6191
 4592,Dr Caroline Johnson,"Johnson, Dr Caroline","","",female,caroline.johnson.mp@parliament.uk,0207 219 3000,"",http://www.carolinejohnson.co.uk/,https://twitter.com/drcarolinej,"","","","",77483,6192
+4593,Trudy Harrison,"Harrison, Trudy",1976-04-19,"",female,"",0207 219 3000,"","","","","","","",147214,""
+4595,Gareth Snell,"Snell, Gareth","","",male,"",0207 219 3000,"","","","","","","",147215,""
 46,Sir Simon Burns,"Burns, Sir Simon",1952-09-06,"",male,burnss@parliament.uk,020 7219 6811,"",http://www.simonburnsmp.com/,"","","","","",25788,2380
 465,Gordon Marsden,"Marsden, Gordon",1953-11-28,"",male,gordonmarsdenmp@parliament.uk,020 7219 1262,020 7219 5859,http://www.gordonmarsden.co.uk,https://twitter.com/GordonMarsden,"","","","",25439,1704
 467,Mr Lindsay Hoyle,"Hoyle, Mr Lindsay",1957-06-10,"",male,Lindsay.hoyle.mp@parliament.uk,020 7219 3515,"","",https://twitter.com/LindsayHoyle_MP,"","","","",25512,1050
