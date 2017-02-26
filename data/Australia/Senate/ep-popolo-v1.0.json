@@ -6026,6 +6026,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "Gareth-Evans-33",
+          "scheme": "quora"
+        },
+        {
           "identifier": "w6c55c3r",
           "scheme": "snac"
         },
@@ -7689,6 +7693,10 @@
         {
           "identifier": "10038",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Cory-Bernardi-1",
+          "scheme": "quora"
         },
         {
           "identifier": "Q4354299",
@@ -10520,6 +10528,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "Penny-Wong-6",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q456759",
           "scheme": "wikidata"
         }
@@ -12934,6 +12946,12 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.stirlinggriff.com.au"
         }
       ],
       "name": "Stirling Griff",
@@ -19853,7 +19871,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Mitch_Fifield.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/694271009277358080/Z6PqyhIL.jpg"
+          "url": "https://pbs.twimg.com/profile_images/835009845627498496/BMU94VBH.jpg"
         }
       ],
       "links": [
