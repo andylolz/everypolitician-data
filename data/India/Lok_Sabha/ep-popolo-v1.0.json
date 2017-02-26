@@ -9199,6 +9199,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "Bandaru-Dattatreya",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q4854461",
           "scheme": "wikidata"
         }
@@ -10286,6 +10290,10 @@
         {
           "identifier": "4315",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Mallikarjun-Kharge",
+          "scheme": "quora"
         },
         {
           "identifier": "Q6744197",
@@ -12801,6 +12809,10 @@
         {
           "identifier": "4642",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Mahesh-Sharma-4",
+          "scheme": "quora"
         },
         {
           "identifier": "Q16890620",
@@ -16078,6 +16090,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "Malla-Reddy-5",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q16897843",
           "scheme": "wikidata"
         }
@@ -18713,6 +18729,10 @@
         {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/சீதாராம்_நாயக்_அஸ்மீரா"
+        },
+        {
+          "note": "Wikipedia (te)",
+          "url": "https://te.wikipedia.org/wiki/సీతారాం_నాయక్"
         }
       ],
       "name": "Naik, Prof. Azmeera Seetaram",
@@ -19305,6 +19325,10 @@
         {
           "identifier": "1190294",
           "scheme": "kinopoisk"
+        },
+        {
+          "identifier": "Manoj-Tiwari-78",
+          "scheme": "quora"
         },
         {
           "identifier": "176784295",
@@ -24288,6 +24312,11 @@
         {
           "lang": "ta",
           "name": "கே. பிரபாகர் ரெட்டி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "కొత్త ప్రభాకర్ రెడ్డి",
           "note": "multilingual"
         }
       ]
@@ -35532,6 +35561,10 @@
         {
           "identifier": "/m/0b5464",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "B-S-Yeddyurappa",
+          "scheme": "quora"
         },
         {
           "identifier": "Q795241",
@@ -54114,6 +54147,10 @@
         {
           "identifier": "4641",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Giriraj-Singh-16",
+          "scheme": "quora"
         },
         {
           "identifier": "Q16736894",
