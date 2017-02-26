@@ -21198,6 +21198,14 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1083049372",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2016044960",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "000198343",
           "scheme": "lnb"
         },
@@ -29397,6 +29405,10 @@
         {
           "identifier": "72C3E05FFA1051E1C2257D7B0032D9E1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "000182665",
+          "scheme": "lnb"
         },
         {
           "identifier": "305099131",
