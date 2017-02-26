@@ -7636,6 +7636,10 @@
           "url": "https://ja.wikipedia.org/wiki/クル・バハドゥール・グルング"
         },
         {
+          "note": "Wikipedia (mai)",
+          "url": "https://mai.wikipedia.org/wiki/कुल_बहादुर_गुरुङ"
+        },
+        {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/कुल_बहादुर_गुरुङ"
         }
@@ -7664,6 +7668,11 @@
         {
           "lang": "ja",
           "name": "クル・バハドゥール・グルング",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "कुल बहादुर गुरुङ",
           "note": "multilingual"
         },
         {
@@ -13928,6 +13937,10 @@
           "url": "https://en.wikipedia.org/wiki/Surendra_Pandey"
         },
         {
+          "note": "Wikipedia (mai)",
+          "url": "https://mai.wikipedia.org/wiki/सुरेन्द्र_बहादुर_पाण्डे"
+        },
+        {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/सुरेन्द्र_पाण्डे"
         }
@@ -13951,6 +13964,11 @@
         {
           "lang": "fr",
           "name": "Surendra Pandey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "सुरेन्द्र बहादुर पाण्डे",
           "note": "multilingual"
         },
         {
