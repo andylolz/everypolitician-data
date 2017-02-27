@@ -11197,11 +11197,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Vanuatu/Parliament/sources",
         "popolo": "data/Vanuatu/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/589b26a1d0dd6091dcc3bfa36e9ab94a227f0e05/data/Vanuatu/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c9e1e5feb05cfcbba445a26e6cef067dfd1656d0/data/Vanuatu/Parliament/ep-popolo-v1.0.json",
         "names": "data/Vanuatu/Parliament/names.csv",
-        "lastmod": "1485437735",
+        "lastmod": "1488143099",
         "person_count": 96,
-        "sha": "589b26a1d0dd6091dcc3bfa36e9ab94a227f0e05",
+        "sha": "c9e1e5feb05cfcbba445a26e6cef067dfd1656d0",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -11221,7 +11221,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6bed61296869c11c2e4945a0fcbf757405a937b5/data/Vanuatu/Parliament/term-10.csv"
           }
         ],
-        "statement_count": 2996,
+        "statement_count": 3001,
         "type": "unicameral legislature"
       }
     ]
