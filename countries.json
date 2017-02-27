@@ -3972,11 +3972,11 @@
         "slug": "Inatsisartut",
         "sources_directory": "data/Greenland/Inatsisartut/sources",
         "popolo": "data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/56e14b92039b7bd46b2a45f557f691e2ae61345b/data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/17229d6916b54cbda50e06b71ef7d8ea99c35fcf/data/Greenland/Inatsisartut/ep-popolo-v1.0.json",
         "names": "data/Greenland/Inatsisartut/names.csv",
-        "lastmod": "1486204178",
+        "lastmod": "1488140807",
         "person_count": 154,
-        "sha": "56e14b92039b7bd46b2a45f557f691e2ae61345b",
+        "sha": "17229d6916b54cbda50e06b71ef7d8ea99c35fcf",
         "legislative_periods": [
           {
             "id": "term/12",
