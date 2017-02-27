@@ -11358,23 +11358,6 @@
       "name": "Guðný Guðbjörnsdóttir"
     },
     {
-      "gender": "male",
-      "id": "8bfc2ee5-bca4-4140-948b-f76194bf87bd",
-      "identifiers": [
-        {
-          "identifier": "höskuldur_Þór_Þórhallsson",
-          "scheme": "everypolitician_legacy"
-        }
-      ],
-      "links": [
-        {
-          "note": "wikipedia",
-          "url": "Höskuldur Þór Þórhallsson"
-        }
-      ],
-      "name": "Höskuldur Þór Þórhallsson"
-    },
-    {
       "birth_date": "1945-11-23",
       "gender": "male",
       "given_name": "Sturla",
@@ -17242,11 +17225,15 @@
         },
         {
           "note": "wikipedia",
-          "url": "Höskuldur Þórhallsson"
+          "url": "Höskuldur Þór Þórhallsson"
         }
       ],
-      "name": "Höskuldur Þórhallsson",
+      "name": "Höskuldur Þór Þórhallsson",
       "other_names": [
+        {
+          "name": "Höskuldur Þórhallsson",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Höskuldur Þórhallsson",
@@ -23298,14 +23285,6 @@
       ]
     },
     {
-      "area_id": "area/northeast_constituency",
-      "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
-      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
-      "person_id": "8bfc2ee5-bca4-4140-948b-f76194bf87bd",
-      "role": "member"
-    },
-    {
       "area_id": "area/western_region",
       "legislative_period_id": "term/1995",
       "on_behalf_of_id": "independence_party",
@@ -25167,6 +25146,14 @@
           "url": "https://en.wikipedia.org/wiki/List_of_members_of_the_parliament_of_Iceland,_2009%E2%80%9313"
         }
       ]
+    },
+    {
+      "area_id": "area/northeast_constituency",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "progressive_party",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "f7023bcc-53de-421f-9e15-9eec3005e9c5",
+      "role": "member"
     },
     {
       "area_id": "area/westfjords",
