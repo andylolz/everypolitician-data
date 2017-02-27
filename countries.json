@@ -7280,11 +7280,11 @@
         "slug": "Storting",
         "sources_directory": "data/Norway/Storting/sources",
         "popolo": "data/Norway/Storting/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf5e57454139907f04cb2ce033c6e10ae0a95a89/data/Norway/Storting/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4407d06c6cfa09abad0a958cdb2e3294b141724c/data/Norway/Storting/ep-popolo-v1.0.json",
         "names": "data/Norway/Storting/names.csv",
-        "lastmod": "1487550381",
+        "lastmod": "1488127913",
         "person_count": 1141,
-        "sha": "bf5e57454139907f04cb2ce033c6e10ae0a95a89",
+        "sha": "4407d06c6cfa09abad0a958cdb2e3294b141724c",
         "legislative_periods": [
           {
             "end_date": "2017-09-30",
@@ -7449,7 +7449,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/308b9d3f9cbf1141e402192f6c99ea4eb22dcdc5/data/Norway/Storting/term-1945-49.csv"
           }
         ],
-        "statement_count": 84412,
+        "statement_count": 84870,
         "type": "unicameral legislature"
       }
     ]
