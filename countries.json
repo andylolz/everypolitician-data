@@ -6788,11 +6788,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Nepal/Assembly/sources",
         "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fee21969a33c4090a52a3c74fe83e50b4a0b3b2f/data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/627df17855307968c652b7893123963ab693b2f1/data/Nepal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Nepal/Assembly/names.csv",
-        "lastmod": "1485706073",
+        "lastmod": "1488118370",
         "person_count": 550,
-        "sha": "fee21969a33c4090a52a3c74fe83e50b4a0b3b2f",
+        "sha": "627df17855307968c652b7893123963ab693b2f1",
         "legislative_periods": [
           {
             "id": "term/ca2",
@@ -6803,7 +6803,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fee21969a33c4090a52a3c74fe83e50b4a0b3b2f/data/Nepal/Assembly/term-ca2.csv"
           }
         ],
-        "statement_count": 12983,
+        "statement_count": 12993,
         "type": "unicameral legislature"
       }
     ]
