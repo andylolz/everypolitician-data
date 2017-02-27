@@ -481,6 +481,11 @@
         "lang": "tl",
         "name": "SPD",
         "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "SPD",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -971,6 +976,11 @@
       },
       {
         "lang": "tl",
+        "name": "SPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
         "name": "SPD",
         "note": "multilingual"
       }
@@ -3293,6 +3303,11 @@
       },
       {
         "lang": "ro",
+        "name": "FDP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
         "name": "FDP",
         "note": "multilingual"
       }
@@ -6295,7 +6310,7 @@
       },
       {
         "lang": "nb",
-        "name": "Südschleswigscher Wählerverband",
+        "name": "Sydslesvigsk Vælgerforening",
         "note": "multilingual"
       },
       {
@@ -6485,7 +6500,7 @@
       },
       {
         "lang": "nb",
-        "name": "Sydslesvigsk Vælgerforening",
+        "name": "Südschleswigscher Wählerverband",
         "note": "multilingual"
       },
       {
@@ -7036,12 +7051,6 @@
         "lang": "nl",
         "name": "Deutsche Partei",
         "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.deutsche-partei-dp.de",
-        "note": "website"
       }
     ]
   },
