@@ -6819,11 +6819,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Netherlands/House_of_Representatives/sources",
         "popolo": "data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/29d0d59a0cad9917c13dca026bff7f85e93585de/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b0807ee3e502f28ecef5ea5ff4d2b4c72ef16ea3/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Netherlands/House_of_Representatives/names.csv",
-        "lastmod": "1487546798",
+        "lastmod": "1488076511",
         "person_count": 194,
-        "sha": "29d0d59a0cad9917c13dca026bff7f85e93585de",
+        "sha": "b0807ee3e502f28ecef5ea5ff4d2b4c72ef16ea3",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -6834,7 +6834,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dfed9cde4d85d93b2069c49002e72c51b2ac2efc/data/Netherlands/House_of_Representatives/term-2012.csv"
           }
         ],
-        "statement_count": 17284,
+        "statement_count": 17299,
         "type": "lower house"
       }
     ]
