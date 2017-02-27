@@ -6817,11 +6817,16 @@
     },
     {
       "birth_date": "1949-12-15",
+      "gender": "male",
       "id": "2729c716-0f8f-4e48-8187-41e132a1dd68",
       "identifiers": [
         {
           "identifier": "127",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q28555825",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=127&type=deputado",
@@ -6830,7 +6835,25 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=127&type=deputado"
         }
       ],
-      "name": "Pedro Holstein Campilho"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Pedro_Holstein_Campilho"
+        }
+      ],
+      "name": "Pedro Holstein Campilho",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Pedro Holstein Campilho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pedro Holstein Campilho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-01-12",
@@ -17872,11 +17895,16 @@
     },
     {
       "birth_date": "1972-09-23",
+      "gender": "male",
       "id": "61a17036-d6c5-48f9-876e-0a0ee608156e",
       "identifiers": [
         {
           "identifier": "5751",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q28555817",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5751&type=deputado",
@@ -17885,7 +17913,25 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5751&type=deputado"
         }
       ],
-      "name": "Filipe Anacoreta Correia"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Filipe_Anacoreta_Correia"
+        }
+      ],
+      "name": "Filipe Anacoreta Correia",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Filipe Anacoreta Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Filipe Anacoreta Correia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-09-27",
@@ -20174,6 +20220,10 @@
         {
           "identifier": "1698",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q28555818",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1698&type=deputado",
@@ -20182,7 +20232,25 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1698&type=deputado"
         }
       ],
-      "name": "Miguel Anacoreta Correia"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Miguel_Anacoreta_Correia"
+        }
+      ],
+      "name": "Miguel Anacoreta Correia",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Miguel Anacoreta Correia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Miguel Anacoreta Correia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-03-04",
@@ -30175,6 +30243,7 @@
       ],
       "email": "luis.fazenda@be.parlamento.pt",
       "gender": "male",
+      "given_name": "Luís",
       "id": "a9cd9f11-2c41-43e8-970e-df945068d77b",
       "identifiers": [
         {
@@ -30184,6 +30253,10 @@
         {
           "identifier": "263",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q10321414",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=263&type=deputado",
@@ -30195,7 +30268,30 @@
           "url": "http://demo.cratica.org/media/img/deputados/263.jpg"
         }
       ],
-      "name": "Luís Fazenda"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Luís_Fazenda"
+        }
+      ],
+      "name": "Luís Fazenda",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Luís Fazenda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Luís Fazenda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Luís Fazenda",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-01-01",
