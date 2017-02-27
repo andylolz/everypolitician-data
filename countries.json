@@ -828,11 +828,11 @@
         "slug": "Nationalrat",
         "sources_directory": "data/Austria/Nationalrat/sources",
         "popolo": "data/Austria/Nationalrat/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/93d9134109ceb9f306587e91862c84be2efc3414/data/Austria/Nationalrat/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fba4a21b349171008ae44363c14a1344fb80e11b/data/Austria/Nationalrat/ep-popolo-v1.0.json",
         "names": "data/Austria/Nationalrat/names.csv",
-        "lastmod": "1487116059",
+        "lastmod": "1488137830",
         "person_count": 182,
-        "sha": "93d9134109ceb9f306587e91862c84be2efc3414",
+        "sha": "fba4a21b349171008ae44363c14a1344fb80e11b",
         "legislative_periods": [
           {
             "id": "term/25",
