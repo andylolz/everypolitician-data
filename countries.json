@@ -2461,11 +2461,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Czech_Republic/Deputies/sources",
         "popolo": "data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/44020086628ba62fc4763d4d740dc34b2d22a5c5/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d47f01d103dedfe17b98141a1199a2ec7a3dd469/data/Czech_Republic/Deputies/ep-popolo-v1.0.json",
         "names": "data/Czech_Republic/Deputies/names.csv",
-        "lastmod": "1487568861",
+        "lastmod": "1488126224",
         "person_count": 893,
-        "sha": "44020086628ba62fc4763d4d740dc34b2d22a5c5",
+        "sha": "d47f01d103dedfe17b98141a1199a2ec7a3dd469",
         "legislative_periods": [
           {
             "id": "term/7",
@@ -2530,7 +2530,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b2f461181d074db63ee3396ee37405fe4076071c/data/Czech_Republic/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 153887,
+        "statement_count": 153895,
         "type": "lower house"
       }
     ]
