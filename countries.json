@@ -9230,11 +9230,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/South_Korea/National_Assembly/sources",
         "popolo": "data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2eb4fd1ca7f917732774359068d99947fe3a7/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d13f16cbc1ac18f2a090300188f48ff03fa69bf/data/South_Korea/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Korea/National_Assembly/names.csv",
-        "lastmod": "1486778134",
+        "lastmod": "1488177713",
         "person_count": 452,
-        "sha": "16f2eb4fd1ca7f917732774359068d99947fe3a7",
+        "sha": "3d13f16cbc1ac18f2a090300188f48ff03fa69bf",
         "legislative_periods": [
           {
             "end_date": "2020-05-29",
@@ -9243,7 +9243,7 @@
             "start_date": "2016-05-30",
             "slug": "20",
             "csv": "data/South_Korea/National_Assembly/term-20.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2eb4fd1ca7f917732774359068d99947fe3a7/data/South_Korea/National_Assembly/term-20.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3d13f16cbc1ac18f2a090300188f48ff03fa69bf/data/South_Korea/National_Assembly/term-20.csv"
           },
           {
             "end_date": "2016-05-29",
@@ -9255,7 +9255,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/16f2eb4fd1ca7f917732774359068d99947fe3a7/data/South_Korea/National_Assembly/term-19.csv"
           }
         ],
-        "statement_count": 22735,
+        "statement_count": 23484,
         "type": "unicameral legislature"
       }
     ]
