@@ -1361,11 +1361,11 @@
         "slug": "Assembly",
         "sources_directory": "data/British_Virgin_Islands/Assembly/sources",
         "popolo": "data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c951d768f4319b95a7a222f777e1bf9fb4d19b55/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3193528a00baf181c6f1c8cc36c58b2dbe443ba6/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
         "names": "data/British_Virgin_Islands/Assembly/names.csv",
-        "lastmod": "1486668021",
+        "lastmod": "1488147599",
         "person_count": 23,
-        "sha": "c951d768f4319b95a7a222f777e1bf9fb4d19b55",
+        "sha": "3193528a00baf181c6f1c8cc36c58b2dbe443ba6",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -1394,7 +1394,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a0206f16dab7f4bfbb29e7210d7fd2361cffa001/data/British_Virgin_Islands/Assembly/term-2007.csv"
           }
         ],
-        "statement_count": 1270,
+        "statement_count": 1273,
         "type": "unicameral legislature"
       },
       {
