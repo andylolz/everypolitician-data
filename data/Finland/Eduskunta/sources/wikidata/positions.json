@@ -2504,6 +2504,17 @@
         "P1366": "Hannele Pokka",
         "P361": "Harri Holkeri's cabinet"
       }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1979-03-24",
+        "P582": "2000-02-29",
+        "P2715": "Finnish parliamentary election, 1979",
+        "P1366": "Ilkka Taipale"
+      }
     }
   ],
   "Q11851928": [
@@ -4992,7 +5003,12 @@
     {
       "id": "Q17592486",
       "label": "member of the Parliament of Finland",
-      "title": "member of the Parliament of Finland"
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "1971-10-01",
+        "P582": "1975-09-26",
+        "P1365": "Mikko Laaksonen"
+      }
     },
     {
       "id": "Q18694248",
@@ -5000,6 +5016,16 @@
       "title": "municipality councillor in Finland",
       "qualifiers": {
         "P2715": "Municipal elections 2012 in Helsinki in Finland"
+      }
+    },
+    {
+      "id": "Q17592486",
+      "label": "member of the Parliament of Finland",
+      "title": "member of the Parliament of Finland",
+      "qualifiers": {
+        "P580": "2000-03-01",
+        "P582": "2007-03-20",
+        "P1365": "Tarja Halonen"
       }
     }
   ],
