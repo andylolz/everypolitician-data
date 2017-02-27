@@ -5430,11 +5430,11 @@
         "slug": "Saeima",
         "sources_directory": "data/Latvia/Saeima/sources",
         "popolo": "data/Latvia/Saeima/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0ca608438f7bad0baa77190290a3cb7c10aeb0da/data/Latvia/Saeima/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0e83d14f397db879d9a0c6fcc0ce7e17f46fc98c/data/Latvia/Saeima/ep-popolo-v1.0.json",
         "names": "data/Latvia/Saeima/names.csv",
-        "lastmod": "1487545926",
+        "lastmod": "1488067629",
         "person_count": 203,
-        "sha": "0ca608438f7bad0baa77190290a3cb7c10aeb0da",
+        "sha": "0e83d14f397db879d9a0c6fcc0ce7e17f46fc98c",
         "legislative_periods": [
           {
             "id": "term/12",
@@ -5463,7 +5463,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/769cad8f9bb1bc383ae7d78221977d9fc666a772/data/Latvia/Saeima/term-10.csv"
           }
         ],
-        "statement_count": 28738,
+        "statement_count": 28744,
         "type": "unicameral legislature"
       }
     ]
