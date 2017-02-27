@@ -17744,6 +17744,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Mihhail Korb",
+          "note": "multilingual"
+        },
+        {
           "lang": "et",
           "name": "Mihhail Korb",
           "note": "multilingual"
@@ -25013,7 +25018,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/IRL_Kaia_Iva.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/444897573589889024/heGI1WOX.png"
+          "url": "https://pbs.twimg.com/profile_images/835907060185382912/NnK0xqe6.jpg"
         }
       ],
       "links": [
@@ -30449,6 +30454,7 @@
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
+      "end_date": "2016-12-11",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "KESK",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
