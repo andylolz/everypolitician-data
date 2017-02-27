@@ -4993,6 +4993,7 @@
       ]
     },
     {
+      "birth_date": "1956",
       "contact_details": [
         {
           "type": "email",
@@ -5001,11 +5002,16 @@
       ],
       "email": "hiszekeny.dezso@parlament.hu",
       "gender": "male",
+      "given_name": "Dezső",
       "id": "485f3bc2-fd13-4894-837a-4f6a224988a0",
       "identifiers": [
         {
           "identifier": "h743",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28745275",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/h743.jpg",
@@ -5014,7 +5020,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/h743.jpg"
         }
       ],
-      "name": "Hiszékeny, Dezső"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Hiszékeny_Dezső"
+        }
+      ],
+      "name": "Hiszékeny, Dezső",
+      "other_names": [
+        {
+          "name": "Hiszékeny Dezső",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Hiszékeny Dezső",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-12-01",
@@ -12534,6 +12557,10 @@
         {
           "identifier": "b764",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28799943",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/b764.jpg",
@@ -12542,7 +12569,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/b764.jpg"
         }
       ],
-      "name": "Bóna, Zoltán"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Bóna_Zoltán"
+        }
+      ],
+      "name": "Bóna, Zoltán",
+      "other_names": [
+        {
+          "name": "Bóna Zoltán",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Bóna Zoltán",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-05",
