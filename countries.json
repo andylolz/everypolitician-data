@@ -3137,11 +3137,11 @@
         "slug": "Eduskunta",
         "sources_directory": "data/Finland/Eduskunta/sources",
         "popolo": "data/Finland/Eduskunta/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4581b291a4d17e4d7c79f1fa9601fdcefe6d7e0c/data/Finland/Eduskunta/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/ep-popolo-v1.0.json",
         "names": "data/Finland/Eduskunta/names.csv",
-        "lastmod": "1487584103",
+        "lastmod": "1488080016",
         "person_count": 494,
-        "sha": "4581b291a4d17e4d7c79f1fa9601fdcefe6d7e0c",
+        "sha": "ae6a62d853ed355d6d2a534a3fe26076ad8b8788",
         "legislative_periods": [
           {
             "end_date": "2019",
@@ -3150,7 +3150,7 @@
             "start_date": "2015-04-28",
             "slug": "37",
             "csv": "data/Finland/Eduskunta/term-37.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4581b291a4d17e4d7c79f1fa9601fdcefe6d7e0c/data/Finland/Eduskunta/term-37.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7984d7aa381d37dd4ffb3e1989f5d8046e551ce5/data/Finland/Eduskunta/term-37.csv"
           },
           {
             "end_date": "2015-03-14",
@@ -3159,7 +3159,7 @@
             "start_date": "2011-04-20",
             "slug": "36",
             "csv": "data/Finland/Eduskunta/term-36.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea4e830c4133d7f1714e3c65b9ad2e0666426a7e/data/Finland/Eduskunta/term-36.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-36.csv"
           },
           {
             "end_date": "2011-04-19",
@@ -3168,7 +3168,7 @@
             "start_date": "2007-03-21",
             "slug": "35",
             "csv": "data/Finland/Eduskunta/term-35.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1a61caa670487d327371f40543c4dd44efb45374/data/Finland/Eduskunta/term-35.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-35.csv"
           },
           {
             "end_date": "2007-03-20",
@@ -3177,7 +3177,7 @@
             "start_date": "2003-03-19",
             "slug": "34",
             "csv": "data/Finland/Eduskunta/term-34.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aaa047713a14e0fed252cb7a8a272c9d9cb45414/data/Finland/Eduskunta/term-34.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-34.csv"
           },
           {
             "end_date": "2003-03-18",
@@ -3186,7 +3186,7 @@
             "start_date": "1999-03-24",
             "slug": "33",
             "csv": "data/Finland/Eduskunta/term-33.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1a61caa670487d327371f40543c4dd44efb45374/data/Finland/Eduskunta/term-33.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-33.csv"
           },
           {
             "end_date": "1999-03-23",
@@ -3195,7 +3195,7 @@
             "start_date": "1995-03-24",
             "slug": "32",
             "csv": "data/Finland/Eduskunta/term-32.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1a61caa670487d327371f40543c4dd44efb45374/data/Finland/Eduskunta/term-32.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-32.csv"
           },
           {
             "end_date": "1995-03-23",
@@ -3213,7 +3213,7 @@
             "start_date": "1987-03-21",
             "slug": "30",
             "csv": "data/Finland/Eduskunta/term-30.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1a61caa670487d327371f40543c4dd44efb45374/data/Finland/Eduskunta/term-30.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ae6a62d853ed355d6d2a534a3fe26076ad8b8788/data/Finland/Eduskunta/term-30.csv"
           },
           {
             "end_date": "1987-03-20",
@@ -3261,7 +3261,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/508c132c626bf367a61c1da2f8390707f50feb7d/data/Finland/Eduskunta/term-25.csv"
           }
         ],
-        "statement_count": 41147,
+        "statement_count": 41195,
         "type": "unicameral legislature"
       }
     ]
