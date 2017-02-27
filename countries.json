@@ -10145,11 +10145,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Tunisia/Majlis/sources",
         "popolo": "data/Tunisia/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e3e1bfc7cb5d7017bea2f2fc9430a278c62f75c7/data/Tunisia/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/84839a3ccc89e17b4c8416608e0234e2cc49ea95/data/Tunisia/Majlis/ep-popolo-v1.0.json",
         "names": "data/Tunisia/Majlis/names.csv",
-        "lastmod": "1487921821",
+        "lastmod": "1488151945",
         "person_count": 224,
-        "sha": "e3e1bfc7cb5d7017bea2f2fc9430a278c62f75c7",
+        "sha": "84839a3ccc89e17b4c8416608e0234e2cc49ea95",
         "legislative_periods": [
           {
             "id": "term/1",
@@ -10157,10 +10157,10 @@
             "start_date": "2014-12-02",
             "slug": "1",
             "csv": "data/Tunisia/Majlis/term-1.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e3e1bfc7cb5d7017bea2f2fc9430a278c62f75c7/data/Tunisia/Majlis/term-1.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/147287281b9bf1aa44420e7f64f8f66b3c5a787d/data/Tunisia/Majlis/term-1.csv"
           }
         ],
-        "statement_count": 5085,
+        "statement_count": 5091,
         "type": "unicameral legislature"
       }
     ]
