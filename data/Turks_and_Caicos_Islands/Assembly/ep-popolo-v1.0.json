@@ -1,6 +1,20 @@
 {
   "posts": [
-
+    {
+      "id": "opposition’s_appointed_member",
+      "label": "Opposition’s Appointed Member",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9"
+    },
+    {
+      "id": "governor’s_appointed_member",
+      "label": "Governor’s Appointed Member",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9"
+    },
+    {
+      "id": "government’s_appointed_member",
+      "label": "Government’s Appointed Member",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9"
+    }
   ],
   "persons": [
     {
@@ -880,11 +894,11 @@
       ]
     },
     {
-      "area_id": "area/governor’s_appointed_member",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "3e8718af-2588-44ef-9516-551a19be3f13",
+      "post_id": "governor’s_appointed_member",
       "role": "member",
       "sources": [
         {
@@ -893,11 +907,11 @@
       ]
     },
     {
-      "area_id": "area/governor’s_appointed_member",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "43db9919-439e-4a90-82c4-8f94c9f1be8b",
+      "post_id": "governor’s_appointed_member",
       "role": "member",
       "sources": [
         {
@@ -984,11 +998,11 @@
       ]
     },
     {
-      "area_id": "area/opposition’s_appointed_member",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "b036609e-30da-4c49-82bd-219d51f7ac2c",
+      "post_id": "opposition’s_appointed_member",
       "role": "member",
       "sources": [
         {
@@ -1036,11 +1050,11 @@
       ]
     },
     {
-      "area_id": "area/government’s_appointed_member",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "f6d8ace4-f66c-4260-a906-b17938a4dfdf",
+      "post_id": "government’s_appointed_member",
       "role": "member",
       "sources": [
         {
@@ -1146,16 +1160,6 @@
       "type": "constituency"
     },
     {
-      "id": "area/government’s_appointed_member",
-      "name": "Government’s Appointed Member",
-      "type": "constituency"
-    },
-    {
-      "id": "area/governor’s_appointed_member",
-      "name": "Governor’s Appointed Member",
-      "type": "constituency"
-    },
-    {
       "id": "area/grand_turk_north",
       "name": "Grand Turk North",
       "type": "constituency"
@@ -1168,11 +1172,6 @@
     {
       "id": "area/north_and_middle_caicos",
       "name": "North and Middle Caicos",
-      "type": "constituency"
-    },
-    {
-      "id": "area/opposition’s_appointed_member",
-      "name": "Opposition’s Appointed Member",
       "type": "constituency"
     },
     {
