@@ -113,11 +113,11 @@
         "slug": "States",
         "sources_directory": "data/Alderney/States/sources",
         "popolo": "data/Alderney/States/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0aa20cb12054fc4ac5ca984271e092da78311585/data/Alderney/States/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf26d336c7b025c01abb7d442ec17ca22c4e5d3e/data/Alderney/States/ep-popolo-v1.0.json",
         "names": "data/Alderney/States/names.csv",
-        "lastmod": "1487867578",
+        "lastmod": "1488102791",
         "person_count": 14,
-        "sha": "0aa20cb12054fc4ac5ca984271e092da78311585",
+        "sha": "bf26d336c7b025c01abb7d442ec17ca22c4e5d3e",
         "legislative_periods": [
           {
             "end_date": "2018-12-31",
@@ -126,7 +126,7 @@
             "start_date": "2017-01-01",
             "slug": "2017",
             "csv": "data/Alderney/States/term-2017.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0aa20cb12054fc4ac5ca984271e092da78311585/data/Alderney/States/term-2017.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dbd9f77674ff05625c89bc5e6b61f936515369ce/data/Alderney/States/term-2017.csv"
           },
           {
             "end_date": "2016-12-31",
@@ -138,7 +138,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/550097b6f223687964943203cf5797c8c4ce28e3/data/Alderney/States/term-2014.csv"
           }
         ],
-        "statement_count": 648,
+        "statement_count": 654,
         "type": "unicameral legislature"
       }
     ]
