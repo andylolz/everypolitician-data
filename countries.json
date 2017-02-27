@@ -4679,11 +4679,11 @@
         "slug": "Dail",
         "sources_directory": "data/Ireland/Dail/sources",
         "popolo": "data/Ireland/Dail/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b544b630d627ef06f804c2fb80f28ada1f72d88c/data/Ireland/Dail/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/131ed2d2da1fc419a94111fae90ca40cfe6c632f/data/Ireland/Dail/ep-popolo-v1.0.json",
         "names": "data/Ireland/Dail/names.csv",
-        "lastmod": "1487541920",
+        "lastmod": "1488132825",
         "person_count": 226,
-        "sha": "b544b630d627ef06f804c2fb80f28ada1f72d88c",
+        "sha": "131ed2d2da1fc419a94111fae90ca40cfe6c632f",
         "legislative_periods": [
           {
             "id": "term/32",
@@ -4703,7 +4703,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/453d614bba6010a410ce74f1a48727325d315935/data/Ireland/Dail/term-31.csv"
           }
         ],
-        "statement_count": 16027,
+        "statement_count": 16031,
         "type": "lower house"
       }
     ]
