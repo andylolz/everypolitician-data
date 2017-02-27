@@ -3451,11 +3451,11 @@
         "slug": "Bundestag",
         "sources_directory": "data/Germany/Bundestag/sources",
         "popolo": "data/Germany/Bundestag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ed8d803687615ef3391bef477d2bd4bfad0192af/data/Germany/Bundestag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5d57960b35daf3079b3977e521dfd1168a47cb75/data/Germany/Bundestag/ep-popolo-v1.0.json",
         "names": "data/Germany/Bundestag/names.csv",
-        "lastmod": "1485366390",
+        "lastmod": "1488187884",
         "person_count": 3808,
-        "sha": "ed8d803687615ef3391bef477d2bd4bfad0192af",
+        "sha": "5d57960b35daf3079b3977e521dfd1168a47cb75",
         "legislative_periods": [
           {
             "id": "term/18",
@@ -3619,7 +3619,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ea34f2ec9b8e965f4e2dc2e83dc479befc9124a5/data/Germany/Bundestag/term-1.csv"
           }
         ],
-        "statement_count": 386341,
+        "statement_count": 386348,
         "type": "unicameral legislature"
       }
     ]
