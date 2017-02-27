@@ -707,11 +707,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/adb28a7ed0e7dfd5dc23fc9239047c6690aff812/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/94b33c8975c518b4f5b6d8ed2afc5d81868d1f24/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1487198933",
+        "lastmod": "1488112176",
         "person_count": 257,
-        "sha": "adb28a7ed0e7dfd5dc23fc9239047c6690aff812",
+        "sha": "94b33c8975c518b4f5b6d8ed2afc5d81868d1f24",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -812,7 +812,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d1e45f767a9036e6db247147c8248b11f7d3be9/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 23006,
+        "statement_count": 23014,
         "type": "upper house"
       }
     ]
