@@ -17810,8 +17810,28 @@
         }
       ],
       "email": "igor.kravtsenko@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Igor",
       "id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
-      "name": "Igor Kravtšenko"
+      "identifiers": [
+        {
+          "identifier": "Q28840779",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Igor Kravtšenko",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Igor Kravtšenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Igor Kravtšenko",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1986-07-27",
