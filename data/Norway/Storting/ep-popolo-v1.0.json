@@ -24396,6 +24396,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "PAN",
+          "scheme": "storting"
+        },
+        {
           "identifier": "Q5002002",
           "scheme": "wikidata"
         }
@@ -49763,6 +49767,10 @@
         {
           "identifier": "36541089",
           "scheme": "nla"
+        },
+        {
+          "identifier": "Gro-Harlem-Brundtland",
+          "scheme": "quora"
         },
         {
           "identifier": "GHB",
@@ -84902,6 +84910,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "ASAN",
+          "scheme": "storting"
+        },
+        {
           "identifier": "Q11959265",
           "scheme": "wikidata"
         }
@@ -105910,6 +105922,10 @@
         {
           "identifier": "0000 0000 7834 0428",
           "scheme": "isni"
+        },
+        {
+          "identifier": "GEAP",
+          "scheme": "storting"
         },
         {
           "identifier": "03422744X",
