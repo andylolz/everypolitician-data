@@ -9926,11 +9926,11 @@
         "slug": "National-Legislative-Assembly",
         "sources_directory": "data/Thailand/National_Legislative_Assembly/sources",
         "popolo": "data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dc3119f850acd716fc7774cb13fe24ed3725c6fc/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/539fe4ab4d5dd1e751f801fa520e458fb96fdde1/data/Thailand/National_Legislative_Assembly/ep-popolo-v1.0.json",
         "names": "data/Thailand/National_Legislative_Assembly/names.csv",
-        "lastmod": "1485117090",
+        "lastmod": "1488150852",
         "person_count": 220,
-        "sha": "dc3119f850acd716fc7774cb13fe24ed3725c6fc",
+        "sha": "539fe4ab4d5dd1e751f801fa520e458fb96fdde1",
         "legislative_periods": [
           {
             "id": "term/2557",
@@ -9941,7 +9941,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/600bc922d8e091ef1982f6af2137f73010c58135/data/Thailand/National_Legislative_Assembly/term-2557.csv"
           }
         ],
-        "statement_count": 3939,
+        "statement_count": 3940,
         "type": "unicameral legislature"
       }
     ]
