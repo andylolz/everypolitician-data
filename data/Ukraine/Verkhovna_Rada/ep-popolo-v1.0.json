@@ -36196,12 +36196,32 @@
     },
     {
       "area_id": "67",
+      "end_date": "2017-02-24",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "013de6fa-209a-40a1-83fe-76634096438e",
+      "role": "member",
+      "start_date": "2016-12-06"
+    },
+    {
+      "area_id": "67",
+      "end_date": "2017-02-23",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "013de6fa-209a-40a1-83fe-76634096438e",
       "role": "member",
       "start_date": "2016-12-07"
+    },
+    {
+      "area_id": "67",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "013de6fa-209a-40a1-83fe-76634096438e",
+      "role": "member",
+      "start_date": "2017-02-24"
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
@@ -37623,12 +37643,22 @@
     },
     {
       "area_id": "145",
+      "end_date": "2017-02-23",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "4aec9b0b-54a9-4368-a2ff-dc4aa71359e8",
       "role": "member",
       "start_date": "2016-04-12"
+    },
+    {
+      "area_id": "145",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "4aec9b0b-54a9-4368-a2ff-dc4aa71359e8",
+      "role": "member",
+      "start_date": "2017-02-24"
     },
     {
       "area_id": "34",
@@ -38788,12 +38818,32 @@
     },
     {
       "area_id": "146",
+      "end_date": "2017-02-24",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "party/Позафракційні",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "8a576107-34a6-4051-9493-1f20dabbc3b0",
+      "role": "member",
+      "start_date": "2016-11-04"
+    },
+    {
+      "area_id": "146",
+      "end_date": "2017-02-23",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/Позафракційні",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "8a576107-34a6-4051-9493-1f20dabbc3b0",
       "role": "member",
       "start_date": "2016-11-05"
+    },
+    {
+      "area_id": "146",
+      "legislative_period_id": "term/8",
+      "on_behalf_of_id": "2846",
+      "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
+      "person_id": "8a576107-34a6-4051-9493-1f20dabbc3b0",
+      "role": "member",
+      "start_date": "2017-02-24"
     },
     {
       "area_id": "153",
@@ -40468,6 +40518,7 @@
     },
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
+      "end_date": "2017-02-21",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "2613",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
@@ -40933,7 +40984,7 @@
     {
       "area_id": "area/Загальнодержавному_багатомандатному_округу",
       "legislative_period_id": "term/8",
-      "on_behalf_of_id": "party/Позафракційні",
+      "on_behalf_of_id": "2612",
       "organization_id": "b5c89217-0658-4ede-9968-852d36d31866",
       "person_id": "f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
       "role": "member",
