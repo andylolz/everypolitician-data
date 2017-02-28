@@ -9485,11 +9485,11 @@
         "slug": "Riksdag",
         "sources_directory": "data/Sweden/Riksdag/sources",
         "popolo": "data/Sweden/Riksdag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5555f0ff2b9b34ef3396d1136624b73da3267bd8/data/Sweden/Riksdag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/41d42b5807f43bc20dc3bd2570a04f8f22a8375c/data/Sweden/Riksdag/ep-popolo-v1.0.json",
         "names": "data/Sweden/Riksdag/names.csv",
-        "lastmod": "1488132208",
+        "lastmod": "1488237550",
         "person_count": 1625,
-        "sha": "5555f0ff2b9b34ef3396d1136624b73da3267bd8",
+        "sha": "41d42b5807f43bc20dc3bd2570a04f8f22a8375c",
         "legislative_periods": [
           {
             "end_date": "2018-09-24",
@@ -9600,7 +9600,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/377d13f810169f0e9d67f0caa3cc6bb6910d01df/data/Sweden/Riksdag/term-1976.csv"
           }
         ],
-        "statement_count": 104977,
+        "statement_count": 104979,
         "type": "unicameral legislature"
       }
     ]
