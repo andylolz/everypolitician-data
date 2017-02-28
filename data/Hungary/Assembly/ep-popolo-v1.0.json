@@ -167,6 +167,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/János_Kerényi"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kerényi_János"
         }
       ],
       "name": "Dr. Kerényi, János",
@@ -3953,6 +3957,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/István_Tiba"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tiba_István"
         }
       ],
       "name": "Dr. Tiba, István",
@@ -5543,6 +5551,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/József_Kovács_(politician)"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kovács_József_(politikus)"
         }
       ],
       "name": "Dr. Kovács, József",
@@ -10186,6 +10198,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ákos_Kara"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kara_Ákos"
         }
       ],
       "name": "Kara, Ákos",
@@ -12544,6 +12560,7 @@
       "name": "Szabolcs, Attila"
     },
     {
+      "birth_date": "1956",
       "contact_details": [
         {
           "type": "email",
@@ -12580,6 +12597,11 @@
         {
           "name": "Bóna Zoltán",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bóna Zoltán",
+          "note": "multilingual"
         },
         {
           "lang": "hu",
