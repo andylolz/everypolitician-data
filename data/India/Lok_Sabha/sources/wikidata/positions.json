@@ -2667,7 +2667,11 @@
       "id": "Q1790154",
       "label": "Chief Minister of Delhi",
       "title": "Chief Minister of Delhi",
-      "description": "head of government of the National Capital Territory of Delhi, India"
+      "description": "head of government of the National Capital Territory of Delhi, India",
+      "qualifiers": {
+        "P580": "1998-10-13",
+        "P582": "1998-12-03"
+      }
     },
     {
       "id": "Q16556694",
@@ -2694,6 +2698,15 @@
       "label": "member of a Legislative Assembly of India",
       "title": "member of a Legislative Assembly of India",
       "description": "member of a state government of India"
+    },
+    {
+      "id": "Q313465",
+      "label": "Minister of External Affairs",
+      "title": "Minister of External Affairs",
+      "description": "in India",
+      "qualifiers": {
+        "P580": "2014-05-26"
+      }
     }
   ],
   "Q16890538": [
