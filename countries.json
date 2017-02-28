@@ -2003,11 +2003,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Chile/Deputies/sources",
         "popolo": "data/Chile/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0bc6bf53bb3961feac7267e191390649c4e6fe74/data/Chile/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0cf6815b483cc7d11aa1c82af6582bff235e4208/data/Chile/Deputies/ep-popolo-v1.0.json",
         "names": "data/Chile/Deputies/names.csv",
-        "lastmod": "1485789406",
+        "lastmod": "1488245428",
         "person_count": 375,
-        "sha": "0bc6bf53bb3961feac7267e191390649c4e6fe74",
+        "sha": "0cf6815b483cc7d11aa1c82af6582bff235e4208",
         "legislative_periods": [
           {
             "end_date": "2018-03-10",
@@ -2034,7 +2034,7 @@
             "start_date": "2006-03-11",
             "slug": "5",
             "csv": "data/Chile/Deputies/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c03e5a3791471a26c2cd2743cbf147f47f7b361e/data/Chile/Deputies/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0cf6815b483cc7d11aa1c82af6582bff235e4208/data/Chile/Deputies/term-5.csv"
           },
           {
             "end_date": "2006-03-10",
@@ -2043,7 +2043,7 @@
             "start_date": "2002-03-11",
             "slug": "4",
             "csv": "data/Chile/Deputies/term-4.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c03e5a3791471a26c2cd2743cbf147f47f7b361e/data/Chile/Deputies/term-4.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0cf6815b483cc7d11aa1c82af6582bff235e4208/data/Chile/Deputies/term-4.csv"
           },
           {
             "end_date": "2002-03-10",
@@ -2073,7 +2073,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e6b28d9d30f8e7504c3de6924586ede7b9272df9/data/Chile/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 18150,
+        "statement_count": 18155,
         "type": "unicameral legislature"
       }
     ]
