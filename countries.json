@@ -9616,11 +9616,11 @@
         "slug": "National-Council",
         "sources_directory": "data/Switzerland/National_Council/sources",
         "popolo": "data/Switzerland/National_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0962fcd214af83cc29aa23cf8495c63f4f072d7f/data/Switzerland/National_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e0dbc820e5e80dbe4e9de46b8f4132a66270f7ec/data/Switzerland/National_Council/ep-popolo-v1.0.json",
         "names": "data/Switzerland/National_Council/names.csv",
-        "lastmod": "1488065410",
+        "lastmod": "1488191013",
         "person_count": 1216,
-        "sha": "0962fcd214af83cc29aa23cf8495c63f4f072d7f",
+        "sha": "e0dbc820e5e80dbe4e9de46b8f4132a66270f7ec",
         "legislative_periods": [
           {
             "end_date": "2019-11-29",
@@ -9629,7 +9629,7 @@
             "start_date": "2015-11-30",
             "slug": "50",
             "csv": "data/Switzerland/National_Council/term-50.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0962fcd214af83cc29aa23cf8495c63f4f072d7f/data/Switzerland/National_Council/term-50.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5515e9dc4503de55e767834869ec655fa709c9d/data/Switzerland/National_Council/term-50.csv"
           },
           {
             "end_date": "2015-11-29",
@@ -9749,7 +9749,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/51d1521e5dddd1cbb991aea39257a0847ff6118b/data/Switzerland/National_Council/term-37.csv"
           }
         ],
-        "statement_count": 66452,
+        "statement_count": 66456,
         "type": "lower house"
       }
     ]
