@@ -5479,11 +5479,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Lebanon/Parliament/sources",
         "popolo": "data/Lebanon/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a67425df348e51bab54b96a91a6b66f61d0142fc/data/Lebanon/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/704fc358e1d3c3a25911dacb189e75afe08d11e9/data/Lebanon/Parliament/ep-popolo-v1.0.json",
         "names": "data/Lebanon/Parliament/names.csv",
-        "lastmod": "1488075315",
+        "lastmod": "1488282181",
         "person_count": 130,
-        "sha": "a67425df348e51bab54b96a91a6b66f61d0142fc",
+        "sha": "704fc358e1d3c3a25911dacb189e75afe08d11e9",
         "legislative_periods": [
           {
             "end_date": "2017-06-20",
@@ -5495,7 +5495,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a916922401bd57be11927638056e2b360b486e38/data/Lebanon/Parliament/term-2009.csv"
           }
         ],
-        "statement_count": 8250,
+        "statement_count": 8252,
         "type": "unicameral legislature"
       }
     ]
