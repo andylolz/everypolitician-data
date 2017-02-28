@@ -594,11 +594,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/91ccd84f35355949baf78003c3afc45c51f3b319/data/Australia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/062131b7486362a60d93373f0c2045c96ac4b213/data/Australia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Australia/Representatives/names.csv",
-        "lastmod": "1488067470",
+        "lastmod": "1488255907",
         "person_count": 512,
-        "sha": "91ccd84f35355949baf78003c3afc45c51f3b319",
+        "sha": "062131b7486362a60d93373f0c2045c96ac4b213",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -606,7 +606,7 @@
             "start_date": "2016-07-02",
             "slug": "45",
             "csv": "data/Australia/Representatives/term-45.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/91ccd84f35355949baf78003c3afc45c51f3b319/data/Australia/Representatives/term-45.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/abf4d15afc0ea30d543be6344ae8fc4f505a04fc/data/Australia/Representatives/term-45.csv"
           },
           {
             "end_date": "2016-05-09",
@@ -615,7 +615,7 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Representatives/term-44.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/91ccd84f35355949baf78003c3afc45c51f3b319/data/Australia/Representatives/term-44.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/abf4d15afc0ea30d543be6344ae8fc4f505a04fc/data/Australia/Representatives/term-44.csv"
           },
           {
             "end_date": "2013-09-07",
@@ -699,7 +699,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b8fc6787d2f2f91ade979c784846d41209dca913/data/Australia/Representatives/term-35.csv"
           }
         ],
-        "statement_count": 40522,
+        "statement_count": 40526,
         "type": "lower house"
       },
       {
@@ -707,11 +707,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/94b33c8975c518b4f5b6d8ed2afc5d81868d1f24/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/665408ac05a2b5e913aa8c154648952e2095d12e/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
         "lastmod": "1488112176",
         "person_count": 257,
-        "sha": "94b33c8975c518b4f5b6d8ed2afc5d81868d1f24",
+        "sha": "665408ac05a2b5e913aa8c154648952e2095d12e",
         "legislative_periods": [
           {
             "id": "term/45",
