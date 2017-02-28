@@ -9333,11 +9333,11 @@
         "slug": "Congress",
         "sources_directory": "data/Spain/Congress/sources",
         "popolo": "data/Spain/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/904365f54fe0c5209e12c2f7fe95ddfb69078fd6/data/Spain/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/178dbfd2c36e600a1edad309dae59e2d7dca1204/data/Spain/Congress/ep-popolo-v1.0.json",
         "names": "data/Spain/Congress/names.csv",
-        "lastmod": "1488103020",
+        "lastmod": "1488201977",
         "person_count": 621,
-        "sha": "904365f54fe0c5209e12c2f7fe95ddfb69078fd6",
+        "sha": "178dbfd2c36e600a1edad309dae59e2d7dca1204",
         "legislative_periods": [
           {
             "end_date": "2016-05-03",
@@ -9346,7 +9346,7 @@
             "start_date": "2016-01-13",
             "slug": "11",
             "csv": "data/Spain/Congress/term-11.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/904365f54fe0c5209e12c2f7fe95ddfb69078fd6/data/Spain/Congress/term-11.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3dca9fafda17913386809029f6e70d8f8d04b0c8/data/Spain/Congress/term-11.csv"
           },
           {
             "end_date": "2015-10-27",
@@ -9355,7 +9355,7 @@
             "start_date": "2011-11-28",
             "slug": "10",
             "csv": "data/Spain/Congress/term-10.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/904365f54fe0c5209e12c2f7fe95ddfb69078fd6/data/Spain/Congress/term-10.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3dca9fafda17913386809029f6e70d8f8d04b0c8/data/Spain/Congress/term-10.csv"
           }
         ],
         "statement_count": 35857,
