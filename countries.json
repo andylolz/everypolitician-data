@@ -2859,11 +2859,11 @@
         "slug": "Riigikogu",
         "sources_directory": "data/Estonia/Riigikogu/sources",
         "popolo": "data/Estonia/Riigikogu/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/64f23b8b699fe6d4e38aa6788e2639764bc9a325/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610751c22b0d3f2336917cd05a0f87756083008d/data/Estonia/Riigikogu/ep-popolo-v1.0.json",
         "names": "data/Estonia/Riigikogu/names.csv",
-        "lastmod": "1488261137",
+        "lastmod": "1488272254",
         "person_count": 210,
-        "sha": "64f23b8b699fe6d4e38aa6788e2639764bc9a325",
+        "sha": "610751c22b0d3f2336917cd05a0f87756083008d",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -2871,7 +2871,7 @@
             "start_date": "2015-03-30",
             "slug": "13",
             "csv": "data/Estonia/Riigikogu/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/64f23b8b699fe6d4e38aa6788e2639764bc9a325/data/Estonia/Riigikogu/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/610751c22b0d3f2336917cd05a0f87756083008d/data/Estonia/Riigikogu/term-13.csv"
           },
           {
             "end_date": "2015-03-23",
@@ -2883,7 +2883,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bb0eb51048eeb34123b1b321e6e4b58d9935dfef/data/Estonia/Riigikogu/term-12.csv"
           }
         ],
-        "statement_count": 17668,
+        "statement_count": 17698,
         "type": "unicameral legislature"
       }
     ]
