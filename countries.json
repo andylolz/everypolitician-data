@@ -6788,11 +6788,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Nepal/Assembly/sources",
         "popolo": "data/Nepal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/627df17855307968c652b7893123963ab693b2f1/data/Nepal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/56d1d17e5b77d2731a0057962d3086dce6b58584/data/Nepal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Nepal/Assembly/names.csv",
-        "lastmod": "1488118370",
+        "lastmod": "1488253196",
         "person_count": 550,
-        "sha": "627df17855307968c652b7893123963ab693b2f1",
+        "sha": "56d1d17e5b77d2731a0057962d3086dce6b58584",
         "legislative_periods": [
           {
             "id": "term/ca2",
