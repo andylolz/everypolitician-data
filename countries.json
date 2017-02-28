@@ -6819,11 +6819,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Netherlands/House_of_Representatives/sources",
         "popolo": "data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b0807ee3e502f28ecef5ea5ff4d2b4c72ef16ea3/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/673ae598114acffd544a58eb091654077bec4656/data/Netherlands/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Netherlands/House_of_Representatives/names.csv",
-        "lastmod": "1488076511",
+        "lastmod": "1488197503",
         "person_count": 194,
-        "sha": "b0807ee3e502f28ecef5ea5ff4d2b4c72ef16ea3",
+        "sha": "673ae598114acffd544a58eb091654077bec4656",
         "legislative_periods": [
           {
             "id": "term/2012",
