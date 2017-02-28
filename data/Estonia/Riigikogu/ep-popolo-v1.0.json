@@ -7385,6 +7385,7 @@
       ]
     },
     {
+      "birth_date": "1950-01-24",
       "contact_details": [
         {
           "type": "email",
@@ -7392,8 +7393,28 @@
         }
       ],
       "email": "toomas.vainaste@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Toomas",
       "id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
-      "name": "Toomas Väinaste"
+      "identifiers": [
+        {
+          "identifier": "Q28854341",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Toomas Väinaste",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Toomas Väinaste",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Toomas Väinaste",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-09-16",
@@ -10365,8 +10386,28 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Vladimir",
       "id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
-      "name": "Vladimir Arhipov"
+      "identifiers": [
+        {
+          "identifier": "Q28854358",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Vladimir Arhipov",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Vladimir Arhipov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Vladimir Arhipov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-05-06",
@@ -11117,8 +11158,27 @@
       ]
     },
     {
+      "gender": "female",
       "id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
-      "name": "Eevi Paasmäe"
+      "identifiers": [
+        {
+          "identifier": "Q28854356",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Eevi Paasmäe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eevi Paasmäe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Eevi Paasmäe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-11-24",
