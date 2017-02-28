@@ -13785,8 +13785,28 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Alar",
       "id": "77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
-      "name": "Alar Nääme"
+      "identifiers": [
+        {
+          "identifier": "Q28845703",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alar Nääme",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alar Nääme",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Alar Nääme",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-07-04",
