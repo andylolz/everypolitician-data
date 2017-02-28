@@ -6388,11 +6388,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Montenegro/Assembly/sources",
         "popolo": "data/Montenegro/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2bc29b4735f2531d6db72952f907b790246f6e97/data/Montenegro/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b93f59455bf2809bf9123300051edba358be6559/data/Montenegro/Assembly/ep-popolo-v1.0.json",
         "names": "data/Montenegro/Assembly/names.csv",
-        "lastmod": "1485067933",
+        "lastmod": "1488302165",
         "person_count": 82,
-        "sha": "2bc29b4735f2531d6db72952f907b790246f6e97",
+        "sha": "b93f59455bf2809bf9123300051edba358be6559",
         "legislative_periods": [
           {
             "end_date": "2015",
@@ -6404,7 +6404,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd8dddc3843afc2317b62af2e4f84ac9c89c920d/data/Montenegro/Assembly/term-25.csv"
           }
         ],
-        "statement_count": 2590,
+        "statement_count": 2593,
         "type": "unicameral legislature"
       }
     ]
