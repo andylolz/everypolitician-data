@@ -24,12 +24,17 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives grenadiennes de 2013",
+        "name": "élections législatives grenadiennes de 2013",
         "note": "multilingual"
       },
       {
         "lang": "zh",
         "name": "2013年多格瑞那達大選",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 2013",
         "note": "multilingual"
       },
       {
@@ -66,7 +71,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives grenadiennes de 2008",
+        "name": "élections législatives grenadiennes de 2008",
         "note": "multilingual"
       },
       {
@@ -77,6 +82,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 2008",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 2008",
         "note": "multilingual"
       },
       {
@@ -118,6 +128,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 2003",
+        "note": "multilingual"
+      },
+      {
         "lang": "pt",
         "name": "Eleição geral de Granada,2003",
         "note": "multilingual"
@@ -131,7 +146,6 @@
     "dates": [
       "2003-11-27"
     ],
-    "office": "prime minister",
     "successful_candidates": [
       "Keith Mitchell"
     ]
@@ -147,6 +161,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1951",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1951",
         "note": "multilingual"
       }
     ],
@@ -166,6 +185,11 @@
         "lang": "en",
         "name": "Grenadian general election, 1954",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1954",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -183,6 +207,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1957",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1957",
         "note": "multilingual"
       }
     ],
@@ -202,6 +231,11 @@
         "lang": "en",
         "name": "Grenadian general election, 1961",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1961",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -219,6 +253,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1962",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1962",
         "note": "multilingual"
       }
     ],
@@ -238,6 +277,11 @@
         "lang": "en",
         "name": "Grenadian general election, 1967",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1967",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -255,6 +299,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1976",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1976",
         "note": "multilingual"
       }
     ],
@@ -274,6 +323,11 @@
         "lang": "en",
         "name": "Grenadian general election, 1972",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1972",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -291,6 +345,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1984",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1984",
         "note": "multilingual"
       }
     ],
@@ -310,6 +369,11 @@
         "lang": "en",
         "name": "Grenadian general election, 1990",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1990",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -327,6 +391,11 @@
       {
         "lang": "en",
         "name": "Grenadian general election, 1995",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1995",
         "note": "multilingual"
       }
     ],
@@ -350,6 +419,11 @@
       {
         "lang": "ru",
         "name": "Парламентские выборы на Гренаде",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בגרנדה 1999",
         "note": "multilingual"
       }
     ],
