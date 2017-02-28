@@ -4750,11 +4750,11 @@
         "slug": "Knesset",
         "sources_directory": "data/Israel/Knesset/sources",
         "popolo": "data/Israel/Knesset/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e174b4ab2a164813f1519ac95fe525e939af0383/data/Israel/Knesset/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/805f7df21951c77600afed19c0e87e44bb07d13c/data/Israel/Knesset/ep-popolo-v1.0.json",
         "names": "data/Israel/Knesset/names.csv",
-        "lastmod": "1488135082",
+        "lastmod": "1488265083",
         "person_count": 933,
-        "sha": "e174b4ab2a164813f1519ac95fe525e939af0383",
+        "sha": "805f7df21951c77600afed19c0e87e44bb07d13c",
         "legislative_periods": [
           {
             "end_date": "2016-06-01",
@@ -4937,7 +4937,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1dd33e7d327aeabc909d62c765ebf6a7cf329598/data/Israel/Knesset/term-1.csv"
           }
         ],
-        "statement_count": 87405,
+        "statement_count": 87422,
         "type": "unicameral legislature"
       }
     ]
