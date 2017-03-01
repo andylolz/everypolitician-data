@@ -30673,7 +30673,20 @@
   "areas": [
     {
       "id": "area/aoraki",
+      "identifiers": [
+        {
+          "identifier": "Q4778732",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Aoraki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aoraki",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30701,7 +30714,20 @@
     },
     {
       "id": "area/banks_peninsula",
+      "identifiers": [
+        {
+          "identifier": "Q4856490",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Banks Peninsula",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Banks Peninsula",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30778,7 +30804,20 @@
     },
     {
       "id": "area/clevedon",
+      "identifiers": [
+        {
+          "identifier": "Q5132012",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clevedon",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clevedon",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31861,12 +31900,43 @@
     },
     {
       "id": "area/ohariu-belmont",
+      "identifiers": [
+        {
+          "identifier": "Q7080622",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ohariu-Belmont",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ohariu-Belmont",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/otago",
+      "identifiers": [
+        {
+          "identifier": "Q7108338",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Otago",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Otago",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Otago",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31917,12 +31987,43 @@
     },
     {
       "id": "area/papakura",
+      "identifiers": [
+        {
+          "identifier": "Q7132410",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Papakura",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Papakura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Papakura",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/piako",
+      "identifiers": [
+        {
+          "identifier": "Q7190031",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Piako",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Piako",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31945,12 +32046,38 @@
     },
     {
       "id": "area/port_waikato",
+      "identifiers": [
+        {
+          "identifier": "Q7231017",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Port Waikato",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Port Waikato",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/rakaia",
+      "identifiers": [
+        {
+          "identifier": "Q7286532",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rakaia",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rakaia",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -32474,7 +32601,35 @@
     },
     {
       "id": "area/waiāriki",
+      "identifiers": [
+        {
+          "identifier": "Q7959905",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waiāriki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Waiariki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Waiariki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "懷阿里奇",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "怀阿里奇",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
