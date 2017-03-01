@@ -11296,6 +11296,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Melissa-Lee-49",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q6812766",
           "scheme": "wikidata"
         }
@@ -26382,7 +26386,7 @@
       "role": "member"
     },
     {
-      "area_id": "area/list",
+      "area_id": "area/mt_albert",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -26392,7 +26396,8 @@
         {
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3011/ardern-jacinda"
         }
-      ]
+      ],
+      "start_date": "2017-02-25"
     },
     {
       "area_id": "area/list",
@@ -30844,6 +30849,11 @@
     {
       "id": "area/mount_roskill",
       "name": "Mount Roskill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mt_albert",
+      "name": "Mt Albert",
       "type": "constituency"
     },
     {
