@@ -30678,7 +30678,25 @@
     },
     {
       "id": "area/auckland_central",
+      "identifiers": [
+        {
+          "identifier": "Q4819499",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Auckland Central",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Auckland Central",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Auckland Central",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30688,22 +30706,74 @@
     },
     {
       "id": "area/bay_of_plenty",
+      "identifiers": [
+        {
+          "identifier": "Q4874224",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Bay of Plenty",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bay of Plenty",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/botany",
+      "identifiers": [
+        {
+          "identifier": "Q4948500",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Botany",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Botany",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/christchurch_central",
+      "identifiers": [
+        {
+          "identifier": "Q5109061",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Christchurch Central",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christchurch Central",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/christchurch_east",
+      "identifiers": [
+        {
+          "identifier": "Q5109073",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Christchurch East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christchurch East",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30713,82 +30783,330 @@
     },
     {
       "id": "area/clutha-southland",
+      "identifiers": [
+        {
+          "identifier": "Q5136749",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Clutha-Southland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Clutha-Southland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Clutha-Southland",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/coromandel",
+      "identifiers": [
+        {
+          "identifier": "Q5172096",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Coromandel",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Coromandel",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dunedin_north",
+      "identifiers": [
+        {
+          "identifier": "Q5314979",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dunedin North",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dunedin North",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/dunedin_south",
+      "identifiers": [
+        {
+          "identifier": "Q5314990",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Dunedin South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dunedin South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/east_coast",
+      "identifiers": [
+        {
+          "identifier": "Q5328100",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Coast",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "East Coast",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/east_coast_bays",
+      "identifiers": [
+        {
+          "identifier": "Q5328103",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "East Coast Bays",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "East Coast Bays",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/epsom",
+      "identifiers": [
+        {
+          "identifier": "Q5383983",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Epsom",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Epsom",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אפסום",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hamilton_east",
+      "identifiers": [
+        {
+          "identifier": "Q5644917",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hamilton East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hamilton East",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hamilton_west",
+      "identifiers": [
+        {
+          "identifier": "Q17050921",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hamilton West",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hamilton West",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hauraki-waikato",
+      "identifiers": [
+        {
+          "identifier": "Q5682782",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hauraki-Waikato",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hauraki-Waikato",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Hauraki-Waikato",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/helensville",
+      "identifiers": [
+        {
+          "identifier": "Q5704055",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Helensville",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Helensville",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Helensville (circumscripció electoral)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "海倫斯維爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "海伦斯维尔",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hunua",
+      "identifiers": [
+        {
+          "identifier": "Q5945947",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hunua",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hunua",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/hutt_south",
+      "identifiers": [
+        {
+          "identifier": "Q5950940",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Hutt South",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hutt South",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ikaroa-rāwhiti",
+      "identifiers": [
+        {
+          "identifier": "Q5995391",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ikaroa-Rāwhiti",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ikaroa-Rāwhiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ikaroa-Rāwhiti",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/ilam",
+      "identifiers": [
+        {
+          "identifier": "Q5996966",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ilam",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ilam",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/invercargill",
+      "identifiers": [
+        {
+          "identifier": "Q6060017",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Invercargill",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Invercargill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Invercargill (circumscripció electoral)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30798,7 +31116,20 @@
     },
     {
       "id": "area/kelston",
+      "identifiers": [
+        {
+          "identifier": "Q17052336",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Kelston",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kelston",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30808,7 +31139,25 @@
     },
     {
       "id": "area/mana",
+      "identifiers": [
+        {
+          "identifier": "Q6746510",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mana",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30818,17 +31167,461 @@
     },
     {
       "id": "area/manukau_east",
+      "identifiers": [
+        {
+          "identifier": "Q6753142",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Manukau East",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Manukau East",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/manurewa",
+      "identifiers": [
+        {
+          "identifier": "Q6753178",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Manurewa",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_at",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de_ch",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_ca",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en_gb",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds_nl",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt_br",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr_el",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Manurewa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Manurewa",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/maungakiekie",
+      "identifiers": [
+        {
+          "identifier": "Q6792557",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Maungakiekie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Maungakiekie",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30838,7 +31631,20 @@
     },
     {
       "id": "area/mount_albert",
+      "identifiers": [
+        {
+          "identifier": "Q14006001",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mount Albert",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mount Albert Electorate",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30848,47 +31654,209 @@
     },
     {
       "id": "area/mt_roskill",
+      "identifiers": [
+        {
+          "identifier": "Q6923295",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Mt Roskill",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mount Roskill",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/māngere",
+      "identifiers": [
+        {
+          "identifier": "Q6950610",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Māngere",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Māngere",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/napier",
+      "identifiers": [
+        {
+          "identifier": "Q16954969",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Napier",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Napier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Napier",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/nelson",
+      "identifiers": [
+        {
+          "identifier": "Q6990332",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Nelson",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nelson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nelson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "納爾遜",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "纳尔逊选区议员",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/new_lynn",
+      "identifiers": [
+        {
+          "identifier": "Q7009958",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "New Lynn",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "New Lynn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "紐林",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "纽林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/new_plymouth",
+      "identifiers": [
+        {
+          "identifier": "Q7010994",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "New Plymouth",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "New Plymouth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "New Plymouth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "新普利茅斯選區議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "新普利茅斯选区议员",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/north_shore",
+      "identifiers": [
+        {
+          "identifier": "Q7056657",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "North Shore",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "North Shore",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/northcote",
+      "identifiers": [
+        {
+          "identifier": "Q7057755",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Northcote",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Northcote",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/northland",
+      "identifiers": [
+        {
+          "identifier": "Q7059501",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Northland",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Northland",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30908,12 +31876,43 @@
     },
     {
       "id": "area/pakuranga",
+      "identifiers": [
+        {
+          "identifier": "Q7126081",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Pakuranga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pakuranga",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/palmerston_north",
+      "identifiers": [
+        {
+          "identifier": "Q7128320",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Palmerston North",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Palmerston North",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Palmerston North",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30928,7 +31927,20 @@
     },
     {
       "id": "area/port_hills",
+      "identifiers": [
+        {
+          "identifier": "Q7230671",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Port Hills",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Port Hills",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30943,7 +31955,20 @@
     },
     {
       "id": "area/rangitata",
+      "identifiers": [
+        {
+          "identifier": "Q7292856",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rangitata",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rangitata",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30953,32 +31978,135 @@
     },
     {
       "id": "area/rangitīkei",
+      "identifiers": [
+        {
+          "identifier": "Q7292867",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rangitīkei",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Rangitīkei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rangitīkei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "朗基蒂凱",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "朗基蒂凯选区议员",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/rimutaka",
+      "identifiers": [
+        {
+          "identifier": "Q7334523",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rimutaka",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rimutaka",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/rodney",
+      "identifiers": [
+        {
+          "identifier": "Q7356829",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rodney",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rodney",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/rongotai",
+      "identifiers": [
+        {
+          "identifier": "Q7365666",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rongotai",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rongotai",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロンゴタイ選挙区",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/rotorua",
+      "identifiers": [
+        {
+          "identifier": "Q7370600",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Rotorua",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rotorua",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/selwyn",
+      "identifiers": [
+        {
+          "identifier": "Q7448897",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Selwyn",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Selwyn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Selwyn",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30988,7 +32116,20 @@
     },
     {
       "id": "area/taranaki-king_country",
+      "identifiers": [
+        {
+          "identifier": "Q7685388",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Taranaki-King Country",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Taranaki-King Country",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -30998,12 +32139,38 @@
     },
     {
       "id": "area/taupō",
+      "identifiers": [
+        {
+          "identifier": "Q7688833",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Taupō",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Taupō",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tauranga",
+      "identifiers": [
+        {
+          "identifier": "Q16934070",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tauranga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tauranga",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31013,67 +32180,296 @@
     },
     {
       "id": "area/te_atatū",
+      "identifiers": [
+        {
+          "identifier": "Q7690783",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Te Atatū",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Te Atatū",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/te_tai_hauāuru",
+      "identifiers": [
+        {
+          "identifier": "Q1725044",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Te Tai Hauāuru",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Te Tai Hauāuru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Te Tai Hauāuru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mi",
+          "name": "Te Tai-hauāuru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Te Tai Hauāuru",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/te_tai_tokerau",
+      "identifiers": [
+        {
+          "identifier": "Q2398210",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Te Tai Tokerau",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Te Tai Tokerau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Te Tai Tokerau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Te Tai Tokerau",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/te_tai_tonga",
+      "identifiers": [
+        {
+          "identifier": "Q7690987",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Te Tai Tonga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Te Tai Tonga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Te Tai Tonga",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tukituki",
+      "identifiers": [
+        {
+          "identifier": "Q7851846",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tukituki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tukituki",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tāmaki",
+      "identifiers": [
+        {
+          "identifier": "Q7862516",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tāmaki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tāmaki",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/tāmaki_makaurau",
+      "identifiers": [
+        {
+          "identifier": "Q2465243",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Tāmaki Makaurau",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tāmaki Makaurau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tāmaki Makaurau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Tāmaki Makaurau",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/upper_harbour",
+      "identifiers": [
+        {
+          "identifier": "Q17067595",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Upper Harbour",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Upper Harbour",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/waikato",
+      "identifiers": [
+        {
+          "identifier": "Q7959989",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waikato",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Waikato",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Waikato",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mi",
+          "name": "Waikato",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/waimakariri",
+      "identifiers": [
+        {
+          "identifier": "Q7960087",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waimakariri",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Waimakariri",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wairarapa",
+      "identifiers": [
+        {
+          "identifier": "Q7960306",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wairarapa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wairarapa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "懷拉拉帕 (紐西蘭議會選區)",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/waitakere",
+      "identifiers": [
+        {
+          "identifier": "Q7960444",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waitakere",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Waitakere",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/waitaki",
+      "identifiers": [
+        {
+          "identifier": "Q7960460",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Waitaki",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Waitaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Waitaki",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31083,27 +32479,107 @@
     },
     {
       "id": "area/wellington_central",
+      "identifiers": [
+        {
+          "identifier": "Q17067719",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wellington Central",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wellington Central",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/west_coast-tasman",
+      "identifiers": [
+        {
+          "identifier": "Q7984755",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "West Coast-Tasman",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "West Coast-Tasman",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/whanganui",
+      "identifiers": [
+        {
+          "identifier": "Q7990611",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Whanganui",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Whanganui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_hant",
+          "name": "旺格努伊選區議員",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh_cn",
+          "name": "旺格努伊选区议员",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "旺格努伊",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/whangarei",
+      "identifiers": [
+        {
+          "identifier": "Q7990620",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Whangarei",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Whangarei",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/wigram",
+      "identifiers": [
+        {
+          "identifier": "Q7999699",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Wigram",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wigram",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -31148,12 +32624,38 @@
     },
     {
       "id": "area/Ōhāriu",
+      "identifiers": [
+        {
+          "identifier": "Q8081484",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ōhāriu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ōhariu",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
       "id": "area/Ōtaki",
+      "identifiers": [
+        {
+          "identifier": "Q8081748",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Ōtaki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ōtaki",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     }
   ]
