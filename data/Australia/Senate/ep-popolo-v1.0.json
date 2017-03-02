@@ -172,6 +172,10 @@
           "scheme": "openaustralia"
         },
         {
+          "identifier": "George-Brandis",
+          "scheme": "quora"
+        },
+        {
           "identifier": "92126563",
           "scheme": "viaf"
         },
@@ -660,6 +664,10 @@
         {
           "identifier": "10832",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "David-Leyonhjelm",
+          "scheme": "quora"
         },
         {
           "identifier": "Q16149378",
@@ -4793,6 +4801,10 @@
         {
           "identifier": "10046",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Bronwyn-Bishop-1",
+          "scheme": "quora"
         },
         {
           "identifier": "w69w7s2n",
@@ -16641,7 +16653,7 @@
       "name": "Zed Seselja",
       "other_names": [
         {
-          "name": "Senator Zed Seselja",
+          "name": "Senator the Hon Zed Seselja",
           "note": "alternate"
         },
         {
