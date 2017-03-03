@@ -37813,7 +37813,46 @@
     {
       "classification": "party",
       "id": "party/area_popolare_(ncd-centristi_per_l'europa)",
-      "name": "Area Popolare (Ncd-Centristi per l'Europa)"
+      "identifiers": [
+        {
+          "identifier": "Q18844195",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
+      "name": "Area Popolare (Ncd-Centristi per l'Europa)",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Popular Area",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Area Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중구역",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民眾地區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民众地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Area Popolare",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",

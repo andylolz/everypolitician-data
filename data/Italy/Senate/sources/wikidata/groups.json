@@ -735,6 +735,47 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg"
   },
+  "area_popolare_(ncd-centristi_per_l'europa)": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q18844195"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Popular Area",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Area Popolare",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "대중구역",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "民眾地區",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "民众地区",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Area Popolare",
+        "note": "multilingual"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg"
+  },
   "gruppo_misto": {
     "identifiers": [
       {
