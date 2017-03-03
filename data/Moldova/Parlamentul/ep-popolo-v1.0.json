@@ -12223,6 +12223,12 @@
     {
       "classification": "legislative period",
       "id": "term/2014",
+      "identifiers": [
+        {
+          "identifier": "Q20431862",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legislatura XX",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "start_date": "2014-12-29"
