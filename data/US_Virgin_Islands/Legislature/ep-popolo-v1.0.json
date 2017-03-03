@@ -246,11 +246,16 @@
     },
     {
       "gender": "male",
+      "given_name": "Marvin",
       "id": "b4c82324-73d3-4a43-873f-7daac6eecef7",
       "identifiers": [
         {
           "identifier": "marvin-blyden",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28868256",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.legvi.org/images/Senators/SenMarvinBlyden.jpg",
@@ -259,7 +264,18 @@
           "url": "http://www.legvi.org/images/Senators/SenMarvinBlyden.jpg"
         }
       ],
-      "name": "Marvin A. Blyden"
+      "name": "Marvin A. Blyden",
+      "other_names": [
+        {
+          "name": "Marvin Allen Blyden",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marvin Allen Blyden",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
