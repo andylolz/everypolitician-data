@@ -1829,7 +1829,9 @@
       "patronymic_name": "Васильович"
     },
     {
+      "birth_date": "1974-07-05",
       "family_name": "Демчак",
+      "gender": "male",
       "given_name": "Руслан",
       "id": "0d99cd43-430b-42e9-884c-7cdca9edc273",
       "identifiers": [
@@ -1840,6 +1842,10 @@
         {
           "identifier": "18080",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q19521677",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/d18_1.jpg",
@@ -1848,7 +1854,42 @@
           "url": "http://static.rada.gov.ua/dep_img8/d18_1.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ruslan_Demchak"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Демчак,_Руслан_Евгеньевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Демчак_Руслан_Євгенійович"
+        }
+      ],
       "name": "Демчак Руслан Євгенійович",
+      "other_names": [
+        {
+          "name": "Руслан Євгенович Демчак",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ruslan Demchak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Демчак, Руслан Евгеньевич",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Руслан Євгенович Демчак",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Євгенійович"
     },
     {
@@ -32215,13 +32256,19 @@
       "patronymic_name": "Петрович"
     },
     {
+      "birth_date": "1982-02-23",
       "family_name": "Бендюженко",
+      "gender": "male",
       "given_name": "Федір",
       "id": "f3b228a6-146b-4f80-92f8-e02e2cf2c54b",
       "identifiers": [
         {
           "identifier": "19550",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q28846109",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/nf80.jpg",
@@ -32231,6 +32278,13 @@
         }
       ],
       "name": "Бендюженко Федір Володимирович",
+      "other_names": [
+        {
+          "lang": "uk",
+          "name": "Бендюженко Федір Володимирович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Володимирович"
     },
     {
