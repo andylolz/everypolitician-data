@@ -7465,11 +7465,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Oman/Majlis/sources",
         "popolo": "data/Oman/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/40730aeab8810d741660ac5bb52dec8963b71bd3/data/Oman/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fc40aff48d110c7c90af58f51980c16e1d4f1a39/data/Oman/Majlis/ep-popolo-v1.0.json",
         "names": "data/Oman/Majlis/names.csv",
-        "lastmod": "1485067942",
+        "lastmod": "1488580225",
         "person_count": 84,
-        "sha": "40730aeab8810d741660ac5bb52dec8963b71bd3",
+        "sha": "fc40aff48d110c7c90af58f51980c16e1d4f1a39",
         "legislative_periods": [
           {
             "end_date": "2015-10-28",
@@ -7478,10 +7478,10 @@
             "start_date": "2011-10-31",
             "slug": "7",
             "csv": "data/Oman/Majlis/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aea0138d4503e5c487ac5b4e3e46cf713dce140a/data/Oman/Majlis/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fc40aff48d110c7c90af58f51980c16e1d4f1a39/data/Oman/Majlis/term-7.csv"
           }
         ],
-        "statement_count": 1552,
+        "statement_count": 1566,
         "type": "lower house"
       }
     ]
@@ -8047,11 +8047,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Romania/Deputies/sources",
         "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e80110ad4d2b54247cdf016c27ddfe592b2a0500/data/Romania/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6291c721f02d3da5ca3e5911e93e6e83b893e43c/data/Romania/Deputies/ep-popolo-v1.0.json",
         "names": "data/Romania/Deputies/names.csv",
         "lastmod": "1488137601",
         "person_count": 416,
-        "sha": "e80110ad4d2b54247cdf016c27ddfe592b2a0500",
+        "sha": "6291c721f02d3da5ca3e5911e93e6e83b893e43c",
         "legislative_periods": [
           {
             "end_date": "2016-12-10",
@@ -8060,7 +8060,7 @@
             "start_date": "2012-12-12",
             "slug": "2012",
             "csv": "data/Romania/Deputies/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e80110ad4d2b54247cdf016c27ddfe592b2a0500/data/Romania/Deputies/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6291c721f02d3da5ca3e5911e93e6e83b893e43c/data/Romania/Deputies/term-2012.csv"
           }
         ],
         "statement_count": 23278,
