@@ -13564,7 +13564,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election",
+      "name": "Peruvian general election, 1985",
       "start_date": "1985-04-14"
     },
     {
@@ -13603,7 +13603,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election",
+      "name": "Peruvian general election, 1995",
       "start_date": "1995-04-09"
     },
     {
@@ -13668,15 +13668,15 @@
     },
     {
       "classification": "general election",
-      "end_date": "2016-06-05",
-      "id": "Q7171198",
+      "end_date": "2016-04-10",
+      "id": "Q23468729",
       "identifiers": [
         {
-          "identifier": "Q7171198",
+          "identifier": "Q23468729",
           "scheme": "wikidata"
         }
       ],
-      "name": "Peruvian general election, 2016",
+      "name": "Peruvian parliamentary election, 2016",
       "start_date": "2016-04-10"
     }
   ],
