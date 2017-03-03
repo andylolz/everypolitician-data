@@ -763,6 +763,11 @@
           "lang": "en",
           "name": "Kevin Mileham",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kevin Mileham",
+          "note": "multilingual"
         }
       ]
     },
@@ -1206,6 +1211,9 @@
       "images": [
         {
           "url": "http://www.pa.org.za/media_root/cache/ca/d1/cad14647b2789aca586e9d77974408e5.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Fish_Mahlalela.jpg"
         }
       ],
       "links": [
@@ -1233,6 +1241,7 @@
       ]
     },
     {
+      "birth_date": "1977-08-03",
       "contact_details": [
         {
           "type": "email",
@@ -1465,6 +1474,16 @@
         },
         {
           "lang": "en",
+          "name": "Floyd Shivambu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Floyd Shivambu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Floyd Shivambu",
           "note": "multilingual"
         },
@@ -2410,6 +2429,11 @@
           "lang": "it",
           "name": "Dean Macpherson",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dean Macpherson",
+          "note": "multilingual"
         }
       ]
     },
@@ -2469,6 +2493,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Lindiwe Zulu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Lindiwe Zulu",
           "note": "multilingual"
         }
@@ -3237,6 +3266,9 @@
       "images": [
         {
           "url": "http://www.pa.org.za/media_root/cache/fd/ab/fdabf9049e7f07b7f24f46564b73d9e1.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Sej-Motau.jpg"
         }
       ],
       "links": [
@@ -3404,6 +3436,10 @@
         {
           "identifier": "119051664",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0003 7406 4333",
+          "scheme": "isni"
         },
         {
           "identifier": "n90659499",
@@ -3969,6 +4005,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "David Mahlobo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "David Mahlobo",
           "note": "multilingual"
         }
@@ -4671,6 +4712,11 @@
         },
         {
           "lang": "en",
+          "name": "Senzeni Zokwana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Senzeni Zokwana",
           "note": "multilingual"
         }
@@ -5665,6 +5711,7 @@
       ]
     },
     {
+      "birth_date": "1985",
       "contact_details": [
         {
           "type": "email",
@@ -6729,6 +6776,26 @@
           "scheme": "isni"
         },
         {
+          "identifier": "n86098232",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "073006394",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2012065469",
+          "scheme": "nukat"
+        },
+        {
+          "identifier": "1342293",
+          "scheme": "ptbnp"
+        },
+        {
+          "identifier": "319054",
+          "scheme": "selibr"
+        },
+        {
           "identifier": "06703795X",
           "scheme": "sudoc"
         },
@@ -6755,6 +6822,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Jeremy_Cronin"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jeremy_Cronin"
         },
         {
           "note": "Wikipedia (sw)",
@@ -6795,6 +6866,11 @@
         },
         {
           "lang": "hu",
+          "name": "Jeremy Cronin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Jeremy Cronin",
           "note": "multilingual"
         },
@@ -10001,6 +10077,11 @@
           "lang": "en",
           "name": "Ngoako Ramatlhodi",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ngoako Ramatlhodi",
+          "note": "multilingual"
         }
       ]
     },
@@ -10520,8 +10601,16 @@
           "scheme": "munzinger"
         },
         {
+          "identifier": "492/000043363",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "08734212X",
           "scheme": "nta"
+        },
+        {
+          "identifier": "w66c0mzg",
+          "scheme": "snac"
         },
         {
           "identifier": "02853655X",
@@ -10752,6 +10841,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-cn",
+          "name": "曼戈苏图·布特莱齐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "曼戈蘇圖·布特萊齊",
+          "note": "multilingual"
+        },
+        {
           "lang": "zu",
           "name": "Mangosuthu \"Gatsha\" Buthelezi",
           "note": "multilingual"
@@ -10836,6 +10935,11 @@
           "lang": "es",
           "name": "Glynnis Breytenbach",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Glynnis Breytenbach",
+          "note": "multilingual"
         }
       ]
     },
@@ -10901,6 +11005,10 @@
         {
           "identifier": "no2010046788",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "Julius-Malema",
+          "scheme": "quora"
         },
         {
           "identifier": "15981846X",
@@ -14985,6 +15093,10 @@
           "scheme": "nta"
         },
         {
+          "identifier": "w6np2kpc",
+          "scheme": "snac"
+        },
+        {
           "identifier": "028731581",
           "scheme": "sudoc"
         },
@@ -15433,6 +15545,11 @@
           "lang": "en",
           "name": "Steven Swart",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Steven Swart",
+          "note": "multilingual"
         }
       ]
     },
@@ -15763,6 +15880,11 @@
         },
         {
           "lang": "fr",
+          "name": "Michael Masutha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Michael Masutha",
           "note": "multilingual"
         }
@@ -16380,6 +16502,11 @@
         },
         {
           "lang": "en",
+          "name": "Yusuf Cassim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Yusuf Cassim",
           "note": "multilingual"
         }
