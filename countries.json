@@ -1361,11 +1361,11 @@
         "slug": "Assembly",
         "sources_directory": "data/British_Virgin_Islands/Assembly/sources",
         "popolo": "data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3193528a00baf181c6f1c8cc36c58b2dbe443ba6/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d69f7ae91c1724eb82cc8c8c2eed18c0d515576/data/British_Virgin_Islands/Assembly/ep-popolo-v1.0.json",
         "names": "data/British_Virgin_Islands/Assembly/names.csv",
         "lastmod": "1488147599",
         "person_count": 23,
-        "sha": "3193528a00baf181c6f1c8cc36c58b2dbe443ba6",
+        "sha": "8d69f7ae91c1724eb82cc8c8c2eed18c0d515576",
         "legislative_periods": [
           {
             "id": "term/2015",
@@ -10553,11 +10553,11 @@
         "slug": "Legislature",
         "sources_directory": "data/US_Virgin_Islands/Legislature/sources",
         "popolo": "data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/334911d0e36be76a48e8cea7ff513587e3296aab/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9e59c39ca851fc92034b01789510f04efa7d8a67/data/US_Virgin_Islands/Legislature/ep-popolo-v1.0.json",
         "names": "data/US_Virgin_Islands/Legislature/names.csv",
-        "lastmod": "1485067972",
+        "lastmod": "1488583268",
         "person_count": 15,
-        "sha": "334911d0e36be76a48e8cea7ff513587e3296aab",
+        "sha": "9e59c39ca851fc92034b01789510f04efa7d8a67",
         "legislative_periods": [
           {
             "end_date": "2016-12-31",
@@ -10569,7 +10569,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dcbaa3052f9a67307812772264665b7aa6dbeb3/data/US_Virgin_Islands/Legislature/term-2014.csv"
           }
         ],
-        "statement_count": 688,
+        "statement_count": 696,
         "type": "unicameral legislature"
       }
     ]
