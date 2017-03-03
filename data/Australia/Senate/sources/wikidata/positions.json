@@ -609,14 +609,22 @@
         "P580": "1988-02-16",
         "P582": "1996-02-06",
         "P1365": "Susan Ryan",
-        "P1366": "Kate Lundy"
+        "P1366": "Kate Lundy",
+        "P768": "Australian Capital Territory"
       }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Canberra",
+        "P580": "1996-03-02",
+        "P582": "1998-10-03",
+        "P1365": "Brendan Smyth",
+        "P1366": "Annette Ellis"
+      }
     },
     {
       "id": "Q6746719",
@@ -649,6 +657,19 @@
         "P582": "1994-01-30",
         "P1365": "Ros Kelly",
         "P1366": "Michael Lee"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Fraser",
+        "P580": "1998-10-03",
+        "P582": "2010-07-19",
+        "P1365": "Steve Dargavel",
+        "P1366": "Andrew Leigh"
       }
     }
   ],
@@ -2116,13 +2137,27 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "New South Wales",
+        "P580": "1994-03-08",
+        "P582": "1997-03-07",
+        "P1365": "Bronwyn Bishop",
+        "P1366": "Marise Payne"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Lowe",
+        "P580": "1987-07-11",
+        "P582": "1993-03-13",
+        "P1365": "Michael Maher",
+        "P1366": "Mary Easson"
+      }
     }
   ],
   "Q6239095": [
