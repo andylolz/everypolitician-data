@@ -22,7 +22,7 @@ e03d5779-cd0c-4cbe-8865-30d324785984,Amadou Cissé,Amadou Cissé,,,,URD,urd,area
 896ce0b6-795e-4c96-8feb-81fe0e10b625,Amadou Diepkile,Amadou Diepkile,,,,ADEMA,adema,area/bandiagara,BANDIAGARA,National Assembly,2014,,,,
 b9966ffe-6a8d-4942-b74e-7665bfc8dfcf,Amadou Maïga,Amadou Maïga,,,,Unknown,unknown,area/douentza,DOUENTZA,National Assembly,2014,,,,
 1a6051af-d896-4925-bddd-935e62d48ae5,Amadou Thiam,Amadou Thiam,,,,ADP-Maliba,adp-maliba,area/commune_v,COMMUNE V,National Assembly,2014,,,,
-6039c013-5b0d-4666-9dd3-fa40c11153b9,Aminata Traoré,Aminata Traoré,,,,RPM,rpm,area/san,SAN,National Assembly,2014,,,,
+6039c013-5b0d-4666-9dd3-fa40c11153b9,Aminata Traoré,Aminata Traoré,,,,RPM,rpm,area/san,SAN,National Assembly,2014,,,https://upload.wikimedia.org/wikipedia/commons/e/e0/Aminata_Traore_IMG_0245.jpg,female
 f4faec93-a7c9-4c65-89b2-64b5f96dd42b,Arbonkana Maïga,Arbonkana Maïga,,,,CFP,cfp,area/gao,GAO,National Assembly,2014,,,,
 9c0c0215-be7b-4917-8505-0f5de9a0209a,Assarid Ag Imbarcaouane,Assarid Ag Imbarcaouane,,,,ADEMA,adema,area/gao,GAO,National Assembly,2014,,,,
 32aae390-386c-4ea2-b7da-3c3a5942d151,Aziza Mint Mohamed,Aziza Mint Mohamed,,,,ADEMA,adema,area/tombouctou,TOMBOUCTOU,National Assembly,2014,,,,
@@ -70,7 +70,7 @@ b1d493ca-5a55-4a3c-96dc-a45c0137effd,Hamadoun Yaranangoré,Hamadoun Yaranangoré
 0588d931-d677-484c-bd73-2a1d91a02b54,Idrissa Sankare,Idrissa Sankare,,,,ASMA,asma,area/bankass,BANKASS,National Assembly,2014,,,,
 fd8d8b21-5e11-41fc-bd3e-2dd72d2ed73f,Ilias Goro,Ilias Goro,,,,PDES,pdes,area/douentza,DOUENTZA,National Assembly,2014,,,,
 6227091f-cde9-4a1f-8c4a-da38666ec07b,Issa Togo,Issa Togo,,,,ADEMA,adema,area/koro,KORO,National Assembly,2014,,,,
-b1a23270-e4e6-4304-89c4-360d4550ea0c,Issaka Sidibé,Issaka Sidibé,,,,RPM,rpm,area/koulikoro,KOULIKORO,National Assembly,2014,,,,
+b1a23270-e4e6-4304-89c4-360d4550ea0c,Issaka Sidibé,Issaka Sidibé,,,,RPM,rpm,area/koulikoro,KOULIKORO,National Assembly,2014,,,,male
 bb8b7664-2116-406a-9845-625f696fb6fd,Kalilou Ouattara,Kalilou Ouattara,,,,RPM,rpm,area/commune_iii,COMMUNE III,National Assembly,2014,,,,
 c69b9a63-a3d6-4dbc-bcee-5d6a1406281b,Karim Keita,Karim Keita,,,,RPM,rpm,area/commune_ii,COMMUNE II,National Assembly,2014,,,,
 990b3779-8b4c-4a7a-afa4-634adc13f8ab,Karim Yossi,Karim Yossi,,,,CODEM,codem,area/bankass,BANKASS,National Assembly,2014,,,,
@@ -101,12 +101,12 @@ fe622c33-43c5-4d88-9631-acb5929085bc,Modibo Cissé,Modibo Cissé,,,,RPM,rpm,area
 c051c0e7-b747-40ec-89ac-ecbdde769d6f,Mohamed Ould Sidy Mohamed,Mohamed Ould Sidy Mohamed,,,,Ind,ind,area/goundam,GOUNDAM,National Assembly,2014,,,,
 41e2824f-64d0-430f-8354-12c02131d58c,Mohamed Tounkara,Mohamed Tounkara,,,,RPM,rpm,area/kita,KITA,National Assembly,2014,,,,
 f52de35c-8397-4083-ba61-c7ad1ffc351a,Moussa Cissé,Moussa Cissé,,,,URD,urd,area/kayes,KAYES,National Assembly,2014,,,,
-80cc710c-81a8-4e55-8fb0-9c28f70a6d03,Moussa Coulibaly,Moussa Coulibaly,,,,UDD,udd,area/commune_vi,COMMUNE VI,National Assembly,2014,,,,
+80cc710c-81a8-4e55-8fb0-9c28f70a6d03,Moussa Coulibaly,Moussa Coulibaly,,,,UDD,udd,area/commune_vi,COMMUNE VI,National Assembly,2014,,,,male
 000eb554-b96f-4c1d-b428-72a78d7c973d,Moussa Diarra,Moussa Diarra,,,,RPM,rpm,area/commune_iv,COMMUNE IV,National Assembly,2014,,,,
 95e5b38f-7391-4c33-902e-e3e60788628b,Moussa Timbiné,Moussa Timbiné,,,,RPM,rpm,area/commune_v,COMMUNE V,National Assembly,2014,,,,
 0fd0786c-0cda-4b4a-8177-da2cfe899bdb,Nanko Mariko,Nanko Mariko,,,,SADI,sadi,area/koutiala,KOUTIALA,National Assembly,2014,,,,
 ee667bae-4ea0-4fdf-9d80-9522b763fee8,NDoula Thiam,NDoula Thiam,,,,RPM,rpm,area/commune_iv,COMMUNE IV,National Assembly,2014,,,,
-e484f8d9-e080-4451-94fe-d2f7265237b1,Oumar Mariko,Oumar Mariko,,,,SADI,sadi,area/kolondieba,KOLONDIEBA,National Assembly,2014,,,,
+e484f8d9-e080-4451-94fe-d2f7265237b1,Oumar Mariko,Oumar Mariko,,,,SADI,sadi,area/kolondieba,KOLONDIEBA,National Assembly,2014,,,https://upload.wikimedia.org/wikipedia/commons/0/0f/Oumar_Mariko.jpg,male
 25f70d35-e9d7-46d3-90f7-11a578bbae7a,Oumar Traoré,Oumar Traoré,,,,Ind,ind,area/goundam,GOUNDAM,National Assembly,2014,,,,
 868db646-4149-487c-84ad-e3aa64a06429,Oumou Keita,Oumou Keita,,,,RPM,rpm,area/commune_v,COMMUNE V,National Assembly,2014,,,,
 0e0f00e8-401d-4e59-80fe-c03cafc1de19,Ousmane Bathily,Ousmane Bathily,,,,RPM,rpm,area/nioro,NIORO,National Assembly,2014,,,,
@@ -126,7 +126,7 @@ b4589263-d6ee-467a-be5c-e3b6f0396510,Siaka Sangare,Siaka Sangare,,,,CDS,cds,area
 0e18f30e-f220-4ec9-80ee-d47da93782f8,Soiba Coulibaly,Soiba Coulibaly,,,,RPM,rpm,area/kati,KATI,National Assembly,2014,,,,
 9f713cff-a936-4735-8556-5b531a0b0530,Souléymane Diarra,Souléymane Diarra,,,,SADI,sadi,area/koutiala,KOUTIALA,National Assembly,2014,,,,
 a6c13db6-6407-4326-a883-44960f4df5df,Souléymane Soumano,Souléymane Soumano,,,,RPM,rpm,area/kati,KATI,National Assembly,2014,,,,
-30e76cac-5a88-4da4-8033-21e24ab87fbf,Soumaïla Cissé,Soumaïla Cissé,,,,URD,urd,area/niafunke,NIAFUNKE,National Assembly,2014,,,,
+30e76cac-5a88-4da4-8033-21e24ab87fbf,Soumaïla Cissé,Soumaïla Cissé,,,,URD,urd,area/niafunke,NIAFUNKE,National Assembly,2014,,,,male
 16364561-b44d-49b2-a8e5-1a2b650bba8a,Sékou Cissé,Sékou Cissé,,,,URD,urd,area/djenne,DJENNE,National Assembly,2014,,,,
 069548aa-b66d-42fe-8a02-e48ea41d828c,Sékou Traoré,Sékou Traoré,,,,ADEMA,adema,area/diola,DIOLA,National Assembly,2014,,,,
 8d81bd12-7dff-493c-b9d6-273dc9c6e4b6,Sériba Diarra,Sériba Diarra,,,,ADEMA,adema,area/kolokani,KOLOKANI,National Assembly,2014,,,,
