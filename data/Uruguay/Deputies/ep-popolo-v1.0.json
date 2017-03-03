@@ -1074,6 +1074,11 @@
       "name": "Daniel Bianchi",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "دانييل بيانكي",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Daniel Bianchi",
           "note": "multilingual"
@@ -1486,9 +1491,14 @@
         {
           "type": "email",
           "value": "jgarcia@parlamento.gub.uy"
+        },
+        {
+          "type": "twitter",
+          "value": "SenJavierGarcia"
         }
       ],
       "email": "jgarcia@parlamento.gub.uy",
+      "family_name": "García",
       "gender": "male",
       "given_name": "Javier",
       "id": "6f3886ad-eb90-4352-b3d2-d8a4525fbb4d",
@@ -1531,6 +1541,14 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Javier_García_Duchini"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/diputadojaviergarcia"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenJavierGarcia"
         }
       ],
       "name": "Javier García",
@@ -3427,6 +3445,7 @@
         }
       ],
       "email": "crodriguezgalvez@parlamento.gub.uy",
+      "family_name": "Rodríguez",
       "gender": "male",
       "given_name": "Carlos",
       "id": "c5f57802-84a3-4e05-9a34-c646b052cd62",
