@@ -741,7 +741,7 @@
         },
         {
           "lang": "he",
-          "name": "איביצה דאצ'יץ'",
+          "name": "איוויצה דאצ'יץ'",
           "note": "multilingual"
         },
         {
@@ -2404,6 +2404,7 @@
     },
     {
       "birth_date": "1974-02-05",
+      "family_name": "Stefanović",
       "gender": "male",
       "given_name": "Borislav",
       "id": "4758daec-aea1-45fc-998a-9bf7084d20d7",
@@ -2421,10 +2422,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Borko_Stefanovic_Crop.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Borko_Stefanović.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Borko_Stefanovic_Crop.jpg"
         }
       ],
       "links": [
@@ -2486,6 +2487,11 @@
         {
           "lang": "nl",
           "name": "Borislav Stefanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Борислав Стефанович",
           "note": "multilingual"
         },
         {
@@ -5902,8 +5908,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1110988370",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2016151143",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "5741",
           "scheme": "pace"
+        },
+        {
+          "identifier": "19147121678626390910",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q222031",
@@ -6848,7 +6866,7 @@
         },
         {
           "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Bojan_Paytiç"
+          "url": "https://tr.wikipedia.org/wiki/Bojan_Pajtić"
         },
         {
           "note": "Wikipedia (uk)",
