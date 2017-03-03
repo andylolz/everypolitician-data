@@ -594,11 +594,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/062131b7486362a60d93373f0c2045c96ac4b213/data/Australia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/78c5387df995186a3d7febfca1516189d3757134/data/Australia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Australia/Representatives/names.csv",
         "lastmod": "1488255907",
         "person_count": 512,
-        "sha": "062131b7486362a60d93373f0c2045c96ac4b213",
+        "sha": "78c5387df995186a3d7febfca1516189d3757134",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -707,11 +707,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/665408ac05a2b5e913aa8c154648952e2095d12e/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/190fea361e43a0bc6fbbaa23e9d92af8ba4ce517/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
-        "lastmod": "1488112176",
+        "lastmod": "1488499932",
         "person_count": 257,
-        "sha": "665408ac05a2b5e913aa8c154648952e2095d12e",
+        "sha": "190fea361e43a0bc6fbbaa23e9d92af8ba4ce517",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -812,7 +812,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8d1e45f767a9036e6db247147c8248b11f7d3be9/data/Australia/Senate/term-35.csv"
           }
         ],
-        "statement_count": 23014,
+        "statement_count": 23020,
         "type": "upper house"
       }
     ]
