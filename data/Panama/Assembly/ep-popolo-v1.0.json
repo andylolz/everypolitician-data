@@ -632,11 +632,18 @@
       "name": "H.D. AUSENCIO EUSEBIO PALACIO PINEDA"
     },
     {
+      "birth_date": "1965-01-01",
+      "gender": "male",
+      "given_name": "Pedro",
       "id": "958edd3a-c3d1-4736-8397-55e0a946e9b9",
       "identifiers": [
         {
           "identifier": "h.d._pedro_miguel_gonzalez_pinzon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7159791",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.gob.pa/fotdip/H.D%20PEDRO_M_GONZALEZ_PWC.jpg",
@@ -645,7 +652,58 @@
           "url": "http://www.asamblea.gob.pa/fotdip/H.D%20PEDRO_M_GONZALEZ_PWC.jpg"
         }
       ],
-      "name": "H.D. PEDRO MIGUEL GONZALEZ PINZON"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pedro_Miguel_González_Pinzón"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pedro_Miguel_González"
+        }
+      ],
+      "name": "H.D. PEDRO MIGUEL GONZALEZ PINZON",
+      "other_names": [
+        {
+          "name": "Pedro Miguel González Pinzón",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pedro Miguel González Pinzón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Miguel González Pinzón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pedro Miguel González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Miguel González Pinzón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pedro Miguel González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pedro Miguel González Pinzón",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pedro Miguel González Pinzón",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "96ab17ed-43c0-42e8-a0cf-7ca08eb6a85a",
@@ -988,11 +1046,16 @@
       "name": "H.D. DIOGENES VERGARA"
     },
     {
+      "gender": "male",
       "id": "e896aaf7-421e-4e7e-93f5-5cabd6d41b8f",
       "identifiers": [
         {
           "identifier": "h.d._ruben_de_leon_sanchez",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22280279",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asamblea.gob.pa/fotdip/HD_RUBEN%20DE%20LEON_PWC.jpg",
@@ -1001,7 +1064,29 @@
           "url": "http://www.asamblea.gob.pa/fotdip/HD_RUBEN%20DE%20LEON_PWC.jpg"
         }
       ],
-      "name": "H.D. RUBEN DE LEON SANCHEZ"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rubén_De_León_Sánchez"
+        }
+      ],
+      "name": "H.D. RUBEN DE LEON SANCHEZ",
+      "other_names": [
+        {
+          "name": "Rubén De León Sánchez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rubén De León Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rubén De León Sánchez",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "ea11345d-1ac9-4510-9a58-41c53050fe70",
