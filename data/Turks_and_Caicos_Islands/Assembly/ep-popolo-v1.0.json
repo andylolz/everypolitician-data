@@ -32,10 +32,10 @@
           "url": "https://lh3.googleusercontent.com/-25MXEVeNxU0/VE_too2B1JI/AAAAAAAAAOY/VKD4gUOR-Vs/w721-h577-no/hon-amanda-misick.JPG"
         }
       ],
-      "name": "Amanda Missick",
+      "name": "Amanda A. Misick",
       "other_names": [
         {
-          "name": "Amanda A. Misick",
+          "name": "Amanda Missick",
           "note": "alternate"
         }
       ]
@@ -56,6 +56,10 @@
         }
       ],
       "name": "Sean Rickard Astwood"
+    },
+    {
+      "id": "115262f1-45e6-4a17-ae36-86c31bcdd57d",
+      "name": "Edwin Astwood"
     },
     {
       "birth_date": "1972",
@@ -117,14 +121,14 @@
           "url": "https://twitter.com/docrewing"
         }
       ],
-      "name": "Dr. Rufus Washington Ewing",
+      "name": "Rufus Washington Ewing",
       "other_names": [
         {
-          "name": "Rufus Ewing",
+          "name": "Dr. Rufus Washington Ewing",
           "note": "alternate"
         },
         {
-          "name": "Rufus Washington Ewing",
+          "name": "Rufus Ewing",
           "note": "alternate"
         },
         {
@@ -233,14 +237,14 @@
           "url": "https://en.wikipedia.org/wiki/Sharlene_Cartwright-Robinson"
         }
       ],
-      "name": "Sharlene Linette Catrwright-Robinson",
+      "name": "Sharlene Linette Cartwright Robinson",
       "other_names": [
         {
           "name": "Sharlene Cartwright-Robinson",
           "note": "alternate"
         },
         {
-          "name": "Sharlene Linette Cartwright Robinson",
+          "name": "Sharlene Linette Catrwright-Robinson",
           "note": "alternate"
         },
         {
@@ -374,10 +378,10 @@
           "url": "https://lh3.googleusercontent.com/-8Bwmp2S-Zfg/VE_tran2tWI/AAAAAAAAAPs/gU4ajC-hMsk/w721-h577-no/hon-porsha-stubbs-smith.JPG"
         }
       ],
-      "name": "Porsha Monique Stubbs-Smith",
+      "name": "Porsha Monique Stubbs Smith",
       "other_names": [
         {
-          "name": "Porsha Monique Stubbs Smith",
+          "name": "Porsha Monique Stubbs-Smith",
           "note": "alternate"
         }
       ]
@@ -512,10 +516,10 @@
           "url": "https://lh5.googleusercontent.com/-pNXe7tMdaaM/VE_tqz8oydI/AAAAAAAAAPU/jzLK8GTUfbA/w721-h577-no/hon-josephine-conolly.JPG"
         }
       ],
-      "name": "Josephine Conolly",
+      "name": "Josephine Connolly",
       "other_names": [
         {
-          "name": "Josephine Connolly",
+          "name": "Josephine Conolly",
           "note": "alternate"
         }
       ]
@@ -655,10 +659,10 @@
           "url": "https://en.wikipedia.org/wiki/Akierra_Missick"
         }
       ],
-      "name": "Akierra Mary Deanne Missick",
+      "name": "Akierra M. Missick",
       "other_names": [
         {
-          "name": "Akierra M. Missick",
+          "name": "Akierra Mary Deanne Missick",
           "note": "alternate"
         },
         {
@@ -753,10 +757,10 @@
           "url": "https://lh6.googleusercontent.com/-Obv6dn5OE5s/VE_tr2MJ8sI/AAAAAAAAAPw/tx-dFCrpWBA/w721-h577-no/hon-ricardo-don-hue-gardiner.JPG"
         }
       ],
-      "name": "Ricardo Don-Hue Gardiner",
+      "name": "Ricardo Don Hue Gardiner",
       "other_names": [
         {
-          "name": "Ricardo Don Hue Gardiner",
+          "name": "Ricardo Don-Hue Gardiner",
           "note": "alternate"
         }
       ]
@@ -842,7 +846,7 @@
   },
   "memberships": [
     {
-      "area_id": "area/cheshire_hall_and_richmond_hill",
+      "area_id": "area/cheshire_hall_&_richmond_hill",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnp",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
@@ -866,6 +870,14 @@
           "url": "https://www.gov.tc/index.php/government/house-of-assembly"
         }
       ]
+    },
+    {
+      "area_id": "area/grand_turk_south",
+      "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "115262f1-45e6-4a17-ae36-86c31bcdd57d",
+      "role": "member"
     },
     {
       "area_id": "area/all_island_district",
@@ -1063,7 +1075,7 @@
       ]
     },
     {
-      "area_id": "area/north_and_middle_caicos",
+      "area_id": "area/north_&_middle_caicos",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pnp",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
@@ -1150,8 +1162,8 @@
       "type": "constituency"
     },
     {
-      "id": "area/cheshire_hall_and_richmond_hill",
-      "name": "Cheshire Hall and Richmond Hill",
+      "id": "area/cheshire_hall_&_richmond_hill",
+      "name": "Cheshire Hall & Richmond Hill",
       "type": "constituency"
     },
     {
@@ -1165,13 +1177,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/grand_turk_south",
+      "name": "Grand Turk South",
+      "type": "constituency"
+    },
+    {
       "id": "area/leeward",
       "name": "Leeward",
       "type": "constituency"
     },
     {
-      "id": "area/north_and_middle_caicos",
-      "name": "North and Middle Caicos",
+      "id": "area/north_&_middle_caicos",
+      "name": "North & Middle Caicos",
       "type": "constituency"
     },
     {
