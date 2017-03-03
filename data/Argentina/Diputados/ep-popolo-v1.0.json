@@ -499,6 +499,11 @@
       "sort_name": "Juarez, Myrian Del Valle"
     },
     {
+      "id": "0cc7eeba-f10c-4a8c-a0e4-339a1610bfe3",
+      "name": "Veronica Carolina Couly",
+      "sort_name": "Couly, Veronica Carolina"
+    },
+    {
       "birth_date": "1965-12-05",
       "contact_details": [
         {
@@ -17396,6 +17401,11 @@
       "sort_name": "Roberti, Alberto Oscar"
     },
     {
+      "id": "c591f65f-27de-4fab-9f9e-0bc4ef0cb5ee",
+      "name": "Orieta Cecilia Vera Gonzalez",
+      "sort_name": "Vera Gonzalez, Orieta Cecilia"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -24049,6 +24059,19 @@
       ]
     },
     {
+      "area_id": "area/buenos_aires",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/federal_unidos_por_una_nueva_argentina",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "0cc7eeba-f10c-4a8c-a0e4-339a1610bfe3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/vcouly/"
+        }
+      ]
+    },
+    {
       "area_id": "area/salta",
       "legislative_period_id": "term/133",
       "on_behalf_of_id": "party/salta_somos_todos",
@@ -28050,6 +28073,20 @@
       "sources": [
         {
           "url": "http://www.hcdn.gob.ar/diputados/aroberti/"
+        }
+      ],
+      "start_date": "2015-12-10"
+    },
+    {
+      "area_id": "area/catamarca",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/coalicion_civica",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "c591f65f-27de-4fab-9f9e-0bc4ef0cb5ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/overag/"
         }
       ],
       "start_date": "2015-12-10"
