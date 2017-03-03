@@ -10625,11 +10625,11 @@
         "slug": "Verkhovna-Rada",
         "sources_directory": "data/Ukraine/Verkhovna_Rada/sources",
         "popolo": "data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34642d1f0a0784af095e0b67156a69ffaa74018f/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38b2c6020c7f02602d0d38179448bc028e846108/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
         "names": "data/Ukraine/Verkhovna_Rada/names.csv",
-        "lastmod": "1488178216",
+        "lastmod": "1488530268",
         "person_count": 460,
-        "sha": "34642d1f0a0784af095e0b67156a69ffaa74018f",
+        "sha": "38b2c6020c7f02602d0d38179448bc028e846108",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -10637,10 +10637,10 @@
             "start_date": "2014-11-27",
             "slug": "8",
             "csv": "data/Ukraine/Verkhovna_Rada/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/34642d1f0a0784af095e0b67156a69ffaa74018f/data/Ukraine/Verkhovna_Rada/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/38b2c6020c7f02602d0d38179448bc028e846108/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
         ],
-        "statement_count": 22977,
+        "statement_count": 23004,
         "type": "unicameral legislature"
       }
     ]
