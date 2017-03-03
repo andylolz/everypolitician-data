@@ -264,14 +264,42 @@
       "name": "Hamoud bin Ali Al Saeedi"
     },
     {
+      "birth_date": "1972-05-24",
+      "gender": "male",
       "id": "58f4f049-dfae-437d-8bab-5fbcdb37f2a8",
       "identifiers": [
         {
           "identifier": "talib_bin_al_maamari",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20398968",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Talib bin Al Maamari"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/طالب_المعمري"
+        }
+      ],
+      "name": "Talib bin Al Maamari",
+      "other_names": [
+        {
+          "name": "Talib bin Ahmed Al Maamari",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "طالب المعمري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Talib bin Ahmed Al Maamari",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "5a1ffee8-9815-4d2a-8555-854fa437b439",
