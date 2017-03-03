@@ -14,14 +14,46 @@
       "name": "Mohamed Nuuraani Bakar"
     },
     {
+      "gender": "male",
       "id": "0325542e-7d63-43e4-bc66-1fe23c60706a",
       "identifiers": [
         {
           "identifier": "abdulahi_bile_nor",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19321790",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Abdulahi Bile Nor"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdullahi_Bile_Noor"
+        }
+      ],
+      "name": "Abdulahi Bile Nor",
+      "other_names": [
+        {
+          "name": "Abdullahi Bile Noor",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abdullahi Bile Noor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abdullahi Bile Noor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdullahi Bile Noor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "042fab4b-9062-4120-891a-d97079d0c468",
@@ -324,14 +356,56 @@
       "name": "C/risaaq Daahir Maxamud"
     },
     {
+      "gender": "female",
       "id": "2c8ed01c-e546-4772-b76a-938ae4ff9dbf",
       "identifiers": [
         {
           "identifier": "nadifo_maxamed_osman",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16733109",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Nadifo Maxamed Osman"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nadifo_Mohamed_Osman"
+        }
+      ],
+      "name": "Nadifo Maxamed Osman",
+      "other_names": [
+        {
+          "name": "Nadifo Mohamed Osman",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nadifo Mohamed Osman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nadifo Mohamed Osman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nadifo Mohamed Osman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nadifo Mohamed Osman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nadifo Mohamed Osman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "2ce39dc7-3a33-465c-bab3-b40923c08bca",
@@ -554,14 +628,68 @@
       "name": "Isaaq Maxamed Cali(Riino)"
     },
     {
+      "gender": "male",
+      "given_name": "Abdulkadir",
       "id": "4b3ce693-d1ab-4e49-8348-98edba919f19",
       "identifiers": [
         {
           "identifier": "dr._abdulkadir_abdi_hashi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16225443",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Dr. Abdulkadir Abdi Hashi"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aahashi1.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aahashi1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdulkadir_Abdi_Hashi"
+        }
+      ],
+      "name": "Dr. Abdulkadir Abdi Hashi",
+      "other_names": [
+        {
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Abdulkadir Abdi Hashi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "4b8eb21b-ee76-4315-b588-ab56fe92400e",
@@ -654,14 +782,57 @@
       "name": "Mahad Mohamed Ducaale"
     },
     {
+      "gender": "male",
       "id": "58ff4553-382e-4108-b433-462754471ffd",
       "identifiers": [
         {
           "identifier": "mahad_cabdalle_cawad",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6732728",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mahad Cabdalle Cawad"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mahad-Awad.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mahad-Awad.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mahad_Abdalle_Awad"
+        }
+      ],
+      "name": "Mahad Cabdalle Cawad",
+      "other_names": [
+        {
+          "name": "Mahad Abdalle Awad",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mahad Abdalle Awad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mahad Abdalle Awad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mahad Abdalle Awad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mahad Abdalle Awad",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "599381ad-1034-4d44-a8b7-5c45bc204929",
@@ -944,14 +1115,57 @@
       "name": "Zakariye Xuseen Aare5"
     },
     {
+      "gender": "male",
+      "given_name": "Ridwan",
       "id": "73eaa3e8-bee0-4c06-af56-57e73b026ce7",
       "identifiers": [
         {
           "identifier": "ridwan_hirsi_mohamed",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16735224",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ridwan Hirsi Mohamed"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ridwan_Hirsi_Mohamed"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ริดวัน_ฮิรซี_โมฮัมเหม็ด"
+        }
+      ],
+      "name": "Ridwan Hirsi Mohamed",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ridwan Hirsi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ridwan Hirsi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ridwan Hirsi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ridwan Hirsi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ริดวัน ฮิรซี โมฮัมเหม็ด",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "73eb15d3-9baf-459f-8959-8d3028dd648a",
@@ -1114,14 +1328,95 @@
       "name": "Nuur Cali Aadan"
     },
     {
+      "birth_date": "1950",
+      "death_date": "2014-07-23",
+      "gender": "female",
       "id": "891c01bf-bda9-42d6-a1b7-33ea612710f8",
       "identifiers": [
         {
           "identifier": "sado_ali_warsame",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17404430",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Sado Ali Warsame"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Saadoaliw1.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Saadoaliw1.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Saado_Ali_Warsame"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Saado_Ali_Warsame"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Saado_Ali_Warsame"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Saado_Ali_Warsame"
+        },
+        {
+          "note": "Wikipedia (so)",
+          "url": "https://so.wikipedia.org/wiki/Saado_Cali_Warsame"
+        }
+      ],
+      "name": "Sado Ali Warsame",
+      "other_names": [
+        {
+          "name": "Saado Ali Warsame",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "سعدو كالي ارسام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Saado Ali Warsame",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Saado Cali Warsame",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "8b417b84-096b-4b03-9da3-0ab7dfa4261e",
@@ -1584,14 +1879,57 @@
       "name": "Cali Nuur Xuseen Cali"
     },
     {
+      "gender": "male",
+      "given_name": "Said",
       "id": "cb1618ab-6301-41af-a2e3-60cf66aee2e9",
       "identifiers": [
         {
           "identifier": "saciid_abdulahi_mohamed",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17069995",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Saciid Abdulahi Mohamed"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Said_Abdullahi_Mohamed"
+        }
+      ],
+      "name": "Saciid Abdulahi Mohamed",
+      "other_names": [
+        {
+          "name": "Said Abdullahi Mohamed",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Said Abdullahi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Said Abdullahi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Said Abdullahi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Said Abdullahi Mohamed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Said Abdullahi Mohamed",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "cbf7cda2-4a79-4577-9d52-b5980cdb2073",
@@ -1764,14 +2102,36 @@
       "name": "Busharo Cabdi Diriye4"
     },
     {
+      "gender": "male",
       "id": "db415bff-e85e-464e-b1b5-e57c1c7831be",
       "identifiers": [
         {
           "identifier": "caadil_sheegow_sagaar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18808488",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Caadil Sheegow Sagaar"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aadil_Sheegow_Sagaar"
+        }
+      ],
+      "name": "Caadil Sheegow Sagaar",
+      "other_names": [
+        {
+          "name": "Aadil Sheegow Sagaar",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aadil Sheegow Sagaar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "dcf0c73b-9e90-41c3-b528-cb1041a30a89",
@@ -1814,14 +2174,37 @@
       "name": "Cabdirahman Ahmed Suge"
     },
     {
+      "gender": "male",
       "id": "e74642e7-752f-48e0-a59e-e5365103e3f7",
       "identifiers": [
         {
           "identifier": "mohamud_hayir_ibrahim",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19661704",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mohamud Hayir Ibrahim"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohamud_Hayir_Ibrahim"
+        }
+      ],
+      "name": "Mohamud Hayir Ibrahim",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mohamud Hayir Ibrahim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohamud Hayir Ibrahim",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "e78a356f-6693-4163-b0a8-0dd47ea51342",
