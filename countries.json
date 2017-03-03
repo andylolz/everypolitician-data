@@ -7652,11 +7652,11 @@
         "slug": "Congreso",
         "sources_directory": "data/Peru/Congreso/sources",
         "popolo": "data/Peru/Congreso/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f933aff4629db5a8448876bceee71586867bbc1d/data/Peru/Congreso/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c031973978fa298e35f2145c0167041e28f41093/data/Peru/Congreso/ep-popolo-v1.0.json",
         "names": "data/Peru/Congreso/names.csv",
-        "lastmod": "1485067945",
+        "lastmod": "1488536991",
         "person_count": 127,
-        "sha": "f933aff4629db5a8448876bceee71586867bbc1d",
+        "sha": "c031973978fa298e35f2145c0167041e28f41093",
         "legislative_periods": [
           {
             "end_date": "2016-07-26",
