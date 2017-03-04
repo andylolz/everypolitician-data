@@ -2000,6 +2000,7 @@
       "name": "Egardo Dionisio Mier Estades"
     },
     {
+      "birth_date": "1972-08-24",
       "contact_details": [
         {
           "type": "email",
@@ -2008,20 +2009,50 @@
       ],
       "email": "fcarballo@parlamento.gub.uy",
       "gender": "male",
+      "given_name": "Felipe",
       "id": "8695fdc1-8fe6-4348-ace3-e5c0dc3c2f4e",
       "identifiers": [
         {
           "identifier": "4807604",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28517183",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07604.jpg",
       "images": [
         {
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07604.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Felipe_carballo.jpg"
         }
       ],
-      "name": "Felipe Carballo Da Costa"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Felipe_Carballo_(diputado)"
+        }
+      ],
+      "name": "Felipe Carballo Da Costa",
+      "other_names": [
+        {
+          "name": "Felipe Carballo",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Felipe Carballo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Felipe Carballo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2226,6 +2257,7 @@
       "name": "Oscar De los Santos"
     },
     {
+      "birth_date": "1969-03-11",
       "contact_details": [
         {
           "type": "email",
@@ -2239,15 +2271,44 @@
         {
           "identifier": "4803948",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26727956",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03948.jpg",
       "images": [
         {
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03948.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AlvaroDelgado-2000x1500.jpg"
         }
       ],
-      "name": "Alvaro Delgado"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Álvaro_Delgado_Ceretta"
+        }
+      ],
+      "name": "Alvaro Delgado",
+      "other_names": [
+        {
+          "name": "Álvaro Delgado Ceretta",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Álvaro Delgado Ceretta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Álvaro Delgado Ceretta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-10-07",
