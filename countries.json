@@ -2702,11 +2702,11 @@
         "slug": "House-of-Assembly",
         "sources_directory": "data/Dominica/House_of_Assembly/sources",
         "popolo": "data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2939dfbb2ebae41308e71040d9bd9c0e7b4e0a71/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b0a3942c1a3577b255a24b5e45bbf00383e5629/data/Dominica/House_of_Assembly/ep-popolo-v1.0.json",
         "names": "data/Dominica/House_of_Assembly/names.csv",
-        "lastmod": "1485067884",
+        "lastmod": "1488577987",
         "person_count": 21,
-        "sha": "2939dfbb2ebae41308e71040d9bd9c0e7b4e0a71",
+        "sha": "2b0a3942c1a3577b255a24b5e45bbf00383e5629",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -2717,7 +2717,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7d9c925e3bf0558f0eb2e1d0e5cdef1f0428485/data/Dominica/House_of_Assembly/term-2014.csv"
           }
         ],
-        "statement_count": 558,
+        "statement_count": 561,
         "type": "unicameral legislature"
       }
     ]
@@ -2733,11 +2733,11 @@
         "slug": "Diputados",
         "sources_directory": "data/Dominican_Republic/Diputados/sources",
         "popolo": "data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4c1cc307b72c072f52ac16862b0b4416aa4ed9d2/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/77bc1b2cfa87caba67bc9e5f07eef09a340e2bd2/data/Dominican_Republic/Diputados/ep-popolo-v1.0.json",
         "names": "data/Dominican_Republic/Diputados/names.csv",
         "lastmod": "1488109346",
         "person_count": 190,
-        "sha": "4c1cc307b72c072f52ac16862b0b4416aa4ed9d2",
+        "sha": "77bc1b2cfa87caba67bc9e5f07eef09a340e2bd2",
         "legislative_periods": [
           {
             "end_date": "2016-08-15",
