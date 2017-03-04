@@ -2348,11 +2348,11 @@
         "slug": "Sabor",
         "sources_directory": "data/Croatia/Sabor/sources",
         "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a8f6d4a7546880fd208fe323020ccfdbd57a40ef/data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9ccf2019fec7c2530a6683a5b9fe0755d85cf212/data/Croatia/Sabor/ep-popolo-v1.0.json",
         "names": "data/Croatia/Sabor/names.csv",
-        "lastmod": "1487224540",
+        "lastmod": "1488575961",
         "person_count": 289,
-        "sha": "a8f6d4a7546880fd208fe323020ccfdbd57a40ef",
+        "sha": "9ccf2019fec7c2530a6683a5b9fe0755d85cf212",
         "legislative_periods": [
           {
             "end_date": "2016-07-15",
@@ -2373,7 +2373,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbe2016a734c7e0c75393e37af7d64f1e5ab87d7/data/Croatia/Sabor/term-7.csv"
           }
         ],
-        "statement_count": 11358,
+        "statement_count": 11360,
         "type": "unicameral legislature"
       }
     ]
