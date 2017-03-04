@@ -5982,11 +5982,11 @@
         "slug": "Majlis",
         "sources_directory": "data/Maldives/Majlis/sources",
         "popolo": "data/Maldives/Majlis/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e96d8e757eb46201273de303cf73807a2e310d3/data/Maldives/Majlis/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0cd8a05c4c6827252dac63c6e983e8c5400333bb/data/Maldives/Majlis/ep-popolo-v1.0.json",
         "names": "data/Maldives/Majlis/names.csv",
-        "lastmod": "1485067929",
+        "lastmod": "1488579985",
         "person_count": 85,
-        "sha": "1e96d8e757eb46201273de303cf73807a2e310d3",
+        "sha": "0cd8a05c4c6827252dac63c6e983e8c5400333bb",
         "legislative_periods": [
           {
             "id": "term/2014",
@@ -5997,7 +5997,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e58b9bf71ba53eafd6861b6b6f6dc38636822998/data/Maldives/Majlis/term-2014.csv"
           }
         ],
-        "statement_count": 1285,
+        "statement_count": 1288,
         "type": "unicameral legislature"
       }
     ]
