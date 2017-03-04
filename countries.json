@@ -9199,11 +9199,11 @@
         "slug": "Assembly",
         "sources_directory": "data/South_Africa/Assembly/sources",
         "popolo": "data/South_Africa/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d0dd4f346876bc52553c319453940e277d9d981/data/South_Africa/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d2164b76a702b8e1ae1a65d0a1b2c6e765247fc/data/South_Africa/Assembly/ep-popolo-v1.0.json",
         "names": "data/South_Africa/Assembly/names.csv",
-        "lastmod": "1487854389",
+        "lastmod": "1488582694",
         "person_count": 400,
-        "sha": "9d0dd4f346876bc52553c319453940e277d9d981",
+        "sha": "4d2164b76a702b8e1ae1a65d0a1b2c6e765247fc",
         "legislative_periods": [
           {
             "id": "term/26",
@@ -9214,7 +9214,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/32031bfe0be08fc8e4b15665e6da5dc2e40c7eba/data/South_Africa/Assembly/term-26.csv"
           }
         ],
-        "statement_count": 11775,
+        "statement_count": 11846,
         "type": "lower house"
       }
     ]
