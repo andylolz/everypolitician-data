@@ -9137,11 +9137,11 @@
         "slug": "Lower",
         "sources_directory": "data/Somalia/Lower/sources",
         "popolo": "data/Somalia/Lower/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/309466d537fdb800098913721203a945e8090c59/data/Somalia/Lower/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/70885f1d5f67c1c87c39ef1565fe780f24e69b59/data/Somalia/Lower/ep-popolo-v1.0.json",
         "names": "data/Somalia/Lower/names.csv",
-        "lastmod": "1488582465",
+        "lastmod": "1488582159",
         "person_count": 204,
-        "sha": "309466d537fdb800098913721203a945e8090c59",
+        "sha": "70885f1d5f67c1c87c39ef1565fe780f24e69b59",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -9149,7 +9149,7 @@
             "start_date": "2012-08-20",
             "slug": "2012",
             "csv": "data/Somalia/Lower/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/309466d537fdb800098913721203a945e8090c59/data/Somalia/Lower/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4ade6ab23f527387f08b1d47a0aa53ac14c6c699/data/Somalia/Lower/term-2012.csv"
           }
         ],
         "statement_count": 2505,
