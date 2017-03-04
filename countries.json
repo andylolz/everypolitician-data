@@ -2316,11 +2316,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Costa_Rica/Assembly/sources",
         "popolo": "data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/98a81a9b4642bb7c639d9d44a45a959ca2903c27/data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ade708f0972247b12120cbd147af07201e963e86/data/Costa_Rica/Assembly/ep-popolo-v1.0.json",
         "names": "data/Costa_Rica/Assembly/names.csv",
-        "lastmod": "1485067877",
+        "lastmod": "1488575599",
         "person_count": 57,
-        "sha": "98a81a9b4642bb7c639d9d44a45a959ca2903c27",
+        "sha": "ade708f0972247b12120cbd147af07201e963e86",
         "legislative_periods": [
           {
             "end_date": "2018-04-30",
