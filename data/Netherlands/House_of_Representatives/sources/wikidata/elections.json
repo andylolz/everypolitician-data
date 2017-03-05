@@ -441,6 +441,7 @@
     "dates": [
       "2012-09-12"
     ],
+    "followed_by": "Dutch general election, 2017",
     "office": "Prime Minister of the Netherlands",
     "successful_candidates": [
       "Mark Rutte"
@@ -1822,6 +1823,8 @@
     ],
     "dates": [
       "2017-03-15"
-    ]
+    ],
+    "follows": "Dutch general election, 2012",
+    "office": "Prime Minister of the Netherlands"
   }
 }
