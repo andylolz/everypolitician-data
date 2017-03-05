@@ -1429,6 +1429,16 @@
         "P1365": "Constantin Niță",
         "P1366": "Costin Grigore Borc"
       }
+    },
+    {
+      "id": "Q21504183",
+      "label": "Minister of the Economy",
+      "title": "Minister of the Economy",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2017-02-23",
+        "P1365": "Alexandru Petrescu"
+      }
     }
   ],
   "Q18541650": [
@@ -1864,7 +1874,8 @@
       "qualifiers": {
         "P580": "2017-01-04",
         "P1365": "Raluca Prună",
-        "P582": "2017-02-09"
+        "P582": "2017-02-09",
+        "P1366": "Tudorel Toader"
       }
     }
   ],
@@ -2836,6 +2847,16 @@
       "qualifiers": {
         "P580": "2012-12-19",
         "P768": "Dâmbovița County"
+      }
+    },
+    {
+      "id": "Q21504218",
+      "label": "Minister of European Funds",
+      "title": "Minister of European Funds",
+      "description": "Member of the Government of Romania",
+      "qualifiers": {
+        "P580": "2017-02-23",
+        "P1365": "Mihaela-Virginia Toader"
       }
     }
   ],
