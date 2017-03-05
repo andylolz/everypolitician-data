@@ -10051,11 +10051,11 @@
         "slug": "Supreme-Council",
         "sources_directory": "data/Transnistria/Supreme_Council/sources",
         "popolo": "data/Transnistria/Supreme_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d302ad29c1031cd20f28d77b6e69a3b7e27bc8b0/data/Transnistria/Supreme_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5d6b147adad004c479232674c6e55d3f0d4bf17/data/Transnistria/Supreme_Council/ep-popolo-v1.0.json",
         "names": "data/Transnistria/Supreme_Council/names.csv",
-        "lastmod": "1485067965",
+        "lastmod": "1488722942",
         "person_count": 65,
-        "sha": "d302ad29c1031cd20f28d77b6e69a3b7e27bc8b0",
+        "sha": "d5d6b147adad004c479232674c6e55d3f0d4bf17",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -10063,7 +10063,7 @@
             "start_date": "2015-12-23",
             "slug": "6",
             "csv": "data/Transnistria/Supreme_Council/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a8164097025784a8c81c3a9b16a483b8d8d1d564/data/Transnistria/Supreme_Council/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d5d6b147adad004c479232674c6e55d3f0d4bf17/data/Transnistria/Supreme_Council/term-6.csv"
           },
           {
             "end_date": "2015",
