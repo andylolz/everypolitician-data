@@ -1,14 +1,14 @@
 {
   "people": {
-    "count": 272,
+    "count": 278,
     "wikidata": 272,
     "latest_term": {
-      "count": 110,
-      "wikidata": 110,
+      "count": 90,
+      "wikidata": 84,
       "contacts": {
         "email": 0,
-        "facebook": 1,
-        "twitter": 3
+        "facebook": 0,
+        "twitter": 2
       }
     }
   },
@@ -17,9 +17,9 @@
     "wikidata": 17
   },
   "terms": {
-    "count": 5,
-    "latest": "2016-05-05",
-    "wikidata": 5
+    "count": 6,
+    "latest": "2017-03-03",
+    "wikidata": 6
   },
   "areas": {
     "count": 18,
