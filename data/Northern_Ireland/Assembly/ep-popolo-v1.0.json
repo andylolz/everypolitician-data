@@ -18,6 +18,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "/mla/13769",
+          "scheme": "twfy"
+        },
+        {
           "identifier": "Q4769268",
           "scheme": "wikidata"
         }
@@ -535,14 +539,38 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Sinéad",
       "id": "053e644c-ce77-4f83-b763-e8b10a144828",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25606",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28867758",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Sinéad Ennis"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sinéad_Ennis"
+        }
+      ],
+      "name": "Sinéad Ennis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sinéad Ennis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sinéad Ennis",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-03-18",
@@ -3220,6 +3248,10 @@
       "id": "206203af-d3b7-4196-9787-74fed3e5f7e6",
       "identifiers": [
         {
+          "identifier": "cb573392-bae3-43c7-9104-134fbe11e929",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "25139",
           "scheme": "everypolitician_legacy"
         },
@@ -4195,6 +4227,10 @@
       "given_name": "Arlene",
       "id": "2b0f1aa2-775b-4d01-b61a-65fee63791dc",
       "identifiers": [
+        {
+          "identifier": "9365406e-dc41-4855-84cf-c6990bb3ef2e",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "13790",
           "scheme": "everypolitician_legacy"
@@ -6038,6 +6074,10 @@
       "id": "444816c6-1b86-49f7-84c5-77d414f8f8d4",
       "identifiers": [
         {
+          "identifier": "73419095-f0de-4ffb-a1d2-038da721ad7b",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "25121",
           "scheme": "everypolitician_legacy"
         },
@@ -6150,14 +6190,37 @@
       ]
     },
     {
+      "gender": "female",
       "id": "4792896d-4b89-4ce5-8c91-2151e4823529",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25604",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28867747",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Elisha McCallion"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elisha_McCallion"
+        }
+      ],
+      "name": "Elisha McCallion",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Elisha McCallion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elisha McCallion",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-09-24",
@@ -7003,6 +7066,10 @@
       "given_name": "Jim",
       "id": "50efb41c-8266-44d6-93a4-3f3a77c650da",
       "identifiers": [
+        {
+          "identifier": "a5638810-9e3e-4ec6-8054-9750cf81fe8f",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "28512",
           "scheme": "europarlmep"
@@ -10986,14 +11053,38 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "John",
       "id": "78b0c1ff-ee3e-43ac-8e54-c6cc48f52b63",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25602",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28868387",
+          "scheme": "wikidata"
         }
       ],
-      "name": "John Stewart"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Stewart_(Northern_Ireland_politician)"
+        }
+      ],
+      "name": "John Stewart",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "John Stewart",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Stewart",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1941-11-26",
@@ -12085,14 +12176,38 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Jonathan",
       "id": "80ffca87-09c3-4bb5-91a8-49a928f56ee7",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25607",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28867994",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Jonathan Buckley"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Buckley"
+        }
+      ],
+      "name": "Jonathan Buckley",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jonathan Buckley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jonathan Buckley",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959",
@@ -13860,6 +13975,9 @@
       ]
     },
     {
+      "birth_date": "1959-09-03",
+      "gender": "female",
+      "given_name": "Dolores",
       "id": "984a6ce4-f2b1-466f-a4bd-1aca9b2d1def",
       "identifiers": [
         {
@@ -13869,9 +13987,51 @@
         {
           "identifier": "uk.org.publicwhip/person/13810",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q5289533",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Dolores Kelly"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dolores_Kelly"
+        }
+      ],
+      "name": "Dolores Kelly",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dolores Kelly",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-05-15",
@@ -14110,6 +14270,10 @@
       "given_name": "David",
       "id": "a061dfbd-2b38-4d23-9d75-7f36fc26fb33",
       "identifiers": [
+        {
+          "identifier": "4ad28600-cc7a-4bee-86c8-4c5da560ca53",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "13788",
           "scheme": "everypolitician_legacy"
@@ -14789,6 +14953,10 @@
       "id": "a7b407a3-8f43-40e4-812d-c19efca0c1c4",
       "identifiers": [
         {
+          "identifier": "2130a8ec-b79e-4e97-bd18-4ea3d30ab019",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "13907",
           "scheme": "everypolitician_legacy"
         },
@@ -14857,6 +15025,9 @@
       ]
     },
     {
+      "birth_date": "1947-03-24",
+      "gender": "male",
+      "given_name": "John",
       "id": "a9b3c7c8-2d74-4e0d-af49-25b33fcaac42",
       "identifiers": [
         {
@@ -14866,9 +15037,51 @@
         {
           "identifier": "uk.org.publicwhip/person/13772",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q6228425",
+          "scheme": "wikidata"
         }
       ],
-      "name": "John Dallat"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/John_Dallat"
+        }
+      ],
+      "name": "John Dallat",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "John Dallat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "John Dallat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "John Dallat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "John Dallat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "John Dallat",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "John Dallat",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955",
@@ -14935,6 +15148,10 @@
       "given_name": "Colum",
       "id": "ab778346-f22f-4f89-af9c-234fd57ded0f",
       "identifiers": [
+        {
+          "identifier": "43205881-81f1-463f-9d6c-53a2f89cf450",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "25130",
           "scheme": "everypolitician_legacy"
@@ -15483,9 +15700,31 @@
         {
           "identifier": "uk.org.publicwhip/person/25605",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28868438",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Pat Catney"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pat_Catney"
+        }
+      ],
+      "name": "Pat Catney",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pat Catney",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pat Catney",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-04-16",
@@ -17816,14 +18055,38 @@
       ]
     },
     {
+      "gender": "female",
+      "given_name": "Jemma",
       "id": "d3abef79-faab-4378-850b-c5cecfb23955",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25603",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q28867959",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Jemma Dolan"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jemma_Dolan"
+        }
+      ],
+      "name": "Jemma Dolan",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jemma Dolan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jemma Dolan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-01-10",
@@ -20192,6 +20455,10 @@
         {
           "identifier": "25791",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "b07bd079-fdf1-4922-bcdf-8b1ef55b16cf",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "XX820909",
