@@ -5397,7 +5397,30 @@
     {
       "classification": "party",
       "id": "party/Åländsk_demokrati",
-      "name": "Åländsk Demokrati"
+      "identifiers": [
+        {
+          "identifier": "Q23041529",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Åländsk Demokrati",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ålandic Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Åländsk Demokrati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーランドの民主",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
