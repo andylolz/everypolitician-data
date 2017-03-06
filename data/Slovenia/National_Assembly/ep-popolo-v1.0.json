@@ -2607,6 +2607,7 @@
     },
     {
       "birth_date": "1965-05-16",
+      "family_name": "Krivec",
       "gender": "male",
       "given_name": "Danijel",
       "id": "5dbc7ac7-afd6-4e49-b0ec-015dda0b71fe",
@@ -2922,6 +2923,7 @@
     },
     {
       "birth_date": "1969-01-03",
+      "family_name": "Trček",
       "gender": "male",
       "given_name": "Franc",
       "id": "607bb6ea-e300-4eb4-8533-4b974c5cdc4c",
@@ -5843,6 +5845,7 @@
     },
     {
       "birth_date": "1958-01-21",
+      "family_name": "Lah",
       "gender": "male",
       "given_name": "Zvonko",
       "id": "bc2af42e-dfb8-4b7b-a214-f10a21ca3808",
@@ -6910,6 +6913,10 @@
         {
           "identifier": "256",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "296907646",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q13494000",
@@ -8266,6 +8273,7 @@
     },
     {
       "birth_date": "1967-09-01",
+      "family_name": "Brglez",
       "gender": "male",
       "given_name": "Milan",
       "id": "dc065e46-5ed5-423a-a09b-ff1244199de7",
@@ -8605,6 +8613,7 @@
     },
     {
       "birth_date": "1957-06-29",
+      "family_name": "Vilfan",
       "gender": "male",
       "given_name": "Peter",
       "id": "dc980141-0f2d-4339-9aec-e7e10a58496b",
@@ -9192,6 +9201,7 @@
     },
     {
       "birth_date": "1960-03-21",
+      "family_name": "Gantar",
       "gender": "male",
       "given_name": "Tomaž",
       "id": "dea6f610-aafb-4416-9e68-e25d5ced64e2",
