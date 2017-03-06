@@ -155,7 +155,7 @@
       "name": "Pam Lewis",
       "other_names": [
         {
-          "name": "Pam Lewis",
+          "name": "Pam Cameron",
           "note": "alternate"
         },
         {
@@ -165,7 +165,7 @@
         },
         {
           "lang": "en",
-          "name": "Pam Lewis",
+          "name": "Pam Cameron",
           "note": "multilingual"
         },
         {
@@ -7268,14 +7268,18 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sinead_Bradley"
+          "url": "https://en.wikipedia.org/wiki/Sinéad_Bradley"
         }
       ],
       "name": "Sinead Bradley",
       "other_names": [
         {
+          "name": "Sinéad Bradley",
+          "note": "alternate"
+        },
+        {
           "lang": "en",
-          "name": "Sinead Bradley",
+          "name": "Sinéad Bradley",
           "note": "multilingual"
         },
         {
@@ -9438,6 +9442,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Declan_Kearney_2015.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Declan_Kearney_2015.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -10530,6 +10540,10 @@
         {
           "note": "Wikipedia (sk)",
           "url": "https://sk.wikipedia.org/wiki/David_Trimble"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/David_Trimble"
         },
         {
           "note": "Wikipedia (sv)",
@@ -12687,13 +12701,17 @@
       "name": "Sean Lynch",
       "other_names": [
         {
+          "name": "Seán Lynch",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Sean Lynch",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Sean Lynch",
+          "name": "Seán Lynch",
           "note": "multilingual"
         },
         {
@@ -13842,9 +13860,6 @@
       ]
     },
     {
-      "birth_date": "1959-09-03",
-      "gender": "female",
-      "given_name": "Dolores",
       "id": "984a6ce4-f2b1-466f-a4bd-1aca9b2d1def",
       "identifiers": [
         {
@@ -13854,51 +13869,9 @@
         {
           "identifier": "uk.org.publicwhip/person/13810",
           "scheme": "parlparse"
-        },
-        {
-          "identifier": "Q5289533",
-          "scheme": "wikidata"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Dolores_Kelly"
-        }
-      ],
-      "name": "Dolores Kelly",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Dolores Kelly",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Dolores Kelly"
     },
     {
       "birth_date": "1973-05-15",
@@ -14231,7 +14204,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Philip_McGuigan"
+          "url": "https://en.wikipedia.org/wiki/Phillip_McGuigan"
         }
       ],
       "name": "Philip McGuigan",
@@ -14884,9 +14857,6 @@
       ]
     },
     {
-      "birth_date": "1947-03-24",
-      "gender": "male",
-      "given_name": "John",
       "id": "a9b3c7c8-2d74-4e0d-af49-25b33fcaac42",
       "identifiers": [
         {
@@ -14896,51 +14866,9 @@
         {
           "identifier": "uk.org.publicwhip/person/13772",
           "scheme": "parlparse"
-        },
-        {
-          "identifier": "Q6228425",
-          "scheme": "wikidata"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/John_Dallat"
-        }
-      ],
-      "name": "John Dallat",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "John Dallat",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "John Dallat",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "John Dallat",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "John Dallat",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "John Dallat",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "John Dallat",
-          "note": "multilingual"
-        }
-      ]
+      "name": "John Dallat"
     },
     {
       "birth_date": "1955",
@@ -17289,12 +17217,8 @@
       "name": "Doug Beattie",
       "other_names": [
         {
-          "name": "Doug Beattie, British Army Officer",
-          "note": "alternate"
-        },
-        {
           "lang": "en",
-          "name": "Doug Beattie, British Army Officer",
+          "name": "Doug Beattie",
           "note": "multilingual"
         },
         {
@@ -18857,6 +18781,11 @@
         },
         {
           "lang": "fr",
+          "name": "Conor Murphy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
           "name": "Conor Murphy",
           "note": "multilingual"
         },
@@ -22381,6 +22310,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Parti vert",
+          "note": "multilingual"
+        },
+        {
           "lang": "eo",
           "name": "Verda Partio de Nord-Irlando",
           "note": "multilingual"
@@ -23262,6 +23196,11 @@
         {
           "lang": "ja",
           "name": "利益の前の国民同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Le Peuple avant le profit",
           "note": "multilingual"
         },
         {
@@ -31294,6 +31233,19 @@
       "start_date": "2016-05-05"
     },
     {
+      "classification": "general election",
+      "end_date": "2017-03-02",
+      "id": "Q28231972",
+      "identifiers": [
+        {
+          "identifier": "Q28231972",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Northern Ireland Assembly election, 2017",
+      "start_date": "2017-03-02"
+    },
+    {
       "classification": "legislative period",
       "id": "term/6",
       "identifiers": [
@@ -31412,7 +31364,7 @@
       "other_names": [
         {
           "lang": "en",
-          "name": "Lagan Valley (Assembly constituency)",
+          "name": "Lagan Valley",
           "note": "multilingual"
         }
       ],
