@@ -12393,6 +12393,10 @@
           "url": "https://la.wikipedia.org/wiki/Michael_Tudose"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Mihai_Tudose"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Mihai_Tudose"
         }
@@ -17652,6 +17656,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hr",
+          "name": "Florin Iordache",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Florin Iordache",
           "note": "multilingual"
@@ -18746,6 +18755,10 @@
           "url": "https://pl.wikipedia.org/wiki/Sorin_Grindeanu"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Sorin_Grindeanu"
+        },
+        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Sorin_Grindeanu"
         },
@@ -18909,6 +18922,16 @@
         },
         {
           "lang": "pl",
+          "name": "Sorin Grindeanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sorin Grindeanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
           "name": "Sorin Grindeanu",
           "note": "multilingual"
         },
