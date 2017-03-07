@@ -27361,8 +27361,12 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
-      "description": "mayor in France"
+      "title": "maire (of Caluire-et-Cuire)",
+      "description": "mayor in France",
+      "qualifiers": {
+        "P642": "Caluire-et-Cuire",
+        "P580": "2008-03-09"
+      }
     },
     {
       "id": "Q3044918",
