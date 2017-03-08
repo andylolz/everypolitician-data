@@ -8055,11 +8055,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Romania/Deputies/sources",
         "popolo": "data/Romania/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6291c721f02d3da5ca3e5911e93e6e83b893e43c/data/Romania/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f831821dc03326d1bca337c3ae57392a0154e553/data/Romania/Deputies/ep-popolo-v1.0.json",
         "names": "data/Romania/Deputies/names.csv",
-        "lastmod": "1488137601",
+        "lastmod": "1488920196",
         "person_count": 416,
-        "sha": "6291c721f02d3da5ca3e5911e93e6e83b893e43c",
+        "sha": "f831821dc03326d1bca337c3ae57392a0154e553",
         "legislative_periods": [
           {
             "end_date": "2016-12-10",
@@ -8071,7 +8071,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6291c721f02d3da5ca3e5911e93e6e83b893e43c/data/Romania/Deputies/term-2012.csv"
           }
         ],
-        "statement_count": 23278,
+        "statement_count": 23291,
         "type": "lower house"
       }
     ]
