@@ -10633,11 +10633,11 @@
         "slug": "Verkhovna-Rada",
         "sources_directory": "data/Ukraine/Verkhovna_Rada/sources",
         "popolo": "data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/579eb4c3898647581f9a035e68c505fdaf16a287/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf7c8bc733b7a1fa1c5b44f69b070c9f18e6311d/data/Ukraine/Verkhovna_Rada/ep-popolo-v1.0.json",
         "names": "data/Ukraine/Verkhovna_Rada/names.csv",
         "lastmod": "1488530737",
         "person_count": 460,
-        "sha": "579eb4c3898647581f9a035e68c505fdaf16a287",
+        "sha": "bf7c8bc733b7a1fa1c5b44f69b070c9f18e6311d",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -10645,7 +10645,7 @@
             "start_date": "2014-11-27",
             "slug": "8",
             "csv": "data/Ukraine/Verkhovna_Rada/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/579eb4c3898647581f9a035e68c505fdaf16a287/data/Ukraine/Verkhovna_Rada/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bf7c8bc733b7a1fa1c5b44f69b070c9f18e6311d/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
         ],
         "statement_count": 23299,
@@ -10696,11 +10696,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ecaf95a8fba5bfec9736adb6105fbc7093e79139/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/00d04d90fca6e3f35cee76a9cb51783f63147396/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1488214860",
+        "lastmod": "1488854458",
         "person_count": 1347,
-        "sha": "ecaf95a8fba5bfec9736adb6105fbc7093e79139",
+        "sha": "00d04d90fca6e3f35cee76a9cb51783f63147396",
         "legislative_periods": [
           {
             "id": "term/56",
@@ -10708,7 +10708,7 @@
             "start_date": "2015-05-08",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ecaf95a8fba5bfec9736adb6105fbc7093e79139/data/UK/Commons/term-56.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0553f1f74c960b8e50674db37b91ce70a8fece8a/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -10747,7 +10747,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d87ca1f377cfc7b036795f0bcb5f21554fdce9b8/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 155480,
+        "statement_count": 155636,
         "type": "lower house"
       }
     ]
