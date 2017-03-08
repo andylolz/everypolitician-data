@@ -4608,11 +4608,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Iran/Assembly/sources",
         "popolo": "data/Iran/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71028e96ebb84b92f7b11a4b5813e4a54dcd04e7/data/Iran/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d6dec6a3b3eafb0cacdbbbfb5d2d149d90868d63/data/Iran/Assembly/ep-popolo-v1.0.json",
         "names": "data/Iran/Assembly/names.csv",
-        "lastmod": "1486193366",
+        "lastmod": "1488944866",
         "person_count": 508,
-        "sha": "71028e96ebb84b92f7b11a4b5813e4a54dcd04e7",
+        "sha": "d6dec6a3b3eafb0cacdbbbfb5d2d149d90868d63",
         "legislative_periods": [
           {
             "id": "term/10",
@@ -4632,7 +4632,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/71028e96ebb84b92f7b11a4b5813e4a54dcd04e7/data/Iran/Assembly/term-9.csv"
           }
         ],
-        "statement_count": 8260,
+        "statement_count": 8264,
         "type": "unicameral legislature"
       }
     ]
