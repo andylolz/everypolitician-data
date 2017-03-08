@@ -1165,6 +1165,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Lin Chun-hsien",
+          "note": "multilingual"
+        },
+        {
           "lang": "nan",
           "name": "Lîm Chùn-hiàn",
           "note": "multilingual"
@@ -4510,6 +4515,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hsu_Kuo-yung"
+        },
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/徐國勇"
@@ -8793,6 +8802,11 @@
         {
           "name": "潘維剛",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tina Pan",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
