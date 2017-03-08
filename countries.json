@@ -4133,11 +4133,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Guam/Parliament/sources",
         "popolo": "data/Guam/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8553852baefbb39910658ea4d4151c010bad26bb/data/Guam/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d90b58c0e579f817e0743e981fb9bcbc2be8fe7d/data/Guam/Parliament/ep-popolo-v1.0.json",
         "names": "data/Guam/Parliament/names.csv",
-        "lastmod": "1488090495",
+        "lastmod": "1488952612",
         "person_count": 28,
-        "sha": "8553852baefbb39910658ea4d4151c010bad26bb",
+        "sha": "d90b58c0e579f817e0743e981fb9bcbc2be8fe7d",
         "legislative_periods": [
           {
             "id": "term/33",
