@@ -359,6 +359,7 @@
       "name": "Laura Tàunâjik"
     },
     {
+      "gender": "male",
       "id": "11d6d401-da1c-4e23-bbed-ea548cf08c6f",
       "identifiers": [
         {
@@ -1678,6 +1679,7 @@
         }
       ],
       "email": "makh@inatsisartut.gl",
+      "gender": "male",
       "id": "698fb6e6-d7a7-47b8-90a6-42e858ff0753",
       "identifiers": [
         {
@@ -2247,6 +2249,10 @@
           "url": "https://ar.wikipedia.org/wiki/أليكا_هاموند"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aleqa_Hammond"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Aleqa_Hammond"
         },
@@ -2773,6 +2779,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Kim_Kielsen"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кильсен,_Ким"
         },
         {
           "note": "Wikipedia (simple)",
@@ -3617,6 +3627,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "a370b155-b8d6-4cd5-baa5-59990ccb6be9",
       "identifiers": [
         {
@@ -3729,6 +3740,7 @@
       "name": "Evelyn Frederiksen"
     },
     {
+      "gender": "male",
       "id": "adf90463-99a7-41dd-b627-0075b60f8019",
       "identifiers": [
         {
@@ -4580,6 +4592,7 @@
         }
       ],
       "email": "isda@gh.gl",
+      "gender": "male",
       "id": "d9329257-43da-4d93-8140-565e5cc96be0",
       "identifiers": [
         {
@@ -5172,6 +5185,7 @@
       "name": "Daniel Skifte"
     },
     {
+      "gender": "male",
       "id": "eeca96d1-41ff-4bd1-b5af-0572230b1a79",
       "identifiers": [
         {
@@ -5203,6 +5217,7 @@
       "name": "Jens Geisler"
     },
     {
+      "gender": "female",
       "id": "f4d9d0a2-0eec-429d-8aa2-c39357b19367",
       "identifiers": [
         {
@@ -5343,6 +5358,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "fe66d77f-e6c6-4574-a558-318cc0fd138f",
       "identifiers": [
         {
@@ -5371,6 +5387,7 @@
         }
       ],
       "email": "loritha@inatsisartut.gl",
+      "gender": "female",
       "id": "ff180a6f-9523-4390-85cc-98630ef90277",
       "identifiers": [
         {
