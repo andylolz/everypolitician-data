@@ -430,7 +430,8 @@
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain",
       "qualifiers": {
-        "P94": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_España_(mazonado).svg"
+        "P2937": "11th legislature of Spain",
+        "P768": "León"
       }
     }
   ],
@@ -550,7 +551,8 @@
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain",
       "qualifiers": {
-        "P94": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_España_(mazonado).svg"
+        "P2937": "11th legislature of Spain",
+        "P768": "Málaga"
       }
     }
   ],
@@ -1753,7 +1755,9 @@
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain",
       "qualifiers": {
-        "P94": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_España_(mazonado).svg"
+        "P2937": "10th legislature of Spain",
+        "P580": "2011-12-05",
+        "P768": "Barcelona"
       }
     }
   ],
@@ -1885,6 +1889,18 @@
       "title": "Member of the Assembly of Extremadura",
       "qualifiers": {
         "P768": "Cáceres"
+      }
+    }
+  ],
+  "Q18418397": [
+    {
+      "id": "Q1055894",
+      "label": "deputy",
+      "title": "deputy",
+      "description": "name for legislator in many countries",
+      "qualifiers": {
+        "P580": "2015-12-29",
+        "P768": "Teruel"
       }
     }
   ],
@@ -2646,7 +2662,8 @@
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain",
       "qualifiers": {
-        "P94": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_España_(mazonado).svg"
+        "P2937": "10th legislature of Spain",
+        "P768": "A Coruña"
       }
     }
   ],
@@ -3505,7 +3522,8 @@
       "label": "Member of the Congress of Deputies of Spain",
       "title": "Member of the Congress of Deputies of Spain",
       "qualifiers": {
-        "P94": "https://upload.wikimedia.org/wikipedia/commons/8/85/Escudo_de_España_(mazonado).svg"
+        "P2937": "11th legislature of Spain",
+        "P768": "Lleida"
       }
     }
   ],
