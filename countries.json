@@ -3277,11 +3277,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c52598ce05d6ae987eb0885d309628c1a8b64e78/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ccbbf47a2cfbac6546651dbddcfac96ad876adcf/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1488417553",
+        "lastmod": "1488954148",
         "person_count": 1054,
-        "sha": "c52598ce05d6ae987eb0885d309628c1a8b64e78",
+        "sha": "ccbbf47a2cfbac6546651dbddcfac96ad876adcf",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -3289,7 +3289,7 @@
             "start_date": "2012-06-20",
             "slug": "14",
             "csv": "data/France/National_Assembly/term-14.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b71f676d416b4b79f9c851e63b7db46651904c31/data/France/National_Assembly/term-14.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ccbbf47a2cfbac6546651dbddcfac96ad876adcf/data/France/National_Assembly/term-14.csv"
           },
           {
             "end_date": "2012-06-19",
@@ -3298,7 +3298,7 @@
             "start_date": "2007-06-20",
             "slug": "13",
             "csv": "data/France/National_Assembly/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/483cdb9abee899b290319d3ec2c98684c3d44da8/data/France/National_Assembly/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ccbbf47a2cfbac6546651dbddcfac96ad876adcf/data/France/National_Assembly/term-13.csv"
           },
           {
             "end_date": "2007-06-19",
@@ -3307,10 +3307,10 @@
             "start_date": "2002-06-19",
             "slug": "12",
             "csv": "data/France/National_Assembly/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/483cdb9abee899b290319d3ec2c98684c3d44da8/data/France/National_Assembly/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ccbbf47a2cfbac6546651dbddcfac96ad876adcf/data/France/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 105552,
+        "statement_count": 105598,
         "type": "lower house"
       }
     ]
