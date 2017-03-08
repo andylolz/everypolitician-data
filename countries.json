@@ -4546,11 +4546,11 @@
         "slug": "Lok-Sabha",
         "sources_directory": "data/India/Lok_Sabha/sources",
         "popolo": "data/India/Lok_Sabha/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/df1577094a37851dd43bedb185290cc6aad6d9de/data/India/Lok_Sabha/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/eaeec10f53bdec32694c4f263ed739f7b6be5b5e/data/India/Lok_Sabha/ep-popolo-v1.0.json",
         "names": "data/India/Lok_Sabha/names.csv",
-        "lastmod": "1488433120",
+        "lastmod": "1488957640",
         "person_count": 541,
-        "sha": "df1577094a37851dd43bedb185290cc6aad6d9de",
+        "sha": "eaeec10f53bdec32694c4f263ed739f7b6be5b5e",
         "legislative_periods": [
           {
             "id": "term/16",
@@ -4561,7 +4561,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7ed116ee337479d4b0683ab9b35da51ce0cb3f81/data/India/Lok_Sabha/term-16.csv"
           }
         ],
-        "statement_count": 39672,
+        "statement_count": 39707,
         "type": "unicameral legislature"
       }
     ]
