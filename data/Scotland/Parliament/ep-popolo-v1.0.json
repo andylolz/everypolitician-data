@@ -22425,6 +22425,10 @@
           "url": "https://hu.wikipedia.org/wiki/Jackie_Baillie"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Jackie_Baillie"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jackiebmsp"
         }
@@ -22463,6 +22467,11 @@
         },
         {
           "lang": "nl",
+          "name": "Jackie Baillie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Jackie Baillie",
           "note": "multilingual"
         }
@@ -24579,7 +24588,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Edward_Mountain_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Sir_Edward_Mountain,_4th_Baronet"
         },
         {
           "note": "Wikipedia (gd)",
@@ -29104,7 +29113,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jamie_McGrigor"
+          "url": "https://en.wikipedia.org/wiki/Sir_Jamie_McGrigor,_6th_Baronet"
         }
       ],
       "name": "Jamie McGrigor",
