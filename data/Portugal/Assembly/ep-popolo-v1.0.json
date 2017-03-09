@@ -2992,7 +2992,7 @@
         },
         {
           "lang": "eo",
-          "name": "Carlos CÉSAR",
+          "name": "Carlos César",
           "note": "multilingual"
         },
         {
@@ -11387,6 +11387,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Жерониму де Суза",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "热罗尼莫·德·索萨",
           "note": "multilingual"
@@ -12691,6 +12696,10 @@
         {
           "note": "Wikipedia (zh_min_nan)",
           "url": "https://zh_min_nan.wikipedia.org/wiki/António_Guterres"
+        },
+        {
+          "note": "Wikipedia (zh_yue)",
+          "url": "https://zh_yue.wikipedia.org/wiki/古特雷斯"
         },
         {
           "note": "twitter",
