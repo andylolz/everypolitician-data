@@ -17138,8 +17138,28 @@
       "id": "5dcc5575-696c-4c70-84de-ffa58506f3f1",
       "identifiers": [
         {
+          "identifier": "137439495",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 6653 4284",
+          "scheme": "isni"
+        },
+        {
           "identifier": "6045",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "075516705",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "5110967",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q21072405",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=6045&type=deputado",
@@ -17148,7 +17168,25 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=6045&type=deputado"
         }
       ],
-      "name": "Paulo Trigo Pereira"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Trigo_Pereira"
+        }
+      ],
+      "name": "Paulo Trigo Pereira",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Paulo Trigo Pereira",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Paulo Trigo Pereira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1936-01-01",
