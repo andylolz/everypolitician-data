@@ -90102,6 +90102,12 @@
       "classification": "legislative period",
       "end_date": "1980-01-02",
       "id": "term/1",
+      "identifiers": [
+        {
+          "identifier": "Q28847053",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "1ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1976-03-06"
@@ -90136,6 +90142,12 @@
       "classification": "legislative period",
       "end_date": "1983-05-30",
       "id": "term/2",
+      "identifiers": [
+        {
+          "identifier": "Q28847037",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "2ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1980-01-03"
@@ -90170,6 +90182,12 @@
       "classification": "legislative period",
       "end_date": "1985-11-03",
       "id": "term/3",
+      "identifiers": [
+        {
+          "identifier": "Q28847026",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "3ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1983-05-31"
@@ -90191,6 +90209,12 @@
       "classification": "legislative period",
       "end_date": "1987-08-12",
       "id": "term/4",
+      "identifiers": [
+        {
+          "identifier": "Q28847018",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "4ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1985-11-04"
@@ -90212,6 +90236,12 @@
       "classification": "legislative period",
       "end_date": "1991-11-03",
       "id": "term/5",
+      "identifiers": [
+        {
+          "identifier": "Q28847008",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "5ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1987-08-13"
@@ -90233,6 +90263,12 @@
       "classification": "legislative period",
       "end_date": "1995-10-26",
       "id": "term/6",
+      "identifiers": [
+        {
+          "identifier": "Q28846999",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "6ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1991-11-04"
@@ -90254,6 +90290,12 @@
       "classification": "legislative period",
       "end_date": "1999-10-14",
       "id": "term/7",
+      "identifiers": [
+        {
+          "identifier": "Q28846985",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "7ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1995-10-27"
@@ -90275,6 +90317,12 @@
       "classification": "legislative period",
       "end_date": "2002-04-04",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q28846952",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "8ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "1999-10-25"
@@ -90296,6 +90344,12 @@
       "classification": "legislative period",
       "end_date": "2005-03-09",
       "id": "term/9",
+      "identifiers": [
+        {
+          "identifier": "Q25438238",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "9ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2002-04-05"
@@ -90330,6 +90384,12 @@
       "classification": "legislative period",
       "end_date": "2009-09-14",
       "id": "term/10",
+      "identifiers": [
+        {
+          "identifier": "Q25431190",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "10ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2005-03-10"
@@ -90351,6 +90411,12 @@
       "classification": "legislative period",
       "end_date": "2011-06-19",
       "id": "term/11",
+      "identifiers": [
+        {
+          "identifier": "Q25431189",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "11ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2009-10-15"
@@ -90372,6 +90438,12 @@
       "classification": "legislative period",
       "end_date": "2015-10-22",
       "id": "term/12",
+      "identifiers": [
+        {
+          "identifier": "Q3570377",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "12ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2011-06-20"
@@ -90392,6 +90464,12 @@
     {
       "classification": "legislative period",
       "id": "term/13",
+      "identifiers": [
+        {
+          "identifier": "Q25379987",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "13ª Legislatura",
       "organization_id": "a1b77ad6-aa9a-4f60-b722-ec544ecf4cea",
       "start_date": "2015-10-23"
