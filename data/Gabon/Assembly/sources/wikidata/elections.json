@@ -47,7 +47,7 @@
       },
       {
         "lang": "en",
-        "name": "Gabonese general election, 1961",
+        "name": "Gabonese parliamentary election, 1961",
         "note": "multilingual"
       },
       {
@@ -64,10 +64,8 @@
     "dates": [
       "1961-02-12"
     ],
-    "followed_by": "Gabonese presidential election, 1967",
-    "successful_candidates": [
-      "Léon M'ba"
-    ]
+    "followed_by": "Gabonese parliamentary election, 1967",
+    "part_of": "Gabonese general election, 1961"
   },
   "Q5515455": {
     "identifiers": [
@@ -193,7 +191,8 @@
     ],
     "dates": [
       "1964"
-    ]
+    ],
+    "followed_by": "Gabonese parliamentary election, 1967"
   },
   "Q17004638": {
     "identifiers": [
@@ -205,7 +204,7 @@
     "other_names": [
       {
         "lang": "en",
-        "name": "Gabonese general election, 1973",
+        "name": "Gabonese parliamentary election, 1973",
         "note": "multilingual"
       },
       {
@@ -215,8 +214,10 @@
       }
     ],
     "dates": [
-      "1973"
-    ]
+      "1973-02-25"
+    ],
+    "follows": "Gabonese parliamentary election, 1967",
+    "part_of": "Gabonese general election, 1973"
   },
   "Q17006439": {
     "identifiers": [
@@ -228,7 +229,7 @@
     "other_names": [
       {
         "lang": "en",
-        "name": "Gabonese general election, 1967",
+        "name": "Gabonese parliamentary election, 1967",
         "note": "multilingual"
       },
       {
@@ -238,8 +239,11 @@
       }
     ],
     "dates": [
-      "1967"
-    ]
+      "1967-03-23"
+    ],
+    "follows": "Gabonese parliamentary election, 1964",
+    "followed_by": "Gabonese parliamentary election, 1973",
+    "part_of": "Gabonese general election, 1967"
   },
   "Q22669598": {
     "identifiers": [
