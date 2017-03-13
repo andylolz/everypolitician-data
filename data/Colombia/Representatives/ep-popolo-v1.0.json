@@ -2613,6 +2613,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Germán Navas Talero",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Germán Navas Talero",
           "note": "multilingual"
@@ -3763,7 +3768,7 @@
       ],
       "email": "oscardario.perez@camara.gov.co",
       "gender": "male",
-      "given_name": "Oscar",
+      "given_name": "José Ramón",
       "id": "8f359b52-e35d-4d10-8a8b-746ef45016e6",
       "identifiers": [
         {
@@ -6914,6 +6919,11 @@
         {
           "lang": "ko",
           "name": "민주중도당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Centro Democrático",
           "note": "multilingual"
         }
       ]
