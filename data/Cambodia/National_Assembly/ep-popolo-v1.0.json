@@ -372,6 +372,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Thong_Khon"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тхонг_Кхон"
         }
       ],
       "name": "Thong Khon",
@@ -394,6 +398,11 @@
         {
           "lang": "nl",
           "name": "Thong Khon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тхонг Кхон",
           "note": "multilingual"
         }
       ]
