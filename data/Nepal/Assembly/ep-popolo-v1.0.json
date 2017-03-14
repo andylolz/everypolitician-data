@@ -18035,8 +18035,13 @@
           "note": "multilingual"
         },
         {
+          "lang": "bho",
+          "name": "नेपाल कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "CPN-UML",
+          "name": "CPN–UML and CPN (UML)",
           "note": "multilingual"
         },
         {
@@ -18047,6 +18052,21 @@
         {
           "lang": "ca",
           "name": "Partit Comunista de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एमाले",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "एमाले",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bho",
+          "name": "एमाले",
           "note": "multilingual"
         }
       ]
