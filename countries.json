@@ -2421,11 +2421,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Cyprus/House_of_Representatives/sources",
         "popolo": "data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8e9a8550a7667b5d09e441859493123ab0da142d/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/37c4162bf00f75f5d2b4cfd2a5802de495875e47/data/Cyprus/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Cyprus/House_of_Representatives/names.csv",
-        "lastmod": "1486208853",
+        "lastmod": "1489597636",
         "person_count": 91,
-        "sha": "8e9a8550a7667b5d09e441859493123ab0da142d",
+        "sha": "37c4162bf00f75f5d2b4cfd2a5802de495875e47",
         "legislative_periods": [
           {
             "id": "term/11",
@@ -2445,7 +2445,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b895b511f4e2fd32c77935e8548497c991974766/data/Cyprus/House_of_Representatives/term-10.csv"
           }
         ],
-        "statement_count": 6483,
+        "statement_count": 6489,
         "type": "unicameral legislature"
       }
     ]
