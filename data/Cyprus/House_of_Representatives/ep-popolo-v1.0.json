@@ -10949,7 +10949,7 @@
         },
         {
           "lang": "cs",
-          "name": "Kyrenia (distrikt)",
+          "name": "Kyrenia",
           "note": "multilingual"
         },
         {
@@ -10985,6 +10985,11 @@
         {
           "lang": "sk",
           "name": "Girne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "కైరేనియా జిల్లా",
           "note": "multilingual"
         }
       ],
@@ -11169,7 +11174,7 @@
         },
         {
           "lang": "cs",
-          "name": "Larnaka (distrikt)",
+          "name": "Larnaka",
           "note": "multilingual"
         },
         {
@@ -11379,7 +11384,7 @@
         },
         {
           "lang": "cs",
-          "name": "Nikósie (distrikt)",
+          "name": "Nikósie",
           "note": "multilingual"
         },
         {
@@ -11636,6 +11641,11 @@
           "lang": "nn",
           "name": "Distriktet Lemesós",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "లిమాసోల్ జిల్లా",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -11828,7 +11838,7 @@
         },
         {
           "lang": "cs",
-          "name": "Pafos (distrikt)",
+          "name": "Pafos",
           "note": "multilingual"
         },
         {
