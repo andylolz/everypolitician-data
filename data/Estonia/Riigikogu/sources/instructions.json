@@ -22,7 +22,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/estonia-riigikogu",
