@@ -25,7 +25,7 @@
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/estonia-riigikogu",
+        "scraper": "everypolitician-scrapers/estonia-riigikogu",
         "query": "SELECT id,name,image,phone,email,facebook,twitter,source,id AS identifier__riigikogu FROM data ORDER BY id"
       },
       "merge": {
