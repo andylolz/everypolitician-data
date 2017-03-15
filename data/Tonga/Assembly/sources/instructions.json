@@ -11,6 +11,15 @@
       "type": "membership"
     },
     {
+      "file": "morph/wikidata-members.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/tonga-wikidata-members",
+        "query": "SELECT item as id, itemlabel as name, itemaltlabel as other_name, date(start) as start_date, date(end) AS end_date, email, 2015 AS term, constituencylabel as constituency FROM data ORDER BY id"
+      },
+      "type": "membership"
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
