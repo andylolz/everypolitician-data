@@ -26925,7 +26925,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:karamoja/district:amudat/constituency:upe_county",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:teso/district:amudat/constituency:upe_county",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -27516,7 +27516,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -34431,11 +34431,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
-      "name": "Bukooli County South",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:buyende",
       "name": "",
       "type": "constituency"
@@ -34592,7 +34587,7 @@
     },
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
-      "name": "Bukooli South",
+      "name": "Bukooli County South",
       "type": "constituency"
     },
     {
@@ -34618,11 +34613,6 @@
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:karamoja/district:amudat",
       "name": "unknown",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:eastern/subregion:karamoja/district:amudat/constituency:upe_county",
-      "name": "Upe County",
       "type": "constituency"
     },
     {
@@ -34667,7 +34657,7 @@
     },
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:teso/district:amudat/constituency:upe_county",
-      "name": "Upe county",
+      "name": "Upe County",
       "type": "constituency"
     },
     {
