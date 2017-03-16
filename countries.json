@@ -9453,16 +9453,16 @@
         "slug": "Assembly",
         "sources_directory": "data/Swaziland/Assembly/sources",
         "popolo": "data/Swaziland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e17f415ec30bd9e193f40ee5cce876b7d96ef808/data/Swaziland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/745b40390a3884b48b54332b8e2fe869943a08e5/data/Swaziland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Swaziland/Assembly/names.csv",
-        "lastmod": "1485067961",
+        "lastmod": "1489659922",
         "person_count": 93,
-        "sha": "e17f415ec30bd9e193f40ee5cce876b7d96ef808",
+        "sha": "745b40390a3884b48b54332b8e2fe869943a08e5",
         "legislative_periods": [
           {
             "id": "term/10",
             "name": "10th Parliament",
-            "start_date": "2013-08-17",
+            "start_date": "2013-10-17",
             "slug": "10",
             "csv": "data/Swaziland/Assembly/term-10.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8ecc83a0bb2ef59cf4f266ac6ed872c442f3eead/data/Swaziland/Assembly/term-10.csv"
