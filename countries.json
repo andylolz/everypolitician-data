@@ -10184,11 +10184,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Turkey/Assembly/sources",
         "popolo": "data/Turkey/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/96d421ae769fafd7e15facb48bef01f9b4079854/data/Turkey/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c24b92e77edb43199d85ed8487c0478d3015f732/data/Turkey/Assembly/ep-popolo-v1.0.json",
         "names": "data/Turkey/Assembly/names.csv",
-        "lastmod": "1485514476",
+        "lastmod": "1489660816",
         "person_count": 6901,
-        "sha": "96d421ae769fafd7e15facb48bef01f9b4079854",
+        "sha": "c24b92e77edb43199d85ed8487c0478d3015f732",
         "legislative_periods": [
           {
             "id": "term/26",
@@ -10208,7 +10208,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e4a6836a58e4f53fe5248ac7f57b4f42cb4c026e/data/Turkey/Assembly/term-25.csv"
           },
           {
-            "end_date": "2015-06-07",
+            "end_date": "2015-06-23",
             "id": "term/24",
             "name": "24th Parliament",
             "start_date": "2011-06-28",
@@ -10307,7 +10307,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-14.csv"
           },
           {
-            "end_date": "1973-10-14",
+            "end_date": "1969-10-12",
             "id": "term/13",
             "name": "13th Parliament",
             "start_date": "1965-10-22",
@@ -10316,7 +10316,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-13.csv"
           },
           {
-            "end_date": "1973-10-14",
+            "end_date": "1965-10-01",
             "id": "term/12",
             "name": "12th Parliament",
             "start_date": "1961-10-25",
@@ -10400,13 +10400,13 @@
             "end_date": "1931-05-04",
             "id": "term/3",
             "name": "3rd Parliament",
-            "start_date": "1927-05-01",
+            "start_date": "1927-08-02",
             "slug": "3",
             "csv": "data/Turkey/Assembly/term-3.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/31854f39f2d55f0fb841cf778a86b66c41fde434/data/Turkey/Assembly/term-3.csv"
           },
           {
-            "end_date": "1927-11-01",
+            "end_date": "1927-08-02",
             "id": "term/2",
             "name": "2nd Parliament",
             "start_date": "1923-08-11",
