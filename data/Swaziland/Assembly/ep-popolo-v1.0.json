@@ -1949,13 +1949,6 @@
       "start_date": "2008-10-10"
     },
     {
-      "classification": "legislative period",
-      "id": "term/10",
-      "name": "10th Parliament",
-      "organization_id": "33273a3e-36c6-4ced-8e58-862913a4335e",
-      "start_date": "2013-08-17"
-    },
-    {
       "classification": "general election",
       "end_date": "2013-09-20",
       "id": "Q14594685",
@@ -1967,6 +1960,13 @@
       ],
       "name": "Swazi general election, 2013",
       "start_date": "2013-09-20"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/10",
+      "name": "10th Parliament",
+      "organization_id": "33273a3e-36c6-4ced-8e58-862913a4335e",
+      "start_date": "2013-10-17"
     }
   ],
   "areas": [
