@@ -926,9 +926,38 @@
       ]
     },
     {
+      "birth_date": "1960-05-21",
+      "gender": "male",
       "id": "3cc78927-5a47-4744-85bd-7e21291d7a84",
+      "identifiers": [
+        {
+          "identifier": "Q28955878",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Исхак_Абсаматович_Масалиев.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Исхак_Абсаматович_Масалиев.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Масалиев,_Исхак_Абсаматович"
+        }
+      ],
       "name": "Masaliev Isxak Absamatovich",
       "other_names": [
+        {
+          "name": "Исхак Абсаматович Масалиев",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Исхак Абсаматович Масалиев",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Масалиев Исхак Абсаматович",
@@ -4075,6 +4104,10 @@
         {
           "identifier": "298",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25597822",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kenesh.kg/MyFiles/image/%D0%9C_%D0%90%D0%B1%D0%B4%D1%8B%D0%BB%D0%B4%D0%B0%D0%B5%D0%B2-26.JPG",
@@ -4083,8 +4116,23 @@
           "url": "http://www.kenesh.kg/MyFiles/image/%D0%9C_%D0%90%D0%B1%D0%B4%D1%8B%D0%BB%D0%B4%D0%B0%D0%B5%D0%B2-26.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ky)",
+          "url": "https://ky.wikipedia.org/wiki/Абдылдаев,_Мыктыбек_Юсупович"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Абдылдаев,_Мыктыбек_Юсупович"
+        }
+      ],
       "name": "ABDYLDAEV Myktybek YUsupovich",
       "other_names": [
+        {
+          "lang": "ky",
+          "name": "Абдылдаев, Мыктыбек Юсупович",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "АБДЫЛДАЕВ Мыктыбек Юсупович",
