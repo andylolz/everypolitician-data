@@ -1753,11 +1753,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/Cambodia/National_Assembly/sources",
         "popolo": "data/Cambodia/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/fb597eff4ce6740044ae8ce5ecab32dde400da18/data/Cambodia/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cf1f359e2a29f9784bab123242c1e7efb0aa5745/data/Cambodia/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/Cambodia/National_Assembly/names.csv",
-        "lastmod": "1488963155",
+        "lastmod": "1490009347",
         "person_count": 123,
-        "sha": "fb597eff4ce6740044ae8ce5ecab32dde400da18",
+        "sha": "cf1f359e2a29f9784bab123242c1e7efb0aa5745",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -1768,7 +1768,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbf350a9d1c79a76b4c6b5dc8f2059f7afec8e58/data/Cambodia/National_Assembly/term-5.csv"
           }
         ],
-        "statement_count": 3294,
+        "statement_count": 3304,
         "type": "lower house"
       }
     ]
