@@ -17690,16 +17690,33 @@
       "gender": "female",
       "given_name": "María Luz",
       "id": "5d75cbd3-af40-461a-ac85-3fcf265fc40c",
+      "identifiers": [
+        {
+          "identifier": "Q27758403",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/109_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/109_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Toma_de_posesión_diputada.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/759645477398872064/EFnp3MlH.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Luz_Martínez_Seijo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/María_Luz_Martínez_Seijo"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/maria.martinezseijo"
@@ -17710,6 +17727,32 @@
         }
       ],
       "name": "María Luz Martínez Seijo",
+      "other_names": [
+        {
+          "name": "Maria Luz Martínez Seijo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Maria Luz Martínez Seijo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maria Luz Martínez Seijo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Luz Martínez Seijo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Luz Martínez Seijo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Martínez Seijo, María Luz"
     },
     {
@@ -48801,16 +48844,37 @@
       "gender": "female",
       "given_name": "Noelia",
       "id": "ea2fb978-3b90-4be7-84d4-6e075e29bb39",
+      "identifiers": [
+        {
+          "identifier": "Q27756448",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/192_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/192_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Noelia_Vera_2015_(cropped).jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/741666430224109568/4k-WCTDo.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Noelia_Vera"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Noelia_Vera"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Noelia_Vera_Ruiz-Herrera"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/veranoelia"
@@ -48821,6 +48885,37 @@
         }
       ],
       "name": "Noelia Vera Ruiz-Herrera",
+      "other_names": [
+        {
+          "name": "Noelia Vera",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Noelia Vera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Noelia Vera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Noelia Vera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Noelia Vera Ruiz-Herrera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Noelia Vera Ruiz-Herrera",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Vera Ruiz-Herrera, Noelia"
     },
     {
