@@ -1784,11 +1784,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Cameroon/Assembly/sources",
         "popolo": "data/Cameroon/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09c795c8cf65aa7556004a490d22a3080802cd87/data/Cameroon/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/ep-popolo-v1.0.json",
         "names": "data/Cameroon/Assembly/names.csv",
-        "lastmod": "1485067869",
+        "lastmod": "1490009371",
         "person_count": 964,
-        "sha": "09c795c8cf65aa7556004a490d22a3080802cd87",
+        "sha": "354962cbc72dc8a866d229b96cede39855c9fb40",
         "legislative_periods": [
           {
             "id": "term/9",
@@ -1814,7 +1814,7 @@
             "start_date": "2002",
             "slug": "7",
             "csv": "data/Cameroon/Assembly/term-7.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f5872050a2cdef9def4270f2df08ebb9571747f/data/Cameroon/Assembly/term-7.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-7.csv"
           },
           {
             "end_date": "2002",
@@ -1832,7 +1832,7 @@
             "start_date": "1992",
             "slug": "5",
             "csv": "data/Cameroon/Assembly/term-5.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f5872050a2cdef9def4270f2df08ebb9571747f/data/Cameroon/Assembly/term-5.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-5.csv"
           },
           {
             "end_date": "1992",
@@ -1850,7 +1850,7 @@
             "start_date": "1983",
             "slug": "3",
             "csv": "data/Cameroon/Assembly/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9e6f70d61d07c5df4b965d5bb25888e2e7452a8c/data/Cameroon/Assembly/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/354962cbc72dc8a866d229b96cede39855c9fb40/data/Cameroon/Assembly/term-3.csv"
           },
           {
             "end_date": "1978",
@@ -1862,7 +1862,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/328acb852c9c92b4a8aa94598376dfa248d97365/data/Cameroon/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 13222,
+        "statement_count": 13284,
         "type": "lower house"
       },
       {
