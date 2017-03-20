@@ -5350,11 +5350,11 @@
         "slug": "Council",
         "sources_directory": "data/Kyrgyzstan/Council/sources",
         "popolo": "data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1b242eb0b2d5b39d0d94e45512be9719afb8753c/data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/580da958c1ca358ed871bbf9ac8ff67a83313176/data/Kyrgyzstan/Council/ep-popolo-v1.0.json",
         "names": "data/Kyrgyzstan/Council/names.csv",
-        "lastmod": "1488068549",
+        "lastmod": "1490003986",
         "person_count": 209,
-        "sha": "1b242eb0b2d5b39d0d94e45512be9719afb8753c",
+        "sha": "580da958c1ca358ed871bbf9ac8ff67a83313176",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -5362,7 +5362,7 @@
             "start_date": "2015-10-28",
             "slug": "6",
             "csv": "data/Kyrgyzstan/Council/term-6.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2c1af7ade6b0a89b6a510f1c12603c3e91bffadc/data/Kyrgyzstan/Council/term-6.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/580da958c1ca358ed871bbf9ac8ff67a83313176/data/Kyrgyzstan/Council/term-6.csv"
           },
           {
             "end_date": "2015-10-15",
@@ -5374,7 +5374,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2c1af7ade6b0a89b6a510f1c12603c3e91bffadc/data/Kyrgyzstan/Council/term-5.csv"
           }
         ],
-        "statement_count": 3929,
+        "statement_count": 3956,
         "type": "unicameral legislature"
       }
     ]
