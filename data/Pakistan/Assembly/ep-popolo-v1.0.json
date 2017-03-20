@@ -17140,6 +17140,10 @@
         {
           "identifier": "807",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28858734",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.na.gov.pk/uploads/images/139....jpg",
@@ -17148,7 +17152,25 @@
           "url": "http://www.na.gov.pk/uploads/images/139....jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Waseem_Akhtar_Shaikh"
+        }
+      ],
       "name": "Waseem Akhtar Shaikh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Waseem Akhtar Shaikh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Waseem Akhtar Shaikh",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Haji Muhammad Yasin"
     },
     {
