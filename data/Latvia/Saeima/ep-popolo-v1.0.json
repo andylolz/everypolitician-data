@@ -895,6 +895,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "277144783087447375424",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q3047551",
           "scheme": "wikidata"
         }
@@ -4042,6 +4046,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Juris_Vectirāns"
+        },
+        {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Juris_Vectirāns"
         },
@@ -4574,6 +4582,10 @@
         {
           "identifier": "/m/0553wm",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1127687999",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0001 1555 5330",
@@ -8123,6 +8135,11 @@
       "name": "Edgars Putra",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Edgars Putra",
+          "note": "multilingual"
+        },
+        {
           "lang": "lv",
           "name": "Edgars Putra",
           "note": "multilingual"
@@ -8734,6 +8751,11 @@
       ],
       "name": "Arvīds Platpers",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Arvīds Platpers",
+          "note": "multilingual"
+        },
         {
           "lang": "lv",
           "name": "Arvīds Platpers",
@@ -16533,6 +16555,11 @@
       ],
       "name": "Dainis Liepiņš",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Dainis Liepiņš",
+          "note": "multilingual"
+        },
         {
           "lang": "lv",
           "name": "Dainis Liepiņš",
@@ -29438,6 +29465,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Kārlis_Krēsliņš"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kārlis_Krēsliņš"
+        },
+        {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Kārlis_Krēsliņš"
         },
@@ -31822,6 +31853,10 @@
         {
           "identifier": "124272610",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "40063",
+          "scheme": "persee"
         },
         {
           "identifier": "033403686",
@@ -34939,6 +34974,11 @@
       ],
       "name": "Ivars Brīvers",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivars Brīvers",
+          "note": "multilingual"
+        },
         {
           "lang": "lv",
           "name": "Ivars Brīvers",
