@@ -1729,15 +1729,35 @@
       "sort_name": "Radnasumberel GONCHIGDORJ"
     },
     {
+      "gender": "male",
       "id": "3cc6fb9d-7afd-4ac7-8d88-2093e09b419e",
       "identifiers": [
         {
           "identifier": "damdiny_khayankhyarvaa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25632752",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Дамдины_Хаянхярваа"
         }
       ],
       "name": "Damdiny Khayankhyarvaa",
       "other_names": [
+        {
+          "name": "Дамдин хянхярваа",
+          "note": "alternate"
+        },
+        {
+          "lang": "mn",
+          "name": "Дамдин хянхярваа",
+          "note": "multilingual"
+        },
         {
           "lang": "mn",
           "name": "Дамдины Хаянхярваа",
