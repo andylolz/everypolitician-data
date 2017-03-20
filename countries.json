@@ -3277,11 +3277,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9d29d5349397d2c9dbe56a9491098b78d9edaa2b/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a66acd8cb19a349224a0b21be418e5cd1b7b4b8c/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1489992749",
+        "lastmod": "1490021800",
         "person_count": 1054,
-        "sha": "9d29d5349397d2c9dbe56a9491098b78d9edaa2b",
+        "sha": "a66acd8cb19a349224a0b21be418e5cd1b7b4b8c",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -3310,7 +3310,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d9bb1bfd16c3559cb1fea25814eccdc7c790350/data/France/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 107648,
+        "statement_count": 111807,
         "type": "lower house"
       }
     ]
