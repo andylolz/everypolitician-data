@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/democratica.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/portugal-democratica-scraper",
