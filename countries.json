@@ -6339,11 +6339,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Mongolia/Assembly/sources",
         "popolo": "data/Mongolia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f8fa4779c2a0f7d9047212f8601b4512f422686a/data/Mongolia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Mongolia/Assembly/names.csv",
-        "lastmod": "1488128483",
+        "lastmod": "1490008934",
         "person_count": 160,
-        "sha": "f8fa4779c2a0f7d9047212f8601b4512f422686a",
+        "sha": "3bb95048888e7ff853ea96650ed93b094ea6d367",
         "legislative_periods": [
           {
             "id": "term/2016",
@@ -6351,7 +6351,7 @@
             "start_date": "2016-07-05",
             "slug": "2016",
             "csv": "data/Mongolia/Assembly/term-2016.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/11273409cb9b7e8f0f6c5e60a04c64d5c821ec89/data/Mongolia/Assembly/term-2016.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/term-2016.csv"
           },
           {
             "end_date": "2016-06-28",
@@ -6369,10 +6369,10 @@
             "start_date": "2008-07-23",
             "slug": "2008",
             "csv": "data/Mongolia/Assembly/term-2008.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/44e6b02f35571d0b4d93c334d7343e329b52d550/data/Mongolia/Assembly/term-2008.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb95048888e7ff853ea96650ed93b094ea6d367/data/Mongolia/Assembly/term-2008.csv"
           }
         ],
-        "statement_count": 6290,
+        "statement_count": 6305,
         "type": "unicameral legislature"
       }
     ]
