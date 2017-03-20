@@ -6209,11 +6209,11 @@
         "slug": "Congress",
         "sources_directory": "data/Micronesia/Congress/sources",
         "popolo": "data/Micronesia/Congress/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/015e8cb3d12e488991884e4374831c7b5e0cc369/data/Micronesia/Congress/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c246defbf23523872f108c74e85c190232ec593f/data/Micronesia/Congress/ep-popolo-v1.0.json",
         "names": "data/Micronesia/Congress/names.csv",
-        "lastmod": "1485067932",
+        "lastmod": "1489996118",
         "person_count": 24,
-        "sha": "015e8cb3d12e488991884e4374831c7b5e0cc369",
+        "sha": "c246defbf23523872f108c74e85c190232ec593f",
         "legislative_periods": [
           {
             "id": "term/19",
@@ -6242,7 +6242,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a252553ab39499ca94ab13e6f27bc0ff7a38ab9c/data/Micronesia/Congress/term-17.csv"
           }
         ],
-        "statement_count": 1192,
+        "statement_count": 1194,
         "type": "unicameral legislature"
       }
     ]
