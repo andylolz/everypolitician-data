@@ -465,14 +465,37 @@
       "name": "VICHE TAGA"
     },
     {
+      "gender": "male",
       "id": "079dbc32-46e2-44e0-8573-a464a42334c6",
       "identifiers": [
         {
           "identifier": "83",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28497636",
+          "scheme": "wikidata"
         }
       ],
-      "name": "MAHAMAT ABDOULKARIM"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mahamat_Abdoulkarim"
+        }
+      ],
+      "name": "MAHAMAT ABDOULKARIM",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Mahamat Abdoulkarim",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mahamat Abdoulkarim",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "082c0b1c-758f-4cac-906a-6f624243248a",
@@ -6138,6 +6161,10 @@
         {
           "identifier": "838",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28967171",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/mboui_joseph.jpg",
@@ -6146,7 +6173,20 @@
           "url": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/mboui_joseph.jpg"
         }
       ],
-      "name": "Joseph MBOUI"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joseph_Mboui"
+        }
+      ],
+      "name": "Joseph MBOUI",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Joseph Mboui",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-12-20",
@@ -7482,14 +7522,73 @@
         }
       ],
       "email": "charles.sale@assnat.cm",
+      "gender": "male",
+      "given_name": "Charles",
       "id": "77d36880-2252-4b48-b5c7-a1c55b7499a3",
       "identifiers": [
         {
           "identifier": "353",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28655053",
+          "scheme": "wikidata"
         }
       ],
-      "name": "SALE Charles"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Charles_Salé.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Charles_Salé.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Charles_Salé"
+        }
+      ],
+      "name": "SALE Charles",
+      "other_names": [
+        {
+          "name": "Charles Salé",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Charles Salé",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "78009106-575b-44f7-abc8-16811bde592c",
@@ -11802,14 +11901,32 @@
         }
       ],
       "email": "boukar.abba@assnat.cm",
+      "gender": "male",
       "id": "b883709f-ee2e-4918-b1db-d1a6d640e676",
       "identifiers": [
         {
           "identifier": "608",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28497635",
+          "scheme": "wikidata"
         }
       ],
-      "name": "ABBA BOUKAR"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Abba_Boukar"
+        }
+      ],
+      "name": "ABBA BOUKAR",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Abba Boukar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1927-06-02",
