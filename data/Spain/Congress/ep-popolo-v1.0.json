@@ -25228,10 +25228,19 @@
       "gender": "female",
       "given_name": "Nayua Miriam",
       "id": "80e4c4f6-0277-4145-819e-41220fc5ec0d",
+      "identifiers": [
+        {
+          "identifier": "Q23661447",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/146_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/146_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/NaguaAlba.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/774869797507100672/VsK6e3lf.jpg"
@@ -25239,15 +25248,80 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نجوى_جويلي"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Nagua_Alba"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nagua_Alba"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Nagua_Alba"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nagua_Alba"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/NaguaAlba"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/NaguaAlba"
+        },
+        {
+          "note": "website",
+          "url": "http://www.naguaalba.com/"
         }
       ],
       "name": "Nayua Miriam Alba Goveli",
+      "other_names": [
+        {
+          "name": "Nagua Alba",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نجوى ألبا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nagua Alba",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alba Goveli, Nayua Miriam"
     },
     {
