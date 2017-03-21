@@ -11607,6 +11607,7 @@
       ]
     },
     {
+      "birth_date": "1949-03-20",
       "contact_details": [
         {
           "type": "cell",
@@ -11623,6 +11624,7 @@
       ],
       "email": "nkhadka_ktm@hotmail.com",
       "gender": "male",
+      "given_name": "Narayan",
       "id": "a6f97313-c721-4028-9269-6ad5f004cfbb",
       "identifiers": [
         {
@@ -11636,6 +11638,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Narayan_Khadka"
+        },
+        {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/नारायण_खड्का"
         }
@@ -11645,6 +11651,21 @@
         {
           "name": "डा. नारायण खड्का",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Narayan Khadka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Narayan Khadka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Narayan Khadka",
+          "note": "multilingual"
         },
         {
           "lang": "ne",
@@ -18035,8 +18056,13 @@
           "note": "multilingual"
         },
         {
+          "lang": "bho",
+          "name": "नेपाल कम्युनिष्ट पार्टी",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "CPN-UML",
+          "name": "CPN–UML and CPN (UML)",
           "note": "multilingual"
         },
         {
@@ -18047,6 +18073,21 @@
         {
           "lang": "ca",
           "name": "Partit Comunista de Nepal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "एमाले",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "एमाले",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bho",
+          "name": "एमाले",
           "note": "multilingual"
         }
       ]
