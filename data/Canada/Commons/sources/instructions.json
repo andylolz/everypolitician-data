@@ -36,7 +36,7 @@
       }
     },
     {
-      "file": "morph/data-42.csv",
+      "file": "morph/represent-42.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/represent-ca",
