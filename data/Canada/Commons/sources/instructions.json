@@ -26,7 +26,7 @@
       }
     },
     {
-      "file": "archive/data-41.csv",
+      "file": "archive/represent-41.csv",
       "source": "https://scrapers.herokuapp.com/represent/ca",
       "type": "person",
       "merge": {
