@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/proyectocolibri.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/spain-proyectocolibri",
