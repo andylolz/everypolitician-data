@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/openaustralia-contact-details.csv",
       "create": {
         "from": "morph",
         "scraper": "openaustralia/aus_mp_contact_details",
