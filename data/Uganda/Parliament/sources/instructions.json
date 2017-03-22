@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official-term-9.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/uganda-parliament-scraper",
