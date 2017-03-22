@@ -2796,11 +2796,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Egypt/Parliament/sources",
         "popolo": "data/Egypt/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d6b1d90ff0be3b1bb2c416ea06e9236f2da41ac5/data/Egypt/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e457f3cacece794ae3c2c333918da662d470b312/data/Egypt/Parliament/ep-popolo-v1.0.json",
         "names": "data/Egypt/Parliament/names.csv",
-        "lastmod": "1487917656",
+        "lastmod": "1490198515",
         "person_count": 600,
-        "sha": "d6b1d90ff0be3b1bb2c416ea06e9236f2da41ac5",
+        "sha": "e457f3cacece794ae3c2c333918da662d470b312",
         "legislative_periods": [
           {
             "id": "term/2015",
