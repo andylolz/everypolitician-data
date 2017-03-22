@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "davewhiteland/thailand-national-assembly",
