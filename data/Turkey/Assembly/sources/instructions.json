@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/turkey-tbmm-wikipedia",
