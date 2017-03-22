@@ -2236,11 +2236,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Congo-Kinshasa/Assembly/sources",
         "popolo": "data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/49ed8a24b1600cd526a035a4b1de3247624cc36d/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/906992a25773c1c8eb94d2491f84f07435da40fb/data/Congo-Kinshasa/Assembly/ep-popolo-v1.0.json",
         "names": "data/Congo-Kinshasa/Assembly/names.csv",
-        "lastmod": "1487115039",
+        "lastmod": "1490167582",
         "person_count": 498,
-        "sha": "49ed8a24b1600cd526a035a4b1de3247624cc36d",
+        "sha": "906992a25773c1c8eb94d2491f84f07435da40fb",
         "legislative_periods": [
           {
             "id": "term/2012",
@@ -2251,7 +2251,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47087463bdf1ecbad42a9792df0c2b1b89b90353/data/Congo-Kinshasa/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 6944,
+        "statement_count": 6947,
         "type": "lower house"
       }
     ]
