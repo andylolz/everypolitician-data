@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/peoplesassembly.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/south-africa-national-assembly",
