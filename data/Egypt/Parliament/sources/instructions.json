@@ -7,7 +7,7 @@
         "scraper": "struan/egypt_parliament_members",
         "query": "SELECT *, cons AS area, 2015 AS term FROM data ORDER BY id"
       },
-      "source": "http://www.assemblee-nationale.tg/",
+      "source": "http://www.parliament.gov.eg/",
       "type": "membership"
     },
     {
