@@ -16,7 +16,7 @@
       "source": "http://www.chambredesrepresentants.ma"
     },
     {
-      "file": "morph/term-10-data.csv",
+      "file": "morph/term-10-nouabook.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/morocco-house-of-representatives-2016",
