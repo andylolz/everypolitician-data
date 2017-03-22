@@ -6663,11 +6663,11 @@
         "slug": "Council",
         "sources_directory": "data/Namibia/Council/sources",
         "popolo": "data/Namibia/Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/40ba8dd47548d876b4e65ca3756bd11fde271529/data/Namibia/Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4c4955c8c2cb121826ea8cab1013cbb36d562b58/data/Namibia/Council/ep-popolo-v1.0.json",
         "names": "data/Namibia/Council/names.csv",
-        "lastmod": "1485067936",
+        "lastmod": "1490203104",
         "person_count": 115,
-        "sha": "40ba8dd47548d876b4e65ca3756bd11fde271529",
+        "sha": "4c4955c8c2cb121826ea8cab1013cbb36d562b58",
         "legislative_periods": [
           {
             "id": "term/5",
