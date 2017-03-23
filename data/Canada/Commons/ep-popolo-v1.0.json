@@ -13138,8 +13138,9 @@
         }
       ],
       "email": "john.mccallum@parl.gc.ca",
+      "family_name": "MCCALLUM",
       "gender": "male",
-      "given_name": "John",
+      "given_name": "The Hon. John, P.C., B.A., Ph.D.",
       "id": "339e3459-c85e-4adc-93ab-ba9c8c20078a",
       "identifiers": [
         {
@@ -13179,8 +13180,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McCallumJohn_Lib.jpg",
+      "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=8b4dda04-11c6-4340-8ef1-321a9560d6ca",
       "images": [
+        {
+          "url": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=8b4dda04-11c6-4340-8ef1-321a9560d6ca"
+        },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/McCallumJohn_Lib.jpg"
         },
@@ -13231,6 +13235,10 @@
       ],
       "name": "John McCallum",
       "other_names": [
+        {
+          "name": "The Hon. John, P.C., B.A., Ph.D. MCCALLUM",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "John McCallum",
@@ -13296,7 +13304,8 @@
           "name": "麥家廉",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "MCCALLUM, The Hon. John, P.C., B.A., Ph.D."
     },
     {
       "birth_date": "1985-01-25",
@@ -17338,8 +17347,9 @@
         }
       ],
       "email": "jason.kenney@parl.gc.ca",
+      "family_name": "KENNEY",
       "gender": "male",
-      "given_name": "Jason",
+      "given_name": "The Hon. Jason, P.C.",
       "id": "464c26e9-c3a6-4928-b195-24ecefc5fb4c",
       "identifiers": [
         {
@@ -17355,8 +17365,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/KenneyJason_CPC.jpg",
+      "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=60cfc40e-9439-40b7-819c-52b29ece3870",
       "images": [
+        {
+          "url": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=60cfc40e-9439-40b7-819c-52b29ece3870"
+        },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/KenneyJason_CPC.jpg"
         },
@@ -17407,6 +17420,10 @@
       ],
       "name": "Jason Kenney",
       "other_names": [
+        {
+          "name": "The Hon. Jason, P.C. KENNEY",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Jason Kenney",
@@ -17472,7 +17489,8 @@
           "name": "贾森·康尼",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "KENNEY, The Hon. Jason, P.C."
     },
     {
       "birth_date": "1960-05-20",
@@ -31648,9 +31666,9 @@
         }
       ],
       "email": "stephen.harper@parl.gc.ca",
-      "family_name": "Harper",
+      "family_name": "HARPER",
       "gender": "male",
-      "given_name": "Stephen",
+      "given_name": "The Right Hon. Stephen, P.C., B.A., M.A.",
       "id": "7c83651f-d89b-4247-8c95-4dffdf5966d1",
       "identifiers": [
         {
@@ -31726,8 +31744,11 @@
           "scheme": "wikitree"
         }
       ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/HarperStephen_CPC.jpg",
+      "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=e78113f9-76b8-4c56-a393-aae0b4fdc610",
       "images": [
+        {
+          "url": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=e78113f9-76b8-4c56-a393-aae0b4fdc610"
+        },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/HarperStephen_CPC.jpg"
         },
@@ -32138,6 +32159,10 @@
       ],
       "name": "Stephen Harper",
       "other_names": [
+        {
+          "name": "The Right Hon. Stephen, P.C., B.A., M.A. HARPER",
+          "note": "alternate"
+        },
         {
           "lang": "af",
           "name": "Stephen Harper",
@@ -32653,7 +32678,8 @@
           "name": "史蒂芬·哈珀",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "HARPER, The Right Hon. Stephen, P.C., B.A., M.A."
     },
     {
       "birth_date": "1966",
@@ -40918,8 +40944,9 @@
         }
       ],
       "email": "stephane.dion@parl.gc.ca",
+      "family_name": "DION",
       "gender": "male",
-      "given_name": "Stéphane",
+      "given_name": "The Hon. Stéphane, P.C., B.A., M.A., Ph.D.",
       "id": "a9579889-f0eb-4eee-8aec-93dfa4ab01f4",
       "identifiers": [
         {
@@ -40971,8 +40998,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DionStéphane_Lib.jpg",
+      "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=c22b6264-2f67-4427-a1e0-6d1a61e33261",
       "images": [
+        {
+          "url": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=c22b6264-2f67-4427-a1e0-6d1a61e33261"
+        },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/DionStéphane_Lib.jpg"
         },
@@ -41103,6 +41133,10 @@
       ],
       "name": "Stéphane Dion",
       "other_names": [
+        {
+          "name": "The Hon. Stéphane, P.C., B.A., M.A., Ph.D. DION",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "ستيفان ديون",
@@ -41263,7 +41297,8 @@
           "name": "斯特凡·迪翁",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "DION, The Hon. Stéphane, P.C., B.A., M.A., Ph.D."
     },
     {
       "birth_date": "1978-11-20",
@@ -47262,7 +47297,9 @@
       ],
       "death_date": "2016-08-16",
       "email": "mauril.belanger@parl.gc.ca",
+      "family_name": "BÉLANGER",
       "gender": "male",
+      "given_name": "The Hon. Mauril, P.C., B.A.",
       "id": "c5391105-42ab-4b5c-8de0-3d8c42205e12",
       "identifiers": [
         {
@@ -47298,8 +47335,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BélangerMauril_Lib.jpg",
+      "image": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=986bf872-d32d-4acf-b49e-42c5431d85d6",
       "images": [
+        {
+          "url": "http://www.lop.parl.gc.ca/parlinfo/images/Picture.aspx?Item=986bf872-d32d-4acf-b49e-42c5431d85d6"
+        },
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/41/BélangerMauril_Lib.jpg"
         },
@@ -47338,6 +47378,10 @@
       ],
       "name": "Mauril Bélanger",
       "other_names": [
+        {
+          "name": "The Hon. Mauril, P.C., B.A. BÉLANGER",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Mauril Bélanger",
@@ -47393,7 +47437,8 @@
           "name": "Mauril Bélanger",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "BÉLANGER, The Hon. Mauril, P.C., B.A."
     },
     {
       "birth_date": "1961",
