@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/france-national-assembly-syccomore",
-        "query": "SELECT * FROM data WHERE term IN ('13', '12') ORDER BY id"
+        "query": "SELECT *, id AS identifier__sycomore FROM data WHERE term IN ('13', '12') ORDER BY id"
       },
       "source": "http://www.assemblee-nationale.fr",
       "merge": {
