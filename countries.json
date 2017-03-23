@@ -5007,11 +5007,11 @@
         "slug": "House-of-Representatives",
         "sources_directory": "data/Jamaica/House_of_Representatives/sources",
         "popolo": "data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/501be5ac460a878aeeec73685d2338aca860b897/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e9c36fe09a68a6880fc4e6dfa551e60d16477b96/data/Jamaica/House_of_Representatives/ep-popolo-v1.0.json",
         "names": "data/Jamaica/House_of_Representatives/names.csv",
-        "lastmod": "1487584200",
+        "lastmod": "1490267481",
         "person_count": 81,
-        "sha": "501be5ac460a878aeeec73685d2338aca860b897",
+        "sha": "e9c36fe09a68a6880fc4e6dfa551e60d16477b96",
         "legislative_periods": [
           {
             "id": "term/2016",
@@ -5031,7 +5031,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a36aa4ceae70334da199c21047eb913c7e5cedf3/data/Jamaica/House_of_Representatives/term-2011.csv"
           }
         ],
-        "statement_count": 3531,
+        "statement_count": 3533,
         "type": "lower house"
       }
     ]
