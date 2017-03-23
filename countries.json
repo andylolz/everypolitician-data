@@ -11357,11 +11357,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8bdf2abc12d0a534d7db609305e8ea4425399937/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/157c3e6e76ca3a54df3a42b07e14f8d41003042a/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1489600311",
+        "lastmod": "1490265741",
         "person_count": 85,
-        "sha": "8bdf2abc12d0a534d7db609305e8ea4425399937",
+        "sha": "157c3e6e76ca3a54df3a42b07e14f8d41003042a",
         "legislative_periods": [
           {
             "id": "term/5",
