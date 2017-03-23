@@ -21,6 +21,7 @@
       "name": "CARLOS ANDRÉS MICHELANGELI ARMAS"
     },
     {
+      "gender": "male",
       "id": "01535deb-5e30-47df-bc2b-6585a6b731b4",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_00944f4c457f5fa03b9044544b167fd2ee592af9.jpg",
       "images": [
@@ -99,6 +100,7 @@
       "name": "LOZANO PARRA CARLOS ALBERTO"
     },
     {
+      "gender": "female",
       "id": "06214537-7389-452b-831d-c03bc396ba50",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_6d31f1f31b7a4ee60546f019205c9e0bec343123.jpg",
       "images": [
@@ -558,6 +560,7 @@
       "name": "YORMAN ALEXANDER AULAR ROMERO"
     },
     {
+      "gender": "female",
       "id": "19b99a19-ff50-40f5-b96e-7782c4b255c3",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_7953f5de39e2f599f511e61b44d7718d596b55d6.jpg",
       "images": [
@@ -1019,7 +1022,7 @@
     {
       "birth_date": "1954-10-06",
       "gender": "male",
-      "given_name": "Oscar",
+      "given_name": "José Ramón",
       "id": "274675e4-847d-4fa7-b27d-7f5773b41144",
       "identifiers": [
         {
@@ -1917,6 +1920,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "3cc995a5-12b6-4d20-899a-e65287e69d2d",
       "image": "http://www.asambleanacional.gob.ve/images/frontend/varios/sinfoto_diputado.jpg",
       "images": [
@@ -2297,6 +2301,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4e20e3c0-a4dc-45e0-883c-38487efec554",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_9cda68225e3264184180e4dcbcbaa970e6594d01.jpg",
       "images": [
@@ -2513,6 +2518,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "56369f69-ef78-4191-9adf-37f75cf5adb6",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_b2e2d7a885a607b1ddd062c023c5a0095e5490d1.jpg",
       "images": [
@@ -2573,6 +2579,7 @@
       "name": "VEGAS ALVAREZ CAROLINA"
     },
     {
+      "gender": "male",
       "id": "5ba87a4c-c020-46aa-bda0-aadca9c1bc9c",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_77b7c803a64ba8c21c34819ca333836979b4a659.jpg",
       "images": [
@@ -4246,6 +4253,7 @@
       "name": "ARMAS CUARTÍN ARMANDO"
     },
     {
+      "gender": "male",
       "id": "914c413a-3f29-4f4c-9d5a-a08f2122be04",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_e73d7b32212a4577ab5e97e7a4204e4cc33e31fd.jpg",
       "images": [
@@ -4807,6 +4815,7 @@
       "name": "PERÉZ GONZÁLEZ MARÍA TERESA"
     },
     {
+      "gender": "male",
       "id": "a7bb03cd-e74f-42ab-95a7-385412192e8a",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_d716b2ae68f18a24ba30f13119fcc2ae6c55b5c4.jpg",
       "images": [
@@ -6171,6 +6180,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "e4d99ae0-7676-4524-964a-988213693910",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_c5e0d0d4bffeab7b8bdd712b3451a46c945db017.jpg",
       "images": [
@@ -6198,6 +6208,7 @@
       "name": "CÉSAR ALEJANDRO SANGUINETTI MAYABIRO"
     },
     {
+      "gender": "female",
       "id": "e7c5afae-f1b5-4438-a99f-e6b787af6a97",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_4f42130667445f83932fe68c147f076ae3075ec7.jpg",
       "images": [
@@ -6833,6 +6844,7 @@
       "name": "TRUJILLO VERA JOSÉ BENILDE"
     },
     {
+      "gender": "male",
       "id": "fd0c1f6a-47b4-46a8-bf91-995221c5a68e",
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_58276b7103f537143ea99a219f3039c8f16748c7.jpg",
       "images": [
