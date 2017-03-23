@@ -3277,11 +3277,11 @@
         "slug": "National-Assembly",
         "sources_directory": "data/France/National_Assembly/sources",
         "popolo": "data/France/National_Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb790546ddf100464db8a4c8b64e0ab98d39e94/data/France/National_Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b0a3685afa6d849a48c2ddf26aefa3f4847fc0d4/data/France/National_Assembly/ep-popolo-v1.0.json",
         "names": "data/France/National_Assembly/names.csv",
-        "lastmod": "1490285920",
+        "lastmod": "1490287123",
         "person_count": 1125,
-        "sha": "3bb790546ddf100464db8a4c8b64e0ab98d39e94",
+        "sha": "b0a3685afa6d849a48c2ddf26aefa3f4847fc0d4",
         "legislative_periods": [
           {
             "id": "term/14",
@@ -3298,7 +3298,7 @@
             "start_date": "2007-06-20",
             "slug": "13",
             "csv": "data/France/National_Assembly/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb790546ddf100464db8a4c8b64e0ab98d39e94/data/France/National_Assembly/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b0a3685afa6d849a48c2ddf26aefa3f4847fc0d4/data/France/National_Assembly/term-13.csv"
           },
           {
             "end_date": "2007-06-19",
@@ -3307,10 +3307,10 @@
             "start_date": "2002-06-19",
             "slug": "12",
             "csv": "data/France/National_Assembly/term-12.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3bb790546ddf100464db8a4c8b64e0ab98d39e94/data/France/National_Assembly/term-12.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/87bc63b0b6a43afe50e45b067a980b1b1a263726/data/France/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 117904,
+        "statement_count": 118031,
         "type": "lower house"
       }
     ]
