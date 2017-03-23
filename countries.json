@@ -5511,11 +5511,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Lesotho/Assembly/sources",
         "popolo": "data/Lesotho/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/92ae3fa880c9bd3761e1c93f36bba4fca584be01/data/Lesotho/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b18b14be2f7beb4e9faafd84b2b29a515fe9d250/data/Lesotho/Assembly/ep-popolo-v1.0.json",
         "names": "data/Lesotho/Assembly/names.csv",
-        "lastmod": "1487155378",
+        "lastmod": "1490289742",
         "person_count": 120,
-        "sha": "92ae3fa880c9bd3761e1c93f36bba4fca584be01",
+        "sha": "b18b14be2f7beb4e9faafd84b2b29a515fe9d250",
         "legislative_periods": [
           {
             "id": "term/9",
