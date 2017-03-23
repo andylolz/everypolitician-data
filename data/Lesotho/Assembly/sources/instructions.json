@@ -7,7 +7,7 @@
         "scraper": "tmtmtmtm/lesotho-assembly",
         "query": "SELECT * FROM data ORDER BY name"
       },
-      "source": "http://www.parliament.ls",
+      "source": ["http://www.parliament.ls", "http://candidates.iec.org.ls"],
       "type": "membership"
     },
     {
