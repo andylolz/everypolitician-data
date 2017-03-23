@@ -37,8 +37,7 @@
       "merge": {
         "incoming_field": "identifier__sycomore",
         "existing_field": "identifier__sycomore",
-        "reconciliation_file": "reconciliation/wikidata.csv",
-        "report_missing": false
+        "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
     {
