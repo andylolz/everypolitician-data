@@ -7,7 +7,7 @@
       "notes": "From old scraper output before site changed"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/suriname-nationale-assemblee",
