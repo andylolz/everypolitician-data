@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/abidjan-forums.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/ivory-coast-election-results-2011",
