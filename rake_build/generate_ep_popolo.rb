@@ -1,3 +1,4 @@
+require 'deep_merge'
 
 #-----------------------------------------------------------------------
 # Transform the results from generic CSV-to-Popolo into EP-Popolo
@@ -175,9 +176,7 @@ namespace :transform do
           a[:type] == 'constituency' &&
           a[:id].split('/').last == area[:id].split('/').last
         end.each do |existing|
-          existing.merge!(area) do |key, old, new|
-            key == :id ? old : new
-          end
+          DeepMerge.deep_merge!(area, existing, preserve_unmergeables: true)
         end
       end
     end
