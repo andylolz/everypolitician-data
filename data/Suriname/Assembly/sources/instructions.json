@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "manual/members-2010.csv",
+      "file": "archive/official-2010.csv",
       "type": "membership",
       "source": "http://www.dna.sr",
       "notes": "From old scraper output before site changed"
