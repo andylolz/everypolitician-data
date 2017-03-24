@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/election.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/djibouti-election-2013",
