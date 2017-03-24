@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/psephos.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/mali-psephos",
