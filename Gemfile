@@ -27,6 +27,7 @@ gem 'everypolitician-pull_request', github: 'everypolitician/everypolitician-pul
 gem 'everypolitician-dataview-terms', github: 'everypolitician/everypolitician-dataview-terms'
 gem 'field_serializer', github: 'everypolitician/field_serializer'
 gem 'csvlint'
+gem 'deep_merge'
 
 group :test do
   gem 'minitest'
