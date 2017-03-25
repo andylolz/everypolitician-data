@@ -21942,7 +21942,20 @@
     {
       "classification": "party",
       "id": "australian_conservatives",
-      "name": "Australian Conservatives"
+      "identifiers": [
+        {
+          "identifier": "Q29021047",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Australian Conservatives",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Australian Conservatives",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",

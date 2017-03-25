@@ -2919,5 +2919,20 @@
         "note": "website"
       }
     ]
+  },
+  "australian_conservatives": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q29021047"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Australian Conservatives",
+        "note": "multilingual"
+      }
+    ]
   }
 }
