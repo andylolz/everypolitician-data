@@ -1746,6 +1746,7 @@
       "sort_name": "Patterson, Kay"
     },
     {
+      "birth_date": "1973-01-20",
       "contact_details": [
         {
           "type": "email",
@@ -1765,6 +1766,10 @@
         {
           "identifier": "10857",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6939517",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245759/upload_ref_binary/245759.jpg",
@@ -1773,11 +1778,37 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245759/upload_ref_binary/245759.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Murray_Watt"
+        }
+      ],
       "name": "Murray Watt",
       "other_names": [
         {
           "name": "Senator Murray Watt",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Murray Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Murray Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Murray Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Murray Watt",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Watt, Murray"
@@ -2581,6 +2612,7 @@
       "sort_name": "Kemp, Rod"
     },
     {
+      "birth_date": "1971-04-30",
       "contact_details": [
         {
           "type": "email",
@@ -2600,6 +2632,10 @@
         {
           "identifier": "10853",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q26703243",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg",
@@ -2608,11 +2644,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jane_Hume"
+        }
+      ],
       "name": "Jane Hume",
       "other_names": [
         {
           "name": "Senator Jane Hume",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jane Hume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jane Hume",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Hume, Jane"
@@ -2712,6 +2764,7 @@
       "sort_name": "Mason, Brett"
     },
     {
+      "birth_date": "1970",
       "contact_details": [
         {
           "type": "email",
@@ -2731,6 +2784,10 @@
         {
           "identifier": "10855",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q6741359",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/122087/upload_ref_binary/122087.jpg",
@@ -2739,11 +2796,37 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/122087/upload_ref_binary/122087.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Malarndirri_McCarthy"
+        }
+      ],
       "name": "Malarndirri McCarthy",
       "other_names": [
         {
           "name": "Senator Malarndirri McCarthy",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Malarndirri McCarthy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Malarndirri McCarthy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Malarndirri McCarthy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Malarndirri McCarthy",
+          "note": "multilingual"
         }
       ],
       "sort_name": "McCarthy, Malarndirri"
@@ -7482,6 +7565,7 @@
       "sort_name": "Rhiannon, Lee"
     },
     {
+      "birth_date": "1944-02-09",
       "contact_details": [
         {
           "type": "email",
@@ -7499,14 +7583,51 @@
           "scheme": "aph"
         },
         {
+          "identifier": "1598807",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "nm0385458",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "n2004043261",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "10852",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "26454393",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5263246",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2O4/upload_ref_binary/2O4.jpg",
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/2O4/upload_ref_binary/2O4.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Derryn_Hinch.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Derryn_Hinch"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Derryn_Hinch"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Derryn_Hinch"
         }
       ],
       "name": "Derryn Hinch",
@@ -7514,6 +7635,66 @@
         {
           "name": "Senator Derryn Hinch",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντέριν Χιντς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Деррин Хинч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Derryn Hinch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "達林·辛區",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Hinch, Derryn"
@@ -8875,6 +9056,7 @@
       "sort_name": "Neal, Belinda"
     },
     {
+      "birth_date": "1985-12-19",
       "contact_details": [
         {
           "type": "email",
@@ -8894,6 +9076,10 @@
         {
           "identifier": "10854",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q25350752",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265982/upload_ref_binary/265982.jpg",
@@ -8902,11 +9088,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/265982/upload_ref_binary/265982.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Skye_Kakoschke-Moore"
+        }
+      ],
       "name": "Skye Kakoschke-Moore",
       "other_names": [
         {
           "name": "Senator Skye Kakoschke-Moore",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Skye Kakoschke-Moore",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Skye Kakoschke-Moore",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Kakoschke-Moore, Skye"
@@ -10986,6 +11188,7 @@
       "sort_name": "Cormann, Mathias"
     },
     {
+      "birth_date": "1954-05-27",
       "contact_details": [
         {
           "type": "email",
@@ -11003,14 +11206,91 @@
           "scheme": "aph"
         },
         {
+          "identifier": "419026",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/0j5pc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n98054473",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "nla.party-540409",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10280",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Pauline-Hanson",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "w61z4cfp",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "92816054",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q466220",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BK6/upload_ref_binary/BK6.jpg",
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/BK6/upload_ref_binary/BK6.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pauline_Hanson.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Pauline_Hanson"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Pauline_Hanson"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pauline_Hanson"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Pauline_Hanson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pauline_Hanson"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ポーリン・ハンソン"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/폴린_핸슨"
+        },
+        {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/保琳汉生"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/寶琳·韓森"
+        },
+        {
+          "note": "website",
+          "url": "http://www.paulinehanson.net.au/"
         }
       ],
       "name": "Pauline Hanson",
@@ -11018,6 +11298,106 @@
         {
           "name": "Senator Pauline Hanson",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ポーリン・ハンソン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "폴린 핸슨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pauline Hanson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wuu",
+          "name": "保琳汉生",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "寶琳·韓森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "宝琳·韩森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "宝琳·韩森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "寶琳·韓森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "寶琳·韓森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "宝琳·韩森",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "寶琳·韓森",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Hanson, Pauline"
@@ -12945,6 +13325,7 @@
       "sort_name": "Jenkins, Jean"
     },
     {
+      "birth_date": "1957-12-02",
       "contact_details": [
         {
           "type": "email",
@@ -12964,6 +13345,10 @@
         {
           "identifier": "10851",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q25324894",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg",
@@ -12974,6 +13359,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stirling_Griff"
+        },
+        {
           "note": "website",
           "url": "http://www.stirlinggriff.com.au"
         }
@@ -12983,6 +13372,16 @@
         {
           "name": "Senator Stirling Griff",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stirling Griff",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stirling Griff",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Griff, Stirling"
@@ -16097,6 +16496,7 @@
       "sort_name": "Waters, Larissa"
     },
     {
+      "birth_date": "1955-05-03",
       "contact_details": [
         {
           "type": "email",
@@ -16116,6 +16516,10 @@
         {
           "identifier": "10856",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q26848575",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266524/upload_ref_binary/266524.jpg",
@@ -16124,11 +16528,36 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266524/upload_ref_binary/266524.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Malcolm_Roberts_(politician)"
+        },
+        {
+          "note": "Wikipedia (si)",
+          "url": "https://si.wikipedia.org/wiki/මැල්කම්_රොබට්ස්_(දේශපාලක)"
+        }
+      ],
       "name": "Malcolm Roberts",
       "other_names": [
         {
           "name": "Senator Malcolm Roberts",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Malcolm Roberts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Malcolm Roberts",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "මැල්කම් රොබට්ස්",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Roberts, Malcolm"
@@ -17009,6 +17438,7 @@
       "sort_name": "Sibraa, Kerry"
     },
     {
+      "birth_date": "1978-02-24",
       "contact_details": [
         {
           "type": "email",
@@ -17028,6 +17458,10 @@
         {
           "identifier": "10849",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q18719336",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg",
@@ -17036,11 +17470,37 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anthony_Chisholm_(politician)"
+        }
+      ],
       "name": "Anthony Chisholm",
       "other_names": [
         {
           "name": "Senator Anthony Chisholm",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anthony Chisholm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anthony Chisholm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anthony Chisholm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Энтони Чисхолм",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Chisholm, Anthony"
@@ -18218,6 +18678,7 @@
       "sort_name": "Xenophon, Nick"
     },
     {
+      "birth_date": "1982-12-31",
       "contact_details": [
         {
           "type": "email",
@@ -18237,6 +18698,10 @@
         {
           "identifier": "10847",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q25268390",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/263418/upload_ref_binary/263418.jpg",
@@ -18245,11 +18710,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/263418/upload_ref_binary/263418.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jonathon_Duniam"
+        }
+      ],
       "name": "Jonathon Duniam",
       "other_names": [
         {
           "name": "Senator Jonathon Duniam",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jonathon Duniam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jonathon Duniam",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Duniam, Jonathon"
@@ -18790,6 +19271,7 @@
       "sort_name": "Brown, Bob"
     },
     {
+      "birth_date": "1948-02-25",
       "contact_details": [
         {
           "type": "email",
@@ -18809,6 +19291,10 @@
         {
           "identifier": "10848",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q26703252",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207807/upload_ref_binary/207807.jpg",
@@ -18817,11 +19303,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207807/upload_ref_binary/207807.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Brian_Burston"
+        }
+      ],
       "name": "Brian Burston",
       "other_names": [
         {
           "name": "Senator Brian Burston",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Brian Burston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brian Burston",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Burston, Brian"
@@ -19012,6 +19514,13 @@
       "sort_name": "Gibson, Brian"
     },
     {
+      "birth_date": "1970-02-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "kimbakit"
+        }
+      ],
       "family_name": "Kitching",
       "gender": "female",
       "given_name": "Kimberley",
@@ -19024,6 +19533,10 @@
         {
           "identifier": "10897",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q27450592",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247512/upload_ref_binary/247512.jpg",
@@ -19032,11 +19545,31 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247512/upload_ref_binary/247512.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kimberley_Kitching"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/kimbakit"
+        }
+      ],
       "name": "Kimberley Kitching",
       "other_names": [
         {
           "name": "Senator Kimberley Kitching",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kimberley Kitching",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kimberley Kitching",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Kitching, Kimberley"
