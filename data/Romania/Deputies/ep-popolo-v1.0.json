@@ -27952,7 +27952,7 @@
       "links": [
         {
           "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Szabó_Ödön"
+          "url": "https://hu.wikipedia.org/wiki/Szabó_Ödön_(politikus)"
         },
         {
           "note": "Wikipedia (ro)",
@@ -37129,7 +37129,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -37640,6 +37640,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
