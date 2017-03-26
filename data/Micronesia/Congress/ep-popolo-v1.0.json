@@ -661,6 +661,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Пітер Крістіан",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "彼得·克里斯蒂安",
           "note": "multilingual"
@@ -947,7 +952,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -1458,6 +1463,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
