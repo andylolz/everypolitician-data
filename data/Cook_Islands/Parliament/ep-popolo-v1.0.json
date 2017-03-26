@@ -1383,6 +1383,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Маоате,_Терепаи"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Терепаї_Маоате"
         }
       ],
       "name": "Terepai Maoate",
@@ -1435,6 +1439,11 @@
         {
           "lang": "ru",
           "name": "Маоате, Терепаи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Терепаї Маоате",
           "note": "multilingual"
         },
         {
@@ -2734,7 +2743,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -3245,6 +3254,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
