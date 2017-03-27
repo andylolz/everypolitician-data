@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/sheet.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/nepal-ca-members",
