@@ -6,7 +6,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/data.csv",
+      "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/pontifical-commission-for-vatican-state-wikipedia",
