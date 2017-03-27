@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/haiti-reference.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/haiti-deputies-2011",
