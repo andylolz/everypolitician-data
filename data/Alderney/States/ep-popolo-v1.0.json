@@ -151,10 +151,12 @@
       "name": "Louis Jean"
     },
     {
+      "gender": "male",
       "id": "b09914ca-204d-4b4e-986f-0e8eb0513ae5",
       "name": "James Dent"
     },
     {
+      "gender": "male",
       "id": "b38643e1-5b52-4a6e-8ee4-3e015bd93dca",
       "name": "Mike Dean"
     },
@@ -170,10 +172,12 @@
       "name": "Graham McKinley"
     },
     {
+      "gender": "male",
       "id": "c278551a-1d85-4276-a687-364b6e2c3175",
       "name": "Alex Snowdon"
     },
     {
+      "gender": "male",
       "id": "d3ee2797-d8df-415e-b378-0e9cbb452a35",
       "name": "Tony Barnes"
     }
@@ -297,7 +301,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -808,6 +812,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
