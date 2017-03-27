@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/british-virgin-islands-assembly-wikipedia",
