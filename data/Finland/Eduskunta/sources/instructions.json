@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/kansanmuisti.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/finland-eduskunta-kansanmuisti",
