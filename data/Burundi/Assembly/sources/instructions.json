@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members-2010.csv",
+      "file": "morph/official-2010.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/burundi-assemblee",
