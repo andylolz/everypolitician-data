@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/electoraloffice.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/dominica-election-2014",
