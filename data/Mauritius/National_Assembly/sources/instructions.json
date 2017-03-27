@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/data.csv",
+      "file": "morph/elections.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/mauritius-election-2014",
