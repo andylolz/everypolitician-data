@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/members-2015.csv",
+      "file": "morph/official-2015.csv",
       "create": {
         "from": "morph",
         "scraper": "duncanfwalker/burundi-national-assembly",
