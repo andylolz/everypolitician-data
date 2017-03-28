@@ -143,6 +143,16 @@
         "note": "multilingual"
       },
       {
+        "lang": "es",
+        "name": "Partido Democrata Cristiano",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Democrata Cristiano de Chile",
+        "note": "multilingual"
+      },
+      {
         "lang": "el",
         "name": "Χριστιανοδημοκρατικό Κόμμα",
         "note": "multilingual"
@@ -252,6 +262,11 @@
       {
         "lang": "es",
         "name": "UDI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union Democrata Independiente",
         "note": "multilingual"
       }
     ],
@@ -374,6 +389,11 @@
       {
         "lang": "es",
         "name": "RN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Renovacion Nacional",
         "note": "multilingual"
       }
     ],
@@ -924,7 +944,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -1436,6 +1456,16 @@
         "lang": "mk",
         "name": "непартиски политичар",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
       }
     ]
   },
@@ -1936,6 +1966,11 @@
       {
         "lang": "ru",
         "name": "КП Чили",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "КПЧ",
         "note": "multilingual"
       },
       {
