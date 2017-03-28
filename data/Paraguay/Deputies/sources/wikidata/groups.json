@@ -479,7 +479,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -991,6 +991,16 @@
         "lang": "mk",
         "name": "непартиски политичар",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
       }
     ]
   },
@@ -1025,6 +1035,11 @@
       {
         "lang": "zh",
         "name": "大陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Guasu",
         "note": "multilingual"
       }
     ],
