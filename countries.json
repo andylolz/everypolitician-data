@@ -7875,11 +7875,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Portugal/Assembly/sources",
         "popolo": "data/Portugal/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1b1aeef9940a8a80a64b21e2059e1cd3ce1d5482/data/Portugal/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/28e1214d5e1e6ac51024cb6b09b9adaa2a6d25c8/data/Portugal/Assembly/ep-popolo-v1.0.json",
         "names": "data/Portugal/Assembly/names.csv",
-        "lastmod": "1489048872",
+        "lastmod": "1490635505",
         "person_count": 1356,
-        "sha": "1b1aeef9940a8a80a64b21e2059e1cd3ce1d5482",
+        "sha": "28e1214d5e1e6ac51024cb6b09b9adaa2a6d25c8",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -7887,7 +7887,7 @@
             "start_date": "2015-10-23",
             "slug": "13",
             "csv": "data/Portugal/Assembly/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23991aeb84900851d61e7ed4d1a0739ea7fbccdb/data/Portugal/Assembly/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc9707517f836ef37c6752278e681c57e715b866/data/Portugal/Assembly/term-13.csv"
           },
           {
             "end_date": "2015-10-22",
@@ -7998,7 +7998,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/af1100eb4b050f753196e00e44123b8e3f9740e7/data/Portugal/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 49736,
+        "statement_count": 49798,
         "type": "unicameral legislature"
       }
     ]
