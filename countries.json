@@ -7002,11 +7002,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Nigeria/Representatives/sources",
         "popolo": "data/Nigeria/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ce8079c73707167e7315abfdf5e626d3096f7b8d/data/Nigeria/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1df1fc194fc25f1379aa2c8a8a0502ebde668ba7/data/Nigeria/Representatives/ep-popolo-v1.0.json",
         "names": "data/Nigeria/Representatives/names.csv",
-        "lastmod": "1489628183",
+        "lastmod": "1490691675",
         "person_count": 364,
-        "sha": "ce8079c73707167e7315abfdf5e626d3096f7b8d",
+        "sha": "1df1fc194fc25f1379aa2c8a8a0502ebde668ba7",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -7017,7 +7017,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1e00ca8737d7866ddd55f54c758e50d606e66659/data/Nigeria/Representatives/term-8.csv"
           }
         ],
-        "statement_count": 8597,
+        "statement_count": 8590,
         "type": "lower house"
       },
       {
@@ -7025,11 +7025,11 @@
         "slug": "Senate",
         "sources_directory": "data/Nigeria/Senate/sources",
         "popolo": "data/Nigeria/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f1347747ed36084f3049c9538c2ca112a30aff7/data/Nigeria/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c88e91fec8ad1aa8e933ecd1bf1a28affb7c5838/data/Nigeria/Senate/ep-popolo-v1.0.json",
         "names": "data/Nigeria/Senate/names.csv",
         "lastmod": "1490259843",
         "person_count": 112,
-        "sha": "3f1347747ed36084f3049c9538c2ca112a30aff7",
+        "sha": "c88e91fec8ad1aa8e933ecd1bf1a28affb7c5838",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -7037,7 +7037,7 @@
             "start_date": "2015-06-09",
             "slug": "8",
             "csv": "data/Nigeria/Senate/term-8.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f1347747ed36084f3049c9538c2ca112a30aff7/data/Nigeria/Senate/term-8.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c88e91fec8ad1aa8e933ecd1bf1a28affb7c5838/data/Nigeria/Senate/term-8.csv"
           }
         ],
         "statement_count": 3881,
