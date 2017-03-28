@@ -143,6 +143,16 @@
         "note": "multilingual"
       },
       {
+        "lang": "es",
+        "name": "Partido Democrata Cristiano",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Democrata Cristiano de Chile",
+        "note": "multilingual"
+      },
+      {
         "lang": "el",
         "name": "Χριστιανοδημοκρατικό Κόμμα",
         "note": "multilingual"
@@ -252,6 +262,11 @@
       {
         "lang": "es",
         "name": "UDI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union Democrata Independiente",
         "note": "multilingual"
       }
     ],
@@ -374,6 +389,11 @@
       {
         "lang": "es",
         "name": "RN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Renovacion Nacional",
         "note": "multilingual"
       }
     ],
@@ -924,7 +944,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -1436,6 +1456,16 @@
         "lang": "mk",
         "name": "непартиски политичар",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
       }
     ]
   },
@@ -1939,6 +1969,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ru",
+        "name": "КПЧ",
+        "note": "multilingual"
+      },
+      {
         "lang": "tr",
         "name": "Şili Komünist Parti",
         "note": "multilingual"
@@ -2202,5 +2237,108 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Union_de_Centro_Centro_Progresista.png"
+  },
+  "EVOP": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q16565533"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Evolución Política",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Political Evolution",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Evópoli",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Evópoli",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.evopoli.cl/",
+        "note": "website"
+      }
+    ]
+  },
+  "REVD": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6107151"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Revolución Democrática",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Democratic Revolution",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "RD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Revolucion Democratica",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.revoluciondemocratica.cl",
+        "note": "website"
+      }
+    ]
+  },
+  "AMPL": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q16488420"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Amplitud",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Amplitude",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Amplitud",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.amplitudchile.cl/",
+        "note": "website"
+      }
+    ]
   }
 }
