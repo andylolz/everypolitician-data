@@ -1507,6 +1507,10 @@
           "url": "https://fa.wikipedia.org/wiki/مسعود_پزشکیان"
         },
         {
+          "note": "Wikipedia (fawikiquote)",
+          "url": "https://fawikiquote.wikipedia.org/wiki/مسعود_پزشکیان"
+        },
+        {
           "note": "website",
           "url": "http://www.drpezeshkian.ir/"
         }
@@ -4339,6 +4343,11 @@
         {
           "lang": "fr",
           "name": "Ciamak Moresadegh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סיאמק מרה סדק",
           "note": "multilingual"
         },
         {
