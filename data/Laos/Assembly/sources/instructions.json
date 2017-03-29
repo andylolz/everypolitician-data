@@ -22,7 +22,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/2016-memberships.csv"
+        "reconciliation_file": "reconciliation/official-2016.csv"
       }
     },
     {
