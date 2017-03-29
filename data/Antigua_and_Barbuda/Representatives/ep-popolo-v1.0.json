@@ -846,6 +846,7 @@
       "name": "Vere BIRD Sr."
     },
     {
+      "gender": "male",
       "id": "b1aaffed-0c7b-4f3c-8228-6b85d0a194df",
       "identifiers": [
         {
@@ -1642,7 +1643,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -2153,6 +2154,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
