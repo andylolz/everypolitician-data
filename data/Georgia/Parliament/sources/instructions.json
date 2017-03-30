@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/chemiparlamenti.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/georgia-chemiparlamenti",

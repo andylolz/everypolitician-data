@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/kansanmuisti.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/finland-eduskunta-kansanmuisti",
@@ -11,7 +11,7 @@
       "type": "membership"
     },
     {
-      "file": "morph/members-2015.csv",
+      "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/finland-eduskunta-2015-wikipedia",
@@ -22,7 +22,7 @@
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/members-2015.csv"
+        "reconciliation_file": "reconciliation/wikipedia.csv"
       }
     },
     {

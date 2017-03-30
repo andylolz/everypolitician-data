@@ -22666,12 +22666,75 @@
     {
       "classification": "party",
       "id": "AMPL",
-      "name": "Amplitud"
+      "identifiers": [
+        {
+          "identifier": "Q16488420",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.amplitudchile.cl/"
+        }
+      ],
+      "name": "Amplitud",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Amplitud",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Amplitude",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Amplitud",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "EVOP",
-      "name": "Evopolis"
+      "identifiers": [
+        {
+          "identifier": "Q16565533",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.evopoli.cl/"
+        }
+      ],
+      "name": "Evopolis",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Evolución Política",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Political Evolution",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Evópoli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Evópoli",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -22791,7 +22854,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -23303,6 +23366,16 @@
           "lang": "mk",
           "name": "непартиски политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
         }
       ]
     },
@@ -23728,6 +23801,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "КПЧ",
+          "note": "multilingual"
+        },
+        {
           "lang": "tr",
           "name": "Şili Komünist Parti",
           "note": "multilingual"
@@ -23920,6 +23998,16 @@
         {
           "lang": "es",
           "name": "PDC",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata Cristiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata Cristiano de Chile",
           "note": "multilingual"
         },
         {
@@ -24749,13 +24837,52 @@
           "lang": "es",
           "name": "RN",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Renovacion Nacional",
+          "note": "multilingual"
         }
       ]
     },
     {
       "classification": "party",
       "id": "REVD",
-      "name": "Revolución Democrática"
+      "identifiers": [
+        {
+          "identifier": "Q6107151",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.revoluciondemocratica.cl"
+        }
+      ],
+      "name": "Revolución Democrática",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Revolución Democrática",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democratic Revolution",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "RD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Revolucion Democratica",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -24858,6 +24985,11 @@
         {
           "lang": "es",
           "name": "UDI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union Democrata Independiente",
           "note": "multilingual"
         }
       ]
@@ -32006,6 +32138,12 @@
       "classification": "legislative period",
       "end_date": "2018-03-10",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q29044335",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Legislativo 2014-2018",
       "organization_id": "5e07982c-0efe-41a8-8899-3b5edc94f112",
       "start_date": "2014-03-11"

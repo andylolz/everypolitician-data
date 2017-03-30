@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/members.csv",
+      "file": "morph/official-api.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/norway-stortinget",
