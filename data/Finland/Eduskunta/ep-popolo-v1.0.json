@@ -76951,6 +76951,11 @@
           "lang": "zh",
           "name": "中芬蘭選區",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Центральная Финляндия",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -77249,6 +77254,11 @@
         {
           "lang": "fi",
           "name": "Savo-Karjalan vaalipiiri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Savonia-Karelen",
           "note": "multilingual"
         }
       ],
