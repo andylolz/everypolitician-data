@@ -4163,6 +4163,23 @@
     },
     {
       "gender": "male",
+      "id": "a7e8a7fe-bb8d-4f37-a8fb-a3a041f2876f",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15774-1489498264.png?itok=McI8xAkp",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15774-1489498264.png?itok=McI8xAkp"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AngelicaAndinoR"
+        }
+      ],
+      "name": "Angélica María Andino Robalino"
+    },
+    {
+      "gender": "male",
       "id": "a80aa76f-2368-451c-84c1-6f75f0253e3a",
       "identifiers": [
         {
@@ -6425,7 +6442,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -6937,6 +6954,16 @@
           "lang": "mk",
           "name": "непартиски политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
         }
       ]
     },
@@ -7264,6 +7291,11 @@
         {
           "lang": "nl",
           "name": "January 21 Patriotic Society Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Sociedad Patriotica 21 de Enero",
           "note": "multilingual"
         }
       ]
@@ -8469,6 +8501,19 @@
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/agustindelgado"
+        }
+      ]
+    },
+    {
+      "area_id": "area/galápagos",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/independientes",
+      "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
+      "person_id": "a7e8a7fe-bb8d-4f37-a8fb-a3a041f2876f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/angelicaandino"
         }
       ]
     },
