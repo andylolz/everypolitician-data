@@ -25502,6 +25502,12 @@
     {
       "classification": "legislative period",
       "id": "term/54",
+      "identifiers": [
+        {
+          "identifier": "Q17173094",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Législature 54",
       "organization_id": "a013af0f-352e-4ca9-b17a-efa71edcc695",
       "start_date": "2014-06-19"
