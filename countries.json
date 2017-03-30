@@ -8828,11 +8828,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Singapore/Parliament/sources",
         "popolo": "data/Singapore/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a0f1c69c305eaf50f72e67d1901f3d52889bdec/data/Singapore/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/79aea751b32f7f1f6e1b228a7fe7b620268f9ab8/data/Singapore/Parliament/ep-popolo-v1.0.json",
         "names": "data/Singapore/Parliament/names.csv",
-        "lastmod": "1488971888",
+        "lastmod": "1490856422",
         "person_count": 403,
-        "sha": "9a0f1c69c305eaf50f72e67d1901f3d52889bdec",
+        "sha": "79aea751b32f7f1f6e1b228a7fe7b620268f9ab8",
         "legislative_periods": [
           {
             "id": "term/13",
@@ -8840,7 +8840,7 @@
             "start_date": "2016-01-15",
             "slug": "13",
             "csv": "data/Singapore/Parliament/term-13.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9a0f1c69c305eaf50f72e67d1901f3d52889bdec/data/Singapore/Parliament/term-13.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f4d2503920fe97900a4f0855adb6406b5355be21/data/Singapore/Parliament/term-13.csv"
           },
           {
             "end_date": "2015-08-25",
@@ -8951,7 +8951,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8f7ea402d28dc0aa0ebf3dd44ca84f4c6b565e36/data/Singapore/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 16473,
+        "statement_count": 16475,
         "type": "unicameral legislature"
       }
     ]
