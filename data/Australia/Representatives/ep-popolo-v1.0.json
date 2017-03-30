@@ -11826,10 +11826,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWQ/upload_ref_binary/HWQ.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWQ/upload_ref_binary/HWQ.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWQ/upload_ref_binary/HWQ.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWQ/upload_ref_binary/HWQ.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Richard_Marles.jpg"
@@ -19198,10 +19198,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HVO/upload_ref_binary/HVO.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HVO/upload_ref_binary/HVO.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HVO/upload_ref_binary/HVO.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HVO/upload_ref_binary/HVO.jpg"
         }
       ],
       "links": [
@@ -29189,10 +29189,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E0F/upload_ref_binary/E0F.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E0F/upload_ref_binary/E0F.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E0F/upload_ref_binary/E0F.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E0F/upload_ref_binary/E0F.jpg"
         }
       ],
       "links": [
@@ -37015,6 +37015,13 @@
     },
     {
       "birth_date": "1981-08-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Trevor.Evans.MP@aph.gov.au"
+        }
+      ],
+      "email": "Trevor.Evans.MP@aph.gov.au",
       "family_name": "Evans",
       "gender": "male",
       "given_name": "Trevor",
@@ -37043,6 +37050,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Trevor_Evans_(politician)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/trevorevansbne"
+        },
+        {
+          "note": "website",
+          "url": "http://www.trevorevans.com.au"
         }
       ],
       "name": "Trevor Evans",
@@ -41073,10 +41088,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWN/upload_ref_binary/HWN.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWN/upload_ref_binary/HWN.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWN/upload_ref_binary/HWN.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWN/upload_ref_binary/HWN.jpg"
         }
       ],
       "links": [
@@ -52036,6 +52051,11 @@
         {
           "lang": "pl",
           "name": "przewodniczący parlamentu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יושב ראש פרלמנט",
           "note": "multilingual"
         },
         {
