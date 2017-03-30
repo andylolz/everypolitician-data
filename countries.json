@@ -594,11 +594,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Australia/Representatives/sources",
         "popolo": "data/Australia/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/099f6e03d0a5590723de2103b8c62e391e8b7de2/data/Australia/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/ep-popolo-v1.0.json",
         "names": "data/Australia/Representatives/names.csv",
-        "lastmod": "1490366217",
+        "lastmod": "1490839219",
         "person_count": 512,
-        "sha": "099f6e03d0a5590723de2103b8c62e391e8b7de2",
+        "sha": "ad4a7cfc87b79a054ed92a4b00e64cff08ede129",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -606,7 +606,7 @@
             "start_date": "2016-07-02",
             "slug": "45",
             "csv": "data/Australia/Representatives/term-45.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/099f6e03d0a5590723de2103b8c62e391e8b7de2/data/Australia/Representatives/term-45.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-45.csv"
           },
           {
             "end_date": "2016-05-09",
@@ -615,7 +615,7 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Representatives/term-44.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/abf4d15afc0ea30d543be6344ae8fc4f505a04fc/data/Australia/Representatives/term-44.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-44.csv"
           },
           {
             "end_date": "2013-09-07",
@@ -624,7 +624,7 @@
             "start_date": "2010-08-21",
             "slug": "43",
             "csv": "data/Australia/Representatives/term-43.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/434965b96d4fb5587519aa4af3397c602b855c7b/data/Australia/Representatives/term-43.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-43.csv"
           },
           {
             "end_date": "2010-08-21",
@@ -633,7 +633,7 @@
             "start_date": "2007-11-24",
             "slug": "42",
             "csv": "data/Australia/Representatives/term-42.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/434965b96d4fb5587519aa4af3397c602b855c7b/data/Australia/Representatives/term-42.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-42.csv"
           },
           {
             "end_date": "2007-11-24",
@@ -642,7 +642,7 @@
             "start_date": "2004-10-09",
             "slug": "41",
             "csv": "data/Australia/Representatives/term-41.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/434965b96d4fb5587519aa4af3397c602b855c7b/data/Australia/Representatives/term-41.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ad4a7cfc87b79a054ed92a4b00e64cff08ede129/data/Australia/Representatives/term-41.csv"
           },
           {
             "end_date": "2004-10-09",
@@ -699,7 +699,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b8fc6787d2f2f91ade979c784846d41209dca913/data/Australia/Representatives/term-35.csv"
           }
         ],
-        "statement_count": 40787,
+        "statement_count": 40797,
         "type": "lower house"
       },
       {
@@ -707,11 +707,11 @@
         "slug": "Senate",
         "sources_directory": "data/Australia/Senate/sources",
         "popolo": "data/Australia/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/213d3097b0ef41b15398e88441e1289326cfe819/data/Australia/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f28a1a734866aacbd19ae9dd82f4089520866c6c/data/Australia/Senate/ep-popolo-v1.0.json",
         "names": "data/Australia/Senate/names.csv",
         "lastmod": "1490433242",
         "person_count": 257,
-        "sha": "213d3097b0ef41b15398e88441e1289326cfe819",
+        "sha": "f28a1a734866aacbd19ae9dd82f4089520866c6c",
         "legislative_periods": [
           {
             "id": "term/45",
@@ -719,7 +719,7 @@
             "start_date": "2016-07-02",
             "slug": "45",
             "csv": "data/Australia/Senate/term-45.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6dff74dc133a64daed78a5bd44015ae5eb218d3d/data/Australia/Senate/term-45.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/39a2a81eb437175adcfcc5a2e6ab657fe50bbb9a/data/Australia/Senate/term-45.csv"
           },
           {
             "end_date": "2016-05-09",
@@ -728,7 +728,7 @@
             "start_date": "2013-09-07",
             "slug": "44",
             "csv": "data/Australia/Senate/term-44.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-44.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-44.csv"
           },
           {
             "end_date": "2013-09-07",
@@ -737,7 +737,7 @@
             "start_date": "2010-08-21",
             "slug": "43",
             "csv": "data/Australia/Senate/term-43.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-43.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-43.csv"
           },
           {
             "end_date": "2010-08-21",
@@ -746,7 +746,7 @@
             "start_date": "2007-11-24",
             "slug": "42",
             "csv": "data/Australia/Senate/term-42.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-42.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-42.csv"
           },
           {
             "end_date": "2007-11-24",
@@ -755,7 +755,7 @@
             "start_date": "2004-10-09",
             "slug": "41",
             "csv": "data/Australia/Senate/term-41.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-41.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-41.csv"
           },
           {
             "end_date": "2004-10-09",
@@ -764,7 +764,7 @@
             "start_date": "2001-11-10",
             "slug": "40",
             "csv": "data/Australia/Senate/term-40.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-40.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-40.csv"
           },
           {
             "end_date": "2001-11-10",
@@ -773,7 +773,7 @@
             "start_date": "1998-10-03",
             "slug": "39",
             "csv": "data/Australia/Senate/term-39.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-39.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-39.csv"
           },
           {
             "end_date": "1998-10-03",
@@ -782,7 +782,7 @@
             "start_date": "1996-03-02",
             "slug": "38",
             "csv": "data/Australia/Senate/term-38.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-38.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-38.csv"
           },
           {
             "end_date": "1996-03-02",
@@ -791,7 +791,7 @@
             "start_date": "1993-03-13",
             "slug": "37",
             "csv": "data/Australia/Senate/term-37.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2abab73cd4e53af85ef6c6f9ce2b15cfeb7896d3/data/Australia/Senate/term-37.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e305e4ab1f2b9d4a4df72037551e5bdd8bb530fd/data/Australia/Senate/term-37.csv"
           },
           {
             "end_date": "1993-03-13",
