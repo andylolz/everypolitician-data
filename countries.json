@@ -1064,11 +1064,11 @@
         "slug": "Representatives",
         "sources_directory": "data/Belgium/Representatives/sources",
         "popolo": "data/Belgium/Representatives/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b95612d943a06232f0bf90a7c233a5e4038fa808/data/Belgium/Representatives/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c8887a9d24af7978fe36086943d6d901f7dcb825/data/Belgium/Representatives/ep-popolo-v1.0.json",
         "names": "data/Belgium/Representatives/names.csv",
-        "lastmod": "1487929248",
-        "person_count": 170,
-        "sha": "b95612d943a06232f0bf90a7c233a5e4038fa808",
+        "lastmod": "1490868414",
+        "person_count": 171,
+        "sha": "c8887a9d24af7978fe36086943d6d901f7dcb825",
         "legislative_periods": [
           {
             "id": "term/54",
@@ -1076,10 +1076,10 @@
             "start_date": "2014-06-19",
             "slug": "54",
             "csv": "data/Belgium/Representatives/term-54.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9924bc55839b4bc21c6a9686082b3d6f73d06e28/data/Belgium/Representatives/term-54.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5dfe831bdcfeaab97f3fc526c220350e32c047a0/data/Belgium/Representatives/term-54.csv"
           }
         ],
-        "statement_count": 13632,
+        "statement_count": 13683,
         "type": "lower house"
       }
     ]
