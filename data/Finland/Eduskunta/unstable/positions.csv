@@ -1,171 +1,110 @@
 id,name,position,start_date,end_date,type
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Prime Minister of Finland,2014-06-24,2015-05-28,cabinet
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister for European Affairs and Foreign Trade,2011-06-22,2014-06-23,cabinet
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister for Foreign Affairs of Finland,2008-04-04,2011-06-22,cabinet
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,member of the European Parliament,2004-07-20,2008-04-03,other_legislatures
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister of Finance,2015-05-29,2016-06-22,cabinet
-56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Chairperson of the National Coalition Party,2014-06-14,2016-06-11,party
-92f7ac1d-dfe7-4ce8-907d-6a98ab80fe48,Anna-Maja Henriksson,Minister of Justice,2011-06-22,2015-05-29,cabinet
-c763afe6-eb22-4d99-9a0c-1e7ab07b4a4b,Anne Berner,Minister of Transport and Communications,2015-05-29,,cabinet
-7767f71a-d9f6-4f0e-9602-bcce0c450049,Anne Holmlund,Minister of the Interior,,,cabinet
-1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,Prime Minister of Finland,2003-04-17,2003-06-24,cabinet
-1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,member of the European Parliament,2004-07-20,,other_legislatures
-1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,Leader of the Centre Party,,,party
-1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,Minister of Justice,1994-05-01,1995-04-13,cabinet
-ae338943-c336-409c-9cf8-fb6ed13c74f6,Anni Sinnemäki,Minister of Labour,2009-06-26,2011-06-22,cabinet
-fb98e4b0-6dfd-408f-96c6-6e793782a947,Antti Kalliomäki,Minister of Finance,,,cabinet
-fb98e4b0-6dfd-408f-96c6-6e793782a947,Antti Kalliomäki,Deputy Prime Minister of Finland,,,cabinet
-dbac1ee3-23d0-470f-936b-a46518826e99,Antti Rinne,Minister of Finance,2014-06-06,,cabinet
-dbac1ee3-23d0-470f-936b-a46518826e99,Antti Rinne,Deputy Prime Minister of Finland,2014-06-06,,cabinet
-24e5d76b-9f9f-431a-9a59-82998de16944,Anu Vehviläinen,Minister of Transport,,,cabinet
-bbabb2ce-15b3-41f3-871c-088ee3eb8a1d,Arja Alho,Minister of Finance,,,cabinet
-b49169c8-2910-43cf-9f7e-ebc1b4a8c265,Astrid Thors,High Commissioner on National Minorities,,,other
-b49169c8-2910-43cf-9f7e-ebc1b4a8c265,Astrid Thors,member of the European Parliament,,,other_legislatures
 6621513b-4109-4dbb-a0fb-18735f26114a,Carl Haglund,Minister of Defence,2012-07-05,,cabinet
-6621513b-4109-4dbb-a0fb-18735f26114a,Carl Haglund,member of the European Parliament,2009-07-14,2012-07-04,other_legislatures
-2e9650cb-3ae1-4f81-b62b-189bfb9b63ec,Claes Andersson,Minister of Culture,1995-04-13,1998-09-04,cabinet
-b09ab486-043f-4457-b36f-be474b2382ec,Eero Heinäluoma,Speaker of the Parliament of Finland,,,self
-b09ab486-043f-4457-b36f-be474b2382ec,Eero Heinäluoma,Minister of Finance,2005-09-23,2007-04-19,cabinet
-b09ab486-043f-4457-b36f-be474b2382ec,Eero Heinäluoma,Deputy Prime Minister of Finland,2005-09-23,2007-04-19,cabinet
-0398fbde-2da4-4458-8386-1a7ec0096953,Erkki Tuomioja,Minister for Foreign Affairs of Finland,2011-06-22,2015-05-28,cabinet
-0398fbde-2da4-4458-8386-1a7ec0096953,Erkki Tuomioja,Minister for Foreign Affairs of Finland,2000-02-25,2007-04-19,cabinet
-0398fbde-2da4-4458-8386-1a7ec0096953,Erkki Tuomioja,President of the Nordic Council,2008-01-01,2008-12-31,other
-38b0abf1-ef26-474e-9134-7bdff1ac7b10,Esko Aho,Prime Minister of Finland,1991-04-26,1995-04-13,cabinet
-38b0abf1-ef26-474e-9134-7bdff1ac7b10,Esko Aho,Leader of the Centre Party,1990,2002,party
-38b0abf1-ef26-474e-9134-7bdff1ac7b10,Esko Aho,Speaker of the Parliament of Finland,1991-04-04,1991-04-26,self
-203bd5c9-875e-420d-904f-512b84af8871,Hanna Mäntylä,Minister of Health and Social Services,2015-05-29,2016-08-24,cabinet
-577b8c51-9a9f-4c66-8e17-8d1adc1b2d0c,Hannu Takkula,member of the European Parliament,,,other_legislatures
-8d870697-e565-401f-a1fc-6289b0e4f9c5,Heidi Hautala,member of the European Parliament,1995-01-01,2003-03-25,other_legislatures
-8d870697-e565-401f-a1fc-6289b0e4f9c5,Heidi Hautala,Minister for International Development,2011-06-22,2013-10-16,cabinet
-8d870697-e565-401f-a1fc-6289b0e4f9c5,Heidi Hautala,member of the European Parliament,2009-07-14,2011-06-21,other_legislatures
-8d870697-e565-401f-a1fc-6289b0e4f9c5,Heidi Hautala,member of the European Parliament,2014-07-01,,other_legislatures
-fc4e6ff9-2317-44b6-9aec-70763ff56fbd,Henna Virkkunen,member of the European Parliament,2014,,other_legislatures
-fc4e6ff9-2317-44b6-9aec-70763ff56fbd,Henna Virkkunen,Minister of Transport,2014-04-04,2014-06-24,cabinet
-fc4e6ff9-2317-44b6-9aec-70763ff56fbd,Henna Virkkunen,Minister of Education and Culture of Finland,,,cabinet
-78e3b770-8ff1-405e-b954-600ea8572ad0,Henrik Lax,member of the European Parliament,,,other_legislatures
-02a828f8-6813-4b62-8ab5-a1c30f846f03,Ilkka Kanerva,Minister for Foreign Affairs of Finland,,,cabinet
-34977c6b-c4bf-460f-b39c-9061e39aeaa0,Jan Vapaavuori,Minister of Economic Affairs,2012-11-17,2015-05-28,cabinet
-b9e4b017-627a-4914-9083-ddba88283e6c,Jan-Erik Enestam,Secretary General of the Nordic Council,2007,2013,other
-3372e4a8-d920-4d96-81aa-5ef127def40e,Jari Koskinen,member of the European Parliament,,,other_legislatures
-3372e4a8-d920-4d96-81aa-5ef127def40e,Jari Koskinen,Minister of Agriculture and Forestry,2002-05-31,2003-04-17,cabinet
-3372e4a8-d920-4d96-81aa-5ef127def40e,Jari Koskinen,Minister of Agriculture and Forestry,2011-06-22,2014-06-24,cabinet
-0cf2038f-5518-4ddc-9d8f-2376be385479,Jari Lindström,Minister of Justice,2015-05-29,,cabinet
-0cf2038f-5518-4ddc-9d8f-2376be385479,Jari Lindström,Minister of Labour,2015-05-29,,cabinet
-fcf7a3b7-c75a-43f5-8c71-4c767bc2d460,Johannes Koskinen,Minister of Justice,1999-04-15,2005-09-22,cabinet
-8beff688-bd43-4db7-ab8b-4458fb32bc89,Jouko Skinnari,Minister of Finance,1997-10-09,1999-04-14,cabinet
-89f662b7-796d-4387-8d54-07ddd4161c5d,Juha Korkeaoja,Minister of Agriculture and Forestry,2003-04-17,2007-04-19,cabinet
-98402739-bd5d-4d57-9881-39cedffd2f69,Juha Sipilä,Leader of the Centre Party,2012-05-09,,party
-98402739-bd5d-4d57-9881-39cedffd2f69,Juha Sipilä,Speaker of the Parliament of Finland,2015-04-28,2015-05-28,self
-98402739-bd5d-4d57-9881-39cedffd2f69,Juha Sipilä,Prime Minister of Finland,2015-05-29,,cabinet
-d82070f2-3566-44c2-af8b-2483cd574459,Jukka Gustafsson,Minister of Education and Culture of Finland,,,cabinet
-676752ce-443f-4a9a-8d6b-b0476dccc240,Jussi Halla-aho,member of the European Parliament,,,other_legislatures
-3153f5d8-53c8-4770-b1b5-3646e4aac1cb,Jutta Urpilainen,Minister of Finance,2011-06-22,2014-06-06,cabinet
-2df335ad-3c54-4d96-8bf0-54a40a99a243,Jyri Häkämies,Minister of Defence,2007-04-19,2011-06-21,cabinet
-2df335ad-3c54-4d96-8bf0-54a40a99a243,Jyri Häkämies,Minister of Economic Affairs,2011-06-22,2012-11-16,cabinet
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Prime Minister of Finland,2011-06-22,2014-06-23,cabinet
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Deputy Prime Minister of Finland,2007-04-19,2011-06-22,cabinet
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Minister of Finance,2007-04-19,2011-06-22,cabinet
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,member of the European Parliament,,,other_legislatures
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,European Commissioner for Industry and Entrepreneurship,2014-11-01,,other
-19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,European Commissioner for Economic and Monetary Affairs and the Euro,2014-07-18,2014-11-01,other
-6af311be-417a-4671-825d-2ec1e5c5ccf2,Jörn Donner,member of the European Parliament,1996-11-11,1999-07-19,other_legislatures
-d9d8d91b-a13c-4642-aac5-56a39f80abcf,Kari Rajamäki,Minister of the Interior,2003-04-17,2007-04-19,cabinet
-ed4bf444-2959-48ad-be89-2d252fa1b8de,Kauko Juhantalo,Minister of Trade and Industry,1991-04-26,1992-08-02,cabinet
-522448d9-64ef-4f07-b81a-38ecaee3dcbc,Kimmo Sasi,President of the Nordic Council,2012-01-01,2012-12-31,other
-a0899714-8870-46d4-b437-d7caa20ead10,Kimmo Tiilikainen,Minister of Agriculture and Forestry,,,cabinet
-9f30db8d-4536-4f28-9a23-ed552ae9391c,Kirsi Piha,member of the European Parliament,,,other_legislatures
-4e3fb493-62d4-4f45-a0ab-74333e248778,Lauri Ihalainen,Minister of Labour,2011-06-22,2015-05-29,cabinet
-3eee3275-bc92-4a67-9542-5f15bc07221f,Leena Luhtanen,Minister of Justice,2005-09-23,2007-04-19,cabinet
-3eee3275-bc92-4a67-9542-5f15bc07221f,Leena Luhtanen,Minister of Transport and Communications,,,cabinet
-f36344e6-39b4-4344-b1e7-6e719c1f69fc,Lenita Toivakka,Minister for European Affairs and Foreign Trade,2014-06-24,,cabinet
-4c6f6183-5a40-41ff-b5b9-66bae283bb08,Liisa Jaakonsaari,member of the European Parliament,,,other_legislatures
-e8756e98-870a-475b-919b-d37892c4828a,Maija Rask,Minister of Education and Culture of Finland,,,cabinet
-ee098f19-e905-4520-8b25-4bef5b62b9af,Mari Kiviniemi,Leader of the Centre Party,2010,2012-05-09,party
-ee098f19-e905-4520-8b25-4bef5b62b9af,Mari Kiviniemi,Prime Minister of Finland,2010-06-22,2011-06-22,cabinet
 ee098f19-e905-4520-8b25-4bef5b62b9af,Mari Kiviniemi,Minister for European Affairs and Foreign Trade,2005-09-02,2006-03-03,cabinet
 ee098f19-e905-4520-8b25-4bef5b62b9af,Mari Kiviniemi,Minister of the Ministry of Finance,2007-04-19,2010-06-21,cabinet
-86a3be36-c854-4f39-9276-6b5ddf3ac663,Maria Guzenina,Minister of Health and Social Services,2011-06-22,2013-05-24,cabinet
-daa5215d-f9c8-4892-8302-2cce652420f4,Maria Lohela,Speaker of the Parliament of Finland,2015-05-29,,self
-59a386a6-52a5-49d5-ba51-7a7381c8fca5,Marjatta Stenius-Kaukonen,member of the European Parliament,,,other_legislatures
-bab532eb-9a5f-4610-9229-48bd015a15f6,Marjo Matikainen-Kallström,member of the European Parliament,1996,2004-07,other_legislatures
+ee098f19-e905-4520-8b25-4bef5b62b9af,Mari Kiviniemi,Prime Minister of Finland,2010-06-22,2011-06-22,cabinet
+89f662b7-796d-4387-8d54-07ddd4161c5d,Juha Korkeaoja,Minister of Agriculture and Forestry,2003-04-17,2007-04-19,cabinet
+dbac1ee3-23d0-470f-936b-a46518826e99,Antti Rinne,Minister of Finance,2014-06-06,,cabinet
+dbac1ee3-23d0-470f-936b-a46518826e99,Antti Rinne,Deputy Prime Minister of Finland,2014-06-06,,cabinet
+bbabb2ce-15b3-41f3-871c-088ee3eb8a1d,Arja Alho,Minister of Finance,"",,cabinet
+203bd5c9-875e-420d-904f-512b84af8871,Hanna Mäntylä,Minister of Health and Social Services,2015-05-29,2016-08-24,cabinet
+0cf2038f-5518-4ddc-9d8f-2376be385479,Jari Lindström,Minister of Labour,2015-05-29,,cabinet
+0cf2038f-5518-4ddc-9d8f-2376be385479,Jari Lindström,Minister of Justice,2015-05-29,,cabinet
+ed4bf444-2959-48ad-be89-2d252fa1b8de,Kauko Juhantalo,Minister of Trade and Industry,1991-04-26,1992-08-02,cabinet
+f36344e6-39b4-4344-b1e7-6e719c1f69fc,Lenita Toivakka,Minister for European Affairs and Foreign Trade,2014-06-24,,cabinet
+a324cb66-1b82-44e3-81a8-72cb67053737,Maija Perho,Minister of Health and Social Services,1999-04-15,2003-04-16,cabinet
+2df335ad-3c54-4d96-8bf0-54a40a99a243,Jyri Häkämies,Minister of Economic Affairs,2011-06-22,2012-11-16,cabinet
+2df335ad-3c54-4d96-8bf0-54a40a99a243,Jyri Häkämies,Minister of Defence,2007-04-19,2011-06-21,cabinet
+c763afe6-eb22-4d99-9a0c-1e7ab07b4a4b,Anne Berner,Minister of Transport and Communications,2015-05-29,,cabinet
+e8756e98-870a-475b-919b-d37892c4828a,Maija Rask,Minister of Education and Culture of Finland,"",,cabinet
+98402739-bd5d-4d57-9881-39cedffd2f69,Juha Sipilä,Prime Minister of Finland,2015-05-29,,cabinet
 5276efaf-c4e5-424b-ac69-571b74d80f8c,Matti Vanhanen,Minister of Defence,2003-04-17,2003-06-24,cabinet
 5276efaf-c4e5-424b-ac69-571b74d80f8c,Matti Vanhanen,Prime Minister of Finland,2003-06-23,2010-06-22,cabinet
-5276efaf-c4e5-424b-ac69-571b74d80f8c,Matti Vanhanen,Leader of the Centre Party,,,party
-ffaf012f-b41a-4e48-8835-b03f8e9bcd83,Mauri Pekkarinen,Minister of the Interior,1991-04-26,1995-04-12,cabinet
 ffaf012f-b41a-4e48-8835-b03f8e9bcd83,Mauri Pekkarinen,Minister of Trade and Industry,2003-04-17,2007-12-31,cabinet
 ffaf012f-b41a-4e48-8835-b03f8e9bcd83,Mauri Pekkarinen,Minister of Economic Affairs,2008-01-01,2011-06-21,cabinet
-56a76ead-b1b2-4bee-bc07-8924ca351e9a,Merja Kyllönen,member of the European Parliament,,,other_legislatures
-56a76ead-b1b2-4bee-bc07-8924ca351e9a,Merja Kyllönen,Minister of Transport,2011-06-22,2014-04-24,cabinet
-1438bccb-d02e-4ac1-8d8d-7baad7c3412e,Miapetra Kumpula-Natri,member of the European Parliament,,,other_legislatures
-b8d6462b-8eca-4166-9407-b5644b040115,Mirja Ryynänen,member of the European Parliament,,,other_legislatures
-a6cfddb1-fb4a-419f-b5a7-585c9742543d,Olli Rehn,European Commissioner for Economic and Monetary Affairs and the Euro,,,other
-a6cfddb1-fb4a-419f-b5a7-585c9742543d,Olli Rehn,European Commissioner for Enlargement and European Neighbourhood Policy,,,other
-a6cfddb1-fb4a-419f-b5a7-585c9742543d,Olli Rehn,member of the European Parliament,1995-01-01,1996-11-10,other_legislatures
-a6cfddb1-fb4a-419f-b5a7-585c9742543d,Olli Rehn,Vice President of the European Parliament,2014-07-01,2015-04-26,other
-dfb2eeb0-e963-47a7-946d-e026bc5d687c,Outi Ojala,member of the European Parliament,,,other_legislatures
-dfb2eeb0-e963-47a7-946d-e026bc5d687c,Outi Ojala,President of the Nordic Council,2002-01-01,2002-12-31,other
+ffaf012f-b41a-4e48-8835-b03f8e9bcd83,Mauri Pekkarinen,Minister of the Interior,1991-04-26,1995-04-12,cabinet
+761d0e9b-0cb6-4e6b-bafa-3a1527e0f5f1,Suvi-Anne Siimes,Minister of Culture,1998-09-04,1999-04-14,cabinet
+1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,Minister of Justice,1994-05-01,1995-04-13,cabinet
+1ec1193d-3a91-4b79-9f40-9eef915cb7db,Anneli Jäätteenmäki,Prime Minister of Finland,2003-04-17,2003-06-24,cabinet
+86a3be36-c854-4f39-9276-6b5ddf3ac663,Maria Guzenina,Minister of Health and Social Services,2011-06-22,2013-05-24,cabinet
+b09ab486-043f-4457-b36f-be474b2382ec,Eero Heinäluoma,Minister of Finance,2005-09-23,2007-04-19,cabinet
+b09ab486-043f-4457-b36f-be474b2382ec,Eero Heinäluoma,Deputy Prime Minister of Finland,2005-09-23,2007-04-19,cabinet
+26bdc2b9-0de0-4b31-86d2-695502f630c9,Ville Niinistö,Minister of the Environment,2011-06-22,2014-09-25,cabinet
+3153f5d8-53c8-4770-b1b5-3646e4aac1cb,Jutta Urpilainen,Minister of Finance,2011-06-22,2014-06-06,cabinet
+8d870697-e565-401f-a1fc-6289b0e4f9c5,Heidi Hautala,Minister for International Development,2011-06-22,2013-10-16,cabinet
+f3666d8c-a87e-48d9-9233-0cfa77937482,Tarja Filatov,Minister of Labour,2000-02-25,2007-04-19,cabinet
+ae338943-c336-409c-9cf8-fb6ed13c74f6,Anni Sinnemäki,Minister of Labour,2009-06-26,2011-06-22,cabinet
+b9e4b017-627a-4914-9083-ddba88283e6c,Jan-Erik Enestam,Minister of the Environment,2003-04-17,2006-12-31,cabinet
+b9e4b017-627a-4914-9083-ddba88283e6c,Jan-Erik Enestam,Minister of the Interior,1995-04-13,1999-04-14,cabinet
+b9e4b017-627a-4914-9083-ddba88283e6c,Jan-Erik Enestam,Minister of Defence,1995-01-02,1995-04-12,cabinet
+b9e4b017-627a-4914-9083-ddba88283e6c,Jan-Erik Enestam,Minister of Defence,1999-04-15,2003-04-16,cabinet
+d82070f2-3566-44c2-af8b-2483cd574459,Jukka Gustafsson,Minister of Education and Culture of Finland,"",,cabinet
+3372e4a8-d920-4d96-81aa-5ef127def40e,Jari Koskinen,Minister of Agriculture and Forestry,2002-05-31,2003-04-17,cabinet
+3372e4a8-d920-4d96-81aa-5ef127def40e,Jari Koskinen,Minister of Agriculture and Forestry,2011-06-22,2014-06-24,cabinet
+92f7ac1d-dfe7-4ce8-907d-6a98ab80fe48,Anna-Maja Henriksson,Minister of Justice,2011-06-22,2015-05-29,cabinet
+7767f71a-d9f6-4f0e-9602-bcce0c450049,Anne Holmlund,Minister of the Interior,"",,cabinet
+38b0abf1-ef26-474e-9134-7bdff1ac7b10,Esko Aho,Prime Minister of Finland,1991-04-26,1995-04-13,cabinet
 51422f66-b2bf-433d-9f21-fe836fd97285,Paavo Lipponen,Prime Minister of Finland,1995-04-13,2003-04-17,cabinet
-51422f66-b2bf-433d-9f21-fe836fd97285,Paavo Lipponen,Speaker of the Parliament of Finland,2003-04-22,2007-03-20,self
-436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,Deputy Prime Minister of Finland,1983-05-06,1987-04-29,cabinet
-436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,Minister for Foreign Affairs of Finland,,,cabinet
-436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,member of the European Parliament,1995-01-01,2007-04-18,other_legislatures
-436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,Leader of the Centre Party,1980,1990,party
-436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,member of the European Parliament,2014-07-01,,other_legislatures
-8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of the Interior,2016-06-22,,cabinet
-8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of Health and Social Services,,,cabinet
-8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of Transport and Local Government,2014-06-24,2015-05-29,cabinet
-f26d760a-eb0b-42db-a1fa-5b318369b0a9,Pekka Haavisto,Minister for International Development,2013-10-17,,cabinet
-7c47fc1c-7dfa-474b-afbf-ba0d32b82f2e,Pertti Salolainen,Chairperson of the National Coalition Party,,,party
-f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of Agriculture and Forestry,2014-06-24,2015-05-28,cabinet
-f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of the Interior,2015-05-29,2016-06-22,cabinet
-f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Chairperson of the National Coalition Party,2016-06-11,,party
-f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of Finance,2016-06-22,,cabinet
-2c34ddb1-6961-44c1-95c4-8f9b433eb4d3,Pirkko Mattila,Minister of Health and Social Services,2016-08-25,,cabinet
-7d762ef2-ba91-48af-ab18-cce29a024cd3,Päivi Räsänen,Minister of the Interior,2011-06-22,2014-06-23,cabinet
-7d762ef2-ba91-48af-ab18-cce29a024cd3,Päivi Räsänen,Minister of the Interior,2014-06-24,2015-05-28,cabinet
-38968a1f-8db5-49a2-b1b6-8bac63b323ab,Riitta Myller,member of the European Parliament,,,other_legislatures
-5d1255ea-92ce-46de-969a-d75c3bb0f358,Riitta Uosukainen,Speaker of the Parliament of Finland,1994-02-07,1995-03-23,self
-5d1255ea-92ce-46de-969a-d75c3bb0f358,Riitta Uosukainen,Speaker of the Parliament of Finland,1995-04-21,1999-03-23,self
-5d1255ea-92ce-46de-969a-d75c3bb0f358,Riitta Uosukainen,Speaker of the Parliament of Finland,1999-04-20,2003-03-18,self
-5d1255ea-92ce-46de-969a-d75c3bb0f358,Riitta Uosukainen,Minister of Education and Culture of Finland,1991-04-26,1994-02-10,cabinet
-fd2c8ba5-9edf-4347-b873-50b22d358966,Sampo Terho,member of the European Parliament,,,other_legislatures
-5ebdacdb-6d71-4d68-bf3d-eff4735ef345,Sanni Grahn-Laasonen,Minister of the Environment,2014-09-26,2015-05-28,cabinet
-5ebdacdb-6d71-4d68-bf3d-eff4735ef345,Sanni Grahn-Laasonen,Minister of Education and Culture of Finland,2015-05-29,,cabinet
-b302e829-8c61-49bc-8df8-d6126f9fe1d0,Sari Essayah,member of the European Parliament,2009-07-14,2014-06-30,other_legislatures
-71eecb7b-ceea-405c-b4ff-837db3f33be4,Sari Sarkomaa,Minister of Education and Culture of Finland,,,cabinet
-55410e5c-b2cf-4916-bfea-67fc38d82af6,Satu Hassi,member of the European Parliament,2004,2014,other_legislatures
-1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,President of Finland,2012-03-01,,executive
-1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Speaker of the Parliament of Finland,2007-04-24,2011-04-27,self
-1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Minister of Finance,1996-02-02,1999-04-15,cabinet
-1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Deputy Prime Minister of Finland,1995-04-13,2001-08-30,cabinet
 1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Minister of Justice,1995-04-13,1996-02-01,cabinet
+1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Minister of Finance,1996-02-02,1999-04-15,cabinet
 1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Minister of Finance,1999-04-15,2003-04-16,cabinet
-1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Chairperson of the National Coalition Party,1994,2001,party
+1add8f0a-3723-4d72-9c6a-7633f20dbd6e,Sauli Niinistö,Deputy Prime Minister of Finland,1995-04-13,2001-08-30,cabinet
+4f4c57fe-3058-4eca-8321-235a82a49c09,Tarja Halonen,Minister of Justice,1990-02-28,1991-04-26,cabinet
+4f4c57fe-3058-4eca-8321-235a82a49c09,Tarja Halonen,Minister for Foreign Affairs of Finland,1995-04-13,2000-02-25,cabinet
+ecd7fb03-dfbf-49a2-a98e-6d357c61309b,Tuija Brax,Minister of Justice,2007-04-19,2011-06-22,cabinet
+fc4e6ff9-2317-44b6-9aec-70763ff56fbd,Henna Virkkunen,Minister of Education and Culture of Finland,"",,cabinet
+fc4e6ff9-2317-44b6-9aec-70763ff56fbd,Henna Virkkunen,Minister of Transport,2014-04-04,2014-06-24,cabinet
+8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of the Interior,2016-06-22,,cabinet
+8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of Health and Social Services,"",,cabinet
+8c78ba81-cbc7-43e1-98da-109d2860dc6d,Paula Risikko,Minister of Transport and Local Government,2014-06-24,2015-05-29,cabinet
+ddf04a07-6213-41b5-b282-07f254e31722,Suvi Lindén,Minister of Culture,1999-04-15,2002-06-04,cabinet
 be6639b3-90fb-450a-a109-fd6fffaea847,Seppo Kääriäinen,Minister of Trade and Industry,1993-08-01,1995-04-13,cabinet
 be6639b3-90fb-450a-a109-fd6fffaea847,Seppo Kääriäinen,Minister of Defence,2003-06-24,2007-04-19,cabinet
-cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Labour,1999-04-15,2000-02-24,cabinet
-cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Health and Social Services,2003-04-17,2007-04-19,cabinet
+f26d760a-eb0b-42db-a1fa-5b318369b0a9,Pekka Haavisto,Minister for International Development,2013-10-17,,cabinet
+34977c6b-c4bf-460f-b39c-9061e39aeaa0,Jan Vapaavuori,Minister of Economic Affairs,2012-11-17,2015-05-28,cabinet
+3eee3275-bc92-4a67-9542-5f15bc07221f,Leena Luhtanen,Minister of Transport and Communications,"",,cabinet
+3eee3275-bc92-4a67-9542-5f15bc07221f,Leena Luhtanen,Minister of Justice,2005-09-23,2007-04-19,cabinet
+208ceb92-0a4a-4fa8-83bc-80cf718cd865,Ulla-Maj Wideroos,Minister of Finance,2003-04-27,2007-04-18,cabinet
+a9dd88f4-76dc-45c6-8b74-7772af506e25,Timo Soini,Minister for Foreign Affairs of Finland,"",,cabinet
+fcf7a3b7-c75a-43f5-8c71-4c767bc2d460,Johannes Koskinen,Minister of Justice,1999-04-15,2005-09-22,cabinet
+4ce9b725-2afd-4a96-8a39-2ef80dc0c16a,Tytti Isohookana-Asunmaa,Minister of Culture,"",,cabinet
+24e5d76b-9f9f-431a-9a59-82998de16944,Anu Vehviläinen,Minister of Transport,"",,cabinet
+5d1255ea-92ce-46de-969a-d75c3bb0f358,Riitta Uosukainen,Minister of Education and Culture of Finland,1991-04-26,1994-02-10,cabinet
+7d762ef2-ba91-48af-ab18-cce29a024cd3,Päivi Räsänen,Minister of the Interior,2011-06-22,2014-06-23,cabinet
+7d762ef2-ba91-48af-ab18-cce29a024cd3,Päivi Räsänen,Minister of the Interior,2014-06-24,2015-05-28,cabinet
+5bc23739-8590-41d0-b892-122e749bc22c,Tarja Cronberg,Minister of Labour,2007-04-19,2009-06-25,cabinet
+56a76ead-b1b2-4bee-bc07-8924ca351e9a,Merja Kyllönen,Minister of Transport,2011-06-22,2014-04-24,cabinet
 cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Trade and Industry,2000-02-25,2003-04-16,cabinet
+cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Labour,1999-04-15,2000-02-24,cabinet
 cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Health and Social Services,1995-04-13,1999-04-14,cabinet
-0f73f289-bd06-4517-9e4b-abf8ade45f22,Sirkka-Liisa Anttila,member of the European Parliament,,,other_legislatures
-0f73f289-bd06-4517-9e4b-abf8ade45f22,Sirkka-Liisa Anttila,Minister of Agriculture and Forestry,2007-04-19,2003-06-24,cabinet
-72a9f113-36ca-403a-835c-76b6341fe453,Sirpa Pietikäinen,member of the European Parliament,,,other_legislatures
+cbd6a50b-7352-48cf-9a7a-1cad44320c5e,Sinikka Laisaari,Minister of Health and Social Services,2003-04-17,2005-09-23,cabinet
+56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister for European Affairs and Foreign Trade,2011-06-22,2014-06-23,cabinet
+56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister of Finance,2015-05-29,2016-06-22,cabinet
+56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Minister for Foreign Affairs of Finland,2008-04-04,2011-06-22,cabinet
+56c83828-3306-4111-9c21-738821c59dff,Alexander Stubb,Prime Minister of Finland,2014-06-24,2015-05-28,cabinet
+5ebdacdb-6d71-4d68-bf3d-eff4735ef345,Sanni Grahn-Laasonen,Minister of Education and Culture of Finland,2015-05-29,,cabinet
+5ebdacdb-6d71-4d68-bf3d-eff4735ef345,Sanni Grahn-Laasonen,Minister of the Environment,2014-09-26,2015-05-28,cabinet
 80058037-9390-4399-9578-943c126e297a,Susanna Huovinen,Minister of Transport and Communications,2005-09-23,2007-04-19,cabinet
 80058037-9390-4399-9578-943c126e297a,Susanna Huovinen,Minister of Health and Social Services,2013-05-24,2014-06-24,cabinet
 80058037-9390-4399-9578-943c126e297a,Susanna Huovinen,Minister of Health and Social Services,2014-06-24,2015-05-29,cabinet
-ddf04a07-6213-41b5-b282-07f254e31722,Suvi Lindén,Minister of Culture,1999-04-15,2002-06-04,cabinet
-761d0e9b-0cb6-4e6b-bafa-3a1527e0f5f1,Suvi-Anne Siimes,Minister of Culture,1998-09-04,1999-04-14,cabinet
-5bc23739-8590-41d0-b892-122e749bc22c,Tarja Cronberg,member of the European Parliament,2011,2014,other_legislatures
-5bc23739-8590-41d0-b892-122e749bc22c,Tarja Cronberg,Minister of Labour,2007-04-19,2009-06-25,cabinet
-f3666d8c-a87e-48d9-9233-0cfa77937482,Tarja Filatov,Minister of Labour,2000-02-25,2007-04-19,cabinet
-4f4c57fe-3058-4eca-8321-235a82a49c09,Tarja Halonen,President of Finland,2000-03-01,2012-03-01,executive
-4f4c57fe-3058-4eca-8321-235a82a49c09,Tarja Halonen,Minister for Foreign Affairs of Finland,1995-04-13,2000-02-25,cabinet
-4f4c57fe-3058-4eca-8321-235a82a49c09,Tarja Halonen,Minister of Justice,1990-02-28,1991-04-26,cabinet
-a9dd88f4-76dc-45c6-8b74-7772af506e25,Timo Soini,member of the European Parliament,,,other_legislatures
-a9dd88f4-76dc-45c6-8b74-7772af506e25,Timo Soini,Minister for Foreign Affairs of Finland,,,cabinet
-ecd7fb03-dfbf-49a2-a98e-6d357c61309b,Tuija Brax,Minister of Justice,2007-04-19,2011-06-22,cabinet
-4ce9b725-2afd-4a96-8a39-2ef80dc0c16a,Tytti Isohookana-Asunmaa,Minister of Culture,,,cabinet
-208ceb92-0a4a-4fa8-83bc-80cf718cd865,Ulla-Maj Wideroos,Minister of Finance,2003-04-27,2007-04-18,cabinet
-78ccd7e6-4fe4-450c-a60c-9f77f539c20e,Ville Itälä,member of the European Parliament,,,other_legislatures
-78ccd7e6-4fe4-450c-a60c-9f77f539c20e,Ville Itälä,Chairperson of the National Coalition Party,,,party
-26bdc2b9-0de0-4b31-86d2-695502f630c9,Ville Niinistö,Minister of the Environment,2011-06-22,2014-09-25,cabinet
+436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,Minister for Foreign Affairs of Finland,"",,cabinet
+436f3f0b-41d4-47f8-958c-77236bae29d1,Paavo Väyrynen,Deputy Prime Minister of Finland,1983-05-06,1987-04-29,cabinet
+19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Minister of Finance,2007-04-19,2011-06-22,cabinet
+19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Deputy Prime Minister of Finland,2007-04-19,2011-06-22,cabinet
+19af20ef-1069-4145-a178-7bcc2f140d31,Jyrki Katainen,Prime Minister of Finland,2011-06-22,2014-06-24,cabinet
+0398fbde-2da4-4458-8386-1a7ec0096953,Erkki Tuomioja,Minister for Foreign Affairs of Finland,2000-02-25,2007-04-19,cabinet
+0398fbde-2da4-4458-8386-1a7ec0096953,Erkki Tuomioja,Minister for Foreign Affairs of Finland,2011-06-22,2015-05-28,cabinet
+8beff688-bd43-4db7-ab8b-4458fb32bc89,Jouko Skinnari,Minister of Finance,1997-10-09,1999-04-14,cabinet
+4e3fb493-62d4-4f45-a0ab-74333e248778,Lauri Ihalainen,Minister of Labour,2011-06-22,2015-05-29,cabinet
+f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of the Interior,2015-05-29,2016-06-22,cabinet
+f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of Finance,2016-06-22,,cabinet
+f41bbcac-12b6-495f-868f-cb41163ce3f6,Petteri Orpo,Minister of Agriculture and Forestry,2014-06-24,2015-05-28,cabinet
+fb98e4b0-6dfd-408f-96c6-6e793782a947,Antti Kalliomäki,Minister of Finance,"",,cabinet
+fb98e4b0-6dfd-408f-96c6-6e793782a947,Antti Kalliomäki,Deputy Prime Minister of Finland,"",,cabinet
+71eecb7b-ceea-405c-b4ff-837db3f33be4,Sari Sarkomaa,Minister of Education and Culture of Finland,"",,cabinet
+02a828f8-6813-4b62-8ab5-a1c30f846f03,Ilkka Kanerva,Minister for Foreign Affairs of Finland,"",,cabinet
+2c34ddb1-6961-44c1-95c4-8f9b433eb4d3,Pirkko Mattila,Minister of Health and Social Services,2016-08-25,,cabinet
+0f73f289-bd06-4517-9e4b-abf8ade45f22,Sirkka-Liisa Anttila,Minister of Agriculture and Forestry,2007-04-19,2003-06-24,cabinet
+a0899714-8870-46d4-b437-d7caa20ead10,Kimmo Tiilikainen,Minister of Agriculture and Forestry,"",,cabinet
+d9d8d91b-a13c-4642-aac5-56a39f80abcf,Kari Rajamäki,Minister of the Interior,2003-04-17,2007-04-19,cabinet
+2e9650cb-3ae1-4f81-b62b-189bfb9b63ec,Claes Andersson,Minister of Culture,1995-04-13,1998-09-04,cabinet
