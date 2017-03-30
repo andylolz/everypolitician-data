@@ -15226,6 +15226,38 @@
       "sort_name": "King, Colin"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Raymond.hou@parliament.govt.nz"
+        },
+        {
+          "type": "twitter",
+          "value": "RaymondHuo"
+        }
+      ],
+      "email": "Raymond.hou@parliament.govt.nz",
+      "id": "c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "image": "https://www.parliament.nz/media/3671/huo-raymond.DXlrgw.jpg",
+      "images": [
+        {
+          "url": "https://www.parliament.nz/media/3671/huo-raymond.DXlrgw.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Raymond.Huo"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RaymondHuo"
+        }
+      ],
+      "name": "Raymond Huo",
+      "sort_name": "Huo, Raymond"
+    },
+    {
       "birth_date": "1958-01-16",
       "contact_details": [
         {
@@ -18006,14 +18038,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "sua.william.sio@parliament.govt.nz"
+          "value": "Aupito.william.sio@parliament.govt.nz"
         },
         {
           "type": "twitter",
           "value": "swsio_mp"
         }
       ],
-      "email": "sua.william.sio@parliament.govt.nz",
+      "email": "Aupito.william.sio@parliament.govt.nz",
       "gender": "male",
       "given_name": "William",
       "id": "dd826092-7cbf-4791-a77b-e77602967b58",
@@ -18043,14 +18075,14 @@
         },
         {
           "note": "facebook",
-          "url": "https://facebook.com/suawilliamsio"
+          "url": "https://facebook.com/aupitowilliamsio"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/swsio_mp"
         }
       ],
-      "name": "Su’a William Sio",
+      "name": "Aupito William Sio",
       "other_names": [
         {
           "name": "Su'a William Sio",
@@ -18077,7 +18109,7 @@
           "note": "multilingual"
         }
       ],
-      "sort_name": "Sio, Su'a William"
+      "sort_name": "Sio, Aupito William"
     },
     {
       "birth_date": "1967",
@@ -19750,10 +19782,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg",
+      "image": "https://www.parliament.nz/media/3046/coates-barry.DZZyzA.jpg",
       "images": [
         {
-          "url": "https://www.parliament.nz/media/3046/coates-barry-mp.DL_VBg.jpg"
+          "url": "https://www.parliament.nz/media/3046/coates-barry.DZZyzA.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Barry_Coates.jpg"
@@ -26383,6 +26415,7 @@
     },
     {
       "area_id": "area/list",
+      "end_date": "2017-02-25",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -26393,6 +26426,20 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3011/ardern-jacinda"
         }
       ]
+    },
+    {
+      "area_id": "area/mt_albert",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "424c23ae-6b23-48f5-b1a7-1c40111e42e7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3011/ardern-jacinda"
+        }
+      ],
+      "start_date": "2017-02-25"
     },
     {
       "area_id": "area/list",
@@ -27905,6 +27952,20 @@
       "role": "member"
     },
     {
+      "area_id": "area/list",
+      "end_date": "2015-04-23",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/nz_first",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "995239c2-94c8-40d4-9343-839e60aaebea",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP861/peters-winston"
+        }
+      ]
+    },
+    {
       "area_id": "area/northland",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/nz_first",
@@ -28660,6 +28721,20 @@
       "role": "member"
     },
     {
+      "area_id": "area/list",
+      "legislative_period_id": "term/51",
+      "on_behalf_of_id": "party/labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2911/huo-raymond"
+        }
+      ],
+      "start_date": "2017-03-15"
+    },
+    {
       "area_id": "area/west_coast-tasman",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/labour",
@@ -29282,7 +29357,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2661/sio-sua-william"
+          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2661/sio-aupito-william"
         }
       ]
     },
@@ -31689,6 +31764,11 @@
     {
       "id": "area/mount_roskill",
       "name": "Mount Roskill",
+      "type": "constituency"
+    },
+    {
+      "id": "area/mt_albert",
+      "name": "Mt Albert",
       "type": "constituency"
     },
     {
