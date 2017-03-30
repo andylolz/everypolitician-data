@@ -9805,11 +9805,11 @@
         "slug": "Legislative-Yuan",
         "sources_directory": "data/Taiwan/Legislative_Yuan/sources",
         "popolo": "data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/280d61626469dfaf5702b8b322e9b2e2c750c602/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1f4a38830faa901c5c2dbc5a0be095c88a5be824/data/Taiwan/Legislative_Yuan/ep-popolo-v1.0.json",
         "names": "data/Taiwan/Legislative_Yuan/names.csv",
-        "lastmod": "1490167719",
+        "lastmod": "1490859267",
         "person_count": 170,
-        "sha": "280d61626469dfaf5702b8b322e9b2e2c750c602",
+        "sha": "1f4a38830faa901c5c2dbc5a0be095c88a5be824",
         "legislative_periods": [
           {
             "id": "term/9",
