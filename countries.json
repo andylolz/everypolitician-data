@@ -3419,11 +3419,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Georgia/Parliament/sources",
         "popolo": "data/Georgia/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2b91d3dc0e419e0013c7ef5e9c1b3a073fb5e7b1/data/Georgia/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9224bb6a8404611b19c45723264889e2e1c6c8fd/data/Georgia/Parliament/ep-popolo-v1.0.json",
         "names": "data/Georgia/Parliament/names.csv",
-        "lastmod": "1485067894",
+        "lastmod": "1490845345",
         "person_count": 148,
-        "sha": "2b91d3dc0e419e0013c7ef5e9c1b3a073fb5e7b1",
+        "sha": "9224bb6a8404611b19c45723264889e2e1c6c8fd",
         "legislative_periods": [
           {
             "end_date": "2016-10-01",
@@ -3435,7 +3435,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640facb22f61f56e76789b3a7c809f443df15de/data/Georgia/Parliament/term-8.csv"
           }
         ],
-        "statement_count": 4398,
+        "statement_count": 4404,
         "type": "unicameral legislature"
       }
     ]
