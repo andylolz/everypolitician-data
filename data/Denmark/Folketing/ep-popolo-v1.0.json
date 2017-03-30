@@ -3534,7 +3534,7 @@
           "scheme": "sfdb"
         },
         {
-          "identifier": "284494977",
+          "identifier": "11622606",
           "scheme": "viaf"
         },
         {
@@ -9095,6 +9095,10 @@
           "url": "https://ar.wikipedia.org/wiki/أليكا_هاموند"
         },
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aleqa_Hammond"
+        },
+        {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Aleqa_Hammond"
         },
@@ -14174,6 +14178,10 @@
           "scheme": "parlement"
         },
         {
+          "identifier": "Margrethe-Vestager",
+          "scheme": "quora"
+        },
+        {
           "identifier": "307283086",
           "scheme": "viaf"
         },
@@ -14604,6 +14612,10 @@
       "given_name": "Søren Pape",
       "id": "489a9f45-1d9e-47e1-adbd-a01c576fe557",
       "identifiers": [
+        {
+          "identifier": "Søren-Pape",
+          "scheme": "quora"
+        },
         {
           "identifier": "Q12004862",
           "scheme": "wikidata"
@@ -15652,6 +15664,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Per_Stig_Møller"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ft.dk/folketinget/findmedlem/kfpesm.aspx"
         }
       ],
       "name": "Per Stig Møller",
@@ -19102,6 +19118,7 @@
     {
       "birth_date": "1922-07-13",
       "death_date": "2016-03-20",
+      "family_name": "Jørgensen",
       "gender": "male",
       "id": "60da19e3-3d06-4713-a01a-ec98f293e62a",
       "identifiers": [
@@ -19120,6 +19137,10 @@
         {
           "identifier": "119007347",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1377130",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 5196 3801",
@@ -19251,7 +19272,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Йоргенсен,_Анкер"
+          "url": "https://ru.wikipedia.org/wiki/Йёргенсен,_Анкер"
         },
         {
           "note": "Wikipedia (sco)",
@@ -19356,6 +19377,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Anker Jørgensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Anker Jørgensen",
           "note": "multilingual"
@@ -19363,6 +19389,11 @@
         {
           "lang": "ja",
           "name": "アンカー・ヨルゲンセン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Anker Jørgensen",
           "note": "multilingual"
         },
         {
@@ -19660,6 +19691,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Morten_Marinus"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ft.dk/folketinget/findmedlem/dfmomj.aspx"
         }
       ],
       "name": "Morten Marinus",
@@ -19670,7 +19705,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Morten Marinus",
           "note": "multilingual"
         },
@@ -19680,7 +19725,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Morten Marinus",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Morten Marinus",
           "note": "multilingual"
         }
@@ -19960,6 +20035,10 @@
           "url": "https://ru.wikipedia.org/wiki/Расмуссен,_Ларс_Лёкке"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Lars_Løkke_Rasmussen"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Lars_Løkke_Rasmussen"
         },
@@ -20234,6 +20313,11 @@
         {
           "lang": "ru",
           "name": "Расмуссен, Ларс Лёкке",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Lars Løkke Rasmussen",
           "note": "multilingual"
         },
         {
@@ -22147,6 +22231,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Pia_Christmas-Møller"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Pia_Christmas-Møller"
         },
         {
           "note": "website",
@@ -28194,6 +28282,10 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Hans_Engell"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Hans_Engell"
         }
       ],
       "name": "Hans Engell",
@@ -29056,6 +29148,10 @@
         {
           "note": "Wikipedia (da)",
           "url": "https://da.wikipedia.org/wiki/Vivi_Kier"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ft.dk/folketinget/findmedlem/kfviki.aspx"
         }
       ],
       "name": "Vivi Kier",
@@ -29066,12 +29162,52 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Vivi Kier",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vivi Kier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Vivi Kier",
           "note": "multilingual"
         }
@@ -30274,6 +30410,10 @@
         {
           "identifier": "n83222549",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "bertel-haarder",
+          "scheme": "ne_se"
         },
         {
           "identifier": "242695",
@@ -36486,7 +36626,7 @@
         },
         {
           "note": "Wikipedia (eu)",
-          "url": "https://eu.wikipedia.org/wiki/Poul_Rasmussen"
+          "url": "https://eu.wikipedia.org/wiki/Poul_Nyrup_Rasmussen"
         },
         {
           "note": "Wikipedia (fa)",
@@ -36959,7 +37099,7 @@
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Pia%20Kjaersgaard/Pia_Kjaersgaard_133.jpg.ashx"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/PiaKjaersgaard.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Pia_Kjærsgaard_(2014).JPG"
         }
       ],
       "links": [
@@ -43030,7 +43170,7 @@
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Anders%20Samuelsen/Anders_Samuelsen_133.jpg.ashx"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Anders_Samuelsen.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Anders_Samuelsen_taler_under_Folkemødet_2016_(cropped_to_torso).jpg"
         }
       ],
       "links": [
@@ -46320,6 +46460,10 @@
           "scheme": "parlement"
         },
         {
+          "identifier": "Helle-Thorning-Schmidt",
+          "scheme": "quora"
+        },
+        {
           "identifier": "53960202",
           "scheme": "viaf"
         },
@@ -46368,7 +46512,7 @@
         },
         {
           "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Helle_Thorning-Schmidt"
+          "url": "https://commons.wikipedia.org/wiki/Helle_Thorning-Schmidt"
         },
         {
           "note": "Wikipedia (cs)",
@@ -46683,7 +46827,7 @@
         },
         {
           "lang": "eo",
-          "name": "Helle THORNING-SCHMIDT",
+          "name": "Helle Thorning-Schmidt",
           "note": "multilingual"
         },
         {
@@ -47468,6 +47612,10 @@
           "url": "https://fr.wikipedia.org/wiki/Pia_Gjellerup"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Pia_Gjellerup"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Pia_Gjellerup"
         }
@@ -47531,6 +47679,11 @@
         },
         {
           "lang": "nn",
+          "name": "Pia Gjellerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Pia Gjellerup",
           "note": "multilingual"
         },
@@ -50069,6 +50222,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ole_Stavad"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ole_Stavad"
         }
       ],
       "name": "Ole Stavad",
@@ -50105,6 +50262,11 @@
         },
         {
           "lang": "nl",
+          "name": "Ole Stavad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Ole Stavad",
           "note": "multilingual"
         }
@@ -51249,7 +51411,7 @@
         },
         {
           "lang": "eo",
-          "name": "Morten MESSERSCHMIDT",
+          "name": "Morten Messerschmidt",
           "note": "multilingual"
         },
         {
@@ -53347,12 +53509,52 @@
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Jens Jørgensen",
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jens Jørgensen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Jens Jørgensen",
           "note": "multilingual"
         }
@@ -55780,6 +55982,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fi",
+          "name": "Edistyspuolue",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Fremskridtspartiet",
           "note": "multilingual"
@@ -55901,6 +56108,11 @@
         {
           "lang": "ja",
           "name": "進歩党 (デンマーク)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Edistyspuolue",
           "note": "multilingual"
         },
         {
@@ -61351,7 +61563,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -61862,6 +62074,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
