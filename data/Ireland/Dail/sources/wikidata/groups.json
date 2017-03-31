@@ -1749,7 +1749,7 @@
       }
     ]
   },
-  "AAA": {
+  "SOL": {
     "identifiers": [
       {
         "scheme": "wikidata",
@@ -1759,7 +1759,7 @@
     "other_names": [
       {
         "lang": "en",
-        "name": "Anti-Austerity Alliance",
+        "name": "Solidarity",
         "note": "multilingual"
       },
       {
@@ -1780,6 +1780,11 @@
       {
         "lang": "fr",
         "name": "Alliance anti-austérité",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Anti-Austerity Alliance",
         "note": "multilingual"
       }
     ],

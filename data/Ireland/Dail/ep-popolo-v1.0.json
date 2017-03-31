@@ -24008,7 +24008,51 @@
     {
       "classification": "party",
       "id": "SOL",
-      "name": "Solidarity"
+      "identifiers": [
+        {
+          "identifier": "Q16000050",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://antiausterityalliance.ie"
+        }
+      ],
+      "name": "Solidarity",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Solidarity",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Comhaontas Frith-Ghéire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "反紧缩联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anti-Austerity Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alliance anti-austérité",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anti-Austerity Alliance",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
