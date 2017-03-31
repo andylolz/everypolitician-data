@@ -41,7 +41,7 @@ deploy_viewer_static() {
 
 main() {
   if [[ "$TRAVIS_PULL_REQUEST" == false && "$TRAVIS_BRANCH" == master ]]; then
-    if git diff --name-only "$TRAVIS_COMMIT_RANGE" | fgrep --quiet --invert-match countries.json; then
+    if [[ -z $(git diff --name-only "$TRAVIS_COMMIT_RANGE" -- countries.json) ]]; then
       echo "No changes to countries.json detected, skipping deploy."
       exit
     fi
