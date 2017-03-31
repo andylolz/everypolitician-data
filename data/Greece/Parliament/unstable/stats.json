@@ -1,20 +1,20 @@
 {
   "people": {
-    "count": 174,
-    "wikidata": 50,
+    "count": 1783,
+    "wikidata": 408,
     "latest_term": {
-      "count": 31,
-      "wikidata": 10,
+      "count": 303,
+      "wikidata": 96,
       "contacts": {
-        "email": 28,
-        "facebook": 1,
-        "twitter": 17
+        "email": 234,
+        "facebook": 2,
+        "twitter": 131
       }
     }
   },
   "groups": {
-    "count": 18,
-    "wikidata": 17
+    "count": 26,
+    "wikidata": 25
   },
   "terms": {
     "count": 17,
@@ -22,7 +22,7 @@
     "wikidata": 0
   },
   "areas": {
-    "count": 54,
+    "count": 64,
     "wikidata": 0
   },
   "elections": {
@@ -30,6 +30,6 @@
     "latest": "2015-09-20"
   },
   "positions": {
-    "cabinet": 37
+    "cabinet": 426
   }
 }
