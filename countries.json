@@ -10763,11 +10763,11 @@
         "slug": "House",
         "sources_directory": "data/United_States_of_America/House/sources",
         "popolo": "data/United_States_of_America/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bdbf7a5f5b38e57964bc7d6840f563728bff5d35/data/United_States_of_America/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4fd844c936f84ef08921eb5e8e0060d348ca5b58/data/United_States_of_America/House/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/House/names.csv",
         "lastmod": "1490694282",
         "person_count": 1638,
-        "sha": "bdbf7a5f5b38e57964bc7d6840f563728bff5d35",
+        "sha": "4fd844c936f84ef08921eb5e8e0060d348ca5b58",
         "legislative_periods": [
           {
             "end_date": "2019-01-03",
@@ -10776,7 +10776,7 @@
             "start_date": "2017-01-03",
             "slug": "115",
             "csv": "data/United_States_of_America/House/term-115.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bdbf7a5f5b38e57964bc7d6840f563728bff5d35/data/United_States_of_America/House/term-115.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4fd844c936f84ef08921eb5e8e0060d348ca5b58/data/United_States_of_America/House/term-115.csv"
           },
           {
             "end_date": "2017-01-03",
@@ -10949,11 +10949,11 @@
         "slug": "Senate",
         "sources_directory": "data/United_States_of_America/Senate/sources",
         "popolo": "data/United_States_of_America/Senate/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a03dc0ebae322c7e4ccdd787c84c97f1f216f81f/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ba08f21f9a9a670b6f282c03582cd30de3907920/data/United_States_of_America/Senate/ep-popolo-v1.0.json",
         "names": "data/United_States_of_America/Senate/names.csv",
-        "lastmod": "1490431413",
+        "lastmod": "1490935456",
         "person_count": 318,
-        "sha": "a03dc0ebae322c7e4ccdd787c84c97f1f216f81f",
+        "sha": "ba08f21f9a9a670b6f282c03582cd30de3907920",
         "legislative_periods": [
           {
             "end_date": "2019-01-03",
@@ -11127,7 +11127,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e85b3bb48e94b4849c725a327ef84f45a24bc437/data/United_States_of_America/Senate/term-97.csv"
           }
         ],
-        "statement_count": 103344,
+        "statement_count": 103362,
         "type": "upper house"
       }
     ]
