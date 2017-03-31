@@ -2238,7 +2238,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -2750,6 +2750,16 @@
           "lang": "mk",
           "name": "непартиски политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
         }
       ]
     },
@@ -2826,6 +2836,16 @@
         {
           "lang": "ja",
           "name": "コンゴ民主統合発展運動",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "MCDDI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "MCDDI",
           "note": "multilingual"
         }
       ]
@@ -2931,6 +2951,11 @@
         {
           "lang": "nb",
           "name": "Kongolesiske republikanske arbeiderpartiet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Конголезька партія праці",
           "note": "multilingual"
         },
         {
