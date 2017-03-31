@@ -54386,11 +54386,17 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2016-06-24",
+      "end_date": "2016-10-05",
       "id": "term/6",
+      "identifiers": [
+        {
+          "identifier": "Q4146582",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "6th Convocation",
       "organization_id": "2b944f3a-ffc1-4cd0-a96b-9699b20bb38e",
-      "start_date": "2011-12-04"
+      "start_date": "2011-12-21"
     },
     {
       "classification": "general election",
@@ -54408,6 +54414,12 @@
     {
       "classification": "legislative period",
       "id": "term/7",
+      "identifiers": [
+        {
+          "identifier": "Q26708541",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "7th Convocation",
       "organization_id": "2b944f3a-ffc1-4cd0-a96b-9699b20bb38e",
       "start_date": "2016-10-05"
