@@ -2177,6 +2177,10 @@
           "url": "https://uk.wikipedia.org/wiki/Олафур_Рагнар_Грімссон"
         },
         {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Ólafur_Ragnar_Grímsson"
+        },
+        {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Ólafur_Ragnar_Grímsson"
         },
@@ -2491,6 +2495,11 @@
         {
           "lang": "uk",
           "name": "Олафур Раґнар Ґрімссон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Grimsson Olavur Ragnar",
           "note": "multilingual"
         },
         {
@@ -6663,6 +6672,10 @@
           "url": "https://sv.wikipedia.org/wiki/Bjarni_Benediktsson_(född_1970)"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Б'ярні_Бенедиктссон"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/布亞尼·本尼迪克特松_(1970年生)"
         },
@@ -6800,6 +6813,11 @@
         {
           "lang": "sv",
           "name": "Bjarni Benediktsson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Б'ярні Бенедиктссон",
           "note": "multilingual"
         },
         {
@@ -7876,6 +7894,10 @@
         {
           "identifier": "0000 0003 9414 3768",
           "scheme": "isni"
+        },
+        {
+          "identifier": "Birgitta-Jonsdottir-1",
+          "scheme": "quora"
         },
         {
           "identifier": "288607376",
@@ -15331,6 +15353,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Sigmundur-Davíð-Gunnlaugsson",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q463588",
           "scheme": "wikidata"
         }
@@ -18623,7 +18649,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -19134,6 +19160,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
@@ -20322,6 +20358,11 @@
         {
           "lang": "ko",
           "name": "사회민주동맹",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Сацыял-дэмакратычны альянс",
           "note": "multilingual"
         },
         {
