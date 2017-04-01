@@ -3380,6 +3380,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Sybrand_van_Haersma_Buma"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sybrand_van_Haersma_Buma"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sybrand_van_Haersma_Buma"
         },
@@ -3410,6 +3414,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Sybrand_van_Haersma_Buma"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Sybrand_van_Haersma_Buma"
         },
         {
           "note": "Wikipedia (sv)",
@@ -5405,6 +5413,10 @@
           "url": "https://be_x_old.wikipedia.org/wiki/Марк_Рутэ"
         },
         {
+          "note": "Wikipedia (bewikiquote)",
+          "url": "https://bewikiquote.wikipedia.org/wiki/Марк_Рутэ"
+        },
+        {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Марк_Рюте"
         },
@@ -5514,7 +5526,7 @@
         },
         {
           "note": "Wikipedia (hy)",
-          "url": "https://hy.wikipedia.org/wiki/Մարկ_Ռիուտե"
+          "url": "https://hy.wikipedia.org/wiki/Մարկ_Ռյուտե"
         },
         {
           "note": "Wikipedia (id)",
@@ -5587,6 +5599,10 @@
         {
           "note": "Wikipedia (nlwikiquote)",
           "url": "https://nlwikiquote.wikipedia.org/wiki/Mark_Rutte"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Mark_Rutte"
         },
         {
           "note": "Wikipedia (no)",
@@ -7096,8 +7112,24 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1080666753",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0004 5383 3698",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "396027717",
+          "scheme": "nta"
+        },
+        {
           "identifier": "viehdasn2mxt",
           "scheme": "parlement"
+        },
+        {
+          "identifier": "104144648421642392288",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q2354753",
@@ -7118,12 +7150,32 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جيسي_كلافر"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Jesse_Klaver"
         },
         {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Jesse_Klaver"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jesse_Klaver"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jesse_Klaver"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jesse_Klaver"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jesse_Klaver"
         },
         {
           "note": "Wikipedia (it)",
@@ -7142,12 +7194,24 @@
           "url": "https://pl.wikipedia.org/wiki/Jesse_Klaver"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Jesse_Klaver"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jesseklaver"
+        },
+        {
           "note": "linkedin",
           "url": "https://www.linkedin.com/in/jesseklaver"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/jesseklaver"
+        },
+        {
+          "note": "website",
+          "url": "http://www.jesseklaver.nl"
         }
       ],
       "name": "Jesse Klaver",
@@ -7155,6 +7219,16 @@
         {
           "name": "Jesse F Klaver",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "جيسي كلافر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Jesse Klaver",
+          "note": "multilingual"
         },
         {
           "lang": "de",
@@ -8923,6 +8997,10 @@
           "url": "https://ar.wikipedia.org/wiki/توناهان_كوزو"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tunahan_Kuzu"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Tunahan_Kuzu"
         },
@@ -8933,6 +9011,10 @@
         {
           "note": "Wikipedia (nlwikiquote)",
           "url": "https://nlwikiquote.wikipedia.org/wiki/Tunahan_Kuzu"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tunahan_Kuzu"
         },
         {
           "note": "Wikipedia (tr)",
@@ -12274,6 +12356,10 @@
           "url": "https://sh.wikipedia.org/wiki/Alexander_Pechtold"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Alexander_Pechtold"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Alexander_Pechtold"
         },
@@ -14881,6 +14967,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Pia_Dijkstra"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Pia_Dijkstra"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Pia_Dijkstra"
         },
@@ -15095,6 +15185,11 @@
         {
           "lang": "fr",
           "name": "Jeanine Hennis-Plasschaert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ג'נין הניס פלאסצ'רט",
           "note": "multilingual"
         },
         {
@@ -15381,6 +15476,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Vera_Bergkamp"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Vera_Bergkamp"
@@ -16892,6 +16991,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Diederik_Samsom"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Diederik_Samsom"
         },
         {
           "note": "Wikipedia (fr)",
@@ -20325,6 +20428,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Selçuk_Öztürk"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Selçuk_Öztürk"
         },
@@ -21339,6 +21446,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Emile_Roemer"
         },
         {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Emile_Roemer"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Emile_Roemer"
         },
@@ -21375,6 +21486,10 @@
           "url": "https://pl.wikipedia.org/wiki/Emile_Roemer"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Emile_Roemer"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Emile_Roemer"
         },
@@ -21391,6 +21506,11 @@
         },
         {
           "lang": "ca",
+          "name": "Emile Roemer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
           "name": "Emile Roemer",
           "note": "multilingual"
         },
@@ -21901,6 +22021,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Geert_Wilders"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Герт_Вилдерс"
         },
         {
           "note": "Wikipedia (sv)",
@@ -23560,6 +23684,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "136728960",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "n00030386",
           "scheme": "lcauth"
         },
@@ -23598,6 +23726,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Gert-Jan_Segers"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gert-Jan_Segers"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gert-Jan_Segers"
         },
@@ -23627,6 +23759,16 @@
         {
           "name": "Gert-Jan J M Segers",
           "note": "alternate"
+        },
+        {
+          "lang": "bar",
+          "name": "Gert-Jan Segers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Gert-Jan Segers",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -25143,7 +25285,7 @@
         },
         {
           "lang": "fr",
-          "name": "50PLUS",
+          "name": "50 Plus",
           "note": "multilingual"
         },
         {
@@ -25212,6 +25354,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "li",
+          "name": "50PLUS",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Vijftig Plus",
           "note": "multilingual"
@@ -25228,6 +25375,11 @@
         },
         {
           "lang": "nl",
+          "name": "50+",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "50+",
           "note": "multilingual"
         }
@@ -25928,7 +26080,7 @@
         },
         {
           "lang": "tr",
-          "name": "Hıristiyan Birliği Partisi",
+          "name": "Hristiyan Birlik (Hollanda)",
           "note": "multilingual"
         },
         {
@@ -26034,16 +26186,6 @@
         {
           "lang": "fr",
           "name": "Union chretienne",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Hristiyan Birliği Partisi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Hollanda Hristiyan Birliği Partisi",
           "note": "multilingual"
         },
         {
@@ -26299,6 +26441,16 @@
         {
           "lang": "sh",
           "name": "Demokrati 66",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "66-os Demokraták",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Demokraatit 66",
           "note": "multilingual"
         },
         {
@@ -26955,7 +27107,7 @@
         },
         {
           "lang": "de",
-          "name": "Denk",
+          "name": "Groep Kuzu/Öztürk",
           "note": "multilingual"
         },
         {
@@ -27021,11 +27173,6 @@
         {
           "lang": "ty",
           "name": "Groep Kuzu/Öztürk",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "DENK",
           "note": "multilingual"
         }
       ]
@@ -27148,7 +27295,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -27659,6 +27806,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
@@ -28438,7 +28595,7 @@
         },
         {
           "lang": "hu",
-          "name": "Partij van de Arbeid",
+          "name": "Munkáspárt",
           "note": "multilingual"
         },
         {
@@ -28459,6 +28616,11 @@
         {
           "lang": "sh",
           "name": "Radnička partija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Partij van de Arbeid",
           "note": "multilingual"
         },
         {
@@ -28714,6 +28876,11 @@
         {
           "lang": "mk",
           "name": "ПвдА",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "PvdA",
           "note": "multilingual"
         }
       ]
@@ -29502,6 +29669,11 @@
         {
           "lang": "he",
           "name": "מפלגת העם ההולנדי למען חופש ודמוקרטיה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vapauden ja demokratian kansanpuolue",
           "note": "multilingual"
         },
         {
