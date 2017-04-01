@@ -9852,6 +9852,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (br)",
+          "url": "https://br.wikipedia.org/wiki/Inger_Støjberg"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Inger_Støjberg"
         },
@@ -19287,10 +19291,6 @@
           "url": "https://sv.wikipedia.org/wiki/Anker_Jørgensen"
         },
         {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Anker_Jørgensen"
-        },
-        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Анкер_Йоргенсен"
         },
@@ -22280,6 +22280,11 @@
         },
         {
           "lang": "nl",
+          "name": "Pia Christmas-Møller",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Pia Christmas-Møller",
           "note": "multilingual"
         }
@@ -34854,6 +34859,10 @@
         {
           "identifier": "nb2008001781",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "6810",
+          "scheme": "pace"
         },
         {
           "identifier": "53681244",
