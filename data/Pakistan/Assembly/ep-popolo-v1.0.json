@@ -28070,6 +28070,12 @@
     {
       "classification": "legislative period",
       "id": "term/14",
+      "identifiers": [
+        {
+          "identifier": "Q29068722",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "14th National Assembly",
       "organization_id": "65caa270-16bc-435c-ac92-e04751e26884",
       "start_date": "2013-06-01"
