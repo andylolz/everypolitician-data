@@ -444,11 +444,11 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "utl.julioguerra@senado.gov.co"
+          "value": "julio.guerra@senado.gov.co"
         },
         {
           "type": "email",
-          "value": "julio.guerra@senado.gov.co"
+          "value": "utl.julioguerra@senado.gov.co"
         },
         {
           "type": "phone",
@@ -459,7 +459,7 @@
           "value": "JulioMGuerraS"
         }
       ],
-      "email": "utl.julioguerra@senado.gov.co",
+      "email": "julio.guerra@senado.gov.co",
       "gender": "male",
       "id": "0fb6c5d7-16d4-43e3-9ba7-ecb20f8397b3",
       "image": "http://www.secretariasenado.gov.co/images/SENADORES_2014-2018/JULIO-MIGUEL-GUERRA-SOTTO.png",
@@ -1233,7 +1233,7 @@
           "url": "http://www.secretariasenado.gov.co/images/senadores/BARON_PDF.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/783112649802412032/oeERJNdq.jpg"
+          "url": "https://pbs.twimg.com/profile_images/844323615386615812/7xRcU2Mb.jpg"
         }
       ],
       "links": [
@@ -2301,7 +2301,7 @@
           "url": "http://www.secretariasenado.gov.co/images/fotosenadores/rey.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/802548871037681664/uQiEPmzK.jpg"
+          "url": "https://pbs.twimg.com/profile_images/846341515664240640/AG2ZkRBD.jpg"
         }
       ],
       "links": [
@@ -2543,7 +2543,7 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Bernardo.elias@senado.gov.co"
+          "value": "Bermiguel@hotmail.com"
         },
         {
           "type": "phone",
@@ -2554,7 +2554,7 @@
           "value": "BernardoEliasV"
         }
       ],
-      "email": "Bernardo.elias@senado.gov.co",
+      "email": "Bermiguel@hotmail.com",
       "gender": "male",
       "given_name": "Bernardo",
       "id": "350aa1ab-e5e2-4750-8699-ac2b1927c6a1",
@@ -2579,8 +2579,16 @@
           "url": "https://es.wikipedia.org/wiki/Bernardo_Miguel_Elías"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/bernardomiguel.eliasvidal"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/BernardoEliasV"
+        },
+        {
+          "note": "website",
+          "url": "http://bernardoelias.com/"
         }
       ],
       "name": "MIGUEL BERNARDO ELÍAS VIDAL",
@@ -3059,7 +3067,7 @@
           "url": "http://www.secretariasenado.gov.co/images/fotosenadores/senadores_web_secretaria-23.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/768946644092018688/QCIGY4fp.jpg"
+          "url": "https://pbs.twimg.com/profile_images/846405049655820288/8tEfrn9Q.jpg"
         }
       ],
       "links": [
@@ -3375,7 +3383,7 @@
         },
         {
           "type": "twitter",
-          "value": "Marioferalco"
+          "value": "MarioFerAlco"
         }
       ],
       "email": "mariofernandez@gmail.com",
@@ -3405,7 +3413,7 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/Marioferalco"
+          "url": "https://twitter.com/MarioFerAlco"
         },
         {
           "note": "website",
@@ -3565,7 +3573,7 @@
           "url": "http://www.secretariasenado.gov.co/images/senadores/SUSANA.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/809217815890788352/lcGJ-Wy9.jpg"
+          "url": "https://pbs.twimg.com/profile_images/846342364188704768/dG0rNXxc.jpg"
         }
       ],
       "links": [
@@ -4183,10 +4191,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/423148251387138049/dPbUFkEt.jpeg",
+      "image": "https://pbs.twimg.com/profile_images/841705812817006596/o1nH8glC.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/423148251387138049/dPbUFkEt.jpeg"
+          "url": "https://pbs.twimg.com/profile_images/841705812817006596/o1nH8glC.jpg"
         }
       ],
       "links": [
@@ -4206,7 +4214,7 @@
           "note": "alternate"
         },
         {
-          "name": "SenadorEnríquezMaya",
+          "name": "Eduardo Enríquez M.",
           "note": "alternate"
         },
         {
@@ -4525,7 +4533,7 @@
           "url": "http://www.secretariasenado.gov.co/images/SENADORES_2014-2018/ARAUJO-RUMIE-FERNANDO-NICOLAS.png"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/791043605653782536/iQQuVWpd.jpg"
+          "url": "https://pbs.twimg.com/profile_images/846404073066708992/Ysld_LVb.png"
         }
       ],
       "links": [
@@ -5201,7 +5209,7 @@
           "url": "http://www.secretariasenado.gov.co/images/SENADORES_2014-2018/HOLGUIN-MORENO-PAOLA-ANDREA.png"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/783444254777544704/zYrRBTE0.jpg"
+          "url": "https://pbs.twimg.com/profile_images/846369853611028481/AiAD2GrF.jpg"
         }
       ],
       "links": [
@@ -5272,7 +5280,7 @@
           "url": "http://www.secretariasenado.gov.co/images/fotosenadores/laserna%20paloma.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/809529307924230144/rDK5pitw.jpg"
+          "url": "https://pbs.twimg.com/profile_images/843318588446572544/_YHj8VWq.jpg"
         }
       ],
       "links": [
@@ -7908,7 +7916,7 @@
           "url": "http://www.secretariasenado.gov.co/images/senadores-2014-18/ramos.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/749025102130475008/aAvU8PiB.jpg"
+          "url": "https://pbs.twimg.com/profile_images/841803848167616512/PSyNWsDL.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/AlfredoRamosMaya.jpg"
@@ -8284,7 +8292,7 @@
           "url": "http://www.secretariasenado.gov.co/images/banners/teresita.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/834786214729367554/Or_krop9.jpg"
+          "url": "https://pbs.twimg.com/profile_images/841402188844924929/kYPQLZZg.jpg"
         }
       ],
       "links": [
