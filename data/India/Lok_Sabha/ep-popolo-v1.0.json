@@ -10436,6 +10436,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pnb",
+          "name": "ملیکارجُن کھڑگے",
+          "note": "multilingual"
+        },
+        {
           "lang": "sa",
           "name": "मल्लिकार्जुन खडगे",
           "note": "multilingual"
@@ -23765,6 +23770,11 @@
           "note": "alternate"
         },
         {
+          "lang": "as",
+          "name": "যোগী আদিত্যনাথ",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Yogi Adityanath",
           "note": "multilingual"
@@ -23795,6 +23805,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "יוגי אדיטיאנת'",
+          "note": "multilingual"
+        },
+        {
           "lang": "hi",
           "name": "योगी आदित्यनाथ",
           "note": "multilingual"
@@ -23802,6 +23817,26 @@
         {
           "lang": "hu",
           "name": "Adityanath Yogi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Yogi Adityanath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kn",
+          "name": "ಯೋಗಿ ಆದಿತ್ಯನಾಥ್‌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mai",
+          "name": "योगी आदित्यनाथ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "യോഗി ആദിത്യനാഥ്",
           "note": "multilingual"
         },
         {
@@ -23857,6 +23892,11 @@
         {
           "lang": "te",
           "name": "ఆదిత్యనాథ్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "یوگی آدتیہ ناتھ",
           "note": "multilingual"
         }
       ]
