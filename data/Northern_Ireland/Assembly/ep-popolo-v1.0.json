@@ -4296,6 +4296,10 @@
           "url": "https://la.wikipedia.org/wiki/Arlene_Foster"
         },
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Arlene_Foster"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Arlene_Foster"
         },
@@ -7338,12 +7342,8 @@
           "url": "https://en.wikipedia.org/wiki/Sinéad_Bradley"
         }
       ],
-      "name": "Sinead Bradley",
+      "name": "Sinéad Bradley",
       "other_names": [
-        {
-          "name": "Sinéad Bradley",
-          "note": "alternate"
-        },
         {
           "lang": "en",
           "name": "Sinéad Bradley",
@@ -14392,8 +14392,12 @@
           "url": "https://en.wikipedia.org/wiki/Phillip_McGuigan"
         }
       ],
-      "name": "Philip McGuigan",
+      "name": "Phillip McGuigan",
       "other_names": [
+        {
+          "name": "Philip McGuigan",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Philip McGuigan",
@@ -16047,6 +16051,10 @@
           "url": "https://es.wikipedia.org/wiki/Martin_McGuinness"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Martin_McGuinness"
+        },
+        {
           "note": "Wikipedia (eu)",
           "url": "https://eu.wikipedia.org/wiki/Martin_McGuinness"
         },
@@ -16105,6 +16113,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Martin_McGuinness"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Martin_McGuinness"
         },
         {
           "note": "Wikipedia (ru)",
@@ -21730,6 +21742,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "vi",
+          "name": "Gerry Adams",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "盖瑞·亚当斯",
           "note": "multilingual"
@@ -25239,6 +25256,11 @@
         {
           "lang": "pl",
           "name": "przewodniczący parlamentu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "יושב ראש פרלמנט",
           "note": "multilingual"
         },
         {
