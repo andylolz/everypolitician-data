@@ -1057,6 +1057,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Huang_Hsiu-fang"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Huang_Hsiu-fang"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/黃秀芳"
         },
@@ -2166,6 +2170,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yang_Ying-hsiung"
+        },
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/楊應雄"
@@ -9566,6 +9574,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "000005537",
+          "scheme": "ncl"
+        },
+        {
+          "identifier": "316457433",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q8279684",
           "scheme": "wikidata"
         }
@@ -9952,6 +9968,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Wu_Su-yao"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosalia_Wu"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/吳思瑤"
         },
@@ -9965,6 +9985,11 @@
         {
           "name": "吳思瑤",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rosalia Wu",
+          "note": "multilingual"
         },
         {
           "lang": "nan",
