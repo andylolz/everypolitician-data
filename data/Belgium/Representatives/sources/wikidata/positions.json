@@ -772,7 +772,12 @@
       "id": "Q15705021",
       "label": "member of the Chamber of Representatives of Belgium",
       "title": "member of the Chamber of Representatives of Belgium",
-      "description": "member of the lower house of the federal parliament of Belgium"
+      "description": "member of the lower house of the federal parliament of Belgium",
+      "qualifiers": {
+        "P2937": "54th legislative term of the Chamber of Representatives of Belgium, 2014-2019",
+        "P582": "2017-03-09",
+        "P1366": "Wim Van der Donckt"
+      }
     }
   ],
   "Q3010154": [
