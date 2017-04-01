@@ -77087,6 +77087,11 @@
           "lang": "ml",
           "name": "അക്രേ",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఏకర్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -77556,6 +77561,11 @@
           "lang": "bs",
           "name": "Alagoas",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఆలాగోవాస్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -77727,7 +77737,7 @@
         },
         {
           "lang": "eu",
-          "name": "Amazonaseko estatua",
+          "name": "Amazonas",
           "note": "multilingual"
         },
         {
@@ -78501,6 +78511,11 @@
         {
           "lang": "li",
           "name": "Amapá",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "అమాపా",
           "note": "multilingual"
         }
       ],
@@ -79848,6 +79863,11 @@
           "lang": "zh_tw",
           "name": "聯邦區",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఫెడరల్ జిల్లా",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -80271,6 +80291,11 @@
         {
           "lang": "bs",
           "name": "Espírito Santo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఎస్పిరిటో సాంటో",
           "note": "multilingual"
         }
       ],
@@ -81147,7 +81172,7 @@
         },
         {
           "lang": "hy",
-          "name": "Մարանհան",
+          "name": "Մարանյան",
           "note": "multilingual"
         },
         {
@@ -81695,6 +81720,11 @@
           "lang": "sm",
           "name": "Minas Gerais",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "మినాస్ జెరాయిస్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -82136,6 +82166,11 @@
         {
           "lang": "lad",
           "name": "Mato Grosso do Sul",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "మాటో గ్రాసో డో సూల్",
           "note": "multilingual"
         }
       ],
@@ -82585,6 +82620,11 @@
         {
           "lang": "bs",
           "name": "Mato Grosso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "మాటో గ్రోసో",
           "note": "multilingual"
         }
       ],
@@ -83552,6 +83592,11 @@
           "lang": "bs",
           "name": "Paraíba",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పారాయిబా",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -83687,7 +83732,7 @@
         },
         {
           "lang": "be",
-          "name": "Штат Пернамбуку",
+          "name": "штат Пернамбуку",
           "note": "multilingual"
         },
         {
@@ -84474,6 +84519,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh_hans",
+          "name": "皮奥伊州",
+          "note": "multilingual"
+        },
+        {
           "lang": "nah",
           "name": "Piauí",
           "note": "multilingual"
@@ -84486,6 +84536,11 @@
         {
           "lang": "bs",
           "name": "Piauí",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పియావా",
           "note": "multilingual"
         }
       ],
@@ -84614,7 +84669,7 @@
         },
         {
           "lang": "be",
-          "name": "Штат Парана",
+          "name": "штат Парана",
           "note": "multilingual"
         },
         {
@@ -84960,6 +85015,11 @@
         {
           "lang": "ay",
           "name": "Parana Istadu‎;",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పరానా",
           "note": "multilingual"
         }
       ],
@@ -85896,6 +85956,11 @@
           "lang": "de_ch",
           "name": "Rio Grande do Norte",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "రియో గ్రాండ్ డు నార్టే",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -86327,6 +86392,11 @@
         {
           "lang": "dz",
           "name": "རོན་དོ་ནིཡ་",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "రాండోనియా",
           "note": "multilingual"
         }
       ],
@@ -86768,8 +86838,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh_hans",
+          "name": "罗赖马州",
+          "note": "multilingual"
+        },
+        {
           "lang": "bs",
           "name": "Roraima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "రోరేమా",
           "note": "multilingual"
         }
       ],
@@ -87260,6 +87340,11 @@
           "lang": "lmo",
           "name": "Rio Grande do Sul",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "రియో గ్రాండ్ డు సల్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -87728,6 +87813,11 @@
         {
           "lang": "bs",
           "name": "Santa Catarina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "సాంటా కాటరీనా",
           "note": "multilingual"
         }
       ],
@@ -88699,6 +88789,11 @@
           "lang": "bs",
           "name": "São Paulo (država)",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "సావో పాలో",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -89122,6 +89217,11 @@
         {
           "lang": "xmf",
           "name": "ტოკანტინსი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "టొకాంటిన్స్",
           "note": "multilingual"
         }
       ],
