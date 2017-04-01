@@ -1031,9 +1031,40 @@
         {
           "identifier": "500",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28465245",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Valentín_Solís"
         }
       ],
       "name": "Valentín Solís Cabezas",
+      "other_names": [
+        {
+          "name": "Valentín Solís",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Valentín Solís Cabezas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Valentín Solís",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Valentín Solís Cabezas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Solís"
     },
     {
@@ -16722,6 +16753,7 @@
       "sort_name": "Herrera"
     },
     {
+      "birth_date": "1965-07-18",
       "contact_details": [
         {
           "type": "email",
@@ -16730,14 +16762,32 @@
       ],
       "email": "asantana",
       "gender": "male",
+      "given_name": "Alejandro",
       "id": "c396b458-7e80-4123-bc9b-78162da99311",
       "identifiers": [
         {
           "identifier": "952",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29044330",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alejandro_Santana_Tirachini.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alejandro_Santana_Tirachini.jpg"
         }
       ],
       "name": "Alejandro Santana Tirachini",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alejandro Santana Tirachini",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Santana"
     },
     {
