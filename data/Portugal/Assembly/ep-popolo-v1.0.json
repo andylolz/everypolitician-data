@@ -13570,10 +13570,6 @@
           "url": "https://ru.wikipedia.org/wiki/Фрейташ_ду_Амарал,_Диогу"
         },
         {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Diogo_Freitas_do_Amaral"
-        },
-        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Діогу_Фрейташ_ду_Амарал"
         }
@@ -18262,10 +18258,6 @@
         {
           "note": "Wikipedia (sw)",
           "url": "https://sw.wikipedia.org/wiki/Pedro_Santana_Lopes"
-        },
-        {
-          "note": "Wikipedia (tr)",
-          "url": "https://tr.wikipedia.org/wiki/Pedro_Santana_Lopes"
         },
         {
           "note": "Wikipedia (uk)",
@@ -28719,6 +28711,11 @@
         {
           "lang": "war",
           "name": "José Manuel Barroso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "佐沙·曼維·巴羅佐",
           "note": "multilingual"
         },
         {
