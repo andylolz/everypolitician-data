@@ -155,16 +155,23 @@
   ],
   "Q951338": [
     {
-      "id": "Q18180916",
-      "label": "member of the Chamber of Deputies of Venezuela",
-      "title": "member of the Chamber of Deputies of Venezuela",
-      "description": "member of the lower house of the Venezuelan legislature (until 2000)"
-    },
-    {
       "id": "Q20011182",
       "label": "member of the National Assembly of Venezuela",
       "title": "member of the National Assembly of Venezuela",
-      "description": "member of the unicameral legislature of Venezuela"
+      "description": "member of the unicameral legislature of Venezuela",
+      "qualifiers": {
+        "P580": "2016-01-05"
+      }
+    },
+    {
+      "id": "Q7574294",
+      "label": "Speaker of the National Assembly",
+      "title": "Speaker of the National Assembly",
+      "description": "Wikipedia disambiguation page",
+      "qualifiers": {
+        "P580": "2017-01-05",
+        "P1365": "Henry Ramos Allup"
+      }
     }
   ],
   "Q5894576": [
