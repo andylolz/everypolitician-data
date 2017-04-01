@@ -1,0 +1,15 @@
+id,label,description,type
+Q213107,Prime Minister of Belgium,head of the federal government of Belgium,cabinet
+Q24199589,Minister of Defence,defence minister of Belgium,cabinet
+Q1670832,minister of Foreign Affairs in Belgium,"",cabinet
+Q168589,Minister of Justice of Belgium,position,cabinet
+Q25712501,Minister of Labour and Transport,Belgian minister,cabinet
+Q25712502,Minister of Social Affairs and Health,Belgian minister,cabinet
+Q25907280,Minister of the Civil Service,Belgian minister,cabinet
+Q24038694,"State Secretary of Asylum, Migration, Social Integration and Poverty Reduction",in Belgium,executive
+Q15705021,member of the Chamber of Representatives of Belgium,member of the lower house of the federal parliament of Belgium,self
+Q25907282,President of the Chamber of Representatives,Head of the Belgian Chamber of Representatives,self
+Q17619252,Senator of Belgium,member of the Belgian Senate,other_legislatures
+Q27169,member of the European Parliament,person who has been elected to the European Parliament,other_legislatures
+Q15105064,member of the Flemish Parliament,person who has been elected to the Flemish Parliament,other_legislatures
+Q19351455,Member of the Walloon Parliament,"",other_legislatures
