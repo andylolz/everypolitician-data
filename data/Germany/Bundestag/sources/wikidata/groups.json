@@ -486,6 +486,11 @@
         "lang": "el",
         "name": "SPD",
         "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "社会民主党",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -982,6 +987,11 @@
       {
         "lang": "el",
         "name": "SPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "社会民主党",
         "note": "multilingual"
       }
     ],
@@ -1514,7 +1524,7 @@
     ],
     "links": [
       {
-        "url": "http://www.cdu.de/",
+        "url": "https://www.cdu.de/",
         "note": "website"
       }
     ],
@@ -2485,6 +2495,11 @@
       {
         "lang": "lb",
         "name": "Die Linke",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "The Left",
         "note": "multilingual"
       },
       {
@@ -5045,7 +5060,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -5556,6 +5571,16 @@
       {
         "lang": "mk",
         "name": "непартиски политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
         "note": "multilingual"
       }
     ]
@@ -5675,7 +5700,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -6187,6 +6212,16 @@
         "lang": "mk",
         "name": "непартиски политичар",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
       }
     ]
   },
@@ -6235,7 +6270,7 @@
       },
       {
         "lang": "fr",
-        "name": "Südschleswigscher Wählerverband",
+        "name": "Fédération des électeurs du Schleswig du Sud",
         "note": "multilingual"
       },
       {
@@ -7294,6 +7329,11 @@
       },
       {
         "lang": "sv",
+        "name": "Bündnis 90",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
         "name": "Bündnis 90",
         "note": "multilingual"
       },
