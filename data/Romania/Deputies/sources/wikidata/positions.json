@@ -734,7 +734,34 @@
     {
       "id": "Q17556530",
       "label": "member of the Chamber of Deputies of Romania",
-      "title": "member of the Chamber of Deputies of Romania"
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2008-12-19",
+        "P582": "2012-12-18",
+        "P768": "Bucharest"
+      }
+    },
+    {
+      "id": "Q17556530",
+      "label": "member of the Chamber of Deputies of Romania",
+      "title": "member of the Chamber of Deputies of Romania",
+      "qualifiers": {
+        "P580": "2012-12-19",
+        "P582": "2016-12-20",
+        "P768": "Neamț County"
+      }
+    },
+    {
+      "id": "Q29053673",
+      "label": "minister of tourism and regional development",
+      "title": "minister of tourism and regional development",
+      "description": "Romania",
+      "qualifiers": {
+        "P580": "2008-12-22",
+        "P582": "2012-02-09",
+        "P1365": "Ovidiu Silaghi",
+        "P1366": "Cristian Petrescu"
+      }
     }
   ],
   "Q18548014": [
@@ -2365,6 +2392,15 @@
       "qualifiers": {
         "P580": "2012-12-19",
         "P768": "Constanța County"
+      }
+    },
+    {
+      "id": "Q29053668",
+      "label": "minister of tourism",
+      "title": "minister of tourism",
+      "description": "Romania",
+      "qualifiers": {
+        "P580": "2017-01-04"
       }
     }
   ],
