@@ -5460,10 +5460,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I0U/upload_ref_binary/I0U.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sarah_Hanson-Young_Headshot.jpg"
@@ -7499,10 +7499,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/CPR.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/cpr.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/CPR/upload_ref_binary/CPR.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Lee_Rhiannon_2010.jpg"
@@ -7739,9 +7739,6 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/00AOQ/upload_ref_binary/00AOQ.JPG"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/March_in_May_2014_Claire_Moore.webm"
-        },
-        {
           "url": "https://pbs.twimg.com/profile_images/822619247167864832/KBDC5zB2.jpg"
         }
       ],
@@ -7908,10 +7905,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G0D/upload_ref_binary/G0D.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G0D/upload_ref_binary/G0D.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G0D/upload_ref_binary/G0D.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/G0D/upload_ref_binary/G0D.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Cory_Bernardi_crop.jpg"
@@ -10063,10 +10060,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/GB6/upload_ref_binary/GB6.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Jacinta_Collins.jpeg"
@@ -12261,60 +12258,16 @@
       "sort_name": "Faulkner, John"
     },
     {
-      "birth_date": "1960-08-09",
       "family_name": "Hill",
-      "gender": "female",
       "given_name": "Heather",
       "id": "920c8983-dbc1-44c2-8f02-f9963fc155b4",
       "identifiers": [
         {
           "identifier": "10303",
           "scheme": "openaustralia"
-        },
-        {
-          "identifier": "Q5693874",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Heather_Hill_(politician)"
         }
       ],
       "name": "Heather Hill",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Heather Hill",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Hill, Heather"
     },
     {
@@ -12654,6 +12607,35 @@
       "sort_name": "Childs, Bruce"
     },
     {
+      "family_name": "Georgiou",
+      "given_name": "Peter",
+      "id": "934b5ae2-f101-4124-a333-cd02a92a0285",
+      "identifiers": [
+        {
+          "identifier": "269583",
+          "scheme": "aph"
+        },
+        {
+          "identifier": "10898",
+          "scheme": "openaustralia"
+        }
+      ],
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/269583/upload_ref_binary/269583.jpg",
+      "images": [
+        {
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/269583/upload_ref_binary/269583.jpg"
+        }
+      ],
+      "name": "Peter Georgiou",
+      "other_names": [
+        {
+          "name": "Senator Peter Georgiou",
+          "note": "alternate"
+        }
+      ],
+      "sort_name": "Georgiou, Peter"
+    },
+    {
       "birth_date": "1935-01-30",
       "family_name": "Baume",
       "gender": "male",
@@ -12946,10 +12928,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/I07/upload_ref_binary/I07.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Scott_Ludlam_2011_(cropped).jpg"
@@ -15240,10 +15222,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E5Z/upload_ref_binary/E5Z.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Rachel_Siewert_profile.png"
@@ -18577,10 +18559,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/8IV/upload_ref_binary/8IV.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/2009_07_24_Nick_Xenophon_speaking_cropped.jpg"
@@ -20898,10 +20880,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZB/upload_ref_binary/HZB.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZB/upload_ref_binary/HZB.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZB/upload_ref_binary/HZB.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HZB/upload_ref_binary/HZB.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/537437433076252674/kFCmYRhq.jpeg"
@@ -30160,6 +30142,7 @@
     },
     {
       "area_id": "area/wa",
+      "end_date": "2017-01-11",
       "legislative_period_id": "term/45",
       "on_behalf_of_id": "pauline_hanson's_one_nation_party",
       "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
@@ -32549,6 +32532,20 @@
           "url": "http://data.openaustralia.org/members/senators.xml"
         }
       ]
+    },
+    {
+      "area_id": "area/wa",
+      "legislative_period_id": "term/45",
+      "on_behalf_of_id": "pauline_hanson's_one_nation_party",
+      "organization_id": "e84f0da7-38e2-4ad3-b02a-6d5796ba90ad",
+      "person_id": "934b5ae2-f101-4124-a333-cd02a92a0285",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://data.openaustralia.org/members/senators.xml"
+        }
+      ],
+      "start_date": "2017-03-20"
     },
     {
       "area_id": "area/nsw",
