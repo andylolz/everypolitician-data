@@ -51809,6 +51809,11 @@
           "lang": "ja",
           "name": "秋田県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Akita 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -51950,6 +51955,11 @@
           "lang": "ja",
           "name": "千葉県第10区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chiba 10th district",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -51967,6 +51977,11 @@
         {
           "lang": "ja",
           "name": "千葉県第11区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chiba 11th district",
           "note": "multilingual"
         }
       ],
@@ -51986,6 +52001,11 @@
           "lang": "ja",
           "name": "千葉県第12区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chiba 12th district",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -52003,6 +52023,11 @@
         {
           "lang": "ja",
           "name": "千葉県第13区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chiba 13th district",
           "note": "multilingual"
         }
       ],
@@ -52196,6 +52221,11 @@
           "lang": "ja",
           "name": "愛媛県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ehime 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -52267,6 +52297,11 @@
         {
           "lang": "ja",
           "name": "福井県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fukui 1st District",
           "note": "multilingual"
         }
       ],
@@ -53296,6 +53331,11 @@
           "lang": "ja",
           "name": "兵庫県第10区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 10th district",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -53494,6 +53534,11 @@
         {
           "lang": "ja",
           "name": "兵庫県第6区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hyogo 6th District",
           "note": "multilingual"
         }
       ],
@@ -53853,6 +53898,11 @@
         {
           "lang": "ja",
           "name": "香川県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kagawa 1st District",
           "note": "multilingual"
         }
       ],
@@ -54390,6 +54440,11 @@
           "lang": "ja",
           "name": "高知県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kochi 1st district",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -54789,6 +54844,11 @@
           "lang": "ja",
           "name": "宮城県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Miyagi 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -54897,6 +54957,11 @@
           "lang": "ja",
           "name": "宮崎県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Miyazaki 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -54950,6 +55015,11 @@
         {
           "lang": "ja",
           "name": "長野県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nagano 1st District",
           "note": "multilingual"
         }
       ],
@@ -55338,6 +55408,11 @@
           "lang": "ja",
           "name": "大分県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oita 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -55409,6 +55484,11 @@
         {
           "lang": "ja",
           "name": "岡山県第2区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Okayama 2nd district",
           "note": "multilingual"
         }
       ],
@@ -55486,6 +55566,11 @@
         {
           "lang": "ja",
           "name": "沖縄県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Okinawa 1st District",
           "note": "multilingual"
         }
       ],
@@ -56374,6 +56459,11 @@
           "lang": "ja",
           "name": "島根県第1区",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shimane 1st District",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -56409,6 +56499,11 @@
         {
           "lang": "ja",
           "name": "静岡県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shizuoka 1st District",
           "note": "multilingual"
         },
         {
@@ -57146,6 +57241,11 @@
           "lang": "en",
           "name": "Tokyo 2nd district",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "東京都第2區",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -57423,6 +57523,11 @@
         {
           "lang": "ja",
           "name": "富山県第1区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toyama 1st District",
           "note": "multilingual"
         }
       ],
