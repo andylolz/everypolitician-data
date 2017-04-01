@@ -1,0 +1,32 @@
+id,position,label,description,start_date,end_date,replaced_by,replaces
+Q1071599,Q2289041,Singapore Democratic Party,political party in Singapore,"",,,
+Q131248,Q866756,Prime Minister of Singapore,head of the government of the Republic of Singapore,1959-06-03,1990-11-28,Goh Chok Tong,Lim Yew Hock
+Q1521378,Q256213,Minister for Foreign Affairs,head of the Ministry of Foreign Affairs in Singapore,"",,,
+Q1521378,Q3250656,Emeritus Senior Minister,political office in the Cabinet of Singapore,"",,,
+Q1521378,Q5137493,Co-ordinating Minister for National Security,"","",,,
+Q1521378,Q5261072,Deputy Prime Minister of Singapore,"","",,,
+Q313300,Q3250656,Emeritus Senior Minister,political office in the Cabinet of Singapore,2004-08-12,2011-05-21,"",Lee Kuan Yew
+Q313300,Q866756,Prime Minister of Singapore,head of the government of the Republic of Singapore,1990-11-28,2004-08-12,Lee Hsien Loong,Lee Kuan Yew
+Q461128,Q11393870,Minister for Home Affairs,Minister in Singapore,"",,,
+Q461128,Q256213,Minister for Foreign Affairs,head of the Ministry of Foreign Affairs in Singapore,"",,,
+Q461128,Q5137493,Co-ordinating Minister for National Security,"","",,,
+Q461128,Q5261072,Deputy Prime Minister of Singapore,"","",,,
+Q4666073,Q20967973,Speaker of the Parliament of Singapore,"",2002,2011,Michael Palmer,Tan Soo Khoon
+Q5070296,Q15151135,Ministry of Social and Family Development,ministry of the Government of Singapore,2012-11-01,,,
+Q5070296,Q2382270,"Ministry of Community Development, Youth and Sports",Former Singaporean government ministry,2011-05-21,2012-10-31,Lawrence Wong,Vivian Balakrishnan
+Q5070296,Q3024268,Ministry of Communications and Information,Singaporean government ministry,2011-05-21,2012-07-31,Lawrence Wong,
+Q5070296,Q4294509,Ministry of Defence,Singapore government ministry responsible for military and national defense matters,2012-08-01,2013-08-31,Maliki Osman,Lawrence Wong
+Q5070296,Q4294509,Ministry of Defence,Singapore government ministry responsible for military and national defense matters,2013-09-01,,,
+Q5409769,Q7048601,Nominated Member of Parliament,member of the Parliament of Singapore appointed by the President who is not affiliated to any political party and does not represent any constituency,"",,,
+Q5642345,Q20967973,Speaker of the Parliament of Singapore,"",2013-01-14,,,Michael Palmer
+Q57643,Q5261072,Deputy Prime Minister of Singapore,"",1990-11-28,2004-08-12,S. Jayakumar,Goh Chok Tong
+Q57643,Q6118636,Minister for Finance,cabinet member of the government of Singapore,2001-11-10,2007-11-30,Tharman Shanmugaratnam,Richard Hu
+Q57643,Q866756,Prime Minister of Singapore,head of the government of the Republic of Singapore,2004-08-12,,,Goh Chok Tong
+Q58142,Q4294727,Ministry of Trade and Industry,Ministry of the Government of Singapore that directs the formulation of policies related to the development of trade and industry in Singapore,"",,,
+Q58142,Q4383964,Ministry of Health,"","",,,
+Q6833355,Q20967973,Speaker of the Parliament of Singapore,"",2011-10-12,2012-12-12,Halimah Yacob,Abdullah Tarmugi
+Q713940,Q6508558,Leader of the Opposition,parliamentary position of the Parliament of Singapore,"",,,
+Q7937671,Q256213,Minister for Foreign Affairs,head of the Ministry of Foreign Affairs in Singapore,2015-10-01,,,K. Shanmugam
+Q983752,Q4294530,Ministry of Education,Singaporean ministry responsible for education,2003-08-01,2008-04-01,Ng Eng Hen,Teo Chee Hean
+Q983752,Q6118636,Minister for Finance,cabinet member of the government of Singapore,2007-12-01,,,Lee Hsien Loong
+Q983752,Q6865922,Minister for Manpower,"",2011-05-21,2012-07-31,Tan Chuan-Jin,Gan Kim Yong
