@@ -14,7 +14,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/singapore-parliament-2016-wikipedia",
+        "scraper": "everypolitician-scrapers/singapore-parliament-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
