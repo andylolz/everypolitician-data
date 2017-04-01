@@ -76586,11 +76586,17 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2015",
+      "end_date": "2015-01-31",
       "id": "term/54",
-      "name": "54th Legislature",
+      "identifiers": [
+        {
+          "identifier": "Q4640499",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "54th Chamber of Deputies of Brazil",
       "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
-      "start_date": "2011"
+      "start_date": "2011-02-01"
     },
     {
       "classification": "general election",
@@ -76607,8 +76613,15 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2019-01-31",
       "id": "term/55",
-      "name": "55th Legislature",
+      "identifiers": [
+        {
+          "identifier": "Q18479094",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "55th Chamber of Deputies of Brazil",
       "organization_id": "c5d9ea98-074a-4a11-9016-a5157e4aa51e",
       "start_date": "2015-02-01"
     }
