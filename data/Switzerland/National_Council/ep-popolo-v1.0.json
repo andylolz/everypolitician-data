@@ -7041,9 +7041,20 @@
         {
           "identifier": "4140",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q29044353",
+          "scheme": "wikidata"
         }
       ],
       "name": "Giovanni Merlini",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Giovanni Merlini",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Merlini, Giovanni"
     },
     {
@@ -25702,9 +25713,25 @@
         {
           "identifier": "4209",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q28846129",
+          "scheme": "wikidata"
         }
       ],
       "name": "Hans-Ulrich Bigler",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Hans-Ulrich Bigler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hans-Ulrich Bigler",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bigler, Hans-Ulrich"
     },
     {
