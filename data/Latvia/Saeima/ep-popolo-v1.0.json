@@ -3150,6 +3150,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Имант Парадниекс",
+          "note": "multilingual"
+        },
+        {
           "lang": "sc",
           "name": "Imants Parādnieks",
           "note": "multilingual"
@@ -8141,6 +8146,11 @@
         },
         {
           "lang": "lv",
+          "name": "Edgars Putra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Edgars Putra",
           "note": "multilingual"
         }
@@ -43311,6 +43321,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Arvils_Ašeradens"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Arvils_Ašeradens"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Arvils_Ašeradens"
         },
@@ -45476,7 +45490,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -45987,6 +46001,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
