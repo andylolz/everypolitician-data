@@ -6,8 +6,8 @@ id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,ter
 a563ae9a-b337-4679-8647-40f066b57b74,Alavanos Nikolaos,Alavanos Nikolaos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/cyclades,Cyclades,Hellenic Parliament,1,,1976-02-24,,
 a563ae9a-b337-4679-8647-40f066b57b74,Alavanos Nikolaos,Alavanos Nikolaos,,,,E.DI.K.,edik,area/cyclades,Cyclades,Hellenic Parliament,1,1976-02-25,,,
 da686d19-5e11-4408-8944-e1db173c2905,Alevras Ioannis,Alevras Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/6/69/Ioannis_Alevras.jpg,male
-4710cb95-a648-4ebc-938c-aa81bf4d7e64,Alexiou Thomas,Alexiou Thomas,,,,N.D. (New Democracy),nd,area/xanthi,Xanthi,Hellenic Parliament,1,,,,
-54dad2f3-4331-49c2-b86f-e88637cea943,Aliprantis Dimitrios,Aliprantis Dimitrios,,,,N.D. (New Democracy),nd,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,,,
+4710cb95-a648-4ebc-938c-aa81bf4d7e64,Alexiou Thomas,Alexiou Thomas,,,,N.D. (New Democracy),nd,area/xanthi,Xanthi,Hellenic Parliament,1,,,,male
+54dad2f3-4331-49c2-b86f-e88637cea943,Aliprantis Dimitrios,Aliprantis Dimitrios,,,,N.D. (New Democracy),nd,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,,,male
 6a3f8931-af54-42e2-a176-ce7bda3cbca5,Alivizatos Nikolaos,Alivizatos Nikolaos,,,,E.DI.K.,edik,area/state,State,Hellenic Parliament,1,1977-02-24,,,male
 ce234d5b-aac2-4845-8fa4-3f3065dc329b,Ampatzis Panagiotis,Ampatzis Panagiotis,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/lesvos,Lesvos,Hellenic Parliament,1,,1976-02-24,,
 ce234d5b-aac2-4845-8fa4-3f3065dc329b,Ampatzis Panagiotis,Ampatzis Panagiotis,,,,E.DI.K.,edik,area/lesvos,Lesvos,Hellenic Parliament,1,1976-02-25,,,
@@ -22,7 +22,7 @@ ee86787f-5393-4910-8028-681939853323,Andrianopoulos Andreas,Andrianopoulos Andre
 03ba0f3b-f798-40b9-89d8-558a2b2c38e0,Anerousis Evangelos,Anerousis Evangelos,,,,N.D. (New Democracy),nd,area/cyclades,Cyclades,Hellenic Parliament,1,,,,
 832fc2ca-787f-484b-b815-f82959607311,Angelousis Angelos,Angelousis Angelos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/serres,Serres,Hellenic Parliament,1,,1976-02-24,,
 832fc2ca-787f-484b-b815-f82959607311,Angelousis Angelos,Angelousis Angelos,,,,E.DI.K.,edik,area/serres,Serres,Hellenic Parliament,1,1976-02-25,,,
-3398f9f8-b564-4aab-ac25-57fbf854101f,Antoniadis Markos,Antoniadis Markos,,,,N.D. (New Democracy),nd,area/kavala,Kavala,Hellenic Parliament,1,,,,
+3398f9f8-b564-4aab-ac25-57fbf854101f,Antoniadis Markos,Antoniadis Markos,,,,N.D. (New Democracy),nd,area/kavala,Kavala,Hellenic Parliament,1,,,,male
 7707797b-7a6b-499b-8bcb-9c0e8cdc9825,Antoniou Aristotelis,Antoniou Aristotelis,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/trikala,Trikala,Hellenic Parliament,1,,1976-02-24,,
 7707797b-7a6b-499b-8bcb-9c0e8cdc9825,Antoniou Aristotelis,Antoniou Aristotelis,,,,E.DI.K.,edik,area/trikala,Trikala,Hellenic Parliament,1,1976-02-25,,,
 ea164b37-f519-4c35-9280-533dc87fe180,Antonopoulos Ioannis,Antonopoulos Ioannis,,,,N.D. (New Democracy),nd,area/magnesia,Magnesia,Hellenic Parliament,1,,,,male
@@ -38,15 +38,15 @@ fb3bdbd9-6245-42e2-836f-a9065fafc0a9,Averof - Tositsas Evangelos,Averof - Tosits
 fd3291b2-14f9-4db1-a848-943f73953bf5,Avramidis Alexandros,Avramidis Alexandros,,,,N.D. (New Democracy),nd,area/kilkis,Kilkis,Hellenic Parliament,1,,,,
 f1be3bf5-e397-4ab1-96d4-2c93adbb0a02,Bakatselos Georgios,Bakatselos Georgios,,,,N.D. (New Democracy),nd,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,,,male
 8a4bb5ec-6dde-4fed-b7b3-edcdb6d1a3eb,Ballas Themistoklis,Ballas Themistoklis,,,,N.D. (New Democracy),nd,area/karditsa,Karditsa,Hellenic Parliament,1,,,,
-3f7565e8-065d-4179-9e8d-0103dd5e1393,Baltatzis Alexandros,Baltatzis Alexandros,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/xanthi,Xanthi,Hellenic Parliament,1,,1976-02-24,,
-3f7565e8-065d-4179-9e8d-0103dd5e1393,Baltatzis Alexandros,Baltatzis Alexandros,,,,E.DI.K.,edik,area/xanthi,Xanthi,Hellenic Parliament,1,1976-02-25,,,
+3f7565e8-065d-4179-9e8d-0103dd5e1393,Baltatzis Alexandros,Baltatzis Alexandros,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/xanthi,Xanthi,Hellenic Parliament,1,,1976-02-24,,male
+3f7565e8-065d-4179-9e8d-0103dd5e1393,Baltatzis Alexandros,Baltatzis Alexandros,,,,E.DI.K.,edik,area/xanthi,Xanthi,Hellenic Parliament,1,1976-02-25,,,male
 eb1d903f-7187-4c7a-92cb-6069a533b456,Bantouvas Konstantinos,Bantouvas Konstantinos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/iraklio,Iraklio,Hellenic Parliament,1,,1976-02-24,,
 eb1d903f-7187-4c7a-92cb-6069a533b456,Bantouvas Konstantinos,Bantouvas Konstantinos,,,,E.DI.K.,edik,area/iraklio,Iraklio,Hellenic Parliament,1,1976-02-25,,,
 26006ec8-6e93-437f-98b1-21aa64e83019,Bekiris Vasileios,Bekiris Vasileios,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,1,,,,
 af2256c1-9ee5-4ff4-8fb5-90bd99728722,Bletsas Stylianos,Bletsas Stylianos,,,,N.D. (New Democracy),nd,area/rodopi,Rodopi,Hellenic Parliament,1,,,,
 20b386f8-ed72-4f24-86fd-14909877873b,Bouga Tarsi,Bouga Tarsi,,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_piraeus,Rest of former Municipality of Piraeus,Hellenic Parliament,1,,,,
 5fa71ecf-a113-4405-b703-7d6b26f8cf48,Bournias Leonidas,Bournias Leonidas,,,,N.D. (New Democracy),nd,area/chios,Chios,Hellenic Parliament,1,,,,
-a9f33f73-1f35-47d6-9046-86a8ef4e661a,Boutos Ioannis,Boutos Ioannis,,,,N.D. (New Democracy),nd,area/messinia,Messinia,Hellenic Parliament,1,,,,
+a9f33f73-1f35-47d6-9046-86a8ef4e661a,Boutos Ioannis,Boutos Ioannis,,,,N.D. (New Democracy),nd,area/messinia,Messinia,Hellenic Parliament,1,,,,male
 76687f78-ef4d-4fe4-bf2a-6d7d42b3f324,Brisimis Nikolaos,Brisimis Nikolaos,,,,N.D. (New Democracy),nd,area/magnesia,Magnesia,Hellenic Parliament,1,,,,
 8cd17ab4-5b60-4c67-bcb8-483fd746d6b3,Chalikiopoulos Georgios,Chalikiopoulos Georgios,,,,N.D. (New Democracy),nd,area/corfu,Corfu,Hellenic Parliament,1,,,,
 1fd97b4c-85d9-4fdc-911d-2fd412b539fa,Charalampopoulos Ioannis,Charalampopoulos Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,,male
@@ -62,7 +62,7 @@ e37527df-2f4e-4bb8-a633-87b71f17e8c4,Chloros Dimitrios,Chloros Dimitrios,,,,N.D.
 55482fc7-7e65-4382-8e4f-e823bbde7736,Choutas Stylianos,Choutas Stylianos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,1,,1976-02-24,,
 55482fc7-7e65-4382-8e4f-e823bbde7736,Choutas Stylianos,Choutas Stylianos,,,,E.DI.K.,edik,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,1,1976-02-25,,,
 38f654d5-34eb-414d-8809-1874230f1bd3,Christoglou Ioannis,Christoglou Ioannis,,,,N.D. (New Democracy),nd,area/serres,Serres,Hellenic Parliament,1,,,,
-dbfbd01e-d539-494d-8847-59dc7e0cead9,Christopoulos Konstantinos,Christopoulos Konstantinos,,,,N.D. (New Democracy),nd,area/korinthia,Korinthia,Hellenic Parliament,1,,,,
+dbfbd01e-d539-494d-8847-59dc7e0cead9,Christopoulos Konstantinos,Christopoulos Konstantinos,,,,N.D. (New Democracy),nd,area/korinthia,Korinthia,Hellenic Parliament,1,,,,male
 7a818e49-dd47-444d-9110-3afcfa2e060f,Chrysanthopoulos Konstantinos,Chrysanthopoulos Konstantinos,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,
 0d5545d8-8716-4f83-9659-608195f6088b,Dalakouras Georgios,Dalakouras Georgios,,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,,male
 8196a47c-bff2-4135-babd-7879f49dd09e,Davakis Dimitrios,Davakis Dimitrios,,,,N.D. (New Democracy),nd,area/lakonia,Lakonia,Hellenic Parliament,1,,,,
@@ -85,10 +85,10 @@ bb3337ca-1728-4470-83eb-1527bb75657d,Evangeliou Dimitrios,Evangeliou Dimitrios,,
 db9f446b-8802-4a91-a898-fdaaa1adeefc,Evrygenis Dimitrios,Evrygenis Dimitrios,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,,,,
 93a63f41-992b-4b97-af73-34d989379d91,Farakos Grigorios,Farakos Grigorios,,,,K.K.E. (Communist Party of Greece),kke,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,
 6679ab2c-24d2-4aef-b0ee-cfd1454695fe,Fasoulas Vasileios,Fasoulas Vasileios,,,,N.D. (New Democracy),nd,area/larissa,Larissa,Hellenic Parliament,1,,,,
-b1c32132-8a7d-42a8-b9d8-6d6625927cef,Fikioris Ioannis,Fikioris Ioannis,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,
+b1c32132-8a7d-42a8-b9d8-6d6625927cef,Fikioris Ioannis,Fikioris Ioannis,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,male
 b9892c04-24a1-4288-8d61-8f703e88b931,Filippidis Argyrios,Filippidis Argyrios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/magnesia,Magnesia,Hellenic Parliament,1,,1976-02-24,,
 b9892c04-24a1-4288-8d61-8f703e88b931,Filippidis Argyrios,Filippidis Argyrios,,,,E.DI.K.,edik,area/magnesia,Magnesia,Hellenic Parliament,1,1976-02-25,,,
-f1b5cf4a-cc5e-4b7d-ba2e-d09816153023,Filippidis Athanasios,Filippidis Athanasios,,,,N.D. (New Democracy),nd,area/halkidiki,Halkidiki,Hellenic Parliament,1,,,,
+f1b5cf4a-cc5e-4b7d-ba2e-d09816153023,Filippidis Athanasios,Filippidis Athanasios,,,,N.D. (New Democracy),nd,area/halkidiki,Halkidiki,Hellenic Parliament,1,,,,male
 94d6abe8-fa81-4f6b-b624-e71f689b91d1,Florakis Ηarilaos,Florakis Ηarilaos,,,,K.K.E. (Communist Party of Greece),kke,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/c/c3/Charilaos_Florakis.JPG,male
 84674221-93a1-43eb-8902-13b8899241fe,Floros Ioannis,Floros Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/larissa,Larissa,Hellenic Parliament,1,,,,
 aebd0751-8ba1-41d3-bb95-81d6794bfdb3,Fragkos Dimitrios,Fragkos Dimitrios,,,,N.D. (New Democracy),nd,area/attica,Attica,Hellenic Parliament,1,,,,
@@ -116,7 +116,7 @@ ed09e35d-36b0-40cc-966a-65ba435e51d3,Ioannou Christos,Ioannou Christos,,,,N.D. (
 87912b07-9e09-4dbc-ba19-bbae06b624df,Iordanidis Georgios,Iordanidis Georgios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/state,State,Hellenic Parliament,1,,1976-02-24,,
 87912b07-9e09-4dbc-ba19-bbae06b624df,Iordanidis Georgios,Iordanidis Georgios,,,,E.DI.K.,edik,area/state,State,Hellenic Parliament,1,1976-02-25,1977-01-30,,
 87912b07-9e09-4dbc-ba19-bbae06b624df,Iordanidis Georgios,Iordanidis Georgios,,,,E.DI.K.,edik,area/state,State,Hellenic Parliament,1,1977-01-31,,,
-6246d6af-45ce-43a5-9372-7517d9ea182c,Iordanoglou Ippokratis,Iordanoglou Ippokratis,,,,N.D. (New Democracy),nd,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,,,
+6246d6af-45ce-43a5-9372-7517d9ea182c,Iordanoglou Ippokratis,Iordanoglou Ippokratis,,,,N.D. (New Democracy),nd,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,,,male
 7cb0b331-60ef-4cae-8e77-9750798e1b49,Kakaras Michail,Kakaras Michail,,,,N.D. (New Democracy),nd,area/evia,Evia,Hellenic Parliament,1,,,,
 669e3b08-3300-49f8-9530-989339801882,Kakaris Christos,Kakaris Christos,,,,N.D. (New Democracy),nd,area/attica,Attica,Hellenic Parliament,1,,,,
 9a889bce-e979-4f86-9877-5c40bf81e2e9,Kaklamanis Apostolos,Kaklamanis Apostolos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/6/65/Apostolos_Kaklamanis_in_2008.JPG,male
@@ -150,10 +150,10 @@ c3f19c94-f3e3-47b5-89df-ac52d81036bc,Kavaratzis Ioannis,Kavaratzis Ioannis,,,,N.
 a6670c6f-2816-471d-b536-066cbddafbab,Kleitos Nikolaos,Kleitos Nikolaos,,,,N.D. (New Democracy),nd,area/serres,Serres,Hellenic Parliament,1,,,,
 d77af025-c42d-45d7-9b6a-3161b7afd4a2,Kokkevis Andreas,Kokkevis Andreas,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/messinia,Messinia,Hellenic Parliament,1,,1976-02-24,,
 d77af025-c42d-45d7-9b6a-3161b7afd4a2,Kokkevis Andreas,Kokkevis Andreas,,,,E.DI.K.,edik,area/messinia,Messinia,Hellenic Parliament,1,1976-02-25,,,
-25fe702e-3312-483c-9d6f-9d03073e8b9f,Koniotakis Konstantinos,Koniotakis Konstantinos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/iraklio,Iraklio,Hellenic Parliament,1,,1976-02-24,,
-25fe702e-3312-483c-9d6f-9d03073e8b9f,Koniotakis Konstantinos,Koniotakis Konstantinos,,,,E.DI.K.,edik,area/iraklio,Iraklio,Hellenic Parliament,1,1976-02-25,,,
+25fe702e-3312-483c-9d6f-9d03073e8b9f,Koniotakis Konstantinos,Koniotakis Konstantinos,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/iraklio,Iraklio,Hellenic Parliament,1,,1976-02-24,,male
+25fe702e-3312-483c-9d6f-9d03073e8b9f,Koniotakis Konstantinos,Koniotakis Konstantinos,,,,E.DI.K.,edik,area/iraklio,Iraklio,Hellenic Parliament,1,1976-02-25,,,male
 2023712b-4baf-45cc-a1f0-62ea6b518821,Konitsas Themistoklis,Konitsas Themistoklis,,,,N.D. (New Democracy),nd,area/viotia,Viotia,Hellenic Parliament,1,,,,
-822001b2-1486-4df2-a179-6547394097a6,Konofagos Konstantinos,Konofagos Konstantinos,,,,N.D. (New Democracy),nd,area/preveza,Preveza,Hellenic Parliament,1,,,,
+822001b2-1486-4df2-a179-6547394097a6,Konofagos Konstantinos,Konofagos Konstantinos,,,,N.D. (New Democracy),nd,area/preveza,Preveza,Hellenic Parliament,1,,,,male
 272f6e50-cafb-4391-a865-ba2fa4501150,Konstantinidis Athanasios,Konstantinidis Athanasios,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,1,,,,
 95833836-3ffb-461a-8194-a201e78c69ac,Kontaxis Athanasios,Kontaxis Athanasios,,,,N.D. (New Democracy),nd,area/arta,Arta,Hellenic Parliament,1,,,,
 150e63a7-f056-4485-a523-7eeb4d650e96,Kontogiannopoulos Vasileios,Kontogiannopoulos Vasileios,,,,N.D. (New Democracy),nd,area/ileia,Ileia,Hellenic Parliament,1,,,,
@@ -188,8 +188,8 @@ e57c89a6-7c7d-4c18-a58b-de7f04c3d518,Magkakis Georgios - Alexandros,Magkakis Geo
 e1577043-4749-4de4-8ac4-8cde718a4340,Makris Michail,Makris Michail,,,,N.D. (New Democracy),nd,area/grevena,Grevena,Hellenic Parliament,1,,,,
 a0a8a9d2-9e00-4e5f-903f-f7480646bc52,Manavis Theocharis,Manavis Theocharis,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,1976-02-24,,
 a0a8a9d2-9e00-4e5f-903f-f7480646bc52,Manavis Theocharis,Manavis Theocharis,,,,E.DI.K.,edik,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,1976-02-25,,,
-24d8dcd3-6961-4dcd-9087-519fd6898b57,Manentis Dionysios,Manentis Dionysios,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,,1975-04-19,,
-24d8dcd3-6961-4dcd-9087-519fd6898b57,Manentis Dionysios,Manentis Dionysios,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,1975-04-20,,,
+24d8dcd3-6961-4dcd-9087-519fd6898b57,Manentis Dionysios,Manentis Dionysios,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,,1975-04-19,,male
+24d8dcd3-6961-4dcd-9087-519fd6898b57,Manentis Dionysios,Manentis Dionysios,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,1975-04-20,,,male
 5695bab1-ca91-4d3a-ac4d-ec6e96773129,Mantzaris Dimitrios,Mantzaris Dimitrios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/trikala,Trikala,Hellenic Parliament,1,,1976-02-24,,
 5695bab1-ca91-4d3a-ac4d-ec6e96773129,Mantzaris Dimitrios,Mantzaris Dimitrios,,,,E.DI.K.,edik,area/trikala,Trikala,Hellenic Parliament,1,1976-02-25,,,
 70c984b0-0c0d-4b9a-ba44-c21eab33489e,Margaris Ioannis,Margaris Ioannis,,,,N.D. (New Democracy),nd,area/zakynthos,Zakynthos,Hellenic Parliament,1,,,,
@@ -216,8 +216,8 @@ ba1ddf78-fcc8-45b3-9057-4e5e64056d1c,Nerantzis Anastasios,Nerantzis Anastasios,,
 a01aa266-6534-4b76-b889-941977028d78,Nianias Dimitrios,Nianias Dimitrios,,,,N.D. (New Democracy),nd,area/lesvos,Lesvos,Hellenic Parliament,1,,,,male
 e93f1d15-4ddf-4944-8f03-400e02f4ed29,Nikolopoulos Panagiotis,Nikolopoulos Panagiotis,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,1,,1975-03-28,,
 e93f1d15-4ddf-4944-8f03-400e02f4ed29,Nikolopoulos Panagiotis,Nikolopoulos Panagiotis,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,1,1975-03-29,,,
-4ac0ffeb-cc84-48a1-a2df-ff5f97fb2355,Ntentidakis Antonios,Ntentidakis Antonios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,1976-02-24,,
-4ac0ffeb-cc84-48a1-a2df-ff5f97fb2355,Ntentidakis Antonios,Ntentidakis Antonios,,,,E.DI.K.,edik,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,1976-02-25,,,
+4ac0ffeb-cc84-48a1-a2df-ff5f97fb2355,Ntentidakis Antonios,Ntentidakis Antonios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,1976-02-24,,male
+4ac0ffeb-cc84-48a1-a2df-ff5f97fb2355,Ntentidakis Antonios,Ntentidakis Antonios,,,,E.DI.K.,edik,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,1976-02-25,,,male
 8f617278-b642-43d5-9621-ac6fa97df9c6,Oikonomopoulos Ilias,Oikonomopoulos Ilias,,,,N.D. (New Democracy),nd,area/argolida,Argolida,Hellenic Parliament,1,,,,
 52d0311a-83d7-4cdc-8693-531e6f86e395,Panagiotopoulos Georgios,Panagiotopoulos Georgios,,,,N.D. (New Democracy),nd,area/kavala,Kavala,Hellenic Parliament,1,,,,male
 2caffaee-13ad-4c9a-8988-51a3d78c2906,Panagoulis Alexandros,Panagoulis Alexandros,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,1976-02-24,https://upload.wikimedia.org/wikipedia/commons/e/e2/Panagulis.jpg,male
@@ -237,7 +237,7 @@ bc1b6454-cdce-4cd4-9025-023aaae65e99,Papadopoulos Charalampos,Papadopoulos Chara
 1600be38-edf5-4615-85e9-4110236a29fd,Papadopoulos Georgios,Papadopoulos Georgios,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,,,,
 0a330da8-3aea-47e0-8803-51f7dda9f33e,Papadopoulos Ioannis,Papadopoulos Ioannis,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/evros,Evros,Hellenic Parliament,1,,1976-02-24,,
 0a330da8-3aea-47e0-8803-51f7dda9f33e,Papadopoulos Ioannis,Papadopoulos Ioannis,,,,E.DI.K.,edik,area/evros,Evros,Hellenic Parliament,1,1976-02-25,,,
-6c359007-a2d1-4e9c-b02b-6507ad1b9d2c,Papageorgiou Georgios,Papageorgiou Georgios,,,,N.D. (New Democracy),nd,area/of_thessaloniki_(rest),Of Thessaloniki (rest),Hellenic Parliament,1,,,,
+6c359007-a2d1-4e9c-b02b-6507ad1b9d2c,Papageorgiou Georgios,Papageorgiou Georgios,,,,N.D. (New Democracy),nd,area/of_thessaloniki_(rest),Of Thessaloniki (rest),Hellenic Parliament,1,,,,male
 487b6695-7993-48da-83da-39905a6ded9c,Papagiannis Dimitrios,Papagiannis Dimitrios,,,,N.D. (New Democracy),nd,area/larissa,Larissa,Hellenic Parliament,1,,,,
 620f983b-d4d0-4399-b2b5-f76d9a7db20e,Papagiannis Michail,Papagiannis Michail,,,,N.D. (New Democracy),nd,area/attica,Attica,Hellenic Parliament,1,,,,
 85951f61-ea11-4611-8933-ddd2e2154d71,Papagiavis Georgios,Papagiavis Georgios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/achaia,Achaia,Hellenic Parliament,1,,1976-02-24,,
@@ -260,7 +260,7 @@ bcc6d070-3e05-4013-ae20-1014d3440d4a,Papapolitis Nikolaos,Papapolitis Nikolaos,,
 3b83113d-877f-4907-8597-8cbb1212edff,Papapolitis Sotirios,Papapolitis Sotirios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,1976-02-24,,
 3b83113d-877f-4907-8597-8cbb1212edff,Papapolitis Sotirios,Papapolitis Sotirios,,,,E.DI.K.,edik,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,1976-02-25,,,
 f407cb52-98d8-4e05-84e4-96bed6a685cb,Paparrigopoulos Konstantinos,Paparrigopoulos Konstantinos,,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,,
-7a7a1942-a484-4897-95a3-83016e0764af,Papaspyrou Georgiou Dimitrios,Papaspyrou Georgiou Dimitrios,,,,N.D. (New Democracy),nd,area/viotia,Viotia,Hellenic Parliament,1,,,,
+7a7a1942-a484-4897-95a3-83016e0764af,Papaspyrou Georgiou Dimitrios,Papaspyrou Georgiou Dimitrios,,,,N.D. (New Democracy),nd,area/viotia,Viotia,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/8/84/Dimitrios_Papaspirou_crop.JPG,male
 2552f8d4-6b34-41db-a090-a174459f0123,Papaspyrou Ioannis,Papaspyrou Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/of_piraeus_and_islands,Of Piraeus and Islands,Hellenic Parliament,1,,,,male
 c06c6f95-58fa-4857-a6ba-552832fe364c,Papastergiou Grigorios,Papastergiou Grigorios,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/magnesia,Magnesia,Hellenic Parliament,1,,1976-02-24,,
 c06c6f95-58fa-4857-a6ba-552832fe364c,Papastergiou Grigorios,Papastergiou Grigorios,,,,E.DI.K.,edik,area/magnesia,Magnesia,Hellenic Parliament,1,1976-02-25,,,
@@ -320,23 +320,23 @@ f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,Stasinopoulos Michail
 f5327e7f-57ab-404f-8622-af46ddb1a139,Stasinopoulos Michail,Stasinopoulos Michail,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,1974-12-18,,,male
 8f661215-6579-4552-9104-4e5c85e5f024,Stathopoulos Ioannis,Stathopoulos Ioannis,,,,N.D. (New Democracy),nd,area/lakonia,Lakonia,Hellenic Parliament,1,,,,
 0c9a1dd3-6533-4e62-8037-bfe282ef0197,Stavropoulos Konstantinos,Stavropoulos Konstantinos,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,,,,
-c75474d9-3651-4318-8eee-c1a3d40dc435,Stefanakis Konstantinos,Stefanakis Konstantinos,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,
-3bdd006e-e8b1-4066-804f-fe2fbef727c6,Stefanidis Michail,Stefanidis Michail,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/evia,Evia,Hellenic Parliament,1,,1976-02-24,,
-3bdd006e-e8b1-4066-804f-fe2fbef727c6,Stefanidis Michail,Stefanidis Michail,,,,E.DI.K.,edik,area/evia,Evia,Hellenic Parliament,1,1976-02-25,,,
+c75474d9-3651-4318-8eee-c1a3d40dc435,Stefanakis Konstantinos,Stefanakis Konstantinos,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,male
+3bdd006e-e8b1-4066-804f-fe2fbef727c6,Stefanidis Michail,Stefanidis Michail,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/evia,Evia,Hellenic Parliament,1,,1976-02-24,,male
+3bdd006e-e8b1-4066-804f-fe2fbef727c6,Stefanidis Michail,Stefanidis Michail,,,,E.DI.K.,edik,area/evia,Evia,Hellenic Parliament,1,1976-02-25,,,male
 0067f43b-4d76-46d5-89f2-6a71f7e236e8,Stefanopoulos Konstantinos,Stefanopoulos Konstantinos,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/0/04/Kostis_stephanopoulos.jpg,male
 66fc815e-5ece-4de6-91c5-564d73819d6c,Stefanopoulos Theodoros - Stefanos,Stefanopoulos Theodoros - Stefanos,,,,N.D. (New Democracy),nd,area/ileia,Ileia,Hellenic Parliament,1,,,,
 f37f555d-ffbf-4357-ba92-80e8f00c0a54,Stratos Christoforos,Stratos Christoforos,,,,N.D. (New Democracy),nd,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,1,,,,
 61b9f74b-05c9-4bf4-a088-005b0261212e,Synodinou Anna,Synodinou Anna,,,,N.D. (New Democracy),nd,area/municipality_of_athens,Municipality of Athens,Hellenic Parliament,1,,,,female
 1956001d-f461-478b-846b-1d1e40076022,Tachyridis Athanasios,Tachyridis Athanasios,,,,N.D. (New Democracy),nd,area/drama,Drama,Hellenic Parliament,1,,,,
-41e28f11-36f2-43dd-b19f-cc61eb844b47,Taliadouros Athanasios,Taliadouros Athanasios,,,,N.D. (New Democracy),nd,area/karditsa,Karditsa,Hellenic Parliament,1,,,,
+41e28f11-36f2-43dd-b19f-cc61eb844b47,Taliadouros Athanasios,Taliadouros Athanasios,,,,N.D. (New Democracy),nd,area/karditsa,Karditsa,Hellenic Parliament,1,,,,male
 32d8a1bc-b17b-49f7-bf30-fdb0693810ad,Tataridis Stavros,Tataridis Stavros,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,1,,,,
-41836ddf-f27e-4417-95cb-97a4c1430b38,Tavlarios Ippokratis,Tavlarios Ippokratis,,,,N.D. (New Democracy),nd,area/dodecanese_islands,Dodecanese Islands,Hellenic Parliament,1,,,,
+41836ddf-f27e-4417-95cb-97a4c1430b38,Tavlarios Ippokratis,Tavlarios Ippokratis,,,,N.D. (New Democracy),nd,area/dodecanese_islands,Dodecanese Islands,Hellenic Parliament,1,,,,male
 b22f13f9-3f37-48c6-9282-7bb03f097faa,Theotokis Spyridon,Theotokis Spyridon,,,,N.D. (New Democracy),nd,area/corfu,Corfu,Hellenic Parliament,1,,1974-12-11,,
 b22f13f9-3f37-48c6-9282-7bb03f097faa,Theotokis Spyridon,Theotokis Spyridon,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/corfu,Corfu,Hellenic Parliament,1,1974-12-12,,,
 1402b8e2-b500-4b4e-ba0d-1ce449453943,Toumpas Ioannis,Toumpas Ioannis,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,1975-06-19,,,
 1e8ecca9-31fb-42eb-91f5-5d6266d3cb75,Tourikis Panagiotis,Tourikis Panagiotis,,,,N.D. (New Democracy),nd,area/viotia,Viotia,Hellenic Parliament,1,,,,
 9e3f1f1e-e28f-47bd-a2db-2601dc3f67c4,Tragakis Ioannis,Tragakis Ioannis,i.tragakis@gmail.com,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_piraeus,Rest of former Municipality of Piraeus,Hellenic Parliament,1,,,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tragakis03.jpg,male
-212beb78-3cde-4794-8b46-d67e601b50e8,Triantafyllou Konstantinos,Triantafyllou Konstantinos,,,,N.D. (New Democracy),nd,area/fthiotida,Fthiotida,Hellenic Parliament,1,,,,
+212beb78-3cde-4794-8b46-d67e601b50e8,Triantafyllou Konstantinos,Triantafyllou Konstantinos,,,,N.D. (New Democracy),nd,area/fthiotida,Fthiotida,Hellenic Parliament,1,,,,male
 9fef67d7-390d-43c5-9c64-8de56ec45f4a,Trikoupis Konstantinos,Trikoupis Konstantinos,,,,N.D. (New Democracy),nd,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,1,,,,
 ffe2f88d-813f-4a75-a734-99ad806bb9c9,Trypanis Konstantinos,Trypanis Konstantinos,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,,,,male
 eb06d9c6-94ff-4584-98d5-c45aa96a60a8,Tsakiridis Pavlos,Tsakiridis Pavlos,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,,,,
@@ -351,7 +351,7 @@ dcc1ee9d-b0b8-4809-a0d1-e2d3b8f3fb09,Tsantoulas Christoforos,Tsantoulas Christof
 7590fa03-5c05-42d4-a497-bb62d551aa8f,Tsouderou Virginia,Tsouderou Virginia,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,1976-02-24,,female
 7590fa03-5c05-42d4-a497-bb62d551aa8f,Tsouderou Virginia,Tsouderou Virginia,,,,E.DI.K.,edik,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,1976-02-25,,,female
 fe309b86-0bba-4227-8263-62b6459e8b06,Tsoukantas Athanasios,Tsoukantas Athanasios,,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,,
-64d9c851-0bd3-4618-89fa-a40d7c75e9fb,Tzitzikostas Georgios,Tzitzikostas Georgios,,,,N.D. (New Democracy),nd,area/of_thessaloniki_(rest),Of Thessaloniki (rest),Hellenic Parliament,1,,,,
+64d9c851-0bd3-4618-89fa-a40d7c75e9fb,Tzitzikostas Georgios,Tzitzikostas Georgios,,,,N.D. (New Democracy),nd,area/of_thessaloniki_(rest),Of Thessaloniki (rest),Hellenic Parliament,1,,,,male
 43ea2c8b-d531-445e-8aa2-6a47b702fe46,Vagiatis Ioannis,Vagiatis Ioannis,,,,N.D. (New Democracy),nd,area/kozani,Kozani,Hellenic Parliament,1,,,,
 0663b279-e72c-4672-a891-a2c7abdfdb7b,Vardakas Michail,Vardakas Michail,,,,N.D. (New Democracy),nd,area/of_thessaloniki_(rest),Of Thessaloniki (rest),Hellenic Parliament,1,,,,
 450d235d-5109-4bf1-bdf8-98d124fb207a,Varvitsiotis Ioannis,Varvitsiotis Ioannis,,,,N.D. (New Democracy),nd,area/rest_of_former_municipality_of_athens,Rest of former Municipality of Athens,Hellenic Parliament,1,,,https://upload.wikimedia.org/wikipedia/commons/c/cf/Ioannis_Varvitsiotis1.png,male
@@ -360,7 +360,7 @@ fe309b86-0bba-4227-8263-62b6459e8b06,Tsoukantas Athanasios,Tsoukantas Athanasios
 68a10ef7-a806-4561-9040-5a63161c46b5,Venizelos Nikitas,Venizelos Nikitas,,,,Union of the Democratic Centre,unionofthedemocraticcentre,area/chania,Chania,Hellenic Parliament,1,,1976-02-24,,male
 68a10ef7-a806-4561-9040-5a63161c46b5,Venizelos Nikitas,Venizelos Nikitas,,,,E.DI.K.,edik,area/chania,Chania,Hellenic Parliament,1,1976-02-25,,,male
 b4a6d1db-8b8c-4e8f-b93f-2b1906a0f98c,Vgenopoulos Nikolaos,Vgenopoulos Nikolaos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/achaia,Achaia,Hellenic Parliament,1,,,,male
-45b1d250-a366-469b-9985-54068953e373,Vigellis Nikolaos,Vigellis Nikolaos,,,,N.D. (New Democracy),nd,area/lesvos,Lesvos,Hellenic Parliament,1,,,,
+45b1d250-a366-469b-9985-54068953e373,Vigellis Nikolaos,Vigellis Nikolaos,,,,N.D. (New Democracy),nd,area/lesvos,Lesvos,Hellenic Parliament,1,,,,male
 7237f4f4-d3b5-405f-ada6-dd5ad7af5ebe,Vlachopoulos Dimitrios,Vlachopoulos Dimitrios,,,,N.D. (New Democracy),nd,area/imathia,Imathia,Hellenic Parliament,1,,,,
 4b6bc11f-78ad-4929-971e-55444ef52c3a,Vlachou-Loundra Eleni,Vlachou-Loundra Eleni,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,,,,
 3250231d-6943-44bd-8db0-ae2a4e4641ac,Vogiatzis Georgios,Vogiatzis Georgios,,,,N.D. (New Democracy),nd,area/evia,Evia,Hellenic Parliament,1,,,,
@@ -374,6 +374,6 @@ b4a6d1db-8b8c-4e8f-b93f-2b1906a0f98c,Vgenopoulos Nikolaos,Vgenopoulos Nikolaos,,
 2688c608-4e5b-4e61-a901-3e102e888a17,Zaimis Andreas,Zaimis Andreas,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,1,,,,
 f26f1ff3-cdcd-43c8-8a93-71ade32e03b2,Zakythinos Dionysios,Zakythinos Dionysios,,,,N.D. (New Democracy),nd,area/state,State,Hellenic Parliament,1,,,,male
 a108430f-48ff-4e08-b3b1-0760e0c74b74,Zannis Emmanouil,Zannis Emmanouil,,,,N.D. (New Democracy),nd,area/dodecanese_islands,Dodecanese Islands,Hellenic Parliament,1,,,,
-e7c42981-e522-406c-bbb4-bbfa3e370513,Zarntinidis Nikolaos,Zarntinidis Nikolaos,,,,N.D. (New Democracy),nd,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,,,
+e7c42981-e522-406c-bbb4-bbfa3e370513,Zarntinidis Nikolaos,Zarntinidis Nikolaos,,,,N.D. (New Democracy),nd,area/municipality_of_thessaloniki,Municipality of Thessaloniki,Hellenic Parliament,1,,,,male
 279671a2-7ac2-4d64-bad7-e438db3f1488,Ziogas Ilias,Ziogas Ilias,,,,N.D. (New Democracy),nd,area/karditsa,Karditsa,Hellenic Parliament,1,,,,
 57bb1ff6-8075-4447-8339-2b032052083c,Zografos Antigonos,Zografos Antigonos,,,,N.D. (New Democracy),nd,area/pella,Pella,Hellenic Parliament,1,,,,
