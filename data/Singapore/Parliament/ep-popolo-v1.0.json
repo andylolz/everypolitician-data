@@ -201,11 +201,59 @@
       ]
     },
     {
+      "birth_date": "1915-02-25",
+      "death_date": "2006-02-22",
+      "gender": "male",
+      "given_name": "S.",
       "id": "0240f755-a67d-4b04-9dbb-c987b62e0e9d",
       "identifiers": [
         {
           "identifier": "rajaratnam,-s-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1428052",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/08pvxz",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "119074559",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8200 5008",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n86035999",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000015965",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "1498260",
+          "scheme": "nlatrove"
+        },
+        {
+          "identifier": "w6sb4r6q",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "12343825X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "15571849",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q337799",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/srajaratnam.gif",
@@ -214,7 +262,117 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/srajaratnam.gif"
         }
       ],
-      "name": "Rajaratnam, S"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sinnathamby_Rajaratnam"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/S._Rajaratnam"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Sinnathamby_Rajaratnam"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Sinnathamby_Rajaratnam"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/S._Rajaratnam"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Раджаратнам,_Синнатамби"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/சி._இராசரத்தினம்"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/拉惹勒南"
+        }
+      ],
+      "name": "Rajaratnam, S",
+      "other_names": [
+        {
+          "name": "S. Rajaratnam",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sinnathamby Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sinnathamby Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "S・ラジャラトナム",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "S. Rajaratnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Раджаратнам, Синнатамби",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சி. இராசரத்தினம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "信那谈比·拉惹勒南",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-10-22",
@@ -941,27 +1099,92 @@
       ]
     },
     {
+      "birth_date": "1940-04-26",
+      "family_name": "Chen",
+      "gender": "male",
+      "given_name": "Tan",
       "id": "0fc3a68d-3d04-4f99-9830-6c980c669969",
       "identifiers": [
         {
           "identifier": "tan-cheng-bock-5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7682028",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/tanchengbock.gif",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/tanchengbock.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Dr-Tan-Cheng-Bock-at-home-on-Nomination-Day-1.png"
         }
       ],
-      "name": "Tan Cheng Bock"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tan_Cheng_Bock"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陈清木"
+        }
+      ],
+      "name": "Tan Cheng Bock",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tan Cheng Bock",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陈清木",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1930-01-29",
+      "death_date": "2016-07-21",
+      "gender": "male",
       "id": "0fd3ec2c-6da4-41eb-86db-ec1870937748",
       "identifiers": [
         {
           "identifier": "chor-yeok-eng-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23769866",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/choryeokeng.gif",
@@ -970,7 +1193,39 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/choryeokeng.gif"
         }
       ],
-      "name": "Chor Yeok Eng"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chor_Yeok_Eng"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Chor_Yeok_Eng"
+        }
+      ],
+      "name": "Chor Yeok Eng",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Chor Yeok Eng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chor Yeok Eng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Chor Yeok Eng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "曹煜英",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "0fd7da60-407b-4a22-87cb-0bb26cba07b2",
@@ -1216,11 +1471,17 @@
       ]
     },
     {
+      "birth_date": "1934",
+      "gender": "male",
       "id": "13147dcd-c9e4-4a6a-b166-bc49018f198e",
       "identifiers": [
         {
           "identifier": "ling-how-doong-8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6553695",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/linghowdoong.gif",
@@ -1229,7 +1490,45 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/linghowdoong.gif"
         }
       ],
-      "name": "Ling How Doong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ling_How_Doong"
+        }
+      ],
+      "name": "Ling How Doong",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ling How Doong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ling How Doong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ling How Doong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ling How Doong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ling How Doong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "林孝諄",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-07-19",
@@ -1915,11 +2214,46 @@
       ]
     },
     {
+      "birth_date": "1918-10-06",
+      "death_date": "2010-05-14",
+      "gender": "male",
       "id": "1cad4dd6-99bb-4022-a7ce-d7d26e21b967",
       "identifiers": [
         {
           "identifier": "goh-keng-swee-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1753720",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/02rn7y",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "130469459",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1497 0372",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n50039012",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "Goh-Keng-Swee",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "110036989",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q713486",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/gohkengswee.gif",
@@ -1928,7 +2262,152 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/gohkengswee.gif"
         }
       ],
-      "name": "Goh Keng Swee"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Го_Кен_Суи"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Goh_Keng_Swee"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Goh_Keng_Swee"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Goh_Keng_Swee"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/गोह्_केंग_स्वी"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Goh_Keng_Swee"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Goh_Keng_Swee"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Ngô_Khánh_Thụy"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吴庆瑞"
+        }
+      ],
+      "name": "Goh Keng Swee",
+      "other_names": [
+        {
+          "lang": "bg",
+          "name": "Го Кен Суи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ゴー・ケンスイ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "गोह् केंग स्वी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Goh Keng Swee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ngô Khánh Thụy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "吴庆瑞,",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "吴庆瑞",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "吳慶瑞",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "吳慶瑞",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1dbbcdb8-3924-4eef-95de-4cd9b6fddc54",
@@ -1963,20 +2442,451 @@
       "name": "Chew Chin Harn"
     },
     {
+      "birth_date": "1940-02-07",
+      "family_name": "Chen",
+      "gender": "male",
+      "given_name": "Tony",
       "id": "1e4900ae-73b6-4170-9f9d-855b52d402b6",
       "identifiers": [
         {
           "identifier": "tan-keng-yam,-tony-4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/061gdl",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2012007627",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "227756618",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q38987",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/tankengyamtony.gif",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/tankengyamtony.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Tony_Tan_20110623.jpg"
         }
       ],
-      "name": "Tan Keng Yam, Tony"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/توني_تان"
+        },
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Тоні_Тан"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/চেনচিনিয়েন"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tony_Tan"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Tony_Tan"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/تونی_تن"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Tony_Tan"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/トニー・タン"
+        },
+        {
+          "note": "Wikipedia (jv)",
+          "url": "https://jv.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ტონი_ტანი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/토니_탄_켕_얌"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Antonius_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ടോണി_ടാൻ_കെങ്_യാം"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/टोनी_तान_केंग_याम"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tony_Tan"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тони_Тан"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/டோனி_டேன்_கெங்_யம்"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/โทนี_ตัน_เค็ง_ยัม"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Тоні_Тан_Кен_Ям"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Trần_Khánh_Viêm"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Tony_Tan_Keng_Yam"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/陈庆炎"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Tân_Khèng-iām"
+        },
+        {
+          "note": "website",
+          "url": "http://www.istana.gov.sg/the-president/biography"
+        }
+      ],
+      "name": "Tan Keng Yam, Tony",
+      "other_names": [
+        {
+          "name": "Tony Tan Keng Yam",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "توني تان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Тоні Тан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "চেনচিনিয়েন",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Tony Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "تونی تن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tony Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トニー・タン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ტონი ტანი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "토니 탄 켕 얌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Antonius Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ടോണി ടാൻ കെങ് യാം",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "टोनी तान केंग याम",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Tân Khèng-iām",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тони Тан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "டோனி டேன் கெங் யம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "โทนี ตัน เค็ง ยัม",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Тоні Тан Кен Ям",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Trần Khánh Viêm",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Tony Tan Keng Yam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "陳慶炎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陈庆炎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "陈庆炎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "陈庆炎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "陳慶炎",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "陳慶炎",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1ee9fe3c-e8db-48fe-9ef3-16e66bdec871",
@@ -2532,11 +3442,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "2ad82755-6c78-48e1-8fe8-1718260914f5",
       "identifiers": [
         {
           "identifier": "cheo-chai-chen-8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5091569",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/cheochaichen.gif",
@@ -2545,7 +3460,50 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/cheochaichen.gif"
         }
       ],
-      "name": "Cheo Chai Chen"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cheo_Chai_Chen"
+        }
+      ],
+      "name": "Cheo Chai Chen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cheo Chai Chen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蔣才正",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-10-01",
@@ -2959,11 +3917,17 @@
       "name": "Ganesh Rajaram"
     },
     {
+      "gender": "male",
+      "given_name": "Abbas",
       "id": "34ca0428-a614-4b8d-b641-e6584d71e44a",
       "identifiers": [
         {
           "identifier": "abbas-abu-amin-5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4663710",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/abbasabuamin.gif",
@@ -2972,7 +3936,50 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/abbasabuamin.gif"
         }
       ],
-      "name": "Abbas Abu Amin"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abbas_Abu_Amin"
+        }
+      ],
+      "name": "Abbas Abu Amin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abbas Abu Amin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-10-30",
@@ -3364,11 +4371,34 @@
       "name": "Ramaswamy, S."
     },
     {
+      "birth_date": "1916-11-30",
+      "death_date": "2006-07-20",
+      "gender": "male",
       "id": "3979ab95-3e91-42d7-ac69-5e958d1e56cd",
       "identifiers": [
         {
           "identifier": "lim-kim-san-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/05z27s",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1013411625",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no2008005791",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "68727275",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1577210",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/limkimsan.gif",
@@ -3377,14 +4407,110 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/limkimsan.gif"
         }
       ],
-      "name": "Lim Kim San"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lim_Kim_San"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lim_Kim_San"
+        }
+      ],
+      "name": "Lim Kim San",
+      "other_names": [
+        {
+          "lang": "cy",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lim Kim San",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "林金山",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1924",
+      "death_date": "2016-02-27",
+      "family_name": "Li",
+      "gender": "male",
       "id": "398699c0-80da-4344-b24b-93b4d09b4f6f",
       "identifiers": [
         {
           "identifier": "lee-khoon-choy-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "123916",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "1011747421",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 1938 8074",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n82240612",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00447188",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "000450393",
+          "scheme": "nli"
+        },
+        {
+          "identifier": "151016763",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "09701852X",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "108679440",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6514298",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/leekhoonchoy.gif",
@@ -3393,7 +4519,53 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/leekhoonchoy.gif"
         }
       ],
-      "name": "Lee Khoon Choy"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lee_Khoon_Choy"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/リー・クーンチョイ"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/李炯才"
+        }
+      ],
+      "name": "Lee Khoon Choy",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lee Khoon Choy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lee Khoon Choy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lee Khoon Choy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リー・クーンチョイ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lee Khoon Choy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "李炯才",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "39d6a2ab-2da6-4efe-872d-a18971d2d113",
@@ -3460,11 +4632,18 @@
       "name": "Jessie Phua"
     },
     {
+      "birth_date": "1923-08-12",
+      "death_date": "2007-08-21",
+      "gender": "male",
       "id": "3c908f4d-3699-4d1a-ae45-00f42ef9536a",
       "identifiers": [
         {
           "identifier": "howe-yoon-chong-4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5921606",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/howeyoonchong.gif",
@@ -3473,14 +4652,53 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/howeyoonchong.gif"
         }
       ],
-      "name": "Howe Yoon Chong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Howe_Yoon_Chong"
+        }
+      ],
+      "name": "Howe Yoon Chong",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Howe Yoon Chong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Howe Yoon Chong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Howe Yoon Chong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハウ・ヨン・チュン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Howe Yoon Chong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1930",
+      "gender": "male",
       "id": "3d6c7df6-d35d-487a-a5aa-f6d69584b541",
       "identifiers": [
         {
           "identifier": "jek-yeun-thong-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23008530",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/jekyeunthong.gif",
@@ -3489,7 +4707,25 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/jekyeunthong.gif"
         }
       ],
-      "name": "Jek Yeun Thong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jek_Yeun_Thong"
+        }
+      ],
+      "name": "Jek Yeun Thong",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jek Yeun Thong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jek Yeun Thong",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977",
@@ -3921,11 +5157,16 @@
       "name": "Lau Ping Sum"
     },
     {
+      "gender": "male",
       "id": "446c6a64-12a8-4780-917e-b77d241c2dbf",
       "identifiers": [
         {
           "identifier": "yeo-ning-hong-5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8052401",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/yeoninghong.gif",
@@ -3934,7 +5175,30 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/yeoninghong.gif"
         }
       ],
-      "name": "Yeo Ning Hong"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yeo_Ning_Hong"
+        }
+      ],
+      "name": "Yeo Ning Hong",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yeo Ning Hong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yeo Ning Hong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ヨー・ニン・ホン",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "44976660-adc1-4cc6-a2b1-658f1af8e18b",
@@ -4405,11 +5669,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Lew",
       "id": "49df2df8-6c57-44e8-a99a-4d02698c7bbb",
       "identifiers": [
         {
           "identifier": "lew-syn-pau-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6536062",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/lewsynpau.gif",
@@ -4418,7 +5688,40 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/lewsynpau.gif"
         }
       ],
-      "name": "Lew Syn Pau"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lew_Syn_Pau"
+        }
+      ],
+      "name": "Lew Syn Pau",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lew Syn Pau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lew Syn Pau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lew Syn Pau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lew Syn Pau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lew Syn Pau",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-05-19",
@@ -5071,20 +6374,62 @@
       "name": "Yeoh Ghim Seng"
     },
     {
+      "birth_date": "1918-06-24",
+      "death_date": "2012-06-29",
+      "gender": "male",
       "id": "4fcb7e45-4bcc-4fc4-98de-63d31c3e6ef3",
       "identifiers": [
         {
           "identifier": "yong-nyuk-lin-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8054968",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/yongnyuklin_0.gif",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/yongnyuklin_0.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Yong_Nyuk_Lin_-_SFA008007059c.jpg"
         }
       ],
-      "name": "Yong Nyuk Lin"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yong_Nyuk_Lin"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yong_Nyuk_Lin"
+        }
+      ],
+      "name": "Yong Nyuk Lin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yong Nyuk Lin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yong Nyuk Lin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yong Nyuk Lin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yong Nyuk Lin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-10-24",
@@ -5901,11 +7246,18 @@
       ]
     },
     {
+      "birth_date": "1950-03-05",
+      "gender": "male",
+      "given_name": "Chay",
       "id": "5b802b39-c3ec-468d-a576-84dbe004f7e4",
       "identifiers": [
         {
           "identifier": "chay-wai-chuen-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5088602",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/chaywaichuen.gif",
@@ -5914,7 +7266,35 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/chaywaichuen.gif"
         }
       ],
-      "name": "Chay Wai Chuen"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chay_Wai_Chuen"
+        }
+      ],
+      "name": "Chay Wai Chuen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Chay Wai Chuen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chay Wai Chuen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chay Wai Chuen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chay Wai Chuen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "5c16caf3-70fa-4433-95d9-54d76969103c",
@@ -8416,11 +9796,18 @@
       "name": "Rodrigo, L.P."
     },
     {
+      "birth_date": "1917-11-01",
+      "death_date": "2002-07-18",
+      "gender": "male",
       "id": "82a4a00e-9c32-420c-993f-ff512759469f",
       "identifiers": [
         {
           "identifier": "lee-siew-choh,-dr-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16015553",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/leesiewchoh.gif",
@@ -8429,7 +9816,49 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/leesiewchoh.gif"
         }
       ],
-      "name": "Lee Siew Choh, Dr"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lee_Siew-Choh"
+        }
+      ],
+      "name": "Lee Siew Choh, Dr",
+      "other_names": [
+        {
+          "name": "Lee Siew-Choh",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lee Siew-Choh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lee Siew-Choh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lee Siew-Choh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "李紹祖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "李绍祖",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "李紹祖",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-06-27",
@@ -9712,11 +11141,26 @@
       "name": "Sidek Bin Saniff"
     },
     {
+      "birth_date": "1921-12-10",
+      "death_date": "2012-02-03",
+      "gender": "male",
       "id": "954c7764-4f33-4762-a3c0-97adeae41bb6",
       "identifiers": [
         {
           "identifier": "toh-chin-chye-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/08z4sf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "61341333",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q703209",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/tohchinchye.gif",
@@ -9725,7 +11169,130 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/tohchinchye.gif"
         }
       ],
-      "name": "Toh Chin Chye"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toh_Chin_Chye"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Toh_Chin_Chye"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/토흐친차이"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Toh_Chin_Chye"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Đỗ_Tiến_Tài"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/杜进才"
+        }
+      ],
+      "name": "Toh Chin Chye",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "トー・チンチェ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "토흐친차이",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Toh Chin Chye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Đỗ Tiến Tài",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "杜进才",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "杜进才",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "杜進才",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "杜進才",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9739b697-5212-435f-a91d-6de43a9a4a91",
@@ -9744,11 +11311,17 @@
       "name": "Lina Chiam"
     },
     {
+      "birth_date": "1947-01-01",
+      "gender": "male",
       "id": "986dbc35-b97e-4df8-8b5e-d9a9f7fcbbfe",
       "identifiers": [
         {
           "identifier": "peh-chin-hua-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24809989",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/pehchinhua.gif",
@@ -9757,7 +11330,35 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/pehchinhua.gif"
         }
       ],
-      "name": "Peh Chin Hua"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peh_Chin_Hua"
+        }
+      ],
+      "name": "Peh Chin Hua",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peh Chin Hua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peh Chin Hua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "白振华先生",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "白振華先生",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "990fc88e-71d4-405c-921b-17f663a60822",
@@ -10869,11 +12470,50 @@
       ]
     },
     {
+      "birth_date": "1936-01-22",
+      "death_date": "2002-02-08",
+      "gender": "male",
       "id": "a2cf3766-85ea-4e06-938c-2a79f5190a98",
       "identifiers": [
         {
           "identifier": "ong-teng-cheong-3",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "64913",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/02jhbs",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "13269753X",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0001 0955 9757",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n80157759",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000020821",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "Ong-Teng-Cheong",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "13623315",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q543664",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/ongtengcheong_0.gif",
@@ -10882,7 +12522,219 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/ongtengcheong_0.gif"
         }
       ],
-      "name": "Ong Teng Cheong"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أونج_تنغ_تشيونغ"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ওং_তিং_ছয়ং"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/옹텅청"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ong_Teng_Cheong"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ออง_เท็ง_เชียง"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Vương_Đỉnh_Xương"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/王鼎昌"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Ông_Téng-chhiong"
+        }
+      ],
+      "name": "Ong Teng Cheong",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "أونج تنغ تشيونغ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ওং তিং ছয়ং",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オン・テンチョン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "옹텅청",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ong Teng Cheong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஓங் டெங் சியோங்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ออง เท็ง เชียง",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Vương Đỉnh Xương",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "王鼎昌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "王鼎昌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "王鼎昌",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "王鼎昌",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -11282,20 +13134,180 @@
       "name": "Ngeow Pack Hua"
     },
     {
+      "birth_date": "1926-01-05",
+      "death_date": "2008-09-30",
+      "gender": "male",
+      "given_name": "Joshua",
       "id": "a8c36719-2220-42a6-bff9-f430476c2589",
       "identifiers": [
         {
+          "identifier": "biography/J-B-Jeyaretnam",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "j-b-jeyaretnam-5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "432028",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01_q4m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "129604631",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "no99025495",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "9476037",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2077565",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/jbjeyaretnam.gif",
       "images": [
         {
           "url": "http://www.parliament.gov.sg/sites/default/files/jbjeyaretnam.gif"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/JoshuaBenjaminJeyaretnam-Singapore-20051107.jpg"
         }
       ],
-      "name": "J B Jeyaretnam"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Joshua_Benjamin_Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/J._B._Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Joshua_Benjamin_Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Joshua_Benjamin_Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Joshua_Benjamin_Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Joshua_Benjamin_Jeyaretnam"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/ஜோசுவா_பெஞ்சமின்_ஜெயரத்தினம்"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/約舒亞·本傑明·惹耶勒南"
+        }
+      ],
+      "name": "J B Jeyaretnam",
+      "other_names": [
+        {
+          "name": "J. B. Jeyaretnam",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョシュア・ベンジャミン・ジェヤレトナム",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joshua Benjamin Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "J. B. Jeyaretnam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "ஜோசுவா பெஞ்சமின் ஜெயரத்தினம்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "約舒亞·本傑明·惹耶勒南",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "a9a34856-7c54-4b4b-bb66-a0821afde958",
@@ -11680,11 +13692,17 @@
       ]
     },
     {
+      "birth_date": "1946-09-30",
+      "gender": "male",
       "id": "b1cb9caf-864f-4ba7-a35a-418b8396c8bc",
       "identifiers": [
         {
           "identifier": "lee-yock-suan-5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16107390",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/leeyocksuan.gif",
@@ -11693,7 +13711,35 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/leeyocksuan.gif"
         }
       ],
-      "name": "Lee Yock Suan"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lee_Yock_Suan"
+        }
+      ],
+      "name": "Lee Yock Suan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Lee Yock Suan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lee Yock Suan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lee Yock Suan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lee Yock Suan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971",
@@ -11990,11 +14036,19 @@
       ]
     },
     {
+      "birth_date": "1926-10-30",
+      "family_name": "Hu",
+      "gender": "male",
+      "given_name": "Richard",
       "id": "b3ed741d-b94d-4ad7-9cc5-bc750cf6349d",
       "identifiers": [
         {
           "identifier": "hu-tsu-tau,-richard-6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7326576",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/hutsutaurichard.gif",
@@ -12003,7 +14057,122 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/hutsutaurichard.gif"
         }
       ],
-      "name": "Hu Tsu Tau, Richard"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Richard_Hu"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Richard_Hu"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/胡赐道"
+        }
+      ],
+      "name": "Hu Tsu Tau, Richard",
+      "other_names": [
+        {
+          "name": "Richard Hu",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "ريتشارد هو",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リチャード・フー・ツ・タウ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Richard Hu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "胡賜道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "胡赐道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "胡赐道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "胡赐道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "胡賜道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "胡賜道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "胡賜道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "胡賜道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "胡赐道",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "胡賜道",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-09-13",
@@ -13291,11 +15460,29 @@
       "name": "Kanwaljit Soin, Dr"
     },
     {
+      "birth_date": "1941",
+      "gender": "male",
       "id": "c41fde9d-79f1-4db1-9dc4-c642980cd426",
       "identifiers": [
         {
           "identifier": "chia-thye-poh-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "n2006053399",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "Chia-Thye-Poh",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "53578202",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5095139",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/chiathyepoh_1.gif",
@@ -13304,7 +15491,54 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/chiathyepoh_1.gif"
         }
       ],
-      "name": "Chia Thye Poh"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chia_Thye_Poh"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/謝太寶"
+        }
+      ],
+      "name": "Chia Thye Poh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Chia Thye Poh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chia Thye Poh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chia Thye Poh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chia Thye Poh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chia Thye Poh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "謝太寶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "謝太寶",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c4be7f33-fdc6-4292-8388-a684b49c3813",
@@ -13468,11 +15702,19 @@
       ]
     },
     {
+      "birth_date": "1949-09-01",
+      "death_date": "2016-07-11",
+      "gender": "male",
+      "given_name": "Tan",
       "id": "c684b431-5adc-4a19-95fc-3dfcae30b8fc",
       "identifiers": [
         {
           "identifier": "tan-soo-khoon-4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7682122",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/tansookhoon.gif",
@@ -13481,7 +15723,50 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/tansookhoon.gif"
         }
       ],
-      "name": "Tan Soo Khoon"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tan_Soo_Khoon"
+        }
+      ],
+      "name": "Tan Soo Khoon",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tan Soo Khoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "陳樹群",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c7318fa5-54e6-4ad9-9e3d-23cbd0dcb90b",
@@ -14092,11 +16377,16 @@
       "name": "Gonzales, R.A."
     },
     {
+      "gender": "male",
       "id": "cea1bb36-8a01-4559-a9ad-6a15cf5b735c",
       "identifiers": [
         {
           "identifier": "choo-wee-khiang-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5104732",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/chooweekhiang.gif",
@@ -14105,7 +16395,30 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/chooweekhiang.gif"
         }
       ],
-      "name": "Choo Wee Khiang"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Choo_Wee_Khiang"
+        }
+      ],
+      "name": "Choo Wee Khiang",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Choo Wee Khiang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Choo Wee Khiang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Choo Wee Khiang",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "cef6c923-5da1-4be4-aacb-afbf91d1ec0d",
@@ -14290,11 +16603,51 @@
       "name": "Sia Khoon Seong"
     },
     {
+      "birth_date": "1923-08-05",
+      "death_date": "2005-12-06",
+      "gender": "male",
+      "given_name": "Devan",
       "id": "d33a9b13-f999-47be-90f0-39fe82bd1d23",
       "identifiers": [
         {
           "identifier": "devan-nair-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "18828",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03prs_",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1021407771",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n50063212",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000016541",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "w67d3zrq",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "094132542",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "266984726",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q457929",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/cvdevannair_1.gif",
@@ -14303,7 +16656,254 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/cvdevannair_1.gif"
         }
       ],
-      "name": "Devan Nair"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ديفان_ناير"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/देवन_नायर"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/デヴァン・ナイール"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/დევან_ნაირი"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/데반_나이르"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ദേവൻ_നായർ"
+        },
+        {
+          "note": "Wikipedia (mr)",
+          "url": "https://mr.wikipedia.org/wiki/चेंगारा_वीटिल_देवन_नायर"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/C.V._Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/தேவன்_நாயர்"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เทวัน_นายัร"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Devan_Nair"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/蒂凡那"
+        }
+      ],
+      "name": "Devan Nair",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ديفان ناير",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "देवन नायर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デヴァン・ナイール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "დევან ნაირი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "데반 나이르",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ദേവൻ നായർ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mr",
+          "name": "चेंगारा वीटिल देवन नायर",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "C.V. Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "சி.வி தேவன் நாயர்",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เทวัน นายัร",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Devan Nair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "蒂凡那",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959",
@@ -14407,11 +17007,22 @@
       ]
     },
     {
+      "birth_date": "1937-08-08",
+      "gender": "male",
+      "given_name": "S.",
       "id": "d672a433-b002-46fe-82fb-fbd0e50e2bf0",
       "identifiers": [
         {
           "identifier": "s.-dhanabalan-4",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/06k8bb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2368196",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/sdhanabalan.gif",
@@ -14420,7 +17031,63 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/sdhanabalan.gif"
         }
       ],
-      "name": "S. Dhanabalan"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Suppiah_Dhanabalan"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/S._Dhanabalan"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/S._Dhanabalan"
+        }
+      ],
+      "name": "S. Dhanabalan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Suppiah Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "S. Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "S. Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Suppiah Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "S. Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "S. Dhanabalan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スピア・ダナバラン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "S. Dhanabalan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "d812ac2b-502a-40c5-be62-a86f74a1cba4",
@@ -14674,11 +17341,18 @@
       ]
     },
     {
+      "birth_date": "1935-11-06",
+      "death_date": "2014-04-23",
+      "gender": "female",
       "id": "d993b1be-5be3-49d1-b399-dbf06e158f0c",
       "identifiers": [
         {
           "identifier": "tan-dixie-6",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16861473",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/tandixie.gif",
@@ -14687,7 +17361,44 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/tandixie.gif"
         }
       ],
-      "name": "Tan Dixie"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dixie_Tan"
+        }
+      ],
+      "name": "Tan Dixie",
+      "other_names": [
+        {
+          "name": "Dixie Tan",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Dixie Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dixie Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dixie Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dixie Tan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dixie Tan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "d9b96c6d-b1a4-42f6-80e7-5efcd86e18a8",
@@ -16601,11 +19312,17 @@
       "name": "Lee Tee Tong"
     },
     {
+      "birth_date": "1951-08-02",
+      "gender": "male",
       "id": "e02f9572-3dc4-4954-a086-297b72b11e60",
       "identifiers": [
         {
           "identifier": "chin-tet-yung-9",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5099506",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/chintetyung.gif",
@@ -16614,7 +19331,35 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/chintetyung.gif"
         }
       ],
-      "name": "Chin Tet Yung"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chin_Tet_Yung"
+        }
+      ],
+      "name": "Chin Tet Yung",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Chin Tet Yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chin Tet Yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chin Tet Yung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chin Tet Yung",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-01-10",
@@ -17141,11 +19886,16 @@
       "name": "Goh Chee Wee"
     },
     {
+      "gender": "male",
       "id": "e6b546b0-ae22-463c-9741-326675cffb8c",
       "identifiers": [
         {
           "identifier": "ng-pock-too-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7021767",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/ngPockToo.jpg",
@@ -17154,7 +19904,25 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/ngPockToo.jpg"
         }
       ],
-      "name": "Ng Pock Too"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ng_Pock_Too"
+        }
+      ],
+      "name": "Ng Pock Too",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ng Pock Too",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ng Pock Too",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "e7cc4914-d9cd-4fc2-a6f7-aa0b9bb36914",
@@ -17515,11 +20283,38 @@
       "name": "Abdul Nasser Bin Kamarudin"
     },
     {
+      "birth_date": "1916-04-16",
+      "death_date": "1983-10-14",
+      "gender": "male",
       "id": "eb26a676-7506-45fa-9dbf-b906fab2ef2d",
       "identifiers": [
         {
           "identifier": "hon-sui-sen-2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1798488",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "0000 0000 8421 513X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n85014517",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "091468124",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "6352511",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5891957",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/honsuisen.gif",
@@ -17528,7 +20323,60 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/honsuisen.gif"
         }
       ],
-      "name": "Hon Sui Sen"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hon_Sui_Sen"
+        }
+      ],
+      "name": "Hon Sui Sen",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hon Sui Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "韩瑞生",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "韓瑞生",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960",
@@ -17975,11 +20823,17 @@
       ]
     },
     {
+      "birth_date": "1929-03-28",
+      "gender": "male",
       "id": "f5808325-a4a5-45db-a269-94c0b4edb60f",
       "identifiers": [
         {
           "identifier": "ong-pang-boon-1",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7093807",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/ongpangboon.gif",
@@ -17988,7 +20842,40 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/ongpangboon.gif"
         }
       ],
-      "name": "Ong Pang Boon"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ong_Pang_Boon"
+        }
+      ],
+      "name": "Ong Pang Boon",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ong Pang Boon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ong Pang Boon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ong Pang Boon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ong Pang Boon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "王邦文",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -18291,11 +21178,22 @@
       "name": "Wong Kwei Cheong"
     },
     {
+      "birth_date": "1957-08-01",
+      "gender": "male",
+      "given_name": "Davinder",
       "id": "fcc85209-f2b4-4644-be23-b2c2e162ad19",
       "identifiers": [
         {
           "identifier": "davinder-singh-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Davinder-Singh-66",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q5241790",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/davindersingh_2.gif",
@@ -18304,7 +21202,50 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/davindersingh_2.gif"
         }
       ],
-      "name": "Davinder Singh"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Davinder_Singh"
+        }
+      ],
+      "name": "Davinder Singh",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Davinder Singh",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-05-22",
@@ -18495,11 +21436,17 @@
       "name": "Chin Harn Tong"
     },
     {
+      "birth_date": "1943-03-31",
+      "gender": "female",
       "id": "ff91f0d0-d20e-4cd1-8d30-e57d57421960",
       "identifiers": [
         {
           "identifier": "seet-ai-mei,-dr-7",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7445951",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.sg/sites/default/files/seetaimee.gif",
@@ -18508,7 +21455,54 @@
           "url": "http://www.parliament.gov.sg/sites/default/files/seetaimee.gif"
         }
       ],
-      "name": "Seet Ai Mei, Dr"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Seet_Ai_Mee"
+        }
+      ],
+      "name": "Seet Ai Mei, Dr",
+      "other_names": [
+        {
+          "name": "Seet Ai Mee",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Seet Ai Mee",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
