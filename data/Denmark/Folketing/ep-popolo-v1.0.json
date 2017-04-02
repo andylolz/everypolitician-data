@@ -956,6 +956,7 @@
       ]
     },
     {
+      "birth_date": "1952-02-29",
       "contact_details": [
         {
           "type": "email",
@@ -964,9 +965,39 @@
       ],
       "email": "Orla.Osterby@ft.dk",
       "family_name": "Østerby",
+      "gender": "female",
       "given_name": "Orla",
       "id": "07931c6f-81e9-4cfe-b994-70e72c985c9c",
-      "name": "Orla Østerby"
+      "identifiers": [
+        {
+          "identifier": "Q28528045",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Orla_Østerby"
+        }
+      ],
+      "name": "Orla Østerby",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Orla Østerby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Orla Østerby",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Orla Østerby",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-04-19",
@@ -12509,6 +12540,7 @@
       ]
     },
     {
+      "birth_date": "1959-12-15",
       "contact_details": [
         {
           "type": "email",
@@ -12520,13 +12552,73 @@
       "gender": "male",
       "given_name": "Magni",
       "id": "3f4361d2-cb43-44ee-b5ce-1986694a4c1a",
+      "identifiers": [
+        {
+          "identifier": "Q16167420",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Magni%20Arge/Magni_Arge_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Magni%20Arge/Magni_Arge_133.jpg.ashx"
         }
       ],
-      "name": "Magni Arge"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Magni_Arge"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Magni_Arge"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Magni_Arge"
+        },
+        {
+          "note": "Wikipedia (fo)",
+          "url": "https://fo.wikipedia.org/wiki/Magni_Arge"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Magni_Arge"
+        }
+      ],
+      "name": "Magni Arge",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Magni Arge",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1943-05-24",
@@ -24306,13 +24398,37 @@
       "gender": "male",
       "given_name": "Danny K.",
       "id": "72911273-3fb1-484f-9d34-cbdeb074bdd4",
+      "identifiers": [
+        {
+          "identifier": "Q28167615",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Danny%20K%20Malkowski/Danny_K_Malkowski_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Danny%20K%20Malkowski/Danny_K_Malkowski_133.jpg.ashx"
         }
       ],
-      "name": "Danny K. Malkowski"
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Danny_K._Malkowski"
+        }
+      ],
+      "name": "Danny K. Malkowski",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Danny K. Malkowski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Danny K. Malkowski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-04-09",
@@ -24990,10 +25106,15 @@
       ]
     },
     {
+      "birth_date": "1985-03-18",
       "contact_details": [
         {
           "type": "email",
           "value": "sarah.kristensen@ft.dk"
+        },
+        {
+          "type": "twitter",
+          "value": "sarah_glerup"
         }
       ],
       "email": "sarah.kristensen@ft.dk",
@@ -25001,13 +25122,94 @@
       "gender": "female",
       "given_name": "Sarah",
       "id": "75892550-c64f-4198-bfd1-86d838da731e",
+      "identifiers": [
+        {
+          "identifier": "Q23311251",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Sarah%20Glerup/Sarah_Glerup_133.jpg.ashx"
         }
       ],
-      "name": "Sarah Glerup"
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Sarah_Glerup"
+        },
+        {
+          "note": "blog",
+          "url": "https://sarahglerup.blogspot.dk/"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/sarah-glerup-7a17835"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/sarah_glerup"
+        }
+      ],
+      "name": "Sarah Glerup",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sarah Glerup",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-10-10",
@@ -26249,6 +26451,7 @@
       ]
     },
     {
+      "birth_date": "1948-09-12",
       "contact_details": [
         {
           "type": "email",
@@ -26260,7 +26463,105 @@
       "gender": "male",
       "given_name": "Johannes",
       "id": "7bb67570-fa0f-4e10-aa02-09bd9cb3ecce",
-      "name": "Johannes Lebech"
+      "identifiers": [
+        {
+          "identifier": "39762",
+          "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/03h26bb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q2037525",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Johanneslebech.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Johanneslebech.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Johannes_Lebech"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Johannes_Lebech"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Johannes_Lebech"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Johannes_Lebech"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Johannes_Lebech"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Johannes_Lebech"
+        }
+      ],
+      "name": "Johannes Lebech",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Johannes Lebech",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-07-30",
@@ -34404,6 +34705,7 @@
       ]
     },
     {
+      "birth_date": "1955-10-07",
       "contact_details": [
         {
           "type": "email",
@@ -34415,7 +34717,78 @@
       "gender": "male",
       "given_name": "Tórbjørn",
       "id": "a7b7510e-3f43-423b-bf83-a6cd4512af86",
-      "name": "Tórbjørn Jacobsen"
+      "identifiers": [
+        {
+          "identifier": "Q331736",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Torbjorn_Jacobsen_01_cut.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Torbjorn_Jacobsen_01_cut.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Tórbjørn_Jacobsen"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tórbjørn_Jacobsen"
+        },
+        {
+          "note": "Wikipedia (fo)",
+          "url": "https://fo.wikipedia.org/wiki/Tórbjørn_Jacobsen"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Tórbjørn_Jacobsen"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Tórbjørn_Jacobsen"
+        }
+      ],
+      "name": "Tórbjørn Jacobsen",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tórbjørn Jacobsen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1944-05-09",
@@ -52407,6 +52780,7 @@
       "name": "Otto Steenholdt"
     },
     {
+      "birth_date": "1979-06-06",
       "contact_details": [
         {
           "type": "email",
@@ -52418,13 +52792,37 @@
       "gender": "male",
       "given_name": "Kasper",
       "id": "faf46682-d614-43bc-a54b-252b69ed8894",
+      "identifiers": [
+        {
+          "identifier": "Q22956366",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kasper%20Roug/Kasper_Roug_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kasper%20Roug/Kasper_Roug_133.jpg.ashx"
         }
       ],
-      "name": "Kasper Roug"
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Kasper_Roug"
+        }
+      ],
+      "name": "Kasper Roug",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Kasper Roug",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kasper Roug",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1983-05-04",
