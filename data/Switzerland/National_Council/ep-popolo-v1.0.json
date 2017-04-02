@@ -79673,7 +79673,7 @@
     {
       "classification": "party",
       "id": "3",
-      "name": "C"
+      "name": "CE"
     },
     {
       "classification": "party",
@@ -120623,7 +120623,7 @@
   "areas": [
     {
       "id": "0",
-      "name": "VS",
+      "name": "AG",
       "type": "constituency"
     }
   ]
