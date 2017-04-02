@@ -29,7 +29,12 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives turkmènes de 2008-2009",
+        "name": "élections législatives turkmènes de 2008-2009",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 2008-2009",
         "note": "multilingual"
       }
     ],
@@ -54,6 +59,11 @@
       {
         "lang": "be",
         "name": "Парламенцкія выбары ў Туркменістане",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 1990",
         "note": "multilingual"
       }
     ],
@@ -83,6 +93,11 @@
         "lang": "be",
         "name": "Парламенцкія выбары ў Туркменістане, 1994",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 1994",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -110,6 +125,11 @@
       {
         "lang": "be",
         "name": "Парламенцкія выбары ў Туркменістане",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 1999",
         "note": "multilingual"
       }
     ],
@@ -139,6 +159,11 @@
         "lang": "be",
         "name": "Парламенцкія выбары ў Туркменістане",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 2004",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -165,7 +190,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives turkmènes de 2013",
+        "name": "élections législatives turkmènes de 2013",
         "note": "multilingual"
       },
       {
@@ -186,6 +211,11 @@
       {
         "lang": "es",
         "name": "Elecciones parlamentarias de Turkmenistán de 2013",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הפרלמנטריות בטורקמניסטן 2013",
         "note": "multilingual"
       }
     ],
