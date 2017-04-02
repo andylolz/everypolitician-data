@@ -73,6 +73,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Libia del 2012",
+        "note": "multilingual"
+      },
+      {
         "lang": "de",
         "name": "Wahlen zur verfassungsgebenden Versammlung in Libyen",
         "note": "multilingual"
@@ -366,7 +371,6 @@
     "dates": [
       "2014-06-25"
     ],
-    "office": "List of heads of government of Libya",
     "successful_candidates": [
       "Abdullah al-Thani"
     ]
