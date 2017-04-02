@@ -13211,6 +13211,10 @@
         {
           "type": "twitter",
           "value": "stefblokVVD"
+        },
+        {
+          "type": "twitter",
+          "value": "boersma2000"
         }
       ],
       "gender": "male",
@@ -13234,9 +13238,6 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Stef_Blok_2012_(highres).jpg"
-        },
-        {
-          "url": "https://pbs.twimg.com/profile_images/1155028126/stefblokvvd1.jpg"
         }
       ],
       "links": [
@@ -13267,6 +13268,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/stefblokVVD"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/boersma2000"
         }
       ],
       "name": "Stef Blok",
