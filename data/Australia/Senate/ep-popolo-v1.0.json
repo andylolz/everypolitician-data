@@ -12258,16 +12258,60 @@
       "sort_name": "Faulkner, John"
     },
     {
+      "birth_date": "1960-08-09",
       "family_name": "Hill",
+      "gender": "female",
       "given_name": "Heather",
       "id": "920c8983-dbc1-44c2-8f02-f9963fc155b4",
       "identifiers": [
         {
           "identifier": "10303",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q5693874",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Heather_Hill_(politician)"
         }
       ],
       "name": "Heather Hill",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Heather Hill",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hill, Heather"
     },
     {
@@ -18839,6 +18883,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Margaret_Reid_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Margaret_Reid"
         }
       ],
       "name": "Margaret Reid",
