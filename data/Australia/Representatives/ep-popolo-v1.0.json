@@ -5,6 +5,12 @@
   "persons": [
     {
       "birth_date": "1954-03-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nueday"
+        }
+      ],
       "family_name": "Kelly",
       "gender": "female",
       "given_name": "De-Anne",
@@ -27,6 +33,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/De-Anne_Kelly"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nueday"
         },
         {
           "note": "wikipedia",
@@ -30010,6 +30020,10 @@
         {
           "type": "email",
           "value": "Craig.Laundy.MP@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "LaundyCraigMP"
         }
       ],
       "email": "Craig.Laundy.MP@aph.gov.au",
@@ -30053,6 +30067,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/CraigLaundyMP"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LaundyCraigMP"
         },
         {
           "note": "website",
@@ -38517,7 +38535,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Bob_Katter,_Sr."
+          "url": "https://en.wikipedia.org/wiki/Bob_Katter_Sr."
         }
       ],
       "name": "Robert Katter",
