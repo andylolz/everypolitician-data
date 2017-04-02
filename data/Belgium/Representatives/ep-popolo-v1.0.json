@@ -6005,8 +6005,27 @@
       "sort_name": "Van den Bergh Jef"
     },
     {
+      "gender": "male",
       "id": "4b408d3f-1c4a-4022-ad18-7641b08fb7ca",
-      "name": "Wim Van der Donckt"
+      "identifiers": [
+        {
+          "identifier": "Q29051908",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Wim Van der Donckt",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wim Van der Donckt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wim Van der Donckt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-01-29",
