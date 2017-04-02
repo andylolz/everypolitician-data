@@ -8710,6 +8710,7 @@
       "sort_name": "Simms, Robert"
     },
     {
+      "birth_date": "1964-06-05",
       "contact_details": [
         {
           "type": "email",
@@ -8729,6 +8730,10 @@
         {
           "identifier": "10850",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q26703083",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg",
@@ -8737,11 +8742,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rod_Culleton"
+        }
+      ],
       "name": "Rod Culleton",
       "other_names": [
         {
           "name": "Senator Rod Culleton",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rod Culleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rod Culleton",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Culleton, Rod"
@@ -12652,6 +12673,7 @@
     },
     {
       "family_name": "Georgiou",
+      "gender": "male",
       "given_name": "Peter",
       "id": "934b5ae2-f101-4124-a333-cd02a92a0285",
       "identifiers": [
@@ -12662,6 +12684,10 @@
         {
           "identifier": "10898",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q28922735",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/269583/upload_ref_binary/269583.jpg",
@@ -12670,11 +12696,27 @@
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/269583/upload_ref_binary/269583.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Georgiou"
+        }
+      ],
       "name": "Peter Georgiou",
       "other_names": [
         {
           "name": "Senator Peter Georgiou",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Peter Georgiou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Georgiou",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Georgiou, Peter"
