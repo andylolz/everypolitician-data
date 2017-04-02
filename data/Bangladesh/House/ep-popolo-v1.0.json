@@ -1696,6 +1696,10 @@
       "id": "1f98f52d-23fd-4ec9-b24f-9bb80b613c74",
       "identifiers": [
         {
+          "identifier": "biography/Khaleda-Zia",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "2265",
           "scheme": "everypolitician_legacy"
         },
@@ -1706,6 +1710,14 @@
         {
           "identifier": "n89262084",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "khaleda-zia",
+          "scheme": "ne_se"
+        },
+        {
+          "identifier": "942/000111609",
+          "scheme": "nndb"
         },
         {
           "identifier": "1607643",
@@ -3506,12 +3518,13 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10207.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Shamim_Osman.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/শামীম_ওসমান"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Shamim_Osman"
@@ -3523,6 +3536,11 @@
       ],
       "name": "Shamim Osman",
       "other_names": [
+        {
+          "lang": "bn",
+          "name": "শামীম ওসমান",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Shamim Osman",
@@ -4561,6 +4579,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Imran Ahmad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Imran Ahmad",
           "note": "multilingual"
         }
@@ -6037,6 +6060,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "A.B.M. Fazle Karim Chowdhury",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "A.B.M. Fazle Karim Chowdhury",
           "note": "multilingual"
         }
@@ -9521,6 +9549,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "biography/Sheikh-Hasina-Wazed",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "2217",
           "scheme": "everypolitician_legacy"
         },
@@ -9543,6 +9575,10 @@
         {
           "identifier": "n88184910",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "hasina-wajed",
+          "scheme": "ne_se"
         },
         {
           "identifier": "086196960",
@@ -9869,6 +9905,11 @@
         {
           "lang": "be",
           "name": "Шэйх Хасіна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Шейх Хасина",
           "note": "multilingual"
         },
         {
@@ -10702,6 +10743,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আবুল_হাসান_মাহমুদ_আলী"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Abul_Hassan_Mahmud_Ali"
         },
@@ -11052,6 +11097,10 @@
       "id": "b9006db2-4dbb-46fa-8884-43ad214ca354",
       "identifiers": [
         {
+          "identifier": "biography/Hussein-Mohammad-Ershad",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "2190",
           "scheme": "everypolitician_legacy"
         },
@@ -11064,8 +11113,16 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0024450",
+          "scheme": "gnc"
+        },
+        {
           "identifier": "11939023X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "97469",
+          "scheme": "gtaa"
         },
         {
           "identifier": "n84217010",
@@ -11145,6 +11202,10 @@
         {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/हुसेन_मुहम्मद_इर्शाद"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Hoessein_Mohammad_Ershad"
         },
         {
           "note": "Wikipedia (no)",
@@ -12560,7 +12621,7 @@
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2057.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Shahriar_Alam_mp_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Shahriar_Alam_MP.jpg"
         }
       ],
       "links": [
@@ -12570,7 +12631,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Shahriar_Alam_(Politician)"
+          "url": "https://en.wikipedia.org/wiki/Shahriar_Alam_(politician)"
         },
         {
           "note": "website",
@@ -16402,7 +16463,7 @@
         },
         {
           "lang": "bn",
-          "name": "আওয়ামী লীগ",
+          "name": "বাংলাদেশ আওয়ামী লীগ",
           "note": "multilingual"
         },
         {
@@ -16834,6 +16895,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ur",
+          "name": "بنگلہ دیش نیشنلسٹ پارٹی",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Bangladesh Nationalist Party",
           "note": "multilingual"
@@ -17016,7 +17082,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -17527,6 +17593,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
