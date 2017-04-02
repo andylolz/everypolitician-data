@@ -12,11 +12,20 @@
         }
       ],
       "gender": "female",
+      "given_name": "Anja",
       "id": "003496de-ed57-4d0d-bb43-e6f9644f76af",
       "identifiers": [
         {
+          "identifier": "16173411",
+          "scheme": "conor"
+        },
+        {
           "identifier": "239",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29048797",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P239",
@@ -27,6 +36,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Anja_Bah_Žibert"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/anja.bah.zibert"
         },
@@ -36,6 +49,23 @@
         }
       ],
       "name": "Anja Bah Žibert",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anja Bah Žibert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anja Bah Žibert",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Anja Bah Žibert",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bah Žibert Anja"
     },
     {
@@ -420,12 +450,23 @@
       "sort_name": "Han Matjaž"
     },
     {
+      "birth_date": "1970-07-23",
+      "family_name": "Breznik",
       "gender": "male",
+      "given_name": "Franc",
       "id": "135fd192-8621-4031-a1ea-2f9e9f3ae58c",
       "identifiers": [
         {
+          "identifier": "158290531",
+          "scheme": "conor"
+        },
+        {
           "identifier": "167",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12789041",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P167",
@@ -434,7 +475,295 @@
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P167"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Franc_Breznik"
+        }
+      ],
       "name": "Franc Breznik",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Franc Breznik",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Breznik Franc"
     },
     {
@@ -3073,14 +3402,331 @@
       "sort_name": "Ranc Danilo Anton"
     },
     {
+      "birth_date": "1956-09-07",
+      "family_name": "Bizjak",
+      "gender": "female",
+      "given_name": "Julijana",
       "id": "66b18b12-3a72-4ebd-ab22-cf0c3dcd58be",
+      "identifiers": [
+        {
+          "identifier": "4010851",
+          "scheme": "conor"
+        },
+        {
+          "identifier": "Q12793070",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P158",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P158"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Julijana_Bizjak_Mlakar_2014.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Julijana_Bizjak_Mlakar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Julijana_Bizjak_Mlakar"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Julijana_Bizjak_Mlakar"
         }
       ],
       "name": "Mag. Julijana Bizjak Mlakar",
+      "other_names": [
+        {
+          "name": "Julijana Bizjak Mlakar",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Julijana Bizjak Mlakar",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bizjak Mlakar Julijana"
     },
     {
@@ -3238,20 +3884,40 @@
         }
       ],
       "gender": "male",
+      "given_name": "Matej",
       "id": "7932c11b-6ae5-4416-85d1-408d3f358612",
       "identifiers": [
         {
+          "identifier": "106784611",
+          "scheme": "conor"
+        },
+        {
           "identifier": "288",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24662016",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P288",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P288"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Matej_T._Vatovec_2017.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Matej_T._Vatovec"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Matej_Tašner_Vatovec"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/matej.t.vatovec"
@@ -3262,6 +3928,27 @@
         }
       ],
       "name": "Dr. Matej Tašner Vatovec",
+      "other_names": [
+        {
+          "name": "Matej Tašner Vatovec",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Matej Tašner Vatovec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Matej Tašner Vatovec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Matej Tašner Vatovec",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tašner Vatovec Matej"
     },
     {
@@ -5809,21 +6496,34 @@
           "value": "matjanemec"
         }
       ],
+      "family_name": "Němec/Němcová",
       "gender": "male",
+      "given_name": "Matjaž",
       "id": "ba8af9d6-a674-4b72-bec3-e8ae6ca882ec",
       "identifiers": [
         {
           "identifier": "276",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27929326",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P276",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P276"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Matjaž_Nemec.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Matjaž_Nemec"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/matjaz.nemec"
@@ -5838,6 +6538,18 @@
         }
       ],
       "name": "Matjaž Nemec",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Matjaž Nemec",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Matjaž Nemec",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Nemec Matjaž"
     },
     {
@@ -10043,20 +10755,71 @@
     {
       "birth_date": "1962-02-24",
       "gender": "male",
+      "given_name": "Bojan",
       "id": "f7d20ca0-e611-444f-9541-4427a9aabb16",
       "identifiers": [
         {
+          "identifier": "4001123",
+          "scheme": "conor"
+        },
+        {
           "identifier": "248",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "106777765",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q27651990",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P248",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P248"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Bdobovsek_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Bojan_Dobovšek"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Bojan_Dobovšek"
+        },
+        {
+          "note": "website",
+          "url": "http://www.dobradrzava.si/"
         }
       ],
       "name": "Dr. Bojan Dobovšek",
+      "other_names": [
+        {
+          "name": "Bojan Dobovšek",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bojan Dobovšek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Category:Bojan Dobovšek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Bojan Dobovšek",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dobovšek Bojan"
     },
     {
