@@ -851,6 +851,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Շառլ Միշել",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Charles Michel",
           "note": "multilingual"
@@ -3640,6 +3645,10 @@
         {
           "type": "email",
           "value": "peter.luykx@dekamer.be"
+        },
+        {
+          "type": "twitter",
+          "value": "peerlux"
         }
       ],
       "email": "peter.luykx@dekamer.be",
@@ -3664,6 +3673,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Peter_Luykx"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Peter_Luykx"
         },
@@ -3676,12 +3689,29 @@
           "url": "https://nl.wikipedia.org/wiki/Peter_Luykx"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/peter.luykx.3"
+        },
+        {
+          "note": "linkedin",
+          "url": "https://www.linkedin.com/in/peter-luykx-7315719"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/peerlux"
+        },
+        {
           "note": "website",
           "url": "http://www.peterluykx.be"
         }
       ],
       "name": "Peter Luykx",
       "other_names": [
+        {
+          "lang": "ca",
+          "name": "Peter Luykx",
+          "note": "multilingual"
+        },
         {
           "lang": "da",
           "name": "Peter Luykx",
