@@ -4612,6 +4612,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
+          "note": "Wikipedia (cawikiquote)",
+          "url": "https://cawikiquote.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Anna_Tibaijuka"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Anna_Tibaijuka"
         },
@@ -4620,12 +4632,28 @@
           "url": "https://en.wikipedia.org/wiki/Anna_Tibaijuka"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Anna_Tibaijuka"
         },
         {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אנה_טיבאיג'וקה"
+        },
+        {
           "note": "Wikipedia (hr)",
           "url": "https://hr.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
+          "note": "Wikipedia (ig)",
+          "url": "https://ig.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Anna_Tibaijuka"
         },
         {
           "note": "Wikipedia (pl)",
@@ -4636,8 +4664,16 @@
           "url": "https://pt.wikipedia.org/wiki/Anna_Tibaijuka"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тибаиджука,_Анна"
+        },
+        {
           "note": "Wikipedia (sw)",
           "url": "https://sw.wikipedia.org/wiki/Anna_Tibaijuka"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Anna_Tibaijuka"
         },
         {
           "note": "Wikipedia (zh)",
@@ -4649,6 +4685,11 @@
         {
           "name": "Anna Tibaijuka",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Anna Tibaijuka",
+          "note": "multilingual"
         },
         {
           "lang": "da",
@@ -4676,12 +4717,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "אנה טיבאיג'וקה",
+          "note": "multilingual"
+        },
+        {
           "lang": "hr",
           "name": "Anna Tibaijuka",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Anna Tibaijuka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ig",
           "name": "Anna Tibaijuka",
           "note": "multilingual"
         },
@@ -4722,6 +4773,11 @@
         },
         {
           "lang": "sw",
+          "name": "Anna Tibaijuka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
           "name": "Anna Tibaijuka",
           "note": "multilingual"
         },
@@ -10956,6 +11012,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "John-Pombe-Magufuli",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q5018756",
           "scheme": "wikidata"
         }
@@ -11037,6 +11097,10 @@
         {
           "note": "Wikipedia (lb)",
           "url": "https://lb.wikipedia.org/wiki/John_Magufuli"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/John_Magufuli"
         },
         {
           "note": "Wikipedia (no)",
@@ -12165,6 +12229,11 @@
         },
         {
           "lang": "hu",
+          "name": "Zitto Kabwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Zitto Kabwe",
           "note": "multilingual"
         },
@@ -15551,6 +15620,10 @@
           "url": "https://la.wikipedia.org/wiki/Kassim_Majaliwa"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Kassim_Majaliwa"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kassim_Majaliwa"
         },
@@ -15574,12 +15647,12 @@
       "name": "Kassim Majaliwa Majaliwa",
       "other_names": [
         {
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "alternate"
         },
         {
           "lang": "da",
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
         {
@@ -15589,7 +15662,7 @@
         },
         {
           "lang": "en",
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
         {
@@ -15599,6 +15672,11 @@
         },
         {
           "lang": "et",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
@@ -15613,6 +15691,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "カシム・マジャリワ",
           "note": "multilingual"
@@ -15624,7 +15707,7 @@
         },
         {
           "lang": "nb",
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
         {
@@ -15634,7 +15717,7 @@
         },
         {
           "lang": "nn",
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
         {
@@ -15648,8 +15731,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Kassim Majaliwa",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
-          "name": "Majaliwa K. Majaliwa",
+          "name": "Kassim Majaliwa",
           "note": "multilingual"
         },
         {
@@ -23591,6 +23694,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "Mohammed-Dewji-2",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q6893059",
           "scheme": "wikidata"
         }
@@ -28192,6 +28299,10 @@
         {
           "note": "Wikipedia (ka)",
           "url": "https://ka.wikipedia.org/wiki/სამია_სულუჰუ"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Samia_Suluhu"
         },
         {
           "note": "Wikipedia (no)",
@@ -33595,6 +33706,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ca",
+          "name": "Chama Cha Mapinduzi",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "CCM",
           "note": "multilingual"
@@ -33905,6 +34021,11 @@
         {
           "lang": "pt",
           "name": "Partido da Revolução",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Chama Cha Mapinduzi",
           "note": "multilingual"
         },
         {
