@@ -3809,6 +3809,12 @@
       "sort_name": "Fabiani, Eduardo Alberto"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mgwechsler"
+        }
+      ],
       "gender": "male",
       "given_name": "Marcelo",
       "id": "322cb8d6-695a-4f0a-85e5-36a6f5abd244",
@@ -3818,10 +3824,26 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/725755759963852802/-jnK4Uz9.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/725755759963852802/-jnK4Uz9.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mgwechsler"
+        }
+      ],
       "name": "Marcelo German Wechsler",
       "other_names": [
         {
           "name": "Marcelo Germán Wechsler",
+          "note": "alternate"
+        },
+        {
+          "name": "Marcelo Wechsler",
           "note": "alternate"
         },
         {
@@ -6476,6 +6498,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Emonzo.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000051560081/c691dbd08b713e2fd8d142e88321da04.jpeg"
         }
       ],
       "links": [
@@ -6494,6 +6519,10 @@
       ],
       "name": "Emilio Monzo",
       "other_names": [
+        {
+          "name": "Emilio Monzó",
+          "note": "alternate"
+        },
         {
           "name": "Emilio Monzó",
           "note": "alternate"
@@ -7752,6 +7781,12 @@
     },
     {
       "birth_date": "1954-06-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PabloTonelli"
+        }
+      ],
       "gender": "male",
       "given_name": "Pablo",
       "id": "6185709a-dc57-4f50-8237-fe347d07b126",
@@ -7765,14 +7800,28 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/613026683919142912/Lmom-LoY.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/613026683919142912/Lmom-LoY.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Pablo_Tonelli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PabloTonelli"
         }
       ],
       "name": "Pablo Gabriel Tonelli",
       "other_names": [
+        {
+          "name": "Pablo Tonelli",
+          "note": "alternate"
+        },
         {
           "name": "Pablo Tonelli",
           "note": "alternate"
@@ -8734,6 +8783,12 @@
       "sort_name": "Cigogna, Luis Francisco Jorge"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarcoLavagna"
+        }
+      ],
       "gender": "male",
       "given_name": "Marco",
       "id": "6de88075-3cef-4812-a301-1f88658eddf5",
@@ -8741,6 +8796,18 @@
         {
           "identifier": "Q21856173",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://pbs.twimg.com/profile_images/653920779491479552/aPtRAdP0.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/653920779491479552/aPtRAdP0.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarcoLavagna"
         }
       ],
       "name": "Marco Lavagna",
@@ -13166,6 +13233,12 @@
     },
     {
       "birth_date": "1971-09-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "mirtatundis"
+        }
+      ],
       "gender": "female",
       "id": "9223513c-d3dd-47a0-9220-fb74960d0813",
       "identifiers": [
@@ -13182,12 +13255,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Dipu_Mirta_Tundis.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/710513646674247681/2WaLITua.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Mirta_Tundis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/mirtatundis"
         }
       ],
       "name": "Mirta Tundis",
@@ -17791,9 +17871,33 @@
       "sort_name": "COMELLI, ALICIA MARCELA"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AliciaBesada"
+        }
+      ],
       "gender": "female",
       "id": "c721d4f1-ff08-4077-a615-12df0bb4e2a9",
+      "image": "https://pbs.twimg.com/profile_images/839980654154637312/aR3cVCxY.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/839980654154637312/aR3cVCxY.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AliciaBesada"
+        }
+      ],
       "name": "Alicia Irma Besada",
+      "other_names": [
+        {
+          "name": "Alicia Besada",
+          "note": "alternate"
+        }
+      ],
       "sort_name": "Besada, Alicia Irma"
     },
     {
@@ -18389,6 +18493,12 @@
       "sort_name": "Tailhade, Luis Rodolfo"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CarlabPitiot"
+        }
+      ],
       "gender": "female",
       "given_name": "Carla",
       "id": "cb10e137-bddf-4a9e-8476-760f04d8737e",
@@ -18398,8 +18508,24 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/798654089219440641/nPjWgCkZ.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/798654089219440641/nPjWgCkZ.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CarlabPitiot"
+        }
+      ],
       "name": "Carla Betina Pitiot",
       "other_names": [
+        {
+          "name": "Carla Pitiot",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Carla Betina Pitiot",
@@ -18434,6 +18560,12 @@
       "sort_name": "Pitiot, Carla Betina"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "silvinafrana"
+        }
+      ],
       "gender": "female",
       "given_name": "Silvia",
       "id": "cb327384-e775-40d4-aa7f-3a472cf93da7",
@@ -18443,10 +18575,26 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/799970922337890304/nI92rjqf.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/799970922337890304/nI92rjqf.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/silvinafrana"
+        }
+      ],
       "name": "Silvina Patricia Frana",
       "other_names": [
         {
           "name": "Silvia Patricia Frana",
+          "note": "alternate"
+        },
+        {
+          "name": "Silvina Frana",
           "note": "alternate"
         },
         {
@@ -21044,6 +21192,12 @@
       "sort_name": "MONGELO, JOSE RICARDO"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "olgamariarista"
+        }
+      ],
       "gender": "female",
       "given_name": "Olga",
       "id": "ed54a067-0937-4135-a225-0562d678f290",
@@ -21053,10 +21207,26 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/790620104086134784/FZKkFjnv.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/790620104086134784/FZKkFjnv.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/olgamariarista"
+        }
+      ],
       "name": "Olga Maria Rista",
       "other_names": [
         {
           "name": "Olga María Rista",
+          "note": "alternate"
+        },
+        {
+          "name": "Olga Rista",
           "note": "alternate"
         },
         {
