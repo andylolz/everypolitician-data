@@ -74752,6 +74752,12 @@
       "classification": "legislative period",
       "end_date": "2001-11-19",
       "id": "term/1998",
+      "identifiers": [
+        {
+          "identifier": "Q29094293",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 1998–2001",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "1998-11-03"
@@ -74773,6 +74779,12 @@
       "classification": "legislative period",
       "end_date": "2005-02-07",
       "id": "term/2001",
+      "identifiers": [
+        {
+          "identifier": "Q29094267",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 2001–2005",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "2001-11-20"
@@ -74794,6 +74806,12 @@
       "classification": "legislative period",
       "end_date": "2007-11-12",
       "id": "term/2005",
+      "identifiers": [
+        {
+          "identifier": "Q29094231",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 2005–2007",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "2005-02-08"
@@ -74815,6 +74833,12 @@
       "classification": "legislative period",
       "end_date": "2011-09-14",
       "id": "term/2007",
+      "identifiers": [
+        {
+          "identifier": "Q29094196",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 2007–2011",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "2007-11-13"
@@ -74836,6 +74860,12 @@
       "classification": "legislative period",
       "end_date": "2015-06-19",
       "id": "term/2011",
+      "identifiers": [
+        {
+          "identifier": "Q29093913",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 2011–2015",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "2011-09-15"
@@ -74856,6 +74886,12 @@
     {
       "classification": "legislative period",
       "id": "term/2015",
+      "identifiers": [
+        {
+          "identifier": "Q29093888",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Folketing 2015–",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "start_date": "2015-06-20"
