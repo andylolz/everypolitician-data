@@ -1581,6 +1581,17 @@
       "title": "member of the Chamber of Deputies of Chile"
     }
   ],
+  "Q29044330": [
+    {
+      "id": "Q18067639",
+      "label": "member of the Chamber of Deputies of Chile",
+      "title": "member of the Chamber of Deputies of Chile",
+      "qualifiers": {
+        "P2937": "8th Chilean Legislative Period",
+        "P580": "2014-03-11"
+      }
+    }
+  ],
   "Q3571936": [
     {
       "id": "Q18067639",
