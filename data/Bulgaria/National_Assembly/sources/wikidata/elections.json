@@ -1690,7 +1690,7 @@
       },
       {
         "lang": "bg",
-        "name": "Парламентарни избори в България",
+        "name": "Парламентарни избори в България 2014",
         "note": "multilingual"
       },
       {
@@ -1737,6 +1737,8 @@
     "dates": [
       "2014-10-05"
     ],
+    "start_date": "2014-10-05",
+    "end_date": "2014-10-05",
     "follows": "Bulgarian parliamentary election, 2013",
     "successful_candidates": [
       "Boyko Borisov"
