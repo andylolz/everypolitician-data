@@ -698,6 +698,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "0000 0003 7603 2669",
+          "scheme": "isni"
+        },
+        {
           "identifier": "01137125",
           "scheme": "ndl"
         },
@@ -1982,6 +1986,10 @@
         {
           "identifier": "133125858",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 8194 664X",
+          "scheme": "isni"
         },
         {
           "identifier": "n87925528",
@@ -3541,6 +3549,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0000 0003 7865 0823",
+          "scheme": "isni"
+        },
+        {
           "identifier": "01071086",
           "scheme": "ndl"
         },
@@ -4120,6 +4132,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/後藤田正純"
+        },
+        {
+          "note": "website",
+          "url": "http://www.gotoda.com/"
         }
       ],
       "name": "GOTODA Masazumi",
@@ -4490,6 +4506,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/hachirouokonogi"
+        },
+        {
+          "note": "website",
+          "url": "http://www.hachirou.com/"
         }
       ],
       "name": "OKONOGI Hachiro",
@@ -5004,6 +5024,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/葉梨康弘"
+        },
+        {
+          "note": "website",
+          "url": "http://www.hanashiyasuhiro.com/"
         }
       ],
       "name": "HANASHI Yasuhiro",
@@ -5070,7 +5094,7 @@
       ]
     },
     {
-      "birth_date": "1950",
+      "birth_date": "1950-02-28",
       "family_name": "Yamaguchi",
       "gender": "male",
       "given_name": "Shun'ichi",
@@ -6535,6 +6559,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/玄葉光一郎"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kgenba.com/"
         }
       ],
       "name": "GEMBA Koichiro",
@@ -6793,6 +6821,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/matsunoyorihisa"
+        },
+        {
+          "note": "website",
+          "url": "http://www.matsuno-yorihisa.com/"
         }
       ],
       "name": "MATSUNO Yorihisa",
@@ -7465,6 +7497,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/野田毅"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nodatakeshi.com/"
         }
       ],
       "name": "NODA Takeshi",
@@ -8345,6 +8381,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/木原誠二"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kiharaseiji.com"
         }
       ],
       "name": "KIHARA Seiji",
@@ -8637,6 +8677,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/nagatsumaakira"
+        },
+        {
+          "note": "website",
+          "url": "http://naga.tv/"
         }
       ],
       "name": "NAGATSUMA Akira",
@@ -9310,6 +9354,10 @@
         {
           "identifier": "/m/03ck273",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "108971128X",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0003 7697 8331",
@@ -10433,6 +10481,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/fkishida"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kishida.gr.jp/"
         }
       ],
       "name": "KISHIDA Fumio",
@@ -10569,6 +10621,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0000 0000 3823 0259",
+          "scheme": "isni"
+        },
+        {
           "identifier": "no00076382",
           "scheme": "lcauth"
         },
@@ -10583,6 +10639,10 @@
         {
           "identifier": "Q132596",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Asō-3",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/021.jpg/%24File/021.jpg",
@@ -10616,6 +10676,10 @@
           "url": "https://bg.wikipedia.org/wiki/Таро_Асо"
         },
         {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Tarō_Asō"
+        },
+        {
           "note": "Wikipedia (bo)",
           "url": "https://bo.wikipedia.org/wiki/ཊ་རོ་ཨ་སོ།"
         },
@@ -10646,6 +10710,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Tarō_Asō"
+        },
+        {
+          "note": "Wikipedia (dewikinews)",
+          "url": "https://dewikinews.wikipedia.org/wiki/Kategorie:Tarō_Asō"
         },
         {
           "note": "Wikipedia (el)",
@@ -10872,6 +10940,10 @@
           "url": "https://zh_yue.wikipedia.org/wiki/麻生太郎"
         },
         {
+          "note": "Wikipedia (zhwikinews)",
+          "url": "https://zhwikinews.wikipedia.org/wiki/Category:麻生太郎"
+        },
+        {
           "note": "Wikipedia (zhwikiquote)",
           "url": "https://zhwikiquote.wikipedia.org/wiki/麻生太郎"
         },
@@ -10891,7 +10963,7 @@
       "name": "ASO Taro",
       "other_names": [
         {
-          "name": "Taro Aso",
+          "name": "Tarō Asō",
           "note": "alternate"
         },
         {
@@ -10912,6 +10984,16 @@
         {
           "lang": "bg",
           "name": "Таро Асо",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bi",
+          "name": "Tarō Asō",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "তারো আসো",
           "note": "multilingual"
         },
         {
@@ -10961,7 +11043,7 @@
         },
         {
           "lang": "en",
-          "name": "Taro Aso",
+          "name": "Tarō Asō",
           "note": "multilingual"
         },
         {
@@ -11041,7 +11123,7 @@
         },
         {
           "lang": "it",
-          "name": "Taro Aso",
+          "name": "Tarō Asō",
           "note": "multilingual"
         },
         {
@@ -12055,7 +12137,7 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/055.jpg/%24File/055.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/The_mission_of_forward-deployed_naval_forces_during_a_tour_of_(29128015221)_cropped.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Tomomi_Inada_20161027.jpg"
         }
       ],
       "links": [
@@ -12281,6 +12363,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Hirokazu_Matsuno"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hirokazu_Matsuno"
         },
         {
           "note": "Wikipedia (ja)",
@@ -12938,7 +13024,7 @@
     },
     {
       "birth_date": "1965-05-19",
-      "family_name": "Kondo",
+      "family_name": "Kondō",
       "gender": "male",
       "given_name": "Yōsuke",
       "id": "451f01c1-357b-4e3f-9e4c-1f6187101782",
@@ -12982,6 +13068,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/近藤洋介_(政治家)"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kondo21.com/"
         }
       ],
       "name": "KONDO Yosuke",
@@ -13827,6 +13917,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/takao.ochi.9"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ochi-takao.jp/index.php"
         }
       ],
       "name": "OCHI Takao",
@@ -15435,6 +15529,10 @@
           "url": "https://sr.wikipedia.org/wiki/Наото_Кан"
         },
         {
+          "note": "Wikipedia (srwikinews)",
+          "url": "https://srwikinews.wikipedia.org/wiki/Категорија:Наото_Кан"
+        },
+        {
           "note": "Wikipedia (su)",
           "url": "https://su.wikipedia.org/wiki/Naoto_Kan"
         },
@@ -15532,6 +15630,11 @@
         {
           "lang": "be",
           "name": "Наота Кан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Наото Кан",
           "note": "multilingual"
         },
         {
@@ -17592,6 +17695,10 @@
         {
           "identifier": "Q3482658",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Suzuki-17",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/235.jpg/%24File/235.jpg",
@@ -17928,6 +18035,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/江藤拓"
+        },
+        {
+          "note": "website",
+          "url": "http://www.face.ne.jp/etohtaku/"
         }
       ],
       "name": "ETO Taku",
@@ -18131,6 +18242,10 @@
           "scheme": "musicbrainz"
         },
         {
+          "identifier": "Jun-Matsumoto-3",
+          "scheme": "quora"
+        },
+        {
           "identifier": "160202970",
           "scheme": "viaf"
         },
@@ -18146,6 +18261,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جون_ماتسوموتو"
+        },
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Jun_Matsumoto"
@@ -18236,6 +18355,11 @@
         {
           "name": "Jun Matsumoto",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "جون ماتسوموتو",
+          "note": "multilingual"
         },
         {
           "lang": "ca",
@@ -18518,6 +18642,14 @@
           "url": "https://de.wikipedia.org/wiki/Katsutoshi_Kaneda"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Katsutoshi_Kaneda"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Katsutoshi_Kaneda"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/金田勝年"
         },
@@ -18722,7 +18854,7 @@
           "value": "abetoshiko"
         }
       ],
-      "family_name": "Abe",
+      "family_name": "Abei",
       "gender": "female",
       "given_name": "Toshiko",
       "id": "69480895-0126-4e03-8a93-ddc2cc9547e2",
@@ -19654,6 +19786,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/shinjiro.koizumi"
+        },
+        {
+          "note": "website",
+          "url": "http://shinjiro.info/"
         }
       ],
       "name": "KOIZUMI Shinjiro",
@@ -20952,6 +21088,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/木村太郎_(政治家)"
+        },
+        {
+          "note": "website",
+          "url": "http://www1.biz.biglobe.ne.jp/~k-taro/"
         }
       ],
       "name": "KIMURA Taro",
@@ -21139,6 +21279,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/梶山弘志"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kajiyama-office.com/"
         }
       ],
       "name": "KAJIYAMA Hiroshi",
@@ -21927,6 +22071,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Kunio_Hatoyama"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Kunio_Hatoyama"
         },
@@ -21980,6 +22128,11 @@
         {
           "name": "Kunio Hatoyama",
           "note": "alternate"
+        },
+        {
+          "lang": "bi",
+          "name": "Kunio Hatoyama",
+          "note": "multilingual"
         },
         {
           "lang": "cs",
@@ -22851,6 +23004,10 @@
           "url": "https://ar.wikipedia.org/wiki/يوريكو_كويكي"
         },
         {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Yuriko_Koike"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Yuriko_Koike"
         },
@@ -22948,6 +23105,11 @@
         {
           "lang": "ar",
           "name": "يوريكو كويكي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bi",
+          "name": "Yuriko Koike",
           "note": "multilingual"
         },
         {
@@ -24125,6 +24287,7 @@
     },
     {
       "birth_date": "1955-10-21",
+      "family_name": "Hamada",
       "gender": "male",
       "id": "86330871-8024-425a-a362-909b6ffc67a3",
       "identifiers": [
@@ -26098,6 +26261,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/松原仁"
+        },
+        {
+          "note": "website",
+          "url": "http://www.jin-m.com/index.html"
         }
       ],
       "name": "MATSUBARA Jin",
@@ -26407,6 +26574,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "0000 0000 5295 232X",
+          "scheme": "isni"
+        },
+        {
           "identifier": "nr2005027994",
           "scheme": "lcauth"
         },
@@ -26441,6 +26612,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/h.yoshiie"
+        },
+        {
+          "note": "website",
+          "url": "http://www.yoshiie-hiroyuki.com/seisaku/"
         }
       ],
       "name": "YOSHIIE Hiroyuki",
@@ -27105,6 +27280,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/naomi.tokashiki.7"
+        },
+        {
+          "note": "website",
+          "url": "http://www.tokashiki.gr.jp/"
         }
       ],
       "name": "TOKASHIKI Naomi",
@@ -27507,6 +27686,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/中根一幸"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kumagaya.or.jp/~nakane/"
         }
       ],
       "name": "NAKANE Kazuyuki",
@@ -28889,6 +29072,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Masato Imai",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Имаи, Масато",
           "note": "multilingual"
@@ -29205,6 +29393,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/笠浩史"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ryu-h.net/"
         }
       ],
       "name": "RYU Hirofumi",
@@ -29312,6 +29504,9 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/098.jpg/%24File/098.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Queen's_Birthsday_Party_2016_(26830017170).jpg"
         }
       ],
       "links": [
@@ -29605,6 +29800,10 @@
         {
           "identifier": "/m/03cfntd",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0000 4961 301X",
+          "scheme": "isni"
         },
         {
           "identifier": "00399078",
@@ -30111,6 +30310,9 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/367.jpg/%24File/367.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ryo_Shuhama_Akio_Fukuda_and_Takashi_Morita_201109.jpg"
         }
       ],
       "links": [
@@ -30321,6 +30523,9 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/041.jpg/%24File/041.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/사본_-8632564647_fb1ba67294_o.jpg"
         }
       ],
       "links": [
@@ -30604,7 +30809,7 @@
           "value": "abe_tomoko"
         }
       ],
-      "family_name": "Abe",
+      "family_name": "Abei",
       "gender": "female",
       "given_name": "Tomoko",
       "id": "b590e0e1-666d-44ed-b396-c45d9d7414fa",
@@ -30792,6 +30997,10 @@
         {
           "identifier": "Q132345",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "Abe-17",
+          "scheme": "wikitree"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/006.jpg/%24File/006.jpg",
@@ -30827,6 +31036,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Шиндзо_Абе"
+        },
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Shinzō_Abe"
         },
         {
           "note": "Wikipedia (bn)",
@@ -31061,6 +31274,10 @@
           "url": "https://pt.wikipedia.org/wiki/Shinzō_Abe"
         },
         {
+          "note": "Wikipedia (ptwikinews)",
+          "url": "https://ptwikinews.wikipedia.org/wiki/Categoria:Shinzo_Abe"
+        },
+        {
           "note": "Wikipedia (ptwikiquote)",
           "url": "https://ptwikiquote.wikipedia.org/wiki/Shinzō_Abe"
         },
@@ -31103,6 +31320,10 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Шинзо_Абе"
+        },
+        {
+          "note": "Wikipedia (srwikinews)",
+          "url": "https://srwikinews.wikipedia.org/wiki/Категорија:Шинзо_Абе"
         },
         {
           "note": "Wikipedia (su)",
@@ -31169,10 +31390,6 @@
           "url": "https://zh_yue.wikipedia.org/wiki/安倍晉三"
         },
         {
-          "note": "Wikipedia (zhwikiquote)",
-          "url": "https://zhwikiquote.wikipedia.org/wiki/安倍晉三"
-        },
-        {
           "note": "Wikipedia (zu)",
           "url": "https://zu.wikipedia.org/wiki/Shinzō_Abe"
         },
@@ -31226,8 +31443,13 @@
           "note": "multilingual"
         },
         {
+          "lang": "bi",
+          "name": "Shinzō Abe",
+          "note": "multilingual"
+        },
+        {
           "lang": "bn",
-          "name": "শিনযো আবে",
+          "name": "শিনজো আবে",
           "note": "multilingual"
         },
         {
@@ -31362,7 +31584,7 @@
         },
         {
           "lang": "it",
-          "name": "Shinzo Abe",
+          "name": "Shinzō Abe",
           "note": "multilingual"
         },
         {
@@ -31653,6 +31875,16 @@
         {
           "lang": "zh-hk",
           "name": "安倍晉三",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "安倍晉三",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "安倍晋三",
           "note": "multilingual"
         },
         {
@@ -32182,6 +32414,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كويتشي_ياماموتو"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Kōichi_Yamamoto"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Koichi_Yamamoto"
         },
@@ -32203,6 +32443,11 @@
         {
           "name": "Koichi Yamamoto",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "كويتشي ياماموتو",
+          "note": "multilingual"
         },
         {
           "lang": "de",
@@ -33445,6 +33690,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/黄川田徹"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kikawada.com/"
         }
       ],
       "name": "KIKAWADA Toru",
@@ -34179,6 +34428,9 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/384.jpg/%24File/384.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Prime_Minister_Narendra_Modi_at_a_meeting_with_Chairman_of_the_General_Council_of_Liberal_Democratic_Party_of_Japan,_Hiroyuki_Hosoda.jpg"
         }
       ],
       "links": [
@@ -34559,6 +34811,12 @@
     },
     {
       "birth_date": "1962-01-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "yamanoikazunori"
+        }
+      ],
       "gender": "male",
       "given_name": "Kazunori",
       "id": "d268f274-164e-4c30-b452-4288a820adea",
@@ -34598,6 +34856,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/yamanoikazunori"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/yamanoikazunori"
         }
       ],
       "name": "YAMANOI Kazunori",
@@ -35217,6 +35479,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/matsunamikenta"
+        },
+        {
+          "note": "website",
+          "url": "http://www.kentakenta.com/"
         }
       ],
       "name": "MATSUNAMI Kenta",
@@ -35569,6 +35835,10 @@
           "url": "https://en.wikipedia.org/wiki/Motoo_Hayashi"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Motoo_Hayashi"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/林幹雄"
         },
@@ -35579,6 +35849,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/林幹雄"
+        },
+        {
+          "note": "website",
+          "url": "http://park19.wakwak.com/~motoo/"
         }
       ],
       "name": "HAYASHI Motoo",
@@ -35678,6 +35952,10 @@
         {
           "identifier": "tanihata_takashi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 7704 9403",
+          "scheme": "isni"
         },
         {
           "identifier": "00398387",
@@ -36137,8 +36415,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "kana",
+          "name": "たにがわ やいち",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Yaichi Tanigawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Танигава, Яити",
           "note": "multilingual"
         },
         {
@@ -36434,6 +36722,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/務台俊介"
+        },
+        {
+          "note": "website",
+          "url": "http://www.mutai-shunsuke.jp/"
         }
       ],
       "name": "MUTAI Shunsuke",
@@ -36491,6 +36783,12 @@
     },
     {
       "birth_date": "1962-02-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nagashima21"
+        }
+      ],
       "gender": "male",
       "given_name": "Akihisa",
       "id": "e1bd8013-3739-4b67-b6b3-64f5d98ccbf0",
@@ -36534,6 +36832,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/aki.nagashima21"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nagashima21"
         }
       ],
       "name": "NAGASHIMA Akihisa",
@@ -36807,6 +37109,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/ishihara.hirotaka.18"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ishihara-hirotaka.com/"
         }
       ],
       "name": "ISHIHARA Hirotaka",
@@ -38216,6 +38522,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "0000 0000 7135 8692",
+          "scheme": "isni"
+        },
+        {
           "identifier": "n2009055317",
           "scheme": "lcauth"
         },
@@ -38798,6 +39108,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ar",
+          "name": "أكيرا ساتو",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Akira Satō",
           "note": "multilingual"
@@ -38873,6 +39188,14 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/赤間二郎"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/赤間二郎"
+        },
+        {
+          "note": "website",
+          "url": "http://akama.jp/"
         }
       ],
       "name": "AKAMA Jiro",
@@ -39495,12 +39818,24 @@
       "id": "f354b511-1182-43fd-9b27-76dd3b216124",
       "identifiers": [
         {
+          "identifier": "DA0635412X",
+          "scheme": "cinii"
+        },
+        {
           "identifier": "tsujimoto_kiyomi",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "/m/07w9r5",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "0000 0001 2284 4923",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n2010023501",
+          "scheme": "lcauth"
         },
         {
           "identifier": "00212776",
@@ -39970,6 +40305,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/石田真敏"
+        },
+        {
+          "note": "website",
+          "url": "http://www.ishida-masatoshi.net/"
         }
       ],
       "name": "ISHIDA Masatoshi",
@@ -40928,7 +41267,7 @@
     },
     {
       "birth_date": "1955",
-      "family_name": "Kato",
+      "family_name": "Katō",
       "gender": "male",
       "id": "fd15bd71-5faa-42b7-b977-c870caca8206",
       "identifiers": [
@@ -42375,7 +42714,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -42886,6 +43225,16 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
@@ -43873,7 +44222,7 @@
         },
         {
           "lang": "sco",
-          "name": "Liberal Democratic Pairty",
+          "name": "Leeberal Democratic Pairty",
           "note": "multilingual"
         },
         {
@@ -43959,6 +44308,16 @@
         {
           "lang": "wuu",
           "name": "日本自民党",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Liberal Democratic Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Liberal Democratic Party",
           "note": "multilingual"
         },
         {
