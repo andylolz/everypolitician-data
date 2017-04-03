@@ -1402,14 +1402,26 @@
       "classification": "legislative period",
       "end_date": "2012-03",
       "id": "term/2006",
+      "identifiers": [
+        {
+          "identifier": "Q29110567",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "1st Territorial Council",
       "organization_id": "5883e5b5-f5e8-4f76-a6eb-ac01aa3daefc",
       "start_date": "2006-03"
     },
     {
       "classification": "legislative period",
-      "end_date": "2017",
+      "end_date": "2017-03",
       "id": "term/2012",
+      "identifiers": [
+        {
+          "identifier": "Q29110568",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "2nd Territorial Council",
       "organization_id": "5883e5b5-f5e8-4f76-a6eb-ac01aa3daefc",
       "start_date": "2012-03"
