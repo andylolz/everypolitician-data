@@ -4048,6 +4048,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Yen_Kuan-heng"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yen_Kuan-heng"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/顏寬恒"
         },
@@ -4061,6 +4065,11 @@
         {
           "name": "顏寬恒",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yen Kuan-heng",
+          "note": "multilingual"
         },
         {
           "lang": "nan",
