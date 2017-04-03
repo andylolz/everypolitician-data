@@ -1464,6 +1464,19 @@
       "description": "Representative"
     }
   ],
+  "Q26703083": [
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "2016-07-02",
+        "P582": "2017-01-11",
+        "P768": "Western Australia"
+      }
+    }
+  ],
   "Q16215128": [
     {
       "id": "Q6814428",
@@ -2019,6 +2032,18 @@
       "description": "Representative"
     }
   ],
+  "Q5693874": [
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative",
+      "qualifiers": {
+        "P582": "1999-06-23",
+        "P1534": "Sue v Hill"
+      }
+    }
+  ],
   "Q5593047": [
     {
       "id": "Q6814428",
@@ -2080,6 +2105,18 @@
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
       "description": "Representative"
+    }
+  ],
+  "Q28922735": [
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Western Australia",
+        "P580": "2017-03-10"
+      }
     }
   ],
   "Q7172714": [
@@ -2650,13 +2687,24 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "2011-07-01"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Wakefield",
+        "P580": "2004-10-09",
+        "P582": "2007-11-24",
+        "P1365": "Neil Andrew",
+        "P1366": "Nick Champion"
+      }
     }
   ],
   "Q6489515": [
@@ -3348,13 +3396,38 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "1978-07-01",
+        "P582": "1990-06-30"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Isaacs",
+        "P580": "1969-10-25",
+        "P582": "1974-05-18",
+        "P1365": "",
+        "P1366": "Gareth Clayton"
+      }
+    },
+    {
+      "id": "Q18912794",
+      "label": "Member of the Australian House of Representatives",
+      "title": "Member of the Australian House of Representatives",
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Isaacs",
+        "P580": "1975-12-13",
+        "P582": "1977-11-10",
+        "P1365": "Gareth Clayton",
+        "P1366": "William Burns"
+      }
     }
   ],
   "Q7369472": [
