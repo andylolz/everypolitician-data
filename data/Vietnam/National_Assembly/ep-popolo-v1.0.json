@@ -78,6 +78,24 @@
       ]
     },
     {
+      "birth_date": "1983-01-23",
+      "gender": "female",
+      "id": "01dbde72-c7ca-48fa-9a96-6351277a13d2",
+      "identifiers": [
+        {
+          "identifier": "Vi-Thi-Huong",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2173.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2173.jpg"
+        }
+      ],
+      "name": "Vi Thị Hương"
+    },
+    {
       "birth_date": "1963-10-10",
       "gender": "male",
       "id": "02bbd024-d4d3-47d3-9ce9-857d3261615c",
@@ -1264,6 +1282,24 @@
       "name": "Trương Minh Chiến"
     },
     {
+      "birth_date": "1964-02-02",
+      "gender": "male",
+      "id": "1604bab0-ca88-4719-bf51-46d034a982b0",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Van-Minh",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2832.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2832.jpg"
+        }
+      ],
+      "name": "Nguyễn Văn Minh"
+    },
+    {
       "birth_date": "1958-10-07",
       "gender": "male",
       "id": "179135ce-af59-4fd7-a8f8-5b7b227d7c85",
@@ -2235,18 +2271,6 @@
         }
       ],
       "name": "Nguyễn Kim Hồng"
-    },
-    {
-      "birth_date": "1983-01-23",
-      "gender": "female",
-      "id": "26b8ef1b-1138-4af5-9bb7-a5d102c5ea7a",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2173.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2173.jpg"
-        }
-      ],
-      "name": "Vi Thị Hương"
     },
     {
       "birth_date": "1970-01-31",
@@ -3963,6 +3987,24 @@
       ]
     },
     {
+      "birth_date": "1967-06-16",
+      "gender": "male",
+      "id": "395f44a5-c610-489d-a695-59498be243ee",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Ngoc-Bao",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2828.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2828.jpg"
+        }
+      ],
+      "name": "Nguyễn Ngọc Bảo"
+    },
+    {
       "birth_date": "1966-04-08",
       "gender": "male",
       "id": "39860d95-a320-4d05-bc7c-4f1ccdd42aae",
@@ -4032,18 +4074,6 @@
         }
       ],
       "name": "Bùi Đức Thụ"
-    },
-    {
-      "birth_date": "1954-05-19",
-      "gender": "male",
-      "id": "3a3cd953-f25a-422e-8040-6d2d25d2e747",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2019.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2019.jpg"
-        }
-      ],
-      "name": "Nguyễn Văn Hiện"
     },
     {
       "birth_date": "1960-02-03",
@@ -4245,6 +4275,41 @@
         {
           "lang": "vi",
           "name": "Nguyễn Ngọc Phương",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1966-02-20",
+      "gender": "male",
+      "id": "3b43a0a8-12f8-4775-a710-c07dbc16f618",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Huu-%C4%90uc",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10799206",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2284.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2284.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Hữu_Đức"
+        }
+      ],
+      "name": "Nguyễn Hữu Đức",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Hữu Đức",
           "note": "multilingual"
         }
       ]
@@ -8468,6 +8533,41 @@
       "name": "Nguyễn Minh Hồng"
     },
     {
+      "birth_date": "1954-05-19",
+      "gender": "male",
+      "id": "739abd92-b69f-4ac9-a4a3-6afef90e041b",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Van-Hien",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10799904",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2019.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2019.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Văn_Hiện"
+        }
+      ],
+      "name": "Nguyễn Văn Hiện",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Văn Hiện",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1954-09-04",
       "gender": "male",
       "id": "755d360c-04d0-462c-8d72-5840fc2d9d94",
@@ -8571,18 +8671,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "birth_date": "1964-02-02",
-      "gender": "male",
-      "id": "7697501b-d42e-4d15-b1f6-d9477cb9f490",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2832.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2832.jpg"
-        }
-      ],
-      "name": "Nguyễn Văn Minh"
     },
     {
       "birth_date": "1965-03-10",
@@ -8941,18 +9029,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "birth_date": "1966-02-20",
-      "gender": "male",
-      "id": "7b0e0a86-481c-4861-9aeb-4468b30d35e6",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2284.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2284.jpg"
-        }
-      ],
-      "name": "Nguyễn Hữu Đức"
     },
     {
       "birth_date": "1958-04-26",
@@ -10606,6 +10682,41 @@
       ]
     },
     {
+      "birth_date": "1956-08-26",
+      "gender": "male",
+      "id": "8fc01d71-7f62-498a-91da-2408d1855ed5",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Van-Thanh",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10799980",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2093.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2093.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Văn_Thanh_(trung_tướng)"
+        }
+      ],
+      "name": "Nguyễn Văn Thanh",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Văn Thanh",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1964-07-07",
       "gender": "male",
       "id": "9042a404-8858-460f-a3be-c82816fc5208",
@@ -11818,18 +11929,6 @@
       ]
     },
     {
-      "birth_date": "1962-07-09",
-      "gender": "female",
-      "id": "98557191-9feb-4b79-abc5-b37fd8efd831",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2741.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2741.jpg"
-        }
-      ],
-      "name": "Nguyễn Thanh Thụy"
-    },
-    {
       "birth_date": "1953-07-21",
       "gender": "male",
       "id": "99489d2f-d98e-4b13-a985-3cc7f4c5f956",
@@ -12991,6 +13090,41 @@
       ]
     },
     {
+      "birth_date": "1960-06-15",
+      "gender": "male",
+      "id": "b58f63f4-4a40-4a14-ac0b-b2e35f69301f",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Thanh-Tung",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10799507",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2743.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2743.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Thanh_Tùng_(sinh_1959)"
+        }
+      ],
+      "name": "Nguyễn Thanh Tùng",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Thanh Tùng",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1956-04-20",
       "gender": "male",
       "id": "b5df9b40-fe8a-4aa9-a66f-caea01c7f868",
@@ -13880,18 +14014,6 @@
       ]
     },
     {
-      "birth_date": "1956-08-26",
-      "gender": "male",
-      "id": "c45844c0-e9c2-4be2-9607-340be7585afb",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2093.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2093.jpg"
-        }
-      ],
-      "name": "Nguyễn Văn Thanh"
-    },
-    {
       "birth_date": "1956-01-02",
       "gender": "male",
       "id": "c553b909-0dac-4310-a27e-d6edec65ab11",
@@ -13964,18 +14086,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "birth_date": "1960-06-15",
-      "gender": "male",
-      "id": "c6121bad-f208-467f-8df0-07f332f6e46a",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2743.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2743.jpg"
-        }
-      ],
-      "name": "Nguyễn Thanh Tùng"
     },
     {
       "birth_date": "1957-05-26",
@@ -14320,6 +14430,41 @@
         {
           "lang": "vi",
           "name": "Nguyễn Văn Tính",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1962-07-09",
+      "gender": "female",
+      "id": "c9784a90-a11d-43b1-90bc-694ac1893824",
+      "identifiers": [
+        {
+          "identifier": "Nguyen-Thanh-Thuy",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10799502",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://dbqh.na.gov.vn/data/images/XIII/2741.jpg",
+      "images": [
+        {
+          "url": "http://dbqh.na.gov.vn/data/images/XIII/2741.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Nguyễn_Thanh_Thụy"
+        }
+      ],
+      "name": "Nguyễn Thanh Thụy",
+      "other_names": [
+        {
+          "lang": "vi",
+          "name": "Nguyễn Thanh Thụy",
           "note": "multilingual"
         }
       ]
@@ -16836,18 +16981,6 @@
       ]
     },
     {
-      "birth_date": "1967-06-16",
-      "gender": "male",
-      "id": "f0282cf6-20e1-44b0-a23c-a34855e3b64b",
-      "image": "http://dbqh.na.gov.vn/data/images/XIII/2828.jpg",
-      "images": [
-        {
-          "url": "http://dbqh.na.gov.vn/data/images/XIII/2828.jpg"
-        }
-      ],
-      "name": "Nguyễn Ngọc Bảo"
-    },
-    {
       "birth_date": "1964-02-10",
       "gender": "female",
       "id": "f0b609d4-3172-4a14-8816-843fa7fd6a31",
@@ -17850,6 +17983,19 @@
       ]
     },
     {
+      "area_id": "area/Điện_biên",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "01dbde72-c7ca-48fa-9a96-6351277a13d2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/64/2173/Vi-Thi-Huong.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/kon_tum",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -18331,6 +18477,19 @@
       ]
     },
     {
+      "area_id": "area/tp_hồ_chí_minh",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "1604bab0-ca88-4719-bf51-46d034a982b0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/29/2832/Nguyen-Van-Minh.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/quảng_bình",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -18730,19 +18889,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/19/1991/Nguyen-Kim-Hong.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/Điện_biên",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "26b8ef1b-1138-4af5-9bb7-a5d102c5ea7a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/64/2173/Vi-Thi-Huong.aspx"
         }
       ]
     },
@@ -19228,6 +19374,19 @@
       ]
     },
     {
+      "area_id": "area/tp_hà_nội",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "395f44a5-c610-489d-a695-59498be243ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/23/2828/Nguyen-Ngoc-Bao.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/thái_nguyên",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -19263,19 +19422,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/37/1974/Bui-%C4%90uc-Thu.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/sơn_la",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "3a3cd953-f25a-422e-8040-6d2d25d2e747",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/50/2019/Nguyen-Van-Hien.aspx"
         }
       ]
     },
@@ -19354,6 +19500,19 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/45/2943/Nguyen-Ngoc-Phuong.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "area/Đồng_tháp",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "3b43a0a8-12f8-4775-a710-c07dbc16f618",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/19/2284/Nguyen-Huu-%C4%90uc.aspx"
         }
       ]
     },
@@ -20762,6 +20921,19 @@
       ]
     },
     {
+      "area_id": "area/sơn_la",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "739abd92-b69f-4ac9-a4a3-6afef90e041b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/50/2019/Nguyen-Van-Hien.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/quảng_nam",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -20797,19 +20969,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/5/1948/Nguyen-%C4%90ang-Tien.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/tp_hồ_chí_minh",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "7697501b-d42e-4d15-b1f6-d9477cb9f490",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/29/2832/Nguyen-Van-Minh.aspx"
         }
       ]
     },
@@ -20914,19 +21073,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/12/2021/Nguyen-Thi-Kim-Ngan.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/Đồng_tháp",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "7b0e0a86-481c-4861-9aeb-4468b30d35e6",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/19/2284/Nguyen-Huu-%C4%90uc.aspx"
         }
       ]
     },
@@ -21477,6 +21623,19 @@
       ]
     },
     {
+      "area_id": "area/tp_hà_nội",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "8fc01d71-7f62-498a-91da-2408d1855ed5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/23/2093/Nguyen-Van-Thanh.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/tây_ninh",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -21850,19 +22009,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/20/2585/A-Nhin.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/bình_Định",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "98557191-9feb-4b79-abc5-b37fd8efd831",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/8/2741/Nguyen-Thanh-Thuy.aspx"
         }
       ]
     },
@@ -22361,6 +22507,19 @@
       ]
     },
     {
+      "area_id": "area/bình_Định",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "b58f63f4-4a40-4a14-ac0b-b2e35f69301f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/8/2743/Nguyen-Thanh-Tung.aspx"
+        }
+      ]
+    },
+    {
       "area_id": "area/tp_hồ_chí_minh",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -22712,19 +22871,6 @@
       ]
     },
     {
-      "area_id": "area/tp_hà_nội",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "c45844c0-e9c2-4be2-9607-340be7585afb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/23/2093/Nguyen-Van-Thanh.aspx"
-        }
-      ]
-    },
-    {
       "area_id": "area/hải_dương",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "party/unknown",
@@ -22747,19 +22893,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/39/2977/Linh-muc-Le-Ngoc-Hoan.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/bình_Định",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "c6121bad-f208-467f-8df0-07f332f6e46a",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/8/2743/Nguyen-Thanh-Tung.aspx"
         }
       ]
     },
@@ -22890,6 +23023,19 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/84/2597/Nguyen-Van-Tinh.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bình_Định",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
+      "person_id": "c9784a90-a11d-43b1-90bc-694ac1893824",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://dbqh.na.gov.vn/daibieu/8/2741/Nguyen-Thanh-Thuy.aspx"
         }
       ]
     },
@@ -23904,19 +24050,6 @@
       "sources": [
         {
           "url": "http://dbqh.na.gov.vn/daibieu/56/1993/Le-Minh-Thong.aspx"
-        }
-      ]
-    },
-    {
-      "area_id": "area/tp_hà_nội",
-      "legislative_period_id": "term/13",
-      "on_behalf_of_id": "party/unknown",
-      "organization_id": "d201cd06-340c-4f72-a23f-8eca816bff46",
-      "person_id": "f0282cf6-20e1-44b0-a23c-a34855e3b64b",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://dbqh.na.gov.vn/daibieu/23/2828/Nguyen-Ngoc-Bao.aspx"
         }
       ]
     },
