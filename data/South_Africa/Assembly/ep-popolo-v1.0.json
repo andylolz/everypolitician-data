@@ -1569,6 +1569,10 @@
         {
           "identifier": "deidre-carter",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28848631",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/3a/91/3a91b3a2d4a47e369c8a9b113dabf17a.jpg",
@@ -1577,7 +1581,25 @@
           "url": "http://www.pa.org.za/media_root/cache/3a/91/3a91b3a2d4a47e369c8a9b113dabf17a.jpg"
         }
       ],
-      "name": "Deidre Carter"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Deidre_Carter"
+        }
+      ],
+      "name": "Deidre Carter",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Deidre Carter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Deidre Carter",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-09-30",
@@ -3652,6 +3674,10 @@
         {
           "identifier": "derrick-america",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28861539",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/85/4b/854ba9c5d83540004d64644e2b158ae8.jpg",
@@ -3660,7 +3686,25 @@
           "url": "http://www.pa.org.za/media_root/cache/85/4b/854ba9c5d83540004d64644e2b158ae8.jpg"
         }
       ],
-      "name": "Derrick America"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Derrick_America"
+        }
+      ],
+      "name": "Derrick America",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Derrick America",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Derrick America",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5087,13 +5131,17 @@
         }
       ],
       "email": "cdudley@parliament.gov.za",
-      "gender": "female",
+      "gender": "male",
       "honorific_prefix": "Mrs",
       "id": "46cdb710-2a76-4dc8-8421-c417fc1ac3cf",
       "identifiers": [
         {
           "identifier": "cheryllyn-dudley",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16744389",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/6f/75/6f759df78515c37be61bd72afdba39a8.jpg",
@@ -5102,7 +5150,35 @@
           "url": "http://www.pa.org.za/media_root/cache/6f/75/6f759df78515c37be61bd72afdba39a8.jpg"
         }
       ],
-      "name": "Cheryllyn Dudley"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cheryllyn_Dudley"
+        }
+      ],
+      "name": "Cheryllyn Dudley",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Cheryllyn Dudley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Cheryllyn Dudley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cheryllyn Dudley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cheryllyn Dudley",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -7745,6 +7821,10 @@
         {
           "identifier": "mduduzi-comfort-manana",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28943611",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/ec/1a/ec1ab062136b402746c03fdefd74dd68.jpg",
@@ -7753,7 +7833,25 @@
           "url": "http://www.pa.org.za/media_root/cache/ec/1a/ec1ab062136b402746c03fdefd74dd68.jpg"
         }
       ],
-      "name": "Mduduzi Manana"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mduduzi_Manana"
+        }
+      ],
+      "name": "Mduduzi Manana",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Mduduzi Manana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mduduzi Manana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -8788,6 +8886,10 @@
         {
           "identifier": "ayanda-dlodlo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28839897",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/60/d0/60d0c2c9c533e6e0d23f6ecc15de7892.jpg",
@@ -8796,7 +8898,25 @@
           "url": "http://www.pa.org.za/media_root/cache/60/d0/60d0c2c9c533e6e0d23f6ecc15de7892.jpg"
         }
       ],
-      "name": "Ayanda Dlodlo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ayanda_Dlodlo"
+        }
+      ],
+      "name": "Ayanda Dlodlo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ayanda Dlodlo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ayanda Dlodlo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -9359,6 +9479,10 @@
         {
           "identifier": "emmanuel-ramaotoana-kebby-maphatsoe",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28086077",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg",
@@ -9367,7 +9491,25 @@
           "url": "http://www.pa.org.za/media_root/cache/63/03/6303e26e1c17e4ca6e11a3693322210e.jpg"
         }
       ],
-      "name": "Kebby Maphatsoe"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kebby_Maphatsoe"
+        }
+      ],
+      "name": "Kebby Maphatsoe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kebby Maphatsoe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kebby Maphatsoe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -10041,6 +10183,10 @@
         {
           "identifier": "madala-backson-masuku",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28011915",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg",
@@ -10049,7 +10195,20 @@
           "url": "http://www.pa.org.za/media_root/cache/6c/95/6c95f3509f8a24fdf7f12faf3c49d4f9.jpg"
         }
       ],
-      "name": "Madala Masuku"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Madala_Masuku"
+        }
+      ],
+      "name": "Madala Masuku",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Madala Masuku",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-08-21",
