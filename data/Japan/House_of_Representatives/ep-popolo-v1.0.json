@@ -23044,6 +23044,10 @@
           "url": "https://id.wikipedia.org/wiki/Yuriko_Koike"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Yuriko_Koike"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/小池百合子"
         },
@@ -23149,6 +23153,11 @@
         },
         {
           "lang": "id",
+          "name": "Yuriko Koike",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Yuriko Koike",
           "note": "multilingual"
         },
