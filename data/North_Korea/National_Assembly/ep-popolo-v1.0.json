@@ -7471,6 +7471,10 @@
           "url": "https://hu.wikipedia.org/wiki/Pak_Icshun"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Pak_Ui-chun"
+        },
+        {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/朴宜春"
         },
@@ -7531,6 +7535,11 @@
         {
           "lang": "hu",
           "name": "Pak Icshun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pak Ui-chun",
           "note": "multilingual"
         },
         {
