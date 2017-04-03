@@ -217,6 +217,16 @@
       "name": "José Maria Gomes da Veiga"
     },
     {
+      "id": "1f57a597-015d-4f1f-af14-2cdec3b14123",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410"
+        }
+      ],
+      "name": "Luís António Gomes Alves"
+    },
+    {
       "gender": "male",
       "id": "24d530ab-f4e8-4718-9325-a66a86cf871f",
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=396",
@@ -1068,6 +1078,16 @@
       "name": "José Filomeno Monteiro"
     },
     {
+      "id": "ad8a32b8-0cf6-4901-a04f-44e9abb61cde",
+      "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409",
+      "images": [
+        {
+          "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409"
+        }
+      ],
+      "name": "Emanuel Jesus Correia Lopes"
+    },
+    {
       "gender": "male",
       "id": "b0d8214d-43e8-4ff0-af6b-cc57c8e27bf1",
       "identifiers": [
@@ -1759,7 +1779,7 @@
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=310"
         }
       ],
-      "name": "Humberto Elísio Lélis Sousa Duarte"
+      "name": "Humberto Elísio Lélis Duarte"
     },
     {
       "gender": "male",
@@ -1922,7 +1942,7 @@
         },
         {
           "lang": "ru",
-          "name": "Movement for Democracy",
+          "name": "Движение за демократию",
           "note": "multilingual"
         },
         {
@@ -2027,7 +2047,7 @@
         },
         {
           "lang": "de",
-          "name": "Partido Africano da Independencia de Cabo Verde",
+          "name": "Partido Africano da Independência de Cabo Verde",
           "note": "multilingual"
         },
         {
@@ -2236,6 +2256,11 @@
         {
           "lang": "ca",
           "name": "Unió Capverdiana Independent i Democràtica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión Caboverdiana Independiente y Democrática",
           "note": "multilingual"
         }
       ]
@@ -2509,6 +2534,19 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=337"
+        }
+      ]
+    },
+    {
+      "area_id": "area/fogo",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "1f57a597-015d-4f1f-af14-2cdec3b14123",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=10410"
         }
       ]
     },
@@ -3432,6 +3470,19 @@
       "sources": [
         {
           "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=404"
+        }
+      ]
+    },
+    {
+      "area_id": "area/santiago_sul",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "MPD",
+      "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
+      "person_id": "ad8a32b8-0cf6-4901-a04f-44e9abb61cde",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.cv/Inform_Dep2.aspx?CodDeputado=10409"
         }
       ]
     },
