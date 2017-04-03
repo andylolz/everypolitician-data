@@ -19219,41 +19219,6 @@
       "sort_name": "Muller, Todd"
     },
     {
-      "gender": "male",
-      "given_name": "Raymond",
-      "id": "e76fa26a-b134-49b4-b132-0c47be05a977",
-      "identifiers": [
-        {
-          "identifier": "Q7298875",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Raymond_Huo"
-        }
-      ],
-      "name": "Raymond Huo",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Raymond Huo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Raymond Huo",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "霍建強",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1949-05-22",
       "gender": "male",
       "given_name": "Ross",
@@ -28777,6 +28742,22 @@
     },
     {
       "area_id": "area/list",
+      "legislative_period_id": "term/49",
+      "on_behalf_of_id": "party/new_zealand_labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "party/new_zealand_labour_party",
+      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
+      "person_id": "c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "role": "member"
+    },
+    {
+      "area_id": "area/list",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -29632,22 +29613,6 @@
           "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP3651/muller-todd"
         }
       ]
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/49",
-      "on_behalf_of_id": "party/new_zealand_labour_party",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "e76fa26a-b134-49b4-b132-0c47be05a977",
-      "role": "member"
-    },
-    {
-      "area_id": "area/list",
-      "legislative_period_id": "term/50",
-      "on_behalf_of_id": "party/new_zealand_labour_party",
-      "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
-      "person_id": "e76fa26a-b134-49b4-b132-0c47be05a977",
-      "role": "member"
     },
     {
       "area_id": "area/manukau_east",
