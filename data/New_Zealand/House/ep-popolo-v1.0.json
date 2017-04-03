@@ -18153,8 +18153,64 @@
       "sort_name": "Sio, Aupito William"
     },
     {
+      "birth_date": "1967",
+      "gender": "female",
+      "given_name": "Katherine",
       "id": "de95ecfb-8247-4135-9f7b-d74457460f60",
+      "identifiers": [
+        {
+          "identifier": "Q6376524",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Katherine_Rich"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Katherine_Rich"
+        }
+      ],
       "name": "Katherine Rich",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Katherine Rich",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rich, Katherine"
     },
     {
