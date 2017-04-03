@@ -1259,22 +1259,32 @@
       "sort_name": "MIRJANA MARJANOVIC"
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-11-28",
       "contact_details": [
         {
           "type": "twitter",
           "value": "bauerivan"
         }
       ],
+      "gender": "male",
+      "given_name": "Ivan",
       "honorific_prefix": "Dr",
       "id": "1ca38fe6-06fb-4ec4-ae4f-3481a220c38c",
       "identifiers": [
         {
           "identifier": "713",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28861533",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Bauer"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ivan.bauer.127"
@@ -1285,6 +1295,18 @@
         }
       ],
       "name": "IVAN BAUER",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan Bauer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Bauer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "IVAN Dr BAUER"
     },
     {
@@ -3819,7 +3841,7 @@
       "sort_name": "GORAN MA CABRADI"
     },
     {
-      "birth_date": "1957",
+      "birth_date": "1957-04-01",
       "gender": "male",
       "honorific_prefix": "Dr",
       "id": "6be8353d-82f2-4b8d-a562-8e58cb88def2",
@@ -3827,9 +3849,35 @@
         {
           "identifier": "23",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28911753",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Branislav_Blažić"
         }
       ],
       "name": "BRANISLAV BLAZIC",
+      "other_names": [
+        {
+          "name": "Branislav Blažić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Branislav Blažić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Branislav Blažić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BRANISLAV Dr BLAZIC"
     },
     {
@@ -3933,14 +3981,41 @@
     },
     {
       "birth_date": "1964",
+      "gender": "male",
       "id": "70a0cb4f-1065-4143-ad44-c029b6b49a3f",
       "identifiers": [
         {
           "identifier": "782",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28911864",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Žarko_Bogatinović"
         }
       ],
       "name": "ZARKO BOGATINOVIC",
+      "other_names": [
+        {
+          "name": "Žarko Bogatinović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Žarko Bogatinović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Žarko Bogatinović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZARKO BOGATINOVIC"
     },
     {
@@ -4213,15 +4288,24 @@
           "value": "Dragana_Barisic"
         }
       ],
+      "gender": "female",
       "honorific_prefix": "Dr",
       "id": "7f92387d-a24d-4f6c-b00c-83f8b141fcdc",
       "identifiers": [
         {
           "identifier": "781",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28861412",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dragana_Barišić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/dragana.micic.barisic"
@@ -4232,6 +4316,22 @@
         }
       ],
       "name": "DRAGANA BARISIC",
+      "other_names": [
+        {
+          "name": "Dragana Barišić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Dragana Barišić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragana Barišić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DRAGANA Dr BARISIC"
     },
     {
@@ -7882,14 +7982,41 @@
     },
     {
       "birth_date": "1964",
+      "gender": "female",
       "id": "bc5c69f1-5623-4039-850f-fe6c49bb407f",
       "identifiers": [
         {
           "identifier": "758",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28869043",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milena_Bićanin"
         }
       ],
       "name": "MILENA BICANIN",
+      "other_names": [
+        {
+          "name": "Milena Bićanin",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Milena Bićanin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Milena Bićanin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILENA BICANIN"
     },
     {
@@ -9287,20 +9414,46 @@
     },
     {
       "birth_date": "1959",
+      "gender": "male",
+      "given_name": "Zoran",
       "id": "e549b222-5a80-486d-aa93-fac9d90c787c",
       "identifiers": [
         {
           "identifier": "624",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28925118",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zoran_Bojanić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/zoranboj89"
         }
       ],
       "name": "ZORAN BOJANIC",
+      "other_names": [
+        {
+          "name": "Zoran Bojanić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zoran Bojanić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoran Bojanić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZORAN BOJANIC"
     },
     {
@@ -9550,14 +9703,41 @@
     },
     {
       "birth_date": "1971",
+      "gender": "male",
       "id": "ea8e9385-274b-4814-b484-8d0eae456345",
       "identifiers": [
         {
           "identifier": "679",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28861629",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Igor_Bečić"
         }
       ],
       "name": "IGOR MA BECIC",
+      "other_names": [
+        {
+          "name": "Igor Bečić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Igor Bečić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Igor Bečić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "IGOR MA BECIC"
     },
     {
