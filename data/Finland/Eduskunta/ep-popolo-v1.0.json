@@ -54717,6 +54717,10 @@
           "url": "https://fr.wikipedia.org/wiki/Sampo_Terho"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Sampo_Terho"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Sampo_Terho"
         },
@@ -54763,6 +54767,11 @@
         },
         {
           "lang": "hu",
+          "name": "Sampo Terho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Sampo Terho",
           "note": "multilingual"
         },
