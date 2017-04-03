@@ -1,0 +1,15 @@
+id,label,description,type
+Q889830,President of Serbia,position,executive
+Q835586,Prime Minister of Serbia,position,cabinet
+Q16799332,Deputy Prime Minister of Serbia,"",cabinet
+Q2198783,Minister of Defense,government official in charge of the Ministry of Defense in Serbia,cabinet
+Q2198845,Minister of Energy and Mining,Serbian minister,cabinet
+Q17098318,Minister of Information,"",cabinet
+Q2199011,Minister of Internal Affairs,Serbian government official in charge of the Ministry of Internal Affairs,cabinet
+Q2199031,Minister of Justice of Serbia,government official in charge of the Ministry of Justice in Serbia,cabinet
+Q2199072,"Minister of Labour, Employment and Social Policy","",cabinet
+Q2198867,"Minister of Trade, Tourism and Telecommunications",Serbian government official,cabinet
+Q2198943,Minister of Foreign Affairs,government official in charge of the Ministry of Foreign Affairs in Serbia,cabinet
+Q21295999,Member of the National Assembly of Serbia,"",self
+Q7241347,President of the National Assembly of Serbia,"",self
+Q28865151,Member of the Parliament of Serbia and Montenegro,"",other_legislatures
