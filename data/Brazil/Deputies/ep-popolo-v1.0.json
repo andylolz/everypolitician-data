@@ -3065,6 +3065,10 @@
         {
           "identifier": "5830467",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27836016",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74158.jpg",
@@ -3073,7 +3077,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74158.jpg"
         }
       ],
-      "name": "MÁRIO HERINGER"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Mário_Heringer"
+        }
+      ],
+      "name": "MÁRIO HERINGER",
+      "other_names": [
+        {
+          "name": "Mário Heringer",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Mário Heringer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mário Heringer",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -15596,6 +15622,7 @@
       "name": "MISAEL VARELLA"
     },
     {
+      "birth_date": "1949-05-25",
       "contact_details": [
         {
           "type": "email",
@@ -15608,11 +15635,16 @@
       ],
       "email": "dep.adelmocarneiroleao@camara.leg.br",
       "gender": "male",
+      "given_name": "Adelmo",
       "id": "4805bda2-83ee-42fe-9327-38a041b77447",
       "identifiers": [
         {
           "identifier": "5830314",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9582599",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178890.jpg",
@@ -15621,7 +15653,59 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178890.jpg"
         }
       ],
-      "name": "ADELMO CARNEIRO LEÃO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Adelmo_Carneiro_Leão"
+        }
+      ],
+      "name": "ADELMO CARNEIRO LEÃO",
+      "other_names": [
+        {
+          "name": "Adelmo Carneiro Leão",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Adelmo Carneiro Leão",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "481d2cb9-d8df-4b7d-ae6a-9b014dc311a8",
@@ -19894,14 +19978,54 @@
     },
     {
       "gender": "male",
+      "given_name": "Bernardo",
       "id": "602a7fe6-7efe-498a-b674-7874ffd18428",
+      "identifiers": [
+        {
+          "identifier": "Q16498003",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/109152.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/109152.jpg"
         }
       ],
-      "name": "BERNARDO SANTANA DE VASCONCELLOS"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Bernardo_Santana_de_Vasconcellos"
+        }
+      ],
+      "name": "BERNARDO SANTANA DE VASCONCELLOS",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Bernardo Santana de Vasconcellos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bernardo Santana de Vasconcellos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bernardo Santana de Vasconcellos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Bernardo Santana de Vasconcellos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Bernardo Santana de Vasconcellos",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -29335,6 +29459,10 @@
         {
           "identifier": "5830746",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28465692",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/92776.jpg",
@@ -29343,7 +29471,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/92776.jpg"
         }
       ],
-      "name": "STEFANO AGUIAR"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Stefano_Aguiar"
+        }
+      ],
+      "name": "STEFANO AGUIAR",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Stefano Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Stefano Aguiar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -31707,6 +31853,7 @@
       ]
     },
     {
+      "birth_date": "1930-05-14",
       "contact_details": [
         {
           "type": "email",
@@ -31719,20 +31866,65 @@
       ],
       "email": "dep.bonifaciodeandrada@camara.leg.br",
       "gender": "male",
+      "given_name": "Bonifácio",
       "id": "969f3a6a-a40f-4bac-a898-437583651888",
       "identifiers": [
         {
           "identifier": "5830755",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16336946",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74650.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74650.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Deputado_Federal_Bonifácio_Andrada.jpg"
         }
       ],
-      "name": "BONIFÁCIO DE ANDRADA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Bonifácio_José_Tamm_de_Andrada"
+        }
+      ],
+      "name": "BONIFÁCIO DE ANDRADA",
+      "other_names": [
+        {
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Bonifácio José Tamm de Andrada",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
