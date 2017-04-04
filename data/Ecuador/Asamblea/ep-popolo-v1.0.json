@@ -2762,6 +2762,7 @@
       "name": "Herman Aníbal Moya Duque"
     },
     {
+      "birth_date": "1949-08-05",
       "contact_details": [
         {
           "type": "twitter",
@@ -2774,6 +2775,10 @@
         {
           "identifier": "204",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27978227",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-204-1397086347.jpg?itok=-ICDlksQ",
@@ -2784,6 +2789,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Antonio_Posso"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/antonio.possosalgado"
         },
@@ -2792,7 +2801,23 @@
           "url": "https://twitter.com/PossoAntonio"
         }
       ],
-      "name": "Luis Antonio Posso Salgado"
+      "name": "Luis Antonio Posso Salgado",
+      "other_names": [
+        {
+          "name": "Antonio Posso",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Antonio Posso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Antonio Posso",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3711,6 +3736,7 @@
       "name": "René Caza"
     },
     {
+      "birth_date": "1962-12-08",
       "contact_details": [
         {
           "type": "twitter",
@@ -3718,20 +3744,32 @@
         }
       ],
       "gender": "male",
+      "given_name": "Luis",
       "id": "9f252b05-eac9-4b9d-9f03-4bd6f43b50ec",
       "identifiers": [
         {
           "identifier": "207",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28812532",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-207-1394804821.png?itok=2t8Tv-cS",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-207-1394804821.png?itok=2t8Tv-cS"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luis_Fernando_Torres_2016.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Luis_Fernando_Torres"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/luisfernandotorrest"
@@ -3741,7 +3779,28 @@
           "url": "https://twitter.com/lftorrest"
         }
       ],
-      "name": "Luis Fernando Torres Torres"
+      "name": "Luis Fernando Torres Torres",
+      "other_names": [
+        {
+          "name": "Luis Fernando Torres",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Luis Fernando Torres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Luis Fernando Torres",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Luis Fernando Torres",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4171,6 +4230,12 @@
     {
       "gender": "male",
       "id": "a7e8a7fe-bb8d-4f37-a8fb-a3a041f2876f",
+      "identifiers": [
+        {
+          "identifier": "Q29051867",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15774-1489498264.png?itok=McI8xAkp",
       "images": [
         {
@@ -4183,7 +4248,19 @@
           "url": "https://facebook.com/AngelicaAndinoR"
         }
       ],
-      "name": "Angélica María Andino Robalino"
+      "name": "Angélica María Andino Robalino",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Angélica María Andino Robalino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Angélica María Andino Robalino",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4729,15 +4806,26 @@
         {
           "identifier": "171",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27982086",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-171-1394658863.png?itok=M8KD6DsQ",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-171-1394658863.png?itok=M8KD6DsQ"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Fanny_Uribe_2016.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fanny_Uribe"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/FannyUribeAvanza"
@@ -4747,7 +4835,23 @@
           "url": "https://twitter.com/FannyUribeLopez"
         }
       ],
-      "name": "Fanny Esther Uribe López"
+      "name": "Fanny Esther Uribe López",
+      "other_names": [
+        {
+          "name": "Fanny Uribe",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Fanny Uribe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fanny Uribe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4926,6 +5030,7 @@
       "name": "Christian Humberto Viteri López"
     },
     {
+      "birth_date": "1946",
       "contact_details": [
         {
           "type": "twitter",
@@ -4938,6 +5043,10 @@
         {
           "identifier": "241",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28024113",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-241-1394989278.png?itok=ETITOR9s",
@@ -4948,6 +5057,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Oswaldo_Larriva"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/OswaldoLarriva"
         },
@@ -4956,7 +5069,23 @@
           "url": "https://twitter.com/OswaldoLarriva"
         }
       ],
-      "name": "Oscar Oswaldo Larriva Alvarado"
+      "name": "Oscar Oswaldo Larriva Alvarado",
+      "other_names": [
+        {
+          "name": "Oswaldo Larriva",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Oswaldo Larriva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oswaldo Larriva",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5646,6 +5775,7 @@
       "name": "Diego Salgado Ribadeneira"
     },
     {
+      "birth_date": "1969",
       "contact_details": [
         {
           "type": "twitter",
@@ -5658,6 +5788,10 @@
         {
           "identifier": "150",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27983050",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-150-1394652737.png?itok=oRjksfVK",
@@ -5668,6 +5802,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/César_Umajinga"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/cesar.umaginga"
         },
@@ -5676,7 +5814,18 @@
           "url": "https://twitter.com/umaginga1969"
         }
       ],
-      "name": "César Umajinga Guamán"
+      "name": "César Umajinga Guamán",
+      "other_names": [
+        {
+          "name": "César Umajinga",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "César Umajinga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5978,6 +6127,10 @@
         {
           "identifier": "227",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28503395",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-227-1394804787.png?itok=HC3H4dbi",
@@ -5988,6 +6141,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Moisés_Tacle"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/MoisesTacleEC"
         },
@@ -5996,7 +6153,18 @@
           "url": "https://twitter.com/MoisesTacle"
         }
       ],
-      "name": "Moisés Fernando Tacle Galárraga"
+      "name": "Moisés Fernando Tacle Galárraga",
+      "other_names": [
+        {
+          "name": "Moisés Tacle",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Moisés Tacle",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
