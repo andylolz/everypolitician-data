@@ -1317,14 +1317,37 @@
       "name": "Long Buny"
     },
     {
+      "gender": "male",
       "id": "79dda67a-29ac-4237-a37c-dbf425d2f500",
       "identifiers": [
         {
           "identifier": "bin_chhin",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28969538",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Bin Chhin"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bin_Chhin"
+        }
+      ],
+      "name": "Bin Chhin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bin Chhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bin Chhin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "7a8b6e52-df44-4b18-b68e-b88d80f365c6",
