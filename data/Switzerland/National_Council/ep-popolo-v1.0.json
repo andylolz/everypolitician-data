@@ -53809,7 +53809,6 @@
     },
     {
       "birth_date": "1937-01-11",
-      "death_date": "2016-03-19",
       "family_name": "Ruffy",
       "gender": "male",
       "given_name": "Victor",
@@ -53820,66 +53819,11 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "1116552272",
-          "scheme": "gnd"
-        },
-        {
           "identifier": "183",
           "scheme": "parlamentdotch"
-        },
-        {
-          "identifier": "378147724948864592616",
-          "scheme": "viaf"
-        },
-        {
-          "identifier": "Q23651052",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Victor_Ruffy-IMG_3757.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Victor_Ruffy-IMG_3757.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (als)",
-          "url": "https://als.wikipedia.org/wiki/Victor_Ruffy_(SP)"
-        },
-        {
-          "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Victor_Ruffy_(Politiker,_1937)"
         }
       ],
       "name": "Victor Ruffy",
-      "other_names": [
-        {
-          "lang": "de",
-          "name": "Victor Ruffy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Victor Ruffy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Victor Ruffy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gsw",
-          "name": "Victor Ruffy",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Victor Ruffy",
-          "note": "multilingual"
-        }
-      ],
       "sort_name": "Ruffy, Victor"
     },
     {
