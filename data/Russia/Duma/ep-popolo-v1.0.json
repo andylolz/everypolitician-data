@@ -3919,6 +3919,12 @@
     },
     {
       "birth_date": "1986-08-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "prokopyev_as"
+        }
+      ],
       "gender": "male",
       "given_name": "Aleksandr",
       "id": "11dad516-c1d3-434b-94fd-26828b5ba6b0",
@@ -3949,6 +3955,14 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Прокопьев,_Александр_Сергеевич"
+        },
+        {
+          "note": "instagram",
+          "url": "asprokopyev"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/prokopyev_as"
         }
       ],
       "name": "Прокопьев Александр Сергеевич",
@@ -11477,7 +11491,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/22d/22d2bccbe8c82b891a5606492edded2c.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Tsarov_Rashkin.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Valery_Rashkin_2015.jpg"
         }
       ],
       "links": [
