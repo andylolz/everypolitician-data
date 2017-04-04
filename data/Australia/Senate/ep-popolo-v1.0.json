@@ -10669,7 +10669,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Arthur_Sinodinos.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/638130862228246528/g6p8Q6q6.jpg"
+          "url": "https://pbs.twimg.com/profile_images/848729600003678210/vgtOjKzB.jpg"
         }
       ],
       "links": [
@@ -15403,6 +15403,12 @@
     },
     {
       "birth_date": "1969-09-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NStottDespoja"
+        }
+      ],
       "family_name": "Stott Despoja",
       "gender": "female",
       "given_name": "Natasha",
@@ -15439,6 +15445,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Десподжа,_Наташа_Стотт"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NStottDespoja"
         }
       ],
       "name": "Natasha Stott Despoja",
