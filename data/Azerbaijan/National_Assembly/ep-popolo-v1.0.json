@@ -3663,6 +3663,10 @@
           "url": "https://cs.wikipedia.org/wiki/Zejnab_Chanlarova"
         },
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ζεϊνάμπ_Χανλάροβα"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Zeynab_Khanlarova"
         },
@@ -3708,7 +3712,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "el",
+          "name": "Ζεϊνάμπ Χανλάροβα",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Zeynab Khanlarova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Zeynab Khanlarova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Zeynab Khanlarova",
           "note": "multilingual"
         },
