@@ -41895,6 +41895,10 @@
           "url": "https://fr.wikipedia.org/wiki/Tomislav_Donchev"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Tomislav_Donchev"
+        },
+        {
           "note": "Wikipedia (mk)",
           "url": "https://mk.wikipedia.org/wiki/Томислав_Дончев"
         },
@@ -41941,6 +41945,11 @@
         {
           "lang": "fr",
           "name": "Tomislav Dontchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tomislav Donchev",
           "note": "multilingual"
         },
         {
