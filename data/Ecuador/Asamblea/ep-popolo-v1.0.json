@@ -963,6 +963,7 @@
       "name": "Adriana Miosotti De La Cruz Gaspar"
     },
     {
+      "birth_date": "1979-01-22",
       "contact_details": [
         {
           "type": "twitter",
@@ -970,20 +971,36 @@
         }
       ],
       "gender": "female",
+      "given_name": "Alexandra",
       "id": "20abc6c1-5b6d-4a3f-a8be-5349b50697bb",
       "identifiers": [
         {
           "identifier": "221",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16301572",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-221-1394719836.png?itok=cjIf-cV3",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-221-1394719836.png?itok=cjIf-cV3"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Alexandra_Ocles_(cropped).png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Alexandra_Ocles"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Alexandra_Ocles"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/niaocles"
@@ -993,7 +1010,28 @@
           "url": "https://twitter.com/alexocles"
         }
       ],
-      "name": "María Alexandra Ocles Padilla"
+      "name": "María Alexandra Ocles Padilla",
+      "other_names": [
+        {
+          "name": "Alexandra Ocles",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Alexandra Ocles",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2814,6 +2852,11 @@
         },
         {
           "lang": "es",
+          "name": "Antonio Posso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Antonio Posso",
           "note": "multilingual"
         }
@@ -4850,6 +4893,11 @@
           "lang": "es",
           "name": "Fanny Uribe",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fanny Uribe",
+          "note": "multilingual"
         }
       ]
     },
@@ -5821,7 +5869,17 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "César Umajinga",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "César Umajinga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "César Umajinga",
           "note": "multilingual"
         }
@@ -6158,6 +6216,11 @@
         {
           "name": "Moisés Tacle",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Moisés Tacle",
+          "note": "multilingual"
         },
         {
           "lang": "es",
