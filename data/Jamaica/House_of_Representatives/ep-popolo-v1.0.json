@@ -4788,19 +4788,6 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ja/parish:westmoreland/constituency:westmoreland_central",
-      "legislative_period_id": "term/2016",
-      "on_behalf_of_id": "party/people's_national_party",
-      "organization_id": "5a6d8ba9-87d5-4b06-b48f-11e336432261",
-      "person_id": "5ff6684a-1be0-4797-8462-9ff54c407f2e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Constituencies_of_Jamaica"
-        }
-      ]
-    },
-    {
       "area_id": "ocd-division/country:ja/parish:st._catherine/constituency:st._catherine_south",
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "party/people's_national_party",
