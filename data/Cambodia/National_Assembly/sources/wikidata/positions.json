@@ -29,6 +29,26 @@
       "description": "leader or chief officer of an organisation"
     }
   ],
+  "Q28969538": [
+    {
+      "id": "Q21295974",
+      "label": "Member of the National Assembly of Cambodia",
+      "title": "Member of the National Assembly of Cambodia",
+      "qualifiers": {
+        "P580": "1993-05-28",
+        "P768": "Prey Veng"
+      }
+    },
+    {
+      "id": "Q29146839",
+      "label": "Deputy Prime Minister",
+      "title": "Deputy Prime Minister",
+      "description": "of Cambodia",
+      "qualifiers": {
+        "P580": "2007-09-05"
+      }
+    }
+  ],
   "Q1068666": [
     {
       "id": "Q21295127",
