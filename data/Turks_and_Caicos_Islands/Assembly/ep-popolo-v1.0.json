@@ -534,11 +534,16 @@
     },
     {
       "gender": "female",
+      "given_name": "Josephine",
       "id": "962d6976-377d-4758-bb66-bb47638aeef5",
       "identifiers": [
         {
           "identifier": "josephine_conolly",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19664905",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://lh5.googleusercontent.com/-pNXe7tMdaaM/VE_tqz8oydI/AAAAAAAAAPU/jzLK8GTUfbA/w721-h577-no/hon-josephine-conolly.JPG",
@@ -547,11 +552,27 @@
           "url": "https://lh5.googleusercontent.com/-pNXe7tMdaaM/VE_tqz8oydI/AAAAAAAAAPU/jzLK8GTUfbA/w721-h577-no/hon-josephine-conolly.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Josephine_Connolly"
+        }
+      ],
       "name": "Josephine Connolly",
       "other_names": [
         {
           "name": "Josephine Conolly",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Josephine Connolly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Josephine Connolly",
+          "note": "multilingual"
         }
       ]
     },
