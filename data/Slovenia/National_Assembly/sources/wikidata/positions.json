@@ -7,6 +7,17 @@
       "description": "position"
     }
   ],
+  "Q12793070": [
+    {
+      "id": "Q12796748",
+      "label": "Minister of Culture",
+      "title": "Minister of Culture",
+      "description": "(Slovenia)",
+      "qualifiers": {
+        "P580": "2014-09-18"
+      }
+    }
+  ],
   "Q431743": [
     {
       "id": "Q27169",
