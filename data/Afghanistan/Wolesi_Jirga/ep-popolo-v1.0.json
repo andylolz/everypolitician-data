@@ -2244,6 +2244,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Khalid_Pashtoon"
+        },
+        {
+          "note": "Wikipedia (ps)",
+          "url": "https://ps.wikipedia.org/wiki/خالد_پښتون"
         }
       ],
       "name": "KHalid Pashton",
@@ -2275,6 +2279,11 @@
         {
           "lang": "nl",
           "name": "Khalid Pashtoon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ps",
+          "name": "خالد پښتون",
           "note": "multilingual"
         }
       ]
