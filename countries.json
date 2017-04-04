@@ -8395,12 +8395,20 @@
         "slug": "Territorial-Council",
         "sources_directory": "data/Saint_Pierre_and_Miquelon/Territorial_Council/sources",
         "popolo": "data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d1227f9195375d5c71375f32326e31f5a2733810/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23051be5e1ae602f5d4b1fbe3f38ec41f9968322/data/Saint_Pierre_and_Miquelon/Territorial_Council/ep-popolo-v1.0.json",
         "names": "data/Saint_Pierre_and_Miquelon/Territorial_Council/names.csv",
-        "lastmod": "1491209337",
-        "person_count": 31,
-        "sha": "d1227f9195375d5c71375f32326e31f5a2733810",
+        "lastmod": "1491320026",
+        "person_count": 43,
+        "sha": "23051be5e1ae602f5d4b1fbe3f38ec41f9968322",
         "legislative_periods": [
+          {
+            "id": "term/2017",
+            "name": "3rd Territorial Council",
+            "start_date": "2017-03",
+            "slug": "2017",
+            "csv": "data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23051be5e1ae602f5d4b1fbe3f38ec41f9968322/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2017.csv"
+          },
           {
             "end_date": "2017-03",
             "id": "term/2012",
@@ -8408,7 +8416,7 @@
             "start_date": "2012-03",
             "slug": "2012",
             "csv": "data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4a17069e70b7814a095a85c8a0f4ecb47e5b51ac/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/23051be5e1ae602f5d4b1fbe3f38ec41f9968322/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2012.csv"
           },
           {
             "end_date": "2012-03",
@@ -8420,7 +8428,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4a17069e70b7814a095a85c8a0f4ecb47e5b51ac/data/Saint_Pierre_and_Miquelon/Territorial_Council/term-2006.csv"
           }
         ],
-        "statement_count": 731,
+        "statement_count": 902,
         "type": "unicameral legislature"
       }
     ]
