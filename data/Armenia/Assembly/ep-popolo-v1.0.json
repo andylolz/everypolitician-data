@@ -9610,6 +9610,7 @@
     },
     {
       "area_id": "area/124",
+      "end_date": "2014-02-23",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "H",
       "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
@@ -9621,6 +9622,20 @@
         }
       ],
       "start_date": "2014-02-03"
+    },
+    {
+      "area_id": "area/124",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "_IND",
+      "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
+      "person_id": "6d83c8b6-f4be-4d9b-a19c-be04aa746604",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.am/deputies.php?sel=details&ID=1133&lang=eng"
+        }
+      ],
+      "start_date": "2014-02-23"
     },
     {
       "area_id": "area/055",
