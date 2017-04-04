@@ -214,6 +214,11 @@
           "lang": "it",
           "name": "Roshan Ranasinghe",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Roshan Ranasinghe",
+          "note": "multilingual"
         }
       ]
     },
@@ -271,6 +276,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "M. K. A. D. S. Gunawardana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "M. K. A. D. S. Gunawardana",
           "note": "multilingual"
         },
@@ -583,6 +593,11 @@
         },
         {
           "lang": "en",
+          "name": "Prasanna Ranatunga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Prasanna Ranatunga",
           "note": "multilingual"
         },
@@ -1202,6 +1217,11 @@
           "lang": "en",
           "name": "Bandula Lal Bandarigoda",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bandula Lal Bandarigoda",
+          "note": "multilingual"
         }
       ]
     },
@@ -1321,6 +1341,11 @@
           "lang": "en",
           "name": "Malik Samarawickrama",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Malik Samarawickrama",
+          "note": "multilingual"
         }
       ]
     },
@@ -1357,6 +1382,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Tilak Marapana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Tilak Marapana",
           "note": "multilingual"
         },
@@ -1625,6 +1655,11 @@
           "lang": "ta",
           "name": "சரத் பொன்சேகா",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塞拉特·豐塞卡",
+          "note": "multilingual"
         }
       ]
     },
@@ -1668,6 +1703,11 @@
         },
         {
           "lang": "en",
+          "name": "Sanath Nishantha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sanath Nishantha",
           "note": "multilingual"
         }
@@ -1719,6 +1759,11 @@
         },
         {
           "lang": "fr",
+          "name": "Angajan Ramanathan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Angajan Ramanathan",
           "note": "multilingual"
         },
@@ -1823,6 +1868,11 @@
           "lang": "en",
           "name": "Thushara Indunil",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Thushara Indunil",
+          "note": "multilingual"
         }
       ]
     },
@@ -1875,6 +1925,11 @@
         },
         {
           "lang": "en",
+          "name": "Daya gamage",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Daya gamage",
           "note": "multilingual"
         },
@@ -2014,6 +2069,11 @@
         },
         {
           "lang": "en",
+          "name": "K. Kodeeswaran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "K. Kodeeswaran",
           "note": "multilingual"
         },
@@ -2499,6 +2559,11 @@
           "lang": "en",
           "name": "A. A. Wijethunga",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "A. A. Wijethunga",
+          "note": "multilingual"
         }
       ]
     },
@@ -2607,6 +2672,11 @@
           "lang": "en",
           "name": "A. R. A. Hafeez",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "A. R. A. Hafeez",
+          "note": "multilingual"
         }
       ]
     },
@@ -2645,6 +2715,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mavai_Senathirajah"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mavai_Senathirajah"
@@ -2910,6 +2984,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Aravinda Kumar",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "அருணாசலம் அரவிந்தகுமார்",
           "note": "multilingual"
@@ -2958,6 +3037,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "S. Sivamohan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "S. Sivamohan",
           "note": "multilingual"
         },
@@ -3156,6 +3240,10 @@
         {
           "identifier": "n2005210699",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "person/mahinda-rajapaksa",
+          "scheme": "nyt_topic"
         },
         {
           "identifier": "1889541",
@@ -3395,6 +3483,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Mahinda_Rajapaksa"
+        },
+        {
+          "note": "Wikipedia (trwikinews)",
+          "url": "https://trwikinews.wikipedia.org/wiki/Kategori:Mahinda_Rajapakse"
         },
         {
           "note": "Wikipedia (uk)",
@@ -4107,6 +4199,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "214856",
+          "scheme": "persee"
+        },
+        {
           "identifier": "031911978",
           "scheme": "sudoc"
         },
@@ -4290,6 +4386,11 @@
           "lang": "fr",
           "name": "Harshana Rajakaruna",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Harshana Rajakaruna",
+          "note": "multilingual"
         }
       ]
     },
@@ -4334,6 +4435,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Ajith Mannapperuma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Ajith Mannapperuma",
           "note": "multilingual"
         },
@@ -4588,6 +4694,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Hector Appuhamy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Hector Appuhamy",
           "note": "multilingual"
         }
@@ -4857,6 +4968,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mano_Ganesan"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mano_Ganesan"
         },
@@ -4937,6 +5052,11 @@
           "lang": "en",
           "name": "Jayampathy Wickramaratne",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jayampathy Wickramaratne",
+          "note": "multilingual"
         }
       ]
     },
@@ -4982,6 +5102,11 @@
         },
         {
           "lang": "en",
+          "name": "Mohamed Hanifa Mohamed Navavi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mohamed Hanifa Mohamed Navavi",
           "note": "multilingual"
         }
@@ -5304,6 +5429,11 @@
           "lang": "en",
           "name": "Tharaka Balasuriya",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tharaka Balasuriya",
+          "note": "multilingual"
         }
       ]
     },
@@ -5549,6 +5679,11 @@
           "lang": "en",
           "name": "Sandith Samarasinghe",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sandith Samarasinghe",
+          "note": "multilingual"
         }
       ]
     },
@@ -5602,6 +5737,9 @@
       "images": [
         {
           "url": "http://www.parliament.lk/uploads/images/members/profile_images/thumbs/138.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Susil_Premajayantha.jpg"
         }
       ],
       "links": [
@@ -5702,6 +5840,11 @@
         },
         {
           "lang": "en",
+          "name": "M. Thilakarajah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "M. Thilakarajah",
           "note": "multilingual"
         },
@@ -7065,6 +7208,11 @@
           "lang": "en",
           "name": "Chandima Gamage",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chandima Gamage",
+          "note": "multilingual"
         }
       ]
     },
@@ -7431,6 +7579,11 @@
           "lang": "en",
           "name": "Prasanna Ranaweera",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Prasanna Ranaweera",
+          "note": "multilingual"
         }
       ]
     },
@@ -7756,6 +7909,11 @@
           "lang": "en",
           "name": "Thusitha Wijemanne",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Thusitha Wijemanne",
+          "note": "multilingual"
         }
       ]
     },
@@ -7935,6 +8093,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "M. Velu Kumar",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "வேலு குமார்",
           "note": "multilingual"
@@ -8060,6 +8223,11 @@
           "lang": "en",
           "name": "Mohan De Silva",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohan De Silva",
+          "note": "multilingual"
         }
       ]
     },
@@ -8174,6 +8342,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Ananda Aluthgamage",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "ஆனந்த அலுத்கமகே",
           "note": "multilingual"
@@ -8205,6 +8378,9 @@
       "images": [
         {
           "url": "http://www.parliament.lk/uploads/images/members/profile_images/thumbs/3168.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/JanakaWakkumbura.jpg"
         }
       ],
       "links": [
@@ -8336,6 +8512,11 @@
           "lang": "en",
           "name": "Chaminda Wijesiri",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chaminda Wijesiri",
+          "note": "multilingual"
         }
       ]
     },
@@ -8380,6 +8561,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Sujith Sanjaya Perera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sujith Sanjaya Perera",
           "note": "multilingual"
         },
@@ -8451,6 +8637,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Ashoka Priyantha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Ashoka Priyantha",
           "note": "multilingual"
         }
@@ -8696,6 +8887,11 @@
           "lang": "en",
           "name": "Ananda Kumarasiri",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ananda Kumarasiri",
+          "note": "multilingual"
         }
       ]
     },
@@ -8793,6 +8989,10 @@
         {
           "identifier": "n2005206869",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "Wimal-Weerawansa",
+          "scheme": "quora"
         },
         {
           "identifier": "21561959",
@@ -9058,6 +9258,11 @@
           "lang": "en",
           "name": "Mansoor Ibrahim",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mansoor Ibrahim",
+          "note": "multilingual"
         }
       ]
     },
@@ -9122,6 +9327,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Nimal Lanza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Nimal Lanza",
           "note": "multilingual"
         }
@@ -9239,6 +9449,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "M. A. M. Maharoof",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "எம். எ. எம். மகரூப்",
           "note": "multilingual"
@@ -9317,6 +9532,10 @@
         {
           "identifier": "218",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Arjuna-Ranatunga",
+          "scheme": "quora"
         },
         {
           "identifier": "Q3522572",
@@ -9466,6 +9685,10 @@
           "url": "https://en.wikipedia.org/wiki/Sunil_Handunnetti"
         },
         {
+          "note": "Wikipedia (si)",
+          "url": "https://si.wikipedia.org/wiki/සුනිල්_හඳුන්නෙත්ති"
+        },
+        {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/சுனில்_ஹந்துன்நெத்தி"
         }
@@ -9490,6 +9713,11 @@
         {
           "lang": "nl",
           "name": "Sunil Handunnetti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "සුනිල් හඳුන්නෙත්ති",
           "note": "multilingual"
         },
         {
@@ -9544,6 +9772,11 @@
         },
         {
           "lang": "en",
+          "name": "Shanthi Sriskantharajah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Shanthi Sriskantharajah",
           "note": "multilingual"
         },
@@ -9741,6 +9974,11 @@
           "lang": "en",
           "name": "Nalaka Kolonne",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nalaka Kolonne",
+          "note": "multilingual"
         }
       ]
     },
@@ -9913,6 +10151,11 @@
         },
         {
           "lang": "en",
+          "name": "Karu Paranawithana",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Karu Paranawithana",
           "note": "multilingual"
         }
@@ -10167,6 +10410,11 @@
         },
         {
           "lang": "fr",
+          "name": "Charles Nirmalanathan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Charles Nirmalanathan",
           "note": "multilingual"
         },
@@ -10741,6 +10989,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Sisira Jayakody",
+          "note": "multilingual"
+        },
+        {
           "lang": "si",
           "name": "සිසිර ජයකොඞි",
           "note": "multilingual"
@@ -10908,6 +11161,11 @@
           "lang": "en",
           "name": "Nalinda Jayatissa",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nalinda Jayatissa",
+          "note": "multilingual"
         }
       ]
     },
@@ -10965,6 +11223,10 @@
         {
           "note": "Wikipedia (bn)",
           "url": "https://bn.wikipedia.org/wiki/রনীল_বিক্রমাসিংহে"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ranil_Wickremesinghe"
         },
         {
           "note": "Wikipedia (de)",
@@ -11069,6 +11331,11 @@
         {
           "lang": "bn",
           "name": "রনীল বিক্রমাসিংহে",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ranil Wickremesinghe",
           "note": "multilingual"
         },
         {
@@ -11576,6 +11843,11 @@
           "lang": "en",
           "name": "Kanchana Wijesekera",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kanchana Wijesekera",
+          "note": "multilingual"
         }
       ]
     },
@@ -11842,6 +12114,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Imran Maharoof",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "இம்ரான் மகரூப்",
           "note": "multilingual"
@@ -12093,6 +12370,11 @@
           "lang": "en",
           "name": "Indika Anuruddha",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Indika Anuruddha",
+          "note": "multilingual"
         }
       ]
     },
@@ -12235,6 +12517,11 @@
           "lang": "en",
           "name": "Kavinda Jayawardena",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kavinda Jayawardena",
+          "note": "multilingual"
         }
       ]
     },
@@ -12279,6 +12566,11 @@
         },
         {
           "lang": "en",
+          "name": "Mujibur Rahman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mujibur Rahman",
           "note": "multilingual"
         },
@@ -12650,6 +12942,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Lucky Jayawardena",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "லக்கி ஜெயவர்தன",
           "note": "multilingual"
@@ -12693,6 +12990,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Hirunika Premachandra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Hirunika Premachandra",
           "note": "multilingual"
         }
@@ -12959,6 +13261,11 @@
           "lang": "en",
           "name": "Chathura Senarathne",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chathura Senarathne",
+          "note": "multilingual"
         }
       ]
     },
@@ -13184,6 +13491,10 @@
           "url": "https://en.wikipedia.org/wiki/Akila_Viraj_Kariyawasam"
         },
         {
+          "note": "Wikipedia (si)",
+          "url": "https://si.wikipedia.org/wiki/අකිල_විරාජ්_කාරියවසම්"
+        },
+        {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/அகில_விராஜ்_காரியவசம்"
         }
@@ -13208,6 +13519,11 @@
         {
           "lang": "nl",
           "name": "Akila Viraj Kariyawasam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "si",
+          "name": "අකිල විරාජ් කාරියවසම්",
           "note": "multilingual"
         },
         {
@@ -13519,6 +13835,11 @@
           "lang": "en",
           "name": "Saidulla Marikkar",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Saidulla Marikkar",
+          "note": "multilingual"
         }
       ]
     },
@@ -13814,6 +14135,11 @@
         },
         {
           "lang": "en",
+          "name": "Sidney Jayarathna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sidney Jayarathna",
           "note": "multilingual"
         }
@@ -14970,6 +15296,11 @@
         {
           "lang": "nl",
           "name": "United National Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הלאומית המאוחדת",
           "note": "multilingual"
         }
       ]
