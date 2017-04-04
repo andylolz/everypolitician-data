@@ -217,14 +217,29 @@
       "name": "José Maria Gomes da Veiga"
     },
     {
+      "gender": "male",
+      "given_name": "Luís",
       "id": "1f57a597-015d-4f1f-af14-2cdec3b14123",
+      "identifiers": [
+        {
+          "identifier": "Q29158211",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410",
       "images": [
         {
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10410"
         }
       ],
-      "name": "Luís António Gomes Alves"
+      "name": "Luís António Gomes Alves",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Luís António Gomes Alves",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1078,14 +1093,29 @@
       "name": "José Filomeno Monteiro"
     },
     {
+      "gender": "male",
+      "given_name": "Emanuel",
       "id": "ad8a32b8-0cf6-4901-a04f-44e9abb61cde",
+      "identifiers": [
+        {
+          "identifier": "Q29158764",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409",
       "images": [
         {
           "url": "http://www.parlamento.cv/DepImag.aspx?CodDeputado=10409"
         }
       ],
-      "name": "Emanuel Jesus Correia Lopes"
+      "name": "Emanuel Jesus Correia Lopes",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Emanuel Jesus Correia Lopes",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2273,7 +2303,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.parlamento.cv"
+      "http://www.parlamento.cv",
+      "http://wikidata.org/"
     ]
   },
   "memberships": [
