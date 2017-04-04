@@ -4336,6 +4336,12 @@
       "classification": "legislative period",
       "end_date": "2016-03-20",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q29158393",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "VIII Legislatura",
       "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
       "start_date": "2011-03-11"
@@ -4356,6 +4362,12 @@
     {
       "classification": "legislative period",
       "id": "term/9",
+      "identifiers": [
+        {
+          "identifier": "Q29158331",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "IX Legislatura",
       "organization_id": "33b73eeb-ccb7-480a-87fa-d0728966d2b9",
       "start_date": "2016-04-20"
