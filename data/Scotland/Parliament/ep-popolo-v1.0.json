@@ -10810,8 +10810,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/817733000343486464/HG_Vxn_G.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/KateForbesMSP-May2016.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/KateForbesMSP-May2016.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/817733000343486464/HG_Vxn_G.jpg"
         }
@@ -23145,7 +23148,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/Гамильтон,_Джеймс,_барон_Селкирк_из_Дугласа"
+          "url": "https://ru.wikipedia.org/wiki/Дуглас-Гамильтон,_Джеймс,_барон_Селкирк_из_Дугласа"
         }
       ],
       "name": "Lord Selkirk of Douglas",
