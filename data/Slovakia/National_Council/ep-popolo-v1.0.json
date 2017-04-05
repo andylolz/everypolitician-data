@@ -7034,6 +7034,10 @@
           "url": "https://be_x_old.wikipedia.org/wiki/Рудальф_Шусьцер"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Rudolf_Schuster"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Rudolf_Schuster"
         },
@@ -7080,6 +7084,10 @@
         {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Rudolf_Schuster"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Rudolf_Schuster"
         },
         {
           "note": "Wikipedia (it)",
@@ -7165,6 +7173,11 @@
         {
           "lang": "be-tarask",
           "name": "Рудальф Шусьцер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Rudolf Schuster",
           "note": "multilingual"
         },
         {
