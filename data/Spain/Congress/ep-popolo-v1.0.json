@@ -11184,6 +11184,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Melisa_Rodríguez_Hernández"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Melisa_Rodríguez_Hernández"
         },
@@ -11202,6 +11206,11 @@
       ],
       "name": "Melisa Rodríguez Hernández",
       "other_names": [
+        {
+          "lang": "ca",
+          "name": "Melisa Rodríguez Hernández",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Melisa Rodríguez Hernández",
@@ -42631,6 +42640,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Josep_Antoni_Duran_i_Lleida"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дуран,_Жосеп_Антони"
         },
         {
           "note": "twitter",
