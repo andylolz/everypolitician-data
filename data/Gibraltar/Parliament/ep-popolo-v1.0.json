@@ -507,13 +507,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adolfo_Canepa.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Investidura_Adolfo_Canepa_como_nuevo_alcalde_(7).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Adolfo_Canepa.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Investidura_Adolfo_Canepa_como_nuevo_alcalde_(7).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Adolfo_Canepa"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Adolfo_Canepa"
@@ -620,6 +624,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Albert_Isola"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Albert_Isola"
@@ -882,6 +890,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Steven_Linares"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Steven_Linares"
         },
         {
           "note": "Wikipedia (en)",
@@ -1768,6 +1780,10 @@
           "url": "https://ru.wikipedia.org/wiki/Пикардо,_Фабиан"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Fabian_Picardo"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Fabian_Picardo"
         },
@@ -1890,6 +1906,11 @@
         {
           "lang": "ru",
           "name": "Пикардо, Фабиан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Fabian Picardo",
           "note": "multilingual"
         },
         {
@@ -2669,13 +2690,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Daniel_Feetham_votando_en_las_elecciones_generales_de_Gibraltar,_26_de_noviembre_de_2015.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Daniel_Feetham.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Daniel_Feetham_votando_en_las_elecciones_generales_de_Gibraltar,_26_de_noviembre_de_2015.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Daniel_Feetham"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Daniel_Feetham"
@@ -2890,6 +2915,11 @@
         },
         {
           "lang": "es",
+          "name": "Edwin Reyes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Edwin Reyes",
           "note": "multilingual"
         },
@@ -3222,7 +3252,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_of_the_Gibraltar_Socialist_Labour_Party.jpg",
       "links": [
         {
           "note": "website",
