@@ -77,164 +77,6 @@
       "Rafael Correa"
     ]
   },
-  "Q2635828": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q2635828"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "pt",
-        "name": "Eleições gerais no Equador em 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "élections générales équatoriennes de 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Всеобщие выборы в Эквадоре",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones presidenciales de Ecuador de 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Ecuadorian general election, 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Elezioni generali ecuadoriane del 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Γενικές εκλογές στον Ισημερινό 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Ecuadorian general election, 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Ecuadorian general election, 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Eleições gerais no Equador em 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Präsidentschafts- und Parlamentswahl in Ecuador 2009",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Ecuadorian general election",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Presidential elections of Ecuador in 2009",
-        "note": "multilingual"
-      }
-    ],
-    "dates": [
-      "2009"
-    ],
-    "follows": "Ecuadorian general election, 2006",
-    "followed_by": "Ecuadorian general election, 2013",
-    "office": "President of Ecuador",
-    "successful_candidates": [
-      "Rafael Correa"
-    ]
-  },
-  "Q3019218": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q3019218"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "ru",
-        "name": "Всеобщие выборы в Эквадоре",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Ecuadorian general election, 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Elecciones presidenciales de Ecuador de 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Präsidentschaftswahl in Ecuador 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "élections générales équatoriennes de 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Elezioni presidenziali ecuadoriane del 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Eleições gerais no Equador em 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Ecuadorian general election, 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "2013年厄瓜多大選",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "2013年厄瓜多尔大选",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Wybory generalne w Ekwadorze w 2013 roku",
-        "note": "multilingual"
-      }
-    ],
-    "dates": [
-      "2013-02-17"
-    ],
-    "follows": "Ecuadorian general election, 2009",
-    "followed_by": "Elections in Ecuador",
-    "office": "President of Ecuador",
-    "successful_candidates": [
-      "Rafael Correa"
-    ]
-  },
   "Q5334374": {
     "identifiers": [
       {
@@ -549,6 +391,62 @@
       "Lucio Gutiérrez"
     ]
   },
+  "Q5828279": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5828279"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Ecuador de 2009",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Ecuadorian parliamentary election, 2009",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2009-04-26"
+    ],
+    "followed_by": "Ecuadorian parliamentary election, 2013",
+    "part_of": "Ecuadorian general election, 2009"
+  },
+  "Q5828281": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5828281"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Ecuador de 2013",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Élections législatives équatoriennes de 2013",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Ecuadorian parliamentary election, 2013",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2013-02-17"
+    ],
+    "follows": "Ecuadorian parliamentary election, 2009",
+    "followed_by": "Ecuadorian parliamentary election, 2017",
+    "part_of": "Ecuadorian general election, 2013"
+  },
   "Q16941431": {
     "identifiers": [
       {
@@ -716,33 +614,50 @@
       "1994"
     ]
   },
-  "Q28031798": {
+  "Q25407438": {
     "identifiers": [
       {
         "scheme": "wikidata",
-        "identifier": "Q28031798"
+        "identifier": "Q25407438"
       }
     ],
     "other_names": [
       {
-        "lang": "fr",
-        "name": "Élection présidentielle équatorienne de 2017",
+        "lang": "es",
+        "name": "Elecciones legislativas de Ecuador de 2017",
         "note": "multilingual"
       },
       {
-        "lang": "es",
-        "name": "Elecciones presidenciales de Ecuador de 2017",
+        "lang": "fr",
+        "name": "Élections législatives équatoriennes de 2017",
         "note": "multilingual"
       },
       {
         "lang": "en",
-        "name": "Ecuadorian general election, 2017",
+        "name": "Ecuadorian parliamentary election, 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Ecuador 2017 election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Ecuador legislators election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Ecuador legislators election of 2017",
         "note": "multilingual"
       }
     ],
     "dates": [
       "2017-02-19"
     ],
-    "office": "President of the Republic"
+    "follows": "Ecuadorian parliamentary election, 2013",
+    "part_of": "Ecuadorian general election, 2017",
+    "office": "Member of the National Assembly of Ecuador"
   }
 }

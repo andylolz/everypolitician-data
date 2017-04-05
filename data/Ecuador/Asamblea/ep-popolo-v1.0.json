@@ -9712,28 +9712,28 @@
     },
     {
       "classification": "general election",
-      "end_date": "2009",
-      "id": "Q2635828",
+      "end_date": "2009-04-26",
+      "id": "Q5828279",
       "identifiers": [
         {
-          "identifier": "Q2635828",
+          "identifier": "Q5828279",
           "scheme": "wikidata"
         }
       ],
-      "name": "Ecuadorian general election, 2009",
-      "start_date": "2009"
+      "name": "Ecuadorian parliamentary election, 2009",
+      "start_date": "2009-04-26"
     },
     {
       "classification": "general election",
       "end_date": "2013-02-17",
-      "id": "Q3019218",
+      "id": "Q5828281",
       "identifiers": [
         {
-          "identifier": "Q3019218",
+          "identifier": "Q5828281",
           "scheme": "wikidata"
         }
       ],
-      "name": "Ecuadorian general election, 2013",
+      "name": "Ecuadorian parliamentary election, 2013",
       "start_date": "2013-02-17"
     },
     {
@@ -9746,14 +9746,14 @@
     {
       "classification": "general election",
       "end_date": "2017-02-19",
-      "id": "Q28031798",
+      "id": "Q25407438",
       "identifiers": [
         {
-          "identifier": "Q28031798",
+          "identifier": "Q25407438",
           "scheme": "wikidata"
         }
       ],
-      "name": "Ecuadorian general election, 2017",
+      "name": "Ecuadorian parliamentary election, 2017",
       "start_date": "2017-02-19"
     }
   ],
