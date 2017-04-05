@@ -542,6 +542,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "cs",
+        "name": "Švédské parlamentní volby 2006",
+        "note": "multilingual"
+      },
+      {
         "lang": "pt",
         "name": "Eleições legislativas na Suécia em 2006",
         "note": "multilingual"
@@ -625,6 +630,8 @@
     "dates": [
       "2006-09-17"
     ],
+    "start_date": "2006-09-17",
+    "end_date": "2006-09-17",
     "follows": "Swedish general election, 2002",
     "followed_by": "Swedish general election, 2010",
     "office": "Prime Minister of Sweden",
@@ -1456,6 +1463,11 @@
         "lang": "bn",
         "name": "সুইডেনের সাধারণ নির্বাচন, ২০০২",
         "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Švédské parlamentní volby 2002",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -2062,6 +2074,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "cs",
+        "name": "Švédské parlamentní volby 1998",
+        "note": "multilingual"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale în Suedia",
         "note": "multilingual"
@@ -2085,6 +2102,7 @@
     "dates": [
       "1998-09-20"
     ],
+    "start_date": "1998-09-20",
     "follows": "Swedish general election, 1994",
     "followed_by": "Swedish general election, 2002",
     "successful_candidates": [
