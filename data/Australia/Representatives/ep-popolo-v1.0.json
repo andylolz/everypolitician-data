@@ -3190,6 +3190,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gavan_O'Connor_MP_2005.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Gavan_O'Connor_MP_2005.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -14727,6 +14733,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1537794",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10811",
           "scheme": "openaustralia"
         },
@@ -24007,6 +24017,11 @@
         {
           "lang": "fr",
           "name": "Bob Katter",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "בוב קאטר",
           "note": "multilingual"
         },
         {
