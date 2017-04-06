@@ -9868,6 +9868,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/melaniejoly"
+        },
+        {
+          "note": "website",
+          "url": "http://mjoly.liberal.ca/en"
         }
       ],
       "name": "Mélanie Joly",
@@ -27262,7 +27266,7 @@
         },
         {
           "note": "website",
-          "url": "http://kyoung.liberal.ca"
+          "url": "http://kateyoung.ca"
         }
       ],
       "name": "Kate Young",
@@ -34295,6 +34299,14 @@
         }
       ],
       "sort_name": "ALLEN, Mike, B.Admin., M.B.A.(Hons.)"
+    },
+    {
+      "id": "88dceac1-5501-4e3c-9025-3ec528ba6cc0",
+      "name": "Mona Fortier"
+    },
+    {
+      "id": "88fa41fb-1b89-444a-a9c3-001604f0d76a",
+      "name": "Mary Ng"
     },
     {
       "birth_date": "1960-11-23",
@@ -44130,6 +44142,10 @@
           "url": "https://ru.wikipedia.org/wiki/Саджан,_Харджит_Сингх"
         },
         {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Харджит_Саджан"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Harjit_Sajjan"
         },
@@ -52109,6 +52125,10 @@
       ]
     },
     {
+      "id": "d59bd257-d4b3-493b-a81a-496d89828511",
+      "name": "Stephanie Kusie"
+    },
+    {
       "birth_date": "1955-10-03",
       "contact_details": [
         {
@@ -54853,6 +54873,10 @@
         }
       ],
       "sort_name": "SAVOIE, Denise, B.A., M.A., M.Ed."
+    },
+    {
+      "id": "de71b1d0-1cb8-45f2-a9e3-603d7d2686bf",
+      "name": "Bob Benzen"
     },
     {
       "birth_date": "1983-04-04",
@@ -61267,6 +61291,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "fd68e3f7-fa2b-4869-bba8-5c319d753cce",
+      "name": "Emmanuella Lambropoulos"
     },
     {
       "birth_date": "1946-06-12",
@@ -68430,6 +68458,32 @@
       ]
     },
     {
+      "area_id": "area/ontario_(ottawa—vanier)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "liberal",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "88dceac1-5501-4e3c-9025-3ec528ba6cc0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ontario_(markham—thornhill)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "liberal",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "88fa41fb-1b89-444a-a9c3-001604f0d76a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
       "area_id": "area/ontario_(markham—stouffville)",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "liberal",
@@ -70951,6 +71005,19 @@
       ]
     },
     {
+      "area_id": "area/alberta_(calgary_midnapore)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "d59bd257-d4b3-493b-a81a-496d89828511",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
       "area_id": "area/quebec_(hochelaga)",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
@@ -71368,6 +71435,19 @@
         }
       ],
       "start_date": "2012-08-23"
+    },
+    {
+      "area_id": "area/alberta_(calgary_heritage)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "de71b1d0-1cb8-45f2-a9e3-603d7d2686bf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
     },
     {
       "area_id": "area/new_brunswick_(fredericton)",
@@ -72381,6 +72461,19 @@
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
       "person_id": "fd602c23-a9f7-4d01-8c16-2ebefd00a20a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
+        }
+      ]
+    },
+    {
+      "area_id": "area/quebec_(saint-laurent)",
+      "legislative_period_id": "term/42",
+      "on_behalf_of_id": "liberal",
+      "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
+      "person_id": "fd68e3f7-fa2b-4869-bba8-5c319d753cce",
       "role": "member",
       "sources": [
         {
