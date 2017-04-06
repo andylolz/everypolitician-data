@@ -22987,6 +22987,10 @@
         {
           "identifier": "Q261703",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UC3cIERTYVJv23O9gHl5kfIw",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/173.jpg/$File/173.jpg",
@@ -23090,6 +23094,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/小池百合子"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/yuriko.koike.96"
         },
         {
           "note": "twitter",
@@ -29583,6 +29591,11 @@
         {
           "lang": "fr",
           "name": "Tadamori Oshima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "טדמורי אושימה",
           "note": "multilingual"
         },
         {
@@ -43449,6 +43462,11 @@
         {
           "lang": "ca",
           "name": "Partit Comunista Japonés",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Япония коммунистлар фиркасе",
           "note": "multilingual"
         },
         {
