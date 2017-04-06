@@ -34301,12 +34301,52 @@
       "sort_name": "ALLEN, Mike, B.Admin., M.B.A.(Hons.)"
     },
     {
+      "gender": "female",
       "id": "88dceac1-5501-4e3c-9025-3ec528ba6cc0",
-      "name": "Mona Fortier"
+      "identifiers": [
+        {
+          "identifier": "Q29138522",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mona_Fortier"
+        }
+      ],
+      "name": "Mona Fortier",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mona Fortier",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "gender": "female",
       "id": "88fa41fb-1b89-444a-a9c3-001604f0d76a",
-      "name": "Mary Ng"
+      "identifiers": [
+        {
+          "identifier": "Q29139548",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mary_Ng"
+        }
+      ],
+      "name": "Mary Ng",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mary Ng",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-11-23",
@@ -52125,8 +52165,28 @@
       ]
     },
     {
+      "gender": "female",
       "id": "d59bd257-d4b3-493b-a81a-496d89828511",
-      "name": "Stephanie Kusie"
+      "identifiers": [
+        {
+          "identifier": "Q29139551",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stephanie_Kusie"
+        }
+      ],
+      "name": "Stephanie Kusie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Stephanie Kusie",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-10-03",
@@ -54875,8 +54935,28 @@
       "sort_name": "SAVOIE, Denise, B.A., M.A., M.Ed."
     },
     {
+      "gender": "male",
       "id": "de71b1d0-1cb8-45f2-a9e3-603d7d2686bf",
-      "name": "Bob Benzen"
+      "identifiers": [
+        {
+          "identifier": "Q29139192",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Benzen"
+        }
+      ],
+      "name": "Bob Benzen",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bob Benzen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1983-04-04",
@@ -61293,8 +61373,32 @@
       ]
     },
     {
+      "gender": "female",
       "id": "fd68e3f7-fa2b-4869-bba8-5c319d753cce",
-      "name": "Emmanuella Lambropoulos"
+      "identifiers": [
+        {
+          "identifier": "Q29139554",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emmanuella_Lambropoulos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ламбропулос,_Эммануэлла"
+        }
+      ],
+      "name": "Emmanuella Lambropoulos",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Emmanuella Lambropoulos",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-06-12",
