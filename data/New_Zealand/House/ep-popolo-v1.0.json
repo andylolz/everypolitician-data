@@ -15278,7 +15278,15 @@
         }
       ],
       "email": "Raymond.hou@parliament.govt.nz",
+      "gender": "male",
+      "given_name": "Raymond",
       "id": "c3b1eb3d-7298-4412-8d8d-039c0b2848b1",
+      "identifiers": [
+        {
+          "identifier": "Q7298875",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://www.parliament.nz/media/3671/huo-raymond.DXlrgw.jpg",
       "images": [
         {
@@ -15286,6 +15294,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raymond_Huo"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Raymond.Huo"
@@ -15296,6 +15308,23 @@
         }
       ],
       "name": "Raymond Huo",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Raymond Huo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Raymond Huo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "霍建強",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Huo, Raymond"
     },
     {
