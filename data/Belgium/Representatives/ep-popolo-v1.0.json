@@ -6013,6 +6013,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Wim_Van_der_Donckt"
+        }
+      ],
       "name": "Wim Van der Donckt",
       "other_names": [
         {
@@ -8990,6 +8996,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Johan_Vande_Lanotte"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Johan_Vande_Lanotte"
         },
         {
           "note": "Wikipedia (nl)",
