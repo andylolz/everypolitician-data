@@ -79400,6 +79400,11 @@
           "lang": "tl",
           "name": "Bahia",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "బాహియా",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -79862,6 +79867,11 @@
         {
           "lang": "bs",
           "name": "Ceará",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "సియారా",
           "note": "multilingual"
         }
       ],
@@ -83488,6 +83498,11 @@
         {
           "lang": "li",
           "name": "Pará",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పరా",
           "note": "multilingual"
         }
       ],
@@ -88641,6 +88656,11 @@
         {
           "lang": "bs",
           "name": "Sergipe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "సెర్జయిప్",
           "note": "multilingual"
         }
       ],
