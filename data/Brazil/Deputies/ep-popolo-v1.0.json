@@ -78429,6 +78429,11 @@
           "lang": "li",
           "name": "Amazonas",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "అమెజోనాస్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -81150,6 +81155,11 @@
           "lang": "de_ch",
           "name": "Goiás",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "గోయాస్",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -81608,6 +81618,11 @@
         {
           "lang": "bs",
           "name": "Maranhão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "మరాన్హో",
           "note": "multilingual"
         }
       ],
@@ -84483,6 +84498,11 @@
         {
           "lang": "sl",
           "name": "Pernambuco, Brazilija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "పెర్నాంబుకో",
           "note": "multilingual"
         }
       ],
