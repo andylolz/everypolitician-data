@@ -2684,6 +2684,125 @@
     },
     {
       "classification": "party",
+      "id": "party/cndd-fdd",
+      "identifiers": [
+        {
+          "identifier": "Q2271402",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://cndd-fdd.org/"
+        }
+      ],
+      "name": "CNDD-FDD",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "民主防衛国民会議・民主防衛勢力",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conseil national pour la défense de la démocratie-Forces de défense de la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Consiglio Nazionale per la Difesa della Democrazia - Forza per la Difesa della Democrazia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Conseil National pour la Défense de la Démocratie–Forces pour la Défense de la Démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Consejo Nacional para la Defensa de la Democracia - Fuerzas para la Defensa de la Democracia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "爭取保衛民主全國委員會－爭取保衛民主力量",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "争取保卫民主全国委员会－争取保卫民主力量",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "CNDD-FDD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "CNDD-FDD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conseil national pour la défense de la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conseil national pour la defense de la democratie-Forces de defense de la democratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Forces pour la défense de la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conseil national pour la défense de la démocratie-Forces pour la défense de la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Forces de défense de la démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Conseil National Pour la Défense de la Démocratie-Forces pour la Défense de la Démocratie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "CNDD–FDD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "CNDD-FDD",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
       "id": "FRODEBU NYAKURI",
       "identifiers": [
         {
@@ -2713,6 +2832,134 @@
     {
       "classification": "party",
       "id": "UPRONA",
+      "identifiers": [
+        {
+          "identifier": "Q633163",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "UPRONA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Union für den nationalen Fortschritt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "民族進歩連合",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour le progrès national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Unión para el Progreso Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Union for National Progress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Союз за національний прогрес",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "UPRONA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Unione per il Progresso Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Союз за национальный прогресс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ένωση για την Εθνική Πρόοδο",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Union for National Progress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "國家進步聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Unió per al Progrés Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union for National Progress",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "UPRONA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union für nationalen Fortschritt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour le Progres national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Union pour le Progrès national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民進歩同盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Union pour le progres national",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "UPRONA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union para el Progreso Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Union pour le Progrès national",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "classification": "party",
+      "id": "party/uprona",
       "identifiers": [
         {
           "identifier": "Q633163",
