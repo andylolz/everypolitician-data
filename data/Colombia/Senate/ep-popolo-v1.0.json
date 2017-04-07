@@ -868,6 +868,12 @@
       "email": "doris.vega.quiroz@senado.gov.co",
       "gender": "female",
       "id": "14a4ce49-b5c5-4a0d-b2dd-943a8e8eb04f",
+      "identifiers": [
+        {
+          "identifier": "Q29122048",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.secretariasenado.gov.co/images/SENADORES_2014-2018/doris-vega.png",
       "images": [
         {
@@ -875,6 +881,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Doris_Vega"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/dorisclemencia.vegaquiroz"
@@ -884,7 +894,18 @@
           "url": "https://twitter.com/doriscvega"
         }
       ],
-      "name": "DORIS CLEMENCIA VEGA QUIROZ"
+      "name": "DORIS CLEMENCIA VEGA QUIROZ",
+      "other_names": [
+        {
+          "name": "Doris Vega",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Doris Vega",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976",
@@ -5540,6 +5561,12 @@
       "email": "juan.merheg.marun@senado.gov.co",
       "gender": "male",
       "id": "921cc3d3-4773-4db5-8259-f71be5887c41",
+      "identifiers": [
+        {
+          "identifier": "Q28858596",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.secretariasenado.gov.co/images/SENADORES_2014-2018/SAMY-MERHEG-MARUN.png",
       "images": [
         {
@@ -5551,6 +5578,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Samy_Merheg"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/samymerheg"
         }
@@ -5558,8 +5589,22 @@
       "name": "JUAN SAMY MERHEG MARUN",
       "other_names": [
         {
+          "name": "Juan Samy Merheg",
+          "note": "alternate"
+        },
+        {
           "name": "Samy Merheg Marún",
           "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Juan Samy Merheg",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juan Samy Merheg",
+          "note": "multilingual"
         }
       ]
     },
@@ -6083,6 +6128,7 @@
       ]
     },
     {
+      "birth_date": "1973-03-30",
       "contact_details": [
         {
           "type": "email",
@@ -6095,14 +6141,48 @@
       ],
       "email": "edossonsespedes@yahoo.es",
       "gender": "male",
+      "given_name": "Javier",
       "id": "a791059d-8132-423f-b013-f15fcf092eda",
+      "identifiers": [
+        {
+          "identifier": "Q28840060",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.secretariasenado.gov.co/images/fotosenadores/Delgado%20javier.jpg",
       "images": [
         {
           "url": "http://www.secretariasenado.gov.co/images/fotosenadores/Delgado%20javier.jpg"
         }
       ],
-      "name": "JAVIER MAURICIO DELGADO MARTINEZ"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Javier_Mauricio_Delgado"
+        }
+      ],
+      "name": "JAVIER MAURICIO DELGADO MARTINEZ",
+      "other_names": [
+        {
+          "name": "Javier Mauricio Delgado Martínez",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Javier Mauricio Delgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Javier Mauricio Delgado Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Javier Mauricio Delgado",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-06-18",
