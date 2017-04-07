@@ -57,9 +57,9 @@ GIT
 
 GIT
   remote: https://github.com/tmtmtmtm/csv_to_popolo.git
-  revision: e3e10d41d994111db0dd5dcfa79134d50fb8cd32
+  revision: 9550768212330ab209989a75d8479e341df6d796
   specs:
-    csv_to_popolo (0.28.0)
+    csv_to_popolo (0.28.1)
       facebook_username_extractor
       json
       rcsv
@@ -110,7 +110,7 @@ GEM
     http-cookie (1.0.2)
       domain_name (~> 0.5)
     i18n (0.7.0)
-    json (2.0.1)
+    json (2.0.3)
     json5 (0.0.1)
     method_source (0.8.2)
     mime-types (3.1)
