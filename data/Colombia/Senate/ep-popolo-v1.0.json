@@ -851,6 +851,7 @@
       ]
     },
     {
+      "birth_date": "1959-12-29",
       "contact_details": [
         {
           "type": "email",
@@ -867,6 +868,7 @@
       ],
       "email": "doris.vega.quiroz@senado.gov.co",
       "gender": "female",
+      "given_name": "Doris",
       "id": "14a4ce49-b5c5-4a0d-b2dd-943a8e8eb04f",
       "identifiers": [
         {
@@ -899,6 +901,11 @@
         {
           "name": "Doris Vega",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Doris Vega",
+          "note": "multilingual"
         },
         {
           "lang": "es",
@@ -7996,7 +8003,7 @@
           "url": "http://www.secretariasenado.gov.co/images/senadores-2014-18/ramos.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/841803848167616512/PSyNWsDL.jpg"
+          "url": "https://pbs.twimg.com/profile_images/850204622652297219/R4RcIiYh.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/AlfredoRamosMaya.jpg"
