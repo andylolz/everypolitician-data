@@ -2036,7 +2036,7 @@
       "sort_name": "ALEKSANDAR MARKOVIC"
     },
     {
-      "birth_date": "1958",
+      "birth_date": "1958-06-16",
       "contact_details": [
         {
           "type": "twitter",
@@ -2044,14 +2044,33 @@
         }
       ],
       "gender": "female",
+      "given_name": "Gordana",
       "id": "31ca516f-15d5-41fc-8c8c-3667b7ae3106",
       "identifiers": [
         {
           "identifier": "149",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16269542",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gordana_Čomić_-_May_2015_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Gordana_Čomić_-_May_2015_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gordana_Čomić"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gordana_Čomić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/1002511807"
@@ -2066,6 +2085,42 @@
         }
       ],
       "name": "GORDANA COMIC",
+      "other_names": [
+        {
+          "name": "Gordana Čomić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Gordana Čomić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GORDANA COMIC"
     },
     {
