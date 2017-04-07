@@ -26,14 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
+      "file": "manual/terms.csv",
       "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/kosovo-parldata",
-        "query": "SELECT * FROM terms"
-      }
     },
     {
       "file": "gender-balance/results.csv",
