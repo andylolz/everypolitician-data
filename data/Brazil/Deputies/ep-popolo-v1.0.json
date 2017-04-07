@@ -18607,7 +18607,7 @@
       "links": [
         {
           "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Eliene_José_de_Lima"
+          "url": "https://pt.wikipedia.org/wiki/Eliene_Lima"
         }
       ],
       "name": "ELIENE LIMA",
@@ -23504,6 +23504,11 @@
         {
           "name": "Evair de Melo",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Evair de Melo",
+          "note": "multilingual"
         },
         {
           "lang": "nl",
