@@ -18363,6 +18363,7 @@
       "name": "OSVALDO COELHO"
     },
     {
+      "birth_date": "1958-02-10",
       "contact_details": [
         {
           "type": "email",
@@ -18375,11 +18376,16 @@
       ],
       "email": "dep.adalbertocavalcanti@camara.leg.br",
       "gender": "male",
+      "given_name": "Adalberto",
       "id": "5ade0a86-2ef1-4e75-a6c6-bf5d2d914f1f",
       "identifiers": [
         {
           "identifier": "5830364",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21019814",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178914.jpg",
@@ -18388,7 +18394,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178914.jpg"
         }
       ],
-      "name": "ADALBERTO CAVALCANTI"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Adalberto_Cavalcanti"
+        }
+      ],
+      "name": "ADALBERTO CAVALCANTI",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Adalberto Cavalcanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Adalberto Cavalcanti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1938-05-22",
@@ -27838,6 +27862,7 @@
       ]
     },
     {
+      "birth_date": "1973-04-04",
       "contact_details": [
         {
           "type": "email",
@@ -27851,13 +27876,26 @@
       "email": "dep.franklinlima@camara.leg.br",
       "gender": "male",
       "id": "89cbc91e-2923-4769-b802-56373245dd03",
+      "identifiers": [
+        {
+          "identifier": "Q29207674",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/186775.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/186775.jpg"
         }
       ],
-      "name": "FRANKLIN LIMA"
+      "name": "FRANKLIN LIMA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Franklin Lima",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-05-23",
