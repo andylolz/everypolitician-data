@@ -8868,6 +8868,7 @@
       ]
     },
     {
+      "birth_date": "1968-12-19",
       "contact_details": [
         {
           "type": "email",
@@ -8879,13 +8880,26 @@
       "gender": "male",
       "given_name": "Malte",
       "id": "317dc125-67da-4d11-a8ad-78ed53c353fc",
+      "identifiers": [
+        {
+          "identifier": "Q29227882",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Malte%20Larsen/Malte_Larsen_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Malte%20Larsen/Malte_Larsen_133.jpg.ashx"
         }
       ],
-      "name": "Malte Larsen"
+      "name": "Malte Larsen",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Malte Larsen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-05-07",
@@ -17204,6 +17218,7 @@
       ]
     },
     {
+      "birth_date": "1974-09-06",
       "contact_details": [
         {
           "type": "email",
@@ -17212,15 +17227,29 @@
       ],
       "email": "sanne.bjorn@ft.dk",
       "family_name": "Bjørn",
+      "gender": "female",
       "given_name": "Sanne",
       "id": "551d408f-bc55-4983-8059-29fbf78d4bd7",
+      "identifiers": [
+        {
+          "identifier": "Q29228107",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sanne_Bjoern/Sanne_Bjoern_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/RV/Sanne_Bjoern/Sanne_Bjoern_133.jpg.ashx"
         }
       ],
-      "name": "Sanne Bjørn"
+      "name": "Sanne Bjørn",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sanne Bjørn",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -24001,6 +24030,7 @@
       ]
     },
     {
+      "birth_date": "1978-08-26",
       "contact_details": [
         {
           "type": "email",
@@ -24012,13 +24042,26 @@
       "gender": "male",
       "given_name": "Emrah",
       "id": "719ebcf5-843c-46bf-8dd4-c7a812a78e8f",
+      "identifiers": [
+        {
+          "identifier": "Q29227815",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Emrah%20Tuncer/Emrah_Tuncer_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/RV/Emrah%20Tuncer/Emrah_Tuncer_133.jpg.ashx"
         }
       ],
-      "name": "Emrah Tuncer"
+      "name": "Emrah Tuncer",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-09-12",
@@ -36379,6 +36422,7 @@
       ]
     },
     {
+      "birth_date": "1969-07-21",
       "contact_details": [
         {
           "type": "email",
@@ -36390,7 +36434,20 @@
       "gender": "female",
       "given_name": "Brigitte",
       "id": "b3e3818b-ca48-4015-85f4-fb888df63c44",
-      "name": "Brigitte Klintskov Jerkel"
+      "identifiers": [
+        {
+          "identifier": "Q29227656",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Brigitte Klintskov Jerkel",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1927-04-18",
@@ -38322,6 +38379,7 @@
       ]
     },
     {
+      "birth_date": "1971-05-02",
       "contact_details": [
         {
           "type": "email",
@@ -38333,13 +38391,26 @@
       "gender": "male",
       "given_name": "Carsten",
       "id": "b9a4a1f5-b79c-4681-be95-e5296e27a795",
+      "identifiers": [
+        {
+          "identifier": "Q29227736",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Carsten%20Kudsk/Carsten_Kudsk_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Carsten%20Kudsk/Carsten_Kudsk_133.jpg.ashx"
         }
       ],
-      "name": "Carsten Kudsk"
+      "name": "Carsten Kudsk",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1938-11-13",
@@ -45857,6 +45928,7 @@
       "name": "Jens Løgstrup Madsen"
     },
     {
+      "birth_date": "1981-03-09",
       "contact_details": [
         {
           "type": "email",
@@ -45868,13 +45940,26 @@
       "gender": "male",
       "given_name": "Anders",
       "id": "dac018ed-b46e-46ce-a07c-170dff80d15b",
+      "identifiers": [
+        {
+          "identifier": "Q29227550",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Anders%20Johansson/Anders_Johansson_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Anders%20Johansson/Anders_Johansson_133.jpg.ashx"
         }
       ],
-      "name": "Anders Johansson"
+      "name": "Anders Johansson",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Anders Johansson",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1938-07-02",
@@ -47740,6 +47825,7 @@
       ]
     },
     {
+      "birth_date": "1973-01-08",
       "contact_details": [
         {
           "type": "email",
@@ -47751,13 +47837,26 @@
       "gender": "male",
       "given_name": "Nikolaj",
       "id": "e1c5d35c-6dfb-4af3-bcff-510de5da7b8f",
+      "identifiers": [
+        {
+          "identifier": "Q29227944",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx"
         }
       ],
-      "name": "Nikolaj Amstrup"
+      "name": "Nikolaj Amstrup",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-06-11",
