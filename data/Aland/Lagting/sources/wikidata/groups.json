@@ -1054,5 +1054,30 @@
         "note": "website"
       }
     ]
+  },
+  "Åländsk_demokrati": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q23041529"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Ålandic Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Åländsk Demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "オーランドの民主",
+        "note": "multilingual"
+      }
+    ]
   }
 }

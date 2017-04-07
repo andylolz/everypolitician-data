@@ -4346,95 +4346,6 @@
     },
     {
       "classification": "party",
-      "id": "party/moderat_samling",
-      "identifiers": [
-        {
-          "identifier": "Q2113965",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.moderaterna.ax/"
-        }
-      ],
-      "name": "Moderat samling",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Moderaterna på Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Аландские умеренные",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Moderates of Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Frisinnad Samverkan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ahvenanmaan maltilliset",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Moderaterna på Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Moderaterna på Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "オーランドの穏健派",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Беззаботное сотрудничество",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Frisinnad Samverkan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Vapaamielinen yhteistoiminta",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Frisinnad Samverkan",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Moderat Samling",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Frisinnad Samverkan",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "party/moderaterna_på_Åland",
       "identifiers": [
         {
@@ -4695,254 +4606,6 @@
           "url": "http://www.alandsframtid.ax/"
         }
       ],
-      "name": "Ålands Framtid",
-      "other_names": [
-        {
-          "lang": "zh-hans",
-          "name": "奥兰未来",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "奧蘭未來",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hk",
-          "name": "奧蘭未來",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Будущее Аландов",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Future of Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Futur d'Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ahvenanmaan tulevaisuus",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "奧蘭未來",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "オーランドの未来",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Futuro di Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Ålands Zukunft",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Future of Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Budoucnost Aland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Budoucnost Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Dazont Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Партия будущего Аландских островов",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Alands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Futur des Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Futur d’Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ålands framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Ålands Framtid",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Ahvenanmaan tulevaisuus",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/Ålands_socialdemokrater",
-      "identifiers": [
-        {
-          "identifier": "Q270982",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.socialdemokraterna.ax/"
-        }
-      ],
-      "name": "Ålands Socialdemokrater",
-      "other_names": [
-        {
-          "lang": "ru",
-          "name": "Аландская социал-демократическая партия",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Åland Social Democrats",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ahvenanmaan sosiaalidemokraatit",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Socialdemòcrates d'Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Ålands Sozialdemokraten",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Ålands socialdemokrater",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Socialdemocratici delle Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ålands Socialdemokrater",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Ålands socialdemokrater",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh",
-          "name": "奧蘭社會民主黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Ålands socialdemokrater",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "オーランド社会民主党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Åland Social Democrats",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
-      "id": "party/Ålands_framtid",
-      "identifiers": [
-        {
-          "identifier": "Q2113751",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.alandsframtid.ax/"
-        }
-      ],
       "name": "Ålands framtid",
       "other_names": [
         {
@@ -5178,115 +4841,6 @@
     },
     {
       "classification": "party",
-      "id": "party/Åländsk_center",
-      "identifiers": [
-        {
-          "identifier": "Q2113706",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.centern.ax/"
-        }
-      ],
-      "name": "Åländsk Center",
-      "other_names": [
-        {
-          "lang": "nn",
-          "name": "Centern på Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Åland Centre",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Аландский центр",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Ålandsk Center",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Åland Centre",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Centre d'Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Ahvenanmaan keskusta",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Åländsk Center",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Centro delle Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Åländsk Center",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Åländisches Zentrum",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Åländsk Center",
-          "note": "multilingual"
-        },
-        {
-          "lang": "az",
-          "name": "Aland mərkəzi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ja",
-          "name": "オーランド中央党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Åland Centre",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Centre d’Åland",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Åländsk center",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Åländsk Center",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "party/Åländsk_center_r.f.",
       "identifiers": [
         {
@@ -5397,7 +4951,30 @@
     {
       "classification": "party",
       "id": "party/Åländsk_demokrati",
-      "name": "Åländsk Demokrati"
+      "identifiers": [
+        {
+          "identifier": "Q23041529",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Åländsk Demokrati",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ålandic Democracy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Åländsk Demokrati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "オーランドの民主",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
