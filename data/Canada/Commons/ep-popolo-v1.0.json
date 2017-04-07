@@ -30637,6 +30637,10 @@
           "url": "https://ru.wikipedia.org/wiki/Фриланд,_Христя"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Chrystia_Freeland"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Христя_Фріланд"
         },
@@ -34302,6 +34306,7 @@
     },
     {
       "gender": "female",
+      "given_name": "Mona",
       "id": "88dceac1-5501-4e3c-9025-3ec528ba6cc0",
       "identifiers": [
         {
