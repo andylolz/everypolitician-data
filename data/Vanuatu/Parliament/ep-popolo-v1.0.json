@@ -3475,29 +3475,6 @@
     },
     {
       "classification": "party",
-      "id": "party/nagriamel",
-      "identifiers": [
-        {
-          "identifier": "Q7885221",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Nagriamel",
-      "other_names": [
-        {
-          "lang": "fr",
-          "name": "Nagriamel",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Nagriamel",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "classification": "party",
       "id": "party/natatok",
       "identifiers": [
         {
