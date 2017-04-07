@@ -591,6 +591,640 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/People's_Party_(Spain)_Logo.svg"
   },
+  "2": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q452571"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ru",
+        "name": "Амайур",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Амаијур",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Amaiur (coalició)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Amaiur (coalición politica)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Amaiur (coalición)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "アマユール",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vec",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Amaiur",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Amaiur (coalición)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Amaiur (coalición política)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Амаиур",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Amaiur (coalicion politica)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "アマイウル",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.amaiur.info",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Amaiur_logo.svg"
+  },
+  "3": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1144342"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "pt",
+        "name": "União, Progresso e Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unuiĝo, Progreso kaj Demokratio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Związek, Postęp",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Batasuna, Aurrerapena eta Demokrazia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ext",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union, progrès et démocratie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Unija, progres i demokratija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Унија, прогрес и демократија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Union, Progress and Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "Unión, Progresu y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió, Progrés i Democràcia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Liitto, Edistys ja Demokratia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unione, Progresso e Democrazia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "連合・進歩・民主主義",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Enhet, framsteg och demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Унија, прогрес и демократија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gsw",
+        "name": "Union, Fortschritt und Demokratie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "io",
+        "name": "Uniono, Progreso e Demokratio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Союз, прогрес і демократія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ένωση, Πρόοδος και Δημοκρατία",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Union, Progress and Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Union, Progress and Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "União, Progresso e Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "联盟、进步和民主",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "연합, 진보, 민주주의",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз, прогресс и демократия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União Progresso e Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Unidad, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Union, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union progrès et démocratie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Унија Прогрес и Демократија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unidad Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unidad, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "Unión Progresu y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió Progrés i Democràcia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unione Progresso e Democrazia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión Progreso e Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión, Progreso e Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ガリシア進歩民主連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "進歩民主連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ユニオン、進歩と民主主義",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Union Progress and Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Progress and Democracy Union",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UPYD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UPD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unionen, framsteg och demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union, framsteg och demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "UPyD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Unión, Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ext",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unuiĝo Progreso kaj Demokratio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Unión Progreso y Democracia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "io",
+        "name": "Uniono Progreso e Demokratio",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.upyd.es",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NuevoLogoUPYD.png"
+  },
   "5": {
     "identifiers": [
       {
@@ -1825,518 +2459,6 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Convergència_i_Unió_(logo).jpg"
   },
-  "3": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q1144342"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "pt",
-        "name": "União, Progresso e Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unuiĝo, Progreso kaj Demokratio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Związek, Postęp",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Batasuna, Aurrerapena eta Demokrazia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ext",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union, progrès et démocratie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-el",
-        "name": "Unija, progres i demokratija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-ec",
-        "name": "Унија, прогрес и демократија",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Union, Progress and Democracy",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Unión, Progresu y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unió, Progrés i Democràcia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Liitto, Edistys ja Demokratia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Unione, Progresso e Democrazia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "連合・進歩・民主主義",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Enhet, framsteg och demokrati",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Унија, прогрес и демократија",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gsw",
-        "name": "Union, Fortschritt und Demokratie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "io",
-        "name": "Uniono, Progreso e Demokratio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Союз, прогрес і демократія",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de-ch",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Ένωση, Πρόοδος και Δημοκρατία",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Union, Progress and Democracy",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Union, Progress and Democracy",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "União, Progresso e Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "联盟、进步和民主",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "연합, 진보, 민주주의",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Союз, прогресс и демократия",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "União Progresso e Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Unidad, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Union, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union progrès et démocratie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Унија Прогрес и Демократија",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Unidad Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Unidad, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Unión Progresu y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unió Progrés i Democràcia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Unione Progresso e Democrazia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Unión Progreso e Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Unión, Progreso e Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Union Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "ガリシア進歩民主連合",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "進歩民主連合",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "ユニオン、進歩と民主主義",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Union Progress and Democracy",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Progress and Democracy Union",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "UPYD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "UPD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Unionen, framsteg och demokrati",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Union, framsteg och demokrati",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "UPyD",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Unión, Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ext",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unuiĝo Progreso kaj Demokratio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Unión Progreso y Democracia",
-        "note": "multilingual"
-      },
-      {
-        "lang": "io",
-        "name": "Uniono Progreso e Demokratio",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.upyd.es",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NuevoLogoUPYD.png"
-  },
   "11": {
     "identifiers": [
       {
@@ -2958,5 +3080,861 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/EAJlogo.svg"
+  },
+  "13": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q149877"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "eo",
+        "name": "Iniciativo por Katalunio - Verduloj",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Inicjatywa dla Katalonii - Zieloni",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Initiative for Catalonia Greens",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Ініціатива за Каталонію — Зелені",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Iniziativa per la Catalogna Verde",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Πρωτοβουλία για τους Πράσινους της Καταλονίας",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "争取加泰罗尼亚倡议绿党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Iniciativa pela Catalunha Verdes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャ緑のためのイニシアティブ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Iniciativa per Catalunya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Iniciato por Katalunio - Verduloj",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Iniciativa Per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Iniciativa Per Catalunya Verds - Esquerra Unida í Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Inicjatywa dla Zielonych Katalonii",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "ICV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Iniciativa per Catalunya-els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Iniciativa per Catalunya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "IC-V",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa por Cataluña Verdes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya-Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "IC V",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa por Cataluna Verdes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya - Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Iniciativa per Catalunya-Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "IC-V",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya-Els verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya - Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa-Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya Verds - Esquerra Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya - Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya-Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "ICV-EA",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Iniciativa per Catalunya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "ICV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Ініціатива за Каталонію - Зелені",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Ініціатива за зелену Каталонію",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Iniciativa per Catalunya Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Iniciativa per Catalunya-Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Iniciativa per Catalunya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "ICV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Iniciativa per Catalunya-Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャ緑のイニシアティブ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "Iniciativa per Catalunya Verds、ICV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャ緑のイニシアティヴ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "Iniciativa per Catalunya Verds（ICV）",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャのためのイニシアティブ",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.iniciativa.cat/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Logo_ICV.svg"
+  },
+  "15": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q885433"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "eo",
+        "name": "Galega Naciisma Bloko",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Galician Nationalist Bloc",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Bloco Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Bloc Nacionalista Gallec",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Galiçya Milliyetçi Bloku",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "bloc nationaliste galicien",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Blocco Nazionalista Galiziano",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Galicyjski Blok Nacjonalistyczny",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Galiziako Bloke Nazionalista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ガリシア民族主義ブロック",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Галисийский националистический блок",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "加利西亚民族主义集团",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Bloc Nationaliste Galicien",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Bloque Nacionalista Gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Bng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Bloco nacionalista galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Bloque nacionalista galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Bloque Nacionalista Gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Bloc Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ast",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Galiçya Milliyetçi Bloğu",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Galiçya milliyetçi bloku",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Bloque Nacionalista Gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Bloque Nazionalista Gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Blocco nazionalista gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partido Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Bloc'had Broadelour Galiza",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Bloque Nacionalista Galego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ガリシア民族ブロック",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "BNG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Bloque Nacionalista Gallego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Bloque nacionalista galego",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.bng-galiza.org",
+        "note": "website"
+      }
+    ]
+  },
+  "18": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q432608"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Sinistra Unita e Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Esquerra Unida i Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Esquerra Unida i Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ενωμένη Εναλλακτική Αριστερά",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "United and Alternative Left",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Esquerra Unida i Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Esquerra Unida i Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Zjednoczona Lewica i Alternatywa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Esquerda Unida e Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Esquerra Unida i Alternativa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "联合和选择左翼",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "United and Alternative Left",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "アスケーラ・ウニーダ・イ・アルタルナティーバ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "EUiA",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャ統一左翼",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "Esquerra Unida i Alternativa、EUiA",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "Esquerra Unida i Alternativa（EUiA）",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "カタルーニャ統一左翼・アルテルナティーバ",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.euia.cat/",
+        "note": "website"
+      }
+    ]
+  },
+  "19": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1432791"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió del Poble Navarrés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Navarrese People's Union",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Nafar Herriaren Batasuna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union du peuple navarrais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ナバーラ住民連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União do Povo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Navarra Halk Birliği Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sq",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Unia Ludowa Nawarry",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз наваррского народа",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Navarrese People's Union",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "納瓦拉人民聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "纳瓦拉人民联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "納瓦拉人民聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Navarrese People's Union",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Navarrese People's Union",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "União do Povo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "UPN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "Unión del Pueblo Navarro、UPN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Unión del Pueblo Navarro",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "UPN",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.upn.org",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Logo_UPN.svg"
   }
 }
