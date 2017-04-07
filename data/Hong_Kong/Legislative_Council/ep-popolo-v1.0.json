@@ -5698,6 +5698,10 @@
       "id": "7e71f9c9-d66c-4b98-9294-c3fd2a716188",
       "identifiers": [
         {
+          "identifier": "Nathan-Law-10",
+          "scheme": "quora"
+        },
+        {
           "identifier": "Q24701019",
           "scheme": "wikidata"
         }
@@ -10734,6 +10738,11 @@
         {
           "lang": "en",
           "name": "Lam Cheuk-ting",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ラム・チュクテン",
           "note": "multilingual"
         },
         {
