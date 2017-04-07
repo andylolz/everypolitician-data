@@ -1683,6 +1683,7 @@
       ]
     },
     {
+      "birth_date": "1957-09-29",
       "contact_details": [
         {
           "type": "email",
@@ -1691,15 +1692,54 @@
       ],
       "email": "bruno.jerup@ft.dk",
       "family_name": "Jerup",
+      "gender": "male",
       "given_name": "Bruno",
       "id": "0e816da0-6585-4b18-b52a-1725945a68a0",
+      "identifiers": [
+        {
+          "identifier": "Q12304459",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Bruno_Jerup/Bruno_Jerup_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/20111/EL/Bruno_Jerup/Bruno_Jerup_133.jpg.ashx"
         }
       ],
-      "name": "Bruno Jerup"
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Bruno_Jerup"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Bruno_Jerup"
+        }
+      ],
+      "name": "Bruno Jerup",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Bruno Jerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bruno Jerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bruno Jerup",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Bruno Jerup",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-08-05",
@@ -20746,51 +20786,6 @@
         {
           "lang": "sv",
           "name": "Julie Skovsby",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "birth_date": "1957-09-29",
-      "gender": "male",
-      "given_name": "Bruno",
-      "id": "62ad674e-3079-4653-93cb-35cc29befe9c",
-      "identifiers": [
-        {
-          "identifier": "Q12304459",
-          "scheme": "wikidata"
-        }
-      ],
-      "links": [
-        {
-          "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Bruno_Jerup"
-        },
-        {
-          "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Bruno_Jerup"
-        }
-      ],
-      "name": "Bruno Jerup",
-      "other_names": [
-        {
-          "lang": "da",
-          "name": "Bruno Jerup",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en",
-          "name": "Bruno Jerup",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Bruno Jerup",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Bruno Jerup",
           "note": "multilingual"
         }
       ]
@@ -63406,6 +63401,13 @@
       "role": "member"
     },
     {
+      "legislative_period_id": "term/1994",
+      "on_behalf_of_id": "EL",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "0e816da0-6585-4b18-b52a-1725945a68a0",
+      "role": "member"
+    },
+    {
       "area_id": "area/funen_county_constituency",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
@@ -67229,13 +67231,6 @@
           "url": "http://www.thedanishparliament.dk/Members/sjuls.aspx"
         }
       ]
-    },
-    {
-      "legislative_period_id": "term/1994",
-      "on_behalf_of_id": "EL",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "62ad674e-3079-4653-93cb-35cc29befe9c",
-      "role": "member"
     },
     {
       "legislative_period_id": "term/1994",
