@@ -77473,7 +77473,25 @@
     {
       "classification": "party",
       "id": "party/civici_e_innovatori",
-      "name": "CIVICI E INNOVATORI"
+      "identifiers": [
+        {
+          "identifier": "Q27534787",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "CIVICI E INNOVATORI",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Civici e Innovatori",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Civici e Innovatori",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -78543,7 +78561,26 @@
     {
       "classification": "party",
       "id": "party/misto_-_alternativa_libera",
-      "name": "MISTO - ALTERNATIVA LIBERA"
+      "identifiers": [
+        {
+          "identifier": "Q20647315",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.alternativalibera.org/"
+        }
+      ],
+      "name": "MISTO - ALTERNATIVA LIBERA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Free Alternative",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -78553,17 +78590,274 @@
     {
       "classification": "party",
       "id": "party/misto_-_centro_democratico",
-      "name": "MISTO - CENTRO DEMOCRATICO"
+      "identifiers": [
+        {
+          "identifier": "Q1952211",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.ilcentrodemocratico.it/"
+        }
+      ],
+      "name": "MISTO - CENTRO DEMOCRATICO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Democratic Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Centre démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Centrum Demokratyczne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Centro Democrático",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Democratic Centre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "中間民主 (義大利)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "中间民主 (意大利)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/misto_-_conservatori_e_riformisti",
-      "name": "MISTO - CONSERVATORI E RIFORMISTI"
+      "identifiers": [
+        {
+          "identifier": "Q20730633",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.conservatorieriformisti.it/"
+        }
+      ],
+      "name": "MISTO - CONSERVATORI E RIFORMISTI",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Conservatori e Riformisti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Direction Italy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Direzione Italia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conservateurs et réformistes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Conservadores e Reformistas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "CR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "CoR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "CR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "CoR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Conservatives and Reformists",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "DI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Conservatori e Riformisti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "DI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "CoR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "CR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Conservateurs et réformistes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "DI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "CoR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "CR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Conservadores e Reformistas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "DI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "CoR",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "CR",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/misto_-_fare!-pri",
-      "name": "MISTO - FARE!-PRI"
+      "identifiers": [
+        {
+          "identifier": "Q20970828",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://farecontosi.it/"
+        }
+      ],
+      "name": "MISTO - FARE!-PRI",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Fare!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Act!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Fari!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fare!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "F!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fare!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "F!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Fare!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "F!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Fare!",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "F!",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -78573,7 +78867,91 @@
     {
       "classification": "party",
       "id": "party/misto_-_maie-movimento_associativo_italiani_all'estero",
-      "name": "MISTO - MAIE-MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO"
+      "identifiers": [
+        {
+          "identifier": "Q1811588",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.maiemondiale.com"
+        }
+      ],
+      "name": "MISTO - MAIE-MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Movimento Associativo Italiani all’Estero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Σωματειακό Κίνημα Ιταλών στο Εξωτερικό",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement associatif des Italiens à l'étranger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Asociativo Italianos en el Exterior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Associative Movement Italians Abroad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Movimento Associativo Italiani all'Estero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Associative Movement Italians Abroad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Movimento Associativo Italiani all'Estero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "MAIE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Movimento Associativo Italiani all'Estero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "MAIE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimento Associativo Italiani all'Estero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "MAIE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "MAIE",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",

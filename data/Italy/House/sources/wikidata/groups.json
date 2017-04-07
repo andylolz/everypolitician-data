@@ -2532,5 +2532,395 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg"
+  },
+  "civici_e_innovatori": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q27534787"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Civici e Innovatori",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Civici e Innovatori",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "misto_-_alternativa_libera": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q20647315"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Free Alternative",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.alternativalibera.org/",
+        "note": "website"
+      }
+    ]
+  },
+  "misto_-_centro_democratico": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1952211"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Democratic Centre",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Centro Democratico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Centre démocrate",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Centrum Demokratyczne",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Centro Democrático",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Centro Democratico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Democratic Centre",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "中間民主 (義大利)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "中间民主 (意大利)",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.ilcentrodemocratico.it/",
+        "note": "website"
+      }
+    ]
+  },
+  "misto_-_conservatori_e_riformisti": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q20730633"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Conservatori e Riformisti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Direction Italy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Direzione Italia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Conservateurs et réformistes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Conservadores e Reformistas",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "CR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "CoR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "CR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "CoR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Conservatives and Reformists",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "DI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Conservatori e Riformisti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "DI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "CoR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "CR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Conservateurs et réformistes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "DI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "CoR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "CR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Conservadores e Reformistas",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "DI",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "CoR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "CR",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.conservatorieriformisti.it/",
+        "note": "website"
+      }
+    ]
+  },
+  "misto_-_fare!-pri": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q20970828"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Fare!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Act!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Fari!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Fare!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "F!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Fare!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "F!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Fare!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "F!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Fare!",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "F!",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://farecontosi.it/",
+        "note": "website"
+      }
+    ]
+  },
+  "misto_-_maie-movimento_associativo_italiani_all'estero": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1811588"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Movimento Associativo Italiani all’Estero",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σωματειακό Κίνημα Ιταλών στο Εξωτερικό",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Mouvement associatif des Italiens à l'étranger",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Asociativo Italianos en el Exterior",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Associative Movement Italians Abroad",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Movimento Associativo Italiani all'Estero",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Associative Movement Italians Abroad",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Movimento Associativo Italiani all'Estero",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "MAIE",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Movimento Associativo Italiani all'Estero",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "MAIE",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Movimento Associativo Italiani all'Estero",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "MAIE",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "MAIE",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.maiemondiale.com",
+        "note": "website"
+      }
+    ]
   }
 }
