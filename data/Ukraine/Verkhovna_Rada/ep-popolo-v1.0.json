@@ -2045,6 +2045,12 @@
     },
     {
       "birth_date": "1963-06-15",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Viktorbaloha"
+        }
+      ],
       "family_name": "Балога",
       "gender": "male",
       "given_name": "Віктор",
@@ -2112,6 +2118,14 @@
         {
           "note": "Wikipedia (ukwikiquote)",
           "url": "https://ukwikiquote.wikipedia.org/wiki/Балога_Віктор_Іванович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/190322544333196"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Viktorbaloha"
         }
       ],
       "name": "Балога Віктор Іванович",
