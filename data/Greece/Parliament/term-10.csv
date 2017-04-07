@@ -1,7 +1,7 @@
 id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
 7866b6a0-4b65-4025-a6cd-5c305580e402,Adraktas Panagiotis,Adraktas Panagiotis,,,,N.D. (New Democracy),nd,area/ileia,Ileia,Hellenic Parliament,10,,,,male
 92d9c38c-fde8-406d-bd00-98f2e7c84518,Akrivakis Alexandros,Akrivakis Alexandros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/viotia,Viotia,Hellenic Parliament,10,,,,
-796fc676-8ea6-4283-b370-0d3136055699,Alampanos Dimitrios,Alampanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fthiotida,Fthiotida,Hellenic Parliament,10,,,,
+796fc676-8ea6-4283-b370-0d3136055699,Alampanos Dimitrios,Alampanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fthiotida,Fthiotida,Hellenic Parliament,10,,,,male
 6625292b-8450-480d-b1f1-e69d2b749b60,Alevras Athanasios (Nasos),Alevras Athanasios (Nasos),,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_a,Athens A,Hellenic Parliament,10,,,,male
 c56e98ec-a0b9-459b-a91e-0723facae267,Alogoskoufis Spyridon Georgios,Alogoskoufis Spyridon Georgios,,,,N.D. (New Democracy),nd,area/athens_a,Athens A,Hellenic Parliament,10,,,https://upload.wikimedia.org/wikipedia/commons/9/93/GAlogoskoufis_Nov06_(original_size).JPG,male
 69f599b1-55c2-4b37-b9af-af5fee82cc5f,Ampatzoglou Georgios,Ampatzoglou Georgios,,,,Coalition of the Left and Progress,coalitionoftheleftandprogress,area/of_attica_(rest),Of Attica (rest),Hellenic Parliament,10,,2002-12-30,,
@@ -264,7 +264,7 @@ dd844478-9110-4604-939d-8dff46e1c87f,Regkouzas Panagioti Adam,Regkouzas Panagiot
 d0a27f3e-efee-4663-acff-3d3c35dd1e4a,Sakorafa Sofia,Sakorafa Sofia,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,10,,2000-09-19,"https://upload.wikimedia.org/wikipedia/commons/3/39/Greek_part_-_Citizens’_Corner_debate-_Migration_maze_–_policing_Europe’s_borders,_whose_job_is_it?_(27093803063).jpg",female
 d0a27f3e-efee-4663-acff-3d3c35dd1e4a,Sakorafa Sofia,Sakorafa Sofia,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,10,2000-09-20,,"https://upload.wikimedia.org/wikipedia/commons/3/39/Greek_part_-_Citizens’_Corner_debate-_Migration_maze_–_policing_Europe’s_borders,_whose_job_is_it?_(27093803063).jpg",female
 67bd8a17-402c-4a67-b452-71877bb727c4,Salagiannis Nikolaos,Salagiannis Nikolaos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/karditsa,Karditsa,Hellenic Parliament,10,,,,
-e24ac259-0018-4763-8f59-0d6d5ee27da5,Salagkoudis Georgios,Salagkoudis Georgios,,,,N.D. (New Democracy),nd,area/thessaloniki_b,Thessaloniki B,Hellenic Parliament,10,,,,
+e24ac259-0018-4763-8f59-0d6d5ee27da5,Salagkoudis Georgios,Salagkoudis Georgios,,,,N.D. (New Democracy),nd,area/thessaloniki_b,Thessaloniki B,Hellenic Parliament,10,,,,male
 2aa7cb96-3005-4cd5-b4c3-dcb612c4f6c6,Salmas Marios,Salmas Marios,msalmas@otenet.gr,SalmasMarios,,N.D. (New Democracy),nd,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,10,,,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/salmasmarios.jpg,male
 6ad531d4-7a3c-4693-bf19-7c61e98c1ec8,Schoinaraki - Iliaki Evangelia,Schoinaraki - Iliaki Evangelia,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,10,,,,female
 fdcf52a3-dd25-4293-a62d-7584578221d0,Sfyriou Kosmas,Sfyriou Kosmas,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/dodecanese_islands,Dodecanese Islands,Hellenic Parliament,10,,,,
@@ -322,7 +322,7 @@ a3f4c8a4-c4f0-43db-89d7-56d65681fb8c,Tsiamakis Dimosthenis,Tsiamakis Dimosthenis
 53f8beb9-a418-4515-b5b7-9800f09ddf1f,Tsiplakis Konstantinos,Tsiplakis Konstantinos,,,,N.D. (New Democracy),nd,area/serres,Serres,Hellenic Parliament,10,,,,
 24143c88-e301-414b-85e5-8ad62a8254b7,Tsiplakos Aristeidis,Tsiplakos Aristeidis,,,,N.D. (New Democracy),nd,area/viotia,Viotia,Hellenic Parliament,10,,,,male
 a177ccb0-4739-47c3-a3df-535d9c11d441,Tsipras Vasilis,Tsipras Vasilis,,,,N.D. (New Democracy),nd,area/evrytania,Evrytania,Hellenic Parliament,10,,,,
-552c5fbd-8584-417e-b821-47f351f7b6bf,Tsitouridis Kyriakou Savvas,Tsitouridis Kyriakou Savvas,,,,N.D. (New Democracy),nd,area/kilkis,Kilkis,Hellenic Parliament,10,,,,
+552c5fbd-8584-417e-b821-47f351f7b6bf,Tsitouridis Kyriakou Savvas,Tsitouridis Kyriakou Savvas,,,,N.D. (New Democracy),nd,area/kilkis,Kilkis,Hellenic Parliament,10,,,,male
 10d6144e-7b3c-4a15-8e5f-2703d5a4c913,Tsochatzopoulos Apostolos - Athanasios,Tsochatzopoulos Apostolos - Athanasios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/thessaloniki_a,Thessaloniki A,Hellenic Parliament,10,,,,
 5e2bd5be-1c12-4700-a580-0ac7c60b5e2a,Tsoukatos Theodoros,Tsoukatos Theodoros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,10,,,,
 c733a66a-8046-456d-912e-805f30ea13d3,Tsouri Elpida,Tsouri Elpida,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/chios,Chios,Hellenic Parliament,10,,,,female

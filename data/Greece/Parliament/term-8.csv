@@ -4,7 +4,7 @@ id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,ter
 87feff58-a143-474b-826d-78d9ace4799d,Akrita Sylva - Kaiti,Akrita Sylva - Kaiti,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,8,,,,
 80bb9282-8a99-4be2-89e3-13b2bd977003,Akritidis Nikolaos,Akritidis Nikolaos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/thessaloniki_a,Thessaloniki A,Hellenic Parliament,8,,,,male
 92d9c38c-fde8-406d-bd00-98f2e7c84518,Akrivakis Alexandros,Akrivakis Alexandros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/viotia,Viotia,Hellenic Parliament,8,,,,
-796fc676-8ea6-4283-b370-0d3136055699,Alampanos Dimitrios,Alampanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fthiotida,Fthiotida,Hellenic Parliament,8,,,,
+796fc676-8ea6-4283-b370-0d3136055699,Alampanos Dimitrios,Alampanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fthiotida,Fthiotida,Hellenic Parliament,8,,,,male
 6625292b-8450-480d-b1f1-e69d2b749b60,Alevras Athanasios (Nasos),Alevras Athanasios (Nasos),,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_a,Athens A,Hellenic Parliament,8,1994-04-25,,,male
 da686d19-5e11-4408-8944-e1db173c2905,Alevras Ioannis,Alevras Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,8,,1995-04-05,https://upload.wikimedia.org/wikipedia/commons/6/69/Ioannis_Alevras.jpg,male
 da686d19-5e11-4408-8944-e1db173c2905,Alevras Ioannis,Alevras Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,8,1995-04-06,,https://upload.wikimedia.org/wikipedia/commons/6/69/Ioannis_Alevras.jpg,male
@@ -61,7 +61,7 @@ b77cf4cf-a372-4bb1-8617-b754cd1f2f26,Damianos Theodoros,Damianos Theodoros,,,,N.
 1b55cea2-caab-41ac-9d5c-73a2d0dbe61d,Diamantidis Ioannis,Diamantidis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/piraeus_b,Piraeus B,Hellenic Parliament,8,,,https://upload.wikimedia.org/wikipedia/commons/9/9b/Giannis_Diamantidis.jpg,male
 0d3c1286-a8b8-4893-a653-f429c03894aa,Diamantis Konstantinos,Diamantis Konstantinos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/thessaloniki_b,Thessaloniki B,Hellenic Parliament,8,,,,
 ff3a471c-3f63-478a-b41e-902c5853cc9b,Dimas Stavros,Dimas Stavros,,,,N.D. (New Democracy),nd,area/korinthia,Korinthia,Hellenic Parliament,8,,,https://upload.wikimedia.org/wikipedia/commons/1/17/Stavros_Dimas.jpg,male
-43254062-bb8c-46b7-8485-5c125ebb6d75,Dimitrakopoulos Athanasios,Dimitrakopoulos Athanasios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,8,,,,
+43254062-bb8c-46b7-8485-5c125ebb6d75,Dimitrakopoulos Athanasios,Dimitrakopoulos Athanasios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,8,,,,male
 9b03ebf5-d7e7-4b10-8a0d-958747ddd7a1,Dimoschakis Theofanis,Dimoschakis Theofanis,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,8,,,,
 22a594e8-0058-43b3-a263-77a3fd447d16,Dimosthenopoulos Dimosthenis,Dimosthenopoulos Dimosthenis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/kavala,Kavala,Hellenic Parliament,8,,,,male
 2440a432-8219-4181-9697-165710aca0b0,Drivelegkas Ioannis,Drivelegkas Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/halkidiki,Halkidiki,Hellenic Parliament,8,,,,
@@ -164,7 +164,7 @@ ab2bcb8e-ac53-4bf4-b17e-12b07f1d8c72,Kotsonis Theodoros,Kotsonis Theodoros,,,,PA
 3a2db7fd-7880-4a92-9b2c-3147dfcad701,Koumpouris Ioanni Dimos,Koumpouris Ioanni Dimos,,,,K.K.E. (Communist Party of Greece),kke,area/of_attica_(rest),Of Attica (rest),Hellenic Parliament,8,,,,
 ff996305-3a7c-4e49-b862-46dc5b0506ba,Kourakis Ioannis,Kourakis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,8,,,,
 2731b7a5-f091-4ec8-aad6-e8e984ed84fc,Kouris Nikolaos,Kouris Nikolaos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,8,,,,
-22f5074f-49c9-4e45-af2d-3301916d38b5,Kourtidis Evangelos,Kourtidis Evangelos,,,,N.D. (New Democracy),nd,area/xanthi,Xanthi,Hellenic Parliament,8,,,,
+22f5074f-49c9-4e45-af2d-3301916d38b5,Kourtidis Evangelos,Kourtidis Evangelos,,,,N.D. (New Democracy),nd,area/xanthi,Xanthi,Hellenic Parliament,8,,,,male
 ddc04151-f731-4c38-ac4c-f113c2087269,Kouvelakis Giorgos,Kouvelakis Giorgos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,8,,,,
 6920b54c-c310-4b0d-86a1-b8751c951f73,Kouvelas Sotirios,Kouvelas Sotirios,,,,N.D. (New Democracy),nd,area/thessaloniki_a,Thessaloniki A,Hellenic Parliament,8,,,,
 aa8b2e9d-bfaf-46b6-a23b-c2baa33edbef,Krikelis Anastasios,Krikelis Anastasios,,,,N.D. (New Democracy),nd,area/grevena,Grevena,Hellenic Parliament,8,,,,
