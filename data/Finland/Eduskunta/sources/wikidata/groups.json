@@ -198,6 +198,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "tt",
+        "name": "Финляндия социал-демократик фиркасе",
+        "note": "multilingual"
+      },
+      {
         "lang": "pl",
         "name": "Fińska Partia Socjaldemokratyczna",
         "note": "multilingual"
@@ -320,6 +325,11 @@
       {
         "lang": "sv",
         "name": "Suomen Sosialidemokraattinen Puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Socialdemokraterna",
         "note": "multilingual"
       },
       {
@@ -1863,11 +1873,6 @@
         "note": "multilingual"
       },
       {
-        "lang": "sv",
-        "name": "Perussuomalaiset",
-        "note": "multilingual"
-      },
-      {
         "lang": "ru",
         "name": "Коренные финны",
         "note": "multilingual"
@@ -1889,17 +1894,7 @@
       },
       {
         "lang": "fi",
-        "name": "Perussuomalaisten Pohjois-Savon piiri",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
         "name": "Persut",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Perussuomalaisten Kymenlaakson piiri",
         "note": "multilingual"
       },
       {
@@ -2597,11 +2592,6 @@
       },
       {
         "lang": "fi",
-        "name": "Rkp",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
         "name": "Svenska folkpartiet",
         "note": "multilingual"
       },
@@ -2618,6 +2608,11 @@
       {
         "lang": "fi",
         "name": "Svenska folkpartiet i Finland",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "RKP",
         "note": "multilingual"
       },
       {
@@ -2702,12 +2697,7 @@
       },
       {
         "lang": "sv",
-        "name": "Sfp",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Svenska folkpartiet i Finland",
+        "name": "SFP",
         "note": "multilingual"
       },
       {
