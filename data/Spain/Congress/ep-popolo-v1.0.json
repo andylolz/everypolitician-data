@@ -2320,8 +2320,28 @@
       "id": "0ba3c0dd-a00a-460b-89ad-91923cf33dea",
       "identifiers": [
         {
+          "identifier": "XX1160387",
+          "scheme": "bne"
+        },
+        {
+          "identifier": "12489922r",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "190200",
           "scheme": "dialnet"
+        },
+        {
+          "identifier": "0000 0000 5927 8702",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n97098126",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "2575312",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6004241",
@@ -27221,12 +27241,20 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "DA08294288",
+          "scheme": "cinii"
+        },
+        {
           "identifier": "328",
           "scheme": "everypolitician_legacy"
         },
         {
           "identifier": "/m/07k569z",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1056319895",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 8140 6803",
@@ -27239,6 +27267,10 @@
         {
           "identifier": "jn20020717441",
           "scheme": "nkc"
+        },
+        {
+          "identifier": "000086862",
+          "scheme": "nli"
         },
         {
           "identifier": "131087843",
