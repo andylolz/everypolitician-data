@@ -4234,6 +4234,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Агустін Дельгадо",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "阿古斯丁·德尔加多",
           "note": "multilingual"
@@ -5823,6 +5828,33 @@
       "name": "Diego Salgado Ribadeneira"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "girasolesn12"
+        }
+      ],
+      "gender": "male",
+      "id": "e02c4791-7290-4fe1-af5c-03c802656daa",
+      "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15778-1491593302.png?itok=oXEO9epJ",
+      "images": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15778-1491593302.png?itok=oXEO9epJ"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/mariana.consante"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/girasolesn12"
+        }
+      ],
+      "name": "Mariana Constante"
+    },
+    {
       "birth_date": "1969",
       "contact_details": [
         {
@@ -6709,7 +6741,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -9260,6 +9292,19 @@
       "sources": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/blogs/diegosalgado"
+        }
+      ]
+    },
+    {
+      "area_id": "area/pichincha",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "party/alianza_pais",
+      "organization_id": "9e0caec8-ba6c-4c1f-aa1f-fedb1ede6535",
+      "person_id": "e02c4791-7290-4fe1-af5c-03c802656daa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.asambleanacional.gob.ec/es/blogs/marianaconstante"
         }
       ]
     },
