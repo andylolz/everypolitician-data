@@ -1997,6 +1997,7 @@
       "name": "Haji Mohammad Nazer Ahmadzai-Nomad"
     },
     {
+      "gender": "female",
       "id": "5f5ccec2-d983-45f3-a35e-1ea3eb8dde89",
       "identifiers": [
         {
@@ -8438,7 +8439,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2016-10-15",
+      "end_date": "2017",
       "id": "Q20003457",
       "identifiers": [
         {
@@ -8446,8 +8447,8 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Afghan parliamentary election, 2016",
-      "start_date": "2016-10-15"
+      "name": "Afghan parliamentary election, 2017",
+      "start_date": "2017"
     }
   ],
   "areas": [
