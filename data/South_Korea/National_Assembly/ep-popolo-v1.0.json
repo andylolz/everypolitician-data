@@ -221,6 +221,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "573144928065254340886",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q12615620",
           "scheme": "wikidata"
         }
@@ -238,6 +242,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Choung_Byoung-gug"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Choung_Byoung-gug"
@@ -37013,7 +37021,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
