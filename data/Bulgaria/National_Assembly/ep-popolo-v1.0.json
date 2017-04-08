@@ -21024,6 +21024,10 @@
           "url": "https://bg.wikipedia.org/wiki/Лиляна_Павлова"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lilyana_Pavlova"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Liliana_Pavlova"
         },
@@ -26898,6 +26902,10 @@
           "url": "https://pl.wikipedia.org/wiki/Lutwi_Mestan"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Местан,_Лютви"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Lyutvi_Mestan"
         },
@@ -26979,6 +26987,11 @@
         {
           "lang": "pl",
           "name": "Lutwi Mestan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лютви Местан",
           "note": "multilingual"
         },
         {
@@ -53395,7 +53408,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -54459,7 +54472,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -55102,7 +55115,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
