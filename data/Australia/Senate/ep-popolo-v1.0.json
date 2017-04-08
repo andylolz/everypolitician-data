@@ -23380,7 +23380,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -39199,6 +39199,11 @@
           "lang": "zh_hans",
           "name": "澳大利亚首都特区",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఆస్ట్రేలియన్ క్యాపిటల్ టెరిటరీ",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -42157,6 +42162,11 @@
         {
           "lang": "vls",
           "name": "Tasmanië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "టాస్మానియా",
           "note": "multilingual"
         }
       ],

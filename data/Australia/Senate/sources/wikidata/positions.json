@@ -939,7 +939,23 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "2005-07-01",
+        "P582": "2011-06-30"
+      }
+    },
+    {
+      "id": "Q18220900",
+      "label": "Member of the South Australian House of Assembly",
+      "title": "Member of the South Australian House of Assembly",
+      "description": "elected representative",
+      "qualifiers": {
+        "P768": "Torrens",
+        "P580": "2014-03-15",
+        "P1365": "Robyn Geraghty"
+      }
     }
   ],
   "Q7046901": [
@@ -1093,7 +1109,8 @@
       "qualifiers": {
         "P580": "1978-07-01",
         "P582": "1996-03-02",
-        "P1366": "Stephen Conroy"
+        "P1366": "Stephen Conroy",
+        "P768": "Victoria"
       }
     },
     {
@@ -1105,7 +1122,8 @@
         "P580": "1996-03-02",
         "P582": "1999-09-30",
         "P1365": "Michael Duffy",
-        "P1366": "Anthony Byrne"
+        "P1366": "Anthony Byrne",
+        "P768": "Holt"
       }
     },
     {
