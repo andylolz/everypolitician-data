@@ -452,14 +452,50 @@
       ]
     },
     {
+      "gender": "male",
       "id": "030ad350-9314-4519-a4a7-f8d3d2ec4875",
       "identifiers": [
         {
           "identifier": "shabudin_yahaya",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7223782",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Shabudin Yahaya"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shabudin_Yahaya"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Shabudin_Yahaya"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/沙哈布丁耶哈也"
+        }
+      ],
+      "name": "Shabudin Yahaya",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Shabudin Yahaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Shabudin Yahaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "沙哈布丁耶哈也",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "0348ba06-d279-4d4c-9d3c-bde3199e896a",
@@ -472,11 +508,22 @@
       "name": "Saupi Daud"
     },
     {
+      "birth_date": "1946-04-24",
+      "gender": "male",
+      "given_name": "Hassan",
       "id": "03701c15-63d9-4f06-97d3-30e9c4a76e0b",
       "identifiers": [
         {
           "identifier": "hasan_malek",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0b6g32z",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q5679746",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -485,11 +532,79 @@
           "url": "https://en.wikipedia.org/wiki/Hasan_Malek"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Hassan_Malek"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Hasan_Malek"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/哈山马烈"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Hasan_Malek"
         }
       ],
-      "name": "Hasan Malek"
+      "name": "Hasan Malek",
+      "other_names": [
+        {
+          "name": "Hassan Malek",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hassan Malek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈山马烈",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3274,18 +3389,98 @@
       ]
     },
     {
+      "birth_date": "1951-11-03",
+      "gender": "male",
       "id": "101e0d2c-60d9-47fb-bf5b-73805fa9184a",
+      "identifiers": [
+        {
+          "identifier": "/m/09rt93g",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q6356078",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Kamarudin_Jaffar"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Kamaruddin_Jaafar"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Kamarudin_Jaffar"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/卡玛鲁汀查华"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Kamarudin_Jaffar"
         }
       ],
-      "name": "Kamarudin Jaffar"
+      "name": "Kamarudin Jaffar",
+      "other_names": [
+        {
+          "name": "Kamaruddin Jaafar",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Kamarudin Jaffar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kamaruddin Jaafar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kamaruddin Jaafar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kamaruddin Jaafar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Kamarudin Jaffar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kamarudin Jaffar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kamaruddin Jaafar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kamarudin Jaffar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kamarudin Jaffar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "卡玛鲁汀查华",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-07-29",
@@ -17484,18 +17679,56 @@
       "name": "Bojeng Andot"
     },
     {
+      "birth_date": "1972",
+      "gender": "male",
       "id": "56102b27-1c6b-45dd-8f1c-72596d02c771",
+      "identifiers": [
+        {
+          "identifier": "Q18686419",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gooi_Hsiao-Leung"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Gooi_Hsiao_Leung"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Gooi_Hsiao-Leung"
         }
       ],
-      "name": "Gooi Hsiao-Leung"
+      "name": "Gooi Hsiao-Leung",
+      "other_names": [
+        {
+          "name": "Gooi Hsiao Leung",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gooi Hsiao Leung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Gooi Hsiao Leung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Gooi Hsiao Leung",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gooi Hsiao Leung",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "56bd4170-ea46-43e2-8a38-0f0ec7676f7a",
@@ -25265,18 +25498,52 @@
       "name": "Hasan Arifin"
     },
     {
+      "birth_date": "1963-04-28",
+      "gender": "male",
+      "given_name": "Abd al-Aziz",
       "id": "841f2b42-61a6-4e5f-b462-ecc069fc8f1e",
+      "identifiers": [
+        {
+          "identifier": "Q18612433",
+          "scheme": "wikidata"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Abd._Aziz_Sheikh_Fadzir"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Abdul_Aziz_Sheikh_Fadzir"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Abd._Aziz_Sheikh_Fadzir"
         }
       ],
-      "name": "Abd. Aziz Sheikh Fadzir"
+      "name": "Abd. Aziz Sheikh Fadzir",
+      "other_names": [
+        {
+          "name": "Abdul Aziz Sheikh Fadzir",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abdul Aziz Sheikh Fadzir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdul Aziz Sheikh Fadzir",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Abdul Aziz Sheikh Fadzir",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968",
@@ -25971,14 +26238,145 @@
       ]
     },
     {
+      "birth_date": "1920-09-14",
+      "death_date": "1976-06-06",
+      "gender": "male",
+      "given_name": "Mohammad",
       "id": "880bcb6f-8d9c-4030-ab83-72ab96f20f66",
       "identifiers": [
         {
           "identifier": "affendy_mohd._fuad_stephens",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "441039",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/02pv0c2",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n98932404",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "16551615",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2459736",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Affendy Mohd. Fuad Stephens"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Tun_Fuad_Stephens"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fuad_Stephens"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Mohammad_Fuad_Stephens"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/툰_푸아드_스테픈스"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Mohammad_Fuad_Stephens"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/莫哈末·法·史蒂芬"
+        }
+      ],
+      "name": "Affendy Mohd. Fuad Stephens",
+      "other_names": [
+        {
+          "name": "Tun Fuad Stephens",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "툰 푸아드 스테픈스",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tun Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mohammad Fuad Stephens",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "莫哈末·法·史蒂芬",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "敦法 史蒂芬",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -30000,11 +30398,18 @@
       ]
     },
     {
+      "birth_date": "1940-07-29",
+      "gender": "male",
+      "given_name": "Mohamad",
       "id": "9e56de4f-ca29-4d36-952a-56e02afd1661",
       "identifiers": [
         {
           "identifier": "mohamad_aziz",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12697930",
+          "scheme": "wikidata"
         }
       ],
       "links": [
@@ -30013,11 +30418,55 @@
           "url": "https://en.wikipedia.org/wiki/Mohamad_Aziz"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Mohamad_Aziz"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Mohamad_Aziz"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/莫哈末阿兹"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Mohamad_Aziz"
         }
       ],
-      "name": "Mohamad Aziz"
+      "name": "Mohamad Aziz",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mohamad Aziz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohamad Aziz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Mohamad Aziz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Mohamad Aziz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohamad Aziz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "莫哈末阿兹",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9e676241-222d-42b5-be4a-a60305deb801",

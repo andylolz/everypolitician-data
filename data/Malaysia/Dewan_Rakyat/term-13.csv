@@ -1,6 +1,6 @@
 id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
 e79afdb9-b4ab-4dab-b74e-c2d28fef0aa2,Aaron Ago Dagang,Aaron Ago Dagang,,,,Parti Rakyat Sarawak,PRS,P210-13,"Kanowit, Sarawak",Dewan Rakyat,13,,,,male
-841f2b42-61a6-4e5f-b462-ecc069fc8f1e,Abd. Aziz Sheikh Fadzir,Abd. Aziz Sheikh Fadzir,,,,United Malays National Organisation,UMNO,P018-13,"Kulim-Bandar Baharu, Kedah",Dewan Rakyat,13,,,,
+841f2b42-61a6-4e5f-b462-ecc069fc8f1e,Abd. Aziz Sheikh Fadzir,Abd. Aziz Sheikh Fadzir,,,,United Malays National Organisation,UMNO,P018-13,"Kulim-Bandar Baharu, Kedah",Dewan Rakyat,13,,,,male
 ad70c669-6cda-4cf9-9740-b4d664b19838,Abdul Azeez Abdul Rahim,Abdul Azeez Abdul Rahim,,,,United Malays National Organisation,UMNO,P016-13,"Baling, Kedah",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/d/dd/Abdul_Azeez_Abdul_Rahim.jpg,male
 227bdefc-df30-48a8-ae86-1ca1dabb9ff1,Abdul Ghapur Salleh,Abdul Ghapur Salleh,,,,United Malays National Organisation,UMNO,P191-13,"Kalabakan, Sabah",Dewan Rakyat,13,,,,male
 a50b00f8-8701-44d0-9b0a-df84bb818efb,Abdul Hadi Awang,Abdul Hadi Awang,,,,Pan-Malaysian Islamic Party,PAS,P037-13,"Marang, Terengganu",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/0/00/Tuan_Guru_Dato'_Seri_Haji_Abdul_Hadi_Awang.jpg,male
@@ -51,12 +51,12 @@ aacfcfc0-8b5f-4bba-9260-2fa38853d19a,Er Teck Hwa,Er Teck Hwa,,,,Democratic Actio
 79cc9e4d-96cb-4156-a511-53e13eec1989,Fuziah Salleh,Fuziah Salleh,,,,People's Justice Party,PKR,P083-13,"Kuantan, Pahang",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/1/1a/YB_Fuziah_Salleh_-_Kuantan_MP_&_PKR_Vice_President.jpg,female
 e043cbee-57d7-4061-93c7-95dab6187343,G. Manivanan,G. Manivanan,,,,People's Justice Party,PKR,P109-13,"Kapar, Selangor",Dewan Rakyat,13,,,,
 28e632aa-2a85-49cb-8a6a-9ea75dc19aaf,Gobind Singh Deo,Gobind Singh Deo,,,,Democratic Action Party,DAP,P103-13,"Puchong, Selangor",Dewan Rakyat,13,,,,male
-56102b27-1c6b-45dd-8f1c-72596d02c771,Gooi Hsiao-Leung,Gooi Hsiao-Leung,,,,People's Justice Party,PKR,P009-13,"Alor Setar, Kedah",Dewan Rakyat,13,,,,
+56102b27-1c6b-45dd-8f1c-72596d02c771,Gooi Hsiao-Leung,Gooi Hsiao-Leung,,,,People's Justice Party,PKR,P009-13,"Alor Setar, Kedah",Dewan Rakyat,13,,,,male
 184f3297-bd02-476e-a260-37822d503473,Halimah Mohd Sadique,Halimah Mohd Sadique,,,,United Malays National Organisation,UMNO,P155-13,"Tenggara, Johor",Dewan Rakyat,13,,,,female
 f3d339a5-e8a3-4f1b-ba20-c361ec5fbf0f,Hamim Samuri,Hamim Samuri,,,,United Malays National Organisation,UMNO,P144-13,"Ledang, Johor",Dewan Rakyat,13,,,,male
 47a6ac62-cacb-4c8c-ab98-8f306ec0d128,Hamzah Zainudin,Hamzah Zainudin,,,,United Malays National Organisation,UMNO,P056-13,"Larut, Perak",Dewan Rakyat,13,,,,male
 83dc9cfe-7322-4b74-a333-3d5bc045cb96,Hasan Arifin,Hasan Arifin,,,,United Malays National Organisation,UMNO,P091-13,"Rompin, Pahang",Dewan Rakyat,13,,,,
-03701c15-63d9-4f06-97d3-30e9c4a76e0b,Hasan Malek,Hasan Malek,,,,United Malays National Organisation,UMNO,P129-13,"Kuala Pilah, Negeri Sembilan",Dewan Rakyat,13,,,,
+03701c15-63d9-4f06-97d3-30e9c4a76e0b,Hasan Malek,Hasan Malek,,,,United Malays National Organisation,UMNO,P129-13,"Kuala Pilah, Negeri Sembilan",Dewan Rakyat,13,,,,male
 6c46ba35-d763-4803-989f-2a8da8d914f7,Hasbi Habibollah,Hasbi Habibollah,,,,Parti Pesaka Bumiputera Bersatu,PBB,P221-13,"Limbang, Sarawak",Dewan Rakyat,13,,,,male
 44ec00bd-713a-4186-836d-847f4c2bc702,Hasbullah Osman,Hasbullah Osman,,,,United Malays National Organisation,UMNO,P054-13,"Gerik, Perak",Dewan Rakyat,13,,,,
 61e769bc-8dd0-412e-97d8-10bc781e11fe,Hee Loy Sian,Hee Loy Sian,,,,People's Justice Party,PKR,P105-13,"Petaling Jaya Selatan, Selangor",Dewan Rakyat,13,,,,male
@@ -89,7 +89,7 @@ b1fc7341-ddd8-42db-a230-210c7337643d,Julian Tan Kok Ping,Julian Tan Kok Ping,,,,
 98720735-46c3-48fd-b54e-fe9c8a34f683,Jumat Idris,Jumat Idris,,,,United Malays National Organisation,UMNO,P171-13,"Sepanggar, Sabah",Dewan Rakyat,13,,,,
 d4999a79-3550-46fe-b6c2-f888515942a6,Juslie Ajirol,Juslie Ajirol,,,,United Malays National Organisation,UMNO,P184-13,"Libaran, Sabah",Dewan Rakyat,13,,,,male
 006c1b53-1758-4352-88d1-ac578da82aac,Kamalanathan Panchanathan,Kamalanathan Panchanathan,,,,Malaysian Indian Congress,MIC,P094-13,"Hulu Selangor, Selangor",Dewan Rakyat,13,,,,male
-101e0d2c-60d9-47fb-bf5b-73805fa9184a,Kamarudin Jaffar,Kamarudin Jaffar,,,,People's Justice Party,PKR,P019-13,"Tumpat, Kelantan",Dewan Rakyat,13,,,,
+101e0d2c-60d9-47fb-bf5b-73805fa9184a,Kamarudin Jaffar,Kamarudin Jaffar,,,,People's Justice Party,PKR,P019-13,"Tumpat, Kelantan",Dewan Rakyat,13,,,,male
 993bd943-7081-4ed4-975e-8cdd18221b5b,Kamarul Baharin Abbas,Kamarul Baharin Abbas,,,,People's Justice Party,PKR,P132-13,"Telok Kemang, Negeri Sembilan",Dewan Rakyat,13,,,,male
 6fdda8d7-3922-44f5-8cd6-7c4131291a6e,Karpal Singh Ram Singh,Karpal Singh Ram Singh,,,,Democratic Action Party,DAP,P051-13,"Bukit Gelugor, Penang",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/2/2e/Karpal_Singh.jpg,male
 4cd62443-e8ab-4822-afae-7e0c71cb3f33,Kasthuriraani Patto,Kasthuriraani Patto,,,,Democratic Action Party,DAP,P046-13,"Batu Kawan, Penang",Dewan Rakyat,13,,,,female
@@ -179,7 +179,7 @@ ad235aaa-39ac-48f1-bdb2-d9ca739659f5,Rubiah Wang,Rubiah Wang,,,,Parti Pesaka Bum
 4683bee7-773e-4218-a6ec-65cf01be4f4a,Sapawi Ahmad,Sapawi Ahmad,,,,United Malays National Organisation,UMNO,P178-13,"Sipitang, Sabah",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/1/1b/Sipitang_Sabah_Sapawi-Ahmad-during-Fly-Jalur-gemilang-Campaign-2013-01.jpg,male
 5814dd74-db1d-4a00-9020-378812f68b72,Saravanan Murugan,Saravanan Murugan,,,,Malaysian Indian Congress,MIC,P072-13,"Tapah, Perak",Dewan Rakyat,13,,,,male
 091bfd74-a59a-45dd-8e55-358f3e44b5ba,Seah Leong Peng,Seah Leong Peng,,,,Democratic Action Party,DAP,P076-13,"Telok Intan, Perak",Dewan Rakyat,13,,,,
-030ad350-9314-4519-a4a7-f8d3d2ec4875,Shabudin Yahaya,Shabudin Yahaya,,,,United Malays National Organisation,UMNO,P042-13,"Tasek Gelugor, Penang",Dewan Rakyat,13,,,,
+030ad350-9314-4519-a4a7-f8d3d2ec4875,Shabudin Yahaya,Shabudin Yahaya,,,,United Malays National Organisation,UMNO,P042-13,"Tasek Gelugor, Penang",Dewan Rakyat,13,,,,male
 ee82f59d-92c4-4ac8-b5d2-882a10fd4839,Shaharuddin Ismail,Shaharuddin Ismail,,,,United Malays National Organisation,UMNO,P002-13,"Kangar, Perlis",Dewan Rakyat,13,,,,male
 b97190a5-7d50-4cc8-b477-18ac10dd315c,Shahidan Kassim,Shahidan Kassim,,,,United Malays National Organisation,UMNO,P003-13,"Arau, Perlis",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/4/41/Datuk_Seri_Shahidan_Kassim.jpg,male
 dab66c27-9b0a-4cbb-8ba3-57fc9a2cb0ed,Shahrir Abdul Samad,Shahrir Abdul Samad,,,,United Malays National Organisation,UMNO,P160-13,"Johor Bahru, Johor",Dewan Rakyat,13,,,https://upload.wikimedia.org/wikipedia/commons/8/88/AB_April_2008.jpg,male
