@@ -6233,7 +6233,46 @@
     {
       "classification": "party",
       "id": "party/movimento_civico_r.e.t.e.",
-      "name": "Movimento Civico R.E.T.E."
+      "identifiers": [
+        {
+          "identifier": "Q25399163",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://movimentorete.org/"
+        }
+      ],
+      "name": "Movimento Civico R.E.T.E.",
+      "other_names": [
+        {
+          "lang": "it",
+          "name": "Movimento Civico R.E.T.E.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "RETE Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "市民運動・ネットワーク",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rinnovamento, Equità, Transparenza, Ecosostenibilità Movimento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Renewal, Equity, Transparency and Eco-sustainability Civic Movement",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",

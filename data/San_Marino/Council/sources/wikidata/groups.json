@@ -1126,5 +1126,46 @@
         "note": "multilingual"
       }
     ]
+  },
+  "movimento_civico_r.e.t.e.": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q25399163"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Movimento Civico R.E.T.E.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "RETE Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "市民運動・ネットワーク",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Rinnovamento, Equità, Transparenza, Ecosostenibilità Movimento Civico",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Renewal, Equity, Transparency and Eco-sustainability Civic Movement",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://movimentorete.org/",
+        "note": "website"
+      }
+    ]
   }
 }
