@@ -6172,6 +6172,10 @@
       "name": "Syllouris Dimitris",
       "other_names": [
         {
+          "name": "Demetris Syllouris",
+          "note": "alternate"
+        },
+        {
           "lang": "el",
           "name": "Δημήτρης Συλλούρης",
           "note": "multilingual"
@@ -6179,6 +6183,11 @@
         {
           "lang": "el",
           "name": "Συλλούρης Δημήτρης",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Demetris Syllouris",
           "note": "multilingual"
         },
         {
@@ -8642,7 +8651,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
