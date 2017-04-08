@@ -61392,6 +61392,10 @@
           "url": "https://en.wikipedia.org/wiki/Emmanuella_Lambropoulos"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Emmanuella_Lambropoulos"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Ламбропулос,_Эммануэлла"
         }
@@ -61400,6 +61404,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Emmanuella Lambropoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Emmanuella Lambropoulos",
           "note": "multilingual"
         }
@@ -62641,7 +62650,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
