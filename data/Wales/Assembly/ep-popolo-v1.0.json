@@ -9286,7 +9286,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -10903,6 +10903,19 @@
       "sources": [
         {
           "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=212"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:south_wales_east",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5227"
         }
       ]
     },
