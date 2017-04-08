@@ -33034,6 +33034,7 @@
       ]
     },
     {
+      "birth_date": "1967-09-08",
       "contact_details": [
         {
           "type": "email",
@@ -33045,13 +33046,26 @@
       "gender": "male",
       "given_name": "Peder",
       "id": "9f8d1b0e-9eee-4223-9a67-abc9d88c633a",
+      "identifiers": [
+        {
+          "identifier": "Q29228030",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx",
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx"
         }
       ],
-      "name": "Peder Hvelplund"
+      "name": "Peder Hvelplund",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-06-12",
