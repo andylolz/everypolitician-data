@@ -65,11 +65,17 @@
       }
     },
     {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
+      "file": "morph/genderbalance.csv",
       "create": {
-        "from": "gender-balance",
-        "source": "New-Zealand/House"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/new-zealand-house-gender-balance",
+        "query": "SELECT uuid, gender FROM data ORDER BY uuid"
+      },
+      "source": "http://gender-balance.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
       }
     },
     {
