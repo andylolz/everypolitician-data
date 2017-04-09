@@ -56,7 +56,7 @@ a4cc12ff-454d-459a-b8eb-c639cc08f067,Chatzidimitriou Traianos,Chatzidimitriou Tr
 2f28a24a-9d92-458f-8e44-a6f2f9f32b52,Chatzigakis Sotirios,Chatzigakis Sotirios,,,,N.D. (New Democracy),nd,area/trikala,Trikala,Hellenic Parliament,7,,,,male
 78f3781e-1580-463f-b43e-68d6a2392172,Chatzinikolaou Panagiotis,Chatzinikolaou Panagiotis,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,7,,,,male
 4468302a-d85f-4439-85ad-eb976a6ce4c4,Chomatas Ioannis,Chomatas Ioannis,,,,N.D. (New Democracy),nd,area/cyclades,Cyclades,Hellenic Parliament,7,,,,
-6a9a0599-81a6-43fb-99e3-5ce1a5d920af,Chrysochoidis Michail,Chrysochoidis Michail,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/imathia,Imathia,Hellenic Parliament,7,,,,
+6a9a0599-81a6-43fb-99e3-5ce1a5d920af,Chrysochoidis Michail,Chrysochoidis Michail,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/imathia,Imathia,Hellenic Parliament,7,,,,male
 829cc18e-7c37-462b-83e7-035382ad9426,Damanaki Theodorou Maria,Damanaki Theodorou Maria,,,,Coalition of the Left and Progress,coalitionoftheleftandprogress,area/athens_b,Athens B,Hellenic Parliament,7,,,https://upload.wikimedia.org/wikipedia/commons/3/3d/Maria_Damanaki_(cropped).jpg,female
 9bbf89d6-c964-4400-a0ec-6254d396c8bd,Damianidis Alexandros,Damianidis Alexandros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/serres,Serres,Hellenic Parliament,7,,,,
 b77cf4cf-a372-4bb1-8617-b754cd1f2f26,Damianos Theodoros,Damianos Theodoros,,,,N.D. (New Democracy),nd,area/drama,Drama,Hellenic Parliament,7,,,,
@@ -99,8 +99,8 @@ c5f08d6f-96e5-4e7e-82d2-a99b769350d6,Galenianos Michail,Galenianos Michail,,,,N.
 c9b1e4e7-bebb-45bb-bff9-35cea8b3c619,Georgiadis Theodoros,Georgiadis Theodoros,,,,N.D. (New Democracy),nd,area/ioannina,Ioannina,Hellenic Parliament,7,,,,
 c923395d-61c5-4f49-a445-14e4c00e3f44,Georgolios Konstantinos,Georgolios Konstantinos,,,,N.D. (New Democracy),nd,area/trikala,Trikala,Hellenic Parliament,7,,,,
 87476b74-0f1d-40e5-ac06-f8fe01377c9d,Geranidis Vasileios,Geranidis Vasileios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/thessaloniki_b,Thessaloniki B,Hellenic Parliament,7,,,,
-73c835cb-dfff-41bd-be74-70294d80c1ae,Gerontopoulos Kyriakos,Gerontopoulos Kyriakos,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,7,,1993-09-08,,
-73c835cb-dfff-41bd-be74-70294d80c1ae,Gerontopoulos Kyriakos,Gerontopoulos Kyriakos,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,7,1993-09-09,,,
+73c835cb-dfff-41bd-be74-70294d80c1ae,Gerontopoulos Kyriakos,Gerontopoulos Kyriakos,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,7,,1993-09-08,,male
+73c835cb-dfff-41bd-be74-70294d80c1ae,Gerontopoulos Kyriakos,Gerontopoulos Kyriakos,,,,N.D. (New Democracy),nd,area/evros,Evros,Hellenic Parliament,7,1993-09-09,,,male
 ab3bb267-88c6-453b-8e3c-909ef4d1fecc,Giannaros Grigorios,Giannaros Grigorios,,,,Coalition of the Left and Progress,coalitionoftheleftandprogress,area/athens_a,Athens A,Hellenic Parliament,7,,,,
 b99fe8b5-9042-438b-90cf-1da1bfff4d9f,Giannellis - Theodosiadis Ioannis,Giannellis - Theodosiadis Ioannis,,,,N.D. (New Democracy),nd,area/lesvos,Lesvos,Hellenic Parliament,7,,,,
 b83e3d0a-41d8-4e29-9ffd-13ffd4e394ac,Giannopoulos Evangelos,Giannopoulos Evangelos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,7,,,,male
@@ -184,7 +184,7 @@ fbf3632e-7f2b-44a1-a391-6067eacb31aa,Kratsas Apostolos,Kratsas Apostolos,,,,N.D.
 39ee07b3-c6b9-46f3-bc8f-4da34aa11261,Kyriazopoulos Stefanos,Kyriazopoulos Stefanos,,,,N.D. (New Democracy),nd,area/imathia,Imathia,Hellenic Parliament,7,,,,
 495067a9-681b-4aab-931b-e3c91a96f192,Kyrkos Leonidas,Kyrkos Leonidas,,,,Coalition of the Left and Progress,coalitionoftheleftandprogress,area/thessaloniki_a,Thessaloniki A,Hellenic Parliament,7,,,https://upload.wikimedia.org/wikipedia/commons/4/45/Leonidas_Kyrkos.jpg,male
 5738d98d-f14c-4d2f-8dde-197606835b19,Laliotis Konstantinos,Laliotis Konstantinos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/state,State,Hellenic Parliament,7,1992-02-22,,,
-d1398b02-c30d-407d-81b6-a8893cd4c56b,Lampropoulos Ioannis,Lampropoulos Ioannis,,,,N.D. (New Democracy),nd,area/messinia,Messinia,Hellenic Parliament,7,,,,
+d1398b02-c30d-407d-81b6-a8893cd4c56b,Lampropoulos Ioannis,Lampropoulos Ioannis,,,,N.D. (New Democracy),nd,area/messinia,Messinia,Hellenic Parliament,7,,,,male
 0ce40d92-407d-4c94-b4f8-4f1247fb4914,Lentakis Andreas,Lentakis Andreas,,,,Coalition of the Left and Progress,coalitionoftheleftandprogress,area/athens_b,Athens B,Hellenic Parliament,7,,1993-07-01,https://upload.wikimedia.org/wikipedia/commons/2/24/YMITTOS-2.JPG,male
 0ce40d92-407d-4c94-b4f8-4f1247fb4914,Lentakis Andreas,Lentakis Andreas,,,,INDEPENDENT,independent,area/athens_b,Athens B,Hellenic Parliament,7,1993-07-02,1993-07-19,https://upload.wikimedia.org/wikipedia/commons/2/24/YMITTOS-2.JPG,male
 0ce40d92-407d-4c94-b4f8-4f1247fb4914,Lentakis Andreas,Lentakis Andreas,,,,INDEPENDENT,independent,area/athens_b,Athens B,Hellenic Parliament,7,1993-07-20,,https://upload.wikimedia.org/wikipedia/commons/2/24/YMITTOS-2.JPG,male
@@ -200,7 +200,7 @@ f20aaf6e-d9ae-4d74-9063-238e490983e0,Mammonas Nikolaos,Mammonas Nikolaos,,,,N.D.
 4004c62c-baf6-4ee3-b066-0d8a662ab4fb,Manousos Ioannnis,Manousos Ioannnis,,,,N.D. (New Democracy),nd,area/cyclades,Cyclades,Hellenic Parliament,7,,,,
 0f3e9bfb-b49a-4a23-81b5-a1687b6e7109,Mantzoris Vasileios,Mantzoris Vasileios,,,,N.D. (New Democracy),nd,area/arcadia,Arcadia,Hellenic Parliament,7,,1993-09-07,,
 0f3e9bfb-b49a-4a23-81b5-a1687b6e7109,Mantzoris Vasileios,Mantzoris Vasileios,,,,N.D. (New Democracy),nd,area/arcadia,Arcadia,Hellenic Parliament,7,1993-09-08,,,
-09f3024e-2686-48f5-b0e9-92cb600e08d0,Markogiannakis Christos,Markogiannakis Christos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,,,,
+09f3024e-2686-48f5-b0e9-92cb600e08d0,Markogiannakis Christos,Markogiannakis Christos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,,,,male
 c33362d9-6f68-4c56-80a0-93af6749543c,Matzapetakis Stylianos,Matzapetakis Stylianos,,,,N.D. (New Democracy),nd,area/iraklio,Iraklio,Hellenic Parliament,7,,,,
 a0fe99d7-1fc3-4ecd-bc16-65024a935afd,Meimarakis Evangelos - Vasileios,Meimarakis Evangelos - Vasileios,meimarakis@parliament.gr,,,N.D. (New Democracy),nd,area/athens_b,Athens B,Hellenic Parliament,7,,,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/meimarakisev.jpg,male
 1d00179a-c1da-47db-aad7-b9a7fde26e97,Melidis Ioannis,Melidis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/argolida,Argolida,Hellenic Parliament,7,,,,
@@ -355,8 +355,8 @@ eeac0d31-0c70-4e8e-85d8-f78c9f058168,Tsaklidis Ioannis,Tsaklidis Ioannis,,,,PA.S
 988ce39c-7f66-4ba9-bd16-32c8ec4bf359,Vasileiadis Ioannis,Vasileiadis Ioannis,,,,N.D. (New Democracy),nd,area/achaia,Achaia,Hellenic Parliament,7,,,,
 5e908a39-a2f7-4fbd-b4bc-7d875534bfc3,Velikis Athanasios,Velikis Athanasios,,,,N.D. (New Democracy),nd,area/pieria,Pieria,Hellenic Parliament,7,,,,
 844aae71-fcc2-4d86-8abb-5fe1af33fe7c,Veryvakis Eleftherios,Veryvakis Eleftherios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,7,,,,male
-67c39271-baa2-44e0-8cae-a7c606be1a22,Virvidakis Kyriakos,Virvidakis Kyriakos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,,1991-01-15,,
-67c39271-baa2-44e0-8cae-a7c606be1a22,Virvidakis Kyriakos,Virvidakis Kyriakos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,1991-01-16,,,
+67c39271-baa2-44e0-8cae-a7c606be1a22,Virvidakis Kyriakos,Virvidakis Kyriakos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,,1991-01-15,,male
+67c39271-baa2-44e0-8cae-a7c606be1a22,Virvidakis Kyriakos,Virvidakis Kyriakos,,,,N.D. (New Democracy),nd,area/chania,Chania,Hellenic Parliament,7,1991-01-16,,,male
 51c17ea9-908a-41b6-af32-bd6599197c77,Vougiouklakis Ilias,Vougiouklakis Ilias,,,,N.D. (New Democracy),nd,area/piraeus_b,Piraeus B,Hellenic Parliament,7,,,,
 eec8e745-b994-4bc7-9482-47789e2f6cbf,Voulgarakis Georgios,Voulgarakis Georgios,,,,N.D. (New Democracy),nd,area/athens_a,Athens A,Hellenic Parliament,7,,,,male
 7bc18375-215a-4e0a-8a56-e28bbbf53a44,Vounatsos Dimitrios,Vounatsos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/lesvos,Lesvos,Hellenic Parliament,7,,,,
