@@ -6287,6 +6287,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "4073eeaf-6f3f-41d0-bd36-4f8c6d555313",
       "identifiers": [
         {
@@ -20695,7 +20696,8 @@
   "meta": {
     "sources": [
       "https://is.wikipedia.org/",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
