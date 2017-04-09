@@ -4145,6 +4145,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "112030",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "51488",
           "scheme": "fast"
         },
@@ -11433,6 +11437,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "159013",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "smoly",
           "scheme": "everypolitician_legacy"
         },
@@ -15729,6 +15737,10 @@
       "given_name": "Per",
       "id": "4d2b9c98-2536-47b1-8a58-4ee4d0bc01f5",
       "identifiers": [
+        {
+          "identifier": "171413",
+          "scheme": "dnf"
+        },
         {
           "identifier": "/m/05b9v3",
           "scheme": "freebase"
@@ -28601,6 +28613,10 @@
       "given_name": "Hans",
       "id": "85c01000-ece2-4430-b7b1-13583c9f435f",
       "identifiers": [
+        {
+          "identifier": "112031",
+          "scheme": "dnf"
+        },
         {
           "identifier": "194714",
           "scheme": "fast"
