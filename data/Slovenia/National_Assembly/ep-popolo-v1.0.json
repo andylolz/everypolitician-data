@@ -32,9 +32,20 @@
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P239"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Anja_Bah_Zibert.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Anja_Bah_Žibert"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anja_Bah_Žibert"
+        },
         {
           "note": "Wikipedia (sl)",
           "url": "https://sl.wikipedia.org/wiki/Anja_Bah_Žibert"
