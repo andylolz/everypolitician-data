@@ -5598,6 +5598,9 @@
       "images": [
         {
           "url": "https://www.parliament.nz/media/2213/mahuta-nanaia.C25VcA.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nanaia_Mahuta.jpg"
         }
       ],
       "links": [
@@ -9294,6 +9297,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Dover_Samuels.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Dover_Samuels.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -11216,6 +11225,11 @@
       ],
       "name": "Maurice Williamson",
       "other_names": [
+        {
+          "lang": "an",
+          "name": "Maurice Williamson",
+          "note": "multilingual"
+        },
         {
           "lang": "ca",
           "name": "Maurice Williamson",
@@ -14873,6 +14887,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Darren_Hughes.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Darren_Hughes.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -16176,6 +16196,12 @@
         {
           "identifier": "Q5228941",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dave_Hereora.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dave_Hereora.jpg"
         }
       ],
       "links": [
@@ -18413,6 +18439,12 @@
         {
           "identifier": "Q5231322",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/David_Benson-Pope.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/David_Benson-Pope.jpg"
         }
       ],
       "links": [
