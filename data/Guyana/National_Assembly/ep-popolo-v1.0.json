@@ -81,6 +81,23 @@
     },
     {
       "gender": "male",
+      "id": "1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
+      "identifiers": [
+        {
+          "identifier": "charles-s.-ramson",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg",
+      "images": [
+        {
+          "url": "http://parliament.gov.gy/images/member_photos/4032/charles-ramson.jpg"
+        }
+      ],
+      "name": "Charles S. Ramson"
+    },
+    {
+      "gender": "male",
       "honorific_prefix": "Mr.",
       "id": "1daf4b15-5904-4172-ae02-0e59f4b91e52",
       "identifiers": [
@@ -1295,6 +1312,19 @@
       "sources": [
         {
           "url": "http://parliament.gov.gy/about-parliament/parliamentarian/hon-nicolette-o-henry-mp/"
+        }
+      ]
+    },
+    {
+      "end_date": "2016-09-30",
+      "legislative_period_id": "term/11",
+      "on_behalf_of_id": "PPP-Civic",
+      "organization_id": "68aa4bab-2857-4923-8b30-2edb03513c9c",
+      "person_id": "1bb7f4ae-603b-45d9-9cd8-e1d18f3cc647",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://parliament.gov.gy/about-parliament/parliamentarian/charles-s-ramson/"
         }
       ]
     },
