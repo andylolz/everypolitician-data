@@ -21,7 +21,11 @@
     {
       "id": "Q21295982",
       "label": "Member of the National Assembly of Ecuador",
-      "title": "Member of the National Assembly of Ecuador"
+      "title": "Member of the National Assembly of Ecuador",
+      "qualifiers": {
+        "P2937": "Q16629825",
+        "P768": "Galápagos Islands"
+      }
     }
   ],
   "Q28503395": [
