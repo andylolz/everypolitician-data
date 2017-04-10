@@ -16344,6 +16344,9 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/DYU/upload_ref_binary/DYU.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/David_Fawcett_2014.jpg"
         }
       ],
       "links": [
@@ -23380,7 +23383,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -39199,6 +39202,11 @@
           "lang": "zh_hans",
           "name": "澳大利亚首都特区",
           "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "ఆస్ట్రేలియన్ క్యాపిటల్ టెరిటరీ",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -42157,6 +42165,11 @@
         {
           "lang": "vls",
           "name": "Tasmanië",
+          "note": "multilingual"
+        },
+        {
+          "lang": "te",
+          "name": "టాస్మానియా",
           "note": "multilingual"
         }
       ],
