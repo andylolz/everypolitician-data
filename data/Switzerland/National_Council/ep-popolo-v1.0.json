@@ -20707,6 +20707,10 @@
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Angelo_Barrile"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Angelo_Barrile"
         }
       ],
       "name": "Angelo Barrile",
@@ -20723,6 +20727,11 @@
         },
         {
           "lang": "fr",
+          "name": "Angelo Barrile",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Angelo Barrile",
           "note": "multilingual"
         },
