@@ -8848,6 +8848,7 @@
           "value": "carmechacon"
         }
       ],
+      "death_date": "2017-04-07",
       "family_name": "Chacón Piqueras",
       "gender": "female",
       "given_name": "Carme",
@@ -8874,6 +8875,10 @@
           "scheme": "gnc"
         },
         {
+          "identifier": "1129568482",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "155901788",
           "scheme": "sudoc"
         },
@@ -8897,6 +8902,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كارمي_تشاكون"
+        },
+        {
           "note": "Wikipedia (be_x_old)",
           "url": "https://be_x_old.wikipedia.org/wiki/Кармэ_Чакон"
         },
@@ -8907,6 +8916,10 @@
         {
           "note": "Wikipedia (cawikiquote)",
           "url": "https://cawikiquote.wikipedia.org/wiki/Carme_Chacón_Piqueras"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Carme_Chacón"
         },
         {
           "note": "Wikipedia (de)",
@@ -8973,6 +8986,10 @@
           "url": "https://ru.wikipedia.org/wiki/Чакон,_Карме"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Carme_Chacón"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Carme_Chacón"
         },
@@ -9002,6 +9019,11 @@
         {
           "name": "Carme Chacón Piqueras",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "كارمي تشاكون",
+          "note": "multilingual"
         },
         {
           "lang": "be-tarask",
@@ -33667,7 +33689,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/José_Antonio_Nieto_Ballesteros"
+          "url": "https://fr.wikipedia.org/wiki/José_Antonio_Nieto"
         },
         {
           "note": "Wikipedia (gl)",
