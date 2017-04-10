@@ -1224,6 +1224,9 @@
       "images": [
         {
           "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/050/447/original_d50447.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Antonio_Leone_daticamera.jpg"
         }
       ],
       "links": [
@@ -12039,6 +12042,9 @@
         },
         {
           "url": "http://politici.openpolis.it/politician/picture?content_id=589"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bruno_Murgia_daticamera.jpg"
         }
       ],
       "links": [
@@ -18878,6 +18884,9 @@
         },
         {
           "url": "http://politici.openpolis.it/politician/picture?content_id=239"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gianclaudio_Bressa_daticamera.jpg"
         }
       ],
       "links": [
@@ -24221,6 +24230,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Andrea Maestri",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Andrea Maestri",
           "note": "multilingual"
@@ -29018,6 +29032,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Dino Secco",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Dino Secco",
           "note": "multilingual"
@@ -29755,6 +29774,11 @@
         },
         {
           "lang": "en",
+          "name": "Giovanni Falcone",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Giovanni Falcone",
           "note": "multilingual"
         },
@@ -72893,6 +72917,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mariano_Rabino"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Mariano_Rabino"
