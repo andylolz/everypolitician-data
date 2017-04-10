@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "manual/members.csv",
+      "file": "archive/official-vanished.csv",
       "source": "http://www.thedanishparliament.dk",
       "type": "membership"
     },
