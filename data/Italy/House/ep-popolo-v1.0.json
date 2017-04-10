@@ -77384,6 +77384,11 @@
   "organizations": [
     {
       "classification": "party",
+      "id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
+      "name": "ALTERNATIVA POPOLARE-CENTRISTI PER L'EUROPA-NCD"
+    },
+    {
+      "classification": "party",
       "id": "party/area_popolare_(ncd-udc)",
       "identifiers": [
         {
@@ -77428,47 +77433,8 @@
     },
     {
       "classification": "party",
-      "id": "party/area_popolare-ncd-centristi_per_l'italia",
-      "identifiers": [
-        {
-          "identifier": "Q18844195",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
-      "name": "AREA POPOLARE-NCD-CENTRISTI PER L'ITALIA",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Popular Area",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Area Popolare",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ko",
-          "name": "대중구역",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-hant",
-          "name": "民眾地區",
-          "note": "multilingual"
-        },
-        {
-          "lang": "zh-cn",
-          "name": "民众地区",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Area Popolare",
-          "note": "multilingual"
-        }
-      ]
+      "id": "party/articolo_1-movimento_democratico_e_progressista",
+      "name": "ARTICOLO 1-MOVIMENTO DEMOCRATICO E PROGRESSISTA"
     },
     {
       "classification": "party",
@@ -77774,6 +77740,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/gruppo_misto",
+      "name": "Gruppo Misto"
     },
     {
       "classification": "legislature",
@@ -80434,6 +80405,11 @@
     },
     {
       "classification": "party",
+      "id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
+      "name": "SINISTRA ITALIANA - SINISTRA ECOLOGIA LIBERTA' - POSSIBILE"
+    },
+    {
+      "classification": "party",
       "id": "party/unknown",
       "name": "unknown"
     }
@@ -80462,6 +80438,7 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -80472,6 +80449,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=302858&idpersona=302858&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "014a8d06-05d1-4a3b-a3fa-e29f4fa9f411",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302858&idpersona=302858&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XV",
@@ -80556,7 +80547,7 @@
     {
       "area_id": "XX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "038515de-fefc-4772-a549-8f0cb8a2a0da",
       "role": "member",
@@ -80796,6 +80787,7 @@
     },
     {
       "area_id": "XXV",
+      "end_date": "2017-03-01",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -80808,7 +80800,22 @@
       ]
     },
     {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "0b4d2a4a-4311-4790-92de-5c540a666df2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305757&idpersona=305757&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-02"
+    },
+    {
       "area_id": "III",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -80819,6 +80826,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306194&idpersona=306194&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "0b4e8e46-bc18-42b0-b13b-5b71d83174fb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306194&idpersona=306194&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXI",
@@ -80889,7 +80910,7 @@
     {
       "area_id": "V",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "0c2a6a9c-acb0-46ec-a83c-a5beec408125",
       "role": "member",
@@ -81077,7 +81098,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "0e6b65fd-1a02-4fb4-a613-3f7adf47b0d0",
       "role": "member",
@@ -81289,6 +81310,7 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -81299,6 +81321,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305634&idpersona=305634&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "VII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "17030733-9600-41fa-bc4d-5987c6ed36af",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305634&idpersona=305634&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIII",
@@ -81342,6 +81378,7 @@
     },
     {
       "area_id": "XVII",
+      "end_date": "2017-03-06",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -81352,6 +81389,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=33730&idpersona=33730&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XVII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "18d4c92f-740e-4e3a-941a-9853f8d893c2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=33730&idpersona=33730&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-06"
     },
     {
       "area_id": "IV",
@@ -81394,6 +81445,7 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -81404,6 +81456,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=302860&idpersona=302860&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "1964fd45-4d33-4a5b-a6e4-2fc59076f5af",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302860&idpersona=302860&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXI",
@@ -81723,6 +81789,7 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -81733,6 +81800,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306139&idpersona=306139&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "24201fdb-98b2-4ee2-9c7e-7b95f189c324",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306139&idpersona=306139&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXV",
@@ -81766,7 +81847,7 @@
     {
       "area_id": "XXV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "24560643-5838-4339-89de-21c8edc5e201",
       "role": "member",
@@ -81863,7 +81944,7 @@
     {
       "area_id": "IV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "24dd6099-1b21-41ee-a92e-8de9d1e621f7",
       "role": "member",
@@ -82017,7 +82098,7 @@
     {
       "area_id": "I",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "2909ce29-7f60-47c4-8017-abef1b78aa4a",
       "role": "member",
@@ -82116,6 +82197,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-09",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -82127,6 +82209,35 @@
         }
       ],
       "start_date": "2017-01-19"
+    },
+    {
+      "area_id": "XIX",
+      "end_date": "2017-02-28",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/civici_e_innovatori",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "29f700c3-f56d-40b7-9fcc-a70de18b5a30",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=300541&idpersona=300541&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-09"
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "29f700c3-f56d-40b7-9fcc-a70de18b5a30",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=300541&idpersona=300541&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "I",
@@ -82278,7 +82389,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "309f0c30-c781-4446-b5f8-16a3dc5e079c",
       "role": "member",
@@ -82773,6 +82884,7 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -82784,6 +82896,20 @@
         }
       ],
       "start_date": "2015-11-06"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "398bb60f-54f5-4f09-bf65-da4ece629e2e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305706&idpersona=305706&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XV",
@@ -83009,7 +83135,7 @@
     {
       "area_id": "XVII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "3be5e5ec-89ef-4f19-8c99-a7e8183893ff",
       "role": "member",
@@ -83022,6 +83148,7 @@
     },
     {
       "area_id": "III",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -83032,6 +83159,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=300026&idpersona=300026&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "3c2565da-43f0-4f12-a027-7c6b28acae5d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=300026&idpersona=300026&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIV",
@@ -83130,6 +83271,7 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -83141,6 +83283,20 @@
         }
       ],
       "start_date": "2013-04-17"
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "3f5931c9-83f6-4f92-970c-4286cb766a89",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306523&idpersona=306523&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XV",
@@ -83158,6 +83314,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -83168,6 +83325,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305878&idpersona=305878&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "404cb8ca-b862-4422-9538-21f6cee5c5b6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305878&idpersona=305878&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXI",
@@ -83524,7 +83695,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "47b9c5e2-a2a8-40de-82ef-bba8f2efb005",
       "role": "member",
@@ -83551,6 +83722,7 @@
     },
     {
       "area_id": "XXIV",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -83561,6 +83733,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=301478&idpersona=301478&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XXIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "483d71aa-1924-4760-9773-4e5a54276c93",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=301478&idpersona=301478&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XII",
@@ -84045,7 +84231,7 @@
     {
       "area_id": "XI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "50fe8bc4-0c30-478b-a7c8-d24f435d20d2",
       "role": "member",
@@ -84112,7 +84298,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "52c0abc6-afa4-4fd0-8fc0-69278c2cf47a",
       "role": "member",
@@ -84315,6 +84501,7 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -84326,6 +84513,35 @@
         }
       ],
       "start_date": "2015-11-17"
+    },
+    {
+      "area_id": "XI",
+      "end_date": "2017-03-22",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "55b1505c-be47-4580-95e3-9a9b8d5f8737",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306861&idpersona=306861&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "55b1505c-be47-4580-95e3-9a9b8d5f8737",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306861&idpersona=306861&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-22"
     },
     {
       "area_id": "VIII",
@@ -84533,6 +84749,7 @@
     },
     {
       "area_id": "III",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -84544,6 +84761,35 @@
         }
       ],
       "start_date": "2015-11-17"
+    },
+    {
+      "area_id": "III",
+      "end_date": "2017-03-22",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "59379bdb-9655-45c6-ad2f-a3753a8df42b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306187&idpersona=306187&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "59379bdb-9655-45c6-ad2f-a3753a8df42b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306187&idpersona=306187&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-22"
     },
     {
       "area_id": "XIX",
@@ -84614,7 +84860,7 @@
     {
       "area_id": "XXIV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "5bdef546-efca-47ec-905d-7c461311b56c",
       "role": "member",
@@ -84962,7 +85208,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "67b0175e-83a4-41a7-8d4a-b200fb12bfa0",
       "role": "member",
@@ -85472,7 +85718,7 @@
     {
       "area_id": "XXIV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7033659c-f3cb-477d-94ad-764fc5b9936f",
       "role": "member",
@@ -85640,6 +85886,7 @@
     },
     {
       "area_id": "XV",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -85651,6 +85898,20 @@
         }
       ],
       "start_date": "2013-04-17"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "72a99843-5ef5-47d5-a0d2-3836cc2c622f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306521&idpersona=306521&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XX",
@@ -85755,7 +86016,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "74dd62d6-a4f0-4890-8726-1c6ddf09e1e3",
       "role": "member",
@@ -85793,6 +86054,19 @@
         }
       ],
       "start_date": "2013-03-21"
+    },
+    {
+      "area_id": "area/puglia",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/gruppo_misto",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "756a4e14-a6dd-49d2-a1c4-fdeb3b003ba4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306681&idpersona=306681&idlegislatura=17"
+        }
+      ]
     },
     {
       "area_id": "XXI",
@@ -85854,7 +86128,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "75aed974-86ac-45df-9b35-ba6cdb04569a",
       "role": "member",
@@ -85925,6 +86199,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -85935,6 +86210,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305840&idpersona=305840&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "75fc1cfb-d5ff-4348-a7f0-3b68145d7e3f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305840&idpersona=305840&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XX",
@@ -86024,7 +86313,7 @@
     {
       "area_id": "XXIII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "76c03510-64e1-4985-8631-012406e37ffe",
       "role": "member",
@@ -86180,6 +86469,7 @@
     },
     {
       "area_id": "V",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -86190,6 +86480,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306268&idpersona=306268&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "V",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "792a3823-72a0-496b-b47e-fc9a5758c352",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306268&idpersona=306268&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIII",
@@ -86260,7 +86564,7 @@
     {
       "area_id": "XXIII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7a3ec114-cc87-49e7-8b05-adebcdd257ce",
       "role": "member",
@@ -86344,7 +86648,7 @@
     {
       "area_id": "XV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "7ac2264b-43eb-4a9a-ba8d-f1337599a7c4",
       "role": "member",
@@ -86396,6 +86700,7 @@
     },
     {
       "area_id": "VI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -86406,6 +86711,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306270&idpersona=306270&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "VI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "7ce7cba7-ee74-4dba-8306-e7a91e72973a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306270&idpersona=306270&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIII",
@@ -86533,7 +86852,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "8043eb9a-1aad-448d-b8a9-ec4df3f5d407",
       "role": "member",
@@ -86654,6 +86973,7 @@
     },
     {
       "area_id": "V",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -86665,6 +86985,20 @@
         }
       ],
       "start_date": "2016-02-22"
+    },
+    {
+      "area_id": "V",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "83e29204-319b-4bcf-bf63-e538d151661b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305628&idpersona=305628&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XVI",
@@ -86765,7 +87099,7 @@
     {
       "area_id": "XVII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "860ece99-7305-4c56-9e32-4c7464a942b5",
       "role": "member",
@@ -86847,6 +87181,7 @@
     },
     {
       "area_id": "XX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -86858,6 +87193,20 @@
         }
       ],
       "start_date": "2014-06-19"
+    },
+    {
+      "area_id": "XX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "87fe1950-de3d-4da9-8b5e-7ac3b73fcb17",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305956&idpersona=305956&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXVI",
@@ -86967,6 +87316,7 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -86978,6 +87328,35 @@
         }
       ],
       "start_date": "2015-11-17"
+    },
+    {
+      "area_id": "XIV",
+      "end_date": "2017-03-22",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "8b300df9-67f6-426c-bed3-f85612c9660d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306881&idpersona=306881&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
+    },
+    {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "8b300df9-67f6-426c-bed3-f85612c9660d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306881&idpersona=306881&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-22"
     },
     {
       "area_id": "I",
@@ -87279,6 +87658,7 @@
     },
     {
       "area_id": "III",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -87290,6 +87670,20 @@
         }
       ],
       "start_date": "2015-11-06"
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "8e02a1d0-28be-4422-9e07-5df3477dd6d7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=33040&idpersona=33040&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "IV",
@@ -87307,7 +87701,7 @@
     {
       "area_id": "XXI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "8e55ea56-0a04-4337-a62e-8ba1a3a97df4",
       "role": "member",
@@ -87634,7 +88028,7 @@
     {
       "area_id": "II",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "93d8603b-4a83-40ca-8455-82788faaa679",
       "role": "member",
@@ -87771,6 +88165,7 @@
     },
     {
       "area_id": "VII",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -87782,6 +88177,21 @@
         }
       ],
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "VII",
+      "end_date": "2017-03-20",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "9602d5ef-f44b-460e-bed6-894938452503",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305614&idpersona=305614&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
     },
     {
       "area_id": "XXI",
@@ -87962,6 +88372,7 @@
     },
     {
       "area_id": "I",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -87975,7 +88386,23 @@
       "start_date": "2015-02-05"
     },
     {
+      "area_id": "I",
+      "end_date": "2017-03-20",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "9a95aa24-4d8b-49d9-be2e-183f0b8034b5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305538&idpersona=305538&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
+    },
+    {
       "area_id": "XII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -87987,6 +88414,20 @@
         }
       ],
       "start_date": "2014-05-07"
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "9ad0f82f-8d3d-403b-85b2-7311d58af2b6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=304901&idpersona=304901&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIV",
@@ -88061,6 +88502,7 @@
     },
     {
       "area_id": "VIII",
+      "end_date": "2017-03-27",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88071,6 +88513,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305652&idpersona=305652&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "VIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "9cbff608-5a61-441f-913a-426d44a5dc20",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305652&idpersona=305652&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-27"
     },
     {
       "area_id": "VIII",
@@ -88171,7 +88627,7 @@
     {
       "area_id": "VIII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "9dd9458f-119f-485a-95b7-2fbe1d9e3b6a",
       "role": "member",
@@ -88311,6 +88767,7 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88322,6 +88779,21 @@
         }
       ],
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XII",
+      "end_date": "2017-03-20",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "a03f5ac0-cd84-4ea9-88e9-531d9dfacd8b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306092&idpersona=306092&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
     },
     {
       "area_id": "XXV",
@@ -88493,7 +88965,7 @@
     {
       "area_id": "XIX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "a3c3cf94-719b-4858-a0f1-963f1b77903d",
       "role": "member",
@@ -88712,6 +89184,7 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2017-03-17",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88725,9 +89198,23 @@
       "start_date": "2015-05-04"
     },
     {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "a7622b46-f5e1-4896-a920-74e857f3b75d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305887&idpersona=305887&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-17"
+    },
+    {
       "area_id": "I",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "a7993e93-4c0f-4138-8a99-98f5b6ce0e56",
       "role": "member",
@@ -88834,6 +89321,7 @@
     },
     {
       "area_id": "X",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88845,6 +89333,35 @@
         }
       ],
       "start_date": "2015-11-17"
+    },
+    {
+      "area_id": "X",
+      "end_date": "2017-03-22",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "aaa3ac87-99f3-4758-aeaf-a9dcbb69d958",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305733&idpersona=305733&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
+    },
+    {
+      "area_id": "X",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "aaa3ac87-99f3-4758-aeaf-a9dcbb69d958",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305733&idpersona=305733&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-22"
     },
     {
       "area_id": "III",
@@ -88968,6 +89485,7 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -88979,6 +89497,21 @@
         }
       ],
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XII",
+      "end_date": "2017-03-20",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "ae34ada4-9c1c-44e8-8cd5-0a9e450e92d0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306102&idpersona=306102&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
     },
     {
       "area_id": "XXI",
@@ -89126,7 +89659,7 @@
     {
       "area_id": "XI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "af40b05e-4c72-4590-9c3d-19bc47cce6a2",
       "role": "member",
@@ -89225,6 +89758,7 @@
     },
     {
       "area_id": "III",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -89235,6 +89769,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306196&idpersona=306196&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "III",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b005666e-9a70-45e2-887b-376017498d61",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306196&idpersona=306196&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXI",
@@ -89426,6 +89974,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -89436,6 +89985,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=302069&idpersona=302069&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b674bc6f-179d-47a6-88a4-af4cf56bc0a6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302069&idpersona=302069&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "III",
@@ -89554,6 +90117,7 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2017-03-30",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/scelta_civica-ala_per_la_costituente_liberale_e_popolare-maie",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -89565,6 +90129,20 @@
         }
       ],
       "start_date": "2016-10-13"
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b8151621-3de1-496a-affb-16168aa1e5c1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302961&idpersona=302961&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-30"
     },
     {
       "area_id": "XXIII",
@@ -89582,6 +90160,7 @@
     },
     {
       "area_id": "XXIII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -89593,6 +90172,20 @@
         }
       ],
       "start_date": "2015-11-06"
+    },
+    {
+      "area_id": "XXIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "b82c7448-9c5c-4212-aebd-b09ba73c4b83",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306131&idpersona=306131&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XVI",
@@ -89845,7 +90438,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "bbeef1e4-e3ba-40cb-bce4-ea802ac72b06",
       "role": "member",
@@ -89912,7 +90505,7 @@
     {
       "area_id": "XXV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "bf145f4c-1dd7-492f-9abc-66bf5f56c561",
       "role": "member",
@@ -90131,7 +90724,7 @@
     {
       "area_id": "I",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c3ef8d1d-3eb8-4674-991c-8de3d96ccb7c",
       "role": "member",
@@ -90265,7 +90858,7 @@
     {
       "area_id": "XXIV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "c596ceed-85b4-4f26-b12a-1f50ea35040b",
       "role": "member",
@@ -90304,6 +90897,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -90314,6 +90908,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305837&idpersona=305837&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "c64d4b4f-4e01-4d4e-837b-ef2930ad662a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305837&idpersona=305837&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XV",
@@ -90488,7 +91096,7 @@
     {
       "area_id": "VIII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ca025ce3-4113-4964-8cea-514cff5eda66",
       "role": "member",
@@ -90806,6 +91414,7 @@
     },
     {
       "area_id": "XVIII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -90818,7 +91427,22 @@
       ]
     },
     {
+      "area_id": "XVIII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "cf309ce0-b4e9-4662-98c4-a4b4892ae899",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305751&idpersona=305751&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
+    },
+    {
       "area_id": "XII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -90829,6 +91453,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=301515&idpersona=301515&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "cfde30cc-c418-4376-8a40-b657b7113dda",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=301515&idpersona=301515&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XX",
@@ -90960,7 +91598,7 @@
     {
       "area_id": "XXV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "d1b5ddff-a3e3-4080-880e-a20341dad0c3",
       "role": "member",
@@ -91013,7 +91651,7 @@
     {
       "area_id": "XXI",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "d22dd42c-21b0-45a6-b369-1fa1cd338e9f",
       "role": "member",
@@ -91678,7 +92316,7 @@
     {
       "area_id": "XXII",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "e0a9f5c0-5125-4c8e-913f-95ad9fe15351",
       "role": "member",
@@ -91899,6 +92537,7 @@
     },
     {
       "area_id": "X",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -91909,6 +92548,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306280&idpersona=306280&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "X",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e2e4c72f-f288-4a7f-a642-189707a1686a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306280&idpersona=306280&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XII",
@@ -91939,6 +92592,7 @@
     },
     {
       "area_id": "XXII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -91950,6 +92604,20 @@
         }
       ],
       "start_date": "2015-11-06"
+    },
+    {
+      "area_id": "XXII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e554cfe6-3db5-4e6b-aaed-89dbd61ca8fb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305978&idpersona=305978&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "I",
@@ -92096,6 +92764,7 @@
     },
     {
       "area_id": "XV",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92107,6 +92776,20 @@
         }
       ],
       "start_date": "2016-09-13"
+    },
+    {
+      "area_id": "XV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e660b437-fef6-4073-ae55-c0a2eee618c1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305794&idpersona=305794&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XIX",
@@ -92303,6 +92986,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-03-14",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92313,6 +92997,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=305859&idpersona=305859&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "e8e92597-0eba-4c73-aff5-66be6d720f72",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305859&idpersona=305859&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-14"
     },
     {
       "area_id": "XXI",
@@ -92412,7 +93110,7 @@
     {
       "area_id": "XXIV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "ead67dd3-aace-4f10-95d6-0f0d390c94b9",
       "role": "member",
@@ -92505,6 +93203,7 @@
     },
     {
       "area_id": "XXII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92517,7 +93216,22 @@
       ]
     },
     {
+      "area_id": "XXII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "ecda1f65-fa13-4c23-95bb-76bbf2205289",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=305974&idpersona=305974&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
+    },
+    {
       "area_id": "XXV",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92528,6 +93242,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306104&idpersona=306104&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XXV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "ecfa4610-e53a-4a78-93c7-ce75755c1440",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306104&idpersona=306104&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XIX",
@@ -92640,7 +93368,7 @@
     {
       "area_id": "III",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "f070e91f-bee7-46e7-b05e-00244869e466",
       "role": "member",
@@ -92706,6 +93434,7 @@
     },
     {
       "area_id": "XIV",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92718,7 +93447,22 @@
       ]
     },
     {
+      "area_id": "XIV",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "f1cb25f0-6900-4bd0-b204-213aecba138b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306284&idpersona=306284&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
+    },
+    {
       "area_id": "XII",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92729,6 +93473,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306162&idpersona=306162&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XII",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "f25bad43-62c1-4571-b84a-4a4c152879d4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306162&idpersona=306162&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "II",
@@ -92897,6 +93655,7 @@
     },
     {
       "area_id": "XII",
+      "end_date": "2017-03-20",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/misto_-_alternativa_libera-possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -92908,6 +93667,21 @@
         }
       ],
       "start_date": "2015-02-05"
+    },
+    {
+      "area_id": "XII",
+      "end_date": "2017-03-20",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/misto_-_non_iscritto_ad_alcuna_componente_politica",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "f4d97db3-24c1-483a-a396-e28e3f3c334e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306094&idpersona=306094&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-03-20"
     },
     {
       "area_id": "IV",
@@ -93112,6 +93886,7 @@
     },
     {
       "area_id": "XI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -93122,6 +93897,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=301489&idpersona=301489&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "f8698820-2403-4bd5-b497-1acdcbb532d3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=301489&idpersona=301489&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXII",
@@ -93168,7 +93957,7 @@
     {
       "area_id": "XXV",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/area_popolare-ncd-centristi_per_l'italia",
+      "on_behalf_of_id": "party/alternativa_popolare-centristi_per_l'europa-ncd",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "f95232cb-30d0-45f5-8278-f7b96548e318",
       "role": "member",
@@ -93375,6 +94164,7 @@
     },
     {
       "area_id": "XXVI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -93385,6 +94175,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=306076&idpersona=306076&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XXVI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "fbac99e3-c415-4f63-84a7-3e1f5c2f7ce8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=306076&idpersona=306076&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XXIV",
@@ -93430,7 +94234,7 @@
     {
       "area_id": "IX",
       "legislative_period_id": "term/17",
-      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
+      "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'_-_possibile",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
       "person_id": "fcc2243e-ec48-4b80-9ae6-d79122ff1fd4",
       "role": "member",
@@ -93455,6 +94259,7 @@
     },
     {
       "area_id": "XXI",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/sinistra_italiana_-_sinistra_ecologia_liberta'",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -93465,6 +94270,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=302058&idpersona=302058&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XXI",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "fd993432-f414-4b64-9c19-5ef6b1fffb01",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302058&idpersona=302058&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XI",
@@ -93507,6 +94326,7 @@
     },
     {
       "area_id": "XIX",
+      "end_date": "2017-02-28",
       "legislative_period_id": "term/17",
       "on_behalf_of_id": "party/partito_democratico",
       "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
@@ -93517,6 +94337,20 @@
           "url": "http://www.camera.it/leg17/29?shadow_deputato=302812&idpersona=302812&idlegislatura=17"
         }
       ]
+    },
+    {
+      "area_id": "XIX",
+      "legislative_period_id": "term/17",
+      "on_behalf_of_id": "party/articolo_1-movimento_democratico_e_progressista",
+      "organization_id": "d53eb3fc-834c-4ed3-a73c-c2056685e108",
+      "person_id": "feb25878-7105-4082-a988-9577758f163e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.camera.it/leg17/29?shadow_deputato=302812&idpersona=302812&idlegislatura=17"
+        }
+      ],
+      "start_date": "2017-02-28"
     },
     {
       "area_id": "XIX",
@@ -94311,6 +95145,11 @@
     {
       "id": "area/lazio_1",
       "name": "Lazio 1",
+      "type": "constituency"
+    },
+    {
+      "id": "area/puglia",
+      "name": "Puglia",
       "type": "constituency"
     },
     {
