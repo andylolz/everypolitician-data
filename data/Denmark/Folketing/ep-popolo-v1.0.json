@@ -25834,8 +25834,16 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "165072",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "/m/05bzk_m",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0812306",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 5393 3681",
