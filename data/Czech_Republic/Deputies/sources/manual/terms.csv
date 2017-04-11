@@ -1,8 +1,8 @@
-id,identifier__parldata,start_date,end_date,name
-1,165,1992-06-06,1996-06-06,1. volební období
+id,identifier__parldata,start_date,end_date,name,wikidata
+1,165,1992-06-06,1996-05-31,1. volební období
 2,166,1996-06-01,1998-06-19,2. volební období
-3,167,1998-06-20,2002-06-20,3. volební období
-4,168,2002-06-15,2006-06-15,4. volební období
-5,169,2006-06-03,2010-06-03,5. volební období
+3,167,1998-06-20,2002-06-14,3. volební období
+4,168,2002-06-15,2006-06-02,4. volební období
+5,169,2006-06-03,2010-05-28,5. volební období
 6,170,2010-05-29,2013-08-28,6. volební období
 7,171,2013-10-26,"",7. volební období
