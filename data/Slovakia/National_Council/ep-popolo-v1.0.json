@@ -14741,7 +14741,27 @@
       "national_identity": "slovenská",
       "other_names": [
         {
+          "lang": "bar",
+          "name": "Ján Gabriel",
+          "note": "multilingual"
+        },
+        {
           "lang": "cs",
+          "name": "Ján Gabriel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ján Gabriel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ján Gabriel",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Ján Gabriel",
           "note": "multilingual"
         },
