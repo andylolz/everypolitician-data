@@ -1459,14 +1459,41 @@
       "name": "Boubacar Sissoko"
     },
     {
+      "gender": "male",
       "id": "c69b9a63-a3d6-4dbc-bcee-5d6a1406281b",
       "identifiers": [
         {
           "identifier": "karim_keita",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22278552",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Karim Keita"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Karim_Keïta"
+        }
+      ],
+      "name": "Karim Keita",
+      "other_names": [
+        {
+          "name": "Karim Keïta",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Karim Keïta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Karim Keïta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "caed6da7-ad6c-4332-9342-8b6834a27340",
