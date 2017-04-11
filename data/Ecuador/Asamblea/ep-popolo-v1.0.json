@@ -5841,6 +5841,12 @@
       ],
       "gender": "male",
       "id": "e02c4791-7290-4fe1-af5c-03c802656daa",
+      "identifiers": [
+        {
+          "identifier": "Q29269082",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-15778-1491593302.png?itok=oXEO9epJ",
       "images": [
         {
@@ -5857,7 +5863,14 @@
           "url": "https://twitter.com/girasolesn12"
         }
       ],
-      "name": "Mariana Constante"
+      "name": "Mariana Constante",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mariana Constante",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969",
