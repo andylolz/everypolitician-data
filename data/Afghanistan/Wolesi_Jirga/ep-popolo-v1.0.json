@@ -1997,6 +1997,7 @@
       "name": "Haji Mohammad Nazer Ahmadzai-Nomad"
     },
     {
+      "gender": "female",
       "id": "5f5ccec2-d983-45f3-a35e-1ea3eb8dde89",
       "identifiers": [
         {
@@ -5248,7 +5249,8 @@
   "meta": {
     "sources": [
       "http://wolesi.website",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
