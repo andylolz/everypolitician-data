@@ -1909,6 +1909,12 @@
     },
     {
       "birth_date": "1952-10-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KathyRiklin"
+        }
+      ],
       "family_name": "Riklin",
       "gender": "female",
       "given_name": "Kathy",
@@ -1931,16 +1937,27 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kathy_Riklin.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1082625813/Kathy_Riklin__2__40KB.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Kathy_Riklin"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KathyRiklin"
         }
       ],
       "name": "Kathy Riklin",
       "other_names": [
+        {
+          "name": "Kathy Riklin, Zürich",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Kathy Riklin",
@@ -3774,6 +3791,12 @@
     },
     {
       "birth_date": "1952-03-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "thegreenpreside"
+        }
+      ],
       "family_name": "Leuenberger",
       "gender": "male",
       "given_name": "Ueli",
@@ -3816,6 +3839,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ueli_Leuenberger_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1359385104/portrait_profil_UL.png"
         }
       ],
       "links": [
@@ -3834,6 +3860,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ueli_Leuenberger"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/thegreenpreside"
         }
       ],
       "name": "Ueli Leuenberger",
@@ -4031,6 +4061,12 @@
     },
     {
       "birth_date": "1973-09-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CeslaAmarelle"
+        }
+      ],
       "family_name": "Amarelle",
       "gender": "female",
       "given_name": "Cesla",
@@ -4057,6 +4093,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Cesla_Amarelle.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/701406892841635842/2ibLREsC.jpg"
         }
       ],
       "links": [
@@ -4071,6 +4110,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Cesla_Amarelle"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CeslaAmarelle"
         }
       ],
       "name": "Cesla Amarelle",
@@ -5524,6 +5567,12 @@
     },
     {
       "birth_date": "1978-09-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Valerie_Piller"
+        }
+      ],
       "family_name": "Piller Carrard",
       "gender": "female",
       "given_name": "Valérie",
@@ -5546,6 +5595,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Valérie_Piller_Carrard.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/644836459950776320/aGOPDDXD.jpg"
         }
       ],
       "links": [
@@ -5556,10 +5608,18 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Valérie_Piller_Carrard"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Valerie_Piller"
         }
       ],
       "name": "Valérie Piller Carrard",
       "other_names": [
+        {
+          "name": "Valérie Piller",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Valérie Piller Carrard",
@@ -5595,6 +5655,12 @@
     },
     {
       "birth_date": "1967-10-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "M_Aebischer"
+        }
+      ],
       "family_name": "Aebischer",
       "gender": "male",
       "given_name": "Matthias",
@@ -5621,6 +5687,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Matthias_Aebischer.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/686819882034397184/iAyE5OwA.jpg"
         }
       ],
       "links": [
@@ -5635,6 +5704,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Matthias_Aebischer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/M_Aebischer"
         },
         {
           "note": "website",
@@ -6090,6 +6163,12 @@
     },
     {
       "birth_date": "1979-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jcschwaab"
+        }
+      ],
       "family_name": "Schwaab",
       "gender": "male",
       "given_name": "Jean Christophe",
@@ -6112,6 +6191,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jean_Christophe_Schwaab.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/601707865733226496/X9K3tkcE.jpg"
         }
       ],
       "links": [
@@ -6122,10 +6204,18 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Jean_Christophe_Schwaab"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jcschwaab"
         }
       ],
       "name": "Jean Christophe Schwaab",
       "other_names": [
+        {
+          "name": "Jean Chr. Schwaab",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Jean Christophe Schwaab",
@@ -7436,6 +7526,12 @@
     },
     {
       "birth_date": "1982-09-18",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "lukasreimann"
+        }
+      ],
       "family_name": "Reimann",
       "gender": "male",
       "given_name": "Lukas",
@@ -7470,6 +7566,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lukas_Reimann.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/590562729963999233/SH5jFgRV.jpg"
         }
       ],
       "links": [
@@ -7492,6 +7591,10 @@
         {
           "note": "Wikipedia (frwikiquote)",
           "url": "https://frwikiquote.wikipedia.org/wiki/Lukas_Reimann"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/lukasreimann"
         },
         {
           "note": "website",
@@ -8268,6 +8371,12 @@
     },
     {
       "birth_date": "1949-12-03",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PierreRusconi"
+        }
+      ],
       "family_name": "Rusconi",
       "gender": "male",
       "given_name": "Pierre",
@@ -8294,6 +8403,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Pierre_Rusconi.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/466669820235493377/LhrBYG_H.jpeg"
         }
       ],
       "links": [
@@ -8304,6 +8416,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Pierre_Rusconi"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PierreRusconi"
         }
       ],
       "name": "Pierre Rusconi",
@@ -9646,6 +9762,12 @@
     },
     {
       "birth_date": "1966-03-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "yferi"
+        }
+      ],
       "family_name": "Feri",
       "gender": "female",
       "given_name": "Yvonne",
@@ -9668,6 +9790,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Yvonne_Feri.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/648845527216316417/aQAA_WSk.jpg"
         }
       ],
       "links": [
@@ -9686,6 +9811,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Yvonne_Feri"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/yferi"
         }
       ],
       "name": "Yvonne Feri",
@@ -9942,6 +10071,12 @@
     },
     {
       "birth_date": "1977-07-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ybuttet"
+        }
+      ],
       "family_name": "Buttet",
       "gender": "male",
       "given_name": "Yannick",
@@ -9968,6 +10103,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/YannickButtet.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/552380806841131008/FW_pEWyt.jpeg"
         }
       ],
       "links": [
@@ -9978,6 +10116,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Yannick_Buttet"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ybuttet"
         },
         {
           "note": "website",
@@ -10041,6 +10183,12 @@
     },
     {
       "birth_date": "1965-01-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "beatflach"
+        }
+      ],
       "family_name": "Flach",
       "gender": "male",
       "given_name": "Beat",
@@ -10063,12 +10211,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Beat_Flach.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1478935446/BeatFlach__4klein.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Beat_Flach"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/beatflach"
         }
       ],
       "name": "Beat Flach",
@@ -10147,6 +10302,12 @@
     },
     {
       "birth_date": "1957-03-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "YvonneGilli"
+        }
+      ],
       "family_name": "Gilli",
       "gender": "female",
       "given_name": "Yvonne",
@@ -10169,6 +10330,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Yvonne_gilli.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1441813841/DSCF8315_Kopie.jpg"
         }
       ],
       "links": [
@@ -10179,6 +10343,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Yvonne_Gilli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/YvonneGilli"
         }
       ],
       "name": "Yvonne Gilli",
@@ -10238,6 +10406,12 @@
     },
     {
       "birth_date": "1987-09-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MathiasReynard"
+        }
+      ],
       "family_name": "Reynard",
       "gender": "male",
       "given_name": "Mathias",
@@ -10264,6 +10438,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Mathias_Reynard.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/595489028591325185/bH5N3yZP.jpg"
         }
       ],
       "links": [
@@ -10274,6 +10451,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mathias_Reynard"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MathiasReynard"
         }
       ],
       "name": "Mathias Reynard",
@@ -10328,6 +10509,12 @@
     },
     {
       "birth_date": "1966-06-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarinaCarobbio"
+        }
+      ],
       "family_name": "Carobbio Guscetti",
       "gender": "female",
       "given_name": "Marina",
@@ -10350,6 +10537,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Marina_Carobbio-Guscetti.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2652230003/3f742f8deeebb12286d50fcf22ff9a91.png"
         }
       ],
       "links": [
@@ -10364,10 +10554,18 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Marina_Carobbio_Guscetti"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarinaCarobbio"
         }
       ],
       "name": "Marina Carobbio Guscetti",
       "other_names": [
+        {
+          "name": "Marina Carobbio",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Marina Carobbio Guscetti",
@@ -13177,6 +13375,12 @@
     },
     {
       "birth_date": "1931-08-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NeirynckJ"
+        }
+      ],
       "family_name": "Neirynck",
       "gender": "male",
       "given_name": "Jacques",
@@ -13255,6 +13459,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jacques_Neirynck.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/840179511/Neirynck.jpg"
         }
       ],
       "links": [
@@ -13273,6 +13480,10 @@
         {
           "note": "Wikipedia (frwikiquote)",
           "url": "https://frwikiquote.wikipedia.org/wiki/Jacques_Neirynck"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NeirynckJ"
         }
       ],
       "name": "Jacques Neirynck",
@@ -13830,6 +14041,12 @@
     },
     {
       "birth_date": "1980-12-21",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "bastiengirod"
+        }
+      ],
       "family_name": "Girod",
       "gender": "male",
       "given_name": "Bastien",
@@ -13868,6 +14085,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bastien_Girod_2011.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/669275126664441857/S-xdQkCT.jpg"
         }
       ],
       "links": [
@@ -13882,6 +14102,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Bastien_Girod"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/bastiengirod"
         }
       ],
       "name": "Bastien Girod",
@@ -14201,6 +14425,12 @@
     },
     {
       "birth_date": "1978-07-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "eviallemann"
+        }
+      ],
       "family_name": "Allemann",
       "gender": "female",
       "given_name": "Evi",
@@ -14223,6 +14453,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Evi_Allemann_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000298363100/e16f3bec8fe0af9f787b9ae240125e8a.jpeg"
         }
       ],
       "links": [
@@ -14237,6 +14470,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Evi_Allemann"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/eviallemann"
         }
       ],
       "name": "Evi Allemann",
@@ -14536,6 +14773,12 @@
     },
     {
       "birth_date": "1950-01-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DanielVischerNR"
+        }
+      ],
       "death_date": "2017-01-17",
       "family_name": "Vischer",
       "gender": "male",
@@ -14559,6 +14802,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Daniel_Vischer_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/3432610481/8b190d39cfabcbb2469cfb7bfc4f07cb.jpeg"
         }
       ],
       "links": [
@@ -14593,6 +14839,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Daniel_Vischer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DanielVischerNR"
         }
       ],
       "name": "Daniel Vischer",
@@ -16572,6 +16822,12 @@
     },
     {
       "birth_date": "1969-08-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Juerg_Grossen"
+        }
+      ],
       "family_name": "Grossen",
       "gender": "male",
       "given_name": "Jürg",
@@ -16594,6 +16850,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Jürg_Grossen.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1753149696/jgrossen2.jpg"
         }
       ],
       "links": [
@@ -16604,6 +16863,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Jürg_Grossen"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Juerg_Grossen"
         },
         {
           "note": "website",
@@ -16821,6 +17084,12 @@
     },
     {
       "birth_date": "1969-05-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "hhiltpold"
+        }
+      ],
       "family_name": "Hiltpold",
       "gender": "male",
       "given_name": "Hugues",
@@ -16843,6 +17112,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hugues_Hiltpold.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/616084815629152256/Sjq1UIM_.jpg"
         }
       ],
       "links": [
@@ -16853,6 +17125,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Hugues_Hiltpold"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hhiltpold"
         }
       ],
       "name": "Hugues Hiltpold",
@@ -16931,6 +17207,12 @@
     },
     {
       "birth_date": "1973-03-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ada_marra"
+        }
+      ],
       "family_name": "Marra",
       "gender": "female",
       "given_name": "Ada",
@@ -16957,6 +17239,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ada_Marra.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2305660044/fivc9sz4v9vixn2vr48u.jpeg"
         }
       ],
       "links": [
@@ -16983,10 +17268,18 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Ada_Marra"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ada_marra"
         }
       ],
       "name": "Ada Marra",
       "other_names": [
+        {
+          "name": "Marra Ada",
+          "note": "alternate"
+        },
         {
           "lang": "ar",
           "name": "ادا مرا",
@@ -17326,6 +17619,12 @@
     },
     {
       "birth_date": "1986-02-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cedricwermuth"
+        }
+      ],
       "family_name": "Wermuth",
       "gender": "male",
       "given_name": "Cédric",
@@ -17348,6 +17647,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Cédric_Wermuth.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/642780338855538688/NYVsNJx3.jpg"
         }
       ],
       "links": [
@@ -17366,6 +17668,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Cédric_Wermuth"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/cedricwermuth"
         }
       ],
       "name": "Cédric Wermuth",
@@ -17592,6 +17898,12 @@
     },
     {
       "birth_date": "1976-11-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NatalieRickli"
+        }
+      ],
       "family_name": "Rickli",
       "gender": "female",
       "given_name": "Natalie",
@@ -17618,6 +17930,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Natalie_Rickli.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/735399972322041856/FjRLMHNH.jpg"
         }
       ],
       "links": [
@@ -17640,6 +17955,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Natalie_Rickli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NatalieRickli"
         }
       ],
       "name": "Natalie Rickli",
@@ -17996,6 +18315,12 @@
     },
     {
       "birth_date": "1961-04-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RuediNoser"
+        }
+      ],
       "family_name": "Noser",
       "gender": "male",
       "given_name": "Ruedi",
@@ -18022,6 +18347,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ruedi_Noser_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/655829173890453504/g7wow8oD.png"
         }
       ],
       "links": [
@@ -18036,6 +18364,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Ruedi_Noser"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RuediNoser"
         }
       ],
       "name": "Ruedi Noser",
@@ -18248,6 +18580,12 @@
     },
     {
       "birth_date": "1982-11-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MarcoRomanoPPD"
+        }
+      ],
       "family_name": "Romano",
       "gender": "male",
       "given_name": "Marco",
@@ -18278,12 +18616,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/MarcoRomano.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2507826360/image.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Marco_Romano"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MarcoRomanoPPD"
         }
       ],
       "name": "Marco Romano",
@@ -19149,6 +19494,12 @@
     },
     {
       "birth_date": "1961-04-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ignaziocassis"
+        }
+      ],
       "family_name": "Cassis",
       "gender": "male",
       "given_name": "Ignazio",
@@ -19175,6 +19526,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ignazio_Cassis_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/646253578646982656/ubXiHhgd.jpg"
         }
       ],
       "links": [
@@ -19189,6 +19543,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Ignazio_Cassis"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ignaziocassis"
         }
       ],
       "name": "Ignazio Cassis",
@@ -20745,6 +21103,12 @@
     },
     {
       "birth_date": "1970-12-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "fderder"
+        }
+      ],
       "family_name": "Derder",
       "gender": "male",
       "given_name": "Fathi",
@@ -20771,6 +21135,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Fathi_Derder.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/694120733862162432/lExLlj56.jpg"
         }
       ],
       "links": [
@@ -20781,6 +21148,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Fathi_Derder"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/fderder"
         }
       ],
       "name": "Fathi Derder",
@@ -22996,6 +23367,12 @@
     },
     {
       "birth_date": "1971-03-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "C_Darbellay"
+        }
+      ],
       "family_name": "Darbellay",
       "gender": "male",
       "given_name": "Christophe",
@@ -23026,6 +23403,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Christophe_Darbellay_2.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/726985166594400256/ZmN0yGc4.jpg"
         }
       ],
       "links": [
@@ -23056,6 +23436,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Christophe_Darbellay"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/C_Darbellay"
         },
         {
           "note": "website",
@@ -24221,6 +24605,12 @@
     },
     {
       "birth_date": "1965-11-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SchmidFederer"
+        }
+      ],
       "family_name": "Schmid-Federer",
       "gender": "female",
       "given_name": "Barbara",
@@ -24243,6 +24633,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Barbara_Schmid-Federer.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/743480203167531008/306p1CrN.jpg"
         }
       ],
       "links": [
@@ -24253,10 +24646,18 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Barbara_Schmid-Federer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SchmidFederer"
         }
       ],
       "name": "Barbara Schmid-Federer",
       "other_names": [
+        {
+          "name": "Schmid Federer",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Barbara Schmid-Federer",
@@ -24718,6 +25119,12 @@
     },
     {
       "birth_date": "1963-06-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "jacquelinefehr"
+        }
+      ],
       "family_name": "Fehr",
       "gender": "female",
       "given_name": "Jacqueline",
@@ -24752,6 +25159,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Jacqueline_Fehr_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/626766052827992068/b2GVf_mw.jpg"
         }
       ],
       "links": [
@@ -24774,6 +25184,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Iacoba_Fehr"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/jacquelinefehr"
         }
       ],
       "name": "Jacqueline Fehr",
@@ -25430,6 +25844,12 @@
     },
     {
       "birth_date": "1946-04-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "beaheim"
+        }
+      ],
       "family_name": "Heim",
       "gender": "female",
       "given_name": "Bea",
@@ -25452,6 +25872,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bea_Heim_2.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/3544400371/2c361eacc3acda4bdced193fb664c18b.jpeg"
         }
       ],
       "links": [
@@ -25462,6 +25885,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Bea_Heim"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/beaheim"
         }
       ],
       "name": "Bea Heim",
@@ -29862,6 +30289,12 @@
     },
     {
       "birth_date": "1952-11-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "F_Leutenegger"
+        }
+      ],
       "family_name": "Leutenegger",
       "gender": "male",
       "given_name": "Filippo",
@@ -29892,6 +30325,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Filippo_Leutenegger_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000547800139/2e7da61e2b2883cc3c9e309895a09af8.jpeg"
         }
       ],
       "links": [
@@ -29906,6 +30342,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Philippus_Leutenegger"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/F_Leutenegger"
         }
       ],
       "name": "Filippo Leutenegger",
@@ -30236,6 +30676,12 @@
     },
     {
       "birth_date": "1970-07-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChristianLevrat"
+        }
+      ],
       "family_name": "Levrat",
       "gender": "male",
       "given_name": "Christian",
@@ -30270,6 +30716,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Christian_Levrat_am_30._April_2008_in_St._Gallen.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/669884853618241536/OPeduiAD.jpg"
         }
       ],
       "links": [
@@ -30296,6 +30745,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Christianus_Levrat"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ChristianLevrat"
         }
       ],
       "name": "Christian Levrat",
@@ -32703,6 +33156,12 @@
     },
     {
       "birth_date": "1973-03-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "NordmannRoger"
+        }
+      ],
       "family_name": "Nordmann",
       "gender": "male",
       "given_name": "Roger",
@@ -32729,6 +33188,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Roger_Nordmann_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2539033741/Capture.JPG"
         }
       ],
       "links": [
@@ -32739,6 +33201,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Roger_Nordmann_(homme_politique)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/NordmannRoger"
         }
       ],
       "name": "Roger Nordmann",
@@ -33577,6 +34043,12 @@
     },
     {
       "birth_date": "1951-04-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ManuelTornare"
+        }
+      ],
       "family_name": "Tornare",
       "gender": "male",
       "given_name": "Manuel",
@@ -33603,6 +34075,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/ManuelTornare-Parlament-ch.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2572403010/6mrwlhwdhh54cjreuq1u.png"
         }
       ],
       "links": [
@@ -33617,6 +34092,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Manuel_Tornare"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ManuelTornare"
         },
         {
           "note": "website",
@@ -34020,6 +34499,12 @@
     },
     {
       "birth_date": "1961-11-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JayBadran"
+        }
+      ],
       "family_name": "Badran",
       "gender": "female",
       "given_name": "Jacqueline",
@@ -34042,12 +34527,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jacqueline_Badran.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/634763498527006720/nryqxmY7.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jacqueline_Badran"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/JayBadran"
         }
       ],
       "name": "Jacqueline Badran",
@@ -35462,6 +35954,12 @@
     },
     {
       "birth_date": "1970-12-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "IsabelleMoret"
+        }
+      ],
       "family_name": "Moret",
       "gender": "female",
       "given_name": "Isabelle",
@@ -35488,6 +35986,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Portrait_d'Isabelle_Moret.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1522601137/2011Moretportraitle_ger.jpg"
         }
       ],
       "links": [
@@ -35502,6 +36003,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Isabelle_Moret"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/IsabelleMoret"
         }
       ],
       "name": "Isabelle Moret",
@@ -35886,6 +36391,12 @@
     },
     {
       "birth_date": "1972-02-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "bglaettli"
+        }
+      ],
       "family_name": "Glättli",
       "gender": "male",
       "given_name": "Balthasar",
@@ -35912,6 +36423,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Balthasar_Glättli_-_parlament.ch_3003_-crop-.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/756771365810733056/yO_N2HrC.jpg"
         }
       ],
       "links": [
@@ -35930,6 +36444,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Balthasar_Glättli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/bglaettli"
         },
         {
           "note": "website",
@@ -39446,6 +39964,12 @@
     },
     {
       "birth_date": "1974-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SVPBrunner"
+        }
+      ],
       "family_name": "Brunner",
       "gender": "male",
       "given_name": "Toni",
@@ -39476,6 +40000,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Toni_Brunner_(Nationalrat,_2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/339330812/brunner_toni_parteileitung_1.jpg"
         }
       ],
       "links": [
@@ -39546,6 +40073,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/托尼·布龍訥"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SVPBrunner"
         },
         {
           "note": "website",
@@ -39997,6 +40528,12 @@
     },
     {
       "birth_date": "1949-05-20",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GTheiler"
+        }
+      ],
       "family_name": "Theiler",
       "gender": "male",
       "given_name": "Georges",
@@ -40027,6 +40564,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Georges_Theiler_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1173919972/3539_7337_1.jpg"
         }
       ],
       "links": [
@@ -40039,12 +40579,20 @@
           "url": "https://fr.wikipedia.org/wiki/Georges_Theiler"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/GTheiler"
+        },
+        {
           "note": "website",
           "url": "http://www.theiler.ch"
         }
       ],
       "name": "Georges Theiler",
       "other_names": [
+        {
+          "name": "Theiler Georges",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Georges Theiler",
@@ -40974,6 +41522,12 @@
     },
     {
       "birth_date": "1948-02-22",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "FelixGutzwiller"
+        }
+      ],
       "family_name": "Gutzwiller",
       "gender": "male",
       "given_name": "Felix",
@@ -41016,6 +41570,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Felix_gutzwiller.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1407740824/Felix-Gutzwiller.jpg"
         }
       ],
       "links": [
@@ -41030,6 +41587,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Felix_Gutzwiller"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/FelixGutzwiller"
         }
       ],
       "name": "Felix Gutzwiller",
@@ -43296,6 +43857,12 @@
     },
     {
       "birth_date": "1964-02-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Elisabeth_S_S"
+        }
+      ],
       "family_name": "Schneider-Schneiter",
       "gender": "female",
       "given_name": "Elisabeth",
@@ -43318,6 +43885,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Elisabeth_Schneider-Schneiter.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/598206266587095040/gssD25kw.jpg"
         }
       ],
       "links": [
@@ -43328,10 +43898,18 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Elisabeth_Schneider-Schneiter"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Elisabeth_S_S"
         }
       ],
       "name": "Elisabeth Schneider-Schneiter",
       "other_names": [
+        {
+          "name": "Elisabeth Schneider",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Elisabeth Schneider-Schneiter",
@@ -43406,6 +43984,12 @@
     },
     {
       "birth_date": "1965-09-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RobiPanta"
+        }
+      ],
       "family_name": "Pantani",
       "gender": "female",
       "given_name": "Roberta",
@@ -43428,6 +44012,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Roberta_Pantani.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/756564369559920640/L_jWUW4t.jpg"
         }
       ],
       "links": [
@@ -43442,6 +44029,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Roberta_Pantani"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RobiPanta"
         }
       ],
       "name": "Roberta Pantani",
@@ -45060,6 +45651,12 @@
     },
     {
       "birth_date": "1968-06-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LandoltMartin"
+        }
+      ],
       "family_name": "Landolt",
       "gender": "male",
       "given_name": "Martin",
@@ -45086,6 +45683,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Martin_Landolt,_2009_2.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/643469425174310912/Ww6ANwN8.jpg"
         }
       ],
       "links": [
@@ -45112,6 +45712,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Martinus_Landolt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LandoltMartin"
         }
       ],
       "name": "Martin Landolt",
@@ -46629,6 +47233,12 @@
     },
     {
       "birth_date": "1974-11-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "LorenzQuadri"
+        }
+      ],
       "family_name": "Quadri",
       "gender": "male",
       "given_name": "Lorenzo",
@@ -46651,6 +47261,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Lorenzo_Quadri.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/3413199945/bc19833804fbc84072e0e8c66aa87d10.jpeg"
         }
       ],
       "links": [
@@ -46665,6 +47278,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Lorenzo_Quadri"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/LorenzQuadri"
         }
       ],
       "name": "Lorenzo Quadri",
@@ -46743,6 +47360,12 @@
     },
     {
       "birth_date": "1972-04-13",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "I_Chevalley"
+        }
+      ],
       "family_name": "Chevalley",
       "gender": "female",
       "given_name": "Isabelle",
@@ -46773,6 +47396,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Isabelle_Chevalley.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1406312470/Isabelle-Chevalley.jpg"
         }
       ],
       "links": [
@@ -46783,6 +47409,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Isabelle_Chevalley"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/I_Chevalley"
         }
       ],
       "name": "Isabelle Chevalley",
@@ -49204,6 +49834,12 @@
     },
     {
       "birth_date": "1954-01-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SchenkerSilvia"
+        }
+      ],
       "family_name": "Schenker",
       "gender": "female",
       "given_name": "Silvia",
@@ -49230,6 +49866,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Silvia_Schenker_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/634399504746201088/FrLFE26G.jpg"
         }
       ],
       "links": [
@@ -49248,6 +49887,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Silvia_Schenker"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SchenkerSilvia"
         }
       ],
       "name": "Silvia Schenker",
@@ -49759,6 +50402,12 @@
     },
     {
       "birth_date": "1948-03-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SusanneSlo"
+        }
+      ],
       "family_name": "Leutenegger Oberholzer",
       "gender": "female",
       "given_name": "Susanne",
@@ -49781,6 +50430,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Susanne_Leutenegger_Oberholzer_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/629942498769674240/Kt4A5v0D.jpg"
         }
       ],
       "links": [
@@ -49795,10 +50447,18 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Susanna_Leutenegger_Oberholzer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SusanneSlo"
         }
       ],
       "name": "Susanne Leutenegger Oberholzer",
       "other_names": [
+        {
+          "name": "Leutenegger Oberholz",
+          "note": "alternate"
+        },
         {
           "lang": "ca",
           "name": "Susanne Leutenegger Oberholzer",
@@ -50076,6 +50736,12 @@
     },
     {
       "birth_date": "1984-10-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "nmasshardt"
+        }
+      ],
       "family_name": "Masshardt",
       "gender": "female",
       "given_name": "Nadine",
@@ -50098,6 +50764,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/597757741310971905/IAzpqc35.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/597757741310971905/IAzpqc35.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (commons)",
@@ -50110,6 +50782,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Nadine_Masshardt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/nmasshardt"
         },
         {
           "note": "website",
@@ -52646,6 +53322,12 @@
     },
     {
       "birth_date": "1983-08-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "alinetrede"
+        }
+      ],
       "family_name": "Trede",
       "gender": "female",
       "given_name": "Aline",
@@ -52668,6 +53350,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Aline_Trede.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/630117522939998208/sxyL4Thh.jpg"
         }
       ],
       "links": [
@@ -52678,6 +53363,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Aline_Trede"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/alinetrede"
         }
       ],
       "name": "Aline Trede",
@@ -55102,6 +55791,12 @@
     },
     {
       "birth_date": "1968-09-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "d_stolz"
+        }
+      ],
       "family_name": "Stolz",
       "gender": "male",
       "given_name": "Daniel",
@@ -55124,12 +55819,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Daniel.Stolz.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/628857200585277440/nDzI5F8F.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Daniel_Stolz"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/d_stolz"
         }
       ],
       "name": "Daniel Stolz",
@@ -58160,6 +58862,12 @@
     },
     {
       "birth_date": "1976-02-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ahodgers"
+        }
+      ],
       "family_name": "Hodgers",
       "gender": "male",
       "given_name": "Antonio",
@@ -58186,6 +58894,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Antonio_Hodgers_2007.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/665104915526721536/UdlYlgiG.jpg"
         }
       ],
       "links": [
@@ -58196,6 +58907,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Antonio_Hodgers"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ahodgers"
         },
         {
           "note": "website",
@@ -58259,6 +58974,12 @@
     },
     {
       "birth_date": "1964-03-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EdithGraf"
+        }
+      ],
       "family_name": "Graf-Litscher",
       "gender": "female",
       "given_name": "Edith",
@@ -58281,6 +59002,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Edith_Graf-Litscher_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/551527001375264768/2AJTLDk0.jpeg"
         }
       ],
       "links": [
@@ -58291,6 +59015,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Editha_Graf-Litscher"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EdithGraf"
         }
       ],
       "name": "Edith Graf-Litscher",
@@ -58780,6 +59508,12 @@
     },
     {
       "birth_date": "1975-07-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChristaMarkwald"
+        }
+      ],
       "family_name": "Markwalder",
       "gender": "female",
       "given_name": "Christa",
@@ -58806,6 +59540,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Christa_Markwalder.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1474288339/Markwalder_Christa_150x225_72dpi_rgb.jpg"
         }
       ],
       "links": [
@@ -58828,6 +59565,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Christa_Markwalder"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ChristaMarkwald"
         },
         {
           "note": "website",
@@ -59062,6 +59803,12 @@
     },
     {
       "birth_date": "1967-02-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PhilippHadorn"
+        }
+      ],
       "family_name": "Hadorn",
       "gender": "male",
       "given_name": "Philipp",
@@ -59084,12 +59831,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Philipp_Hadorn.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/628853307273015296/_TCtUDh1.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Philipp_Hadorn"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PhilippHadorn"
         }
       ],
       "name": "Philipp Hadorn",
@@ -62457,6 +63211,12 @@
     },
     {
       "birth_date": "1957-05-27",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MaireJack"
+        }
+      ],
       "family_name": "Maire",
       "gender": "male",
       "given_name": "Jacques-André",
@@ -62479,6 +63239,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Jacques-André_Maire.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2596563717/Portraits_sept_09.jpg"
         }
       ],
       "links": [
@@ -62489,10 +63252,18 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Jacques-André_Maire"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MaireJack"
         }
       ],
       "name": "Jacques-André Maire",
       "other_names": [
+        {
+          "name": "Maire Jacques-André",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Jacques-André Maire",
@@ -64427,6 +65198,12 @@
     },
     {
       "birth_date": "1952-08-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PaulRechsteiner"
+        }
+      ],
       "family_name": "Rechsteiner",
       "gender": "male",
       "given_name": "Paul",
@@ -64457,6 +65234,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paul_Rechsteiner_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/635862964721942528/UBlxu3hn.jpg"
         }
       ],
       "links": [
@@ -64471,6 +65251,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Paul_Rechsteiner"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PaulRechsteiner"
         },
         {
           "note": "website",
@@ -66108,6 +66892,12 @@
     },
     {
       "birth_date": "1954-12-14",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "zanettiroberto"
+        }
+      ],
       "family_name": "Zanetti",
       "gender": "male",
       "given_name": "Roberto",
@@ -66126,6 +66916,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/593831012154630145/x2vdZ_-P.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/593831012154630145/x2vdZ_-P.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (de)",
@@ -66142,6 +66938,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Robertus_Zanetti"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/zanettiroberto"
         }
       ],
       "name": "Roberto Zanetti",
@@ -69030,6 +69830,12 @@
     },
     {
       "birth_date": "1965-04-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "RolaFir"
+        }
+      ],
       "family_name": "Fischer",
       "gender": "male",
       "given_name": "Roland",
@@ -69064,12 +69870,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Roland_Fischer.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/628182284017885184/o2xjomsu.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Roland_Fischer_(Politiker)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/RolaFir"
         }
       ],
       "name": "Roland Fischer",
@@ -70814,6 +71627,12 @@
     },
     {
       "birth_date": "1962-04-05",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Ch_Lohr"
+        }
+      ],
       "family_name": "Lohr",
       "gender": "male",
       "given_name": "Christian",
@@ -70836,12 +71655,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Christian_Lohr.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/753869148879482880/LRhESPGT.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Christian_Lohr"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Ch_Lohr"
         }
       ],
       "name": "Christian Lohr",
@@ -71520,6 +72346,12 @@
     },
     {
       "birth_date": "1976-06-17",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "MullerAltermatt"
+        }
+      ],
       "family_name": "Müller-Altermatt",
       "gender": "male",
       "given_name": "Stefan",
@@ -71554,16 +72386,27 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/StefanMüller-Altermatt.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1741919862/Profilbild.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Stefan_Müller-Altermatt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MullerAltermatt"
         }
       ],
       "name": "Stefan Müller-Altermatt",
       "other_names": [
+        {
+          "name": "Stefan Müller",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Stefan Müller-Altermatt",
@@ -72167,6 +73010,12 @@
     },
     {
       "birth_date": "1972-06-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "BernhardGuhl"
+        }
+      ],
       "family_name": "Guhl",
       "gender": "male",
       "given_name": "Bernhard",
@@ -72189,12 +73038,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Bernhard_Guhl.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000740692522/7abcb23e974f0722180179e0104c14f1.jpeg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bernhard_Guhl"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/BernhardGuhl"
         }
       ],
       "name": "Bernhard Guhl",
@@ -72434,6 +73290,12 @@
     },
     {
       "birth_date": "1977-07-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PascaleBruderer"
+        }
+      ],
       "family_name": "Bruderer Wyss",
       "gender": "female",
       "given_name": "Pascale",
@@ -72468,6 +73330,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pascale_Bruderer_NRCR_President_cropped.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/629555661177810944/csK5Wxi2.jpg"
         }
       ],
       "links": [
@@ -72504,12 +73369,20 @@
           "url": "https://ru.wikipedia.org/wiki/Брудерер,_Паскаль"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/PascaleBruderer"
+        },
+        {
           "note": "website",
           "url": "http://www.pascale-bruderer.ch/"
         }
       ],
       "name": "Pascale Bruderer Wyss",
       "other_names": [
+        {
+          "name": "Pascale Bruderer",
+          "note": "alternate"
+        },
         {
           "name": "Pascale Bruderer",
           "note": "alternate"
@@ -73515,6 +74388,12 @@
     },
     {
       "birth_date": "1960-07-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "enussbi"
+        }
+      ],
       "family_name": "Nussbaumer",
       "gender": "male",
       "given_name": "Eric",
@@ -73541,12 +74420,19 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Eric_Nussbaumer.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/3049885919/a1a4f54c4541b0224761a505cd1af8ff.jpeg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Eric_Nussbaumer"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/enussbi"
         }
       ],
       "name": "Eric Nussbaumer",
@@ -73758,6 +74644,12 @@
     },
     {
       "birth_date": "1958-08-23",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "B_Haeberli"
+        }
+      ],
       "family_name": "Häberli-Koller",
       "gender": "female",
       "given_name": "Brigitte",
@@ -73780,6 +74672,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Brigitte_Häberli-Koller_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/585693507991515136/kCRxFda2.jpg"
         }
       ],
       "links": [
@@ -73792,12 +74687,20 @@
           "url": "https://fr.wikipedia.org/wiki/Brigitte_Häberli-Koller"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/B_Haeberli"
+        },
+        {
           "note": "website",
           "url": "http://www.brigitte-haeberli.ch"
         }
       ],
       "name": "Brigitte Häberli-Koller",
       "other_names": [
+        {
+          "name": "Brigitte Häberli",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Brigitte Häberli-Koller",
@@ -74891,6 +75794,12 @@
     },
     {
       "birth_date": "1956-12-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "berberatdidier"
+        }
+      ],
       "family_name": "Berberat",
       "gender": "male",
       "given_name": "Didier",
@@ -74917,6 +75826,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Didier_Berberat_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1285471511/image.jpg"
         }
       ],
       "links": [
@@ -74931,10 +75843,18 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Desiderius_Berberat"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/berberatdidier"
         }
       ],
       "name": "Didier Berberat",
       "other_names": [
+        {
+          "name": "DidierBerberat",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Didier Berberat",
@@ -75153,6 +76073,12 @@
     },
     {
       "birth_date": "1981-06-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "cwasi"
+        }
+      ],
       "family_name": "Wasserfallen",
       "gender": "male",
       "given_name": "Christian",
@@ -75175,6 +76101,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Christian_Wasserfallen.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/477461152285204481/CEWyu0Aq.jpeg"
         }
       ],
       "links": [
@@ -75187,12 +76116,20 @@
           "url": "https://fr.wikipedia.org/wiki/Christian_Wasserfallen"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/cwasi"
+        },
+        {
           "note": "website",
           "url": "http://www.cewe.ch/"
         }
       ],
       "name": "Christian Wasserfallen",
       "other_names": [
+        {
+          "name": "Christian Wasserfall",
+          "note": "alternate"
+        },
         {
           "lang": "cs",
           "name": "Christian Wasserfallen",
@@ -75773,6 +76710,12 @@
     },
     {
       "birth_date": "1980-04-19",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "AndreaCaroniAR"
+        }
+      ],
       "family_name": "Caroni",
       "gender": "male",
       "given_name": "Andrea",
@@ -75811,6 +76754,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Andrea_Caroni.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/646673826130956288/SDBIkz7f.jpg"
         }
       ],
       "links": [
@@ -75821,6 +76767,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Andrea_Caroni"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AndreaCaroniAR"
         },
         {
           "note": "website",
@@ -76380,6 +77330,12 @@
     },
     {
       "birth_date": "1967-02-26",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Yvette67Yvette"
+        }
+      ],
       "family_name": "Estermann",
       "gender": "female",
       "given_name": "Yvette",
@@ -76414,6 +77370,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Yvette_Estermann_(Nationalrat,_2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/644400819220013056/VKZ5B0vw.jpg"
         }
       ],
       "links": [
@@ -76432,6 +77391,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Yvette_Estermann"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Yvette67Yvette"
         }
       ],
       "name": "Yvette Estermann",
@@ -77023,6 +77986,12 @@
     },
     {
       "birth_date": "1959-07-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "CarloSommaruga"
+        }
+      ],
       "family_name": "Sommaruga",
       "gender": "male",
       "given_name": "Carlo",
@@ -77045,6 +78014,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Carlo_sommaruga.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1919186316/image.jpg"
         }
       ],
       "links": [
@@ -77055,6 +78027,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Carlo_Sommaruga"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/CarloSommaruga"
         }
       ],
       "name": "Carlo Sommaruga",
@@ -77228,6 +78204,12 @@
     },
     {
       "birth_date": "1960-07-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ChrMoergeli"
+        }
+      ],
       "family_name": "Mörgeli",
       "gender": "male",
       "given_name": "Christoph",
@@ -77278,6 +78260,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Christoph_Mörgeli_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/621411130695655425/GMQgR2OP.jpg"
         }
       ],
       "links": [
@@ -77300,6 +78285,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Christophorus_Mörgeli"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ChrMoergeli"
         }
       ],
       "name": "Christoph Mörgeli",
@@ -77687,6 +78676,12 @@
     },
     {
       "birth_date": "1956-04-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DdeBuman"
+        }
+      ],
       "family_name": "de Buman",
       "gender": "male",
       "given_name": "Dominique",
@@ -77721,6 +78716,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Dominique_de_Buman_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/478511608281317377/rbUgEK_B.jpeg"
         }
       ],
       "links": [
@@ -77739,6 +78737,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Dominicus_de_Buman"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/DdeBuman"
         }
       ],
       "name": "Dominique de Buman",
@@ -78960,6 +79962,12 @@
     },
     {
       "birth_date": "1962-06-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Violapamherd"
+        }
+      ],
       "family_name": "Amherd",
       "gender": "female",
       "given_name": "Viola",
@@ -78982,6 +79990,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Viola_Amherd_(2007).jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/663073744815038465/s2amPOAy.jpg"
         }
       ],
       "links": [
@@ -79000,6 +80011,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Viola_Amherd"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Violapamherd"
         }
       ],
       "name": "Viola Amherd",
@@ -79813,7 +80828,8 @@
   "meta": {
     "sources": [
       "http://ws.parlament.ch",
-      "https://www.wikidata.org/"
+      "https://www.wikidata.org/",
+      "https://morph.io/everypolitician-scrapers/twitter-list-switzerland"
     ]
   },
   "memberships": [
