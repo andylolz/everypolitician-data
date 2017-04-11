@@ -4,6 +4,17 @@
   ],
   "persons": [
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "thomas.rehak@landtag.li"
+        }
+      ],
+      "email": "thomas.rehak@landtag.li",
+      "id": "03b8b592-f7da-4e4b-8180-bfd215f093a4",
+      "name": "Rehak Thomas"
+    },
+    {
       "birth_date": "1980-02-05",
       "contact_details": [
         {
@@ -124,6 +135,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "manfred.kaufmann@landtag.li"
+        }
+      ],
+      "email": "manfred.kaufmann@landtag.li",
+      "id": "08533daa-8635-4e2b-9cab-3a8755797a7e",
+      "name": "Kaufmann Manfred"
     },
     {
       "birth_date": "1952-05-13",
@@ -582,6 +604,17 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniel.seger@landtag.li"
+        }
+      ],
+      "email": "daniel.seger@landtag.li",
+      "id": "1dcd3d33-931d-49cf-a002-591e0f5264f4",
+      "name": "Seger Daniel"
+    },
+    {
       "birth_date": "1973-08-30",
       "gender": "female",
       "given_name": "Diana",
@@ -853,6 +886,17 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "patrick.risch@landtag.li"
+        }
+      ],
+      "email": "patrick.risch@landtag.li",
+      "id": "2c8ece03-0f2f-4bf7-84fb-1fa8590f9b69",
+      "name": "Risch Patrick"
+    },
+    {
       "birth_date": "1964-01-01",
       "contact_details": [
         {
@@ -918,6 +962,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mario.wohlwend@landtag.li"
+        }
+      ],
+      "email": "mario.wohlwend@landtag.li",
+      "id": "2e496fff-336e-423d-9c17-673f7d6fed0e",
+      "name": "Wohlwend Mario"
     },
     {
       "birth_date": "1967-05-09",
@@ -1781,6 +1836,17 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "johannes.hasler@landtag.li"
+        }
+      ],
+      "email": "johannes.hasler@landtag.li",
+      "id": "6ba9e125-feed-4d69-ad90-45b471f17b50",
+      "name": "Hasler Johannes"
+    },
+    {
       "birth_date": "1970-04-21",
       "contact_details": [
         {
@@ -1951,6 +2017,17 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "guenter.vogt@landtag.li"
+        }
+      ],
+      "email": "guenter.vogt@landtag.li",
+      "id": "7c9e4123-146e-4a97-a388-ea5704671c7a",
+      "name": "Vogt Günter"
+    },
+    {
       "birth_date": "1953-12-08",
       "gender": "male",
       "given_name": "Gebhard",
@@ -2009,6 +2086,28 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "susanne.eberle-strub@landtag.li"
+        }
+      ],
+      "email": "susanne.eberle-strub@landtag.li",
+      "id": "968972c5-7adc-49d8-8938-94c11b87e5c7",
+      "name": "Eberle-Strub Susanne"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "daniel.oehry@landtag.li"
+        }
+      ],
+      "email": "daniel.oehry@landtag.li",
+      "id": "9cda707b-a494-4b53-bb62-a31efa8528ee",
+      "name": "Oehry Daniel"
     },
     {
       "birth_date": "1964-08-10",
@@ -2533,6 +2632,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gunilla.marxer-kranz@landtag.li"
+        }
+      ],
+      "email": "gunilla.marxer-kranz@landtag.li",
+      "id": "b094819e-e356-4ebc-bca3-66fc4a2b9daa",
+      "name": "Marxer-Kranz Gunilla"
     },
     {
       "birth_date": "1968-09-07",
@@ -3283,6 +3393,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "georg.kaufmann@landtag.li"
+        }
+      ],
+      "email": "georg.kaufmann@landtag.li",
+      "id": "db2077a9-8e94-442c-827e-1283ff57c6e7",
+      "name": "Kaufmann Georg"
     },
     {
       "birth_date": "1941-12-23",
@@ -4269,6 +4390,19 @@
   "memberships": [
     {
       "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "DU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "03b8b592-f7da-4e4b-8180-bfd215f093a4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "FL",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -4277,6 +4411,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FL",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "050a8d3b-2757-4112-bab3-c6d0b5800dda",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4303,6 +4450,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "08533daa-8635-4e2b-9cab-3a8755797a7e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4398,6 +4558,19 @@
       ]
     },
     {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "0d655d33-7311-458c-8437-d4e7fcfb8377",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
       "area_id": "area/unterland",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "VU",
@@ -4434,6 +4607,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "1dcd3d33-931d-49cf-a002-591e0f5264f4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4503,6 +4689,19 @@
       ]
     },
     {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "2434f36c-1ea1-454d-806c-0490b508adf8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
       "area_id": "area/unterland",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "FBP",
@@ -4512,6 +4711,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2005"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FL",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "2c8ece03-0f2f-4bf7-84fb-1fa8590f9b69",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4529,6 +4741,32 @@
       ]
     },
     {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "2d431340-d056-419d-b8ff-97ec8a532ec8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "2e496fff-336e-423d-9c17-673f7d6fed0e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
       "area_id": "area/oberland",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "VU",
@@ -4538,6 +4776,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "36fa12a2-1d18-499c-ba24-3781bb1ad068",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4564,6 +4815,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2009"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "DU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "3a191c1b-1529-49ff-8454-259b34525b96",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4621,6 +4885,19 @@
     },
     {
       "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "DU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "5d729f28-69ac-447e-a35c-7681a6fc90fd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "DU",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -4629,6 +4906,32 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "DU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "6b9445e0-f4f2-4144-8e8d-d93f87fa01ca",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "6ba9e125-feed-4d69-ad90-45b471f17b50",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4668,6 +4971,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "6bc8116f-1263-4ecb-afad-3064c98f018e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4699,6 +5015,19 @@
     },
     {
       "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "7c9e4123-146e-4a97-a388-ea5704671c7a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "VU",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -4725,6 +5054,32 @@
     },
     {
       "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "968972c5-7adc-49d8-8938-94c11b87e5c7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "9cda707b-a494-4b53-bb62-a31efa8528ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "FBP",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -4733,6 +5088,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "a308a7dd-4d8a-48c0-9c62-102ae238e9a2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -4867,6 +5235,19 @@
       ]
     },
     {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "b094819e-e356-4ebc-bca3-66fc4a2b9daa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
       "area_id": "area/oberland",
       "legislative_period_id": "term/2009",
       "on_behalf_of_id": "FBP",
@@ -4902,6 +5283,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "b9456a3d-e611-4a3e-b3dd-f802895efde6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -5062,6 +5456,19 @@
       ]
     },
     {
+      "area_id": "area/unterland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FBP",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "d6ec92c4-edbf-4d6a-9593-30aab02e04a0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
       "area_id": "area/oberland",
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "FBP",
@@ -5084,6 +5491,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2009"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "FL",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "db2077a9-8e94-442c-827e-1283ff57c6e7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     },
@@ -5245,6 +5665,19 @@
     },
     {
       "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "DU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "fa1740df-522a-4473-ab48-253df6ce57b9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
       "legislative_period_id": "term/2013",
       "on_behalf_of_id": "VU",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -5253,6 +5686,19 @@
       "sources": [
         {
           "url": "http://www.landtag.li/abgeordnete/?jahr=2013"
+        }
+      ]
+    },
+    {
+      "area_id": "area/oberland",
+      "legislative_period_id": "term/2017",
+      "on_behalf_of_id": "VU",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
+      "person_id": "fffa78db-ea45-45f4-86e0-26abc1034d53",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.landtag.li/abgeordnete/?jahr=2017"
         }
       ]
     }
@@ -5666,7 +6112,7 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2017",
+      "end_date": "2017-02-04",
       "id": "term/2013",
       "name": "2013-2017",
       "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
@@ -5683,6 +6129,13 @@
         }
       ],
       "name": "Liechtenstein general election, 2017",
+      "start_date": "2017-02-05"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2017",
+      "name": "2017-",
+      "organization_id": "841153dd-50d7-4c7c-a2ca-46d1219a1b6a",
       "start_date": "2017-02-05"
     }
   ],
