@@ -48574,6 +48574,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bergrfrid_Fjose.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bergrfrid_Fjose.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -75846,6 +75852,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Reidar_Due"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Reidar_Due"
         },
         {
           "note": "Wikipedia (no)",
@@ -107098,6 +107108,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gunnar_Fatland"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Gunnar_Fatland"
         },
         {
           "note": "Wikipedia (no)",
