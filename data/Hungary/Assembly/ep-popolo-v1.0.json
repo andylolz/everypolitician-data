@@ -983,7 +983,7 @@
       "name": "Móring, József Attila",
       "other_names": [
         {
-          "name": "József Attila Móring",
+          "name": "Móring József Attila",
           "note": "alternate"
         },
         {
@@ -994,6 +994,11 @@
         {
           "lang": "fr",
           "name": "József Attila Móring",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Móring József Attila",
           "note": "multilingual"
         },
         {
@@ -1745,6 +1750,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/g741.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Galambos_Dénes.jpg"
         }
       ],
       "links": [
@@ -5184,7 +5192,7 @@
       "name": "Dr. Molnár, Zsolt",
       "other_names": [
         {
-          "name": "Zsolt Molnár",
+          "name": "Molnár Zsolt",
           "note": "alternate"
         },
         {
@@ -5200,6 +5208,11 @@
         {
           "lang": "fr",
           "name": "Zsolt Molnár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Molnár Zsolt",
           "note": "multilingual"
         },
         {
@@ -7480,6 +7493,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/h078.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hollik_István_2016.jpg"
         }
       ],
       "links": [
@@ -10959,6 +10975,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/t038.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tessely_Zoltán.jpg"
         }
       ],
       "links": [
