@@ -23201,6 +23201,11 @@
       "name": "Don Davies",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "دون ديفيز",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Don Davies",
           "note": "multilingual"
@@ -34322,12 +34327,21 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mona_Fortier"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mona_Fortier"
         }
       ],
       "name": "Mona Fortier",
       "other_names": [
         {
           "lang": "en",
+          "name": "Mona Fortier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Mona Fortier",
           "note": "multilingual"
         }
