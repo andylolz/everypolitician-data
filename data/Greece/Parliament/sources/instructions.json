@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/hellenic-parliament",
-        "query": "SELECT *, name_el AS name__el FROM data ORDER BY id, term DESC"
+        "query": "SELECT *, name_el AS name__el, id AS identifier__hellenic_parliament FROM data ORDER BY id, term DESC"
       },
       "source": "http://www.hellenicparliament.gr",
       "type": "membership"
