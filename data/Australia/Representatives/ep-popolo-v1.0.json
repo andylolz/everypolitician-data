@@ -52226,7 +52226,8 @@
     "sources": [
       "http://data.openaustralia.org/",
       "https://morph.io/openaustralia/aus_mp_contact_details",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
