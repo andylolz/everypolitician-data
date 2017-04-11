@@ -640,11 +640,16 @@
         }
       ],
       "email": "maher.hajjar@hotmail.com",
+      "gender": "male",
       "id": "2086d4b4-3420-43c8-a096-5c91dcf123e7",
       "identifiers": [
         {
           "identifier": "155",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16751558",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.sy/SD08/msf/1432458828_.png",
@@ -653,7 +658,84 @@
           "url": "http://parliament.gov.sy/SD08/msf/1432458828_.png"
         }
       ],
-      "name": "ماهر حجار"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ماهر_حجار"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Maher_Hajjar"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Maher_Hajjar"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/ماهر_عبدالحفیظ_حجار"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Maher_el-Hajjar"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Махер_Абдель_Хафиз_Хаджар"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/马赫尔·哈贾尔"
+        }
+      ],
+      "name": "ماهر حجار",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ماهر حجار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Maher Hajjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Maher Hajjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Maher Hajjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ماهر عبدالحفیظ حجار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Maher el-Hajjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Maher Hajjar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Махер Абдель Хафиз Хаджар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "马赫尔·哈贾尔",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-01-01",
@@ -814,11 +896,16 @@
         }
       ],
       "email": "shareef_shahadah@parliament.sy",
+      "gender": "male",
       "id": "29846791-71ac-482a-b2e0-2be355f50b1d",
       "identifiers": [
         {
           "identifier": "216",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20404590",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.sy/SD08/msf/1430213128_.png",
@@ -827,7 +914,20 @@
           "url": "http://parliament.gov.sy/SD08/msf/1430213128_.png"
         }
       ],
-      "name": "شريف شحادة"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/شريف_شحادة"
+        }
+      ],
+      "name": "شريف شحادة",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "شريف شحادة",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1982-01-01",
@@ -1464,20 +1564,94 @@
         }
       ],
       "email": "Lahampar@yahoo.com",
+      "gender": "male",
+      "given_name": "Muhammed",
       "id": "41af2f16-8b4b-4456-a06e-6da4f94d70f0",
       "identifiers": [
         {
           "identifier": "49",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q1942655",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.sy/SD08/msf/1432539623_.png",
       "images": [
         {
           "url": "http://parliament.gov.sy/SD08/msf/1432539623_.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Mohammad_Jihad_al-Laham.jpg"
         }
       ],
-      "name": "محمد جهاد اللحام"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/محمد_جهاد_اللحام"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Muhammad_Dschihad_al-Lahham"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohammad_Jihad_al-Laham"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/محمدجهاد_لحام"
+        }
+      ],
+      "name": "محمد جهاد اللحام",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "محمد جهاد اللحام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Muhammad Dschihad al-Lahham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohammad Jihad al-Laham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mohammad Jihad al-Laham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "محمدجهاد لحام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Muhammad Dschihad al-Lahham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מוחמד ג'יהאד אל-לחאם",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohammad Jihad al-Laham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "穆罕默德·吉哈德·拉罕",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-01-01",
@@ -3138,11 +3312,16 @@
         }
       ],
       "email": "khaled_alaboud@parliament.sy",
+      "gender": "male",
       "id": "99dffe24-3da4-46f2-b4a2-e7394336c0f4",
       "identifiers": [
         {
           "identifier": "58",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12209939",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.sy/SD08/msf/1432539300_.png",
@@ -3151,7 +3330,20 @@
           "url": "http://parliament.gov.sy/SD08/msf/1432539300_.png"
         }
       ],
-      "name": "خالد العبود"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/خالد_العبود"
+        }
+      ],
+      "name": "خالد العبود",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "خالد العبود",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-01-01",
@@ -4454,20 +4646,248 @@
     },
     {
       "birth_date": "1875-01-01",
+      "death_date": "1960-12-05",
+      "gender": "male",
+      "given_name": "Hashim",
       "id": "e21673e5-b4e7-48d4-8fa2-abd5709e1511",
       "identifiers": [
         {
+          "identifier": "1837080",
+          "scheme": "bigenc_ru"
+        },
+        {
+          "identifier": "167112722",
+          "scheme": "bnf"
+        },
+        {
           "identifier": "50",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "1638392",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03qtrd",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "142687944",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2006202553",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "175899878",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "24038981",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q59930",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.gov.sy/SD08/msf/1407276514_.jpg",
       "images": [
         {
           "url": "http://parliament.gov.sy/SD08/msf/1407276514_.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hashim_Al_Atassi.jpg"
         }
       ],
-      "name": "هاشم الأتاسي"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/هاشم_الأتاسي"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Hashim_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Haschim_Chalid_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hashim_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/هاشم_الاتاسی"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hachem_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/האשם_אל-אתאסי"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Hashim_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Hashim_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Hashim_el-Atassi"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ჰაშიმ_ალ-ათასი"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Haschim_Chalid_al-Atassi"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ഹാഷിം_അൽ_അത്താസി"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Hāšim_al-Atāssī"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Haszim_al-Atasi"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Аль-Атаси,_Хашим"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Haşim_el-Attasi"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/哈希姆·阿塔西"
+        }
+      ],
+      "name": "هاشم الأتاسي",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "هاشم الأتاسي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Haschim Chalid al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "هاشم الاتاسی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hachem al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האשם אל-אתאסי",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Hachem el-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハーシム・アル＝アタースィー",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ჰაშიმ ალ-ათასი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Haschim Chalid al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "ഹാഷിം അൽ അത്താസി",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Hāšim al-Atāssī",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hashim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Haszim al-Atassi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хашим Бей Халид Аль-Атасси",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Haşim el Atasi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈希姆·阿塔西",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-01-01",
