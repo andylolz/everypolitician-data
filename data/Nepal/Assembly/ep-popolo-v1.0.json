@@ -9251,6 +9251,7 @@
         }
       ],
       "email": "khandbk@yahoo.com",
+      "gender": "male",
       "id": "7d4bfc7a-fed5-49be-9be2-6f50575b9d10",
       "identifiers": [
         {
@@ -9264,6 +9265,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bal_Krishna_Khand"
+        },
+        {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/बालकृष्ण_खाण"
         }
@@ -9275,6 +9280,16 @@
           "note": "alternate"
         },
         {
+          "lang": "de",
+          "name": "Bal Krishna Khand",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bal Krishna Khand",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "बालकृष्ण खाण",
           "note": "multilingual"
@@ -9282,6 +9297,11 @@
         {
           "lang": "ne",
           "name": "मा.बालकृष्ण खाण",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bal Krishna Khand",
           "note": "multilingual"
         }
       ]
