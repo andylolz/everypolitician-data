@@ -4,12 +4,17 @@
   ],
   "persons": [
     {
+      "birth_date": "1964-10-12",
       "gender": "male",
       "id": "0f265196-a0be-4cbe-8a69-52df95aedfa5",
       "identifiers": [
         {
           "identifier": "175",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22668674",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/175.jpg",
@@ -18,9 +23,23 @@
           "url": "http://www.parlamento.cw/images/members/175.jpg"
         }
       ],
-      "name": "Sherwin Leonora"
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Sherwin_Leonora"
+        }
+      ],
+      "name": "Sherwin Leonora",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Sherwin Leonora",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1954-12-23",
       "contact_details": [
         {
           "type": "email",
@@ -34,6 +53,10 @@
         {
           "identifier": "167",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23038670",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/167.jpg",
@@ -44,13 +67,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Omayra_Leeflang"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/omayra.leeflang"
         }
       ],
-      "name": "Omayra V.E. Leeflang"
+      "name": "Omayra V.E. Leeflang",
+      "other_names": [
+        {
+          "name": "Omayra Leeflang",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Omayra Leeflang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Omayra Leeflang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Omayra Leeflang",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1960-12-05",
       "contact_details": [
         {
           "type": "email",
@@ -58,12 +107,16 @@
         }
       ],
       "email": "marilyn.moses@parlamento.cw",
-      "gender": "female",
+      "gender": "male",
       "id": "2bd32709-c3bd-4c8e-9be5-d8b070d5e73f",
       "identifiers": [
         {
           "identifier": "168",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22001886",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/168.jpg",
@@ -74,13 +127,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Marilyn_Moses"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/marilyn.moses.969"
         }
       ],
-      "name": "dr. Marilyn C. Moses"
+      "name": "dr. Marilyn C. Moses",
+      "other_names": [
+        {
+          "name": "Marilyn Moses",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marilyn Moses",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marilyn Moses",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marilyn Moses",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1965-11-02",
       "contact_details": [
         {
           "type": "email",
@@ -89,11 +168,16 @@
       ],
       "email": "alex.rosaria@parlamento.cw",
       "gender": "male",
+      "given_name": "Alex",
       "id": "2fe0919d-7af3-408a-8e88-2e3667d132dd",
       "identifiers": [
         {
           "identifier": "171",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22936830",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/171.jpg",
@@ -104,11 +188,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Alex_Rosaria"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/alex.d.rosaria"
         }
       ],
-      "name": "Alex D. Rosaria, MBA"
+      "name": "Alex D. Rosaria, MBA",
+      "other_names": [
+        {
+          "name": "Alex Rosaria",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Alex Rosaria",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -135,12 +234,14 @@
       "name": "Eugène Cleopa"
     },
     {
+      "birth_date": "1967-04-23",
       "contact_details": [
         {
           "type": "email",
           "value": "monique.koeyers-felida@parlamento.cw"
         }
       ],
+      "death_date": "2016-08-15",
       "email": "monique.koeyers-felida@parlamento.cw",
       "gender": "female",
       "id": "34d9c577-a153-48c3-97b3-78fde6765f35",
@@ -148,6 +249,10 @@
         {
           "identifier": "147",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22955264",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/147.jpg",
@@ -158,13 +263,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Monique_Koeyers-Felida"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Monique_Koeyers-Felida"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/moniquefelida"
         }
       ],
-      "name": "Monique Koeyers-Felida"
+      "name": "Monique Koeyers-Felida",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Monique Koeyers-Felida",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Monique Koeyers-Felida",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Monique Koeyers-Felida",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1956-05-21",
       "contact_details": [
         {
           "type": "email",
@@ -178,6 +309,10 @@
         {
           "identifier": "166",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22942662",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/166.jpg",
@@ -188,13 +323,47 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hensley_Koeiman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Hensley_Koeiman"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Hensley_Koeiman"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/hensley.koeiman"
         }
       ],
-      "name": "Hensley F. Koeiman"
+      "name": "Hensley F. Koeiman",
+      "other_names": [
+        {
+          "name": "Hensley Koeiman",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Hensley Koeiman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hensley Koeiman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hensley Koeiman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1961-08-05",
       "contact_details": [
         {
           "type": "email",
@@ -208,6 +377,10 @@
         {
           "identifier": "173",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22668713",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/173.jpg",
@@ -218,13 +391,29 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Armin_Konket"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/armin.konket"
         }
       ],
-      "name": "drs. ing. Armin Konket"
+      "name": "drs. ing. Armin Konket",
+      "other_names": [
+        {
+          "name": "Armin Konket",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Armin Konket",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1958-02-26",
       "contact_details": [
         {
           "type": "email",
@@ -238,6 +427,10 @@
         {
           "identifier": "155",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22936894",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/155.jpg",
@@ -248,13 +441,25 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Humphrey_Davelaar"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/humphrey.davelaar"
         }
       ],
-      "name": "Humphrey Davelaar"
+      "name": "Humphrey Davelaar",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Humphrey Davelaar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1950-07-27",
       "contact_details": [
         {
           "type": "email",
@@ -268,6 +473,10 @@
         {
           "identifier": "145",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22955440",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/145.jpg",
@@ -278,13 +487,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Amerigo_Thodé"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/1744258795"
         }
       ],
-      "name": "Amerigo Thodé"
+      "name": "Amerigo Thodé",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Amerigo Thodé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Amerigo Thodé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Amerigo Thodé",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1962-04-15",
       "contact_details": [
         {
           "type": "email",
@@ -298,6 +529,10 @@
         {
           "identifier": "146",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22001748",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/146.jpg",
@@ -306,9 +541,33 @@
           "url": "http://www.parlamento.cw/images/members/146.jpg"
         }
       ],
-      "name": "Melvin Cijntje"
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Melvin_Cijntje"
+        }
+      ],
+      "name": "Melvin Cijntje",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Melvin Cijntje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Melvin Cijntje",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Melvin Cijntje",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1957-04-27",
       "contact_details": [
         {
           "type": "email",
@@ -317,11 +576,16 @@
       ],
       "email": "zita.jesus-leito@parlamento.cw",
       "gender": "female",
+      "given_name": "Zita",
       "id": "ac477c88-cf4f-4606-96f3-7c8dd5a1f045",
       "identifiers": [
         {
           "identifier": "159",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22001842",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/159.jpg",
@@ -332,13 +596,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Zita_Jesus-Leito"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/zita.jesusleito"
         }
       ],
-      "name": "Zita Jesus-Leito, MBA"
+      "name": "Zita Jesus-Leito, MBA",
+      "other_names": [
+        {
+          "name": "Zita Jesus-Leito",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Zita Jesus-Leito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zita Jesus-Leito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zita Jesus-Leito",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1943-04-11",
       "contact_details": [
         {
           "type": "email",
@@ -352,6 +642,10 @@
         {
           "identifier": "172",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22927627",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/172.jpg",
@@ -360,9 +654,36 @@
           "url": "http://www.parlamento.cw/images/members/172.jpg"
         }
       ],
-      "name": "drs. Elmer R. Wilsoe"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elmer_Wilsoe"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Elmer_Wilsoe"
+        }
+      ],
+      "name": "drs. Elmer R. Wilsoe",
+      "other_names": [
+        {
+          "name": "Elmer Wilsoe",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Elmer Wilsoe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elmer Wilsoe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1974-09-09",
       "contact_details": [
         {
           "type": "email",
@@ -371,11 +692,20 @@
       ],
       "email": "gerrit.schotte@parlamento.cw",
       "gender": "male",
+      "given_name": "Gerrit",
       "id": "b17a7593-3d14-4779-90bb-197f49e59a25",
       "identifiers": [
         {
           "identifier": "170",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0dd9k9s",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q3091857",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/170.jpg",
@@ -386,11 +716,100 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
+          "note": "Wikipedia (pap)",
+          "url": "https://pap.wikipedia.org/wiki/Gerrit_F._Schotte"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Gerrit_Schotte"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/schottegerrit"
         }
       ],
-      "name": "Gerrit F. Schotte"
+      "name": "Gerrit F. Schotte",
+      "other_names": [
+        {
+          "name": "Gerrit Schotte",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Gerrit F. Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Gerrit Schotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "盖瑞特·肖特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "蓋瑞特·肖特",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -406,6 +825,10 @@
         {
           "identifier": "144",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29030093",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/144.jpg",
@@ -416,13 +839,34 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gilmar_Pisas"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Gilmar_Pisas"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/gilmar.pisas"
         }
       ],
-      "name": "Gilmar Pisas"
+      "name": "Gilmar Pisas",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gilmar Pisas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gilmar Pisas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1959-10-04",
       "contact_details": [
         {
           "type": "email",
@@ -436,6 +880,10 @@
         {
           "identifier": "165",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23038648",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/165.jpg",
@@ -446,13 +894,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Marcolino_Franco"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/marcolino.franco.5"
         }
       ],
-      "name": "Marcolino C. F. Franco, Presidente"
+      "name": "Marcolino C. F. Franco, Presidente",
+      "other_names": [
+        {
+          "name": "Marcolino Franco",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marcolino Franco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marcolino Franco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marcolino Franco",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1957-11-13",
       "contact_details": [
         {
           "type": "email",
@@ -466,6 +940,10 @@
         {
           "identifier": "154",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22001932",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/154.jpg",
@@ -476,11 +954,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Glenn_Sulvaran"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/glenn.sulvaran"
         }
       ],
-      "name": "drs. Glenn Sulvaran"
+      "name": "drs. Glenn Sulvaran",
+      "other_names": [
+        {
+          "name": "Glenn Sulvaran",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Glenn Sulvaran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Glenn Sulvaran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Glenn Sulvaran",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -491,11 +994,16 @@
       ],
       "email": "jaime.cordoba@parlamento.cw",
       "gender": "male",
+      "given_name": "Jaime",
       "id": "c30db466-2d2a-4029-8387-c21b7072ea56",
       "identifiers": [
         {
           "identifier": "148",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22003713",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/148.jpg",
@@ -506,11 +1014,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jaime_Córdoba_(politician)"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/jaime.cordoba.739"
         }
       ],
-      "name": "Jaime Córdoba , Vise-Presidente"
+      "name": "Jaime Córdoba , Vise-Presidente",
+      "other_names": [
+        {
+          "name": "Jaime Córdoba",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jaime Córdoba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jaime Córdoba",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
