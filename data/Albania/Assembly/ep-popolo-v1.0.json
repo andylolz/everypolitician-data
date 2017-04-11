@@ -2756,6 +2756,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "48163146-ec8c-47c6-ae69-000d49ebece0",
       "identifiers": [
         {
@@ -9857,6 +9858,7 @@
       "name": "Besnik Baraj"
     },
     {
+      "gender": "female",
       "id": "d3bbce56-e0d3-4953-a6b5-759890916c19",
       "identifiers": [
         {
@@ -16418,7 +16420,8 @@
     "sources": [
       "https://en.wikipedia.org/",
       "http://www.parlament.al/",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
