@@ -164,8 +164,78 @@
     "dates": [
       "2011-10-23"
     ],
-    "follows": "Tunisian general election, 2009",
+    "follows": "Tunisian parliamentary election, 2009",
     "followed_by": "Tunisian parliamentary election, 2014"
+  },
+  "Q1385876": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1385876"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1999",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1999",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1999",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1999",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1999-10-24"
+    ],
+    "follows": "Tunisian parliamentary election, 1994",
+    "followed_by": "Tunisian parliamentary election, 2004"
+  },
+  "Q1706168": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q1706168"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 2009",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 2009",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 2009",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 2009",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "2009-10-25"
+    ],
+    "follows": "Tunisian parliamentary election, 2004",
+    "followed_by": "Tunisian Constituent Assembly election, 2011"
   },
   "Q2053564": {
     "identifiers": [
@@ -182,7 +252,7 @@
       },
       {
         "lang": "en",
-        "name": "Tunisian general election, 2004",
+        "name": "Tunisian parliamentary election, 2004",
         "note": "multilingual"
       },
       {
@@ -207,8 +277,10 @@
       }
     ],
     "dates": [
-      "2004"
-    ]
+      "2004-10-24"
+    ],
+    "follows": "Tunisian parliamentary election, 1999",
+    "followed_by": "Tunisian parliamentary election, 2009"
   },
   "Q2115101": {
     "identifiers": [
@@ -349,59 +421,6 @@
       "1959"
     ]
   },
-  "Q3722406": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q3722406"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "it",
-        "name": "Elezioni parlamentari tunisine del 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "élections législatives tunisiennes de 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Tunisian parliamentary elections of 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Tunisian parliamentary elections of 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الانتخابات الرئاسية التونسية 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Tunisian parliamentary elections of 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Elezioni presidenziali tunisine del 1989",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Tunisian general election, 1989",
-        "note": "multilingual"
-      }
-    ],
-    "dates": [
-      "1989"
-    ]
-  },
   "Q7853200": {
     "identifiers": [
       {
@@ -475,11 +494,23 @@
         "lang": "ar",
         "name": "الانتخابات التشريعية التونسية 1979",
         "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1979",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1979",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "1979"
-    ]
+      "1979-11-04"
+    ],
+    "follows": "Tunisian parliamentary election, 1974",
+    "followed_by": "Tunisian parliamentary election, 1981"
   },
   "Q7853209": {
     "identifiers": [
@@ -498,11 +529,23 @@
         "lang": "ar",
         "name": "الانتخابات التشريعية التونسية 1981",
         "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1981",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1981",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "1981"
-    ]
+      "1981-11-01"
+    ],
+    "follows": "Tunisian parliamentary election, 1979",
+    "followed_by": "Tunisian parliamentary election, 1986"
   },
   "Q7853210": {
     "identifiers": [
@@ -521,11 +564,23 @@
         "lang": "ar",
         "name": "الانتخابات التشريعية التونسية 1986",
         "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1986",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1986",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "1986"
-    ]
+      "1986-11-02"
+    ],
+    "follows": "Tunisian parliamentary election, 1981",
+    "followed_by": "Tunisian parliamentary election, 1989"
   },
   "Q17053105": {
     "identifiers": [
@@ -658,7 +713,236 @@
       }
     ],
     "dates": [
-      "1956"
-    ]
+      "1956-03-25"
+    ],
+    "followed_by": "Tunisian parliamentary election, 1959"
+  },
+  "Q22929108": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929108"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1959",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1959",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1959",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1959",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1959-11-08"
+    ],
+    "follows": "Tunisian Constituent Assembly election, 1956"
+  },
+  "Q22929116": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929116"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1964",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1964",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1964",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1964",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1964-11-09"
+    ],
+    "follows": "Tunisian parliamentary election, 1959",
+    "followed_by": "Tunisian parliamentary election, 1969"
+  },
+  "Q22929124": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929124"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1969",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1969",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1969",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1969",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1969-11-02"
+    ],
+    "follows": "Tunisian parliamentary election, 1964",
+    "followed_by": "Tunisian parliamentary election, 1974"
+  },
+  "Q22929131": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929131"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1974",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1974",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1974",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1974",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1974-11-03"
+    ],
+    "follows": "Tunisian parliamentary election, 1969",
+    "followed_by": "Tunisian parliamentary election, 1979"
+  },
+  "Q22929138": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929138"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1989",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1989",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1989",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1989",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1989-04-02"
+    ],
+    "follows": "Tunisian parliamentary election, 1986",
+    "followed_by": "Tunisian parliamentary election, 1994"
+  },
+  "Q22929146": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q22929146"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية التونسية 1994",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "élections législatives tunisiennes de 1994",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary election, 1994",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Tunesien 1994",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1994-03-20"
+    ],
+    "follows": "Tunisian parliamentary election, 1989",
+    "followed_by": "Tunisian parliamentary election, 1999"
+  },
+  "Q29169673": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q29169673"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Tunisian parliamentary elections of 1989",
+        "note": "multilingual"
+      }
+    ],
+    "dates": [
+      "1989-04-02"
+    ],
+    "part_of": "Tunisian general elections of 1989"
   }
 }
