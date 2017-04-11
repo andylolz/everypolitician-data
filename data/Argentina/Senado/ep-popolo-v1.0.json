@@ -898,6 +898,7 @@
       "sort_name": "Zamora, Gerardo"
     },
     {
+      "birth_date": "1960",
       "contact_details": [
         {
           "type": "email",
@@ -917,6 +918,12 @@
       "gender": "male",
       "given_name": "Juan Manuel",
       "id": "32cc7a2d-7210-4545-a47b-ce6950f722f3",
+      "identifiers": [
+        {
+          "identifier": "Q23304232",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/423.png",
       "images": [
         {
@@ -925,11 +932,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Juan_Manuel_Irrazábal_(senador)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/JuanchIrrazabal"
         }
       ],
       "name": "Juan Manuel Irrazábal",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Juan Manuel Irrazábal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juan Manuel Irrazábal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Irrazábal, Juan Manuel"
     },
     {
@@ -1863,6 +1886,7 @@
       "sort_name": "Crexell, Carmen Lucila"
     },
     {
+      "birth_date": "1974-02-16",
       "contact_details": [
         {
           "type": "email",
@@ -1882,6 +1906,12 @@
       "gender": "female",
       "given_name": "María Cristina del Valle",
       "id": "56e4cd5e-94f2-4568-8e74-6edb33344326",
+      "identifiers": [
+        {
+          "identifier": "Q21573359",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png",
       "images": [
         {
@@ -1890,15 +1920,44 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cristina_Fiore"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/Cristina-Fiore-Vi%C3%B1uales-380477738689513"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Cristina-Fiore-Viñuales-380477738689513"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/fiore_cristina"
+        },
+        {
+          "note": "website",
+          "url": "http://www.fioresenadora.com/"
         }
       ],
       "name": "María Cristina del Valle Fiore Viñuales",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "María Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fiore Viñuales, María Cristina del Valle"
     },
     {
@@ -3305,6 +3364,7 @@
       "sort_name": "Mirkin, Beatriz Graciela"
     },
     {
+      "birth_date": "1954-07-01",
       "contact_details": [
         {
           "type": "email",
@@ -3324,6 +3384,12 @@
       "gender": "male",
       "given_name": "Pedro Guillermo Ángel",
       "id": "867fff17-9f4d-467b-acf4-80406b66f13b",
+      "identifiers": [
+        {
+          "identifier": "Q6069019",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/379.png",
       "images": [
         {
@@ -3332,11 +3398,87 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pedro_Guillermo_Ángel_Guastavino"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pemoguastavino"
         }
       ],
       "name": "Pedro Guillermo Ángel Guastavino",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pedro Guillermo Ángel Guastavino",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Guastavino, Pedro Guillermo Ángel"
     },
     {
@@ -3773,6 +3915,7 @@
       "sort_name": "Durango, Norma Haydée"
     },
     {
+      "birth_date": "1956-06-21",
       "contact_details": [
         {
           "type": "email",
@@ -3788,13 +3931,37 @@
       "gender": "male",
       "given_name": "Ernesto Félix",
       "id": "9dfc4306-da49-4491-831e-cb4a2defe1b6",
+      "identifiers": [
+        {
+          "identifier": "Q27640049",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/459.png",
       "images": [
         {
           "url": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/459.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ernesto_Félix_Martínez"
+        }
+      ],
       "name": "Ernesto Félix Martínez",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Ernesto Félix Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ernesto Félix Martínez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Martínez, Ernesto Félix"
     },
     {
@@ -6349,6 +6516,7 @@
       "sort_name": "Itúrrez de Cappellini, Ada Rosa Del Valle"
     },
     {
+      "birth_date": "1965-08-02",
       "contact_details": [
         {
           "type": "email",
@@ -6368,6 +6536,12 @@
       "gender": "female",
       "given_name": "María Inés",
       "id": "fac042de-4931-40f9-b51a-6c8aeb7248a1",
+      "identifiers": [
+        {
+          "identifier": "Q6003917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/435.png",
       "images": [
         {
@@ -6376,11 +6550,67 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Inés_Pilatti_Vergara"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pilattivergara"
         }
       ],
       "name": "María Inés Pilatti Vergara",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pilatti Vergara, María Inés"
     },
     {
