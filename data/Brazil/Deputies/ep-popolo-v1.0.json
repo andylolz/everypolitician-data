@@ -3007,6 +3007,10 @@
         {
           "identifier": "5830459",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28465691",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178905.jpg",
@@ -3015,7 +3019,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178905.jpg"
         }
       ],
-      "name": "FABIO GARCIA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Fábio_Garcia"
+        }
+      ],
+      "name": "FABIO GARCIA",
+      "other_names": [
+        {
+          "name": "Fábio Garcia",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Fábio Garcia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Fábio Garcia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -7285,6 +7311,10 @@
         {
           "identifier": "5830744",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28836863",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160602.jpg",
@@ -7293,7 +7323,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160602.jpg"
         }
       ],
-      "name": "ARNALDO JORDY"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Arnaldo_Jordy"
+        }
+      ],
+      "name": "ARNALDO JORDY",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Arnaldo Jordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Arnaldo Jordy",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -12376,6 +12424,10 @@
         {
           "identifier": "5830471",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25175969",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/167722.jpg",
@@ -12384,7 +12436,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/167722.jpg"
         }
       ],
-      "name": "MARCOS ROGÉRIO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Marcos_Rogério_da_Silva_Brito"
+        }
+      ],
+      "name": "MARCOS ROGÉRIO",
+      "other_names": [
+        {
+          "name": "Marcos Rogério da Silva Brito",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Marcos Rogério da Silva Brito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Marcos Rogério da Silva Brito",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-03",
@@ -12670,6 +12744,10 @@
         {
           "identifier": "5830502",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27999231",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178910.jpg",
@@ -12678,7 +12756,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178910.jpg"
         }
       ],
-      "name": "JOAQUIM PASSARINHO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Joaquim_Passarinho"
+        }
+      ],
+      "name": "JOAQUIM PASSARINHO",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Joaquim Passarinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Joaquim Passarinho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -14332,6 +14428,10 @@
         {
           "identifier": "5830675",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23892781",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/166401.jpg",
@@ -14340,7 +14440,34 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/166401.jpg"
         }
       ],
-      "name": "NILSON LEITÃO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nilson_Leitão"
+        }
+      ],
+      "name": "NILSON LEITÃO",
+      "other_names": [
+        {
+          "name": "Nilson Leitão",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nilson Leitão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nilson Leitão",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nilson Leitão",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -15277,6 +15404,7 @@
       ]
     },
     {
+      "birth_date": "1960-12-14",
       "contact_details": [
         {
           "type": "email",
@@ -15289,11 +15417,16 @@
       ],
       "email": "dep.delegadoedermauro@camara.leg.br",
       "gender": "male",
+      "given_name": "Éder",
       "id": "475b78c5-1bb4-442d-8128-3a1821decbfc",
       "identifiers": [
         {
           "identifier": "5830498",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20942015",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178908.jpg",
@@ -15302,7 +15435,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178908.jpg"
         }
       ],
-      "name": "DELEGADO ÉDER MAURO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Éder_Mauro"
+        }
+      ],
+      "name": "DELEGADO ÉDER MAURO",
+      "other_names": [
+        {
+          "name": "Éder Mauro Cardoso Barra",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Éder Mauro Cardoso Barra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Éder Mauro Cardoso Barra",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -18840,6 +18995,10 @@
         {
           "identifier": "5830699",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28973788",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/67312.jpg",
@@ -18848,7 +19007,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/67312.jpg"
         }
       ],
-      "name": "JÚLIA MARINHO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Júlia_Marinho"
+        }
+      ],
+      "name": "JÚLIA MARINHO",
+      "other_names": [
+        {
+          "name": "Júlia Marinho",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Júlia Marinho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Júlia Marinho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-09-05",
@@ -22750,6 +22931,7 @@
       ]
     },
     {
+      "birth_date": "1984-04-11",
       "contact_details": [
         {
           "type": "email",
@@ -22767,15 +22949,56 @@
         {
           "identifier": "5830489",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20046183",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178961.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178961.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Plenário_do_Congresso_-_Diploma_Mulher-Cidadã_Bertha_Lutz_2015_(16601033840).jpg"
         }
       ],
-      "name": "SHÉRIDAN"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Shéridan"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Shéridan_Oliveira"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sheridan4545"
+        },
+        {
+          "note": "instagram",
+          "url": "deputadasheridan"
+        }
+      ],
+      "name": "SHÉRIDAN",
+      "other_names": [
+        {
+          "name": "Shéridan Esterfany Oliveira de Anchieta",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Shéridan Esterfany Oliveira de Anchieta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Shéridan Esterfany Oliveira de Anchieta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-11-29",
@@ -23302,11 +23525,16 @@
       ],
       "email": "dep.terezacristina@camara.leg.br",
       "gender": "female",
+      "given_name": "Tereza",
       "id": "71bd82b7-67ed-401f-b0e4-c9226f1f85a0",
       "identifiers": [
         {
           "identifier": "5830732",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10380562",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178901.jpg",
@@ -23315,7 +23543,35 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178901.jpg"
         }
       ],
-      "name": "TEREZA CRISTINA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tereza_Cristina"
+        }
+      ],
+      "name": "TEREZA CRISTINA",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tereza Cristina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tereza Cristina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tereza Cristina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tereza Cristina",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -26337,6 +26593,7 @@
       ]
     },
     {
+      "birth_date": "1957-12-09",
       "contact_details": [
         {
           "type": "email",
@@ -26349,11 +26606,16 @@
       ],
       "email": "dep.helioleite@camara.leg.br",
       "gender": "male",
+      "given_name": "Hélio",
       "id": "82bf154c-0f6f-4bee-a228-2d59eddbf5c4",
       "identifiers": [
         {
           "identifier": "5830299",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21290297",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178909.jpg",
@@ -26362,7 +26624,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178909.jpg"
         }
       ],
-      "name": "HÉLIO LEITE"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Hélio_Leite"
+        }
+      ],
+      "name": "HÉLIO LEITE",
+      "other_names": [
+        {
+          "name": "Hélio Leite",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Hélio Leite",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Hélio Leite",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-08-04",
@@ -34892,6 +35176,10 @@
         {
           "identifier": "5830394",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27862748",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178911.jpg",
@@ -34900,7 +35188,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178911.jpg"
         }
       ],
-      "name": "SIMONE MORGADO"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Simone_Morgado"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Simone_Morgado"
+        }
+      ],
+      "name": "SIMONE MORGADO",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Simone Morgado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Simone Morgado",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -40167,6 +40477,10 @@
         {
           "identifier": "5830628",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28465690",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178903.jpg",
@@ -40175,7 +40489,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178903.jpg"
         }
       ],
-      "name": "ADILTON SACHETTI"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Adilton_Sachetti"
+        }
+      ],
+      "name": "ADILTON SACHETTI",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Adilton Sachetti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Adilton Sachetti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1989-08-27",
@@ -40815,6 +41147,7 @@
       ]
     },
     {
+      "birth_date": "1964-09-22",
       "contact_details": [
         {
           "type": "email",
@@ -40832,6 +41165,10 @@
         {
           "identifier": "5830370",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9582639",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178968.jpg",
@@ -40840,7 +41177,60 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178968.jpg"
         }
       ],
-      "name": "ADELSON BARRETO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Adelson_Barreto"
+        }
+      ],
+      "name": "ADELSON BARRETO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Adelson Barreto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-02-23",
@@ -48400,6 +48790,7 @@
       ]
     },
     {
+      "birth_date": "1969-10-17",
       "contact_details": [
         {
           "type": "email",
@@ -48412,11 +48803,16 @@
       ],
       "email": "dep.lindomargarcon@camara.leg.br",
       "gender": "male",
+      "given_name": "Lindomar",
       "id": "e3c11ef8-5e2d-46a8-a0e8-80d872969405",
       "identifiers": [
         {
           "identifier": "5830734",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q10318585",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141483.jpg",
@@ -48425,7 +48821,59 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141483.jpg"
         }
       ],
-      "name": "LINDOMAR GARÇON"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Lindomar_Garçon"
+        }
+      ],
+      "name": "LINDOMAR GARÇON",
+      "other_names": [
+        {
+          "name": "Lindomar Garçon",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lindomar Garçon",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -50777,6 +51225,10 @@
         {
           "identifier": "5830646",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20045828",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178959.jpg",
@@ -50785,7 +51237,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178959.jpg"
         }
       ],
-      "name": "HIRAN GONÇALVES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Hiran_Gonçalves"
+        }
+      ],
+      "name": "HIRAN GONÇALVES",
+      "other_names": [
+        {
+          "name": "Hiran Gonçalves",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Hiran Gonçalves",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Hiran Gonçalves",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
