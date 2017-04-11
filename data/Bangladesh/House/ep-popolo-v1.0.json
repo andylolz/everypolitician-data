@@ -2750,6 +2750,29 @@
     },
     {
       "gender": "male",
+      "id": "295f3cae-580f-4ee5-9326-999230a5fb8e",
+      "identifiers": [
+        {
+          "identifier": "10134",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/Sanowar_Hossain.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/Sanowar_Hossain.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2409"
+        }
+      ],
+      "name": "Md. Sanowar Hossain"
+    },
+    {
+      "gender": "male",
       "id": "29e94cfd-1cc7-466c-ba07-3f5b0b44567f",
       "identifiers": [
         {
@@ -4385,10 +4408,10 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english?id=879"
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2123"
         }
       ],
-      "name": "Surangit Sengupta"
+      "name": "Suranjit Sengupta"
     },
     {
       "gender": "male",
@@ -8044,22 +8067,6 @@
         }
       ],
       "name": "Md. Ayeen Uddin"
-    },
-    {
-      "id": "89ce2606-fff3-49cf-bd8e-7863c08f9c93",
-      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/Sanowar_Hossain.jpg",
-      "images": [
-        {
-          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/Sanowar_Hossain.jpg"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2409"
-        }
-      ],
-      "name": "Md. Sanowar Hossain"
     },
     {
       "gender": "male",
@@ -19059,6 +19066,7 @@
     },
     {
       "area_id": "area/gaibandha",
+      "end_date": "2016-12-31",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "party/bangladesh_awami_league",
       "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
@@ -19375,6 +19383,19 @@
       "on_behalf_of_id": "party/bangladesh_awami_league",
       "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
       "person_id": "29275317-9e53-49d8-8373-aa3ac13c6904",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
+        }
+      ]
+    },
+    {
+      "area_id": "area/tangail",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/bangladesh_awami_league",
+      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
+      "person_id": "295f3cae-580f-4ee5-9326-999230a5fb8e",
       "role": "member",
       "sources": [
         {
@@ -20376,6 +20397,20 @@
       "on_behalf_of_id": "party/independent",
       "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
       "person_id": "49d32d59-d55d-4da2-94ef-194ed37e3750",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
+        }
+      ]
+    },
+    {
+      "area_id": "area/sunamganj",
+      "end_date": "2017-02-05",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/bangladesh_awami_league",
+      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
+      "person_id": "4a6b35de-aab8-4094-b30a-7520e408173b",
       "role": "member",
       "sources": [
         {
@@ -22781,19 +22816,6 @@
       "on_behalf_of_id": "party/bangladesh_awami_league",
       "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
       "person_id": "89c051d1-42c5-4e68-b374-254aae0d6432",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
-        }
-      ]
-    },
-    {
-      "area_id": "area/tangail",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/bangladesh_awami_league",
-      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
-      "person_id": "89ce2606-fff3-49cf-bd8e-7863c08f9c93",
       "role": "member",
       "sources": [
         {
