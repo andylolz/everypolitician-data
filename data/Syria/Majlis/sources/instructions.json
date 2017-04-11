@@ -20,6 +20,20 @@
       }
     },
     {
+      "file": "morph/wikidata.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/syria-council-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "type": "wikidata",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
