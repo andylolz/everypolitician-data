@@ -14885,15 +14885,72 @@
         {
           "identifier": "1023",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04yf8lb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1521977",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.na.gov.pk/uploads/images/NA%20s177.jpg",
       "images": [
         {
           "url": "http://www.na.gov.pk/uploads/images/NA%20s177.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ghulam_Noor_Rabbani_Khar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ghulam_Noor_Rabbani_Khar"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ghulam_Noor_Rabbani_Khar"
         }
       ],
       "name": "Ghulam Rabbani Khar",
+      "other_names": [
+        {
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ghulam Noor Rabbani Khar",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Malik Muhammad Yar Khan"
     },
     {
