@@ -29,7 +29,7 @@
       },
       {
         "lang": "ru",
-        "name": "Внутренняя македонская революционная организация — Демократическая партия за македонское национальное единство",
+        "name": "ВМРО-ДПМНЕ",
         "note": "multilingual"
       },
       {
@@ -190,6 +190,11 @@
       {
         "lang": "ru",
         "name": "Внутренняя Македонская Революционная Организация — Демократическая Партия Македонского Национального Единства",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Внутренняя македонская революционная организация — Демократическая партия за македонское национальное единство",
         "note": "multilingual"
       },
       {
@@ -1183,7 +1188,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -1208,7 +1213,7 @@
       },
       {
         "lang": "ca",
-        "name": "Independent",
+        "name": "polític independent",
         "note": "multilingual"
       },
       {
@@ -1695,6 +1700,16 @@
         "lang": "mk",
         "name": "непартиски политичар",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
       }
     ]
   },
@@ -1839,6 +1854,11 @@
       {
         "lang": "pt",
         "name": "Partido da Acção Democrática",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Strana demokratické akce",
         "note": "multilingual"
       },
       {
