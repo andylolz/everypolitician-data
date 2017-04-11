@@ -26169,6 +26169,12 @@
           "scheme": "wikidata"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hans-Ulrich_Bigler"
+        }
+      ],
       "name": "Hans-Ulrich Bigler",
       "other_names": [
         {
@@ -48362,6 +48368,12 @@
         {
           "identifier": "Q18018671",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Beat_Walti_2007.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Beat_Walti_2007.jpg"
         }
       ],
       "links": [
@@ -71872,7 +71884,7 @@
       "links": [
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Walter_Müller_(FDP)"
+          "url": "https://de.wikipedia.org/wiki/Walter_Müller_(Politiker,_1948)"
         }
       ],
       "name": "Walter Müller",
