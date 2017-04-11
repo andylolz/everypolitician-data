@@ -1803,6 +1803,7 @@
       "name": "SOFIA PROFÍRIO KASSUNGO MUSSONGUELA"
     },
     {
+      "gender": "male",
       "id": "39917d93-40c1-444e-9512-419d8f78f5ed",
       "identifiers": [
         {
@@ -3038,6 +3039,7 @@
       "name": "NUNO DOS ANJOS CALDAS ALBINO"
     },
     {
+      "gender": "male",
       "id": "768dcbae-9acf-4372-bffd-43248e35bcb9",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=joao.francisco&companyId=10132",
       "images": [
@@ -3606,6 +3608,7 @@
       "name": "ALFREDO JUNQUEIRA DALA"
     },
     {
+      "gender": "male",
       "id": "9e6d2556-5448-4316-94c2-99d5ea07877d",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=anibal.melo&companyId=10132",
       "images": [
@@ -3668,6 +3671,7 @@
       "name": "NICOLAU SAPALO"
     },
     {
+      "gender": "male",
       "id": "9f54268e-4c35-45ee-83ce-d9e193b0e27d",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=job.capapinha&companyId=10132",
       "images": [
@@ -4460,6 +4464,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "c41dc63e-b33e-44e8-9389-fd39d82a21c9",
       "identifiers": [
         {
@@ -5080,6 +5085,7 @@
       "name": "PALMIRA DOMINGOS PASCOAL BERNARDO"
     },
     {
+      "gender": "male",
       "id": "e4802012-d3e1-45eb-a0e6-42d600ddb024",
       "identifiers": [
         {
@@ -5723,6 +5729,7 @@
       "name": "CARLOS TIAGO KANDANDA"
     },
     {
+      "gender": "male",
       "id": "fa7e698e-fa35-4969-8c8d-c159c675a13a",
       "image": "http://www.parlamento.ao/image/user_portrait?screenName=americo.cuononoca&companyId=10132",
       "images": [
@@ -7365,7 +7372,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.parlamento.ao"
+      "http://www.parlamento.ao",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
