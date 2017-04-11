@@ -13255,6 +13255,10 @@
           "url": "https://fr.wikipedia.org/wiki/Wouter_Beke"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Wouter_Beke"
+        },
+        {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Wouter_Beke"
         },
@@ -17016,6 +17020,11 @@
       ],
       "name": "Patrick Dewael",
       "other_names": [
+        {
+          "lang": "an",
+          "name": "Patrick Dewael",
+          "note": "multilingual"
+        },
         {
           "lang": "ca",
           "name": "Patrick Dewael",
