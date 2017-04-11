@@ -1575,6 +1575,10 @@
           "url": "https://it.wikipedia.org/wiki/Jeroen_Dijsselbloem"
         },
         {
+          "note": "Wikipedia (itwikiquote)",
+          "url": "https://itwikiquote.wikipedia.org/wiki/Jeroen_Dijsselbloem"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/예룬_데이셀블룸"
         },
@@ -2877,6 +2881,9 @@
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/cf98b96b-0525-46f3-993f-3193b4e890bd.jpg?itok=zJu75clB"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RaymondKnops2012.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/485713082094997504/yGVwrJ8M.jpeg"
@@ -4303,6 +4310,10 @@
           "url": "https://en.wikipedia.org/wiki/Esther_Ouwehand"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Esther_Ouwehand"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Esther_Ouwehand"
         },
@@ -5580,6 +5591,10 @@
         {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Marks_Rite"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Марк_Руте"
         },
         {
           "note": "Wikipedia (mr)",
@@ -6939,6 +6954,11 @@
       "name": "Frans Timmermans",
       "other_names": [
         {
+          "lang": "an",
+          "name": "Frans Timmermans",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Франс Тимерманс",
           "note": "multilingual"
@@ -7143,7 +7163,7 @@
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/d9b01a9f-78b3-4abd-b16d-db21907fa7bd.jpg?itok=aqHrqYsV"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/JesseKlaver.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jesse_Klaver.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/821403769133039617/tCaQ0HLZ.jpg"
@@ -7849,6 +7869,10 @@
         {
           "note": "Wikipedia (nlwikiquote)",
           "url": "https://nlwikiquote.wikipedia.org/wiki/Fleur_Agema"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Fleur_Agema"
         },
         {
           "note": "Wikipedia (zea)",
@@ -9018,6 +9042,10 @@
           "url": "https://pl.wikipedia.org/wiki/Tunahan_Kuzu"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Tunahan_Kuzu"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Tunahan_Kuzu"
         },
@@ -9060,6 +9088,11 @@
         },
         {
           "lang": "nl",
+          "name": "Tunahan Kuzu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Tunahan Kuzu",
           "note": "multilingual"
         },
@@ -9946,6 +9979,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mark_Harbers"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mark_Harbers"
@@ -14108,6 +14145,10 @@
           "url": "https://ru.wikipedia.org/wiki/Тиме,_Марианне"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Marianne_Thieme"
+        },
+        {
           "note": "Wikipedia (zea)",
           "url": "https://zea.wikipedia.org/wiki/Marianne_Thieme"
         },
@@ -15478,6 +15519,9 @@
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/fb723153-0b16-48b5-a6ff-b6312c1bdab1.jpg?itok=cyL3-6J5"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Vera-Bergkamp.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/836502599411122177/BmT28lS6.jpg"
         }
       ],
@@ -16472,6 +16516,10 @@
           "url": "https://pl.wikipedia.org/wiki/Khadija_Arib"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Khadija_Arib"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/khadijaArib"
         }
@@ -16511,6 +16559,11 @@
         {
           "lang": "fr",
           "name": "Khadija Arib",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ח'דיג'ה עריב",
           "note": "multilingual"
         },
         {
@@ -16842,6 +16895,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kees_van_der_Staaij"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Kees_van_der_Staaij"
         },
         {
           "note": "Wikipedia (zea)",
@@ -20227,6 +20284,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "140934944",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 3107 6615",
           "scheme": "isni"
         },
@@ -20260,6 +20321,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Eric_Smaling"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Eric_Smaling"
         },
         {
           "note": "Wikipedia (en)",
@@ -22066,7 +22131,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/基爾特·威爾德斯"
+          "url": "https://zh.wikipedia.org/wiki/海尔特·维尔德斯"
         },
         {
           "note": "twitter",
@@ -22205,6 +22270,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ie",
+          "name": "Geert Wilders",
+          "note": "multilingual"
+        },
+        {
           "lang": "io",
           "name": "Geert Wilders",
           "note": "multilingual"
@@ -22231,6 +22301,11 @@
         },
         {
           "lang": "li",
+          "name": "Geert Wilders",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
           "name": "Geert Wilders",
           "note": "multilingual"
         },
@@ -22305,6 +22380,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sr",
+          "name": "Герт Вилдерс",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Geert Wilders",
           "note": "multilingual"
@@ -22322,6 +22402,11 @@
         {
           "lang": "uk",
           "name": "Герт Вілдерс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Geert Wilders",
           "note": "multilingual"
         },
         {
@@ -23756,6 +23841,10 @@
           "url": "https://pl.wikipedia.org/wiki/Gert-Jan_Segers"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Gert-Jan_Segers"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/gertjansegers"
         }
@@ -23910,6 +23999,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Henk_Krol"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Henk_Krol"
         },
         {
           "note": "twitter",
@@ -25099,7 +25192,7 @@
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/70d927c6-d08f-4cba-90ae-1926b2bac3f2.jpg?itok=6hUNdtOk"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/D66_campagne_voor_associatieverdrag_Oekraïne_(25638948010)_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Salima-Belhaj.jpg"
         }
       ],
       "links": [
