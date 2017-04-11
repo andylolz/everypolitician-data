@@ -9207,8 +9207,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/1564065542/Olaia-xgaliza.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Olaia_Fernández_Davila.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Olaia_Fernández_Davila.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/1564065542/Olaia-xgaliza.jpg"
         }
@@ -26655,6 +26658,9 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/182_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Lidia_Guinart_2017.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/851193171530960896/IR1VTpUc.jpg"
         }
       ],
@@ -26685,6 +26691,11 @@
         {
           "lang": "ca",
           "name": "Lídia Guinart Moreno",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lidia Guinart",
           "note": "multilingual"
         },
         {
