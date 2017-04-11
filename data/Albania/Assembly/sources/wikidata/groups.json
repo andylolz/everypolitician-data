@@ -198,6 +198,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hu",
+        "name": "Albán Demokrata Párt",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "Parti démocratique d'albanie",
         "note": "multilingual"
@@ -310,6 +315,21 @@
       {
         "lang": "nl",
         "name": "Democratische Partij van Albanie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "PD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "PDSh",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Partia Demokratike e Shqipërisë",
         "note": "multilingual"
       }
     ],
@@ -520,6 +540,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hu",
+        "name": "Albán Demokrata Párt",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "Parti démocratique d'albanie",
         "note": "multilingual"
@@ -632,6 +657,21 @@
       {
         "lang": "nl",
         "name": "Democratische Partij van Albanie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "PD",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "PDSh",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Partia Demokratike e Shqipërisë",
         "note": "multilingual"
       }
     ],
@@ -859,6 +899,11 @@
       {
         "lang": "ko",
         "name": "알바니아 사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Сацыялістычная партыя Албаніі",
         "note": "multilingual"
       },
       {
@@ -1194,6 +1239,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "be",
+        "name": "Сацыялістычная партыя Албаніі",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "PSSH",
         "note": "multilingual"
@@ -1416,6 +1466,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hu",
+        "name": "Szocialista Mozgalom az Integrációért",
+        "note": "multilingual"
+      },
+      {
         "lang": "de",
         "name": "Lëvizja Socialiste për Integrim",
         "note": "multilingual"
@@ -1544,6 +1599,11 @@
       {
         "lang": "es",
         "name": "Movimiento Socialista por la Integración",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Szocialista Mozgalom az Integrációért",
         "note": "multilingual"
       },
       {
@@ -1962,7 +2022,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -1987,7 +2047,7 @@
       },
       {
         "lang": "ca",
-        "name": "Independent",
+        "name": "polític independent",
         "note": "multilingual"
       },
       {
@@ -2473,6 +2533,16 @@
       {
         "lang": "mk",
         "name": "непартиски политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
         "note": "multilingual"
       }
     ]
