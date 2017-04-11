@@ -26,14 +26,8 @@
       }
     },
     {
-      "file": "morph/terms.csv",
-      "type": "term",
-      "create": {
-        "file": "morph/terms.csv",
-        "from": "morph",
-        "scraper": "tmtmtmtm/czech-chamber-of-deputies",
-        "query": "SELECT * FROM terms ORDER BY id"
-      }
+      "file": "manual/terms.csv",
+      "type": "term"
     },
     {
       "file": "gender-balance/results.csv",
