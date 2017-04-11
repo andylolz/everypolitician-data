@@ -22823,6 +22823,10 @@
           "url": "https://ie.wikipedia.org/wiki/Oleh_Lyashko"
         },
         {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ოლეგ_ლიაშკო"
+        },
+        {
           "note": "Wikipedia (oc)",
           "url": "https://oc.wikipedia.org/wiki/Olèh_Liashkò"
         },
@@ -29391,6 +29395,11 @@
       ],
       "name": "Курило Віталій Семенович",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Vitalii Semenovych Kurylo",
+          "note": "multilingual"
+        },
         {
           "lang": "pl",
           "name": "Witalij Kuryło",
