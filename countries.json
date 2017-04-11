@@ -5605,20 +5605,28 @@
         "slug": "Landtag",
         "sources_directory": "data/Liechtenstein/Landtag/sources",
         "popolo": "data/Liechtenstein/Landtag/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d072088e4f9610a077ceebd6d7e9ac7f38ef9e77/data/Liechtenstein/Landtag/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5edd9ac1cd6cb0a0204cd197e030c83107eb05f9/data/Liechtenstein/Landtag/ep-popolo-v1.0.json",
         "names": "data/Liechtenstein/Landtag/names.csv",
-        "lastmod": "1486862508",
-        "person_count": 51,
-        "sha": "d072088e4f9610a077ceebd6d7e9ac7f38ef9e77",
+        "lastmod": "1491927658",
+        "person_count": 62,
+        "sha": "5edd9ac1cd6cb0a0204cd197e030c83107eb05f9",
         "legislative_periods": [
           {
-            "end_date": "2017",
+            "id": "term/2017",
+            "name": "2017-",
+            "start_date": "2017-02-05",
+            "slug": "2017",
+            "csv": "data/Liechtenstein/Landtag/term-2017.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5edd9ac1cd6cb0a0204cd197e030c83107eb05f9/data/Liechtenstein/Landtag/term-2017.csv"
+          },
+          {
+            "end_date": "2017-02-04",
             "id": "term/2013",
             "name": "2013-2017",
             "start_date": "2013-03-27",
             "slug": "2013",
             "csv": "data/Liechtenstein/Landtag/term-2013.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8551ecbfeaea75244b23734a9db92268e128bde8/data/Liechtenstein/Landtag/term-2013.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/971b2cc693f8ff97c8f7d0da6b2221fe616effc8/data/Liechtenstein/Landtag/term-2013.csv"
           },
           {
             "end_date": "2013-02-02",
@@ -5627,7 +5635,7 @@
             "start_date": "2009-03-18",
             "slug": "2009",
             "csv": "data/Liechtenstein/Landtag/term-2009.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a999e943117d72b36fdb955bd52effa4031a3ee/data/Liechtenstein/Landtag/term-2009.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/971b2cc693f8ff97c8f7d0da6b2221fe616effc8/data/Liechtenstein/Landtag/term-2009.csv"
           },
           {
             "end_date": "2009-02-07",
@@ -5636,10 +5644,10 @@
             "start_date": "2005-04-14",
             "slug": "2005",
             "csv": "data/Liechtenstein/Landtag/term-2005.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a999e943117d72b36fdb955bd52effa4031a3ee/data/Liechtenstein/Landtag/term-2005.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/971b2cc693f8ff97c8f7d0da6b2221fe616effc8/data/Liechtenstein/Landtag/term-2005.csv"
           }
         ],
-        "statement_count": 2993,
+        "statement_count": 3205,
         "type": "unicameral legislature"
       }
     ]
