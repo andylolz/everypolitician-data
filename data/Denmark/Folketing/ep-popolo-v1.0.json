@@ -25591,6 +25591,10 @@
           "url": "https://en.wikipedia.org/wiki/Lars_Christian_Lilleholt"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Lars_Christian_Lilleholt"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Lars_Christian_Lilleholt"
         },
@@ -35803,6 +35807,10 @@
       "id": "b0df7c54-463c-4e3a-94eb-73f21c135973",
       "identifiers": [
         {
+          "identifier": "210214",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "lajobo",
           "scheme": "everypolitician_legacy"
         },
@@ -37606,6 +37614,10 @@
       "given_name": "Pia",
       "id": "b6308bbe-e659-4247-824b-b671aebb55f7",
       "identifiers": [
+        {
+          "identifier": "165576",
+          "scheme": "dnf"
+        },
         {
           "identifier": "dfpikj",
           "scheme": "everypolitician_legacy"
@@ -48298,6 +48310,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "6462",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "1903",
           "scheme": "europarlmep"
         },
@@ -51553,6 +51569,9 @@
       "images": [
         {
           "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Merete%20Riisager/Merete_Riisager_133.jpg.ashx"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Kandidatfoto,_Folketingsvalg_2015.jpg"
         }
       ],
       "links": [
