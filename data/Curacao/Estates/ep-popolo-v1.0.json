@@ -1250,7 +1250,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -1275,7 +1275,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -1446,6 +1446,11 @@
         {
           "lang": "zh-my",
           "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "независен политичар",
           "note": "multilingual"
         },
         {
@@ -1751,6 +1756,21 @@
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
           "note": "multilingual"
         }
       ]
@@ -2396,7 +2416,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2010-01-22",
+      "end_date": "2010-08-27",
       "id": "Q22980293",
       "identifiers": [
         {
@@ -2405,24 +2425,11 @@
         }
       ],
       "name": "Curaçao general election, 2010",
-      "start_date": "2010-01-22"
-    },
-    {
-      "classification": "general election",
-      "end_date": "2010-08-27",
-      "id": "Q27333102",
-      "identifiers": [
-        {
-          "identifier": "Q27333102",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Eilandsraadverkiezingen Curaçao 2010",
       "start_date": "2010-08-27"
     },
     {
       "classification": "general election",
-      "end_date": "2012-10-19",
+      "end_date": "2012-10-05",
       "id": "Q22980252",
       "identifiers": [
         {
@@ -2431,7 +2438,7 @@
         }
       ],
       "name": "Curaçao general election, 2012",
-      "start_date": "2012-10-19"
+      "start_date": "2012-10-05"
     },
     {
       "classification": "legislative period",

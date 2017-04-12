@@ -11,6 +11,11 @@
         "lang": "en",
         "name": "Curaçao general election, 1999",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 1999",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -28,6 +33,16 @@
       {
         "lang": "en",
         "name": "Curaçao general election, 2003",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Eilandsraadverkiezingen Curaçao 2003",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2003",
         "note": "multilingual"
       }
     ],
@@ -47,6 +62,11 @@
         "lang": "en",
         "name": "Curaçao general election, 1995",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 1995",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -64,6 +84,16 @@
       {
         "lang": "en",
         "name": "Curaçao general election, 2007",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Eilandsraadverkiezingen Curaçao 2007",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2007",
         "note": "multilingual"
       }
     ],
@@ -93,11 +123,18 @@
         "lang": "zh",
         "name": "2012年庫拉索大選",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2012",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "2012-10-19"
-    ]
+      "2012-10-05"
+    ],
+    "followed_by": "Curaçao general election, 2016",
+    "office": "member of the Estates of Curaçao"
   },
   "Q22980293": {
     "identifiers": [
@@ -116,11 +153,27 @@
         "lang": "en",
         "name": "Curaçao general election, 2010",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2010",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Eilandsraadverkiezingen Curaçao 2010",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Eilandsraadverkiezingen Curaçao 2010",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "2010-01-22"
-    ]
+      "2010-08-27"
+    ],
+    "office": "member of the Estates of Curaçao"
   },
   "Q27031449": {
     "identifiers": [
@@ -154,11 +207,18 @@
         "lang": "en-gb",
         "name": "Curaçao general election, 2016",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2016",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2016-10-05"
-    ]
+    ],
+    "follows": "Curaçao general election, 2012",
+    "office": "member of the Estates of Curaçao"
   },
   "Q27316729": {
     "identifiers": [
@@ -176,6 +236,11 @@
       {
         "lang": "nl",
         "name": "Statenverkiezingen Curaçao 2002",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2002",
         "note": "multilingual"
       }
     ],
@@ -200,33 +265,15 @@
         "lang": "nl",
         "name": "Statenverkiezingen Curaçao 2006",
         "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בקוראסאו 2006",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2006-01-27"
-    ]
-  },
-  "Q27333102": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q27333102"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "Eilandsraadverkiezingen Curaçao 2010",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Eilandsraadverkiezingen Curaçao 2010",
-        "note": "multilingual"
-      }
-    ],
-    "dates": [
-      "2010-08-27"
     ]
   }
 }
