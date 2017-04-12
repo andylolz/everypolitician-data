@@ -16427,6 +16427,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Li Keqiang",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Ли Къцян",
           "note": "multilingual"
@@ -16502,6 +16507,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Li Keqiang",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "لی که چیانگ",
           "note": "multilingual"
@@ -16513,6 +16523,11 @@
         },
         {
           "lang": "fr",
+          "name": "Li Keqiang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Li Keqiang",
           "note": "multilingual"
         },
@@ -18846,6 +18861,7 @@
     {
       "birth_date": "1955-11",
       "family_name": "Yang",
+      "gender": "male",
       "id": "53b498ac-2958-49b8-85ef-0f36ba27050e",
       "identifiers": [
         {
@@ -18863,12 +18879,21 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yang_Chongyong"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/杨崇勇"
         }
       ],
       "name": "杨崇勇",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Yang Chongyong",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "杨崇勇",
@@ -33956,6 +33981,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Wang Qishan",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Wang Qishan",
           "note": "multilingual"
@@ -33986,12 +34016,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Wang Qishan",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "وانگ چی شان",
           "note": "multilingual"
         },
         {
           "lang": "fr",
+          "name": "Wang Qishan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Wang Qishan",
           "note": "multilingual"
         },
@@ -43810,6 +43850,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Zhang Yang",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Zhang Yang",
           "note": "multilingual"
@@ -43825,7 +43870,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Zhang Yang",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Zhang Yang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Zhang Yang",
           "note": "multilingual"
         },
@@ -44198,6 +44253,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Chang Wanquan",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Chang Wanquan",
           "note": "multilingual"
@@ -44218,7 +44278,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Chang Wanquan",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Chang Wanquan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Chang Wanquan",
           "note": "multilingual"
         },
