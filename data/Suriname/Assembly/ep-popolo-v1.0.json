@@ -2555,9 +2555,16 @@
       "images": [
         {
           "url": "http://www.dna.sr/media/95459/adhin.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Minster_of_Education.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ашвин_Адхин"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Ashwin_Adhin"
@@ -2607,6 +2614,11 @@
         {
           "lang": "bar",
           "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ашвин Адхин",
           "note": "multilingual"
         },
         {
