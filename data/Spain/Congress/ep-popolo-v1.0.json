@@ -39745,7 +39745,7 @@
       "sort_name": "Villanova Rueda, Joaquín"
     },
     {
-      "birth_date": "1958",
+      "birth_date": "1958-12-29",
       "contact_details": [
         {
           "type": "email",
@@ -45662,6 +45662,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Gabriel_Echávarri"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Gabriel_Echávarri"
         },
         {
           "note": "twitter",
