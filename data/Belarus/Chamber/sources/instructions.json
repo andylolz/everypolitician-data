@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/official.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/belarus-house-of-representatives-2016",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://house.gov.by/ru",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
