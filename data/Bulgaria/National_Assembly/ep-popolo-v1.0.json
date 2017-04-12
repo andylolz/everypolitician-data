@@ -2554,6 +2554,10 @@
           "url": "https://ru.wikipedia.org/wiki/Пырванов,_Георгий"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Georgi_Parvanov"
+        },
+        {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Georgi_Parvanov"
         },
@@ -2842,6 +2846,11 @@
         {
           "lang": "ru",
           "name": "Пырванов, Георгий Седефчов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Georgi Parvanov",
           "note": "multilingual"
         },
         {
@@ -7979,6 +7988,9 @@
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/2306.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Доц._Кирчо_Атанасов.jpg"
         }
       ],
       "links": [
@@ -8006,6 +8018,11 @@
         {
           "lang": "en",
           "name": "KIRCHO GEORGIEV ATANASOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kircho Atanasov",
           "note": "multilingual"
         }
       ]
