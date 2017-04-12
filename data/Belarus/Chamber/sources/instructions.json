@@ -6,14 +6,6 @@
       "type": "membership"
     },
     {
-      "file": "manual/overrides.csv",
-      "type": "person",
-      "merge": {
-        "incoming_field": "id",
-        "existing_field": "id"
-      }
-    },
-    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
