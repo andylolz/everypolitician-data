@@ -1741,6 +1741,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Damdin_Khayankhyarvaa.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Damdin_Khayankhyarvaa.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (mn)",
@@ -6031,6 +6037,7 @@
       ],
       "email": "batchimegm@parliament.mn",
       "family_name": "Migeddorj",
+      "gender": "female",
       "given_name": "BATCHIMEG",
       "id": "dcd67e5c-1d3f-43ec-81ac-4ac155dde61d",
       "identifiers": [
@@ -6047,6 +6054,9 @@
       "images": [
         {
           "url": "http://www.parliament.mn/en/files/images/1106-7864481.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/BatchimegM.jpg"
         }
       ],
       "links": [
