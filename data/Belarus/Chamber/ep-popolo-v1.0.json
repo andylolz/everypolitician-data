@@ -48,7 +48,7 @@
       "name": "ZOZULYA ALEKSANDR",
       "other_names": [
         {
-          "name": "Alaksandr Zazula",
+          "name": "Аляксандр Іванавіч Зазуля",
           "note": "alternate"
         },
         {
@@ -497,7 +497,7 @@
       "name": "KLIMOVICH NATALIA",
       "other_names": [
         {
-          "name": "Natalla Klimowicz",
+          "name": "Наталля Анатольеўна Клімовіч",
           "note": "alternate"
         },
         {
@@ -543,18 +543,112 @@
       "name": "KULESH STANISLAV"
     },
     {
+      "birth_date": "1977-07-06",
+      "gender": "female",
+      "given_name": "Iryna",
       "id": "1a1a8a32-3731-4467-8665-f49c9f5ce99f",
+      "identifiers": [
+        {
+          "identifier": "/m/0g9ss4y",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q256650",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_231685.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_231685.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Iryna_Darafiejeva.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Ірына_Аркадзьеўна_Дарафеева"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Irina_Dorofeeva"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Irina_Dorofeeva"
+        },
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Irina_Darafejeva"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дорофеева,_Ирина_Аркадьевна"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Ирина_Дорофејева"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/irinadorofeevaofficialpage"
+        },
+        {
+          "note": "website",
+          "url": "http://www.irinadorofeeva.com/"
         }
       ],
       "name": "DOROFEEVA IRINA",
       "other_names": [
         {
+          "name": "Irina Dorofeeva",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Ірына Дарафеева",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Irina Dorofeeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Irina Dorofeeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Irina Dorofeeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Irina Darafejeva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irina Dorofeeva",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Дорофеева Ирина Аркадьевна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дорофеева, Ирина Аркадьевна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ирина Дорофејева",
           "note": "multilingual"
         }
       ]
@@ -600,7 +694,7 @@
       "name": "RASSOKHA NIKOLAI",
       "other_names": [
         {
-          "name": "Mikałaj Rasocha",
+          "name": "Мікалай Фёдаравіч Рассоха",
           "note": "alternate"
         },
         {
@@ -708,11 +802,16 @@
       ],
       "email": "konoplich@house.gov.by",
       "gender": "male",
+      "given_name": "Syarhey",
       "id": "1d283ac6-cede-4ee9-a3ca-e619377ada56",
       "identifiers": [
         {
           "identifier": "35991",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9336219",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://house.gov.by/files/images/konoplich.jpg",
@@ -721,7 +820,38 @@
           "url": "http://house.gov.by/files/images/konoplich.jpg"
         }
       ],
-      "name": "KONOPLICH SERGEY"
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Сяргей_Міхайлавіч_Канопліч"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Siarhiej_Kanoplicz"
+        }
+      ],
+      "name": "KONOPLICH SERGEY",
+      "other_names": [
+        {
+          "name": "Sergey Konoplich",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Сяргей Міхайлавіч Канопліч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergey Konoplich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Siarhiej Kanoplicz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-10-05",
@@ -1058,6 +1188,10 @@
         {
           "identifier": "35939",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26897632",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://house.gov.by/files/images/bojko.jpg",
@@ -1066,7 +1200,34 @@
           "url": "http://house.gov.by/files/images/bojko.jpg"
         }
       ],
-      "name": "BOIKO ANATOLY"
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Анатоль_Сцяпанавіч_Бойка"
+        }
+      ],
+      "name": "BOIKO ANATOLY",
+      "other_names": [
+        {
+          "name": "Anatol Boyka",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Анатоль Сцяпанавіч Бойка",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anatol Boyka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anatol Boyka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "2638f005-2cf8-4eef-a88f-ea01f3c6ba97",
@@ -1266,7 +1427,7 @@
       "name": "VALYUSHITSKY VIKTOR",
       "other_names": [
         {
-          "name": "Wiktar Waluszycki",
+          "name": "Віктар Іванавіч Валюшыцкі",
           "note": "alternate"
         },
         {
@@ -2116,7 +2277,7 @@
       "name": "GUMINSKY VIKTOR",
       "other_names": [
         {
-          "name": "Wiktar Huminski",
+          "name": "Віктар Аляксандравіч Гумінскі",
           "note": "alternate"
         },
         {
@@ -2813,7 +2974,7 @@
       "name": "KLESHCHUK INESSA",
       "other_names": [
         {
-          "name": "Inesa Klaszczuk",
+          "name": "Інеса Анатольеўна Кляшчук",
           "note": "alternate"
         },
         {
@@ -2863,18 +3024,50 @@
       ]
     },
     {
+      "birth_date": "1979-10-29",
+      "gender": "female",
       "id": "57c52566-f728-41a1-89de-eeef33be17e8",
+      "identifiers": [
+        {
+          "identifier": "Q26897752",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_245956.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_245956.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Ганна_Анатолеўна_Канапацкая"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Канопацкая,_Анна_Анатольевна"
+        }
+      ],
       "name": "KANOPATSKAJA ANNA",
       "other_names": [
         {
+          "name": "Ганна Анатолеўна Канапацкая",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Ганна Анатолеўна Канапацкая",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Канопацкая Анна Анатольевна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Канопацкая, Анна Анатольевна",
           "note": "multilingual"
         }
       ]
@@ -3123,18 +3316,68 @@
       ]
     },
     {
+      "birth_date": "1968-09-11",
+      "gender": "male",
+      "given_name": "Ihar",
       "id": "62b6ec0d-2e8b-4ce0-8515-55ab80f86356",
+      "identifiers": [
+        {
+          "identifier": "24264399",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3919972",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_944655.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_944655.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Ігар_Аляксандравіч_Марзалюк"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Ігар_Марзалюк"
+        },
+        {
+          "note": "Wikipedia (bewikiquote)",
+          "url": "https://bewikiquote.wikipedia.org/wiki/Ігар_Марзалюк"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Марзалюк,_Игорь_Александрович"
+        }
+      ],
       "name": "MARZALJUK IGOR",
       "other_names": [
         {
+          "name": "Ігар Аляксандравіч Марзалюк",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Ігар Аляксандравіч Марзалюк",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Ігар Марзалюк",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Марзалюк Игорь Александрович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Марзалюк, Игорь Александрович",
           "note": "multilingual"
         }
       ]
@@ -3259,7 +3502,7 @@
       "name": "ROZGANOV ALEKSANDR",
       "other_names": [
         {
-          "name": "Alaksandr Razhanau",
+          "name": "Аляксандр Іванавіч Разганаў",
           "note": "alternate"
         },
         {
@@ -4251,7 +4494,7 @@
       "name": "SAMOSEIKO NIKOLAI",
       "other_names": [
         {
-          "name": "Mikałaj Samasiejka",
+          "name": "Мікалай Леанідавіч Самасейка",
           "note": "alternate"
         },
         {
@@ -4450,7 +4693,7 @@
       "name": "ZHURAVSKAYA VALENTINA",
       "other_names": [
         {
-          "name": "Walancina Żurauska",
+          "name": "Валянціна Іосіфаўна Жураўская",
           "note": "alternate"
         },
         {
@@ -5275,7 +5518,7 @@
       "name": "SHOSTAK PETR",
       "other_names": [
         {
-          "name": "Piotr Szostak",
+          "name": "Пётр Мікалаевіч Шостак",
           "note": "alternate"
         },
         {
@@ -5791,7 +6034,7 @@
       "name": "ZHMAILIK VALERY",
       "other_names": [
         {
-          "name": "Waleryj Żmajlik",
+          "name": "Валерый Аляксеевіч Жмайлік",
           "note": "alternate"
         },
         {
@@ -6256,18 +6499,169 @@
       ]
     },
     {
+      "birth_date": "1982-04-29",
+      "family_name": "Bahdanovich",
+      "gender": "male",
+      "given_name": "Alyaksandr",
       "id": "fa8aa4a8-c2d6-479a-8685-a9eeae303f17",
+      "identifiers": [
+        {
+          "identifier": "/m/04jb81m",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q669664",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://house.gov.by/images/storage/person/000683_753721.jpg",
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_753721.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Аляксандр_Віктаравіч_Багдановіч"
+        },
+        {
+          "note": "Wikipedia (be_x_old)",
+          "url": "https://be_x_old.wikipedia.org/wiki/Аляксандар_Багдановіч"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aliaksandr_Bahdanovich"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Aliaxandr_Bahdanovich"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Aljaksandr_Bahdanovitš"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Aliaksandr_Bahdanovich"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Aljaksandr_Bahdanovič"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/알리악산드르_바흐다노비치"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Aliaksandr_Bahdanovich"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Alaksandr_Bahdanowicz"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Aliaksandr_Bahdanovich"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Богданович,_Александр_Викторович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Aljaksandr_Bahdanovitj"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Богданович_Олександр_Вікторович"
+        }
+      ],
       "name": "BOGDANOVICH ALEKSANDR",
       "other_names": [
         {
+          "name": "Aliaksandr Bahdanovich",
+          "note": "alternate"
+        },
+        {
+          "lang": "be",
+          "name": "Аляксандр Віктаравіч Багдановіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Аляксандар Багдановіч",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Aljaksandr Bahdanovitš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Aljaksandr Bahdanovič",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "알리악산드르 바흐다노비치",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Alaksandr Bahdanowicz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Aliaksandr Bahdanovich",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Викторович Богданович",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Богданович Александр Викторович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Aliaksandr Bahdanovitj",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Богданович Олександр Вікторович",
           "note": "multilingual"
         }
       ]

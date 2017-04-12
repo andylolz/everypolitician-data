@@ -1,13 +1,13 @@
 {
   "people": {
     "count": 192,
-    "wikidata": 32,
+    "wikidata": 38,
     "latest_term": {
       "count": 110,
-      "wikidata": 5,
+      "wikidata": 9,
       "contacts": {
         "email": 20,
-        "facebook": 0,
+        "facebook": 1,
         "twitter": 0
       }
     }
