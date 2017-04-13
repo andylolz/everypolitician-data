@@ -6,6 +6,10 @@ module Source
       super.each do |r|
         # if the source has no ID, generate one
         r[:id] = r[:name].downcase.gsub(/\s+/, '_') if r[:id].to_s.empty?
+
+        # remap any group_id fields to our local UUID for them
+        # For now we silently ignore any that are not mapped.
+        r[:group_id] = partymapping.fetch(r[:group_id], r[:group_id])
       end
     end
 
@@ -53,6 +57,10 @@ module Source
       @map ||= UuidMapFile.new(id_map_file)
     end
 
+    def group_mapfile
+      @gmap ||= UuidMapFile.new(group_id_map_file)
+    end
+
     private
 
     def write_id_map_file!(id_map)
@@ -61,6 +69,14 @@ module Source
 
     def id_map_file
       filename.parent.parent + 'idmap/' + filename.basename
+    end
+
+    def group_id_map_file
+      filename.parent.parent + 'idmap/group/' + filename.basename
+    end
+
+    def partymapping
+      @pmap ||= group_mapfile.mapping
     end
   end
 end
