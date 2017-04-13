@@ -1860,6 +1860,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Convención de Todos los Basotos",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hant",
           "name": "全巴索托大會黨",
           "note": "multilingual"
@@ -2021,6 +2026,11 @@
         {
           "lang": "ja",
           "name": "民主会議",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Congreso Democrático",
           "note": "multilingual"
         }
       ]
