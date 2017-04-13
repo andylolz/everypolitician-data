@@ -707,6 +707,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Theo_Zurenuoc"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Theo_Zurenuoc"
         }
       ],
       "name": "Hon. Theodore Zurenouc, MP",
@@ -742,6 +746,11 @@
         },
         {
           "lang": "nn",
+          "name": "Theo Zurenuoc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Theo Zurenuoc",
           "note": "multilingual"
         },
@@ -2252,6 +2261,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/陳仲民"
+        },
+        {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Julius_Chan"
         }
       ],
       "name": "Hon. Julius Chan, MP",
@@ -2313,6 +2326,11 @@
         {
           "lang": "ja",
           "name": "ジュリアス・チャン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nan",
+          "name": "Julius Chan",
           "note": "multilingual"
         },
         {
@@ -4213,7 +4231,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -4238,7 +4256,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -4725,6 +4743,16 @@
           "lang": "mk",
           "name": "непартиски политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
         }
       ]
     },
@@ -5051,13 +5079,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Народна національна партія Конгресу",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Congrès national populaire",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "People's National Congress",
+          "name": "Народний національний конгрес",
           "note": "multilingual"
         },
         {
