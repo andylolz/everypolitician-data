@@ -8848,7 +8848,7 @@
           "value": "carmechacon"
         }
       ],
-      "death_date": "2017-04-07",
+      "death_date": "2017-04-09",
       "family_name": "Chacón Piqueras",
       "gender": "female",
       "given_name": "Carme",
@@ -8891,10 +8891,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Carme_Chacón_2009_(cropped).jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Carme_Chacón,_13-07-2010.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Carme_Chacón_2009_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Carme_Chacón,_13-07-2010.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/845550473587429376/I6hf5FBp.jpg"
@@ -8948,6 +8948,10 @@
         {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/کارمه_چاکن"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Carme_Chacón"
         },
         {
           "note": "Wikipedia (fr)",
@@ -9063,6 +9067,11 @@
         {
           "lang": "fa",
           "name": "کارمه چاکن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Carme Chacón",
           "note": "multilingual"
         },
         {
@@ -43234,17 +43243,17 @@
       "name": "Fernando Martínez-Maillo Toribio",
       "other_names": [
         {
-          "name": "Fernando Martínez Maillo",
+          "name": "Fernando Martínez Maillo Toribio",
           "note": "alternate"
         },
         {
           "lang": "en",
-          "name": "Fernando Martínez Maillo",
+          "name": "Fernando Martínez Maillo Toribio",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Fernando Martínez Maillo",
+          "name": "Fernando Martínez Maillo Toribio",
           "note": "multilingual"
         },
         {
