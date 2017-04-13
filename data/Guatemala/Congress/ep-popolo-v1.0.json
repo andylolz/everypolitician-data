@@ -776,11 +776,16 @@
       ],
       "email": "Lrabbe@congreso.gob.gt",
       "gender": "male",
+      "given_name": "Luis",
       "id": "1b061e3b-029f-4325-be27-485dd0c49efd",
       "identifiers": [
         {
           "identifier": "257",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22279821",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.gt/manager/images/693A024E-7E19-012B-784D-07D26EC8B4A2.jpg",
@@ -789,7 +794,29 @@
           "url": "http://www.congreso.gob.gt/manager/images/693A024E-7E19-012B-784D-07D26EC8B4A2.jpg"
         }
       ],
-      "name": "Luis Armando Rabbé Tejada"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Luis_Rabbé"
+        }
+      ],
+      "name": "Luis Armando Rabbé Tejada",
+      "other_names": [
+        {
+          "name": "Luis Rabbé",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Luis Rabbé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Luis Rabbé",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-03-25",
@@ -1155,6 +1182,10 @@
         {
           "identifier": "216",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28837292",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.gt/manager/images/FE188AB1-9B5E-F60B-274A-07BF2D9DD394.jpg",
@@ -1163,7 +1194,29 @@
           "url": "http://www.congreso.gob.gt/manager/images/FE188AB1-9B5E-F60B-274A-07BF2D9DD394.jpg"
         }
       ],
-      "name": "Oscar Stuardo Chinchilla Guzmán"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Óscar_Chinchilla"
+        }
+      ],
+      "name": "Oscar Stuardo Chinchilla Guzmán",
+      "other_names": [
+        {
+          "name": "Óscar Chinchilla",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Óscar Chinchilla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Óscar Chinchilla",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-08-19",
@@ -2363,11 +2416,28 @@
       ],
       "email": "jalejos@congreso.gob.gt",
       "gender": "male",
+      "given_name": "José",
       "id": "5cb60b8c-4dec-456f-87a9-6ddc6315ac92",
       "identifiers": [
         {
           "identifier": "2",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0000 3501 7540",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n95025019",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "16470523",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1225278",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.gt/manager/images/2D0CE5CF-4AA6-7B3D-88A5-52180B8BAFA0.jpg",
@@ -2376,7 +2446,35 @@
           "url": "http://www.congreso.gob.gt/manager/images/2D0CE5CF-4AA6-7B3D-88A5-52180B8BAFA0.jpg"
         }
       ],
-      "name": "José Roberto Alejos Cámbara"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/José_Roberto_Alejos_Cámbara"
+        }
+      ],
+      "name": "José Roberto Alejos Cámbara",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "José Roberto Alejos Cámbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "José Roberto Alejos Cámbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "José Roberto Alejos Cámbara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "José Roberto Alejos Cámbara",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-01-25",
@@ -3937,15 +4035,76 @@
         {
           "identifier": "42",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/047pr8j",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "86216074",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7038554",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.gt/manager/images/A4639C31-9331-3808-A156-072EF2D35E55.jpg",
       "images": [
         {
           "url": "http://www.congreso.gob.gt/manager/images/A4639C31-9331-3808-A156-072EF2D35E55.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nineth_Montenegro.jpg"
         }
       ],
-      "name": "Nineth Varenca Montenegro Cottom"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nineth_Montenegro"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nineth_Montenegro"
+        }
+      ],
+      "name": "Nineth Varenca Montenegro Cottom",
+      "other_names": [
+        {
+          "name": "Nineth Montenegro",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nineth Montenegro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-08-09",
@@ -5977,14 +6136,61 @@
       ],
       "email": "snmoranr@congreso.gob.gt",
       "gender": "female",
+      "given_name": "Sandra",
       "id": "f5617b45-8fd2-4a0b-ac82-1a4c2947ab9e",
+      "identifiers": [
+        {
+          "identifier": "Q22279284",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.gob.gt/manager/images/507B2031-5834-BCCE-DA46-6AB075C13816.jpg",
       "images": [
         {
           "url": "http://www.congreso.gob.gt/manager/images/507B2031-5834-BCCE-DA46-6AB075C13816.jpg"
         }
       ],
-      "name": "Sandra Nineth Morán Reyes"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Sandra_Morán"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sandra_Morán"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sandra_Morán"
+        }
+      ],
+      "name": "Sandra Nineth Morán Reyes",
+      "other_names": [
+        {
+          "name": "Sandra Morán",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sandra Morán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sandra Morán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sandra Morán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sandra Morán",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-08-15",
@@ -6174,20 +6380,50 @@
       ],
       "email": "mtaracena@congreso.gob.gt",
       "gender": "male",
+      "given_name": "Mario",
       "id": "fd932ba4-5695-4066-8808-96e98329786a",
       "identifiers": [
         {
           "identifier": "164",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23304498",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.gob.gt/manager/images/ADFB7D80-3539-FC2C-78C7-0749F9834B50.jpg",
       "images": [
         {
           "url": "http://www.congreso.gob.gt/manager/images/ADFB7D80-3539-FC2C-78C7-0749F9834B50.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mario-Taracena.jpg"
         }
       ],
-      "name": "Mario Taracena Díaz-Sol"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mario_Taracena"
+        }
+      ],
+      "name": "Mario Taracena Díaz-Sol",
+      "other_names": [
+        {
+          "name": "Mario Taracena",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mario Taracena",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mario Taracena",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-05-23",
