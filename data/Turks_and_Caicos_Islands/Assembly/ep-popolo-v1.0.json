@@ -533,6 +533,10 @@
       ]
     },
     {
+      "id": "93adfd10-fc8b-4f83-bfa4-632c47b00106",
+      "name": "Ralph Higgs"
+    },
+    {
       "gender": "female",
       "given_name": "Josephine",
       "id": "962d6976-377d-4758-bb66-bb47638aeef5",
@@ -575,6 +579,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "96e4f713-b13c-4486-a008-eaa8f91f4810",
+      "name": "Karen Evadne Malcolm"
     },
     {
       "birth_date": "1951-10-01",
@@ -666,7 +674,13 @@
           "url": "https://lh4.googleusercontent.com/IA9vUNEdwPtI0xwgibrG6rdWNtit3T7Y1OXcE5s8jBU=w721-h577-no"
         }
       ],
-      "name": "Goldray McMillin Ewing"
+      "name": "Goldray McMillin Ewing",
+      "other_names": [
+        {
+          "name": "Goldray McMillin Ewing",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -758,7 +772,13 @@
           "url": "https://lh4.googleusercontent.com/-mH5dgfvpBSQ/VE_tpwDjnnI/AAAAAAAAAO8/HDTcLcdIiH0/w721-h577-no/hon-george-lightbourne.JPG"
         }
       ],
-      "name": "George Alexander Lightbourne"
+      "name": "George Alexander Lightbourne",
+      "other_names": [
+        {
+          "name": "George Alexander Lightbourne",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -776,6 +796,10 @@
         }
       ],
       "name": "Vaden Delroy Williams"
+    },
+    {
+      "id": "f188a8bc-cab6-4571-be6a-224a7e76434e",
+      "name": "Douglas Parnell"
     },
     {
       "gender": "female",
@@ -893,6 +917,7 @@
     "sources": [
       "http://www.gov.tc/",
       "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2012",
+      "https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands_general_election,_2016",
       "http://wikidata.org/"
     ]
   },
@@ -924,8 +949,29 @@
       ]
     },
     {
+      "area_id": "area/five_cays_(providenciales)",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "0c52f20d-9d0b-45c9-82cc-e95b9c1dec1c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
       "area_id": "area/grand_turk_south",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "115262f1-45e6-4a17-ae36-86c31bcdd57d",
+      "role": "member"
+    },
+    {
+      "area_id": "area/grand_turk_south_and_saltcay",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "115262f1-45e6-4a17-ae36-86c31bcdd57d",
@@ -947,6 +993,19 @@
     {
       "area_id": "area/all_island_district",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "3a810402-92a4-405f-af00-7a80690c5217",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
+      "area_id": "area/all_island_district",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "3a810402-92a4-405f-af00-7a80690c5217",
@@ -997,8 +1056,34 @@
       ]
     },
     {
+      "area_id": "area/all_island_district",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pnp",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "4a001394-beb2-440f-a803-c1a2cc325b5c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/hon-charles-washington-misick/"
+        }
+      ]
+    },
+    {
       "area_id": "area/the_bight",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pnp",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "51931afb-361d-4d2a-9873-c692d6e79b78",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/hon-porsha-stubbs-smith/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/the_bight_(providenciales)",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/pnp",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "51931afb-361d-4d2a-9873-c692d6e79b78",
@@ -1023,6 +1108,14 @@
       ]
     },
     {
+      "area_id": "area/middle_and_north_caicos",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "93adfd10-fc8b-4f83-bfa4-632c47b00106",
+      "role": "member"
+    },
+    {
       "area_id": "area/all_island_district",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/pdm",
@@ -1034,6 +1127,27 @@
           "url": "https://www.gov.tc/index.php/government/house-of-assembly"
         }
       ]
+    },
+    {
+      "area_id": "area/all_island_district",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "962d6976-377d-4758-bb66-bb47638aeef5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
+      "area_id": "area/all_island_district",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "96e4f713-b13c-4486-a008-eaa8f91f4810",
+      "role": "member"
     },
     {
       "area_id": "area/all_island_district",
@@ -1049,8 +1163,34 @@
       ]
     },
     {
+      "area_id": "area/all_island_district",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "996f23f4-03c3-4ac6-b491-14919226d7bd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
       "area_id": "area/blue_hills",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "99a7157d-5b4c-46d7-a194-67f5e80da4fa",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
+      "area_id": "area/blue_hills_(providenciales)",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/pdm",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "99a7157d-5b4c-46d7-a194-67f5e80da4fa",
@@ -1088,8 +1228,34 @@
       ]
     },
     {
+      "area_id": "area/leeward_(providenciales)",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pnp",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "bc90e735-84e6-4d8b-a8aa-05aa8c95c07f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/hon-akierra-mary-deanne-missick/"
+        }
+      ]
+    },
+    {
       "area_id": "area/grand_turk_north",
       "legislative_period_id": "term/2012",
+      "on_behalf_of_id": "party/pnp",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "dc1c0d1b-bcd4-483a-8be0-9bd8754e35f4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/hon-george-alexander-lightbourne/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/grand_turk_north",
+      "legislative_period_id": "term/2016",
       "on_behalf_of_id": "party/pnp",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
       "person_id": "dc1c0d1b-bcd4-483a-8be0-9bd8754e35f4",
@@ -1114,6 +1280,27 @@
       ]
     },
     {
+      "area_id": "area/wheeland_(providenciales)",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "ed3f718c-b43a-4f6a-9558-6b329aae764d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.gov.tc/index.php/government/house-of-assembly"
+        }
+      ]
+    },
+    {
+      "area_id": "area/cheshire_hall_and_richmond_hill_(providenciales)",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pdm",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "f188a8bc-cab6-4571-be6a-224a7e76434e",
+      "role": "member"
+    },
+    {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/unknown",
       "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
@@ -1125,6 +1312,14 @@
           "url": "https://www.gov.tc/index.php/government/house-of-assembly"
         }
       ]
+    },
+    {
+      "area_id": "area/south_caicos",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/pnp",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "person_id": "f6d8ace4-f66c-4260-a906-b17938a4dfdf",
+      "role": "member"
     },
     {
       "area_id": "area/middle_and_north_caicos",
@@ -1200,6 +1395,13 @@
       ],
       "name": "Turks and Caicos Islands general election, 2016",
       "start_date": "2016-12-15"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2016",
+      "name": "3rd Assembly",
+      "organization_id": "4a7295b6-f9e2-4cca-ac01-19f21e00bda9",
+      "start_date": "2016-12-15"
     }
   ],
   "areas": [
@@ -1214,13 +1416,28 @@
       "type": "constituency"
     },
     {
+      "id": "area/blue_hills_(providenciales)",
+      "name": "Blue Hills (Providenciales)",
+      "type": "constituency"
+    },
+    {
       "id": "area/cheshire_hall_and_richmond_hill",
       "name": "Cheshire Hall and Richmond Hill",
       "type": "constituency"
     },
     {
+      "id": "area/cheshire_hall_and_richmond_hill_(providenciales)",
+      "name": "Cheshire Hall and Richmond Hill (Providenciales)",
+      "type": "constituency"
+    },
+    {
       "id": "area/five_cays",
       "name": "Five Cays",
+      "type": "constituency"
+    },
+    {
+      "id": "area/five_cays_(providenciales)",
+      "name": "Five Cays (Providenciales)",
       "type": "constituency"
     },
     {
@@ -1234,8 +1451,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/grand_turk_south_and_saltcay",
+      "name": "Grand Turk South and Saltcay",
+      "type": "constituency"
+    },
+    {
       "id": "area/leeward",
       "name": "Leeward",
+      "type": "constituency"
+    },
+    {
+      "id": "area/leeward_(providenciales)",
+      "name": "Leeward (Providenciales)",
       "type": "constituency"
     },
     {
@@ -1254,8 +1481,18 @@
       "type": "constituency"
     },
     {
+      "id": "area/the_bight_(providenciales)",
+      "name": "The Bight (Providenciales)",
+      "type": "constituency"
+    },
+    {
       "id": "area/wheeland",
       "name": "Wheeland",
+      "type": "constituency"
+    },
+    {
+      "id": "area/wheeland_(providenciales)",
+      "name": "Wheeland (Providenciales)",
       "type": "constituency"
     }
   ]
