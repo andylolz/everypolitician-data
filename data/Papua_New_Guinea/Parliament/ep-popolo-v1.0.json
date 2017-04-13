@@ -971,6 +971,10 @@
         {
           "identifier": "Bob-Dadae",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28647870",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/uploads/profiles/bdadae.png",
@@ -979,7 +983,47 @@
           "url": "http://www.parliament.gov.pg/uploads/profiles/bdadae.png"
         }
       ],
-      "name": "Hon. Bob Dadae, MP"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Dadae"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bob_Dadae"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Bob_Dadae"
+        }
+      ],
+      "name": "Hon. Bob Dadae, MP",
+      "other_names": [
+        {
+          "name": "Bob Dadae",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Bob Dadae",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-02-02",
@@ -2668,6 +2712,7 @@
       ]
     },
     {
+      "birth_date": "1965-02-13",
       "contact_details": [
         {
           "type": "email",
@@ -2683,20 +2728,299 @@
         }
       ],
       "email": "oneillp13@gmail.com",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "74506308-784a-4935-a4a1-d5c49d6d177e",
       "identifiers": [
         {
+          "identifier": "biography/Peter-ONeill",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "Peter-ONeill",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02r43qp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q57892",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/uploads/profiles/oneill.png",
       "images": [
         {
           "url": "http://www.parliament.gov.pg/uploads/profiles/oneill.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Peter_O'Neil-Prime_Minister_of_Papua_New_Guinea.jpg"
         }
       ],
-      "name": "Hon. Peter O’Neill, MP"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Peter_O’Neill"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/پیتر_اونیل"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ピーター・オニール"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/피터_오닐"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Petrus_O'Neill"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Peter_O’Neill"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (qu)",
+          "url": "https://qu.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/О’Нил,_Питер"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (srwikinews)",
+          "url": "https://srwikinews.wikipedia.org/wiki/Категорија:Питер_О'Нил"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ปีเตอร์_โอนีล"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Peter_O'Neill"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Пітер_О'Ніл"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/彼得·奥尼尔"
+        }
+      ],
+      "name": "Hon. Peter O’Neill, MP",
+      "other_names": [
+        {
+          "name": "Peter O'Neill",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Peter O’Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "پیتر اونیل",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ピーター・オニール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "피터 오닐",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Petrus O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "О’Нил, Питер",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "ปีเตอร์ โอนีล",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Peter O'Neill",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Пітер О'Ніл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "彼得·奥尼尔",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2987,6 +3311,10 @@
         {
           "identifier": "Peter-Ipatas",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28967536",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/uploads/profiles/PIpatas_Resized.jpg",
@@ -2995,7 +3323,29 @@
           "url": "http://www.parliament.gov.pg/uploads/profiles/PIpatas_Resized.jpg"
         }
       ],
-      "name": "Hon. Peter Ipatas, MP"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Ipatas"
+        }
+      ],
+      "name": "Hon. Peter Ipatas, MP",
+      "other_names": [
+        {
+          "name": "Peter Ipatas",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Peter Ipatas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Ipatas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
