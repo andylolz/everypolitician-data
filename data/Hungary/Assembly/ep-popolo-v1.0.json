@@ -4864,6 +4864,9 @@
       "images": [
         {
           "url": "http://www.parlament.hu/kepv/kepek/f026.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Földi_László_(2).jpg"
         }
       ],
       "links": [
@@ -10377,7 +10380,7 @@
       ],
       "email": "duro.dora@parlament.hu",
       "gender": "female",
-      "given_name": "Dóra",
+      "given_name": "Dora",
       "id": "a94f8ca3-ebe6-4a6a-9d49-bd47d8f04b3b",
       "identifiers": [
         {
@@ -17918,6 +17921,11 @@
         {
           "lang": "pt",
           "name": "Partido Socialista Húngaro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Hungariako Alderdi Sozialista",
           "note": "multilingual"
         },
         {
