@@ -3143,6 +3143,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Mette Frederiksen",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Mette Frederiksen",
           "note": "multilingual"
@@ -3164,6 +3169,11 @@
         },
         {
           "lang": "es",
+          "name": "Mette Frederiksen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ext",
           "name": "Mette Frederiksen",
           "note": "multilingual"
         },
@@ -4205,6 +4215,10 @@
         {
           "identifier": "Anders-Fogh-Rasmussen",
           "scheme": "quora"
+        },
+        {
+          "identifier": "40447",
+          "scheme": "scope"
         },
         {
           "identifier": "035113626",
@@ -15793,6 +15807,10 @@
         {
           "identifier": "n79113849",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "14811",
+          "scheme": "scope"
         },
         {
           "identifier": "54144814314549353342",
@@ -28690,6 +28708,10 @@
         {
           "identifier": "n87811440",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "36169",
+          "scheme": "scope"
         },
         {
           "identifier": "5817028",
@@ -51396,6 +51418,7 @@
     },
     {
       "birth_date": "1932-02-28",
+      "death_date": "2014-09-15",
       "gender": "male",
       "given_name": "Erling",
       "id": "f402a997-1798-497c-b2ca-993b93a1ef7e",
