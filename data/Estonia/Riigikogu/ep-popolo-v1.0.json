@@ -4993,6 +4993,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jukukalle.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Jukukalle.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (commons)",
@@ -27192,6 +27198,11 @@
         {
           "lang": "ko",
           "name": "에스토니아 국민보수당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Popular Conservador",
           "note": "multilingual"
         }
       ]
