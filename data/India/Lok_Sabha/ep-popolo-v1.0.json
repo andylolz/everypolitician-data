@@ -5299,6 +5299,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Rahul Gandhi",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Рахул Ганди",
           "note": "multilingual"
@@ -5369,12 +5374,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Rahul Gandhi",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Rahul Gandhi",
           "note": "multilingual"
         },
         {
           "lang": "fr",
+          "name": "Rahul Gandhi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Rahul Gandhi",
           "note": "multilingual"
         },
@@ -21139,6 +21154,10 @@
           "url": "https://en.wikipedia.org/wiki/Keshav_Prasad_Maurya"
         },
         {
+          "note": "Wikipedia (gu)",
+          "url": "https://gu.wikipedia.org/wiki/કેશવપ્રસાદ_શ્યામલાલ_મૌર્ય"
+        },
+        {
           "note": "Wikipedia (hi)",
           "url": "https://hi.wikipedia.org/wiki/केशव_प्रसाद_मौर्य"
         }
@@ -26946,6 +26965,9 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4667.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Www.drmanojrajoria.in.jpg"
         }
       ],
       "links": [
@@ -27513,6 +27535,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Narendra Modi",
+          "note": "multilingual"
+        },
+        {
           "lang": "az",
           "name": "Narendra Modi",
           "note": "multilingual"
@@ -27614,6 +27641,11 @@
         },
         {
           "lang": "eu",
+          "name": "Narendra Modi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ext",
           "name": "Narendra Modi",
           "note": "multilingual"
         },
@@ -39511,6 +39543,9 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4701.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Gollapudi.jpg"
         }
       ],
       "links": [
@@ -54896,6 +54931,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Hema Malini",
+          "note": "multilingual"
+        },
+        {
           "lang": "az",
           "name": "Hema Malini",
           "note": "multilingual"
@@ -54946,6 +54986,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ext",
+          "name": "Hema Malini",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "هما مالینی",
           "note": "multilingual"
@@ -54957,6 +55002,11 @@
         },
         {
           "lang": "fr",
+          "name": "Hema Malini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Hema Malini",
           "note": "multilingual"
         },
