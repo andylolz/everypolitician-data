@@ -1232,6 +1232,7 @@
         }
       ],
       "email": "congreso@congreso.gob.gt",
+      "gender": "male",
       "id": "2ddcbbb3-4cee-46b0-9640-a261633aaa8e",
       "image": "http://www.congreso.gob.gt/manager/images/B87F0CCA-39F8-2C7F-6B2B-799123B77943.jpg",
       "images": [
@@ -3907,6 +3908,7 @@
         }
       ],
       "email": "congreso@congreso.gob.gt",
+      "gender": "male",
       "id": "a0b27f85-f9a9-4fe0-86c9-edc007ed7f27",
       "image": "http://www.congreso.gob.gt/manager/images/8BEF33BA-EF5F-29B9-7C7C-7985A357F415.jpg",
       "images": [
@@ -4233,6 +4235,7 @@
         }
       ],
       "email": "congreso@congreso.gob.gt",
+      "gender": "male",
       "id": "b63c3a16-9562-4107-8563-951cb88797eb",
       "image": "http://www.congreso.gob.gt/manager/images/945062C1-7FFE-E8F8-E5F9-79957B68B688.jpg",
       "images": [
@@ -4482,6 +4485,7 @@
         }
       ],
       "email": "congreso@congreso.gob.gt",
+      "gender": "male",
       "id": "c0ef7734-df0d-4d15-b841-84696ba9e59c",
       "image": "http://www.congreso.gob.gt/manager/images/0F5D475C-E3A0-D03F-21A8-799B60FE4338.jpg",
       "images": [
@@ -4606,6 +4610,7 @@
         }
       ],
       "email": "lcsamayoar@congreso.gob.gt",
+      "gender": "female",
       "id": "c545e6b7-1f33-49b6-b6b4-1f257cd0d667",
       "image": "http://www.congreso.gob.gt/manager/resourceAssets/iconSet/userDefault1.jpg",
       "images": [
@@ -6222,6 +6227,7 @@
         }
       ],
       "email": "aavelasquez@congreso.gob.gt",
+      "gender": "male",
       "id": "ff8b6835-5753-4cbb-9485-af5688abe049",
       "image": "http://www.congreso.gob.gt/manager/images/0AEAF229-B152-262F-0269-E348B20C6A8B.jpg",
       "images": [
@@ -7018,7 +7024,8 @@
   ],
   "meta": {
     "sources": [
-      "http://www.congreso.gob.gt/legislaturas.php"
+      "http://www.congreso.gob.gt/legislaturas.php",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
