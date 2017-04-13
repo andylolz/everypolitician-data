@@ -37962,12 +37962,115 @@
     {
       "classification": "party",
       "id": "party/alternativa_popolare_-_centristi_per_l'europa",
-      "name": "Alternativa Popolare - Centristi per l'Europa"
+      "identifiers": [
+        {
+          "identifier": "Q18844195",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
+      "name": "Alternativa Popolare - Centristi per l'Europa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Popular Area",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Area Popolare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "대중구역",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "民眾地區",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "民众地区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Area Popolare",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/articolo_1_-_movimento_democratico_e_progressista",
-      "name": "Articolo 1 - Movimento democratico e progressista"
+      "identifiers": [
+        {
+          "identifier": "Q28841838",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.democraticiprogressisti.it"
+        }
+      ],
+      "name": "Articolo 1 - Movimento democratico e progressista",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Movimento democratico e progressista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Democrats and Progressives",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Articolo 1 - Movimento Democratico e Progressista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Demócratas y Progresistas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Articolo 1 - Movimento democratici e progressisti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Democratici e progressisti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Articolo 1",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Movimento Democratico e Progressista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "MDP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Democratici e Progressisti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
