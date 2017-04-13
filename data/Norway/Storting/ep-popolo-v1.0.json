@@ -26303,6 +26303,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Trygve Lie",
+          "note": "multilingual"
+        },
+        {
           "lang": "az",
           "name": "Trüqve Li",
           "note": "multilingual"
@@ -26389,6 +26394,11 @@
         },
         {
           "lang": "eu",
+          "name": "Trygve Lie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ext",
           "name": "Trygve Lie",
           "note": "multilingual"
         },
@@ -68645,6 +68655,12 @@
         {
           "identifier": "Q11972393",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gotfred_Johan_Hølvold.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Gotfred_Johan_Hølvold.jpg"
         }
       ],
       "links": [
