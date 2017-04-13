@@ -6280,6 +6280,11 @@
           "lang": "zh",
           "name": "承諾、重建和秩序",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Compromiso, Renovacion y Orden",
+          "note": "multilingual"
         }
       ]
     },
@@ -6354,12 +6359,95 @@
     {
       "classification": "party",
       "id": "party/fcn",
-      "name": "FCN"
+      "identifiers": [
+        {
+          "identifier": "Q5869416",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.fcnnacion.com"
+        }
+      ],
+      "name": "FCN",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Frente de Convergencia Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Front de convergence nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Фронт національної конвергенції",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Фронт национальной конвергенции",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Convergence Front",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte di Convergenza Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "國家融合陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国民集中戦線",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/fuerza",
-      "name": "Fuerza"
+      "identifiers": [
+        {
+          "identifier": "Q20652377",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.fuerza.org.gt/"
+        }
+      ],
+      "name": "Fuerza",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Fuerza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fuerza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "力量 (政黨)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -6477,13 +6565,73 @@
           "lang": "zh",
           "name": "更新民主自由",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Libertad Democratica Renovada",
+          "note": "multilingual"
         }
       ]
     },
     {
       "classification": "party",
       "id": "party/pan",
-      "name": "PAN"
+      "identifiers": [
+        {
+          "identifier": "Q2073191",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/PAN_Logo.svg",
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.pan.gt"
+        }
+      ],
+      "name": "PAN",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Nationale Vooruitgangspartij",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "National Advancement Party",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Avanzada Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Parti de l'avance nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Партия национального продвижения",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dell'Avanzata Nazionale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "全國先鋒黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "国家進歩党",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -6711,12 +6859,79 @@
     {
       "classification": "party",
       "id": "party/reformador",
-      "name": "Reformador"
+      "identifiers": [
+        {
+          "identifier": "Q2732456",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Reformador",
+      "other_names": [
+        {
+          "lang": "ne",
+          "name": "सुधारवादी आन्दोलन",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement réformateur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Reform Movement",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Reformador",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mouvement reformateur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Renovador",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
       "id": "party/todos",
-      "name": "TODOS"
+      "identifiers": [
+        {
+          "identifier": "Q6064406",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://todosxguate.org"
+        }
+      ],
+      "name": "TODOS",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Partido Todos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Todos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "所有 (政黨)",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",
@@ -6732,12 +6947,12 @@
       "other_names": [
         {
           "lang": "en",
-          "name": "Unión del Cambio Nacional",
+          "name": "Unión del Cambio Banbas",
           "note": "multilingual"
         },
         {
           "lang": "es",
-          "name": "Unión del Cambio Nacional",
+          "name": "Unión del Cambio papas",
           "note": "multilingual"
         },
         {
@@ -6748,6 +6963,11 @@
         {
           "lang": "zh",
           "name": "國民變革聯盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Union del Cambio papas",
           "note": "multilingual"
         }
       ]
@@ -6962,6 +7182,11 @@
         {
           "lang": "zh",
           "name": "願景與價值",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vision con Valores",
           "note": "multilingual"
         }
       ]
