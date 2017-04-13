@@ -1023,27 +1023,94 @@
       "name": "Major General Abdus Salam, reds, psc(Retd.)"
     },
     {
+      "birth_date": "1943",
       "gender": "male",
+      "given_name": "Abdul Latif",
       "id": "133f7ffe-8285-4c84-a30d-e0650f5c2e42",
       "identifiers": [
         {
           "identifier": "2133",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4665507",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2133.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2133.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Abdul_Latif_Siddiqui_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/আব্দুল_লতিফ_সিদ্দিকী"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Abdul_Latif_Siddiqui"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdul_Latif_Siddiqui"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2062"
         }
       ],
-      "name": "Abdul Latif Siddique"
+      "name": "Abdul Latif Siddique",
+      "other_names": [
+        {
+          "name": "Abdul Latif Siddiqui",
+          "note": "alternate"
+        },
+        {
+          "lang": "bn",
+          "name": "আব্দুল লতিফ সিদ্দিকী",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdul Latif Siddiqui",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -6539,12 +6606,18 @@
       "name": "Ashrafun Nessa Mosharaf"
     },
     {
+      "birth_date": "1948-12-12",
+      "death_date": "2015-09-14",
       "gender": "male",
       "id": "72d679f3-0a7f-4bfc-acd4-7752a08ddcb2",
       "identifiers": [
         {
           "identifier": "2237",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20604143",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2237.jpg",
@@ -6555,11 +6628,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/সৈয়দ_মহসিন_আলী"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Syed_Mohsin_Ali"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2134"
         }
       ],
-      "name": "Syed Mohsin Ali"
+      "name": "Syed Mohsin Ali",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "সৈয়দ মহসিন আলী",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Syed Mohsin Ali",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -7206,6 +7299,10 @@
         {
           "identifier": "10266",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27662656",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/10266.jpg",
@@ -7216,11 +7313,40 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/নিজাম_হাজারী"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nizam_Hazari"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2372"
         }
       ],
-      "name": "Nizam Uddin Hazari"
+      "name": "Nizam Uddin Hazari",
+      "other_names": [
+        {
+          "name": "Nizam Hazari",
+          "note": "alternate"
+        },
+        {
+          "lang": "bn",
+          "name": "নিজাম হাজারী",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nizam Hazari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nizam Hazari",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -12812,21 +12938,53 @@
         {
           "identifier": "2076",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24660018",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2076.jpg",
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2076.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hasanul_haq_inu.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/হাসানুল_হক_ইনু"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hasanul_Haq_Inu"
+        },
         {
           "note": "website",
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2034"
         }
       ],
-      "name": "Hasanul Haq Inu"
+      "name": "Hasanul Haq Inu",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "হাসানুল হক ইনু",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hasanul Haq Inu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hasanul Haq Inu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
