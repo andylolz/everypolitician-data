@@ -80846,6 +80846,7 @@
     "sources": [
       "http://ws.parlament.ch",
       "https://www.wikidata.org/",
+      "http://gender-balance.org/",
       "https://morph.io/everypolitician-scrapers/twitter-list-switzerland"
     ]
   },
