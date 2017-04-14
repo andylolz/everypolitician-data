@@ -16397,12 +16397,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "134842111",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "nm0712034",
           "scheme": "imdb"
         },
         {
           "identifier": "77527304-bd31-4f7a-aef1-6108297df112",
           "scheme": "musicbrainz"
+        },
+        {
+          "identifier": "79811084",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q12370316",
