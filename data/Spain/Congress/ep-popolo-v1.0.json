@@ -29688,8 +29688,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/795686748051349504/klBoeN1F.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Esmorzar-col·loqui_amb_Joan_Rangel,_número_tres_de_la_candidatura_del_PSC_per_a_les_eleccions_generals,_10_de_novembre_de_2011.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Esmorzar-col·loqui_amb_Joan_Rangel,_número_tres_de_la_candidatura_del_PSC_per_a_les_eleccions_generals,_10_de_novembre_de_2011.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/795686748051349504/klBoeN1F.jpg"
         }
@@ -34974,6 +34977,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Juan_Carlos_Aparicio"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Juan_Carlos_Aparicio"
         }
       ],
       "name": "Juan Carlos Aparicio",
@@ -46327,6 +46334,9 @@
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/154_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Irene_Montero_2014_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/839758104648691712/Ev-SD3Wt.jpg"
