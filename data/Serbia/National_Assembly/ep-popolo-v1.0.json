@@ -36,14 +36,23 @@
     },
     {
       "birth_date": "1966",
+      "gender": "male",
       "id": "020d655c-4deb-4d73-b073-b8be07a4b8df",
       "identifiers": [
         {
           "identifier": "497",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29246665",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aleksandar_Čotrić"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/www.Facebook.com/aleksandar.cotric.1"
@@ -54,6 +63,17 @@
         }
       ],
       "name": "ALEKSANDAR COTRIC",
+      "other_names": [
+        {
+          "name": "Aleksandar Čotrić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandar Čotrić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALEKSANDAR COTRIC"
     },
     {
@@ -1996,9 +2016,30 @@
         {
           "identifier": "836",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29231268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milena_Ćorilić"
         }
       ],
       "name": "MILENA CORILIC",
+      "other_names": [
+        {
+          "name": "Milena Ćorilić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Milena Ćorilić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILENA CORILIC"
     },
     {
@@ -8197,7 +8238,30 @@
     {
       "birth_date": "1985",
       "id": "c0cb3fa4-899c-47cb-9d4a-17821d1eca97",
+      "identifiers": [
+        {
+          "identifier": "Q29354562",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivana_Dinić"
+        }
+      ],
       "name": "IVANA DINIC",
+      "other_names": [
+        {
+          "name": "Ivana Dinić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ivana Dinić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "IVANA DINIC"
     },
     {
