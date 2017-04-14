@@ -874,6 +874,10 @@
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Aytən_Mustafazadə"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ayten_Mustafayeva"
         }
       ],
       "name": "Aytən Mustafayeva",
@@ -5911,6 +5915,11 @@
         {
           "lang": "az",
           "name": "İqbal Ağazadə",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Игбал Фехруз оглы Агазаде",
           "note": "multilingual"
         }
       ]

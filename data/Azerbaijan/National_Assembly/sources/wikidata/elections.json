@@ -119,6 +119,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ru",
+        "name": "Парламентские выборы в Азербайджане",
+        "note": "multilingual"
+      },
+      {
         "lang": "az",
         "name": "Birinci çağırış Azərbaycan Respublikasının Milli Məclisinə seçkilər",
         "note": "multilingual"
@@ -205,6 +210,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ru",
+        "name": "Парламентские выборы в Азербайджане",
+        "note": "multilingual"
+      },
+      {
         "lang": "az",
         "name": "İkinci çağırış Azərbaycan Respublikasının Milli Məclisinə seçkilər",
         "note": "multilingual"
@@ -255,6 +265,11 @@
       {
         "lang": "zh",
         "name": "2015年亞塞拜然議會選舉",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Выборы парламента Азербайджана",
         "note": "multilingual"
       }
     ],
