@@ -9962,6 +9962,8 @@
           "value": "4378199"
         }
       ],
+      "gender": "male",
+      "given_name": "Keshav",
       "id": "8c7985b1-5a7e-468f-8bb0-6d38ec25acfe",
       "identifiers": [
         {
@@ -9975,6 +9977,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Keshav_Kumar_Budhathoki"
+        },
+        {
           "note": "Wikipedia (ne)",
           "url": "https://ne.wikipedia.org/wiki/केशव_कुमार_बुढाथोकी"
         }
@@ -9986,6 +9992,16 @@
           "note": "alternate"
         },
         {
+          "lang": "de",
+          "name": "Keshav Kumar Budhathoki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Keshav Kumar Budhathoki",
+          "note": "multilingual"
+        },
+        {
           "lang": "ne",
           "name": "केशव कुमार बुढाथोकी",
           "note": "multilingual"
@@ -9993,6 +10009,11 @@
         {
           "lang": "ne",
           "name": "मा.केशब कुमार बुढाथोकी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Keshav Kumar Budhathoki",
           "note": "multilingual"
         }
       ]
