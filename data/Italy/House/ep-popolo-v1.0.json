@@ -1505,6 +1505,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marta_Leonori"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Marta_Leonori"
         }
@@ -1744,6 +1748,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marina_Sereni"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Marina_Sereni"
@@ -11294,6 +11302,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marta_Grande"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Marta_Grande"
@@ -21589,6 +21601,11 @@
           "lang": "it",
           "name": "Giuseppe Brescia",
           "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джузеппе Брешиа",
+          "note": "multilingual"
         }
       ]
     },
@@ -29859,6 +29876,10 @@
           "scheme": "italian_cod"
         },
         {
+          "identifier": "7120",
+          "scheme": "pace"
+        },
+        {
           "identifier": "Q16575444",
           "scheme": "wikidata"
         }
@@ -36391,6 +36412,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Micaela_Campana"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Micaela_Campana"
@@ -47007,6 +47032,10 @@
           "url": "https://simple.wikipedia.org/wiki/Federica_Mogherini"
         },
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Federica_Mogherini"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Федерика_Могерини"
         },
@@ -50830,6 +50859,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Antonello_Giacomelli"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Antonello_Giacomelli"
         },
@@ -54149,6 +54182,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Martina_Nardi"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Martina_Nardi"
         },
@@ -54331,6 +54368,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Guglielmo_Picchi"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Guglielmo_Picchi"
@@ -56213,6 +56254,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gregorio_Fontana"
+        },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Gregorio_Fontana_(politico)"
@@ -59076,6 +59121,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Marisa_Nicchi"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Marisa_Nicchi"
         },
@@ -61888,6 +61937,11 @@
         {
           "lang": "pl",
           "name": "Matteo Orfini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маттео Орфини",
           "note": "multilingual"
         },
         {
