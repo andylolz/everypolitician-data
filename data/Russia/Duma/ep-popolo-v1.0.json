@@ -7243,6 +7243,10 @@
         {
           "identifier": "131173",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29359467",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/25d/25db0ee2c688ff39e199bd363d3f2a26.jpg",
@@ -7251,7 +7255,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/25d/25db0ee2c688ff39e199bd363d3f2a26.jpg"
         }
       ],
-      "name": "Савченко Олег Владимирович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Савченко,_Олег_Владимирович"
+        }
+      ],
+      "name": "Савченко Олег Владимирович",
+      "other_names": [
+        {
+          "name": "Савченко, Олег Владимирович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Савченко, Олег Владимирович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-10",
@@ -13662,6 +13683,10 @@
         {
           "identifier": "131348",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29358644",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/942/94235ffc9a294119bdc05086730896bc.jpg",
@@ -13670,7 +13695,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/942/94235ffc9a294119bdc05086730896bc.jpg"
         }
       ],
-      "name": "Бифов Анатолий Жамалович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бифов,_Анатолий_Жамалович"
+        }
+      ],
+      "name": "Бифов Анатолий Жамалович",
+      "other_names": [
+        {
+          "name": "Бифов, Анатолий Жамалович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Бифов, Анатолий Жамалович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-06-21",
@@ -18147,13 +18189,36 @@
       "birth_date": "1951-07-04",
       "gender": "male",
       "id": "72db8809-36b0-43d0-b53f-14e089c6a6b6",
+      "identifiers": [
+        {
+          "identifier": "Q29359343",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/282/282e401c643e5631244dbe3f4f8f1736.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/282/282e401c643e5631244dbe3f4f8f1736.jpg"
         }
       ],
-      "name": "Пантелеев Сергей Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Пантелеев,_Сергей_Михайлович"
+        }
+      ],
+      "name": "Пантелеев Сергей Михайлович",
+      "other_names": [
+        {
+          "name": "Пантелеев, Сергей Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Пантелеев, Сергей Михайлович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-12-10",
@@ -20761,6 +20826,10 @@
         {
           "identifier": "242635",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29359804",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/205/2056729a8dc4ed7839fca4ccbd6509c2.jpg",
@@ -20769,7 +20838,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/205/2056729a8dc4ed7839fca4ccbd6509c2.jpg"
         }
       ],
-      "name": "Меткин Александр Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Меткин,_Александр_Михайлович_(политик)"
+        }
+      ],
+      "name": "Меткин Александр Михайлович",
+      "other_names": [
+        {
+          "name": "Меткин, Александр Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Меткин, Александр Михайлович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-07-16",
@@ -24499,6 +24585,10 @@
         {
           "identifier": "455772",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28800397",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/9ec/9ec1445ef462fa074a4f1619e90e40d8.jpg",
@@ -24507,7 +24597,38 @@
           "url": "http://www.duma.gov.ru/upload/iblock/9ec/9ec1445ef462fa074a4f1619e90e40d8.jpg"
         }
       ],
-      "name": "Анисимов Егор Игоревич"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Egor_Anisimov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Анисимов,_Егор_Игоревич"
+        }
+      ],
+      "name": "Анисимов Егор Игоревич",
+      "other_names": [
+        {
+          "name": "Егор Игоревич Анисимов",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Egor Anisimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Egor Anisimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Егор Игоревич Анисимов",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-08-06",
@@ -26109,13 +26230,50 @@
       "birth_date": "1991-06-25",
       "gender": "male",
       "id": "a45b760c-94e1-40e7-b51e-42487b176380",
+      "identifiers": [
+        {
+          "identifier": "Q28530091",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/82a/82a3aae89754c12444e99aa4f1520798.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/82a/82a3aae89754c12444e99aa4f1520798.jpg"
         }
       ],
-      "name": "Чернышов Борис Александрович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boris_Chernyshov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Чернышов,_Борис_Александрович"
+        }
+      ],
+      "name": "Чернышов Борис Александрович",
+      "other_names": [
+        {
+          "name": "Борис Александрович Чернышов",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Boris Chernyshov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boris Chernyshov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Борис Александрович Чернышов",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-09-11",
