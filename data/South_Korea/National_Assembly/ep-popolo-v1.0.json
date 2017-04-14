@@ -11574,7 +11574,7 @@
       "links": [
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/이만우"
+          "url": "https://ko.wikipedia.org/wiki/이만우_(1950년)"
         },
         {
           "note": "website",
@@ -16008,9 +16008,6 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770917.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/신정훈_국회의원.jpg"
         }
       ],
       "links": [
@@ -16137,9 +16134,6 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770845.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/전하진_프로필.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/495939023202824193/K_LIf73T.jpeg"
@@ -19660,9 +19654,6 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770863.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/홍의락_국회의원.jpg"
         }
       ],
       "links": [
@@ -36769,6 +36760,11 @@
         {
           "lang": "zh",
           "name": "國民之黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Народная партия",
           "note": "multilingual"
         },
         {
