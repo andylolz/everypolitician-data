@@ -2731,6 +2731,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pa",
+          "name": "ਜੁਆਲ ਓਰਾਮ",
+          "note": "multilingual"
+        },
+        {
           "lang": "sa",
           "name": "जुएल उरांव",
           "note": "multilingual"
@@ -40352,6 +40357,10 @@
           "url": "https://sa.wikipedia.org/wiki/सोनिया_गान्धी"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Sonia_Gandhi"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Sonia_Gandhi"
         },
@@ -40662,6 +40671,11 @@
         {
           "lang": "sa",
           "name": "सोनिया गान्धी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sonia Gandhi",
           "note": "multilingual"
         },
         {
