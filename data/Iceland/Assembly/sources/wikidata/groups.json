@@ -1209,11 +1209,6 @@
         "note": "multilingual"
       },
       {
-        "lang": "ta",
-        "name": "மக்கள் கூட்டணி",
-        "note": "multilingual"
-      },
-      {
         "lang": "da",
         "name": "Folkealliancen",
         "note": "multilingual"
@@ -1221,6 +1216,21 @@
       {
         "lang": "nl",
         "name": "People's Alliance",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "People's Alliance",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "People's Alliance",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "人民联盟",
         "note": "multilingual"
       },
       {
@@ -1236,11 +1246,6 @@
       {
         "lang": "de",
         "name": "Alþýðubandalag",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ta",
-        "name": "பொதுஜன ஐக்கிய முன்னணி",
         "note": "multilingual"
       }
     ]
