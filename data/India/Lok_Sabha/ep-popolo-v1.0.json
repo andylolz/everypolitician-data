@@ -2731,6 +2731,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pa",
+          "name": "ਜੁਆਲ ਓਰਾਮ",
+          "note": "multilingual"
+        },
+        {
           "lang": "sa",
           "name": "जुएल उरांव",
           "note": "multilingual"
@@ -26874,6 +26879,9 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4711.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Riti_pathak.png"
         }
       ],
       "links": [
@@ -40352,6 +40360,10 @@
           "url": "https://sa.wikipedia.org/wiki/सोनिया_गान्धी"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Sonia_Gandhi"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Sonia_Gandhi"
         },
@@ -40662,6 +40674,11 @@
         {
           "lang": "sa",
           "name": "सोनिया गान्धी",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sonia Gandhi",
           "note": "multilingual"
         },
         {
