@@ -8965,6 +8965,11 @@
           "lang": "en",
           "name": "Malte Larsen",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Malte Larsen",
+          "note": "multilingual"
         }
       ]
     },
@@ -12718,6 +12723,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "161764",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "109380",
           "scheme": "fast"
         },
@@ -12728,6 +12737,10 @@
         {
           "identifier": "120541645",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1374441",
+          "scheme": "imdb"
         },
         {
           "identifier": "n83026343",
@@ -17354,6 +17367,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Sanne Bjørn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Sanne Bjørn",
           "note": "multilingual"
         }
@@ -22866,6 +22884,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "170880",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "211109",
           "scheme": "fast"
         },
@@ -22876,6 +22898,10 @@
         {
           "identifier": "11912811X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1251266",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 5486 0752",
@@ -24124,6 +24150,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Emrah Tuncer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Emrah Tuncer",
           "note": "multilingual"
         }
@@ -25635,6 +25666,11 @@
         },
         {
           "lang": "en",
+          "name": "Lars Christian Lilleholt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
           "name": "Lars Christian Lilleholt",
           "note": "multilingual"
         },
@@ -30853,6 +30889,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "83040",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "1925",
           "scheme": "europarlmep"
         },
@@ -30871,6 +30911,10 @@
         {
           "identifier": "131730223",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1314521",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 7834 5421",
@@ -33160,6 +33204,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Peder Hvelplund",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Peder Hvelplund",
           "note": "multilingual"
         }
@@ -36558,6 +36607,11 @@
           "lang": "en",
           "name": "Brigitte Klintskov Jerkel",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brigitte Klintskov Jerkel",
+          "note": "multilingual"
         }
       ]
     },
@@ -37105,6 +37159,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "153613",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "28149",
           "scheme": "europarlmep"
         },
@@ -37119,6 +37177,10 @@
         {
           "identifier": "12147853X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1306289",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0001 2135 2556",
@@ -37160,6 +37222,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بول_نيروب_راسموسين"
+        },
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Паул_Нюруп_Расмусен"
@@ -37303,6 +37369,11 @@
       ],
       "name": "Poul Nyrup Rasmussen",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بول نيروب راسموسين",
+          "note": "multilingual"
+        },
         {
           "lang": "bg",
           "name": "Паул Нюруп Расмусен",
@@ -38248,8 +38319,16 @@
       "id": "b957e007-aa8d-4722-bb2c-63de2aebb72f",
       "identifiers": [
         {
+          "identifier": "163567",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "/m/05h2m6",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1305162",
+          "scheme": "imdb"
         },
         {
           "identifier": "no00075512",
@@ -38523,6 +38602,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Carsten Kudsk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Carsten Kudsk",
           "note": "multilingual"
         }
@@ -46075,6 +46159,11 @@
           "lang": "en",
           "name": "Anders Johansson",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anders Johansson",
+          "note": "multilingual"
         }
       ]
     },
@@ -47972,6 +48061,11 @@
           "lang": "en",
           "name": "Nikolaj Amstrup",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolaj Amstrup",
+          "note": "multilingual"
         }
       ]
     },
@@ -48392,6 +48486,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بول_شلوتر"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Poul_Schlüter"
         },
@@ -48506,6 +48604,11 @@
       ],
       "name": "Poul Schlüter",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بول شلوتر",
+          "note": "multilingual"
+        },
         {
           "lang": "cs",
           "name": "Poul Schlüter",
@@ -49440,6 +49543,11 @@
         },
         {
           "lang": "nn",
+          "name": "Henning Dyremose",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Henning Dyremose",
           "note": "multilingual"
         },
