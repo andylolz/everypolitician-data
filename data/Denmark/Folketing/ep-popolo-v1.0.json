@@ -12718,6 +12718,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "161764",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "109380",
           "scheme": "fast"
         },
@@ -12728,6 +12732,10 @@
         {
           "identifier": "120541645",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1374441",
+          "scheme": "imdb"
         },
         {
           "identifier": "n83026343",
@@ -22866,6 +22874,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "170880",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "211109",
           "scheme": "fast"
         },
@@ -22876,6 +22888,10 @@
         {
           "identifier": "11912811X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1251266",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 5486 0752",
@@ -25635,6 +25651,11 @@
         },
         {
           "lang": "en",
+          "name": "Lars Christian Lilleholt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
           "name": "Lars Christian Lilleholt",
           "note": "multilingual"
         },
@@ -30853,6 +30874,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "83040",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "1925",
           "scheme": "europarlmep"
         },
@@ -30871,6 +30896,10 @@
         {
           "identifier": "131730223",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1314521",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0000 7834 5421",
@@ -37105,6 +37134,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "153613",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "28149",
           "scheme": "europarlmep"
         },
@@ -37119,6 +37152,10 @@
         {
           "identifier": "12147853X",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "nm1306289",
+          "scheme": "imdb"
         },
         {
           "identifier": "0000 0001 2135 2556",
@@ -37160,6 +37197,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بول_نيروب_راسموسين"
+        },
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Паул_Нюруп_Расмусен"
@@ -37303,6 +37344,11 @@
       ],
       "name": "Poul Nyrup Rasmussen",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بول نيروب راسموسين",
+          "note": "multilingual"
+        },
         {
           "lang": "bg",
           "name": "Паул Нюруп Расмусен",
@@ -38248,8 +38294,16 @@
       "id": "b957e007-aa8d-4722-bb2c-63de2aebb72f",
       "identifiers": [
         {
+          "identifier": "163567",
+          "scheme": "dnf"
+        },
+        {
           "identifier": "/m/05h2m6",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "nm1305162",
+          "scheme": "imdb"
         },
         {
           "identifier": "no00075512",
@@ -45165,6 +45219,19 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kristian.hegaard@ft.dk"
+        }
+      ],
+      "email": "kristian.hegaard@ft.dk",
+      "family_name": "Hegaard",
+      "given_name": "Kristian",
+      "id": "d7d6e3fa-f5ff-4859-b18f-1e83a663ac8f",
+      "name": "Kristian Hegaard"
+    },
+    {
       "birth_date": "1952-04-04",
       "contact_details": [
         {
@@ -48392,6 +48459,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بول_شلوتر"
+        },
+        {
           "note": "Wikipedia (cs)",
           "url": "https://cs.wikipedia.org/wiki/Poul_Schlüter"
         },
@@ -48506,6 +48577,11 @@
       ],
       "name": "Poul Schlüter",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بول شلوتر",
+          "note": "multilingual"
+        },
         {
           "lang": "cs",
           "name": "Poul Schlüter",
@@ -49440,6 +49516,11 @@
         },
         {
           "lang": "nn",
+          "name": "Henning Dyremose",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Henning Dyremose",
           "note": "multilingual"
         },
@@ -72869,6 +72950,19 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/lacheg.aspx"
+        }
+      ]
+    },
+    {
+      "area_id": "area/north_zealand",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "FD18DB48-CB3E-40EA-98B5-1CE0AFA56E69",
+      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
+      "person_id": "d7d6e3fa-f5ff-4859-b18f-1e83a663ac8f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.thedanishparliament.dk/Members/rvkrhe.aspx"
         }
       ]
     },
