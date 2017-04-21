@@ -10588,7 +10588,14 @@
       "name": "Md. Shahjahan Mia"
     },
     {
+      "gender": "male",
       "id": "ad434ed9-1276-4eee-8cd3-1bb13f627f95",
+      "identifiers": [
+        {
+          "identifier": "Q29387165",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/Mostofa.jpg",
       "images": [
         {
@@ -10601,7 +10608,19 @@
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2402"
         }
       ],
-      "name": "Golam Mostofa Ahmed"
+      "name": "Golam Mostofa Ahmed",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Golam Mostofa Ahmed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Golam Mostofa Ahmed",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
