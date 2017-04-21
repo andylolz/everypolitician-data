@@ -4087,6 +4087,10 @@
           "scheme": "storting"
         },
         {
+          "identifier": "49148995744459750507",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q4572009",
           "scheme": "wikidata"
         }
@@ -16737,7 +16741,7 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=JGS&storrelse=middels"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jonas_Gahr_Støre_undated.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jonas_Gahr_Støre_(174630).jpg"
         }
       ],
       "links": [
@@ -37315,7 +37319,7 @@
         },
         {
           "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Ludvig_Olai_Botnen"
+          "url": "https://no.wikipedia.org/wiki/Ludvig_Botnen"
         }
       ],
       "name": "Ludvig Olai Botnen",
@@ -93260,6 +93264,12 @@
         {
           "identifier": "Q6437870",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kristian_Asdahl.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kristian_Asdahl.jpg"
         }
       ],
       "links": [
