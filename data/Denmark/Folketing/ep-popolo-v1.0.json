@@ -34369,6 +34369,10 @@
           "url": "https://en.wikipedia.org/wiki/Claus_Hjort_Frederiksen"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Claus_Hjort_Frederiksen"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Claus_Hjort_Frederiksen"
         },
@@ -45515,6 +45519,11 @@
         },
         {
           "lang": "en",
+          "name": "Anne Sina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Anne Sina",
           "note": "multilingual"
         },
