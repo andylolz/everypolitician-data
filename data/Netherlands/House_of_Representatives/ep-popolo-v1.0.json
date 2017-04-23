@@ -4566,6 +4566,13 @@
     },
     {
       "birth_date": "1966-05-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "f.wassenberg@tweedekamer.nl"
+        }
+      ],
+      "email": "f.wassenberg@tweedekamer.nl",
       "family_name": "Wassenberg",
       "gender": "male",
       "given_name": "Frank",
