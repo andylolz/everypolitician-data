@@ -8171,9 +8171,35 @@
         {
           "identifier": "604",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29475815",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aleksandra_Đurović"
         }
       ],
       "name": "ALEKSANDRA DJUROVIC",
+      "other_names": [
+        {
+          "name": "Aleksandra Đurović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aleksandra Đurović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aleksandra Đurović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ALEKSANDRA DJUROVIC"
     },
     {
@@ -9719,14 +9745,23 @@
           "value": "djuka_sns"
         }
       ],
+      "gender": "male",
       "id": "e7b4408d-11d9-4cca-ab6f-059b370b95b7",
       "identifiers": [
         {
           "identifier": "757",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29372037",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vladimir_Đukanović"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/vladimir.djukanovic.5"
@@ -9737,6 +9772,22 @@
         }
       ],
       "name": "VLADIMIR DJUKANOVIC",
+      "other_names": [
+        {
+          "name": "Vladimir Đukanović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Đukanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vladimir Đukanović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "VLADIMIR DJUKANOVIC"
     },
     {
