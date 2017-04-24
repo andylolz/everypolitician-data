@@ -40,6 +40,20 @@
       }
     },
     {
+      "file": "morph/genderbalance.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/nigeria-senate-gender-balance",
+        "query": "SELECT uuid, gender FROM data ORDER BY uuid"
+      },
+      "source": "http://gender-balance.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
+      }
+    },
+    {
       "file": "manual/terms.csv",
       "type": "term"
     },
