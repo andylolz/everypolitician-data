@@ -2201,13 +2201,36 @@
     {
       "gender": "male",
       "id": "4c816d22-47f9-4836-aa3e-b18d7e7c69fd",
+      "identifiers": [
+        {
+          "identifier": "Q28005738",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_b13551f774249707ad75590869c390b13a219a64.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_b13551f774249707ad75590869c390b13a219a64.jpg"
         }
       ],
-      "name": "OLIVARES MARQUINA JOSÉ MANUEL"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Manuel_Olivares"
+        }
+      ],
+      "name": "OLIVARES MARQUINA JOSÉ MANUEL",
+      "other_names": [
+        {
+          "name": "José Manuel Olivares",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "José Manuel Olivares",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2301,15 +2324,50 @@
       ]
     },
     {
+      "birth_date": "1956-09-07",
       "gender": "male",
+      "given_name": "José",
       "id": "4e20e3c0-a4dc-45e0-883c-38487efec554",
+      "identifiers": [
+        {
+          "identifier": "Q25412674",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_9cda68225e3264184180e4dcbcbaa970e6594d01.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_9cda68225e3264184180e4dcbcbaa970e6594d01.jpg"
         }
       ],
-      "name": "GUERRA BRITO JOSÉ ÁNGEL"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Guerra_(economista_venezolano)"
+        }
+      ],
+      "name": "GUERRA BRITO JOSÉ ÁNGEL",
+      "other_names": [
+        {
+          "name": "José Guerra",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "José Guerra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Guerra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "José Guerra",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -4114,14 +4172,50 @@
       "name": "ÉDGAR JOSÉ ZAMBRANO RAMÍREZ"
     },
     {
+      "birth_date": "1973-09-04",
+      "gender": "male",
+      "given_name": "Sergio",
       "id": "85d92b45-563c-4a04-b91b-ee49cfb2a94c",
+      "identifiers": [
+        {
+          "identifier": "Q21698782",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_0a57868ad319359b8d8b72cbd450a69ee79df987.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_0a57868ad319359b8d8b72cbd450a69ee79df987.jpg"
         }
       ],
-      "name": "VERGARA GONZÁLEZ SERGIO DE"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sergio_Vergara_(político)"
+        }
+      ],
+      "name": "VERGARA GONZÁLEZ SERGIO DE",
+      "other_names": [
+        {
+          "name": "Sergio Vergara",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sergio Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergio Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sergio Vergara",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4866,6 +4960,10 @@
         {
           "identifier": "13",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29365597",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_5211204c396eea0e85e7e280e380c6e83d3bfa9f.jpg",
@@ -4874,7 +4972,34 @@
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_5211204c396eea0e85e7e280e380c6e83d3bfa9f.jpg"
         }
       ],
-      "name": "IVÁN STALIN GONZÁLEZ MONTAÑO"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Stalin_González"
+        }
+      ],
+      "name": "IVÁN STALIN GONZÁLEZ MONTAÑO",
+      "other_names": [
+        {
+          "name": "Stalin González",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stalin González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stalin González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stalin González",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
