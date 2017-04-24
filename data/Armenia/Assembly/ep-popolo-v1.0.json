@@ -4830,24 +4830,74 @@
         {
           "identifier": "1029",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5338820",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1029",
       "images": [
         {
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1029"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Edmon_Marukyan.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edmon_Marukyan"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Էդմոն_Մարուքյան"
+        },
+        {
+          "note": "website",
+          "url": "http://edmonmarukyan.com/"
         }
       ],
       "name": "Edmon Marukyan",
       "other_names": [
+        {
+          "name": "Էդմոն Մարուքյան",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Edmon Marukyan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Edmon Marukyan",
+          "note": "multilingual"
+        },
         {
           "lang": "hy",
           "name": "Էդմոն Հրաչիկի Մարուքյան",
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Էդմոն Մարուքյան",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Edmon Marukyan",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Эдмон Грачикович Марукян",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Эдмон Марукян",
           "note": "multilingual"
         }
       ]
