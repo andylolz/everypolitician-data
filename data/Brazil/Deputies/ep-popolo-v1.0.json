@@ -1653,13 +1653,41 @@
     {
       "gender": "male",
       "id": "074d43b0-e7b0-4f05-8d83-36df3fb6036e",
+      "identifiers": [
+        {
+          "identifier": "Q24691762",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141474.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141474.jpg"
         }
       ],
-      "name": "JULIÃO AMIN"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Julião_Amin_Castro"
+        }
+      ],
+      "name": "JULIÃO AMIN",
+      "other_names": [
+        {
+          "name": "Julião Amin",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Julião Amin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Julião Amin",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-03-23",
@@ -3999,12 +4027,16 @@
         }
       ],
       "email": "dep.josinunes@camara.leg.br",
-      "gender": "female",
+      "gender": "male",
       "id": "1540b77c-ced4-43b8-ab7e-a9d6909eb169",
       "identifiers": [
         {
           "identifier": "5830528",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29415807",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/114941.jpg",
@@ -4013,7 +4045,30 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/114941.jpg"
         }
       ],
-      "name": "JOSI NUNES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Josi_Nunes"
+        }
+      ],
+      "name": "JOSI NUNES",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Josi Nunes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Josi Nunes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Josi Nunes",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-05-18",
@@ -37080,6 +37135,10 @@
         {
           "identifier": "5830411",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29474180",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74253.jpg",
@@ -37088,7 +37147,34 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74253.jpg"
         }
       ],
-      "name": "JULIO LOPES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Júlio_Lopes"
+        }
+      ],
+      "name": "JULIO LOPES",
+      "other_names": [
+        {
+          "name": "Júlio Lopes",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Júlio Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Júlio Lopes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Júlio Lopes",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-11-28",
