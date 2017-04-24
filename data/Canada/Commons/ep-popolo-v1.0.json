@@ -1069,6 +1069,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Ճասթըն Թրուտո",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Justin Trudeau",
           "note": "multilingual"
@@ -17557,6 +17562,10 @@
           "url": "https://fr.wikipedia.org/wiki/Wai_Young"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/杨萧慧仪"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/WaiYoungVancouverSouth"
         },
@@ -18461,6 +18470,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Рона Эмброуз",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "羅娜·安布羅斯",
           "note": "multilingual"
@@ -19018,6 +19032,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ahmed_Hussen"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/艾哈默得·胡塞因"
         },
         {
           "note": "twitter",
@@ -25502,6 +25520,7 @@
       "sort_name": "BEVINGTON, Dennis Fraser, B.A."
     },
     {
+      "birth_date": "1952-05-23",
       "contact_details": [
         {
           "type": "email",
@@ -34349,6 +34368,11 @@
           "lang": "fr",
           "name": "Mona Fortier",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mona Fortier",
+          "note": "multilingual"
         }
       ]
     },
@@ -34371,6 +34395,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Mary Ng",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Mary Ng",
           "note": "multilingual"
         }
@@ -35882,6 +35911,9 @@
       "images": [
         {
           "url": "http://www.parl.gc.ca/Parliamentarians/Images/OfficialMPPhotos/42/DzerowiczJulie_Lib.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Julie_Dzerowicz.jpg"
         }
       ],
       "links": [
@@ -52205,12 +52237,26 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Stephanie_Kusie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stephanie_Kusie"
         }
       ],
       "name": "Stephanie Kusie",
       "other_names": [
         {
           "lang": "en",
+          "name": "Stephanie Kusie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stephanie Kusie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Stephanie Kusie",
           "note": "multilingual"
         }
@@ -54975,12 +55021,26 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bob_Benzen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bob_Benzen"
         }
       ],
       "name": "Bob Benzen",
       "other_names": [
         {
           "lang": "en",
+          "name": "Bob Benzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Benzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Bob Benzen",
           "note": "multilingual"
         }
@@ -61432,6 +61492,11 @@
         },
         {
           "lang": "fr",
+          "name": "Emmanuella Lambropoulos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Emmanuella Lambropoulos",
           "note": "multilingual"
         }
