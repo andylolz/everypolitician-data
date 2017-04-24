@@ -1113,13 +1113,36 @@
     {
       "birth_date": "1973-11-03",
       "id": "27d8ea63-53c7-4429-ae9b-c7971994cda8",
+      "identifiers": [
+        {
+          "identifier": "Q22947528",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4540",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4540"
         }
       ],
-      "name": "غادة موسى ابراهيم صقر"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/غادة_صقر"
+        }
+      ],
+      "name": "غادة موسى ابراهيم صقر",
+      "other_names": [
+        {
+          "name": "غادة صقر",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "غادة صقر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-05-02",
@@ -2138,14 +2161,38 @@
     },
     {
       "birth_date": "1948-11-10",
+      "gender": "male",
       "id": "44f0b5f6-e34c-4dcd-adfa-7d036e19df24",
+      "identifiers": [
+        {
+          "identifier": "Q20423390",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=94",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=94"
         }
       ],
-      "name": "محمود عثمان احمد عثمان"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/محمود_عثمان"
+        }
+      ],
+      "name": "محمود عثمان احمد عثمان",
+      "other_names": [
+        {
+          "name": "محمود عثمان",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "محمود عثمان",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-04-12",
@@ -3377,14 +3424,38 @@
     },
     {
       "birth_date": "1947-08-13",
+      "gender": "female",
       "id": "6b78e38c-acf1-4f72-97ea-77c5a1174ff2",
+      "identifiers": [
+        {
+          "identifier": "Q12237452",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4640",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4640"
         }
       ],
-      "name": "لميس جابر بشاى حنين"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/لميس_جابر"
+        }
+      ],
+      "name": "لميس جابر بشاى حنين",
+      "other_names": [
+        {
+          "name": "لميس جابر",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "لميس جابر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-11-01",
@@ -3509,14 +3580,39 @@
     },
     {
       "birth_date": "1980-10-17",
+      "gender": "male",
+      "given_name": "Ibrahim",
       "id": "6fac324d-3648-4026-bbdf-69207f769c93",
+      "identifiers": [
+        {
+          "identifier": "Q12181798",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4057",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4057"
         }
       ],
-      "name": "ابراهيم عبد الوهاب محي الدين ابو احمد"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/إبراهيم_عبد_الوهاب"
+        }
+      ],
+      "name": "ابراهيم عبد الوهاب محي الدين ابو احمد",
+      "other_names": [
+        {
+          "name": "إبراهيم عبد الوهاب",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "إبراهيم عبد الوهاب",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-01-03",
@@ -3553,14 +3649,142 @@
     },
     {
       "birth_date": "1964-09-28",
+      "gender": "male",
+      "given_name": "Khaled",
       "id": "71a169a3-b298-4631-9dfb-665f288e3387",
+      "identifiers": [
+        {
+          "identifier": "p627605",
+          "scheme": "allmovie"
+        },
+        {
+          "identifier": "15512",
+          "scheme": "allocine"
+        },
+        {
+          "identifier": "166276610",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "126204",
+          "scheme": "csfd"
+        },
+        {
+          "identifier": "711538",
+          "scheme": "elonet"
+        },
+        {
+          "identifier": "/m/03d5ns7",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "nm0950352",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "2472587",
+          "scheme": "kinopoisk"
+        },
+        {
+          "identifier": "18105",
+          "scheme": "moviemeter"
+        },
+        {
+          "identifier": "203317",
+          "scheme": "port"
+        },
+        {
+          "identifier": "069069530",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "16665545",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3195985",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4380",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4380"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Received_10154144837714047.jpg"
         }
       ],
-      "name": "خالد يوسف حلمى محمد يوسف"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/خالد_يوسف"
+        },
+        {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/خالد_يوسف"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khaled_Youssef"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Khaled_Youssef"
+        }
+      ],
+      "name": "خالد يوسف حلمى محمد يوسف",
+      "other_names": [
+        {
+          "name": "Khaled Youssef",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "خالد يوسف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "خالد يوسف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khaled Youssef",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1958-10-20",
@@ -3968,14 +4192,38 @@
     },
     {
       "birth_date": "1942-06-13",
+      "gender": "male",
       "id": "823df5e7-4d02-496a-9ddb-b1dc3b9e4d34",
+      "identifiers": [
+        {
+          "identifier": "Q16123725",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4384",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4384"
         }
       ],
-      "name": "كمال احمد احمد عامر"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كمال_عامر_(ضابط)"
+        }
+      ],
+      "name": "كمال احمد احمد عامر",
+      "other_names": [
+        {
+          "name": "كمال عامر",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "كمال عامر",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-05-30",
@@ -5182,13 +5430,36 @@
     {
       "birth_date": "1970-08-20",
       "id": "b7a062a2-8560-49f6-a327-fbe57ec54ed3",
+      "identifiers": [
+        {
+          "identifier": "Q22929729",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4453",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4453"
         }
       ],
-      "name": "منى جاب الله عبد الله غالى"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مني_جاب_الله"
+        }
+      ],
+      "name": "منى جاب الله عبد الله غالى",
+      "other_names": [
+        {
+          "name": "مني جاب الله",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "مني جاب الله",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-05-10",
@@ -5831,14 +6102,52 @@
     },
     {
       "birth_date": "1976-07-16",
+      "gender": "male",
       "id": "cf40bd11-0354-452d-9302-e6a971ada7dd",
+      "identifiers": [
+        {
+          "identifier": "Q12179551",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4613",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4613"
         }
       ],
-      "name": "اسامة السيد محمود سعد الازهرى"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/أسامة_الأزهري"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Usama_al-Sayyid_Al-Azhari"
+        }
+      ],
+      "name": "اسامة السيد محمود سعد الازهرى",
+      "other_names": [
+        {
+          "name": "Usama al-Sayyid Al-Azhari",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "أسامة السيد الأزهري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Usama al-Sayyid Al-Azhari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Usama al-Sayyid Al-Azhari",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-02-15",
@@ -6831,14 +7140,38 @@
     },
     {
       "birth_date": "1956-05-16",
+      "gender": "male",
       "id": "f4224819-aed4-4e1e-9a3f-0b0780b77e6e",
+      "identifiers": [
+        {
+          "identifier": "Q12243371",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=2998",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=2998"
         }
       ],
-      "name": "محمد مصطفى بكرى محمد"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مصطفى_بكري"
+        }
+      ],
+      "name": "محمد مصطفى بكرى محمد",
+      "other_names": [
+        {
+          "name": "مصطفى بكري",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "مصطفى بكري",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-03-02",
@@ -6997,14 +7330,58 @@
     },
     {
       "birth_date": "1962-08-25",
+      "gender": "male",
+      "given_name": "Abdel",
       "id": "f9c34862-499c-4e45-9858-cd5a53465d2f",
+      "identifiers": [
+        {
+          "identifier": "Q12223885",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4401",
       "images": [
         {
           "url": "http://www.parliament.gov.eg/members/ImageVB.aspx?ImageID=4401"
         }
       ],
-      "name": "عبد الهادى احمد عبد الهادى القصبى"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/عبد_الهادي_القصبي"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Abdel_Hadi_al-Qasabi"
+        }
+      ],
+      "name": "عبد الهادى احمد عبد الهادى القصبى",
+      "other_names": [
+        {
+          "name": "Abdel Hadi al-Qasabi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "عبد الهادي القصبي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Abdel Hadi al-Qasabi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdel Hadi al-Qasabi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdel Hadi al-Qasabi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-12-18",
