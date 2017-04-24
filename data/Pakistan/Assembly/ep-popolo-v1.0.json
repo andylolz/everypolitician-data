@@ -14891,9 +14891,6 @@
       "images": [
         {
           "url": "http://www.na.gov.pk/uploads/images/NA%20s177.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Ghulam_Noor_Rabbani_Khar.jpg"
         }
       ],
       "links": [
@@ -21003,6 +21000,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Khalil George",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Khalil George",
           "note": "multilingual"
         }
