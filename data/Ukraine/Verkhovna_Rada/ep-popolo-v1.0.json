@@ -30366,7 +30366,9 @@
       "patronymic_name": "Григорович"
     },
     {
+      "birth_date": "1977-11-19",
       "family_name": "Савченко",
+      "gender": "male",
       "given_name": "Олексій",
       "id": "e495d13b-257d-472a-b67d-bbffe46139fd",
       "identifiers": [
@@ -30377,6 +30379,10 @@
         {
           "identifier": "17988",
           "scheme": "rada"
+        },
+        {
+          "identifier": "Q28500498",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://static.rada.gov.ua/dep_img8/bp48.jpg",
@@ -30385,7 +30391,29 @@
           "url": "http://static.rada.gov.ua/dep_img8/bp48.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Савченко,_Алексей_Юрьевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Савченко_Олексій_Юрійович"
+        }
+      ],
       "name": "Савченко Олексій Юрійович",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Алексей Юрьевич Савченко",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Савченко Олексій Юрійович",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Юрійович"
     },
     {
