@@ -5216,10 +5216,19 @@
           "value": "07055090306"
         }
       ],
+      "death_date": "2017-04-23",
       "email": "degun_200@yahoo.com",
       "gender": "male",
       "id": "eb86eee9-9d7e-42f1-b99d-331e8f55a8cd",
       "identifiers": [
+        {
+          "identifier": "0000 0000 4960 528X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "nr94043354",
+          "scheme": "lcauth"
+        },
         {
           "identifier": "isiaka-adeleke",
           "scheme": "shineyoureye"
@@ -5246,6 +5255,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Isiaka_Adeleke"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Isiaka_Adeleke"
         },
         {
           "note": "Wikipedia (yo)",
