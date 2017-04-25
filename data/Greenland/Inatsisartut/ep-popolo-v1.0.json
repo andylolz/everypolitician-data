@@ -1054,7 +1054,13 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Uusaqqak Qujaukitsoq"
+      "image": "http://www.ina.gl/media/2529966/ussarqak_qujaukitsoq.jpg",
+      "images": [
+        {
+          "url": "http://www.ina.gl/media/2529966/ussarqak_qujaukitsoq.jpg"
+        }
+      ],
+      "name": "Ussarqak Qujaukitsoq"
     },
     {
       "contact_details": [
@@ -1778,16 +1784,6 @@
         }
       ],
       "name": "Mala Høy Kuko"
-    },
-    {
-      "id": "6ab6dcd8-f06c-42b9-858d-0eec80003381",
-      "image": "http://www.ina.gl/media/2529966/ussarqak_qujaukitsoq.jpg",
-      "images": [
-        {
-          "url": "http://www.ina.gl/media/2529966/ussarqak_qujaukitsoq.jpg"
-        }
-      ],
-      "name": "Ussarqak Qujaukitsoq"
     },
     {
       "gender": "male",
@@ -9289,27 +9285,6 @@
       "on_behalf_of_id": "atassut",
       "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
       "person_id": "698fb6e6-d7a7-47b8-90a6-42e858ff0753",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "6ab6dcd8-f06c-42b9-858d-0eec80003381",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "6ab6dcd8-f06c-42b9-858d-0eec80003381",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "6ab6dcd8-f06c-42b9-858d-0eec80003381",
       "role": "member"
     },
     {
