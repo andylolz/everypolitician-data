@@ -2941,6 +2941,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/g/11b6_cdfjg",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "88504",
           "scheme": "represent"
         },
@@ -10152,6 +10156,10 @@
         {
           "identifier": "jody-wilson-raybould",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/012l1f3j",
+          "scheme": "freebase"
         },
         {
           "identifier": "89494",
@@ -55066,6 +55074,10 @@
         {
           "identifier": "matt-decourcey",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/11bwfmq_qn",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "88355",
