@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "duncanfwalker/burundi-national-assembly",
-        "query": "SELECT * FROM data"
+        "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.assemblee.bi",
       "type": "membership"
