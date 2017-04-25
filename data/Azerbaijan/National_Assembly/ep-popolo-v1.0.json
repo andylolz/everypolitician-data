@@ -4194,12 +4194,20 @@
           "url": "https://fa.wikipedia.org/wiki/قنیره_پاشایوا"
         },
         {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/განირა_ფაშაევა"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Пашаева,_Ганира_Алескер_кызы"
         },
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Ganire_Paşayeva"
+        },
+        {
+          "note": "website",
+          "url": "http://ganirapashayeva.com"
         }
       ],
       "name": "Qənirə Paşayeva",
@@ -4237,6 +4245,11 @@
         {
           "lang": "ja",
           "name": "ガニラ・パシャイェヴァ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "განირა ფაშაევა",
           "note": "multilingual"
         },
         {
