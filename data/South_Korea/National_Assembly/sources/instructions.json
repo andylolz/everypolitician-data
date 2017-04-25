@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "manual/popong-data-19.csv",
+      "file": "archive/popong-data-19.csv",
       "source": "https://github.com/teampopong/data-assembly",
       "type": "membership"
     },
