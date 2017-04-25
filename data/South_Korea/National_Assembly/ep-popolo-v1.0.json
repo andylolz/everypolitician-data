@@ -12465,6 +12465,122 @@
       ]
     },
     {
+      "birth_date": "1940-07-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kimci404@naver.com"
+        },
+        {
+          "type": "phone",
+          "value": "02-784-8870"
+        }
+      ],
+      "email": "kimci404@naver.com",
+      "gender": "male",
+      "id": "5db590af-5f51-44f9-8cae-1c486145ccf7",
+      "identifiers": [
+        {
+          "identifier": "/g/122hzt6l",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "513144928080654341594",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q16080415",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.assembly.go.kr/photo/9771057.jpg",
+      "images": [
+        {
+          "url": "http://www.assembly.go.kr/photo/9771057.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kim_Jongin's_press_conference_in_2016_(cropped_to_Kim).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Kim_Chong-in"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/김종인"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ким_Джонъин"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/金鍾仁_(政治人物)"
+        },
+        {
+          "note": "website",
+          "url": "http://kimchongin.com/"
+        }
+      ],
+      "name": "KIM CHONGIN",
+      "other_names": [
+        {
+          "name": "김종인",
+          "note": "alternate"
+        },
+        {
+          "lang": "cn",
+          "name": "金鍾仁",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Kim Chong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "김종인",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kim Jong-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ким Джонъин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "金鍾仁",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1960-09-04",
       "contact_details": [
         {
@@ -40969,6 +41085,19 @@
       ]
     },
     {
+      "area_id": "area/비례대표",
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/더불어민주당",
+      "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
+      "person_id": "5db590af-5f51-44f9-8cae-1c486145ccf7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://github.com/teampopong/data-assembly"
+        }
+      ]
+    },
+    {
       "area_id": "area/충남_공주시부여군청양군",
       "legislative_period_id": "term/20",
       "on_behalf_of_id": "party/자유한국당",
@@ -41446,6 +41575,19 @@
       "sources": [
         {
           "url": "github.com/teampopong/data-for-rnd"
+        }
+      ]
+    },
+    {
+      "area_id": "area/경북_상주시군위군의성군청송군",
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/새누리당",
+      "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
+      "person_id": "6a388637-2ac2-488f-828d-78c7756b32e7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://github.com/teampopong/data-assembly"
         }
       ]
     },
@@ -42109,6 +42251,19 @@
       "sources": [
         {
           "url": "github.com/teampopong/data-for-rnd"
+        }
+      ]
+    },
+    {
+      "area_id": "area/서울_노원구병",
+      "legislative_period_id": "term/20",
+      "on_behalf_of_id": "party/국민의당",
+      "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
+      "person_id": "7a18c77e-e204-45ba-84ae-1314773e9cfb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://github.com/teampopong/data-assembly"
         }
       ]
     },
