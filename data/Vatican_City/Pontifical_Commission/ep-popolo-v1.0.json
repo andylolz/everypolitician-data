@@ -298,6 +298,10 @@
       "id": "0b2612a9-022d-4f6e-b906-193cbdd1d3ee",
       "identifiers": [
         {
+          "identifier": "ADV10966103",
+          "scheme": "bav"
+        },
+        {
           "identifier": "128725395",
           "scheme": "bnf"
         },
@@ -320,6 +324,14 @@
         {
           "identifier": "n86123050",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "148241204",
+          "scheme": "nta"
+        },
+        {
+          "identifier": "n2003031294",
+          "scheme": "nukat"
         },
         {
           "identifier": "IT\\ICCU\\CFIV\\013533",
