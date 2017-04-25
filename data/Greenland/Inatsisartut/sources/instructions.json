@@ -7,7 +7,7 @@
         "scraper": "wfdd/inatsisartut-scraper",
         "query": "SELECT * FROM data ORDER BY term DESC, name"
       },
-      "source": "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
+      "source": "http://en.inatsisartut.gl/",
       "type": "membership"
     },
     {
