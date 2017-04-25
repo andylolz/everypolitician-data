@@ -685,7 +685,13 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "name": "Bent Frederiksen"
+      "image": "http://www.ina.gl/media/2528159/bendt_frederiksen.jpg",
+      "images": [
+        {
+          "url": "http://www.ina.gl/media/2528159/bendt_frederiksen.jpg"
+        }
+      ],
+      "name": "Bendt Frederiksen"
     },
     {
       "birth_date": "1953",
@@ -976,16 +982,6 @@
           "note": "multilingual"
         }
       ]
-    },
-    {
-      "id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
-      "image": "http://www.ina.gl/media/2528159/bendt_frederiksen.jpg",
-      "images": [
-        {
-          "url": "http://www.ina.gl/media/2528159/bendt_frederiksen.jpg"
-        }
-      ],
-      "name": "Bendt Frederiksen"
     },
     {
       "contact_details": [
@@ -8030,7 +8026,7 @@
   ],
   "meta": {
     "sources": [
-      "http://en.inatsisartut.gl/members-of-inatsisartut.aspx",
+      "http://en.inatsisartut.gl/",
       "http://wikidata.org/",
       "http://github.com/wfdd/inatsisartut-scraper"
     ]
@@ -8635,41 +8631,6 @@
       "on_behalf_of_id": "atassut",
       "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
       "person_id": "36536ca5-f1f1-47a2-a56f-5720e64f5114",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/1",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/2",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/3",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/4",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
-      "role": "member"
-    },
-    {
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "368a555a-cb10-419e-9d45-6f7a8df55f39",
       "role": "member"
     },
     {
