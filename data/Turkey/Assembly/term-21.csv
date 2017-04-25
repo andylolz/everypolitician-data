@@ -1,6 +1,6 @@
 id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
 d635a65e-a7be-4330-8759-da5b46b94306,Abbas Bozyel,Abbas Bozyel,,,,Milliyetçi Hareket Partisi,MHP,area/iğdır,Iğdır,Grand National Assembly,21,,,,male
-e01426f7-4914-4e1d-9a23-18c4f9d6cff9,Abdul Ahat Andican,Abdul Ahat Andican,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
+e01426f7-4914-4e1d-9a23-18c4f9d6cff9,Abdul Ahat Andican,Abdul Ahat Andican,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 2246ea8a-95c2-42e0-87af-c71bb152b8fa,Abdulbaki Erdoğmuş,Abdulbaki Erdoğmuş,,,,Anavatan Partisi,ANAP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
 dee96f81-1db7-4eb7-b266-d530db4d09d6,Abdulhaluk Mehmet Çay,Abdulhaluk Mehmet Çay,,,,Milliyetçi Hareket Partisi,MHP,area/Çorum,Çorum,Grand National Assembly,21,,,,male
 51704345-f3a1-4eae-912a-85a06bd14622,Abdullah Gül,Abdullah Gül,,cbabdullahgul,cbabdullahgul,Fazilet Partisi,FP,area/kayseri,Kayseri,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/9/91/Abdullah_Gül_2011-06-07.jpg,male
@@ -13,8 +13,8 @@ a91b14a0-1849-471f-b699-01af15b88e06,Abdülkadir Akcan,Abdülkadir Akcan,,,,Mill
 ffdc2272-5e10-4851-b200-911ec1354d8e,Abdüllatif Şener,Abdüllatif Şener,,,,Fazilet Partisi,FP,area/sivas,Sivas,Grand National Assembly,21,,,,
 511829b4-313e-4cb0-9744-1016df0281ea,Adanan Uçaş,Adanan Uçaş,,,,Milliyetçi Hareket Partisi,MHP,area/amasya,Amasya,Grand National Assembly,21,,,,
 8284a984-3b1f-4dc1-bbcd-4b71e75c4052,Adnan Fatin Özdemir,Adnan Fatin Özdemir,,,,Milliyetçi Hareket Partisi,MHP,area/adana,Adana,Grand National Assembly,21,,,,
-608f680c-cbf9-451a-8064-250ffbf3a6dc,Agah Oktay Güner,Agah Oktay Güner,,,,Anavatan Partisi,ANAP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,
-b273d470-8c3c-4291-bbd5-03d643754789,Ahmet Arkan,Ahmet Arkan,,,,Demokratik Sol Parti,DSP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,
+608f680c-cbf9-451a-8064-250ffbf3a6dc,Agah Oktay Güner,Agah Oktay Güner,,,,Anavatan Partisi,ANAP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,male
+b273d470-8c3c-4291-bbd5-03d643754789,Ahmet Arkan,Ahmet Arkan,,,,Demokratik Sol Parti,DSP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,male
 7fd97ebb-29c2-4129-829f-be5d16e39590,Ahmet Aydın,Ahmet Aydın,,,,Milliyetçi Hareket Partisi,MHP,area/samsun,Samsun,Grand National Assembly,21,,,,male
 40ead0dd-f188-44a5-89e6-c0303b092bdc,Ahmet Cemil Tunç,Ahmet Cemil Tunç,,,,Fazilet Partisi,FP,area/elazığ,Elazığ,Grand National Assembly,21,,,,male
 3d055ffb-dcc0-480b-9dc8-2b48064afe28,Ahmet Demircan,Ahmet Demircan,,,,Fazilet Partisi,FP,area/samsun,Samsun,Grand National Assembly,21,,,,male
@@ -37,16 +37,16 @@ d1bee377-9f58-42b0-a06b-f4dc34911248,Ahmet Sünnetçioğlu,Ahmet Sünnetçioğlu
 53267f83-af61-41d3-9e55-b4697b2e55c1,Akif Serin,Akif Serin,,,,Demokratik Sol Parti,DSP,area/mersin,Mersin,Grand National Assembly,21,,,,
 42e86d82-9652-4db2-9ca1-a30bcaedc066,Alaattin Sever Aydın,Alaattin Sever Aydın,,,,Fazilet Partisi,FP,area/batman,Batman,Grand National Assembly,21,,,,male
 989d7fb3-d8f6-4a74-b394-bbf7663e92d3,Ali Ahmet Ertürk,Ali Ahmet Ertürk,,,,Demokratik Sol Parti,DSP,area/edirne,Edirne,Grand National Assembly,21,,,,
-d367f811-c0eb-4554-a2d0-3f82b66de13e,Ali Arabacı,Ali Arabacı,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,
+d367f811-c0eb-4554-a2d0-3f82b66de13e,Ali Arabacı,Ali Arabacı,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,male
 722c782c-7a45-44c3-b406-c85756f54f77,Ali Coşkun,Ali Coşkun,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 d81741bb-bf8f-4a09-9593-ec12d08ed54b,Ali Doğan,Ali Doğan,,,,Anavatan Partisi,ANAP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,
 3d3f4f83-e6fa-4e0d-8ac6-b96d099b579e,Ali Emre Kocaoğlu,Ali Emre Kocaoğlu,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
-a1c5eefb-bd09-47ee-b6ec-1449fdb1d131,Ali Er,Ali Er,,,,Anavatan Partisi,ANAP,area/mersin,Mersin,Grand National Assembly,21,,,,
+a1c5eefb-bd09-47ee-b6ec-1449fdb1d131,Ali Er,Ali Er,,,,Anavatan Partisi,ANAP,area/mersin,Mersin,Grand National Assembly,21,,,,male
 f91ca521-bbcd-47e9-acd4-851674f98d44,Ali Gebeş,Ali Gebeş,,,,Milliyetçi Hareket Partisi,MHP,area/konya,Konya,Grand National Assembly,21,,,,
 3ad6e1cf-949a-430f-a77d-b46644acdde0,Ali Gören,Ali Gören,,,,Fazilet Partisi,FP,area/adana,Adana,Grand National Assembly,21,,,,
 6cbcdb24-6662-4333-9a15-86fd03e71440,Ali Günay,Ali Günay,,,,Demokratik Sol Parti,DSP,area/hatay,Hatay,Grand National Assembly,21,,,,
-5ff92e8e-3fde-43ee-8e88-7f9f8c1ec6be,Ali Güner,Ali Güner,,,,Fazilet Partisi,FP,area/iğdır,Iğdır,Grand National Assembly,21,,,,
-6f2295bd-0293-4790-8fab-ab26a453de1c,Ali Güngör,Ali Güngör,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,
+5ff92e8e-3fde-43ee-8e88-7f9f8c1ec6be,Ali Güner,Ali Güner,,,,Fazilet Partisi,FP,area/iğdır,Iğdır,Grand National Assembly,21,,,,male
+6f2295bd-0293-4790-8fab-ab26a453de1c,Ali Güngör,Ali Güngör,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,male
 6c119102-9b1e-40e7-9ca1-632a0c270921,Ali Halaman,Ali Halaman,,,,Milliyetçi Hareket Partisi,MHP,area/adana,Adana,Grand National Assembly,21,,,,male
 8d6ef908-6666-4fcf-a021-17c9c2c6144f,Ali Ilıksoy,Ali Ilıksoy,,,,Demokratik Sol Parti,DSP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,male
 c6117100-a8b9-459b-9bd0-806194a20675,Ali Işıklar,Ali Işıklar,,,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,,
@@ -55,19 +55,19 @@ be8207a6-a601-4b65-97bd-a3bc28e9d8d6,Ali Kemal Başaran,Ali Kemal Başaran,,,,An
 287137c7-2059-4ab5-8b48-1923c3753355,Ali Naci Tuncer,Ali Naci Tuncer,,,,Doğru Yol Partisi,DYP,area/trabzon,Trabzon,Grand National Assembly,21,,,,
 a1b7f583-54c5-49f2-8d46-8b20b57c9a0c,Ali Rahmi Beyreli,Ali Rahmi Beyreli,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,
 5c8cd8f4-74c0-4362-bc8b-38cd80def8ad,Ali Rıza Gönül,Ali Rıza Gönül,,,,Doğru Yol Partisi,DYP,area/aydın,Aydın,Grand National Assembly,21,,,,male
-7186845c-4002-44d0-a4d4-0a1f156be4b5,Ali Rıza Septioğlu,Ali Rıza Septioğlu,,,,Doğru Yol Partisi,DYP,area/elazığ,Elazığ,Grand National Assembly,21,,,,
+7186845c-4002-44d0-a4d4-0a1f156be4b5,Ali Rıza Septioğlu,Ali Rıza Septioğlu,,,,Doğru Yol Partisi,DYP,area/elazığ,Elazığ,Grand National Assembly,21,,,,male
 9e22f782-6bc7-4714-a29c-e0e96cfe36cc,Ali Serdengeçti,Ali Serdengeçti,,,,Milliyetçi Hareket Partisi,MHP,area/manisa,Manisa,Grand National Assembly,21,,,,
 8499d20e-e1d7-44d7-9b79-7f09e86c5fb4,Ali Sezal,Ali Sezal,,,,Fazilet Partisi,FP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,male
 a9814d4a-c893-4cb6-9b33-de97431fcca2,Ali Tekin,Ali Tekin,,,,Demokratik Sol Parti,DSP,area/adana,Adana,Grand National Assembly,21,,,,
 b7b31cd8-e137-4561-aa38-e18b68951290,Ali Uzunırmak,Ali Uzunırmak,,,,Milliyetçi Hareket Partisi,MHP,area/aydın,Aydın,Grand National Assembly,21,,,,male
-150f8b48-fbc7-46ee-ae31-6734762c57a3,Ali Özdemir,Ali Özdemir,,,,Milliyetçi Hareket Partisi,MHP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,
+150f8b48-fbc7-46ee-ae31-6734762c57a3,Ali Özdemir,Ali Özdemir,,,,Milliyetçi Hareket Partisi,MHP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,male
 0df64bcb-93d5-4e0a-8dd6-327c75283f49,Ali Şevki Erek,Ali Şevki Erek,,,,Doğru Yol Partisi,DYP,area/tokat,Tokat,Grand National Assembly,21,,,,female
 08b64823-f3f8-4bb3-96b8-a9a196c0ca89,Arif Sezer,Arif Sezer,,,,Demokratik Sol Parti,DSP,area/adana,Adana,Grand National Assembly,21,,,,male
 982709a1-8774-4fa3-9a8b-51a04b633fb4,Armağan Yılmaz,Armağan Yılmaz,,,,Milliyetçi Hareket Partisi,MHP,area/uşak,Uşak,Grand National Assembly,21,,,,
 46f5c313-2095-4dbb-9d8b-0f442c6b9e0a,Arslan Aydar,Arslan Aydar,,,,Milliyetçi Hareket Partisi,MHP,area/kars,Kars,Grand National Assembly,21,,,,
-652d1759-d12e-42c3-a50b-7682394d785e,Aslan Polat,Aslan Polat,,,,Fazilet Partisi,FP,area/erzurum,Erzurum,Grand National Assembly,21,,,,
+652d1759-d12e-42c3-a50b-7682394d785e,Aslan Polat,Aslan Polat,,,,Fazilet Partisi,FP,area/erzurum,Erzurum,Grand National Assembly,21,,,,male
 b13608d2-0ee8-479b-a33c-9534a4f556b8,Ataullah Hamidi,Ataullah Hamidi,,,,Anavatan Partisi,ANAP,area/batman,Batman,Grand National Assembly,21,,,,male
-c77a670b-44b2-4664-9cf7-9629aae3a754,Atilla Mutman,Atilla Mutman,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
+c77a670b-44b2-4664-9cf7-9629aae3a754,Atilla Mutman,Atilla Mutman,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,male
 8ea08de7-6d6f-4a0b-a0f8-9a6cc55b0479,Avni Akyol,Avni Akyol,,,,Anavatan Partisi,ANAP,area/bolu,Bolu,Grand National Assembly,21,,,,male
 9e737a65-fabf-47bf-ade4-5783d21adcdc,Avni Doğan,Avni Doğan,,,,Fazilet Partisi,FP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,male
 d0e5894b-b8b2-4991-84bf-985391d26a63,Aydın Ağan Ayaydın,Aydın Ağan Ayaydın,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
@@ -75,7 +75,7 @@ d0e5894b-b8b2-4991-84bf-985391d26a63,Aydın Ağan Ayaydın,Aydın Ağan Ayaydın
 2c5ccb5e-2451-4a21-93ff-32c4259a3e54,Aydın Menderes,Aydın Menderes,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 2c543c00-d4ee-43ad-831d-34531b4924cf,Aydın Tümen,Aydın Tümen,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 454f3318-e760-4791-9674-283be96c85cd,Ayfer Yılmaz,Ayfer Yılmaz,,,,Doğru Yol Partisi,DYP,area/mersin,Mersin,Grand National Assembly,21,,,,female
-4cf9015a-5ffb-42c2-a701-2a6167344296,Ayhan Çevik,Ayhan Çevik,,,,Milliyetçi Hareket Partisi,MHP,area/van,Van,Grand National Assembly,21,,,,
+4cf9015a-5ffb-42c2-a701-2a6167344296,Ayhan Çevik,Ayhan Çevik,,,,Milliyetçi Hareket Partisi,MHP,area/van,Van,Grand National Assembly,21,,,,male
 e7bfce37-6064-4eca-ba8b-c94e8a0549ab,Ayvaz Gökdemir,Ayvaz Gökdemir,,,,Doğru Yol Partisi,DYP,area/erzurum,Erzurum,Grand National Assembly,21,,,,male
 eda5b717-dbc3-4c62-a81c-1c4a02c659bb,Ayşe Gürocak,Ayşe Gürocak,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
 8f2ea96e-3fa0-48ba-97bc-ebbb5c121990,Azmi Ateş,Azmi Ateş,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
@@ -84,7 +84,7 @@ eda5b717-dbc3-4c62-a81c-1c4a02c659bb,Ayşe Gürocak,Ayşe Gürocak,,,,Demokratik
 7aa51941-2b98-416e-972f-2eda2fc0bcc0,Basri Coşkun,Basri Coşkun,,,,Milliyetçi Hareket Partisi,MHP,area/malatya,Malatya,Grand National Assembly,21,,,,
 5a8bc01d-5f11-4bfb-b8f3-ce51e639a861,Bayram Fırat Dayanıklı,Bayram Fırat Dayanıklı,,,,Demokratik Sol Parti,DSP,area/tekirdağ,Tekirdağ,Grand National Assembly,21,,,,
 80c5d525-8cfc-4949-8f7f-06ba3e4f4ecc,Bedri Yaşar,Bedri Yaşar,,,,Milliyetçi Hareket Partisi,MHP,area/gümüşhane,Gümüşhane,Grand National Assembly,21,,,,
-a5a09a84-4bca-42c0-af5e-f95925c33dd0,Bekir Aksoy,Bekir Aksoy,,,,Doğru Yol Partisi,DYP,area/Çorum,Çorum,Grand National Assembly,21,,,,
+a5a09a84-4bca-42c0-af5e-f95925c33dd0,Bekir Aksoy,Bekir Aksoy,,,,Doğru Yol Partisi,DYP,area/Çorum,Çorum,Grand National Assembly,21,,,,male
 7fa7cbb2-0325-4db9-a48a-fe649d8b501f,Bekir Gündoğan,Bekir Gündoğan,,,,Bağımsız,ind,area/tunceli,Tunceli,Grand National Assembly,21,,,,
 74b7bf3c-6333-4160-99b5-0eea71fc972c,Bekir Ongun,Bekir Ongun,,,,Milliyetçi Hareket Partisi,MHP,area/aydın,Aydın,Grand National Assembly,21,,,,
 bfcd6fea-011e-4399-ace0-043186a629cb,Bekir Sobacı,Bekir Sobacı,,,,Fazilet Partisi,FP,area/tokat,Tokat,Grand National Assembly,21,,,,
@@ -95,7 +95,7 @@ bfcd6fea-011e-4399-ace0-043186a629cb,Bekir Sobacı,Bekir Sobacı,,,,Fazilet Part
 b9f606fb-9ab1-40d4-a71c-92bee087f871,Burhan Bıçakçıoğlu,Burhan Bıçakçıoğlu,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 a28257c8-017a-484f-ae3b-999c4af631c6,Burhan Kara,Burhan Kara,,,,Anavatan Partisi,ANAP,area/giresun,Giresun,Grand National Assembly,21,,,,male
 4c2ccf17-c336-4c2d-b96b-d01a3f91dce1,Burhan Orhan,Burhan Orhan,,,,Milliyetçi Hareket Partisi,MHP,area/bursa,Bursa,Grand National Assembly,21,,,,
-fb3513b4-a8cb-4761-b963-005ea2f5e312,Burhan Suat Çağlayan,Burhan Suat Çağlayan,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
+fb3513b4-a8cb-4761-b963-005ea2f5e312,Burhan Suat Çağlayan,Burhan Suat Çağlayan,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,male
 1c1ce31a-402a-405a-b9c3-8c026c0597f7,Burhan İsen,Burhan İsen,,,,Doğru Yol Partisi,DYP,area/batman,Batman,Grand National Assembly,21,,,,
 6a5cfa74-acfb-4123-a0ac-4caa18d366d5,Bülent Akarcalı,Bülent Akarcalı,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 741e71ba-8649-4fe6-bb14-b131e10aea6f,Bülent Arınç,Bülent Arınç,,,,Fazilet Partisi,FP,area/manisa,Manisa,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/b/bc/Bulent_Arinc_2014.jpg,male
@@ -109,30 +109,30 @@ c91faf94-58fd-45f8-a02a-4298b17b0f14,Celal Esin,Celal Esin,,,,Fazilet Partisi,FP
 86d50b6c-576f-4e5a-bf44-e960fed42a4a,Cemal Enginyurt,Cemal Enginyurt,,,,Milliyetçi Hareket Partisi,MHP,area/ordu,Ordu,Grand National Assembly,21,,,,
 ae8ef3d1-6dbd-41c5-b3fa-6b08df54ad3d,Cemal Özbilen,Cemal Özbilen,,,,Anavatan Partisi,ANAP,area/kırklareli,Kırklareli,Grand National Assembly,21,,,,male
 abe19024-a773-46d4-949c-d109126b7361,Cemil Çiçek,Cemil Çiçek,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/3/3c/Cemil_Cicek.jpg,male
-715bb755-4936-4b57-829c-b79587f39d1c,Cengiz Altınkaya,Cengiz Altınkaya,,,,Anavatan Partisi,ANAP,area/aydın,Aydın,Grand National Assembly,21,,,,
+715bb755-4936-4b57-829c-b79587f39d1c,Cengiz Altınkaya,Cengiz Altınkaya,,,,Anavatan Partisi,ANAP,area/aydın,Aydın,Grand National Assembly,21,,,,male
 092311f9-5c49-4a7a-b167-2cfca10a6140,Cengiz Aydoğan,Cengiz Aydoğan,,,,Anavatan Partisi,ANAP,area/antalya,Antalya,Grand National Assembly,21,,,,male
-4baeae11-2b1a-4cf4-ba61-8dc628831b5a,Cevat Ayhan,Cevat Ayhan,,,,Fazilet Partisi,FP,area/sakarya,Sakarya,Grand National Assembly,21,,,,
+4baeae11-2b1a-4cf4-ba61-8dc628831b5a,Cevat Ayhan,Cevat Ayhan,,,,Fazilet Partisi,FP,area/sakarya,Sakarya,Grand National Assembly,21,,,,male
 184f9366-4b91-4916-a510-622ef1a4b8b8,Cevdet Akçalı,Cevdet Akçalı,,,,Doğru Yol Partisi,DYP,area/kütahya,Kütahya,Grand National Assembly,21,,,,male
 3e536587-d5b3-4ac2-ac50-ca1f6ef0edba,Cezmi Polat,Cezmi Polat,,,,Milliyetçi Hareket Partisi,MHP,area/erzurum,Erzurum,Grand National Assembly,21,,,,
 53a555f9-0942-456e-9c0b-4c86d4507a96,Cumali Durmuş,Cumali Durmuş,,,,Milliyetçi Hareket Partisi,MHP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,
 d41616e5-e49e-4a52-ba35-44614a0c0740,Cumhur Ersümer,Cumhur Ersümer,,,,Anavatan Partisi,ANAP,area/Çanakkale,Çanakkale,Grand National Assembly,21,,,,male
 7b1c53f9-357a-4d61-9cc1-2e348b032154,Dengir Mir Mehmet Fırat,Dengir Mir Mehmet Fırat,,,,Fazilet Partisi,FP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/f/f2/Dengir_Mir_Mehmet_Fırat_2015-March_(cropped).jpg,male
-e0c3d800-3dc6-477f-8b78-18d8a8760bf6,Devlet Bahçeli,Devlet Bahçeli,,,,Milliyetçi Hareket Partisi,MHP,area/osmaniye,Osmaniye,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bahçeli_VOA_2015_(cropped).jpg,male
-e47d06ae-4c22-4a1c-a076-27b7089251b3,Doğan Baran,Doğan Baran,,,,Doğru Yol Partisi,DYP,area/niğde,Niğde,Grand National Assembly,21,,,,
+e0c3d800-3dc6-477f-8b78-18d8a8760bf6,Devlet Bahçeli,Devlet Bahçeli,,dbdevletbahceli,,Milliyetçi Hareket Partisi,MHP,area/osmaniye,Osmaniye,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/e/e1/Devlet_Bahçeli_VOA_2015_(cropped).jpg,male
+e47d06ae-4c22-4a1c-a076-27b7089251b3,Doğan Baran,Doğan Baran,,,,Doğru Yol Partisi,DYP,area/niğde,Niğde,Grand National Assembly,21,,,,male
 190d339e-bf16-4ac6-b521-a827a4d3b10b,Doğan Güreş,Doğan Güreş,,,,Doğru Yol Partisi,DYP,area/kilis,Kilis,Grand National Assembly,21,,,,male
 35bd5b58-cff0-4a67-b57b-f73f8720ab5f,Edip Safder Gaydalı,Edip Safder Gaydalı,,,,Anavatan Partisi,ANAP,area/bitlis,Bitlis,Grand National Assembly,21,,,,male
 3da95bbd-9910-40b0-bb14-f00cf610615a,Edip Özbaş,Edip Özbaş,,,,Milliyetçi Hareket Partisi,MHP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,
 45efbf35-859e-4499-a34d-26602d7e8ea8,Edip Özgenç,Edip Özgenç,,,,Demokratik Sol Parti,DSP,area/mersin,Mersin,Grand National Assembly,21,,,,male
 e411b312-ec95-408c-8842-18bea798f36c,Ediz Hun,Ediz Hun,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/8/8f/Ediz_Hun.JPG,male
-ca0d992d-fd09-4fd2-9589-3233dd531721,Ekrem Pakdemirli,Ekrem Pakdemirli,,,,Anavatan Partisi,ANAP,area/manisa,Manisa,Grand National Assembly,21,,,,
+ca0d992d-fd09-4fd2-9589-3233dd531721,Ekrem Pakdemirli,Ekrem Pakdemirli,,,,Anavatan Partisi,ANAP,area/manisa,Manisa,Grand National Assembly,21,,,,male
 1e7f445d-53ad-41ea-b416-c8f0996e6b55,Emin Karaa,Emin Karaa,,,,Demokratik Sol Parti,DSP,area/kütahya,Kütahya,Grand National Assembly,21,,,,male
 90fc7784-c39d-48ee-8233-055fce0b2f6f,Emrehan Halıcı,Emrehan Halıcı,,,,Demokratik Sol Parti,DSP,area/konya,Konya,Grand National Assembly,21,,,,
-0350a485-0abf-4e27-a225-19c461c1abe2,Enis Sülün,Enis Sülün,,,,Anavatan Partisi,ANAP,area/tekirdağ,Tekirdağ,Grand National Assembly,21,,,,
-47c905fc-09f9-470b-b7dc-9dc854fc544a,Enis Öksüz,Enis Öksüz,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,
-a9afd374-a083-44bf-8981-9e7ddc42bca5,Erdoğan Sezgin,Erdoğan Sezgin,,,,Doğru Yol Partisi,DYP,area/samsun,Samsun,Grand National Assembly,21,,,,
+0350a485-0abf-4e27-a225-19c461c1abe2,Enis Sülün,Enis Sülün,,,,Anavatan Partisi,ANAP,area/tekirdağ,Tekirdağ,Grand National Assembly,21,,,,male
+47c905fc-09f9-470b-b7dc-9dc854fc544a,Enis Öksüz,Enis Öksüz,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,male
+a9afd374-a083-44bf-8981-9e7ddc42bca5,Erdoğan Sezgin,Erdoğan Sezgin,,,,Doğru Yol Partisi,DYP,area/samsun,Samsun,Grand National Assembly,21,,,,male
 17603451-08e5-4d35-92e0-0a3f15bcd63c,Erdoğan Toprak,Erdoğan Toprak,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/a/a5/Erdoğan_Toprak.jpg,male
 300796e9-a4b6-4fcb-8978-0a90762de907,Ergün Bayrak,Ergün Bayrak,,,,Demokratik Sol Parti,DSP,area/artvin,Artvin,Grand National Assembly,21,,,,
-1cc20a3d-fad0-4dec-bd0c-3b5f78cb8d71,Erkan Kemaloğlu,Erkan Kemaloğlu,,,,Anavatan Partisi,ANAP,area/muş,Muş,Grand National Assembly,21,,,,
+1cc20a3d-fad0-4dec-bd0c-3b5f78cb8d71,Erkan Kemaloğlu,Erkan Kemaloğlu,,,,Anavatan Partisi,ANAP,area/muş,Muş,Grand National Assembly,21,,,,male
 e3d86790-ee61-4347-9ac6-5ad217a098f6,Erkan Mumcu,Erkan Mumcu,,,,Anavatan Partisi,ANAP,area/isparta,Isparta,Grand National Assembly,21,,,,male
 1f4bc2fb-800b-4ea2-85cc-3f642043b610,Erol Al,Erol Al,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 33eee505-dbc8-490d-94b7-6098f86d9fe2,Erol Karan,Erol Karan,,,,Demokratik Sol Parti,DSP,area/karabük,Karabük,Grand National Assembly,21,,,,male
@@ -143,16 +143,16 @@ df9c0824-92a5-487f-a984-af86181cbed3,Ersoy Özcan,Ersoy Özcan,,,,Milliyetçi Ha
 51cbfdb4-8daa-473c-b9dc-dc293ef8d361,Esat Öz,Esat Öz,,,,Milliyetçi Hareket Partisi,MHP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 a73cdf8d-ef7e-40c8-a5ae-7894303f3b1e,Esvet Özdoğu,Esvet Özdoğu,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
 6e2a81e3-5a58-41a6-9c22-bc114b7a1a10,Evliya Parlak,Evliya Parlak,,,,Fazilet Partisi,FP,area/hakkâri,Hakkâri,Grand National Assembly,21,,,,
-594a6231-eeb6-4453-b4a8-ed63f274b5d6,Evren Bulut,Evren Bulut,,,,Anavatan Partisi,ANAP,area/edirne,Edirne,Grand National Assembly,21,,,,
+594a6231-eeb6-4453-b4a8-ed63f274b5d6,Evren Bulut,Evren Bulut,,,,Anavatan Partisi,ANAP,area/edirne,Edirne,Grand National Assembly,21,,,,male
 8b5e3e62-be33-4193-982f-33b12ae501bf,Eyyüp Cenap Gülpınar,Eyyüp Cenap Gülpınar,,,,Anavatan Partisi,ANAP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,male
-62a7995c-51b8-4197-b9e9-4e747aeb7dd4,Eyyüp Sanay,Eyyüp Sanay,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,,
+62a7995c-51b8-4197-b9e9-4e747aeb7dd4,Eyyüp Sanay,Eyyüp Sanay,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 3b5fb2ea-3ad5-432a-bf08-75599501a3a2,Eyüp Aşık,Eyüp Aşık,,,,Anavatan Partisi,ANAP,area/trabzon,Trabzon,Grand National Assembly,21,,,,male
 f4c94cc1-e915-4c1a-a113-ab95c8e394af,Eyüp Doğanlar,Eyüp Doğanlar,,,,Demokratik Sol Parti,DSP,area/niğde,Niğde,Grand National Assembly,21,,,,
 f386f491-cd0d-46a8-88c6-9cf1ff37d3fd,Eyüp Fatsa,Eyüp Fatsa,,,,Fazilet Partisi,FP,area/ordu,Ordu,Grand National Assembly,21,,,,
 459f73ff-e031-4bc5-8855-cf8bf9f51d45,Fadlı Ağaoğlu,Fadlı Ağaoğlu,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 888e3934-3b89-4c5d-8e8e-6162dcada9fd,Fahrettin Gülener,Fahrettin Gülener,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,
 9b2e4137-2811-4d4c-9eb7-f839b8eba5c2,Fahrettin Kukaracı,Fahrettin Kukaracı,,,,Fazilet Partisi,FP,area/erzurum,Erzurum,Grand National Assembly,21,,,,
-bb4e4a72-d24d-4ba8-ab60-b4ffd042d48d,Faris Özdemir,Faris Özdemir,,,,Doğru Yol Partisi,DYP,area/batman,Batman,Grand National Assembly,21,,,,
+bb4e4a72-d24d-4ba8-ab60-b4ffd042d48d,Faris Özdemir,Faris Özdemir,,,,Doğru Yol Partisi,DYP,area/batman,Batman,Grand National Assembly,21,,,,male
 36b170ab-616d-4e90-8d7c-8b2135443491,Faruk Bal,Faruk Bal,,,,Milliyetçi Hareket Partisi,MHP,area/konya,Konya,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/a/a9/Faruk_Bal.jpg,male
 ea2ceac8-d3c0-4aeb-bce3-a894bb0b5cd7,Faruk Demir,Faruk Demir,,,,Demokratik Sol Parti,DSP,area/ardahan,Ardahan,Grand National Assembly,21,,,,male
 be45c5c7-bae9-48eb-b335-22cf4572e890,Faruk Çelik,Faruk Çelik,,,,Fazilet Partisi,FP,area/bursa,Bursa,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/e/e1/Faruk-Çelik-2009.jpg,male
@@ -161,9 +161,9 @@ be45c5c7-bae9-48eb-b335-22cf4572e890,Faruk Çelik,Faruk Çelik,,,,Fazilet Partis
 ef21962b-12a4-4a09-96b4-a46a3dc4dfe5,Fetullah Gültepe,Fetullah Gültepe,,,,Doğru Yol Partisi,DYP,area/van,Van,Grand National Assembly,21,,,,
 1dd448f0-8d35-4fee-a37e-c0e140f7beef,Fevzi Aytekin,Fevzi Aytekin,,,,Demokratik Sol Parti,DSP,area/tekirdağ,Tekirdağ,Grand National Assembly,21,,,,male
 8b818d97-3353-4528-b6d6-c8119ca73621,Fikret Tecer,Fikret Tecer,,,,Demokratik Sol Parti,DSP,area/kırşehir,Kırşehir,Grand National Assembly,21,,,,
-929d6029-63b3-4e37-9567-4252be1938a8,Fikret Uzunhasan,Fikret Uzunhasan,,,,Demokratik Sol Parti,DSP,area/muğla,Muğla,Grand National Assembly,21,,,,
+929d6029-63b3-4e37-9567-4252be1938a8,Fikret Uzunhasan,Fikret Uzunhasan,,,,Demokratik Sol Parti,DSP,area/muğla,Muğla,Grand National Assembly,21,,,,male
 1e136835-bb78-479e-ad59-1afd8f18cb86,Fikret Ünlü,Fikret Ünlü,,,,Demokratik Sol Parti,DSP,area/karaman,Karaman,Grand National Assembly,21,,,,male
-dda47016-4353-49f0-810c-bc717483a193,Gaffar Yakın,Gaffar Yakın,,,,Demokratik Sol Parti,DSP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,
+dda47016-4353-49f0-810c-bc717483a193,Gaffar Yakın,Gaffar Yakın,,,,Demokratik Sol Parti,DSP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,male
 97b8e4e4-cb63-4d5a-9ccb-5e87b0e07b1b,Gönül Saray Alphan,Gönül Saray Alphan,,,,Demokratik Sol Parti,DSP,area/amasya,Amasya,Grand National Assembly,21,,,,
 88f7762c-83a8-4b41-9af0-7106e4baa698,Güler Aslan,Güler Aslan,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 3c129342-01eb-4db5-b32f-3ff2ff88f0c4,Güneş Taner,Güneş Taner,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
@@ -185,10 +185,10 @@ bfa601e8-7286-456b-8380-c4f48af3121c,Hasan Gemici,Hasan Gemici,,,,Demokratik Sol
 6a70055b-3082-475d-92f3-124df6949131,Hasan Gülay,Hasan Gülay,,,,Demokratik Sol Parti,DSP,area/manisa,Manisa,Grand National Assembly,21,,,,
 5673b8f0-9aef-4601-8835-500c323e8f11,Hasan Hüseyin Balak,Hasan Hüseyin Balak,,,,Milliyetçi Hareket Partisi,MHP,area/tokat,Tokat,Grand National Assembly,21,,,,
 d997ed8e-5b2b-44ce-9484-80399bedd107,Hasan Kaya,Hasan Kaya,,,,Milliyetçi Hareket Partisi,MHP,area/konya,Konya,Grand National Assembly,21,,,,
-acd05618-6747-48e9-90c3-e7a2a5ca5ff9,Hasan Macit,Hasan Macit,,,,Demokratik Sol Parti,DSP,area/burdur,Burdur,Grand National Assembly,21,,,,
+acd05618-6747-48e9-90c3-e7a2a5ca5ff9,Hasan Macit,Hasan Macit,,,,Demokratik Sol Parti,DSP,area/burdur,Burdur,Grand National Assembly,21,,,,male
 e470cdeb-f486-4389-944f-0fc62c05572c,Hasan Metin,Hasan Metin,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 ccc3ed19-d222-4f30-82d1-40d8b761b515,Hasan Suna,Hasan Suna,,,,Demokratik Sol Parti,DSP,area/yalova,Yalova,Grand National Assembly,21,,,,
-1086b6e4-77db-4fc4-8939-2d088f0d8cba,Hasan Ufuk Söylemez,Hasan Ufuk Söylemez,,,,Doğru Yol Partisi,DYP,area/İzmir,İzmir,Grand National Assembly,21,,,,
+1086b6e4-77db-4fc4-8939-2d088f0d8cba,Hasan Ufuk Söylemez,Hasan Ufuk Söylemez,,,,Doğru Yol Partisi,DYP,area/İzmir,İzmir,Grand National Assembly,21,,,,male
 a3380316-8cd2-454b-b45b-258af857636c,Hasan Çalış,Hasan Çalış,,,,Milliyetçi Hareket Partisi,MHP,area/karaman,Karaman,Grand National Assembly,21,,,,male
 fabae53c-9ad5-4ca1-a420-19860909e0a1,Hasan Özgöbek,Hasan Özgöbek,,,,Demokratik Sol Parti,DSP,area/uşak,Uşak,Grand National Assembly,21,,,,
 f780901d-a73b-414e-8d54-f58d589bb1fe,Hasan Özyer,Hasan Özyer,,,,Anavatan Partisi,ANAP,area/muğla,Muğla,Grand National Assembly,21,,,,male
@@ -199,8 +199,8 @@ d1dfedde-6789-480e-ac6d-23a850e7db67,Hayati Korkmaz,Hayati Korkmaz,,,,Demokratik
 2e0aec29-4976-4c86-b685-ce4267a21f85,Hayri Kozakçıoğlu,Hayri Kozakçıoğlu,,,,Doğru Yol Partisi,DYP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 13c150ab-887a-4c66-8a41-c1c6dc96cc9b,Hidayet Kılınç,Hidayet Kılınç,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,
 ca67b9d9-dd80-48b9-aa12-c37de61111ee,Hikmet Sami Türk,Hikmet Sami Türk,,,,Demokratik Sol Parti,DSP,area/trabzon,Trabzon,Grand National Assembly,21,,,,male
-7555159d-f8ce-4266-af57-fe6d9ed62de7,Hikmet Uluğbay,Hikmet Uluğbay,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
-19a8ad72-499a-4bf3-bbc3-0a909aad30e9,Hüsamettin Korkutata,Hüsamettin Korkutata,,,,Fazilet Partisi,FP,area/bingöl,Bingöl,Grand National Assembly,21,,,,
+7555159d-f8ce-4266-af57-fe6d9ed62de7,Hikmet Uluğbay,Hikmet Uluğbay,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,male
+19a8ad72-499a-4bf3-bbc3-0a909aad30e9,Hüsamettin Korkutata,Hüsamettin Korkutata,,,,Fazilet Partisi,FP,area/bingöl,Bingöl,Grand National Assembly,21,,,,male
 fdb34a53-4788-4c71-aaa5-f8a8e7256ea1,Hüsamettin Özkan,Hüsamettin Özkan,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 ba7fa7bb-f26f-417d-a0c1-237bffaeed9a,Hüseyin Akgül,Hüseyin Akgül,,,,Milliyetçi Hareket Partisi,MHP,area/manisa,Manisa,Grand National Assembly,21,,,,male
 9b035725-e9b1-4a8d-a984-46fdedb1f45b,Hüseyin Arabacı,Hüseyin Arabacı,,,,Milliyetçi Hareket Partisi,MHP,area/bilecik,Bilecik,Grand National Assembly,21,,,,
@@ -210,33 +210,33 @@ ce919304-b694-487e-ab20-b147dc6b4035,Hüseyin Kansu,Hüseyin Kansu,,,,Fazilet Pa
 f1655c0e-3aae-45b5-ba74-2a227fd6a769,Hüseyin Karagöz,Hüseyin Karagöz,,,,Fazilet Partisi,FP,area/Çankırı,Çankırı,Grand National Assembly,21,,,,
 f1d4d3d9-d0d3-4048-9904-6df66913894e,Hüseyin Mert,Hüseyin Mert,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 16335062-bc1a-4934-8bd4-2f61a6545d50,Hüseyin Çelik,Hüseyin Çelik,,,,Doğru Yol Partisi,DYP,area/van,Van,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/b/b5/Hüseyin_Çelik_2008.jpg,male
-2d83f1c7-3e94-4056-b39a-bf3c120125d6,Hüsnü Yusuf Gökalp,Hüsnü Yusuf Gökalp,,,,Milliyetçi Hareket Partisi,MHP,area/sivas,Sivas,Grand National Assembly,21,,,,
-a2f27230-91b1-41cc-b764-1fb11dbba6f2,Işılay Saygın,Işılay Saygın,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,female
+2d83f1c7-3e94-4056-b39a-bf3c120125d6,Hüsnü Yusuf Gökalp,Hüsnü Yusuf Gökalp,,,,Milliyetçi Hareket Partisi,MHP,area/sivas,Sivas,Grand National Assembly,21,,,,male
+a2f27230-91b1-41cc-b764-1fb11dbba6f2,Işılay Saygın,Işılay Saygın,,isilay_saygin,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,female
 a03063f2-3023-40a9-b132-7f87ce2a22d2,Işın Çelebi,Işın Çelebi,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 dc1ab9d4-0360-4d90-bcd6-fd35335bcb0a,Kadir Bozkurt,Kadir Bozkurt,,,,Doğru Yol Partisi,DYP,area/sinop,Sinop,Grand National Assembly,21,,,,male
 c26fb760-8a59-465e-afc0-757b5adaedb7,Kadir Görmez,Kadir Görmez,,,,Milliyetçi Hareket Partisi,MHP,area/kütahya,Kütahya,Grand National Assembly,21,,,,
 5a02ed59-9279-4662-83a2-c2b448c8977b,Kamer Genç,Kamer Genç,,,,Doğru Yol Partisi,DYP,area/tunceli,Tunceli,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/6/69/Kamer_Genç_crop.JPG,male
 b9a2da8f-c106-4280-b461-8c3d2a3240da,Kamran İnan,Kamran İnan,,,,Anavatan Partisi,ANAP,area/van,Van,Grand National Assembly,21,,,,male
-2519572e-5439-4076-aecc-c845186f97e2,Kemal Albayrak,Kemal Albayrak,,,,Fazilet Partisi,FP,area/kırıkkale,Kırıkkale,Grand National Assembly,21,,,,
+2519572e-5439-4076-aecc-c845186f97e2,Kemal Albayrak,Kemal Albayrak,,,,Fazilet Partisi,FP,area/kırıkkale,Kırıkkale,Grand National Assembly,21,,,,male
 ebd64281-6201-4c3b-8e95-508b2a8f9e82,Kemal Kabataş,Kemal Kabataş,,,,Doğru Yol Partisi,DYP,area/samsun,Samsun,Grand National Assembly,21,,,,male
 09fec130-0cd3-4e60-bb39-21c7bde39f15,Kemal Köse,Kemal Köse,,,,Milliyetçi Hareket Partisi,MHP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,
 9bc46984-45db-4778-9fe4-41b29cb68f8a,Kemal Vatan,Kemal Vatan,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 e98bb929-2222-48d4-ba55-4bff7a8c1ac4,Kemal Çelik,Kemal Çelik,,,,Doğru Yol Partisi,DYP,area/antalya,Antalya,Grand National Assembly,21,,,,male
-8658ccee-8d78-40b8-b4f6-22f0a62d03a5,Kenan Sönmez,Kenan Sönmez,,,,Anavatan Partisi,ANAP,area/bursa,Bursa,Grand National Assembly,21,,,,
-c841b0d1-9054-4b8c-b320-6356f24eeef7,Koray Aydın,Koray Aydın,,,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/2/23/Koray_Aydın.jpg,male
+8658ccee-8d78-40b8-b4f6-22f0a62d03a5,Kenan Sönmez,Kenan Sönmez,,,,Anavatan Partisi,ANAP,area/bursa,Bursa,Grand National Assembly,21,,,,male
+c841b0d1-9054-4b8c-b320-6356f24eeef7,Koray Aydın,Koray Aydın,,korayaydinmhp,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/2/23/Koray_Aydın.jpg,male
 e9f2f8eb-ee73-4e2b-b19c-058999a01a53,Kürşat Eser,Kürşat Eser,,,,Milliyetçi Hareket Partisi,MHP,area/aksaray,Aksaray,Grand National Assembly,21,,,,
-7c37ceca-bd0c-4206-bb92-a1b67b13b50e,Latif Öztek,Latif Öztek,,,,Fazilet Partisi,FP,area/elazığ,Elazığ,Grand National Assembly,21,,,,
-c2ab33da-a55b-4b77-a79f-dcfd026bc21b,Levent Mıstıkoğlu,Levent Mıstıkoğlu,,,,Anavatan Partisi,ANAP,area/hatay,Hatay,Grand National Assembly,21,,,,
-31f3bec0-e7d5-4861-994f-52ee45bf4616,Lütfi Ceylan,Lütfi Ceylan,,,,Milliyetçi Hareket Partisi,MHP,area/tokat,Tokat,Grand National Assembly,21,,,,
-ba69a638-2746-41a5-9c69-8d62ea15a603,Lütfi Doğan,Lütfi Doğan,,,,Fazilet Partisi,FP,area/gümüşhane,Gümüşhane,Grand National Assembly,21,,,,
-b9196a7c-39e8-417f-bb9e-030abe594ffd,Lütfi Yalman,Lütfi Yalman,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,
-3ac3d331-863c-46cc-968b-fe024e3ef500,Lütfullah Kayalar,Lütfullah Kayalar,,,,Anavatan Partisi,ANAP,area/yozgat,Yozgat,Grand National Assembly,21,,,,male
-b8ba974d-85d1-4be3-a891-f299410d9f77,Lütfü Esengün,Lütfü Esengün,,,,Fazilet Partisi,FP,area/erzurum,Erzurum,Grand National Assembly,21,,,,
+7c37ceca-bd0c-4206-bb92-a1b67b13b50e,Latif Öztek,Latif Öztek,,,,Fazilet Partisi,FP,area/elazığ,Elazığ,Grand National Assembly,21,,,,male
+c2ab33da-a55b-4b77-a79f-dcfd026bc21b,Levent Mıstıkoğlu,Levent Mıstıkoğlu,,,,Anavatan Partisi,ANAP,area/hatay,Hatay,Grand National Assembly,21,,,,male
+31f3bec0-e7d5-4861-994f-52ee45bf4616,Lütfi Ceylan,Lütfi Ceylan,,,,Milliyetçi Hareket Partisi,MHP,area/tokat,Tokat,Grand National Assembly,21,,,,male
+ba69a638-2746-41a5-9c69-8d62ea15a603,Lütfi Doğan,Lütfi Doğan,,,,Fazilet Partisi,FP,area/gümüşhane,Gümüşhane,Grand National Assembly,21,,,,male
+b9196a7c-39e8-417f-bb9e-030abe594ffd,Lütfi Yalman,Lütfi Yalman,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,male
+3ac3d331-863c-46cc-968b-fe024e3ef500,Lütfullah Kayalar,Lütfullah Kayalar,,,,Anavatan Partisi,ANAP,area/yozgat,Yozgat,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/5/5b/Lutfullah-kayalar-fotografi.jpg,male
+b8ba974d-85d1-4be3-a891-f299410d9f77,Lütfü Esengün,Lütfü Esengün,,,,Fazilet Partisi,FP,area/erzurum,Erzurum,Grand National Assembly,21,,,,male
 fbd90005-5aa3-4ca0-83f3-437ef15dc3b1,Mahfuz Güler,Mahfuz Güler,,,,Fazilet Partisi,FP,area/bingöl,Bingöl,Grand National Assembly,21,,,,male
-8aac3341-f943-4c5e-bee5-4fc7a55719a2,Mahmut Bozkurt,Mahmut Bozkurt,,,,Anavatan Partisi,ANAP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,
+8aac3341-f943-4c5e-bee5-4fc7a55719a2,Mahmut Bozkurt,Mahmut Bozkurt,,,,Anavatan Partisi,ANAP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,male
 e5ff05ed-2bf1-40f9-b995-2c4e28975636,Mahmut Erdir,Mahmut Erdir,,,,Demokratik Sol Parti,DSP,area/eskişehir,Eskişehir,Grand National Assembly,21,,,,male
-e6f18e16-e80d-4431-a4cc-ff1385353585,Mahmut Göksu,Mahmut Göksu,,,,Fazilet Partisi,FP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,
-ffe7fc46-d691-4406-948f-ec98add3f0a8,Mahmut Nedim Bilgiç,Mahmut Nedim Bilgiç,,,,Doğru Yol Partisi,DYP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,
+e6f18e16-e80d-4431-a4cc-ff1385353585,Mahmut Göksu,Mahmut Göksu,,,,Fazilet Partisi,FP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,male
+ffe7fc46-d691-4406-948f-ec98add3f0a8,Mahmut Nedim Bilgiç,Mahmut Nedim Bilgiç,,,,Doğru Yol Partisi,DYP,area/adıyaman,Adıyaman,Grand National Assembly,21,,,,male
 14a5f275-a920-4075-a6ef-01e7613186fe,Maliki Ejder Arvas,Maliki Ejder Arvas,,,,Fazilet Partisi,FP,area/van,Van,Grand National Assembly,21,,,,
 da20b9f7-a46c-473d-b6da-b8a1f03cfdbe,Masum Türker,Masum Türker,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/a/a9/Masum_Turker_(cropped).jpg,male
 942122a7-7ed6-4b73-8c53-392f2ba7c4be,Mecit Piruzbeyoğlu,Mecit Piruzbeyoğlu,,,,Anavatan Partisi,ANAP,area/hakkâri,Hakkâri,Grand National Assembly,21,,,,
@@ -250,7 +250,7 @@ f1ce9406-f280-477d-a288-ddb78dda5454,Mehmet Arslan,Mehmet Arslan,,,,Milliyetçi 
 5683a0a3-573d-45db-9be8-1441db4eed9f,Mehmet Ağar,Mehmet Ağar,,,,Bağımsız,ind,area/elazığ,Elazığ,Grand National Assembly,21,,,,male
 6fbe2a2e-5d89-44f0-8f40-278092a2e0b2,Mehmet Batuk,Mehmet Batuk,,,,Fazilet Partisi,FP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,
 2885fd33-7c3f-4712-994d-e158c720df09,Mehmet Baysarı,Mehmet Baysarı,,,,Doğru Yol Partisi,DYP,area/antalya,Antalya,Grand National Assembly,21,,,,
-d4ee0953-4e5c-4fd2-a5a7-29538e41c27e,Mehmet Bedri İncetahtacı,Mehmet Bedri İncetahtacı,,,,Fazilet Partisi,FP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,
+d4ee0953-4e5c-4fd2-a5a7-29538e41c27e,Mehmet Bedri İncetahtacı,Mehmet Bedri İncetahtacı,,,,Fazilet Partisi,FP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,male
 01caf8e9-6005-49cc-80a9-4bf3aa5f929e,Mehmet Bekaroğlu,Mehmet Bekaroğlu,,,,Fazilet Partisi,FP,area/rize,Rize,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/c/c0/Mehmet_Bekaroglu.jpg,male
 2389360b-5bcd-4355-875d-11dc020eb099,Mehmet Cavit Kavak,Mehmet Cavit Kavak,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 c92df92c-2fbf-4645-ae15-d7d28021d4bc,Mehmet Cengiz Güleç,Mehmet Cengiz Güleç,,,,Demokratik Sol Parti,DSP,area/sivas,Sivas,Grand National Assembly,21,,,,male
@@ -258,13 +258,13 @@ b5cb052b-b9f6-4459-8d38-b3e7d27407ff,Mehmet Ceylan,Mehmet Ceylan,,,,Milliyetçi 
 2697f0d3-53a0-4740-a994-3c2a311ab845,Mehmet Dönen,Mehmet Dönen,,,,Doğru Yol Partisi,DYP,area/hatay,Hatay,Grand National Assembly,21,,,,male
 9d61c5c0-55e1-4062-b096-4bf9a8724dbb,Mehmet Elkatmış,Mehmet Elkatmış,,,,Fazilet Partisi,FP,area/nevşehir,Nevşehir,Grand National Assembly,21,,,,male
 61bb0124-57d6-47ad-9bc4-64b4e3a0bab2,Mehmet Ergün Dağcıoğlu,Mehmet Ergün Dağcıoğlu,,,,Fazilet Partisi,FP,area/tokat,Tokat,Grand National Assembly,21,,,,
-410ca095-eaf4-4900-b7b8-3b16066e52b5,Mehmet Fevzi Şıhanlıoğlu,Mehmet Fevzi Şıhanlıoğlu,,,,Doğru Yol Partisi,DYP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,
+410ca095-eaf4-4900-b7b8-3b16066e52b5,Mehmet Fevzi Şıhanlıoğlu,Mehmet Fevzi Şıhanlıoğlu,,,,Doğru Yol Partisi,DYP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,male
 b5dfe1ae-0184-4b4c-9fe8-05b7f806270e,Mehmet Fuat Fırat,Mehmet Fuat Fırat,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 9ee5e614-7315-41d9-83b2-8d84d19a2bc2,Mehmet Gölhan,Mehmet Gölhan,,,,Doğru Yol Partisi,DYP,area/konya,Konya,Grand National Assembly,21,,,,male
 1cac2246-ec02-4152-8cd0-fef03abb8180,Mehmet Gözlükaya,Mehmet Gözlükaya,,,,Doğru Yol Partisi,DYP,area/denizli,Denizli,Grand National Assembly,21,,,,male
 67b327d2-c047-4679-b205-465468bb35e5,Mehmet Gül,Mehmet Gül,,,,Milliyetçi Hareket Partisi,MHP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 e823c117-3678-487b-bd87-5fe940af339b,Mehmet Güneş,Mehmet Güneş,,,,Anavatan Partisi,ANAP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,
-4e4b4fdc-275d-408d-917c-72c0fe6effa4,Mehmet Halit Dağlı,Mehmet Halit Dağlı,,,,Doğru Yol Partisi,DYP,area/adana,Adana,Grand National Assembly,21,,,,
+4e4b4fdc-275d-408d-917c-72c0fe6effa4,Mehmet Halit Dağlı,Mehmet Halit Dağlı,,,,Doğru Yol Partisi,DYP,area/adana,Adana,Grand National Assembly,21,,,,male
 82d94bda-a56a-4390-abf8-9f9b8c258aa2,Mehmet Hanifi Tiryaki,Mehmet Hanifi Tiryaki,,,,Milliyetçi Hareket Partisi,MHP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,
 5204897a-ca1d-4e7a-83f3-b7e9811e340c,Mehmet Kaya,Mehmet Kaya,,,,Milliyetçi Hareket Partisi,MHP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,
 b36afa76-d8f7-40d5-9bcb-c1f4a0f33b9f,Mehmet Keçeciler,Mehmet Keçeciler,,,,Anavatan Partisi,ANAP,area/konya,Konya,Grand National Assembly,21,,,,male
@@ -274,13 +274,13 @@ b6245fad-fd3f-4c44-977e-93b130c9a5b8,Mehmet Kocabatmaz,Mehmet Kocabatmaz,,,,Demo
 514d58dd-4136-4680-8b39-84444c86921b,Mehmet Metanet Çulhaoğlu,Mehmet Metanet Çulhaoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/adana,Adana,Grand National Assembly,21,,,,
 193f0c43-a9b8-4b9f-bbcb-4ea634cea029,Mehmet Nacar,Mehmet Nacar,,,,Milliyetçi Hareket Partisi,MHP,area/kilis,Kilis,Grand National Assembly,21,,,,
 e71d1757-3e48-44b4-b336-628f8bf10b40,Mehmet Nuri Tarhan,Mehmet Nuri Tarhan,,,,Milliyetçi Hareket Partisi,MHP,area/hatay,Hatay,Grand National Assembly,21,,,,
-c7eb72a1-ef8e-49c9-8e5c-cac54fe2222e,Mehmet Pak,Mehmet Pak,,,,Milliyetçi Hareket Partisi,MHP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
+c7eb72a1-ef8e-49c9-8e5c-cac54fe2222e,Mehmet Pak,Mehmet Pak,,,,Milliyetçi Hareket Partisi,MHP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 01b10bd7-2ba2-4d1f-b797-4952863baff5,Mehmet Recai Kutan,Mehmet Recai Kutan,,,,Fazilet Partisi,FP,area/malatya,Malatya,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/d/d9/Recai_Kutan_2009_crop.jpg,male
 1f19b84f-a760-46fa-8c73-d3ce1d428108,Mehmet Sadri Yıldırım,Mehmet Sadri Yıldırım,,,,Doğru Yol Partisi,DYP,area/eskişehir,Eskişehir,Grand National Assembly,21,,,,
 430f19e0-5c8e-4b55-a4b3-34cf541c984c,Mehmet Sait Değer,Mehmet Sait Değer,,,,Doğru Yol Partisi,DYP,area/Şırnak,Şırnak,Grand National Assembly,21,,,,
 e66af0ef-590d-4104-86e6-bd3cbd0f8d48,Mehmet Salih Yıldırım,Mehmet Salih Yıldırım,,,,Anavatan Partisi,ANAP,area/Şırnak,Şırnak,Grand National Assembly,21,,,,male
 c8f11a41-0297-4d7c-a7fe-4c37cdf7f6fd,Mehmet Sağlam,Mehmet Sağlam,,,,Doğru Yol Partisi,DYP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,male
-eec6a00e-053a-4d14-92ce-28d4bfe44cb4,Mehmet Serdaroğlu,Mehmet Serdaroğlu,,,,Milliyetçi Hareket Partisi,MHP,area/kastamonu,Kastamonu,Grand National Assembly,21,,,,
+eec6a00e-053a-4d14-92ce-28d4bfe44cb4,Mehmet Serdaroğlu,Mehmet Serdaroğlu,,,,Milliyetçi Hareket Partisi,MHP,area/kastamonu,Kastamonu,Grand National Assembly,21,,,,male
 bf5f0718-0e81-4043-9963-b9ab6d42d70f,Mehmet Tahir Köse,Mehmet Tahir Köse,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 5b691eea-8314-469b-b821-ded70307257a,Mehmet Telek,Mehmet Telek,,,,Milliyetçi Hareket Partisi,MHP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,
 ce32119d-43b4-4cf3-a145-828f845b890f,Mehmet Yalçınkaya,Mehmet Yalçınkaya,,,,Doğru Yol Partisi,DYP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,
@@ -307,7 +307,7 @@ a004cc19-8349-4e4e-a407-2b1bbdec951f,Mihrali Aksu,Mihrali Aksu,,,,Milliyetçi Ha
 58ca6f4a-1373-4170-8d21-ee22a2fb0161,Miraç Akdoğan,Miraç Akdoğan,,,,Anavatan Partisi,ANAP,area/malatya,Malatya,Grand National Assembly,21,,,,
 0a7dd76d-28bc-444f-8db3-25ea7007907b,Muhammet Turhan İmamoğlu,Muhammet Turhan İmamoğlu,,,,Demokratik Sol Parti,DSP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,
 872a0da4-8d59-4ce0-81c7-0ab441cec37f,Muharrem Hadi Dilekci,Muharrem Hadi Dilekci,,,,Demokratik Sol Parti,DSP,area/kastamonu,Kastamonu,Grand National Assembly,21,,,,
-ce859612-09f3-41aa-a7a6-9f65211ab7ae,Mukadder Başeğmez,Mukadder Başeğmez,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
+ce859612-09f3-41aa-a7a6-9f65211ab7ae,Mukadder Başeğmez,Mukadder Başeğmez,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 9b261587-79d5-4dc9-839c-b92979f46028,Murat Akın,Murat Akın,,,,Doğru Yol Partisi,DYP,area/aksaray,Aksaray,Grand National Assembly,21,,,,male
 60901114-1e7b-4d8a-8c3e-4f87ac1e8099,Murat Başesgioğlu,Murat Başesgioğlu,,,,Anavatan Partisi,ANAP,area/kastamonu,Kastamonu,Grand National Assembly,21,,,,male
 a382535e-274a-4232-8773-83100cf741ff,Murat Sökmenoğlu,Murat Sökmenoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
@@ -326,7 +326,7 @@ bde76780-768b-46b5-aaff-3517b6fd0be0,Mustafa Geçer,Mustafa Geçer,,,,Fazilet Pa
 f8652148-c6dd-429a-8348-df1ea8d79fc2,Mustafa Gül,Mustafa Gül,,,,Milliyetçi Hareket Partisi,MHP,area/elazığ,Elazığ,Grand National Assembly,21,,,,male
 28e753d6-5221-4312-82bb-7748b7f04f7a,Mustafa Güven Karahan,Mustafa Güven Karahan,,,,Demokratik Sol Parti,DSP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,male
 b280aa87-ddf0-47f3-8544-dc6f7ec3cb7d,Mustafa Haykır,Mustafa Haykır,,,,Anavatan Partisi,ANAP,area/kırşehir,Kırşehir,Grand National Assembly,21,,,,
-55a076e1-8d64-4b7d-aec3-fcd37d3bad7b,Mustafa Kamalak,Mustafa Kamalak,,,,Fazilet Partisi,FP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,male
+55a076e1-8d64-4b7d-aec3-fcd37d3bad7b,Mustafa Kamalak,Mustafa Kamalak,,kamalakmustafa,,Fazilet Partisi,FP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/f/f4/MustafaKamalak.png,male
 3fb71792-db10-4b6a-9857-06431b626cc9,Mustafa Karslıoğlu,Mustafa Karslıoğlu,,,,Demokratik Sol Parti,DSP,area/bolu,Bolu,Grand National Assembly,21,,,,male
 9eee164f-1190-42d4-a35f-3546e74d796c,Mustafa Kemal Aykurt,Mustafa Kemal Aykurt,,,,Doğru Yol Partisi,DYP,area/denizli,Denizli,Grand National Assembly,21,,,,
 74722566-3d08-419f-85e4-f75d7f6d3865,Mustafa Kemal Tuğmaner,Mustafa Kemal Tuğmaner,,,,Demokratik Sol Parti,DSP,area/mardin,Mardin,Grand National Assembly,21,,,,
@@ -359,8 +359,8 @@ f3eeb23a-a875-4a66-9ab0-0a36a6617de2,Nazlı Ilıcak,Nazlı Ilıcak,,Notredamedes
 65bcec5f-a411-4a78-8a6a-e8f7dcf1000e,Necati Çetinkaya,Necati Çetinkaya,,,,Doğru Yol Partisi,DYP,area/manisa,Manisa,Grand National Assembly,21,,,,male
 2054195a-47e6-46ed-bae2-67e4fd7fb332,Necdet Saruhan,Necdet Saruhan,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 bc827cd9-32b1-4a25-98e1-f35ead313e6a,Necdet Tekin,Necdet Tekin,,,,Demokratik Sol Parti,DSP,area/kırklareli,Kırklareli,Grand National Assembly,21,,,,
-fab713c5-989c-4ef1-abf4-fb790cbb9b2c,Necmettin Cevheri,Necmettin Cevheri,,,,Doğru Yol Partisi,DYP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,
-22c885d5-4e72-43f5-956a-b8aa6362b9bc,Necmi Hoşver,Necmi Hoşver,,,,Doğru Yol Partisi,DYP,area/bolu,Bolu,Grand National Assembly,21,,,,
+fab713c5-989c-4ef1-abf4-fb790cbb9b2c,Necmettin Cevheri,Necmettin Cevheri,,,,Doğru Yol Partisi,DYP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,male
+22c885d5-4e72-43f5-956a-b8aa6362b9bc,Necmi Hoşver,Necmi Hoşver,,,,Doğru Yol Partisi,DYP,area/bolu,Bolu,Grand National Assembly,21,,,,male
 2747a09c-c436-4ba4-9c16-261ce7ac8bd2,Nejat Arseven,Nejat Arseven,,,,Anavatan Partisi,ANAP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 2e859ce6-4802-4539-bf27-3a9c5d27fc02,Nesrin Nas,Nesrin Nas,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,female
 fccbd5cb-e98c-4310-8a3c-d55d1f75b192,Nesrin Ünal,Nesrin Ünal,,,,Milliyetçi Hareket Partisi,MHP,area/antalya,Antalya,Grand National Assembly,21,,,,
@@ -368,14 +368,14 @@ fccbd5cb-e98c-4310-8a3c-d55d1f75b192,Nesrin Ünal,Nesrin Ünal,,,,Milliyetçi Ha
 d5a07b07-741a-4535-9a86-6b10aee48da3,Nevzat Ercan,Nevzat Ercan,,,,Doğru Yol Partisi,DYP,area/sakarya,Sakarya,Grand National Assembly,21,,,,male
 07a9dbb4-4d50-492b-83ac-faf62a6156fa,Nevzat Taner,Nevzat Taner,,,,Milliyetçi Hareket Partisi,MHP,area/kahramanmaraş,Kahramanmaraş,Grand National Assembly,21,,,,
 9aee374f-e3ae-41fb-9e8b-72dea878b736,Nevzat Yalçıntaş,Nevzat Yalçıntaş,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
-d861fbb0-6a6a-47aa-b347-3a3eb7dda231,Nezir Aydın,Nezir Aydın,,,,Fazilet Partisi,FP,area/sakarya,Sakarya,Grand National Assembly,21,,,,
+d861fbb0-6a6a-47aa-b347-3a3eb7dda231,Nezir Aydın,Nezir Aydın,,,,Fazilet Partisi,FP,area/sakarya,Sakarya,Grand National Assembly,21,,,,male
 4c60a897-adf5-4b37-8070-aefa1ddeddcb,Nidai Seven,Nidai Seven,,,,Milliyetçi Hareket Partisi,MHP,area/ağrı,Ağrı,Grand National Assembly,21,,,,
 4fb2c390-bec7-4766-89be-c49b09793a75,Nihan İlgün,Nihan İlgün,,,,Doğru Yol Partisi,DYP,area/tekirdağ,Tekirdağ,Grand National Assembly,21,,,,male
-148b6ec7-7cba-4276-8df6-a3c5df774826,Nihat Gökbulut,Nihat Gökbulut,,,,Anavatan Partisi,ANAP,area/kırıkkale,Kırıkkale,Grand National Assembly,21,,,,
+148b6ec7-7cba-4276-8df6-a3c5df774826,Nihat Gökbulut,Nihat Gökbulut,,,,Anavatan Partisi,ANAP,area/kırıkkale,Kırıkkale,Grand National Assembly,21,,,,male
 ea8fe030-bc36-4380-b3e4-7829bf8c285b,Nizamettin Sevgili,Nizamettin Sevgili,,,,Anavatan Partisi,ANAP,area/siirt,Siirt,Grand National Assembly,21,,,,
 9b8b8ccf-da16-4e4e-ae0e-605fdd936e68,Numan Gültekin,Numan Gültekin,,,,Demokratik Sol Parti,DSP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,
 c281fb26-b372-4bfc-a2c0-5a07826c7560,Nural Karagöz,Nural Karagöz,,,,Demokratik Sol Parti,DSP,area/kırklareli,Kırklareli,Grand National Assembly,21,,,,
-8e1d36a6-4623-4162-9a13-aac7f7a26256,Nurettin Aktaş,Nurettin Aktaş,,,,Fazilet Partisi,FP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,
+8e1d36a6-4623-4162-9a13-aac7f7a26256,Nurettin Aktaş,Nurettin Aktaş,,,,Fazilet Partisi,FP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,male
 48294e2b-167a-41ca-8649-38ad510ab01b,Nurettin Atik,Nurettin Atik,,,,Doğru Yol Partisi,DYP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
 3783c142-472a-4fe4-ae9a-136fee3c2f96,Nurettin Dilek,Nurettin Dilek,,,,Anavatan Partisi,ANAP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
 1ca74f45-a1b8-4098-b5d0-c5cc85c0114b,Nurhan Tekinel,Nurhan Tekinel,,,,Doğru Yol Partisi,DYP,area/kastamonu,Kastamonu,Grand National Assembly,21,,,,
@@ -383,44 +383,44 @@ c281fb26-b372-4bfc-a2c0-5a07826c7560,Nural Karagöz,Nural Karagöz,,,,Demokratik
 784b9e5f-bfaf-4b74-bf1b-ff875c567538,Orhan Bıçakçıoğlu,Orhan Bıçakçıoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/trabzon,Trabzon,Grand National Assembly,21,,,,
 a288fd5b-3e72-478a-bda7-af0beab8901d,Orhan Ocak,Orhan Ocak,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,
 376e09be-9477-4b80-9fa5-1b86cf57e0ef,Orhan Şen,Orhan Şen,,,,Milliyetçi Hareket Partisi,MHP,area/bursa,Bursa,Grand National Assembly,21,,,,
-88b381b1-9b1f-4af2-8c19-da8118c84577,Osman Aslan,Osman Aslan,,,,Fazilet Partisi,FP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
+88b381b1-9b1f-4af2-8c19-da8118c84577,Osman Aslan,Osman Aslan,,,,Fazilet Partisi,FP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,male
 e59155af-51b6-4ddc-9c82-01170879ee22,Osman Durmuş,Osman Durmuş,,,,Milliyetçi Hareket Partisi,MHP,area/kırıkkale,Kırıkkale,Grand National Assembly,21,,,,male
 0700b64f-1f03-4970-b29c-e97adc390851,Osman Fevzi Zihnioğlu,Osman Fevzi Zihnioğlu,,,,Milliyetçi Hareket Partisi,MHP,area/sakarya,Sakarya,Grand National Assembly,21,,,,
 e77a3790-e4ac-40f5-bff9-9d76ee569146,Osman Gazi Aksoy,Osman Gazi Aksoy,,,,Milliyetçi Hareket Partisi,MHP,area/isparta,Isparta,Grand National Assembly,21,,,,male
-f525c32a-e689-4144-a474-3e73be320f4a,Osman Kılıç,Osman Kılıç,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
+f525c32a-e689-4144-a474-3e73be320f4a,Osman Kılıç,Osman Kılıç,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 f62318ca-78ae-407f-bc48-7767cee485e6,Osman Müderrisoğlu,Osman Müderrisoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/antalya,Antalya,Grand National Assembly,21,,,,
 c56b180b-6819-4c95-9583-d0f70b4ebc04,Osman Pepe,Osman Pepe,,,,Fazilet Partisi,FP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,,male
-22d0c260-ca80-4286-ada8-fa917bb8082c,Osman Yumakoğulları,Osman Yumakoğulları,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
+22d0c260-ca80-4286-ada8-fa917bb8082c,Osman Yumakoğulları,Osman Yumakoğulları,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 2f85b9b2-bbc4-45f2-a466-45a0d3b544bc,Oya Akgönenç Muğisuddin,Oya Akgönenç Muğisuddin,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,,female
-2d2b8a9b-20c4-470b-91bf-50f2cc261907,Oğuz Aygün,Oğuz Aygün,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
+2d2b8a9b-20c4-470b-91bf-50f2cc261907,Oğuz Aygün,Oğuz Aygün,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 9ba33067-d659-4746-a335-f5f2a5fc7853,Oğuz Tezmen,Oğuz Tezmen,,,,Doğru Yol Partisi,DYP,area/bursa,Bursa,Grand National Assembly,21,,,,male
-faa4bb12-d625-4f59-a8f7-b5a5b08fafdf,Oğuzhan Asiltürk,Oğuzhan Asiltürk,,,,Fazilet Partisi,FP,area/malatya,Malatya,Grand National Assembly,21,,,,
+faa4bb12-d625-4f59-a8f7-b5a5b08fafdf,Oğuzhan Asiltürk,Oğuzhan Asiltürk,,,,Fazilet Partisi,FP,area/malatya,Malatya,Grand National Assembly,21,,,,male
 836e3474-4407-4984-b0fb-7422bba8bc3a,Perihan Yılmaz,Perihan Yılmaz,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 b9286f5b-bfb9-413e-a26c-b6ce832ee88a,Rahmi Sezgin,Rahmi Sezgin,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 3c70a449-c918-4e6a-9cec-44c9adee2ebb,Ramazan Gül,Ramazan Gül,,,,Doğru Yol Partisi,DYP,area/isparta,Isparta,Grand National Assembly,21,,,,
-266fb256-8244-4aca-92d6-046249c52bba,Ramazan Mirzaoğlu,Ramazan Mirzaoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/kırşehir,Kırşehir,Grand National Assembly,21,,,,
+266fb256-8244-4aca-92d6-046249c52bba,Ramazan Mirzaoğlu,Ramazan Mirzaoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/kırşehir,Kırşehir,Grand National Assembly,21,,,,male
 00fd08c2-c983-41af-9571-bdf6462b6e8f,Ramazan Toprak,Ramazan Toprak,,,,Fazilet Partisi,FP,area/aksaray,Aksaray,Grand National Assembly,21,,,,male
 1ffca4e9-1f1e-4cd3-a475-e51a9b150aef,Rasim Zaimoğlu,Rasim Zaimoğlu,,,,Doğru Yol Partisi,DYP,area/giresun,Giresun,Grand National Assembly,21,,,,male
-38b0c078-4ec7-4c4c-88dd-783f2fc4fe2b,Recai Yıldırım,Recai Yıldırım,,,,Milliyetçi Hareket Partisi,MHP,area/adana,Adana,Grand National Assembly,21,,,,
-ed4c5e6b-a07e-4463-b153-55415c30ba2f,Recep Önal,Recep Önal,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,
-80623eae-7b7c-44ed-967c-0e137e92a81f,Remzi Çetin,Remzi Çetin,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,
-fd0b3294-2f18-42fa-92b7-f79eb6772800,Reşat Doğru,Reşat Doğru,,,,Milliyetçi Hareket Partisi,MHP,area/tokat,Tokat,Grand National Assembly,21,,,,
+38b0c078-4ec7-4c4c-88dd-783f2fc4fe2b,Recai Yıldırım,Recai Yıldırım,,,,Milliyetçi Hareket Partisi,MHP,area/adana,Adana,Grand National Assembly,21,,,,male
+ed4c5e6b-a07e-4463-b153-55415c30ba2f,Recep Önal,Recep Önal,,,,Demokratik Sol Parti,DSP,area/bursa,Bursa,Grand National Assembly,21,,,,male
+80623eae-7b7c-44ed-967c-0e137e92a81f,Remzi Çetin,Remzi Çetin,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,male
+fd0b3294-2f18-42fa-92b7-f79eb6772800,Reşat Doğru,Reşat Doğru,,,,Milliyetçi Hareket Partisi,MHP,area/tokat,Tokat,Grand National Assembly,21,,,,male
 9f31dc11-16e1-45a2-9fd7-0d5f5e62b075,Rifat Serdaroğlu,Rifat Serdaroğlu,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,male
 c19a9b00-7634-4402-9111-a4d439609cd9,Rüştü Kazım Yücelen,Rüştü Kazım Yücelen,,,,Anavatan Partisi,ANAP,area/mersin,Mersin,Grand National Assembly,21,,,,male
 2ac8986f-e4ae-48af-9c37-2a33ba9f0dd5,Rıdvan Budak,Rıdvan Budak,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
-12a5b264-3bbb-4abe-83c0-ef2098647d49,Rıza Akçalı,Rıza Akçalı,,,,Doğru Yol Partisi,DYP,area/manisa,Manisa,Grand National Assembly,21,,,,
-254cca9c-4526-4df1-b3c2-73270e087b1b,Rıza Ulucak,Rıza Ulucak,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,,
+12a5b264-3bbb-4abe-83c0-ef2098647d49,Rıza Akçalı,Rıza Akçalı,,,,Doğru Yol Partisi,DYP,area/manisa,Manisa,Grand National Assembly,21,,,,male
+254cca9c-4526-4df1-b3c2-73270e087b1b,Rıza Ulucak,Rıza Ulucak,,,,Fazilet Partisi,FP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 8a412eb5-4e3c-4345-bc55-d3def5d711e2,Sabahattin Yıldız,Sabahattin Yıldız,,,,Fazilet Partisi,FP,area/muş,Muş,Grand National Assembly,21,,,,male
 0cdf1deb-6c8b-4269-9922-6df904917980,Sabahattin Çakmakoğlu,Sabahattin Çakmakoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/kayseri,Kayseri,Grand National Assembly,21,,,"https://upload.wikimedia.org/wikipedia/commons/f/f0/Sabahattin_Çakmakoğlu,_001010-D-9880W-031.jpg",male
 fe42a31a-e714-4438-894f-f8af5eb437b6,Sacit Günbey,Sacit Günbey,,,,Fazilet Partisi,FP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
 a263e321-dc5a-4f26-a955-dee1f3379d14,Sadettin Tantan,Sadettin Tantan,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
-84513b1d-0a06-4c07-8489-677ed78d55a8,Sadi Somuncuoğlu,Sadi Somuncuoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/aksaray,Aksaray,Grand National Assembly,21,,,,
-6448ff2b-a849-41e7-9094-e885f98c6267,Sadık Kırbaş,Sadık Kırbaş,,,,Demokratik Sol Parti,DSP,area/Çanakkale,Çanakkale,Grand National Assembly,21,,,,
+84513b1d-0a06-4c07-8489-677ed78d55a8,Sadi Somuncuoğlu,Sadi Somuncuoğlu,,,,Milliyetçi Hareket Partisi,MHP,area/aksaray,Aksaray,Grand National Assembly,21,,,,male
+6448ff2b-a849-41e7-9094-e885f98c6267,Sadık Kırbaş,Sadık Kırbaş,,,,Demokratik Sol Parti,DSP,area/Çanakkale,Çanakkale,Grand National Assembly,21,,,,male
 48ad8e18-f88e-4210-8f58-8a50832aa2e9,Sadık Yakut,Sadık Yakut,,,,Fazilet Partisi,FP,area/kayseri,Kayseri,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/d/d6/Sadık_Yakut_(cropped).jpg,male
 019947b5-b9ac-4f8c-b4ae-758e31585407,Saffet Arıkan Bedük,Saffet Arıkan Bedük,,,,Doğru Yol Partisi,DYP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 b74738de-bc53-4f0e-b5ff-86ca1f740131,Saffet Başaran,Saffet Başaran,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 e0ada675-ca42-4a29-8da7-ed4bf2810c51,Saffet Kaya,Saffet Kaya,,,,Doğru Yol Partisi,DYP,area/ardahan,Ardahan,Grand National Assembly,21,,,,
-21668826-ae1b-40da-bd1f-5e33777a4318,Sait Açba,Sait Açba,,,,Fazilet Partisi,FP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,
+21668826-ae1b-40da-bd1f-5e33777a4318,Sait Açba,Sait Açba,,,,Fazilet Partisi,FP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,male
 f84ce204-6c7f-4e06-a805-8bdfa7d34d17,Salih Dayıoğlu,Salih Dayıoğlu,,,,Demokratik Sol Parti,DSP,area/İzmir,İzmir,Grand National Assembly,21,,,,
 0a50d613-44fe-4bd7-8001-85687d995584,Salih Erbeyin,Salih Erbeyin,,,,Milliyetçi Hareket Partisi,MHP,area/denizli,Denizli,Grand National Assembly,21,,,,male
 f0140c12-cc3a-40eb-b664-5e99ce191f7d,Salih Kapusuz,Salih Kapusuz,,,,Fazilet Partisi,FP,area/kayseri,Kayseri,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/8/84/Salih_Kapusuz.jpg,male
@@ -439,13 +439,13 @@ b5c15e82-c9d8-483f-9076-4734d93c261e,Sevgi Esen,Sevgi Esen,,,,Doğru Yol Partisi
 8a87f029-b5b6-4049-8fad-6b76d72d9715,Seydi Karakuş,Seydi Karakuş,,,,Milliyetçi Hareket Partisi,MHP,area/kütahya,Kütahya,Grand National Assembly,21,,,,
 51cfe7ac-05ca-43e9-8a60-c99cd0294adc,Seyyit Haşim Haşimi,Seyyit Haşim Haşimi,,,,unknown,unknown,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,
 2a4d0ed5-3022-4ce6-8a00-2bac4ad983b1,Suat Pamukçu,Suat Pamukçu,,,,Fazilet Partisi,FP,area/bayburt,Bayburt,Grand National Assembly,21,,,,
-2574e958-2e6c-41d4-9915-9b9ed4ed8386,Suha Tanık,Suha Tanık,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,
+2574e958-2e6c-41d4-9915-9b9ed4ed8386,Suha Tanık,Suha Tanık,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,female
 6272eb95-d4c9-40b8-96fe-6df914a52c77,Sulhiye Serbest,Sulhiye Serbest,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 5ed81f1f-7ce4-4749-ad24-bd7c578c00da,Süleyman Arif Emre,Süleyman Arif Emre,,,,Fazilet Partisi,FP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
 e0e39263-ae13-4b26-8fe3-b32d8508c133,Süleyman Coşkuner,Süleyman Coşkuner,,,,Milliyetçi Hareket Partisi,MHP,area/burdur,Burdur,Grand National Assembly,21,,,,
 bdd30e49-d991-4cd9-8a9c-2da0daf02ff5,Süleyman Metin Kalkan,Süleyman Metin Kalkan,,,,Fazilet Partisi,FP,area/hatay,Hatay,Grand National Assembly,21,,,,male
 9318a62b-11f5-4973-bd89-7f492f7e24d2,Süleyman Servet Sazak,Süleyman Servet Sazak,,,,Milliyetçi Hareket Partisi,MHP,area/eskişehir,Eskişehir,Grand National Assembly,21,,,,male
-b2cf0fed-8f87-4a21-8a31-d32af719e9f9,Süleyman Turan Çirkin,Süleyman Turan Çirkin,,,,Milliyetçi Hareket Partisi,MHP,area/hatay,Hatay,Grand National Assembly,21,,,,
+b2cf0fed-8f87-4a21-8a31-d32af719e9f9,Süleyman Turan Çirkin,Süleyman Turan Çirkin,,,,Milliyetçi Hareket Partisi,MHP,area/hatay,Hatay,Grand National Assembly,21,,,,male
 63695e2d-c0f2-4544-ba67-2fea0866fca2,Süleyman Yağız,Süleyman Yağız,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 78d335b5-de60-44e5-93fb-2d0eb1c8acc3,Süleyman Çelebi,Süleyman Çelebi,,,,Anavatan Partisi,ANAP,area/mardin,Mardin,Grand National Assembly,21,,,,male
 9f86b9c6-e495-45bd-9e82-56e03540d6fe,Sümer Oral,Sümer Oral,,,,Anavatan Partisi,ANAP,area/İzmir,İzmir,Grand National Assembly,21,,,,
@@ -455,27 +455,27 @@ f5ee4680-dec7-458f-bf3f-df478b3570bc,Tahsin Baysık,Tahsin Baysık,,,,Demokratik
 33d6fdde-6ee0-4a75-b298-d6402bf9600f,Tamer Kanber,Tamer Kanber,,,,Demokratik Sol Parti,DSP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,
 e263b3b5-38d1-4d48-b098-35927318f8d2,Tansu Çiller,Tansu Çiller,,,,Doğru Yol Partisi,DYP,area/İstanbul,İstanbul,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/4/4e/Tansu_Çiller_2015_(Cropped).jpg,female
 4d414d05-e14a-42f7-9ab8-50040e76ab1d,Tarık Cengiz,Tarık Cengiz,,,,Demokratik Sol Parti,DSP,area/samsun,Samsun,Grand National Assembly,21,,,,
-d6a24aec-8e93-4297-bcaa-03f83e2194e9,Tayfun İçli,Tayfun İçli,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
+d6a24aec-8e93-4297-bcaa-03f83e2194e9,Tayfun İçli,Tayfun İçli,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 610da6cf-72c4-4a3e-a69f-deec1a06aed1,Tayyibe Gülek,Tayyibe Gülek,,,,Demokratik Sol Parti,DSP,area/adana,Adana,Grand National Assembly,21,,,,female
 4e1d4fc1-b207-4d05-956a-07184a389e82,Temel Karamollaoğlu,Temel Karamollaoğlu,,,,Fazilet Partisi,FP,area/sivas,Sivas,Grand National Assembly,21,,,,
 7fcc129d-1336-4df8-97d4-e4d1b1db423d,Teoman Rıza Güneri,Teoman Rıza Güneri,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,
 f544d6ea-e0ca-4240-aff8-8739dfe305eb,Teoman Özalp,Teoman Özalp,,,,Doğru Yol Partisi,DYP,area/bursa,Bursa,Grand National Assembly,21,,,,
 87851ef1-e574-49bd-ab95-557d5af77e78,Tevhit Karakaya,Tevhit Karakaya,,,,Fazilet Partisi,FP,area/erzincan,Erzincan,Grand National Assembly,21,,,,male
-6e7c82c2-84dc-45bf-998d-a3e6980848c7,Tunay Dikmen,Tunay Dikmen,,,,Demokratik Sol Parti,DSP,area/muğla,Muğla,Grand National Assembly,21,,,,
+6e7c82c2-84dc-45bf-998d-a3e6980848c7,Tunay Dikmen,Tunay Dikmen,,,,Demokratik Sol Parti,DSP,area/muğla,Muğla,Grand National Assembly,21,,,,male
 3c8f7ef9-4e27-416e-937a-df953c9d458f,Tunca Toskay,Tunca Toskay,,,,Milliyetçi Hareket Partisi,MHP,area/antalya,Antalya,Grand National Assembly,21,,,,
 7c559dcf-d5ba-4d75-94bd-ecc526708f39,Turhan Alçelik,Turhan Alçelik,,,,Fazilet Partisi,FP,area/giresun,Giresun,Grand National Assembly,21,,,,male
-c1b11d30-55d8-498d-ba61-a91cb1e3498b,Turhan Güven,Turhan Güven,,,,Doğru Yol Partisi,DYP,area/mersin,Mersin,Grand National Assembly,21,,,,
+c1b11d30-55d8-498d-ba61-a91cb1e3498b,Turhan Güven,Turhan Güven,,,,Doğru Yol Partisi,DYP,area/mersin,Mersin,Grand National Assembly,21,,,,male
 f1fa3701-3c0d-4b7c-b96f-4ce62642c855,Turhan Tayan,Turhan Tayan,,,,Anavatan Partisi,ANAP,area/bursa,Bursa,Grand National Assembly,21,,,,male
-ea2a2bd4-8568-4a21-a64a-66690784e4fd,Uluç Gürkan,Uluç Gürkan,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,
+ea2a2bd4-8568-4a21-a64a-66690784e4fd,Uluç Gürkan,Uluç Gürkan,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,,male
 f3a276b8-54bd-4ff6-865f-cf7a9d3948cf,Vahit Kayrıcı,Vahit Kayrıcı,,,,Milliyetçi Hareket Partisi,MHP,area/Çorum,Çorum,Grand National Assembly,21,,,,
 3d250db3-1927-4c80-a623-531b7038c2fe,Vecdi Gönül,Vecdi Gönül,,,,Fazilet Partisi,FP,area/kocaeli,Kocaeli,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/6/67/Mehmet_Vecdi_Gönül_2010_Turkey's_Minister_of_National_Defense.jpg,male
 cc1426d8-ecac-4a50-8000-dc4fb48a1fc2,Vedat Çınaroğlu,Vedat Çınaroğlu,,,,Milliyetçi Hareket Partisi,MHP,area/samsun,Samsun,Grand National Assembly,21,,,,
-de786917-5cc3-4857-82f3-ff21b064bf94,Veysel Atasoy,Veysel Atasoy,,,,Anavatan Partisi,ANAP,area/zonguldak,Zonguldak,Grand National Assembly,21,,,,
+de786917-5cc3-4857-82f3-ff21b064bf94,Veysel Atasoy,Veysel Atasoy,,,,Anavatan Partisi,ANAP,area/zonguldak,Zonguldak,Grand National Assembly,21,,,,male
 1070b441-ef97-4501-91a3-a984c8a2699f,Veysel Candan,Veysel Candan,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,
 f9825fac-ee4d-4795-bb19-f1ffb9222352,Veysi Şahin,Veysi Şahin,,,,Doğru Yol Partisi,DYP,area/mardin,Mardin,Grand National Assembly,21,,,,
 95697174-92a4-4a5d-aed4-965e82a90814,Yahya Akman,Yahya Akman,,,,Fazilet Partisi,FP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,male
 73afda83-0a77-4ca9-97d8-442d0fa68c53,Yahya Çevik,Yahya Çevik,,,,Doğru Yol Partisi,DYP,area/bitlis,Bitlis,Grand National Assembly,21,,,,
-93edd4e2-62e1-4e78-aa5d-e5a55e0f6054,Yakup Budak,Yakup Budak,,,,Fazilet Partisi,FP,area/adana,Adana,Grand National Assembly,21,,,,
+93edd4e2-62e1-4e78-aa5d-e5a55e0f6054,Yakup Budak,Yakup Budak,,,,Fazilet Partisi,FP,area/adana,Adana,Grand National Assembly,21,,,,male
 9e205b1c-c159-4e89-9c27-e2b1c14e8e2e,Yalçın Kaya,Yalçın Kaya,,,,Milliyetçi Hareket Partisi,MHP,area/mersin,Mersin,Grand National Assembly,21,,,,
 26155c50-8e49-4531-86d5-cc3771685bc1,Yasin Hatiboğlu,Yasin Hatiboğlu,,,,Fazilet Partisi,FP,area/Çorum,Çorum,Grand National Assembly,21,,,,
 96ee6ce6-1e02-44db-9969-3ce4bb294ded,Yaşar Canbay,Yaşar Canbay,,,,Fazilet Partisi,FP,area/malatya,Malatya,Grand National Assembly,21,,,,
@@ -494,18 +494,18 @@ a9a065ad-7332-4a27-9b0d-1e082a271621,Yılmaz Karakoyunlu,Yılmaz Karakoyunlu,,,,
 78477c29-8c1f-4e61-b38e-adab51a48118,Zafer Güler,Zafer Güler,,,,Demokratik Sol Parti,DSP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 a0ec2ed1-d06c-4792-97d1-0bc4ffe47fd9,Zeki Eker,Zeki Eker,,,,Demokratik Sol Parti,DSP,area/muş,Muş,Grand National Assembly,21,,,,
 e23fdaef-0832-4fe3-95d6-cdae154be67b,Zeki Ergezen,Zeki Ergezen,,,,Fazilet Partisi,FP,area/bitlis,Bitlis,Grand National Assembly,21,,,,male
-3800e7d3-1eb4-4665-be86-98ff2be9e2ae,Zeki Ertugay,Zeki Ertugay,,,,Doğru Yol Partisi,DYP,area/erzurum,Erzurum,Grand National Assembly,21,,,,
+3800e7d3-1eb4-4665-be86-98ff2be9e2ae,Zeki Ertugay,Zeki Ertugay,,,,Doğru Yol Partisi,DYP,area/erzurum,Erzurum,Grand National Assembly,21,,,,male
 f20d5b69-ffc6-441b-b24e-cdb60c651daf,Zeki Sezer,Zeki Sezer,,,,Demokratik Sol Parti,DSP,area/ankara,Ankara,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/0/0c/Zeki_Sezer-edited.jpg,male
 7d03580c-9003-4b98-bebc-f470f90fea51,Zeki Çakan,Zeki Çakan,,,,Anavatan Partisi,ANAP,area/bartın,Bartın,Grand National Assembly,21,,,,male
-6b9eaa4d-d071-41e1-91bc-d609d70e1487,Zeki Ünal,Zeki Ünal,,,,Fazilet Partisi,FP,area/karaman,Karaman,Grand National Assembly,21,,,,
-70f4c419-a09f-4e3a-ac06-b10151032c1f,Zülfükar İzol,Zülfükar İzol,,,,Fazilet Partisi,FP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,
+6b9eaa4d-d071-41e1-91bc-d609d70e1487,Zeki Ünal,Zeki Ünal,,,,Fazilet Partisi,FP,area/karaman,Karaman,Grand National Assembly,21,,,,male
+70f4c419-a09f-4e3a-ac06-b10151032c1f,Zülfükar İzol,Zülfükar İzol,,,,Fazilet Partisi,FP,area/Şanlıurfa,Şanlıurfa,Grand National Assembly,21,,,,male
 da3b8eff-b7e4-4f5b-bf16-8ff1dd4fc481,Çetin Bilgir,Çetin Bilgir,,,,Demokratik Sol Parti,DSP,area/kars,Kars,Grand National Assembly,21,,,,
 3d032a41-a173-4fa0-927a-fa8cd355e132,Ömer Barutçu,Ömer Barutçu,,,,Doğru Yol Partisi,DYP,area/zonguldak,Zonguldak,Grand National Assembly,21,,,,male
 09c551ba-38c8-4212-8164-e4fddfe1c532,Ömer Ertaş,Ömer Ertaş,,,,Anavatan Partisi,ANAP,area/mardin,Mardin,Grand National Assembly,21,,,,male
 9c2610fc-f61d-40a0-89f9-1bc1778c5bbe,Ömer Vehbi Hatipoğlu,Ömer Vehbi Hatipoğlu,,,,Fazilet Partisi,FP,area/diyarbakır,Diyarbakır,Grand National Assembly,21,,,,male
 38c331ca-c40a-4574-a162-84ae96b43c5c,Ömer Üstünkol,Ömer Üstünkol,,,,Demokratik Sol Parti,DSP,area/zonguldak,Zonguldak,Grand National Assembly,21,,,,
 ed2fec55-d8e1-4384-a63c-b7793ecd0cbc,Ömer İzgi,Ömer İzgi,,,,Milliyetçi Hareket Partisi,MHP,area/konya,Konya,Grand National Assembly,21,,,,male
-34cb52d6-7338-4960-a181-d645ee140646,Özkan Öksüz,Özkan Öksüz,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,
+34cb52d6-7338-4960-a181-d645ee140646,Özkan Öksüz,Özkan Öksüz,,,,Fazilet Partisi,FP,area/konya,Konya,Grand National Assembly,21,,,,male
 670a7cef-c238-4652-9663-043b893e3c4a,İbrahim Gürdal,İbrahim Gürdal,,,,Anavatan Partisi,ANAP,area/antalya,Antalya,Grand National Assembly,21,,,,male
 105f3a62-0c26-4a1f-9d5c-3000055ddf86,İbrahim Halil Oral,İbrahim Halil Oral,,,,Milliyetçi Hareket Partisi,MHP,area/bitlis,Bitlis,Grand National Assembly,21,,,,
 56a0a784-ee7d-441b-9eca-8af46ec1d7c6,İbrahim Konukoğlu,İbrahim Konukoğlu,,,,Doğru Yol Partisi,DYP,area/gaziantep,Gaziantep,Grand National Assembly,21,,,,
@@ -532,14 +532,14 @@ bcbb31d9-494f-4b6c-bf2e-7bebd490c3ff,İsmail Bozdağ,İsmail Bozdağ,,,,Demokrat
 4e78763b-dc2b-491b-8620-12b5edf495ba,İsmail Sühan Özkan,İsmail Sühan Özkan,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 b9d02465-67c8-4a26-8984-f83f12dc3eb3,İsmail Çevik,İsmail Çevik,,,,Milliyetçi Hareket Partisi,MHP,area/nevşehir,Nevşehir,Grand National Assembly,21,,,,
 253a7257-5d2d-46e5-b787-9a6cc60f41ed,İsmail Özgün,İsmail Özgün,,,,Fazilet Partisi,FP,area/balıkesir,Balıkesir,Grand National Assembly,21,,,,male
-e711a743-8900-4f06-abc8-a6dcacce8c92,İsmet Attila,İsmet Attila,,,,Doğru Yol Partisi,DYP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,
+e711a743-8900-4f06-abc8-a6dcacce8c92,İsmet Attila,İsmet Attila,,,,Doğru Yol Partisi,DYP,area/afyonkarahisar,Afyonkarahisar,Grand National Assembly,21,,,,male
 4f4c3220-cdcb-4f7a-b733-b99310f533f6,İsmet Vursavuş,İsmet Vursavuş,,,,Demokratik Sol Parti,DSP,area/adana,Adana,Grand National Assembly,21,,,,
 3fbfa697-3cc5-4c53-ae51-10ff7b249db4,Şaban Kardeş,Şaban Kardeş,,,,Milliyetçi Hareket Partisi,MHP,area/bayburt,Bayburt,Grand National Assembly,21,,,,
 09fa7afc-c91d-4bdd-b9f2-987b1199e575,Şaban Ramis Savaş,Şaban Ramis Savaş,,,,Demokratik Sol Parti,DSP,area/sakarya,Sakarya,Grand National Assembly,21,,,,
 ea98a916-9a85-477f-90f7-18c277b20dec,Şadan Tuzcu,Şadan Tuzcu,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
 972c0a71-1cda-439c-a46f-4a3e9da1dba1,Şadan Şimşek,Şadan Şimşek,,,,Demokratik Sol Parti,DSP,area/edirne,Edirne,Grand National Assembly,21,,,,
-3ba454e3-03dc-4f86-8981-15b3e0e8bff5,Şamil Ayrım,Şamil Ayrım,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,
-364ff5bf-2acd-4e3a-a47c-c1d40e5cabc0,Şefkat Çetin,Şefkat Çetin,,,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,,
+3ba454e3-03dc-4f86-8981-15b3e0e8bff5,Şamil Ayrım,Şamil Ayrım,,,,Anavatan Partisi,ANAP,area/İstanbul,İstanbul,Grand National Assembly,21,,,,male
+364ff5bf-2acd-4e3a-a47c-c1d40e5cabc0,Şefkat Çetin,Şefkat Çetin,,,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,https://upload.wikimedia.org/wikipedia/commons/a/ab/Şefkatçetin.png,male
 23efadc4-3c98-46c8-82b8-0e8384665f8e,Şenel Kapıcı,Şenel Kapıcı,,,,Demokratik Sol Parti,DSP,area/samsun,Samsun,Grand National Assembly,21,,,,
 007c7e54-ea35-446d-8faa-ea437bc57492,Şeref Malkoç,Şeref Malkoç,,,,Fazilet Partisi,FP,area/trabzon,Trabzon,Grand National Assembly,21,,,,male
 54cb2c64-6891-44cc-823f-25ba5d473050,Şevket Bülend Yahnici,Şevket Bülend Yahnici,,,,Milliyetçi Hareket Partisi,MHP,area/ankara,Ankara,Grand National Assembly,21,,,,male

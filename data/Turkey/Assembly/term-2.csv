@@ -4,12 +4,12 @@ id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,ter
 63c86f7f-5659-4639-bd2c-6b599f917bd6,Abdullah Hulusi Zarplı,Abdullah Hulusi Zarplı,,,,Cumhuriyet Halk Partisi,CHP,area/karesi_(balıkesir),Karesi (Balıkesir),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/67/Abdullah_Hulusi_Bey_Zarplı.jpg,male
 eef17fa5-19e0-414e-909f-d06c93abbf81,Abdullah Okyay,Abdullah Okyay,,,,Cumhuriyet Halk Partisi,CHP,area/trabzon,Trabzon,Grand National Assembly,2,,,,male
 e3b73d96-c1d1-4a5d-8d6a-b934bdaf8328,Abdurrahman Şeref,Abdurrahman Şeref,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/0a/Abdurrahman_Sheref_Bey.jpg,male
-a889fbf8-7561-4bfd-bbfe-74cff08796d2,Abdurrahman Şeref Uluğ,Abdurrahman Şeref Uluğ,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,,
-28200a47-ef24-423c-9820-0f27fb353028,Abdülgani Ensari,Abdülgani Ensari,,,,Cumhuriyet Halk Partisi,CHP,area/mardin,Mardin,Grand National Assembly,2,,,,
+a889fbf8-7561-4bfd-bbfe-74cff08796d2,Abdurrahman Şeref Uluğ,Abdurrahman Şeref Uluğ,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,,male
+28200a47-ef24-423c-9820-0f27fb353028,Abdülgani Ensari,Abdülgani Ensari,,,,Cumhuriyet Halk Partisi,CHP,area/mardin,Mardin,Grand National Assembly,2,,,,male
 73bb95f9-84ca-4c76-a779-ec5a3052c806,Abdülhak Adnan Adıvar,Abdülhak Adnan Adıvar,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,
 1820c040-668c-4fbd-8d31-0d278d3a71e2,Abdülhak Fırat,Abdülhak Fırat,,,,Cumhuriyet Halk Partisi,CHP,area/erzincan,Erzincan,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/5/54/Abdülhak_Bey_(Fırat).jpg,male
-4e9cda07-5fd8-4dec-acb9-19c5517906ba,Abdülkadir Emirmahmutoğlu,Abdülkadir Emirmahmutoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/maraş,Maraş,Grand National Assembly,2,,,,
-827f3f08-bace-411f-bbc2-a0b64f09e89d,Abdürrahman Rahmi Katoğlu,Abdürrahman Rahmi Katoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,
+4e9cda07-5fd8-4dec-acb9-19c5517906ba,Abdülkadir Emirmahmutoğlu,Abdülkadir Emirmahmutoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/maraş,Maraş,Grand National Assembly,2,,,,male
+827f3f08-bace-411f-bbc2-a0b64f09e89d,Abdürrahman Rahmi Katoğlu,Abdürrahman Rahmi Katoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,male
 68d42ec9-274d-49e6-bb6a-99abef3a1d62,Abdürrezzak Şatana,Abdürrezzak Şatana,,,,Cumhuriyet Halk Partisi,CHP,area/mardin,Mardin,Grand National Assembly,2,,,,
 f92cf29d-b46e-4f85-bec6-0397b0d8f634,Abidin Bey,Abidin Bey,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/2/2a/Abidin_Bey.jpg,male
 87be4d60-3c4d-4318-a741-ab664132ed9e,Ahmed Mükerrem Karaağaç,Ahmed Mükerrem Karaağaç,,,,Cumhuriyet Halk Partisi,CHP,area/isparta,Isparta,Grand National Assembly,2,,,,male
@@ -39,58 +39,58 @@ a5f36f60-e22b-4e94-aea6-49c5f86a2f1d,Ahmet Ziya Tonguç,Ahmet Ziya Tonguç,,,,Cu
 a534a8c8-44fa-4267-9c71-65c8dbc01ff4,Ahmet İffet Mercimekoğlu,Ahmet İffet Mercimekoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/ertuğrul_(bilecik),Ertuğrul (Bilecik),Grand National Assembly,2,,,,male
 2024739a-c4ee-4bdc-9875-fdf9462d9d4b,Ahmet Şükrü Bey,Ahmet Şükrü Bey,,,,Cumhuriyet Halk Partisi,CHP,area/kocaeli,Kocaeli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/2/25/Ahmed_Shukri_Bey.jpg,male
 45a18db8-01b4-43ef-8889-9a22a58ba63b,Ahmet Şükrü Kulualp,Ahmet Şükrü Kulualp,,,,Cumhuriyet Halk Partisi,CHP,area/dersim_(tunceli),Dersim (Tunceli),Grand National Assembly,2,,,,male
-f6e38a77-3b31-4633-a6c4-0ff002e542dc,Ali Cenani,Ali Cenani,,,,Cumhuriyet Halk Partisi,CHP,area/gaziantep,Gaziantep,Grand National Assembly,2,,,,
+f6e38a77-3b31-4633-a6c4-0ff002e542dc,Ali Cenani,Ali Cenani,,,,Cumhuriyet Halk Partisi,CHP,area/gaziantep,Gaziantep,Grand National Assembly,2,,,,male
 3f1e9f3d-12ef-4e7e-aaf8-03ea11d47c44,Ali Fethi Okyar,Ali Fethi Okyar,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/99/Ali_Fethi_Okyar.jpg,male
-82f66062-5e0a-45b0-af46-9cdd6bddab64,Ali Fuat Bucak,Ali Fuat Bucak,,,,Cumhuriyet Halk Partisi,CHP,area/urfa,Urfa,Grand National Assembly,2,,,,
+82f66062-5e0a-45b0-af46-9cdd6bddab64,Ali Fuat Bucak,Ali Fuat Bucak,,,,Cumhuriyet Halk Partisi,CHP,area/urfa,Urfa,Grand National Assembly,2,,,,male
 7da075c8-1f09-40b1-a9f4-957caa15a55e,Ali Fuat Cebesoy,Ali Fuat Cebesoy,,,,Cumhuriyet Halk Partisi,CHP,area/ankara,Ankara,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/09/Ali_Fuat_Pasha.jpg,male
 7881040a-5770-413d-9417-1a11689d9ed8,Ali Galip Yenen,Ali Galip Yenen,,,,Cumhuriyet Halk Partisi,CHP,area/niğde,Niğde,Grand National Assembly,2,,,,male
-08635871-af64-474f-80ba-9ea2077a82ed,Ali Haydar Bey,Ali Haydar Bey,,,,Cumhuriyet Halk Partisi,CHP,area/genç,Genç,Grand National Assembly,2,,,,
+08635871-af64-474f-80ba-9ea2077a82ed,Ali Haydar Bey,Ali Haydar Bey,,,,Cumhuriyet Halk Partisi,CHP,area/genç,Genç,Grand National Assembly,2,,,,male
 b91d21e9-7b84-4729-8e62-ac15de4cb101,Ali Haydar Yuluğ,Ali Haydar Yuluğ,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ea/Haydar_Bey_Yuluğ.jpg,male
-85ae6ef9-880d-42cf-910e-11676d2dadd9,Ali Haydar Öktem,Ali Haydar Öktem,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,,male
+85ae6ef9-880d-42cf-910e-11676d2dadd9,Ali Haydar Öktem,Ali Haydar Öktem,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/b/bc/Ali_Haydar_Öktem.jpg,male
 3c4e3cea-4b0b-4eaf-bfb6-54bb359cfc96,Ali Hikmet Ayerdem,Ali Hikmet Ayerdem,,,,Cumhuriyet Halk Partisi,CHP,area/bursa,Bursa,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/41/Ali_Hikmet_Pasha.jpg,male
 2cec36d2-7b20-4a18-9c0f-85d53d4c6e44,Ali Kütükçüoğlu,Ali Kütükçüoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/ankara,Ankara,Grand National Assembly,2,,,,male
 121935b4-269b-4542-a503-e93de0bfd649,Ali Kılıç,Ali Kılıç,,,,Cumhuriyet Halk Partisi,CHP,area/gaziantep,Gaziantep,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/07/Suleyman_Asaf.jpg,male
 19bf64f0-bda5-44db-9dda-d76d574ced99,Ali Nazmi Özügür,Ali Nazmi Özügür,,,,Cumhuriyet Halk Partisi,CHP,area/kastamonu,Kastamonu,Grand National Assembly,2,,,,male
-b1981469-487c-466a-89e1-1ed3575572ea,Ali Rıza Bebek,Ali Rıza Bebek,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,
-816c2190-42cd-497c-a03e-6332dc82075c,Ali Rıza Benli,Ali Rıza Benli,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,,
-a53a5bf8-3522-4724-b8be-59c3c1993107,Ali Rıza Bey,Ali Rıza Bey,,,,Cumhuriyet Halk Partisi,CHP,area/kastamonu,Kastamonu,Grand National Assembly,2,,,,
+b1981469-487c-466a-89e1-1ed3575572ea,Ali Rıza Bebek,Ali Rıza Bebek,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,male
+816c2190-42cd-497c-a03e-6332dc82075c,Ali Rıza Benli,Ali Rıza Benli,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,,male
+a53a5bf8-3522-4724-b8be-59c3c1993107,Ali Rıza Bey,Ali Rıza Bey,,,,Cumhuriyet Halk Partisi,CHP,area/kastamonu,Kastamonu,Grand National Assembly,2,,,,male
 14b32775-3d5c-4a1d-bda8-defa69035f1a,Ali Rıza Erten,Ali Rıza Erten,,,,Cumhuriyet Halk Partisi,CHP,area/mardin,Mardin,Grand National Assembly,2,,,,male
 1caf87b1-cb14-44e7-b2bf-0e3a6c941bdc,Ali Rıza Özdarende,Ali Rıza Özdarende,,,,Cumhuriyet Halk Partisi,CHP,area/amasya,Amasya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/12/Ali_Rıza_Özdarende.png,male
 d6f0c26c-1117-4257-a4f8-3b92b206a18c,Ali Saip Ursavaş,Ali Saip Ursavaş,,,,Cumhuriyet Halk Partisi,CHP,area/kozan,Kozan,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/2/2b/Ali_Saip_Bey.png,male
-70887f9c-c9f0-403a-be5b-580862012bfc,Ali Sururi Tönük,Ali Sururi Tönük,,,,Cumhuriyet Halk Partisi,CHP,area/karahisar-ı_Şarki_(Şebinkarahisar),Karahisar-ı Şarki (Şebinkarahisar),Grand National Assembly,2,,,,
+70887f9c-c9f0-403a-be5b-580862012bfc,Ali Sururi Tönük,Ali Sururi Tönük,,,,Cumhuriyet Halk Partisi,CHP,area/karahisar-ı_Şarki_(Şebinkarahisar),Karahisar-ı Şarki (Şebinkarahisar),Grand National Assembly,2,,,,male
 05c706d0-3183-4c60-86e1-03a6ba2ad092,Ali Ulvi Bayrakdar,Ali Ulvi Bayrakdar,,,,Cumhuriyet Halk Partisi,CHP,area/eskişehir,Eskişehir,Grand National Assembly,2,,,,male
-471f1b65-6d96-42be-a247-c0ef24163491,Ali Zırh,Ali Zırh,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,
-21d68d53-7516-42ed-ba29-3b08bc629b83,Ali Şadi Çelik,Ali Şadi Çelik,,,,Cumhuriyet Halk Partisi,CHP,area/kozan,Kozan,Grand National Assembly,2,,,,
-efec1f50-cdac-464d-9af2-e5a9ae80387f,Ali Şefik Başman,Ali Şefik Başman,,,,Cumhuriyet Halk Partisi,CHP,area/trabzon,Trabzon,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/91/Ali_Şefik_Bey_Başman.jpg,
-102c2892-9465-42e3-b023-ece6cc3cbb7c,Ali Şevket Çolak,Ali Şevket Çolak,,,,Cumhuriyet Halk Partisi,CHP,area/giresun,Giresun,Grand National Assembly,2,,,,
-88288a69-af74-446d-a94c-1984025ceb5d,Asaf Süleyman Doras,Asaf Süleyman Doras,,,,Cumhuriyet Halk Partisi,CHP,area/hakkâri,Hakkâri,Grand National Assembly,2,,,,
-dd05121d-f940-4774-bab8-7083231c0d58,Ata Atalay,Ata Atalay,,,,Cumhuriyet Halk Partisi,CHP,area/niğde,Niğde,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/e0/Ata_Bey_(Atay).jpg,
+471f1b65-6d96-42be-a247-c0ef24163491,Ali Zırh,Ali Zırh,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,male
+21d68d53-7516-42ed-ba29-3b08bc629b83,Ali Şadi Çelik,Ali Şadi Çelik,,,,Cumhuriyet Halk Partisi,CHP,area/kozan,Kozan,Grand National Assembly,2,,,,male
+efec1f50-cdac-464d-9af2-e5a9ae80387f,Ali Şefik Başman,Ali Şefik Başman,,,,Cumhuriyet Halk Partisi,CHP,area/trabzon,Trabzon,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/91/Ali_Şefik_Bey_Başman.jpg,male
+102c2892-9465-42e3-b023-ece6cc3cbb7c,Ali Şevket Çolak,Ali Şevket Çolak,,,,Cumhuriyet Halk Partisi,CHP,area/giresun,Giresun,Grand National Assembly,2,,,,male
+88288a69-af74-446d-a94c-1984025ceb5d,Asaf Süleyman Doras,Asaf Süleyman Doras,,,,Cumhuriyet Halk Partisi,CHP,area/hakkâri,Hakkâri,Grand National Assembly,2,,,,male
+dd05121d-f940-4774-bab8-7083231c0d58,Ata Atalay,Ata Atalay,,,,Cumhuriyet Halk Partisi,CHP,area/niğde,Niğde,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/e0/Ata_Bey_(Atay).jpg,male
 521cf1b7-4466-46e0-8cc5-c3a351cedcab,Bahri Sarıtepe,Bahri Sarıtepe,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,,
 e5187887-97bf-4789-8f26-1b51060ba948,Behiç Erkin,Behiç Erkin,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/c1/BErkin.jpg,male
 a0e7f4a4-ae7c-42c2-b41a-426b61981846,Bekir Sami Kunduh,Bekir Sami Kunduh,,,,Cumhuriyet Halk Partisi,CHP,area/tokat,Tokat,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/5/54/Bekir_Sami_Bey_Kunduh.jpg,male
 f279251b-c449-41d6-92a5-10bbc26b846e,Binbaşızade Rıza Bey,Binbaşızade Rıza Bey,,,,Cumhuriyet Halk Partisi,CHP,area/karahisar-ı_Şarki_(Şebinkarahisar),Karahisar-ı Şarki (Şebinkarahisar),Grand National Assembly,2,,,,
 19f45bc6-6e01-448f-a802-1188e9786b34,Cafer Tayyar Eğilmez,Cafer Tayyar Eğilmez,,,,Cumhuriyet Halk Partisi,CHP,area/edirne,Edirne,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ee/Cafer_Tayyar_Pasha.jpg,male
 bc4363b7-f1d7-441f-a81a-c701bfeeae87,Cavit Ekin,Cavit Ekin,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/5/54/Abdulkadir_Cavit_Bey_Ekin.jpg,male
-645f1b5c-b03a-4c64-a2d7-e7f253fd72a9,Cavit Paşa,Cavit Paşa,,,,Cumhuriyet Halk Partisi,CHP,area/canik_(samsun),Canik (Samsun),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/6d/Djavid_Pasha.jpg,
+645f1b5c-b03a-4c64-a2d7-e7f253fd72a9,Cavit Paşa,Cavit Paşa,,,,Cumhuriyet Halk Partisi,CHP,area/canik_(samsun),Canik (Samsun),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/6d/Djavid_Pasha.jpg,male
 cc0de41b-90b6-4447-8e4d-09d127edd7e3,Celal Nuri İleri,Celal Nuri İleri,,,,Cumhuriyet Halk Partisi,CHP,area/gelibolu,Gelibolu,Grand National Assembly,2,,,,male
 9d95d988-0207-42d7-8215-5f2f19fc7c12,Cemal Hüsnü Taray,Cemal Hüsnü Taray,,,,Cumhuriyet Halk Partisi,CHP,area/gümüşhane,Gümüşhane,Grand National Assembly,2,,,,male
 cef6dbcf-01c2-4d0b-8973-a7e6db9c9227,Cevat Abbas Gürer,Cevat Abbas Gürer,,,,Cumhuriyet Halk Partisi,CHP,area/bolu,Bolu,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/d/d9/Cevat_Abbas_Gürer.jpg,male
 786755e3-4aa1-4fbe-add3-bcbfeff27759,Cevdet Barlas,Cevdet Barlas,,,,Cumhuriyet Halk Partisi,CHP,area/kütahya,Kütahya,Grand National Assembly,2,,,,
-a8388bc8-b37d-4e61-8e1f-69a0f5a9c364,Cudi Paşa,Cudi Paşa,,,,Cumhuriyet Halk Partisi,CHP,area/siverek,Siverek,Grand National Assembly,2,,,,
+a8388bc8-b37d-4e61-8e1f-69a0f5a9c364,Cudi Paşa,Cudi Paşa,,,,Cumhuriyet Halk Partisi,CHP,area/siverek,Siverek,Grand National Assembly,2,,,,male
 6c7ef0fa-110e-45d1-a4ae-57f760329e82,Derviş Ural,Derviş Ural,,,,Cumhuriyet Halk Partisi,CHP,area/mardin,Mardin,Grand National Assembly,2,,,,
 da7a1891-05c4-42b6-9237-80b0c9ba3192,Ebubekir Hâzım Tepeyran,Ebubekir Hâzım Tepeyran,,,,Cumhuriyet Halk Partisi,CHP,area/niğde,Niğde,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/b/be/Ebubekir_Hazim_Bey.jpg,male
 2f649ab8-dbee-4ccb-87bd-ebf23f3b8a09,Edip Servet Tör,Edip Servet Tör,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,
 eaf81a09-59c1-4be9-8b16-e62953a6d316,Ekrem Rize,Ekrem Rize,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,male
 d254bd36-ee72-4d6b-ad8e-0b9a1507516b,Emin Cemal Suda,Emin Cemal Suda,,,,Cumhuriyet Halk Partisi,CHP,area/bolu,Bolu,Grand National Assembly,2,,,,male
 8cd8c9bb-149d-4f10-ac94-33fcf2a621c7,Emin Sazak,Emin Sazak,,,,Cumhuriyet Halk Partisi,CHP,area/eskişehir,Eskişehir,Grand National Assembly,2,,,,male
-79bd137e-782e-40f0-8912-6a5bfa42c078,Esat Özoğuz,Esat Özoğuz,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,
-3638c62b-71d3-4364-9095-dee8910be901,Ethem Büke,Ethem Büke,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,,
+79bd137e-782e-40f0-8912-6a5bfa42c078,Esat Özoğuz,Esat Özoğuz,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,male
+3638c62b-71d3-4364-9095-dee8910be901,Ethem Büke,Ethem Büke,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,,male
 65fd9130-ce1a-43be-ae9b-9e07366d093b,Eyüp Sabri Hayırlıoğlu,Eyüp Sabri Hayırlıoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,,
 5759a996-f846-4f24-ba44-759a03a34961,Fahrettin Altay,Fahrettin Altay,,,,Cumhuriyet Halk Partisi,CHP,area/İzmir,İzmir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/4c/Fahrettin_Altay.jpeg,male
-c5331623-add0-4455-a124-46f92508ead0,Faik Kaltakkıran,Faik Kaltakkıran,,,,Cumhuriyet Halk Partisi,CHP,area/edirne,Edirne,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/1b/Mehmed_Faik_Bey.jpg,
+c5331623-add0-4455-a124-46f92508ead0,Faik Kaltakkıran,Faik Kaltakkıran,,,,Cumhuriyet Halk Partisi,CHP,area/edirne,Edirne,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/1b/Mehmed_Faik_Bey.jpg,male
 00c9d101-f979-436a-aa1c-31259c65604b,Faik Öztrak,Faik Öztrak,,,,Cumhuriyet Halk Partisi,CHP,area/tekirdağ,Tekirdağ,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/5/53/Faik_Bey_Öztırak.jpg,male
 6b202a8c-8c4a-4c01-b75a-2ebb0e84df0d,Falih Rıfkı Atay,Falih Rıfkı Atay,,,,Cumhuriyet Halk Partisi,CHP,area/bolu,Bolu,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/d/d1/Dinliçoğlu_Mustafa_Rıfkı_Bey.jpg,male
-02139932-dafe-4b2e-9824-3605b6f57ca3,Feridun Fikri Düşünsel,Feridun Fikri Düşünsel,,,,Cumhuriyet Halk Partisi,CHP,area/dersim_(tunceli),Dersim (Tunceli),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/6d/Feridun_Fikri_Bey.jpg,
+02139932-dafe-4b2e-9824-3605b6f57ca3,Feridun Fikri Düşünsel,Feridun Fikri Düşünsel,,,,Cumhuriyet Halk Partisi,CHP,area/dersim_(tunceli),Dersim (Tunceli),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/6d/Feridun_Fikri_Bey.jpg,male
 34526313-174b-4586-bcd1-4e7eda014629,Fevzi Çakmak,Fevzi Çakmak,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/8/88/Fevzi_cakmak.png,male
 aa13fd4d-43fd-4660-bde9-e54efd91dca3,Feyzi Pirinççioğlu,Feyzi Pirinççioğlu,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/92/Pirinççizade_Feyzi_Bey.jpg,male
 d391df8d-a1cf-4342-b30a-3bd3325cb58c,Fikret Onuralp,Fikret Onuralp,,,,Cumhuriyet Halk Partisi,CHP,area/ertuğrul_(bilecik),Ertuğrul (Bilecik),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/f/f7/Tokattin_Fikret_Bey.jpg,male
@@ -115,7 +115,7 @@ c9428e1e-97d1-4e60-8b13-18b54ca841d6,Halil Türkmen,Halil Türkmen,,,,Cumhuriyet
 e367cd7b-91f8-453d-9a22-9001be05ad9f,Halit Akmansü,Halit Akmansü,,,,Cumhuriyet Halk Partisi,CHP,area/kastamonu,Kastamonu,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/37/Dadayli_Halid_Bey.jpg,male
 5399a60a-3724-4238-bdac-bb8de0ffa1ac,Halit Hami Mengi,Halit Hami Mengi,,,,Cumhuriyet Halk Partisi,CHP,area/niğde,Niğde,Grand National Assembly,2,,,,
 e72979cc-0b40-4d7d-a82b-bb2add093872,Halit Karsıalan,Halit Karsıalan,,,,Cumhuriyet Halk Partisi,CHP,area/ardahan,Ardahan,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/f/f9/Deli_Halid_Pasha.jpg,male
-a820daf1-3a0c-4915-94aa-d305aaa45af5,Halit Mazhar Karakaya,Halit Mazhar Karakaya,,,,Cumhuriyet Halk Partisi,CHP,area/kayseri,Kayseri,Grand National Assembly,2,,,,
+a820daf1-3a0c-4915-94aa-d305aaa45af5,Halit Mazhar Karakaya,Halit Mazhar Karakaya,,,,Cumhuriyet Halk Partisi,CHP,area/kayseri,Kayseri,Grand National Assembly,2,,,,male
 e477a17a-9221-41f4-a14b-827b23a5181c,Hamdullah Suphi Tanrıöver,Hamdullah Suphi Tanrıöver,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/36/Hamdullah_Suphi_Tanriover_MEB.jpg,male
 30ab5add-1773-4aa2-834d-137454215510,Hasan Cavit Belül,Hasan Cavit Belül,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,male
 918576bb-d2b1-44ef-bb13-c988c087dd44,Hasan Fehmi Ataç,Hasan Fehmi Ataç,,,,Cumhuriyet Halk Partisi,CHP,area/gümüşhane,Gümüşhane,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/9d/Hasan_Fehmi_Bey.jpg,male
@@ -142,7 +142,7 @@ ea6c57e9-736e-4f27-ad68-0b8d4464331b,Kazım Hüsnü Bey,Kazım Hüsnü Bey,,,,Cu
 3ed7d865-486c-4486-87af-6337d7ad3a71,Kazım Samanlı,Kazım Samanlı,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,,
 58a2b8cb-4bd0-4a7e-9cf2-da3f8dee9bef,Kemal Gürol,Kemal Gürol,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,,male
 43fd3c74-7cf5-4ae7-b1e6-e681b37ca68b,Kemalettin Sami Gökçen,Kemalettin Sami Gökçen,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/b/be/Kemaledddin_Sami.jpg,male
-06c305d1-4990-4f71-a513-a2e5b73cd7d8,Kâzım Bey (Oral),Kâzım Bey (Oral),,,,Cumhuriyet Halk Partisi,CHP,area/ergani,Ergani,Grand National Assembly,2,,,,
+06c305d1-4990-4f71-a513-a2e5b73cd7d8,Kâzım Bey (Oral),Kâzım Bey (Oral),,,,Cumhuriyet Halk Partisi,CHP,area/ergani,Ergani,Grand National Assembly,2,,,,male
 ff08a751-e06c-43bc-bd79-f86c8f5c7c11,Kâzım Özalp,Kâzım Özalp,,,,Cumhuriyet Halk Partisi,CHP,area/karesi_(balıkesir),Karesi (Balıkesir),Grand National Assembly,2,,,,
 51252ca8-1f86-494b-b78c-1e6994b510b2,Lütfi Müfit Özdeş,Lütfi Müfit Özdeş,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/8/80/Lütfi_Müfit_Özdeş.jpg,male
 0d571f97-97e2-4bfd-a9f3-554e9e1990da,Mahbub Erdoğru,Mahbub Erdoğru,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,,
@@ -153,8 +153,8 @@ c3b4b187-7bca-48ab-a127-20ee10e83dc6,Mahmut Murat Şerefli,Mahmut Murat Şerefli
 dc3cc573-341b-4e22-961f-156425d68f8f,Mahmut Nedim Soydan,Mahmut Nedim Soydan,,,,Cumhuriyet Halk Partisi,CHP,area/siirt,Siirt,Grand National Assembly,2,,,,male
 4a9a6a1e-a4ac-452a-8f58-bb8c4db996f0,Mahmut Nedim Zabcı,Mahmut Nedim Zabcı,,,,Cumhuriyet Halk Partisi,CHP,area/malatya,Malatya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ec/Mahmut_Nedim_Bey_Zabcı.jpg,male
 714ae674-1aec-4afa-b2eb-70dafab0f1d1,Mahmut Odabaşı,Mahmut Odabaşı,,,,Cumhuriyet Halk Partisi,CHP,area/siverek,Siverek,Grand National Assembly,2,,,,male
-0335f481-3838-430e-803c-d81a968e04c5,Mazhar Germen,Mazhar Germen,,,,Cumhuriyet Halk Partisi,CHP,area/aydın,Aydın,Grand National Assembly,2,,,,
-07afbe2f-6cde-477d-acd4-25164c417aeb,Mazhar Müfit Kansu,Mazhar Müfit Kansu,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/d/d8/Ahmet_Mazhar_Bey.jpg,
+0335f481-3838-430e-803c-d81a968e04c5,Mazhar Germen,Mazhar Germen,,,,Cumhuriyet Halk Partisi,CHP,area/aydın,Aydın,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/2/29/Mazhar_Bey_(Germen).jpg,
+07afbe2f-6cde-477d-acd4-25164c417aeb,Mazhar Müfit Kansu,Mazhar Müfit Kansu,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/d/d8/Ahmet_Mazhar_Bey.jpg,male
 fecc8f3e-3ac8-4a2b-86b9-02048b8cc1e8,Mehmed Refik Kakmacı,Mehmed Refik Kakmacı,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/5/52/Refik_İsmail_Bey.jpg,male
 a692e94f-ddd3-408c-96af-92442c254b1f,Mehmet Arif Bey,Mehmet Arif Bey,,,,Cumhuriyet Halk Partisi,CHP,area/eskişehir,Eskişehir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/02/Mehmed_Arif_Bey.jpg,male
 3c724c86-f1b6-4caf-b4e0-74875983468c,Mehmet Avni Doğan,Mehmet Avni Doğan,,,,Cumhuriyet Halk Partisi,CHP,area/bozok_(yozgat),Bozok (Yozgat),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/30/Mehmet_Avni_Bey_Doğan.jpg,male
@@ -201,7 +201,7 @@ e9287f21-6d5e-48ea-a10b-66d0af813464,Mithat Aydın,Mithat Aydın,,,,Cumhuriyet H
 1c75915c-fe9e-4226-839f-56f6902242f5,Muammer Bey,Muammer Bey,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,
 e6461c70-690a-410d-9afb-f779b1a9bb99,Muhittin Başay,Muhittin Başay,,,,Cumhuriyet Halk Partisi,CHP,area/bitlis,Bitlis,Grand National Assembly,2,,,,male
 d6358817-c939-497a-9a72-de2f93c8f82c,Muhittin Temoçin,Muhittin Temoçin,,,,Cumhuriyet Halk Partisi,CHP,area/genç,Genç,Grand National Assembly,2,,,,
-f31b354f-0f8b-42a8-8755-0ccfd2187051,Muhittin Çöteli,Muhittin Çöteli,,,,Cumhuriyet Halk Partisi,CHP,area/elaziz_(elazığ),Elaziz (Elazığ),Grand National Assembly,2,,,,
+f31b354f-0f8b-42a8-8755-0ccfd2187051,Muhittin Çöteli,Muhittin Çöteli,,,,Cumhuriyet Halk Partisi,CHP,area/elaziz_(elazığ),Elaziz (Elazığ),Grand National Assembly,2,,,,male
 10c0e6bd-fb13-416a-8b1c-8b3155f5dbe7,Musa Kazım Okay,Musa Kazım Okay,,,,Cumhuriyet Halk Partisi,CHP,area/giresun,Giresun,Grand National Assembly,2,,,,male
 3e2def16-3aa8-4704-b8ed-92326cffc04f,Musa Kazım Onar,Musa Kazım Onar,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/8/83/Musa_Kâzım_Efendi_Onar.jpg,male
 11045b22-272b-4641-8013-32a1358ab366,Musa Kâzım Karabekir,Musa Kâzım Karabekir,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,
@@ -221,7 +221,7 @@ b0713117-c1a3-4ae4-afba-5928c8ba4331,Mustafa Kemal Atatürk,Mustafa Kemal Atatü
 530919e5-2a29-4344-8722-cc17a8f91ffb,Mustafa Ulusan,Mustafa Ulusan,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,,male
 b4ffdee5-203e-49be-bf4c-be58b4db40a4,Mustafa Şeref Özkan,Mustafa Şeref Özkan,,,,Cumhuriyet Halk Partisi,CHP,area/burdur,Burdur,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/f/f2/Mustafa_Şeref_Özkan.jpg,male
 f5a3f437-5ccb-4198-bdf1-7eb10615add1,Münip Boya,Münip Boya,,,,Cumhuriyet Halk Partisi,CHP,area/van,Van,Grand National Assembly,2,,,,
-9ee28409-cde4-4ab5-b702-baaada5e578b,Münir Hüsrev Göle,Münir Hüsrev Göle,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/e5/Münir_Hüsrev_Bey_Göle.jpg,
+9ee28409-cde4-4ab5-b702-baaada5e578b,Münir Hüsrev Göle,Münir Hüsrev Göle,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/e5/Münir_Hüsrev_Bey_Göle.jpg,male
 1d21dbe0-1d88-4b3f-9fb5-6d8209a462a8,Necati Kurtuluş,Necati Kurtuluş,,,,Cumhuriyet Halk Partisi,CHP,area/bursa,Bursa,Grand National Assembly,2,,,,male
 da8ab36a-6f9b-46bd-ae95-1655f283954f,Necip Ali Küçüka,Necip Ali Küçüka,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/63/Necip_Ali_Küçükağa.jpg,male
 f6452501-a490-47ad-8727-ec1c04704ec4,Nuh Naci Yazgan,Nuh Naci Yazgan,,,,Cumhuriyet Halk Partisi,CHP,area/kayseri,Kayseri,Grand National Assembly,2,,,,
@@ -232,30 +232,30 @@ ab21e1aa-9d10-4730-a1ef-a8cb139b18bc,Osman Nuri Özpay,Osman Nuri Özpay,,,,Cumh
 850b0f99-01e0-464d-9f42-ca671b3801d0,Ragıp Soysal,Ragıp Soysal,,,,Cumhuriyet Halk Partisi,CHP,area/kütahya,Kütahya,Grand National Assembly,2,,,,
 41865252-9e3d-4f1b-9d9c-44fdc27c5b50,Raif Dinç,Raif Dinç,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ee/Raif_Bey_(Dinç).jpg,male
 04190d2f-e16b-49b4-a7f1-03a490a4bd34,Rasih Kaplan,Rasih Kaplan,,,,Cumhuriyet Halk Partisi,CHP,area/antalya,Antalya,Grand National Assembly,2,,,,
-9b815b1e-ae4e-4971-aaa7-80135512e6f8,Rasim Başara,Rasim Başara,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,
-91cc790e-14c9-45c3-8022-2691ef57ea03,Rasim Celalettin Öztekin,Rasim Celalettin Öztekin,,,,Cumhuriyet Halk Partisi,CHP,area/ertuğrul_(bilecik),Ertuğrul (Bilecik),Grand National Assembly,2,,,,
-ea525dba-5056-4963-87db-8b61fdbb4c4d,Rauf Benli,Rauf Benli,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,
+9b815b1e-ae4e-4971-aaa7-80135512e6f8,Rasim Başara,Rasim Başara,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,male
+91cc790e-14c9-45c3-8022-2691ef57ea03,Rasim Celalettin Öztekin,Rasim Celalettin Öztekin,,,,Cumhuriyet Halk Partisi,CHP,area/ertuğrul_(bilecik),Ertuğrul (Bilecik),Grand National Assembly,2,,,,male
+ea525dba-5056-4963-87db-8b61fdbb4c4d,Rauf Benli,Rauf Benli,,,,Cumhuriyet Halk Partisi,CHP,area/rize,Rize,Grand National Assembly,2,,,,male
 aea8e1ed-3593-4016-b804-ace53d3321d0,Recep Peker,Recep Peker,,,,Cumhuriyet Halk Partisi,CHP,area/kütahya,Kütahya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ef/RECEP_PEKER.jpg,male
-32c4c15a-2ec6-4e4b-bc53-169c23a3fc31,Recep Zühtü Soyak,Recep Zühtü Soyak,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,,
+32c4c15a-2ec6-4e4b-bc53-169c23a3fc31,Recep Zühtü Soyak,Recep Zühtü Soyak,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,,male
 364075d5-ba05-4694-8fd4-0b5496f00435,Refet Bele,Refet Bele,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/67/İbrahim_Refet_Bele.jpg,male
-320561fc-f4ea-4e54-8e48-e610a4b8564d,Refet Topçuoğlu,Refet Topçuoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/urfa,Urfa,Grand National Assembly,2,,,,
+320561fc-f4ea-4e54-8e48-e610a4b8564d,Refet Topçuoğlu,Refet Topçuoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/urfa,Urfa,Grand National Assembly,2,,,,male
 d493f63d-29fd-47ea-86be-cfb81239c06c,Refik Koraltan,Refik Koraltan,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/7c/Bekir_Refik_Bey_Koraltan.jpg,male
 f669c61b-05bf-4ebb-bc4d-c496e21c5bab,Refik Saydam,Refik Saydam,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/3c/Refik_Saydam.jpg,male
 82826e33-28cd-43a9-97b4-f2ed45d957d9,Remzi Güres,Remzi Güres,,,,Cumhuriyet Halk Partisi,CHP,area/gaziantep,Gaziantep,Grand National Assembly,2,,,,
-86ffadff-8fb8-4b10-9e15-2aea9547f2a3,Reşat Kayalı,Reşat Kayalı,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/c5/Reshad_Bey_Kayali.jpg,
-7f70e8d3-4349-4e28-9fdf-89c24d81f54a,Reşit Ağar,Reşit Ağar,,,,Cumhuriyet Halk Partisi,CHP,area/malatya,Malatya,Grand National Assembly,2,,,,
+86ffadff-8fb8-4b10-9e15-2aea9547f2a3,Reşat Kayalı,Reşat Kayalı,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/c5/Reshad_Bey_Kayali.jpg,male
+7f70e8d3-4349-4e28-9fdf-89c24d81f54a,Reşit Ağar,Reşit Ağar,,,,Cumhuriyet Halk Partisi,CHP,area/malatya,Malatya,Grand National Assembly,2,,,,male
 1b274a39-707e-451f-9cd1-2f6e726230ff,Reşit Galip,Reşit Galip,,,,Cumhuriyet Halk Partisi,CHP,area/aydın,Aydın,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/34/Reşit_Galip_Bey.jpg,male
 84c5ffed-073a-440d-892e-76becbee9663,Rüştü Paşa,Rüştü Paşa,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/03/Rushdi_Pasha.jpg,male
-9295c27d-ce35-424a-bcaf-b0b23f4bd3fe,Rıza Kotan,Rıza Kotan,,,,Cumhuriyet Halk Partisi,CHP,area/muş,Muş,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/7f/Riza_Bey_Kotan.jpg,
+9295c27d-ce35-424a-bcaf-b0b23f4bd3fe,Rıza Kotan,Rıza Kotan,,,,Cumhuriyet Halk Partisi,CHP,area/muş,Muş,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/7f/Riza_Bey_Kotan.jpg,male
 077e80aa-9aa3-4549-a65f-0c170ed0f55a,Rıza Nur,Rıza Nur,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/ce/Rıza_Nur.jpg,male
 705ee5ab-d1eb-4fc6-b731-52c0747c1ba9,Sabit Gözügeçgel,Sabit Gözügeçgel,,,,Cumhuriyet Halk Partisi,CHP,area/kayseri,Kayseri,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/f/f8/Sabit_Gözügeçgel.jpg,male
 0100f7f7-51a9-4766-9c70-ae90131d1398,Saffet Arıkan,Saffet Arıkan,,,,Cumhuriyet Halk Partisi,CHP,area/kocaeli,Kocaeli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/7e/Saffet_Bey_Arıkan.jpg,male
 90ba9146-41f7-40e6-8634-b83a906d636e,Saffet Kemalettin Yetkin,Saffet Kemalettin Yetkin,,,,Cumhuriyet Halk Partisi,CHP,area/urfa,Urfa,Grand National Assembly,2,,,,
-bb21f4a9-20c8-493f-bef6-5823efd82af4,Saim Uzel,Saim Uzel,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,,
+bb21f4a9-20c8-493f-bef6-5823efd82af4,Saim Uzel,Saim Uzel,,,,Cumhuriyet Halk Partisi,CHP,area/saruhan_(manisa),Saruhan (Manisa),Grand National Assembly,2,,,,male
 70672dee-818c-49a5-84f1-227b49753518,Sakallı Nurettin,Sakallı Nurettin,,,,Cumhuriyet Halk Partisi,CHP,area/bursa,Bursa,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/b/b9/Sakalli_Nureddin_Pasha.jpg,male
 8868c010-fb05-4abc-9f8c-c88ddfe51fd8,Salih Bozok,Salih Bozok,,,,Cumhuriyet Halk Partisi,CHP,area/bozok_(yozgat),Bozok (Yozgat),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/43/SalihBozok.jpg,male
-a8f4968d-97dd-4540-978b-b8f7d637a1a5,Samih Yalnızgil,Samih Yalnızgil,,,,Cumhuriyet Halk Partisi,CHP,area/biga,Biga,Grand National Assembly,2,,,,
-77a2c798-b827-4b31-8083-e2c2893138a3,Seyfi Aydın,Seyfi Aydın,,,,Cumhuriyet Halk Partisi,CHP,area/kütahya,Kütahya,Grand National Assembly,2,,,,
+a8f4968d-97dd-4540-978b-b8f7d637a1a5,Samih Yalnızgil,Samih Yalnızgil,,,,Cumhuriyet Halk Partisi,CHP,area/biga,Biga,Grand National Assembly,2,,,,male
+77a2c798-b827-4b31-8083-e2c2893138a3,Seyfi Aydın,Seyfi Aydın,,,,Cumhuriyet Halk Partisi,CHP,area/kütahya,Kütahya,Grand National Assembly,2,,,,male
 20501cea-0077-46af-a493-5fbb9a97e778,Seyit Bey,Seyit Bey,,,,Cumhuriyet Halk Partisi,CHP,area/İzmir,İzmir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/60/Seyit_Bey.jpg,male
 8b04bd41-5230-4cc0-9235-2ae72707c00b,Sofrasur Asizade Resul Bey,Sofrasur Asizade Resul Bey,,,,Cumhuriyet Halk Partisi,CHP,area/bitlis,Bitlis,Grand National Assembly,2,,,,
 87d75493-c518-4558-bf11-27d62b20353e,Süleyman Karakaya,Süleyman Karakaya,,,,Cumhuriyet Halk Partisi,CHP,area/elaziz_(elazığ),Elaziz (Elazığ),Grand National Assembly,2,,,,male
@@ -267,12 +267,12 @@ bf00f51f-b4c4-405c-815c-37cb5ecb7774,Süleyman Sudi Acarbay,Süleyman Sudi Acarb
 aac6e761-9fc9-4669-85a1-e14872d6fb1f,Tahir Karadeniz,Tahir Karadeniz,,,,Cumhuriyet Halk Partisi,CHP,area/giresun,Giresun,Grand National Assembly,2,,,,male
 b570b3af-3a00-4b51-aa08-a537c2941b28,Talat Sönmez,Talat Sönmez,,,,Cumhuriyet Halk Partisi,CHP,area/ardahan,Ardahan,Grand National Assembly,2,,,,
 63d6291d-aeb5-43ac-b40c-17b02e40bddf,Talat Özüdoğru,Talat Özüdoğru,,,,Cumhuriyet Halk Partisi,CHP,area/canik_(samsun),Canik (Samsun),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/34/Talat_Avni_Bey.jpg,male
-ca138ee0-0f1b-482a-84a6-962f8c47b38e,Tevfik Fikret Sılay,Tevfik Fikret Sılay,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,,male
-cd17a2a8-27de-4905-820f-2811c0379924,Tevfik Kamil Koperler,Tevfik Kamil Koperler,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/43/Tevfik_Kâmil_Bey_Koperler.jpg,
+ca138ee0-0f1b-482a-84a6-962f8c47b38e,Tevfik Fikret Sılay,Tevfik Fikret Sılay,,,,Cumhuriyet Halk Partisi,CHP,area/konya,Konya,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/2/29/Tevfik_Fikret_Bey_Sılay.jpg,male
+cd17a2a8-27de-4905-820f-2811c0379924,Tevfik Kamil Koperler,Tevfik Kamil Koperler,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/43/Tevfik_Kâmil_Bey_Koperler.jpg,male
 15e8b22e-39cd-4682-abe9-2abcfaa7d0aa,Tevfik Marlalı,Tevfik Marlalı,,,,Cumhuriyet Halk Partisi,CHP,area/İçel_(silifke),İçel (Silifke),Grand National Assembly,2,,,,
 dab79c7e-e965-4935-ae40-9c4422fa0968,Tevfik Rüştü Aras,Tevfik Rüştü Aras,,,,Cumhuriyet Halk Partisi,CHP,area/İzmir,İzmir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/77/Ahmet_Tevfik_Rüştü_Aras.jpg,male
-2311a734-a5c6-4f0e-9163-bb9193f02e67,Tunalı Hilmi,Tunalı Hilmi,,,,Cumhuriyet Halk Partisi,CHP,area/zonguldak,Zonguldak,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/16/Abdullah_Hilmi_Bey.jpg,
-71ee134b-5d3d-41b5-ad42-e763ed292611,Vehbi Çorakçı,Vehbi Çorakçı,,,,Cumhuriyet Halk Partisi,CHP,area/aksaray,Aksaray,Grand National Assembly,2,,,,
+2311a734-a5c6-4f0e-9163-bb9193f02e67,Tunalı Hilmi,Tunalı Hilmi,,,,Cumhuriyet Halk Partisi,CHP,area/zonguldak,Zonguldak,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/16/Abdullah_Hilmi_Bey.jpg,male
+71ee134b-5d3d-41b5-ad42-e763ed292611,Vehbi Çorakçı,Vehbi Çorakçı,,,,Cumhuriyet Halk Partisi,CHP,area/aksaray,Aksaray,Grand National Assembly,2,,,,male
 884c8266-2d76-409f-adb1-03e2ccc71776,Veled Çelebi İzbudak,Veled Çelebi İzbudak,,,,Cumhuriyet Halk Partisi,CHP,area/kastamonu,Kastamonu,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/17/Velet_İzbudak.jpg,male
 b3d8ba2a-4799-4918-8c7a-9c5f0d6ee17e,Veysel Rıza Zarbun,Veysel Rıza Zarbun,,,,Cumhuriyet Halk Partisi,CHP,area/gümüşhane,Gümüşhane,Grand National Assembly,2,,,,male
 282cd480-4554-463d-8f9e-d1be8bd00e19,Yahya Galip Kargı,Yahya Galip Kargı,,,,Cumhuriyet Halk Partisi,CHP,area/kırşehir,Kırşehir,Grand National Assembly,2,,,,male
@@ -281,7 +281,7 @@ fdd92963-1e3a-4a88-aac6-5ebf8cd3d453,Yahya Kemal Beyatlı,Yahya Kemal Beyatlı,,
 23852149-e92f-46f9-b592-fa4075b2687e,Yunus Nadi Abalıoğlu,Yunus Nadi Abalıoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/menteşe_(muğla),Menteşe (Muğla),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/8/85/Yunus_Nadi_Bey.jpg,male
 c999f612-40a2-4233-91c4-1e64472f8ac2,Yusuf Akçora,Yusuf Akçora,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/92/Yusuf_akcura.jpg,male
 f9d793a6-3dcb-4bf2-9b64-a9066d19932c,Yusuf Başkaya,Yusuf Başkaya,,,,Cumhuriyet Halk Partisi,CHP,area/denizli,Denizli,Grand National Assembly,2,,,,male
-e382f965-bc25-42d6-be02-475f53c2a69e,Yusuf Kemal Tengirşenk,Yusuf Kemal Tengirşenk,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,,male
+e382f965-bc25-42d6-be02-475f53c2a69e,Yusuf Kemal Tengirşenk,Yusuf Kemal Tengirşenk,,,,Cumhuriyet Halk Partisi,CHP,area/sinop,Sinop,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/f/f0/Yusuf_Kemal_Bey.jpg,male
 c79d78b5-e33f-4496-82fe-1d9c8178ef59,Yusuf Ziya Başara,Yusuf Ziya Başara,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,,male
 dc662569-8159-4838-9633-90e592cc0094,Yusuf Ziya Özenci,Yusuf Ziya Özenci,,,,Cumhuriyet Halk Partisi,CHP,area/zonguldak,Zonguldak,Grand National Assembly,2,,,,male
 5986a0ce-1086-4706-a291-903ffb95869c,Yusuf Ziya İsfendiyaroğlu,Yusuf Ziya İsfendiyaroğlu,,,,Cumhuriyet Halk Partisi,CHP,area/kangırı_(Çankırı),Kangırı (Çankırı),Grand National Assembly,2,,,,male
@@ -289,7 +289,7 @@ dc662569-8159-4838-9633-90e592cc0094,Yusuf Ziya Özenci,Yusuf Ziya Özenci,,,,Cu
 0db0193f-c123-40b5-a6d9-188e4a3a62eb,Zekai Apaydın,Zekai Apaydın,,,,Cumhuriyet Halk Partisi,CHP,area/aydın,Aydın,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/b/b9/Aziz_Zekai_Bey.jpg,male
 b3f5001d-dfc4-4fb7-8650-67bef4e2dd38,Zeki Kadirbeyoğlu,Zeki Kadirbeyoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/gümüşhane,Gümüşhane,Grand National Assembly,2,,,,
 cd79d45b-a944-4666-9df4-68a0d43901f4,Ziya Gökalp,Ziya Gökalp,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/3/3d/Ziya_Bey_Gökalp.jpg,male
-e5ca2ca8-81ca-4015-92f8-6c418ce07935,Ziya Karamürsel,Ziya Karamürsel,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,
+e5ca2ca8-81ca-4015-92f8-6c418ce07935,Ziya Karamürsel,Ziya Karamürsel,,,,Cumhuriyet Halk Partisi,CHP,area/İstanbul,İstanbul,Grand National Assembly,2,,,,male
 f84c56dc-db84-4188-9fcf-ffffa58ca69e,Ziyaeddin Gözübüyük,Ziyaeddin Gözübüyük,,,,Cumhuriyet Halk Partisi,CHP,area/erzurum,Erzurum,Grand National Assembly,2,,,,male
 25647d91-3dce-4640-a8f1-3e1aed560d6a,Ömer Mümtaz Tambi,Ömer Mümtaz Tambi,,,,Cumhuriyet Halk Partisi,CHP,area/ankara,Ankara,Grand National Assembly,2,,,,male
 170d49e6-4d1f-41a1-b309-e68dd8b41d68,Ömer Tarım,Ömer Tarım,,,,Cumhuriyet Halk Partisi,CHP,area/kars,Kars,Grand National Assembly,2,,,,male
@@ -297,7 +297,7 @@ f84c56dc-db84-4188-9fcf-ffffa58ca69e,Ziyaeddin Gözübüyük,Ziyaeddin Gözübü
 12f628dc-e4fc-421b-9c0d-02fb03772415,İbrahim Arvas,İbrahim Arvas,,,,Cumhuriyet Halk Partisi,CHP,area/van,Van,Grand National Assembly,2,,,,male
 dd6f9f7b-7d3f-4385-a527-c5f652e54cbf,İbrahim Hakkı Tolon,İbrahim Hakkı Tolon,,,,Cumhuriyet Halk Partisi,CHP,area/kocaeli,Kocaeli,Grand National Assembly,2,,,,male
 e9baac67-ea0c-44f1-8760-5d6ae28caef1,İbrahim Süreyya Yiğit,İbrahim Süreyya Yiğit,,,,Cumhuriyet Halk Partisi,CHP,area/kocaeli,Kocaeli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/93/İbrahim_Süreyya_Yiğit.jpg,male
-d25bfb00-b230-4c2f-a499-338ff1917821,İbrahim Talî Öngören,İbrahim Talî Öngören,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,,male
+d25bfb00-b230-4c2f-a499-338ff1917821,İbrahim Talî Öngören,İbrahim Talî Öngören,,,,Cumhuriyet Halk Partisi,CHP,area/diyarbekir,Diyarbekir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/ce/Ibrahim_Edhem_Bey.jpg,male
 1a1fda8f-b597-4b7c-8b7a-864da7d11346,İbrahim Çolak,İbrahim Çolak,,,,Cumhuriyet Halk Partisi,CHP,area/ertuğrul_(bilecik),Ertuğrul (Bilecik),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/1/14/İbrahim_Çolak.jpg,male
 cab3e683-f12d-4488-a403-7f71dbc345ad,İhsan Eryavuz,İhsan Eryavuz,,,,Cumhuriyet Halk Partisi,CHP,area/cebel-i_bereket_(osmaniye),Cebel-i Bereket (Osmaniye),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/9/9f/Ihsan_Eryavuz.jpg,male
 d3866b31-a12a-4673-8499-8090b21d7376,İhsan Hamit Tiğrel,İhsan Hamit Tiğrel,,,,Cumhuriyet Halk Partisi,CHP,area/ergani,Ergani,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/0/00/İhsan_Hamit_Bey.jpg,male
@@ -320,7 +320,7 @@ bafe2913-97a4-446c-ad10-2f18b922fb75,Şakir Kesebir,Şakir Kesebir,,,,Cumhuriyet
 817032f2-d9f3-4b37-86b2-84b47296799c,Şefik Baydar,Şefik Baydar,,,,Cumhuriyet Halk Partisi,CHP,area/bayazıt_(doğubeyazıt),Bayazıt (Doğubeyazıt),Grand National Assembly,2,,,,male
 96dc5539-a0cf-4a95-9dcb-51cefa60c59c,Şemsettin Günaltay,Şemsettin Günaltay,,,,Cumhuriyet Halk Partisi,CHP,area/sivas,Sivas,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/6/68/Mehmet_Şemsettin_Bey_Günaltay.jpg,male
 3b11300f-f79b-44be-8099-e265a29dede8,Şevket Ödül,Şevket Ödül,,,,Cumhuriyet Halk Partisi,CHP,area/kırklareli,Kırklareli,Grand National Assembly,2,,,,male
-a7553d7d-12df-4cf0-9fea-1cd1aacdafdd,Şuuri Hoşafcı,Şuuri Hoşafcı,,,,Cumhuriyet Halk Partisi,CHP,area/karesi_(balıkesir),Karesi (Balıkesir),Grand National Assembly,2,,,,
+a7553d7d-12df-4cf0-9fea-1cd1aacdafdd,Şuuri Hoşafcı,Şuuri Hoşafcı,,,,Cumhuriyet Halk Partisi,CHP,area/karesi_(balıkesir),Karesi (Balıkesir),Grand National Assembly,2,,,,male
 2029001f-7655-4299-b96c-7e80780c18f3,Şükrü Kaya,Şükrü Kaya,,,,Cumhuriyet Halk Partisi,CHP,area/menteşe_(muğla),Menteşe (Muğla),Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/c/ca/Mehmet_Şükrü_Kaya.jpg,male
 5d2d2333-9faa-40c5-92a4-4ea94fa71da8,Şükrü Naili Gökberk,Şükrü Naili Gökberk,,,,Cumhuriyet Halk Partisi,CHP,area/kırklareli,Kırklareli,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/7/75/Shukri_Naili_Pasha.jpg,male
 1f1bd5fa-b3fc-43bf-9d00-328db7c85c80,Şükrü Saracoğlu,Şükrü Saracoğlu,,,,Cumhuriyet Halk Partisi,CHP,area/İzmir,İzmir,Grand National Assembly,2,,,https://upload.wikimedia.org/wikipedia/commons/4/44/SukruS.jpg,male
