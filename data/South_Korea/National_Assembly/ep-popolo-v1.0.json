@@ -9319,6 +9319,7 @@
           "value": "02-784-7773"
         }
       ],
+      "gender": "male",
       "id": "47e7c651-af23-4f02-b3e4-d2862c135a71",
       "identifiers": [
         {
@@ -24452,6 +24453,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/조원진"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/趙源震"
         },
         {
           "note": "facebook",
