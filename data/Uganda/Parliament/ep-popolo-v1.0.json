@@ -25364,7 +25364,7 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:toro~rwenzori/district:ntoroko/constituency:ntoroko_county",
+      "area_id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:ntoroko/constituency:ntoroko_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -26004,7 +26004,7 @@
       ]
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:buganda/district:wakiso/constituency:kyadondo_east",
+      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:wakiso/constituency:kyadondo_east",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "FDC",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -26099,7 +26099,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:masaka/constituency:bukoto_west",
+      "area_id": "ocd-division/country:ug/region:central/subregion:buganda/district:lwengo/constituency:bukoto_west",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -27618,7 +27618,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
+      "area_id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -31487,7 +31487,7 @@
       "role": "member"
     },
     {
-      "area_id": "ocd-division/country:ug/region:western/subregion:toro~rwenzori/district:kabarole/constituency:burahya_county",
+      "area_id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kabarole/constituency:burahya_county",
       "legislative_period_id": "term/10",
       "on_behalf_of_id": "NRM",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
@@ -34034,7 +34034,7 @@
     },
     {
       "id": "ocd-division/country:ug/region:central/subregion:buganda/district:lwengo/constituency:bukoto_west",
-      "name": "Bukoto West",
+      "name": "Bukoto County West",
       "type": "constituency"
     },
     {
@@ -34060,11 +34060,6 @@
     {
       "id": "ocd-division/country:ug/region:central/subregion:buganda/district:masaka/constituency:bukoto_east",
       "name": "Bukoto County East",
-      "type": "constituency"
-    },
-    {
-      "id": "ocd-division/country:ug/region:central/subregion:buganda/district:masaka/constituency:bukoto_west",
-      "name": "Bukoto County West",
       "type": "constituency"
     },
     {
@@ -34538,11 +34533,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:bugiri/constituency:bukooli_south",
-      "name": "Bukooli County South",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:buyende",
       "name": "",
       "type": "constituency"
@@ -34699,7 +34689,7 @@
     },
     {
       "id": "ocd-division/country:ug/region:eastern/subregion:busoga/district:namayingo/constituency:bukooli_south",
-      "name": "Bukooli South",
+      "name": "Bukooli County South",
       "type": "constituency"
     },
     {
@@ -35608,11 +35598,6 @@
       "type": "constituency"
     },
     {
-      "id": "ocd-division/country:ug/region:western/subregion:buganda/district:wakiso/constituency:kyadondo_east",
-      "name": "Kyadondo East",
-      "type": "constituency"
-    },
-    {
       "id": "ocd-division/country:ug/region:western/subregion:bunyoro/district:buliisa",
       "name": "",
       "type": "constituency"
@@ -35858,6 +35843,11 @@
       "type": "constituency"
     },
     {
+      "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kabarole/constituency:burahya_county",
+      "name": "Burahya County",
+      "type": "constituency"
+    },
+    {
       "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:kabarole/constituency:fort_portal_municipality",
       "name": "Fort Portal Municipaity",
       "type": "constituency"
@@ -35960,6 +35950,11 @@
     {
       "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:ntoroko",
       "name": "unknown",
+      "type": "constituency"
+    },
+    {
+      "id": "ocd-division/country:ug/region:western/subregion:tooro~rwenzori/district:ntoroko/constituency:ntoroko_county",
+      "name": "Ntoroko County",
       "type": "constituency"
     },
     {
