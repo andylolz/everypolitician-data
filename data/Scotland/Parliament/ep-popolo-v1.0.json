@@ -16270,6 +16270,10 @@
       "id": "9af503f6-1850-4f3d-99b0-2cb955e431ac",
       "identifiers": [
         {
+          "identifier": "/g/11cn6d_8sg",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25502",
           "scheme": "parlparse"
         },
