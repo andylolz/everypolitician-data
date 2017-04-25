@@ -20,7 +20,11 @@
         "reconciliation_file": "reconciliation/popong-data-20.csv"
       }
     },
-
+    {
+      "file": "archive/popong-20-archive.csv",
+      "source": "https://github.com/teampopong/data-assembly",
+      "type": "membership"
+    },
     {
       "file": "morph/wikidata.csv",
       "create": {
