@@ -457,6 +457,10 @@
         {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Teburoro_Tito"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Тебуроро_Тіто"
         }
       ],
       "name": "Teburoro Tito",
@@ -539,6 +543,11 @@
         {
           "lang": "sh",
           "name": "Teburoro Tito",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Тебуроро Тіто",
           "note": "multilingual"
         },
         {
@@ -1667,6 +1676,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Taneti_Maamau"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Танеті_Мамау"
         },
         {
           "note": "Wikipedia (zh)",
