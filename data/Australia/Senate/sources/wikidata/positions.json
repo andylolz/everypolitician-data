@@ -2514,13 +2514,25 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P580": "1987-07-11",
+        "P582": "2008-06-30"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Kingston",
+        "P580": "1975-12-13",
+        "P582": "1983-03-05",
+        "P1365": "Richard Gun",
+        "P1366": "Gordon Bilney"
+      }
     }
   ],
   "Q7849493": [
@@ -3003,13 +3015,51 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Northern Territory",
+        "P580": "1987-07-11",
+        "P582": "2001-11-09",
+        "P1365": "Bernie Kilgariff",
+        "P1366": "Nigel Scullion"
+      }
     },
     {
       "id": "Q18912794",
       "label": "Member of the Australian House of Representatives",
       "title": "Member of the Australian House of Representatives",
-      "description": "elected representative in the Australian federal lower house of parliament"
+      "description": "elected representative in the Australian federal lower house of parliament",
+      "qualifiers": {
+        "P768": "Northern Territory",
+        "P580": "1980-10-18",
+        "P582": "1983-03-05",
+        "P1365": "Sam Calder",
+        "P1366": "John Reeves"
+      }
+    },
+    {
+      "id": "Q29291882",
+      "label": "Administrator of Norfolk Island",
+      "title": "Administrator of Norfolk Island",
+      "description": "representative of the Crown and the Australian government on Norfolk Island",
+      "qualifiers": {
+        "P580": "2003-11-01",
+        "P582": "2007-08-07",
+        "P1366": "Owen Walsh"
+      }
+    },
+    {
+      "id": "Q26998278",
+      "label": "member of the Northern Territory Legislative Assembly",
+      "title": "member of the Northern Territory Legislative Assembly",
+      "description": "elected representative in the Northern Territory",
+      "qualifiers": {
+        "P768": "Fannie Bay",
+        "P580": "1974-10-19",
+        "P582": "1977-08-13",
+        "P1365": "",
+        "P1366": "Pam O'Neil"
+      }
     }
   ],
   "Q964840": [

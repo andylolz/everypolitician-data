@@ -5702,6 +5702,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/07khdn",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1602916",
           "scheme": "nlatrove"
         },
@@ -15419,6 +15423,10 @@
       "id": "b3430058-fbae-4a02-867a-9954f2d17e1c",
       "identifiers": [
         {
+          "identifier": "/m/05hfd",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "nm2465778",
           "scheme": "imdb"
         },
@@ -19631,6 +19639,10 @@
         {
           "identifier": "247512",
           "scheme": "aph"
+        },
+        {
+          "identifier": "/g/11c59sk9c8",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "10897",
