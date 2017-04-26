@@ -362,6 +362,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0d3c0w",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q4888444",
           "scheme": "wikidata"
         }
@@ -376,6 +380,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Benjamin_Cruz"
+        },
+        {
+          "note": "website",
+          "url": "http://www.senatorbjcruz.com/"
         },
         {
           "note": "wikipedia",
@@ -712,6 +720,10 @@
         {
           "identifier": "frank_b._aguon,_jr.",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0ds13ry",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q5484948",
