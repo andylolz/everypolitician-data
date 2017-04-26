@@ -5900,17 +5900,31 @@
       ]
     },
     {
+      "birth_date": "1966-03-24",
       "id": "882b0aa5-5113-4bdb-81e2-1c47b0c781a4",
+      "identifiers": [
+        {
+          "identifier": "kingsley-ogundu-chinda",
+          "scheme": "shineyoureye"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/302.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/302.jpg"
+        },
+        {
+          "url": "http://www.shineyoureye.org/media_root/images/kingsley-ogundu-chinda"
         }
       ],
       "name": "CHINDA OGUNDU",
       "other_names": [
         {
           "name": "CHINDA KINGSLEY OGUNDU",
+          "note": "alternate"
+        },
+        {
+          "name": "KINGSLEY OGUNDU CHINDA",
           "note": "alternate"
         }
       ]
