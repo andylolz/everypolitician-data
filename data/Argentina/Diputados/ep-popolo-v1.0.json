@@ -1196,6 +1196,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0vzskd_",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q15192668",
           "scheme": "wikidata"
         }
@@ -3431,6 +3435,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/09ggg1q",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "299681237",
           "scheme": "viaf"
         },
@@ -3965,6 +3973,10 @@
       "given_name": "José",
       "id": "34f8c684-c4b4-401a-bb9c-12c1ea0df85c",
       "identifiers": [
+        {
+          "identifier": "/m/0fw8ly",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q4137510",
           "scheme": "wikidata"
@@ -7897,6 +7909,10 @@
       "given_name": "Néstor",
       "id": "6279958b-5e1d-49d8-b35a-807e0ffe1439",
       "identifiers": [
+        {
+          "identifier": "/m/02z0m9k",
+          "scheme": "freebase"
+        },
         {
           "identifier": "299296024",
           "scheme": "nta"
