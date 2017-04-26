@@ -9135,6 +9135,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/g/11b6bwd93d",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "250767002",
           "scheme": "viaf"
         },
@@ -18204,6 +18208,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "162881",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "0000 0000 5539 6576",
           "scheme": "isni"
         },
@@ -22037,6 +22045,10 @@
         {
           "identifier": "31D2A50601CB5C40C2257D7B0032D9DB",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0127dz5p",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q4308133",
@@ -32551,6 +32563,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0gjd3gf",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1106006208",
           "scheme": "gnd"
         },
@@ -35059,6 +35075,10 @@
         {
           "identifier": "DDDE9D3C4CB2D409C2257D7B0032D86A",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0127x69f",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q751020",
