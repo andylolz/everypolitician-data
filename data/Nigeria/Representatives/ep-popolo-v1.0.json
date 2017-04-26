@@ -3305,13 +3305,37 @@
         {
           "identifier": "928",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28839608",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olatoye_Tempitope_Sugar"
         }
       ],
       "name": "TEMITOPE OLATOYE",
       "other_names": [
         {
+          "name": "Olatoye Tempitope Sugar",
+          "note": "alternate"
+        },
+        {
           "name": "TEMITOPE SUGAR OLATOYE",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Olatoye Tempitope Sugar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Olatoye Tempitope Sugar",
+          "note": "multilingual"
         }
       ]
     },
@@ -11186,17 +11210,24 @@
       ]
     },
     {
+      "birth_date": "1969-12-01",
       "contact_details": [
         {
           "type": "phone",
           "value": "08077777375"
         }
       ],
+      "gender": "male",
+      "given_name": "Philip",
       "id": "ed9e7d80-fafb-4d0a-93f9-a73adfd765db",
       "identifiers": [
         {
           "identifier": "577",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28606434",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/577.jpg",
@@ -11205,11 +11236,422 @@
           "url": "http://www.nass.gov.ng/images/mps/577.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philip_Shaibu"
+        }
+      ],
       "name": "PHILIP SHAIBU",
       "other_names": [
         {
           "name": "PHILIP SHAIBU",
           "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Philip Shaibu",
+          "note": "multilingual"
         }
       ]
     },
