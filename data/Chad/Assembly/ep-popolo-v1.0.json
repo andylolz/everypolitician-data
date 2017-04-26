@@ -404,11 +404,18 @@
       "name": "Bichara Adoum Hassan"
     },
     {
+      "birth_date": "1966-11-15",
+      "gender": "male",
+      "given_name": "Albert",
       "id": "1e1a5960-4c82-4e39-887f-5b550d47f696",
       "identifiers": [
         {
           "identifier": "58",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4710950",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton58-e8adb.jpg",
@@ -417,7 +424,107 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton58-e8adb.jpg"
         }
       ],
-      "name": "Pahimi Padacket Albert"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Albertus_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Albert_Pahimi_Padacké"
+        }
+      ],
+      "name": "Pahimi Padacket Albert",
+      "other_names": [
+        {
+          "name": "Albert Pahimi Padacké",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "אלבר פאימי פאדאקה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アルベール・パイミ・",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Albertus Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Albert Pahimi Padacké",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿爾貝·帕希米·帕達凱",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1ec0fcff-bce2-49d4-a411-f3a9b1a52aab",
@@ -948,11 +1055,21 @@
       "name": "Alnoudjim Alladoum René"
     },
     {
+      "birth_date": "1949",
+      "gender": "male",
       "id": "59aeb6f7-317c-48c8-aeb5-08056449ed62",
       "identifiers": [
         {
           "identifier": "5",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02xdsb",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1371523",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton5-e14f2.jpg",
@@ -961,7 +1078,114 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton5-e14f2.jpg"
         }
       ],
-      "name": "Haroun Kabadi"
+      "links": [
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Haroun_Kabadi"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/哈龍·卡巴迪"
+        }
+      ],
+      "name": "Haroun Kabadi",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ハルン・カバディ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Haroun Kabadi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈龍·卡巴迪",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "哈龙·卡巴迪",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "59e371b7-f412-42d3-86fa-b30b9a310d63",
@@ -1204,11 +1428,17 @@
       "name": "Korei Mahamat"
     },
     {
+      "birth_date": "1956",
+      "gender": "female",
       "id": "6b4bbd92-b181-4138-8f08-8c3f72e973a6",
       "identifiers": [
         {
           "identifier": "253",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6689633",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton253-e300d.jpg",
@@ -1217,7 +1447,34 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton253-e300d.jpg"
         }
       ],
-      "name": "Loum Ndoadoumngue Neloumsei Elise"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Loum_N._Neloumsei_Elise"
+        }
+      ],
+      "name": "Loum Ndoadoumngue Neloumsei Elise",
+      "other_names": [
+        {
+          "name": "Loum N. Neloumsei Elise",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Loum N. Neloumsei Elise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Loum N. Neloumsei Elise",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Loum N. Neloumsei Elise",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "6b932327-aa09-4c19-b43b-8ca0c675b7ae",
@@ -1316,11 +1573,18 @@
       "name": "Oumar Ibn Daoud"
     },
     {
+      "birth_date": "1947-03-27",
+      "gender": "male",
+      "given_name": "Salah Pacha",
       "id": "71331cb9-95d3-4be0-99e3-eee1c5cd2599",
       "identifiers": [
         {
           "identifier": "129",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7403916",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton129-a47a5.jpg",
@@ -1329,7 +1593,48 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton129-a47a5.jpg"
         }
       ],
-      "name": "Kebzabo Saleh"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Saleh_Kebzabo"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Saleh_Kebzabo"
+        }
+      ],
+      "name": "Kebzabo Saleh",
+      "other_names": [
+        {
+          "name": "Saleh Kebzabo",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Saleh Kebzabo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saleh Kebzabo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Saleh Kebzabo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Saleh Kebzabo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Saleh Kebzabo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "714ac8ff-fd89-4d77-8bb2-5fa7d103d4c4",
@@ -1924,11 +2229,16 @@
       "name": "Idrissa Blama"
     },
     {
+      "gender": "male",
       "id": "9ce70bc2-02f1-4009-a01f-4d45409043d1",
       "identifiers": [
         {
           "identifier": "231",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17038427",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton231-1f619.jpg",
@@ -1937,7 +2247,29 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton231-1f619.jpg"
         }
       ],
-      "name": "Ngarlejy Kodji Yorangar Moiban"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ngarlejy_Yorongar"
+        }
+      ],
+      "name": "Ngarlejy Kodji Yorangar Moiban",
+      "other_names": [
+        {
+          "name": "Ngarlejy Yorongar",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ngarlejy Yorongar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ngarlejy Yorongar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9f637c7a-30ac-4cb0-b4c1-8b15bdac53c4",
@@ -2260,11 +2592,21 @@
       "name": "Ousmane Cherif"
     },
     {
+      "birth_date": "1939",
+      "gender": "male",
       "id": "c05a2f40-64b0-4437-9558-2766320b489a",
       "identifiers": [
         {
           "identifier": "85",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bq_d5",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q500374",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton85-905fa.jpg",
@@ -2273,7 +2615,145 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton85-905fa.jpg"
         }
       ],
-      "name": "Lol Mahamat Choua"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lol_Mohammed_Chawa"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Lol_Mohamed_Shawa"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (nds)",
+          "url": "https://nds.wikipedia.org/wiki/Lol_Mohammed_Chawa"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Lol_Mahamat_Choua"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/洛勒·穆罕默德·舒瓦"
+        }
+      ],
+      "name": "Lol Mahamat Choua",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lol Mohammed Chawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lol Mohamed Shawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lol Mohamed Shawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロル・モハメド・シャワ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Lol Mohammed Chawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Lol Mahamat Choua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "洛勒·穆罕默德·舒瓦",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c210f62b-fce0-45e5-8c08-0c5149ede0fe",
@@ -2596,11 +3076,18 @@
       "name": "Ngartoketé Tatola"
     },
     {
+      "birth_date": "1959-04-17",
+      "death_date": "2013-05-20",
+      "gender": "male",
       "id": "d7634bad-2296-437a-989e-454237ed7c17",
       "identifiers": [
         {
           "identifier": "118",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q3847967",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton118-228f6.jpg",
@@ -2609,7 +3096,92 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton118-228f6.jpg"
         }
       ],
-      "name": "Idriss Ndele Moussa Yayami"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Idriss_Ndele_Moussa"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Idriss_Ndele_Moussa"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мусса,_Идрис_Нделе"
+        }
+      ],
+      "name": "Idriss Ndele Moussa Yayami",
+      "other_names": [
+        {
+          "name": "Idriss Ndele Moussa",
+          "note": "alternate"
+        },
+        {
+          "lang": "cy",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мусса, Идрис Нделе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Idriss Ndele Moussa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "d7d1d40f-6713-41d4-910d-5735f2753242",
@@ -2628,11 +3200,21 @@
       "name": "Adoum Moustapha Brahimi NGuili"
     },
     {
+      "birth_date": "1949-12-31",
+      "gender": "male",
       "id": "d91681e7-30bc-4f24-a174-e572392a73fd",
       "identifiers": [
         {
           "identifier": "28",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/086bms",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q449364",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton28-d3eea.jpg",
@@ -2641,7 +3223,204 @@
           "url": "http://www.assemblee-tchad.org/local/cache-vignettes/L250xH165/arton28-d3eea.jpg"
         }
       ],
-      "name": "Delwa kassire Coumakoye"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Делва_Касире_Кумакойе"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Ντέλουα_Κασιρέ_Κουμακόγιε"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Delwa_Kassiré_Coumakoye"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Delwa_Kassiré_Koumakoye"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/德尔瓦·卡西雷·库马科耶"
+        }
+      ],
+      "name": "Delwa kassire Coumakoye",
+      "other_names": [
+        {
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Делва Касире Кумакойе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Ντέλουα Κασιρέ Κουμακόγιε",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Delwa Kassiré Coumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "デルワ・カッシレ・クマコワイ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Delwa Kassiré Koumakoye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "德尔瓦·卡西雷·库马科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "德尔瓦·卡西雷·库马科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "德尔瓦·卡西雷·库马科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "德爾瓦·卡西雷·庫馬科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "德爾瓦·卡西雷·庫馬科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "德尔瓦·卡西雷·库马科耶",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "德爾瓦·卡西雷·庫馬科耶",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "db1ad32a-9017-48c2-82ac-607d8eb26f6f",
