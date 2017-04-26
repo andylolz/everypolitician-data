@@ -14345,8 +14345,22 @@
       "name": "Jahangir Kabir Nanak"
     },
     {
+      "gender": "female",
       "id": "e02e8699-1c84-448d-9894-705ab218e8eb",
-      "name": "Joya Sengupta"
+      "identifiers": [
+        {
+          "identifier": "Q29564940",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Joya Sengupta",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joya Sengupta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
