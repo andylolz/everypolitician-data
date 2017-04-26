@@ -7449,6 +7449,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sangeren,_forfatteren_og_fhv._folketingsmand_Carsten_Bo.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Sangeren,_forfatteren_og_fhv._folketingsmand_Carsten_Bo.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (da)",
@@ -8990,6 +8996,10 @@
       "given_name": "Özlem",
       "id": "318e0b9e-965f-409a-8fea-4e4e86154385",
       "identifiers": [
+        {
+          "identifier": "/m/0n4b53m",
+          "scheme": "freebase"
+        },
         {
           "identifier": "307225807",
           "scheme": "viaf"
@@ -18641,6 +18651,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0w7mcp4",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "0000 0003 8387 3159",
           "scheme": "isni"
         },
@@ -25177,6 +25191,10 @@
         {
           "identifier": "lamebo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/121xc_tb",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "256368769",
@@ -34486,6 +34504,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Claus Hjort Frederiksen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Claus Hjort Frederiksen",
           "note": "multilingual"
@@ -38216,6 +38239,10 @@
         {
           "identifier": "skibr",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/1234s_pg",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "Q12321950",
@@ -49427,6 +49454,10 @@
         {
           "identifier": "124878",
           "scheme": "europarlmep"
+        },
+        {
+          "identifier": "/m/010rbld4",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q12320916",
