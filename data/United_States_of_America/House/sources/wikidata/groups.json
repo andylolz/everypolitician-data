@@ -34,7 +34,7 @@
       },
       {
         "lang": "es",
-        "name": "Partido Demócrata de los Estados Unidos",
+        "name": "Partido Demócrata",
         "note": "multilingual"
       },
       {
@@ -314,7 +314,7 @@
       },
       {
         "lang": "la",
-        "name": "Factio democratica Civitatum Foederatum",
+        "name": "Factio democratica Civitatum Foederatarum",
         "note": "multilingual"
       },
       {
@@ -619,11 +619,6 @@
       },
       {
         "lang": "es",
-        "name": "Partido Demócrata",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
         "name": "Partido Demócrata de EE UU.",
         "note": "multilingual"
       },
@@ -670,6 +665,11 @@
       {
         "lang": "es",
         "name": "Partido Demócrata de EE.UU.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Demócrata de los Estados Unidos",
         "note": "multilingual"
       },
       {
@@ -1234,12 +1234,12 @@
       },
       {
         "lang": "la",
-        "name": "Factio democraticae",
+        "name": "Partes democraticae",
         "note": "multilingual"
       },
       {
         "lang": "la",
-        "name": "Partes democraticae",
+        "name": "Factio democratica",
         "note": "multilingual"
       },
       {
@@ -1641,7 +1641,7 @@
       },
       {
         "lang": "ru",
-        "name": "Республиканская партия США",
+        "name": "Республиканская партия",
         "note": "multilingual"
       },
       {
@@ -2347,6 +2347,26 @@
       {
         "lang": "ru",
         "name": "GOP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Республиканская партия США",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Great Old Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Великая старая  партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Большая старая партия",
         "note": "multilingual"
       },
       {
@@ -3076,7 +3096,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Logo-GOP.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-GOP.svg"
   },
   "new_progressive": {
     "identifiers": [
@@ -3543,7 +3563,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -3568,7 +3588,7 @@
       },
       {
         "lang": "ca",
-        "name": "Independent",
+        "name": "polític independent",
         "note": "multilingual"
       },
       {
@@ -4054,6 +4074,16 @@
       {
         "lang": "mk",
         "name": "непартиски политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
         "note": "multilingual"
       }
     ]
