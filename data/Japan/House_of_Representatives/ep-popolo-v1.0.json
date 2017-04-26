@@ -31621,6 +31621,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ie",
+          "name": "Shinzō Abe",
+          "note": "multilingual"
+        },
+        {
           "lang": "io",
           "name": "Shinzo Abe",
           "note": "multilingual"
@@ -34886,6 +34891,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03chjsg",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "00213716",
           "scheme": "ndl"
         },
@@ -34920,6 +34929,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/yamanoikazunori"
+        },
+        {
+          "note": "website",
+          "url": "http://www.yamanoi.net/"
         }
       ],
       "name": "YAMANOI Kazunori",
@@ -36862,6 +36875,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02r9xh9",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "00679211",
           "scheme": "ndl"
         },
@@ -36900,6 +36917,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/nagashima21"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nagashima21.net/"
         }
       ],
       "name": "NAGASHIMA Akihisa",
