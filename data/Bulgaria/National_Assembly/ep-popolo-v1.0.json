@@ -14941,6 +14941,9 @@
       "images": [
         {
           "url": "http://www.parliament.bg/images/Assembly/506.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Yanaki_Stoilov.jpg"
         }
       ],
       "links": [
@@ -32385,6 +32388,11 @@
         {
           "lang": "en",
           "name": "DIMITAR BORISOV GLAVCHEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dimityr Gławczew",
           "note": "multilingual"
         }
       ]
