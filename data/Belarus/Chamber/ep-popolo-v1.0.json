@@ -3053,6 +3053,9 @@
       "images": [
         {
           "url": "http://house.gov.by/images/storage/person/000683_245956.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Kanopatskaya.jpg"
         }
       ],
       "links": [
@@ -5900,6 +5903,7 @@
         }
       ],
       "email": "vasilenko@house.gov.by",
+      "family_name": "Vasilenka",
       "gender": "male",
       "given_name": "Uladzimir",
       "id": "df3d524d-d481-4e18-b550-4a1ad652cc9f",
@@ -5962,6 +5966,11 @@
         {
           "lang": "pl",
           "name": "Uładzimir Wasilenka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Владимир Николаевич Василенко",
           "note": "multilingual"
         }
       ]
