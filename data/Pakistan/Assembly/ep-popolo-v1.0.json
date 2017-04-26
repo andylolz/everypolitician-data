@@ -2425,6 +2425,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "/m/0c0fw5",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "n89136660",
           "scheme": "lcauth"
         },
@@ -13247,6 +13251,10 @@
       "id": "96b90426-2104-45f8-be6a-4d892691976d",
       "identifiers": [
         {
+          "identifier": "/m/0cz9nrr",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q6176457",
           "scheme": "wikidata"
         }
@@ -15235,7 +15243,7 @@
       "patronymic_name": "Sheikh Muhammad Nawaz"
     },
     {
-      "birth_date": "1958",
+      "birth_date": "1960-03-02",
       "contact_details": [
         {
           "type": "phone",
