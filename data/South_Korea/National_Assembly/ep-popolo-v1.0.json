@@ -24016,10 +24016,15 @@
       "birth_date": "1959-07-28",
       "contact_details": [
         {
+          "type": "email",
+          "value": "sayno20@hanmail.net"
+        },
+        {
           "type": "phone",
           "value": "02-784-5891"
         }
       ],
+      "email": "sayno20@hanmail.net",
       "id": "a9e2e381-6e4e-47c1-ba4a-419c3f9002ae",
       "identifiers": [
         {
@@ -24037,6 +24042,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/최경환_(1959년)"
+        },
+        {
+          "note": "website",
+          "url": "http://blog.daum.net/beyondi"
         }
       ],
       "name": "CHOI GYUNGHWAN",
