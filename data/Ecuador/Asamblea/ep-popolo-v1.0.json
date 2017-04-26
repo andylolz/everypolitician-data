@@ -1827,6 +1827,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/g/1ylhlk42d",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "Q16571637",
           "scheme": "wikidata"
         }
@@ -2623,6 +2627,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/g/1yjg80kd4",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "Q16302212",
           "scheme": "wikidata"
         }
@@ -3229,6 +3237,10 @@
         {
           "identifier": "210",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0bh82lz",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q9028537",
