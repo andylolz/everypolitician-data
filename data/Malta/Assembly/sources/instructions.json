@@ -11,6 +11,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/maltese-parliament-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
