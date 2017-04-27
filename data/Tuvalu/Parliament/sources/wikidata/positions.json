@@ -44,6 +44,17 @@
       "label": "Speaker of the Parliament of Tuvalu",
       "title": "Speaker of the Parliament of Tuvalu",
       "description": "Wikimedia list article"
+    },
+    {
+      "id": "Q644809",
+      "label": "Governor-General of Tuvalu",
+      "title": "Governor-General of Tuvalu",
+      "qualifiers": {
+        "P580": "1993-12-01",
+        "P582": "1994-06-21",
+        "P1365": "Toaripi Lauti",
+        "P1366": "Tulaga Manuella"
+      }
     }
   ],
   "Q739504": [
