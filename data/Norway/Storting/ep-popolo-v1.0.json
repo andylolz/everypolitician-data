@@ -33392,12 +33392,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ole_Gabriel_Ueland.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ole_Gabriel_Ueland.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -49673,6 +49667,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "169",
+          "scheme": "pace"
+        },
+        {
           "identifier": "HESM",
           "scheme": "storting"
         },
@@ -50973,6 +50971,12 @@
         {
           "identifier": "Q7083156",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Olav_Benum,_Stortingsarkivet.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Olav_Benum,_Stortingsarkivet.jpg"
         }
       ],
       "links": [
@@ -76879,6 +76883,7 @@
     },
     {
       "birth_date": "1926-01-01",
+      "death_date": "2017-04-25",
       "family_name": "Fjeldvær",
       "gender": "male",
       "given_name": "Rolf",
@@ -119041,6 +119046,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -119358,6 +119368,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
