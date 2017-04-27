@@ -1462,6 +1462,9 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770497.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoo_Sung-min_in_2017.jpg"
         }
       ],
       "links": [
@@ -37394,6 +37397,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -37711,6 +37719,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
