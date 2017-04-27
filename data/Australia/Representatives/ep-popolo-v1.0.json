@@ -36933,6 +36933,9 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/83E/upload_ref_binary/83E.JPG"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Bernie_Ripoll_MP_2005.jpg"
         }
       ],
       "links": [
@@ -50773,6 +50776,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -51090,6 +51098,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
