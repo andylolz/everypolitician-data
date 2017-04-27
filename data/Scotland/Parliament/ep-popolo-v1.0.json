@@ -7573,10 +7573,6 @@
       "name": "John Lamont",
       "other_names": [
         {
-          "name": "John Lamont MSP",
-          "note": "alternate"
-        },
-        {
           "lang": "de",
           "name": "John Lamont",
           "note": "multilingual"
@@ -30266,6 +30262,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -30583,6 +30584,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
