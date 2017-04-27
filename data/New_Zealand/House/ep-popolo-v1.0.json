@@ -25893,6 +25893,7 @@
     },
     {
       "area_id": "area/new_lynn",
+      "end_date": "2017-04-23",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/labour_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -25900,7 +25901,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP1601/cunliffe-david"
+          "url": "https://www.parliament.nz/en/mps-and-electorates/former-mps/document/51PlibFormerDavidCunliffe1/cunliffe-hon-david"
         }
       ]
     },
@@ -29247,6 +29248,7 @@
     },
     {
       "area_id": "area/helensville",
+      "end_date": "2016-12-12",
       "legislative_period_id": "term/51",
       "on_behalf_of_id": "party/national_party",
       "organization_id": "62672598-bda6-4574-a402-cf9ffafa46e9",
@@ -29254,7 +29256,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.parliament.nz/en/mps-and-electorates/members-of-parliament/document/51MP2111/key-john"
+          "url": "https://www.parliament.nz/en/mps-and-electorates/former-mps/document/51PlibFormerJohnKey1/key-rt-hon-john"
         }
       ]
     },
