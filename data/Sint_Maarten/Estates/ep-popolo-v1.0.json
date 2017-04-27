@@ -28,10 +28,10 @@
       ],
       "email": "ardwell.irion@sxmparliament.org",
       "id": "2516e638-f041-4117-964d-47757e35e367",
-      "image": "http://www.sxmparliament.org/images/irion.jpg",
+      "image": "http://www.sxmparliament.org/images/xirion.jpg.pagespeed.ic.xy0q06WvDJ.jpg",
       "images": [
         {
-          "url": "http://www.sxmparliament.org/images/irion.jpg"
+          "url": "http://www.sxmparliament.org/images/xirion.jpg.pagespeed.ic.xy0q06WvDJ.jpg"
         }
       ],
       "name": "Ardwell M.R. Irion"
@@ -108,10 +108,10 @@
       ],
       "email": "perry.geerlings@sxmparliament.org",
       "id": "883ae397-a88a-4ad5-824e-f1895f46b940",
-      "image": "http://www.sxmparliament.org/images/geerlings.jpg",
+      "image": "http://www.sxmparliament.org/images/xgeerlings.jpg.pagespeed.ic.Xacy-lq1EZ.jpg",
       "images": [
         {
-          "url": "http://www.sxmparliament.org/images/geerlings.jpg"
+          "url": "http://www.sxmparliament.org/images/xgeerlings.jpg.pagespeed.ic.Xacy-lq1EZ.jpg"
         }
       ],
       "name": "Perry F.M. Geerlings"
@@ -141,10 +141,10 @@
       ],
       "email": "romeo.pantophlet@sxmparliament.org",
       "id": "a0dd9193-c4be-4814-a2a7-3cccc8c80ea3",
-      "image": "http://www.sxmparliament.org/images/rpantophlet.jpg",
+      "image": "http://www.sxmparliament.org/images/xrpantophlet.jpg.pagespeed.ic.fzH1KLaWmq.jpg",
       "images": [
         {
-          "url": "http://www.sxmparliament.org/images/rpantophlet.jpg"
+          "url": "http://www.sxmparliament.org/images/xrpantophlet.jpg.pagespeed.ic.fzH1KLaWmq.jpg"
         }
       ],
       "name": "Romeo F. Pantophlet"
@@ -343,10 +343,10 @@
       ],
       "email": "sidharth.bijlani@sxmparliament.org",
       "id": "e64fc8cf-e82a-4f6e-aaad-4c5772a95ee6",
-      "image": "http://www.sxmparliament.org/images/cookie.jpg",
+      "image": "http://www.sxmparliament.org/images/xcookie.jpg.pagespeed.ic.jipaVmcozS.jpg",
       "images": [
         {
-          "url": "http://www.sxmparliament.org/images/cookie.jpg"
+          "url": "http://www.sxmparliament.org/images/xcookie.jpg.pagespeed.ic.jipaVmcozS.jpg"
         }
       ],
       "name": "Sidharth M. Bijlani"
@@ -820,6 +820,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1137,6 +1142,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
