@@ -33766,6 +33766,12 @@
       "classification": "legislative period",
       "end_date": "2016-05-13",
       "id": "term/9",
+      "identifiers": [
+        {
+          "identifier": "Q29579282",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "9th Parliament",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
       "start_date": "2011-05-16"
@@ -33786,6 +33792,12 @@
     {
       "classification": "legislative period",
       "id": "term/10",
+      "identifiers": [
+        {
+          "identifier": "Q29579278",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "10th Parliament",
       "organization_id": "c0450875-2933-4737-b774-d03e0ffa61ec",
       "start_date": "2016-05-16"
