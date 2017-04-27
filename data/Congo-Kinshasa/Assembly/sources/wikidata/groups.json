@@ -722,6 +722,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "tt",
+        "name": "бәйсез",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual"
@@ -1039,6 +1044,11 @@
       {
         "lang": "ru",
         "name": "беспартийный",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "фиркасез",
         "note": "multilingual"
       }
     ]
