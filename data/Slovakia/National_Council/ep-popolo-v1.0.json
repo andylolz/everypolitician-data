@@ -54201,7 +54201,8 @@
     "sources": [
       "http://api.parldata.eu/sk/nrsr/",
       "http://www.nrsr.sk/web/",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
