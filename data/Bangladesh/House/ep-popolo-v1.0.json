@@ -1139,6 +1139,9 @@
       "images": [
         {
           "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/10261.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Mofazzal_Hossain_Chowdhury_in_a_Dhaka_Awami_League_Meeting.jpg"
         }
       ],
       "links": [
@@ -17604,6 +17607,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -17921,6 +17929,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
