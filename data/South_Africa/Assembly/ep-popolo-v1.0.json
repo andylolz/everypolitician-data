@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "gender": "male",
       "honorific_prefix": "Johannes",
       "id": "019d1059-be01-44ea-b584-8458d63235c6",
       "identifiers": [
@@ -2583,6 +2584,7 @@
         }
       ],
       "email": "vketabahle@parliament.gov.za",
+      "gender": "female",
       "honorific_prefix": "Vuyokazi",
       "id": "2328bc58-19ab-4f6d-ad45-b629fc6f1a02",
       "identifiers": [
@@ -3405,6 +3407,7 @@
         }
       ],
       "email": "fmahlaule@nwpl.org.za",
+      "gender": "male",
       "honorific_prefix": "Hlomane",
       "id": "2fbce269-f7a9-4ada-9eb0-77f264e9ce02",
       "image": "http://www.pa.org.za/media_root/cache/7d/60/7d60e4c87ca063dfae01184db2f8e950.jpg",
@@ -10091,6 +10094,7 @@
         }
       ],
       "email": "wnewhoudt@parliament.gov.za",
+      "gender": "female",
       "honorific_prefix": "Mrs",
       "id": "97db0b3d-b72c-4317-aff0-5b7351bf253b",
       "image": "http://www.pa.org.za/media_root/cache/bf/e0/bfe0a90c5f4cfa5189ee4576c7dea56e.jpg",
@@ -14933,6 +14937,7 @@
       "name": "Hlengiwe Mkhize"
     },
     {
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "ee2d1b87-9276-478f-bc30-9eda165f0884",
       "identifiers": [
@@ -15280,6 +15285,7 @@
         }
       ],
       "email": "brandon@brat.co.za",
+      "gender": "male",
       "honorific_prefix": "Mr",
       "id": "f0fc9a82-b5be-409d-8cfc-0bd74524b75d",
       "image": "http://www.pa.org.za/media_root/cache/0a/17/0a1723133f2d2256a50467d0fb680a01.jpg",
@@ -16676,6 +16682,7 @@
       "name": "Lungiswa Veronica James"
     },
     {
+      "gender": "female",
       "honorific_prefix": "Ms",
       "id": "fcb2b394-045d-4b91-8fba-7cb8121227d1",
       "image": "http://www.pa.org.za/media_root/cache/14/f4/14f4d92d8f7c8624f5c1bacf10e5aa26.jpg",
@@ -18393,7 +18400,8 @@
   "meta": {
     "sources": [
       "http://www.pa.org.za",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
