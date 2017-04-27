@@ -1,3 +1,23 @@
 {
-
+  "Q15794374": [
+    {
+      "id": "Q21328607",
+      "label": "Member of the Landtag of Liechtenstein",
+      "title": "Member of the Landtag of Liechtenstein",
+      "qualifiers": {
+        "P580": "2013",
+        "P582": "",
+        "P2715": "Liechtenstein parliamentary election, 2013"
+      }
+    },
+    {
+      "id": "Q27137568",
+      "label": "member of the Parliamentary Assembly of the Council of Europe",
+      "title": "member of the Parliamentary Assembly of the Council of Europe",
+      "qualifiers": {
+        "P580": "2017-04-24",
+        "P582": ""
+      }
+    }
+  ]
 }
