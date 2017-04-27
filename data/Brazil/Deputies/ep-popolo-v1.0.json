@@ -4005,6 +4005,7 @@
       "name": "REBECCA GARCIA"
     },
     {
+      "birth_date": "1962-05-10",
       "contact_details": [
         {
           "type": "email",
@@ -4016,7 +4017,7 @@
         }
       ],
       "email": "dep.josinunes@camara.leg.br",
-      "gender": "male",
+      "gender": "female",
       "id": "1540b77c-ced4-43b8-ab7e-a9d6909eb169",
       "identifiers": [
         {
@@ -4042,6 +4043,11 @@
       ],
       "name": "JOSI NUNES",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Josi Nunes",
+          "note": "multilingual"
+        },
         {
           "lang": "fr",
           "name": "Josi Nunes",
@@ -13177,6 +13183,11 @@
           "lang": "pt",
           "name": "Ariosto Holanda",
           "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "亞里奧斯托奧蘭達",
+          "note": "multilingual"
         }
       ]
     },
@@ -14132,6 +14143,10 @@
         {
           "identifier": "5830464",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/122f2d0h",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "Q10293167",
@@ -22097,6 +22112,11 @@
         {
           "lang": "pt",
           "name": "Raimundo Gomes de Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "賴蒙多馬托斯",
           "note": "multilingual"
         }
       ]
@@ -37107,6 +37127,7 @@
       ]
     },
     {
+      "birth_date": "1959-04-06",
       "contact_details": [
         {
           "type": "email",
@@ -38077,6 +38098,10 @@
         {
           "identifier": "5830339",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/12151kt4",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "Q10317356",
@@ -48045,6 +48070,10 @@
         {
           "identifier": "5830367",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/121rjkh8",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "Q10305189",
@@ -59481,6 +59510,11 @@
           "lang": "pt-br",
           "name": "REDE",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rede Sustentabilidade",
+          "note": "multilingual"
         }
       ]
     },
@@ -59806,6 +59840,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -60123,6 +60162,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
