@@ -21,6 +21,11 @@
       "type": "membership"
     },
     {
+      "file": "archive/term5-vanished.csv",
+      "source": "http://www.parliament.go.tz",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
