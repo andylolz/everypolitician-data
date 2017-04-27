@@ -4796,56 +4796,21 @@
       "name": "Dorra Yaacoubi"
     },
     {
-      "birth_date": "1970-04-30",
       "gender": "male",
       "id": "c450d814-908a-4dd7-a4ed-81c983d5ef49",
       "identifiers": [
         {
           "identifier": "8",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "Q2310101",
-          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Abdelaziz_Kotti.png",
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Abdelaziz_Kotti.png"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Abdlaziz_Kotti.JPG"
         }
       ],
-      "links": [
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Abdelaziz_Kotti"
-        },
-        {
-          "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Abdelaziz_Kotti"
-        }
-      ],
-      "name": "Abdelaziz Kotti",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Abdelaziz Kotti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Abdelaziz Kotti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Abdelaziz Kotti",
-          "note": "multilingual"
-        }
-      ]
+      "name": "Abdelaziz Kotti"
     },
     {
       "gender": "male",
