@@ -1392,6 +1392,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "tt",
+        "name": "бәйсез",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual"
@@ -1710,6 +1715,11 @@
         "lang": "ru",
         "name": "беспартийный",
         "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "фиркасез",
+        "note": "multilingual"
       }
     ]
   },
@@ -1859,6 +1869,11 @@
       {
         "lang": "cs",
         "name": "Strana demokratické akce",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Դեմոկրատական շարժում կուսակցություն",
         "note": "multilingual"
       },
       {
