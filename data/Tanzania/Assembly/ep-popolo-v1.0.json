@@ -4868,6 +4868,18 @@
       "sort_name": "Tibaijuka Kajumulo Prof. Anna"
     },
     {
+      "birth_date": "1953-10-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.hafidh@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255766066666"
+        }
+      ],
+      "email": "a.hafidh@bunge.go.tz",
       "gender": "male",
       "id": "278a2e02-1c29-439f-9656-c3f184d7aa5d",
       "identifiers": [
@@ -11925,6 +11937,10 @@
         {
           "type": "email",
           "value": "ssimba@parliament.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255784282677"
         }
       ],
       "email": "ssimba@parliament.go.tz",
@@ -12555,6 +12571,28 @@
         }
       ],
       "name": "Getrude Pangalile Rwakatare"
+    },
+    {
+      "birth_date": "1962-06-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "e.macha@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255754892174"
+        }
+      ],
+      "email": "e.macha@bunge.go.tz",
+      "id": "63109228-4c9d-44a9-b8d6-55cd18a51bc8",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.66987300%201450768186.png",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.66987300%201450768186.png"
+        }
+      ],
+      "name": "Dr. Elly Marko Macha"
     },
     {
       "gender": "male",
@@ -17036,6 +17074,28 @@
         }
       ],
       "sort_name": "Msolla Mahamudu Prof. Peter"
+    },
+    {
+      "birth_date": "1979-08-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "a.possi@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255675783848"
+        }
+      ],
+      "email": "a.possi@bunge.go.tz",
+      "id": "815864eb-a573-4c90-859d-e60d8a8c83e8",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.79604100%201453647032.png",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.79604100%201453647032.png"
+        }
+      ],
+      "name": "Dr. Abdallah Saleh Possi"
     },
     {
       "gender": "female",
@@ -25789,6 +25849,28 @@
       ],
       "name": "Mapuri Ramadhan Omar",
       "sort_name": "Mapuri Ramadhan Omar"
+    },
+    {
+      "birth_date": "1958-12-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "k.onesmo@bunge.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255767385920"
+        }
+      ],
+      "email": "k.onesmo@bunge.go.tz",
+      "id": "c2e28484-f5a7-44f6-877d-d44465b1d724",
+      "image": "http://parliament.go.tz/polis/uploads/members/0.55743200%201453709143.png",
+      "images": [
+        {
+          "url": "http://parliament.go.tz/polis/uploads/members/0.55743200%201453709143.png"
+        }
+      ],
+      "name": "Onesmo Koimerek Nangole"
     },
     {
       "birth_date": "1968-03-18",
@@ -37035,6 +37117,19 @@
       ]
     },
     {
+      "area_id": "area/dimani",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "278a2e02-1c29-439f-9656-c3f184d7aa5d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/459"
+        }
+      ]
+    },
+    {
       "area_id": "area/special_seats",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/ccm",
@@ -40854,6 +40949,19 @@
       ]
     },
     {
+      "area_id": "area/special_seats",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "5fb63215-7fe1-4eae-87bf-9e67869083eb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/168"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/chama_cha_mapinduzi",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
@@ -41118,6 +41226,19 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/administrations/572"
+        }
+      ]
+    },
+    {
+      "area_id": "area/special_seats",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/chadema",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "63109228-4c9d-44a9-b8d6-55cd18a51bc8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/210"
         }
       ]
     },
@@ -43159,6 +43280,19 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1352/4"
+        }
+      ]
+    },
+    {
+      "area_id": "area/nominated",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "815864eb-a573-4c90-859d-e60d8a8c83e8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/530"
         }
       ]
     },
@@ -47375,6 +47509,19 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1007/2"
+        }
+      ]
+    },
+    {
+      "area_id": "area/longido",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/chadema",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "c2e28484-f5a7-44f6-877d-d44465b1d724",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/12"
         }
       ]
     },
