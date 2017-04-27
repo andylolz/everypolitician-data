@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "manual/term4.csv",
+      "file": "archive/term4.csv",
       "source": "http://www.parliament.go.tz",
       "type": "membership"
     },
