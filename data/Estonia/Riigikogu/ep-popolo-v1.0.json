@@ -3999,8 +3999,20 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1061972372",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "nm0848331",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "e6c4032b-6803-4a5e-b857-f181c1a81685",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "311674594",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q16406074",
@@ -4022,6 +4034,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Artur_Talvik"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Artur_Talvik"
+        },
+        {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Artur_Talvik"
         },
@@ -4032,6 +4048,11 @@
       ],
       "name": "Artur Talvik",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Artur Talvik",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Artur Talvik",
@@ -6414,6 +6435,11 @@
         {
           "lang": "hr",
           "name": "Mihhail Lotman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Միխայիլ Լոտման",
           "note": "multilingual"
         },
         {
@@ -9259,10 +9285,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rummo,_Paul-Eerik.IMG_4500.JPG",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/RE_Paul-Eerik_Rummo.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rummo,_Paul-Eerik.IMG_4500.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/RE_Paul-Eerik_Rummo.jpg"
         }
       ],
       "links": [
@@ -9321,6 +9347,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Paul-Eerik_Rummo"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Paul-Eerik_Rummo"
         },
         {
           "note": "Wikipedia (uk)",
@@ -12145,6 +12175,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Таави Ръйвас",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Taavi Rõivas",
           "note": "multilingual"
@@ -14794,6 +14829,11 @@
         {
           "lang": "be-tarask",
           "name": "Юган Партс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Юхан Партс",
           "note": "multilingual"
         },
         {
@@ -28000,6 +28040,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -28317,6 +28362,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
