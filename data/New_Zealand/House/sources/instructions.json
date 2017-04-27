@@ -11,6 +11,11 @@
       "type": "membership"
     },
     {
+      "file": "archive/official-vanished.csv",
+      "source": "http://www.parliament.nz",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
