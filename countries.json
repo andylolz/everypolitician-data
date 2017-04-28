@@ -3428,12 +3428,20 @@
         "slug": "Parliament",
         "sources_directory": "data/Georgia/Parliament/sources",
         "popolo": "data/Georgia/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/5879ba642e27d4fcb1fc47871f484dcf74f85f26/data/Georgia/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8a8ef44b05a62964895a77ff868735064a1bcecc/data/Georgia/Parliament/ep-popolo-v1.0.json",
         "names": "data/Georgia/Parliament/names.csv",
-        "lastmod": "1493367347",
-        "person_count": 148,
-        "sha": "5879ba642e27d4fcb1fc47871f484dcf74f85f26",
+        "lastmod": "1493370526",
+        "person_count": 249,
+        "sha": "8a8ef44b05a62964895a77ff868735064a1bcecc",
         "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Convocation",
+            "start_date": "2016-11-18",
+            "slug": "9",
+            "csv": "data/Georgia/Parliament/term-9.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/8a8ef44b05a62964895a77ff868735064a1bcecc/data/Georgia/Parliament/term-9.csv"
+          },
           {
             "end_date": "2016-10-01",
             "id": "term/8",
@@ -3444,7 +3452,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/0640facb22f61f56e76789b3a7c809f443df15de/data/Georgia/Parliament/term-8.csv"
           }
         ],
-        "statement_count": 4412,
+        "statement_count": 6327,
         "type": "unicameral legislature"
       }
     ]
