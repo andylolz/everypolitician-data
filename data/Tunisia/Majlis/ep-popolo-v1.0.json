@@ -4224,6 +4224,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ar",
+          "name": "خميس قسيلة",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Khemaïs Ksila",
           "note": "multilingual"
@@ -4796,8 +4801,9 @@
       "name": "Dorra Yaacoubi"
     },
     {
-      "birth_date": "1970",
+      "birth_date": "1970-04-30",
       "gender": "male",
+      "given_name": "Abd al-Aziz",
       "id": "c450d814-908a-4dd7-a4ed-81c983d5ef49",
       "identifiers": [
         {
@@ -5664,6 +5670,7 @@
     },
     {
       "gender": "male",
+      "given_name": "Imad",
       "id": "e5e47a9d-fe0e-4213-b718-ae5a496bd591",
       "identifiers": [
         {
