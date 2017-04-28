@@ -7525,6 +7525,10 @@
           "url": "https://en.wikipedia.org/wiki/Lee_Rhiannon"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lee_Rhiannon"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/leerhiannon"
         }
@@ -23593,6 +23597,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -23910,6 +23919,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
