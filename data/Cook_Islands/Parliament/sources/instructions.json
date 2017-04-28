@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/2014.csv",
+      "file": "morph/wikipedia.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/cook-islands-elections-wikipedia",
