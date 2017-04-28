@@ -323,6 +323,14 @@
         {
           "identifier": "522",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02hgb0b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1363702",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AE%E1%83%90%E1%83%91%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%98_%E1%83%9A%E1%83%94%E1%83%A0%E1%83%98_jpg_200x168_q85.jpg",
@@ -333,6 +341,50 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Leri_Chabelovi"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Leri_Chabelowi"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leri_Khabelov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Leri_Jabélov"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/لری_خابلوف"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Leri_Habelov"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ლერი_ხაბელოვი"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Лери_Хабелов"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Leri_Chabiełow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хабелов,_Лери_Габрелович"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Leri_Chabelov"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=176:khabelovi-leri&Itemid=129&lang=ge"
         },
@@ -341,7 +393,98 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%94%E1%83%A0%E1%83%98_%E1%83%AE%E1%83%90%E1%83%91%E1%83%94%E1%83%9A%E1%83%9D%E1%83%95%E1%83%98"
         }
       ],
-      "name": "Leri Khabelovi"
+      "name": "Leri Khabelovi",
+      "other_names": [
+        {
+          "name": "Leri Khabelov",
+          "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Leri Chabelovi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Leri Gabrielowitsch Chabelow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Leri Khabelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Leri Khabelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "لری خابلوف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Leri Habelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Leri Khabelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "レリ・ハベロフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ლერი ხაბელოვი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Лери Хабелов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Leri Khabelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Leri Gabrelovitsj Habelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Leri Khabelov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "os",
+          "name": "Хæбæлаты Габрелы фырт Лери",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Leri Chabiełow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хабелов, Лери Габрелович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Leri Chabelov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-09-28",
@@ -1487,6 +1630,7 @@
       "name": "Ali Mamedovi"
     },
     {
+      "birth_date": "1976-01-01",
       "contact_details": [
         {
           "type": "email",
@@ -1504,15 +1648,30 @@
         {
           "identifier": "537",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13929295",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg",
       "images": [
         {
           "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%96%E1%83%A3%E1%83%A0%E1%83%90%E1%83%91_jpg_200x168_q85.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zurab_Japaridze,_2013_UNM_Presidential_Candidate.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (az)",
+          "url": "https://az.wikipedia.org/wiki/Zurab_Caparidze"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zurab_Japaridze"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/japaridzez"
@@ -1526,7 +1685,44 @@
           "url": "http://en.wikipedia.org/wiki/Zurab_Japaridze"
         }
       ],
-      "name": "Zurab Japaridze"
+      "name": "Zurab Japaridze",
+      "other_names": [
+        {
+          "lang": "az",
+          "name": "Zurab Caparidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zurab Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zurab Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zurab Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ზურაბ ჯაფარიძე",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Зураб Джапаридзе",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "祖拉布·賈帕里澤",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-06-29",
@@ -2326,8 +2522,76 @@
         }
       ],
       "email": "amarshania@parliament.ge",
+      "gender": "female",
+      "given_name": "Ada",
       "id": "45a4cf39-30a0-4c67-9418-c71a5badbe2c",
-      "name": "Ada Marshania"
+      "identifiers": [
+        {
+          "identifier": "Q4678282",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ada_Marshania"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ada_Marshania"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ադա_Մարշանիա"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Маршания,_Ада_Лориковна"
+        }
+      ],
+      "name": "Ada Marshania",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ադա Մարշանիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ada Marshania",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Маршания, Ада Лориковна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-11-27",
@@ -2631,8 +2895,48 @@
         }
       ],
       "email": "iinashvili@parliament.ge",
+      "gender": "female",
       "id": "4d8ed20c-f222-40f0-b3c5-3848a6f91254",
-      "name": "Irma Inashvili"
+      "identifiers": [
+        {
+          "identifier": "Q27186868",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/IrmaInashvili.jpeg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/IrmaInashvili.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Irma_Inashvili"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Инашвили,_Ирма"
+        }
+      ],
+      "name": "Irma Inashvili",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Irma Inashvili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Irma Inashvili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ирма Инашвили",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3018,6 +3322,10 @@
         {
           "identifier": "457",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16194669",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%9A%E1%83%90%E1%83%A8%E1%83%AE%E1%83%98%E1%83%90_%E1%83%A8%E1%83%9D%E1%83%97%E1%83%90_jpg_200x168_q85.jpg",
@@ -3028,6 +3336,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shota_Malashkhia"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=90:malashkhia-shota&Itemid=129&lang=ge"
         },
@@ -3036,7 +3348,19 @@
           "url": "http://en.wikipedia.org/wiki/Shota_Malashkhia"
         }
       ],
-      "name": "Shota Malashkhia"
+      "name": "Shota Malashkhia",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Shota Malashkhia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shota Malashkhia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-04-20",
@@ -3047,8 +3371,133 @@
         }
       ],
       "email": "gbokeria@parliament.ge",
+      "gender": "male",
       "id": "5b940f6a-557a-4a5a-b443-bf2bdaee21b8",
-      "name": "Giorgi Bokeria"
+      "identifiers": [
+        {
+          "identifier": "/m/09d4qf",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "5396",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q1523607",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Giga_Bokeria.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Giga_Bokeria.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Giga_Bokeria"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Giga_Bokeria"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Giga_Bokeria"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Guiorgui_Bokeria"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Գիգա_Բոկերիա"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/გიგა_ბოკერია"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бокерия,_Гига"
+        },
+        {
+          "note": "Wikipedia (xmf)",
+          "url": "https://xmf.wikipedia.org/wiki/გიგა_ბოკერია"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/吉加·博克利亞"
+        }
+      ],
+      "name": "Giorgi Bokeria",
+      "other_names": [
+        {
+          "name": "Giga Bokeria",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Գիգա Բոկերիա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "გიგა ბოკერია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Giga Bokeria",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Гига Бокерия",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xmf",
+          "name": "გიგა ბოკერია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "吉加·博克利亞",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-06-17",
@@ -3966,6 +4415,7 @@
       "name": "Koba Lursmanashvili"
     },
     {
+      "birth_date": "1968-02-03",
       "contact_details": [
         {
           "type": "email",
@@ -3983,6 +4433,10 @@
         {
           "identifier": "444",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6746884",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%99%E1%83%9D%E1%83%91%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%90%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_jpg_200x168_q85.jpg",
@@ -3993,6 +4447,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Manana_Kobakhidze"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Մանանա_Կոբախիձե"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/მანანა_კობახიძე"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кобахидзе,_Манана"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=246:kobakhidze-manana&Itemid=129&lang=ge"
         },
@@ -4001,7 +4471,53 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%90%E1%83%9C%E1%83%90%E1%83%9C%E1%83%90_%E1%83%99%E1%83%9D%E1%83%91%E1%83%90%E1%83%AE%E1%83%98%E1%83%AB%E1%83%94"
         }
       ],
-      "name": "Manana Kobakhidze"
+      "name": "Manana Kobakhidze",
+      "other_names": [
+        {
+          "name": "მანანა კობახიძე",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Manana Kobakhidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Manana Kobakhidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Manana Kobakhidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Մանանա Կոբախիձե",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マナナ・コバキーゼ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "მანანა კობახიძე",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Manana Kobakhidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Манана Кобахидзе",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5261,6 +5777,7 @@
       "name": "Roman Gotsiridze"
     },
     {
+      "birth_date": "1980-09-24",
       "contact_details": [
         {
           "type": "email",
@@ -5278,6 +5795,10 @@
         {
           "identifier": "463",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4700194",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%98%E1%83%9C%E1%83%90%E1%83%A8%E1%83%95%E1%83%98%E1%83%9A%E1%83%98_%E1%83%90%E1%83%99%E1%83%90%E1%83%99%E1%83%98_jpg_200x168_q85.jpg",
@@ -5288,11 +5809,32 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Akaki_Minashvili"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=96:minashvili-akaki&Itemid=129&lang=ge"
         }
       ],
-      "name": "Akaki Minashvili"
+      "name": "Akaki Minashvili",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Akaki Minashvili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Akaki Minashvili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Akaki Minashvili",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-08-14",
@@ -5503,6 +6045,7 @@
       "name": "Zaqaria Qutsnashvili"
     },
     {
+      "birth_date": "1946-11-13",
       "contact_details": [
         {
           "type": "email",
@@ -5520,6 +6063,10 @@
         {
           "identifier": "456",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6849803",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%9B%E1%83%90%E1%83%AE%E1%83%90%E1%83%A0%E1%83%90%E1%83%AB%E1%83%94_%E1%83%9B%E1%83%98%E1%83%AE%E1%83%94%E1%83%98%E1%83%9A_jpg_200x168_q85.jpg",
@@ -5530,6 +6077,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mikheil_Makharadze"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=209:makharadze-mikeil&Itemid=129&lang=ge"
         },
@@ -5538,7 +6089,29 @@
           "url": "http://en.wikipedia.org/wiki/Mikheil_Makharadze"
         }
       ],
-      "name": "Mikheil Makharadze"
+      "name": "Mikheil Makharadze",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Mikheil Makharadze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mikheil Makharadze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mikheil Makharadze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mikheil Makharadze",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-12-16",
@@ -5610,6 +6183,7 @@
       "name": "Aleqsandre Tamazashvili"
     },
     {
+      "birth_date": "1946-09-18",
       "contact_details": [
         {
           "type": "email",
@@ -5627,21 +6201,77 @@
         {
           "identifier": "535",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4570471",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D_jpg_200x168_q85.jpg",
       "images": [
         {
           "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AF%E1%83%90%E1%83%A4%E1%83%90%E1%83%A0%E1%83%98%E1%83%AB%E1%83%94_%E1%83%97%E1%83%94%E1%83%93%E1%83%9D_jpg_200x168_q85.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tedo_Japaridze_(March_16,_2001).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Tedo_Japaridze"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tedo_Japaridze"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Tedo_Dzjaparidze"
+        },
         {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=222:japharidze-tedo&Itemid=129&lang=ge"
         }
       ],
-      "name": "Tedo Japaridze"
+      "name": "Tedo Japaridze",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tedo Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tedo Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tedo Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tedo Dzjaparidze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Tedo Japaridze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "テド・ジャパリッゼ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tedo Dzjaparidze",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-02-23",
@@ -5657,20 +6287,48 @@
       ],
       "email": "GTsereteli@parliament.ge",
       "gender": "male",
+      "given_name": "Giorgi",
       "id": "cecc764a-a369-4fd0-a7ed-afd343774d40",
       "identifiers": [
         {
           "identifier": "515",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/08sp9d",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1525382",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%94%E1%83%97%E1%83%94%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%92%E1%83%98_jpg_200x168_q85.jpg",
       "images": [
         {
           "url": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%AC%E1%83%94%E1%83%A0%E1%83%94%E1%83%97%E1%83%94%E1%83%9A%E1%83%98_%E1%83%92%E1%83%98%E1%83%92%E1%83%98_jpg_200x168_q85.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/George_Tsereteli_(Georgia)_at_OSCE_PA_Autumn_Mtg,_Geneva,_5_October_2014.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gigi_Tsereteli"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Giorgi_Zereteli_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gigi_Tsereteli"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/გიგი_წერეთელი"
+        },
         {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=132:tsereteli-giorgi&Itemid=129&lang=ge"
@@ -5680,7 +6338,48 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%92%E1%83%98%E1%83%9D%E1%83%A0%E1%83%92%E1%83%98_(%E1%83%92%E1%83%98%E1%83%92%E1%83%98)_%E1%83%AC%E1%83%94%E1%83%A0%E1%83%94%E1%83%97%E1%83%94%E1%83%9A%E1%83%98"
         }
       ],
-      "name": "Giorgi (Gigi) Tsereteli"
+      "name": "Giorgi (Gigi) Tsereteli",
+      "other_names": [
+        {
+          "name": "გიორგი (გიგი) წერეთელი",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Giorgi Zereteli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gigi Tsereteli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gigi Tsereteli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gigi Tsereteli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gigi Tsereteli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "გიორგი (გიგი) წერეთელი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gigi Tsereteli",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -7245,11 +7944,16 @@
       ],
       "email": "ABolkvadze@parliament.ge",
       "gender": "male",
+      "given_name": "Anzor",
       "id": "fbc2023d-3122-44b7-aa0e-534e55bbb0f5",
       "identifiers": [
         {
           "identifier": "403",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16364846",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.chemiparlamenti.ge/media/representatives/%E1%83%91%E1%83%9D%E1%83%9A%E1%83%A5%E1%83%95%E1%83%90%E1%83%AB%E1%83%94_%E1%83%90%E1%83%9C%E1%83%96%E1%83%9D%E1%83%A0_jpg_200x168_q85.jpg",
@@ -7260,6 +7964,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ანზორ_ბოლქვაძე"
+        },
+        {
           "note": "website",
           "url": "http://parliament.ge/index.php?option=com_k2&view=item&id=17:bolkvadze-anzor&Itemid=129&lang=ge"
         },
@@ -7268,7 +7976,23 @@
           "url": "http://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%96%E1%83%9D%E1%83%A0_%E1%83%91%E1%83%9D%E1%83%9A%E1%83%A5%E1%83%95%E1%83%90%E1%83%AB%E1%83%94"
         }
       ],
-      "name": "Anzor Bolqvadze"
+      "name": "Anzor Bolqvadze",
+      "other_names": [
+        {
+          "name": "ანზორ ბოლქვაძე",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anzor Bolkvadze",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ანზორ ბოლქვაძე",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-05-10",
