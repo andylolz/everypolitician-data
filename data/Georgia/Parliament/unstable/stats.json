@@ -1,28 +1,28 @@
 {
   "people": {
-    "count": 148,
+    "count": 249,
     "wikidata": 9,
     "latest_term": {
-      "count": 148,
-      "wikidata": 9,
+      "count": 150,
+      "wikidata": 3,
       "contacts": {
-        "email": 137,
-        "facebook": 28,
-        "twitter": 4
+        "email": 145,
+        "facebook": 9,
+        "twitter": 2
       }
     }
   },
   "groups": {
-    "count": 12,
+    "count": 19,
     "wikidata": 4
   },
   "terms": {
-    "count": 1,
-    "latest": "2012-10-20",
-    "wikidata": 1
+    "count": 2,
+    "latest": "2016-11-18",
+    "wikidata": 2
   },
   "areas": {
-    "count": 52,
+    "count": 122,
     "wikidata": 0
   },
   "elections": {

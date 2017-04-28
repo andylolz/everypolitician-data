@@ -242,6 +242,31 @@
       "name": "Vakhtang Khmaladze"
     },
     {
+      "birth_date": "1983-01-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsonghulashvili@parliament.ge"
+        }
+      ],
+      "email": "dsonghulashvili@parliament.ge",
+      "id": "01e96914-21a1-4781-bda8-d45241a7bac1",
+      "name": "David Songhulashvili"
+    },
+    {
+      "birth_date": "1979-06-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rionatamishvili@parliament.ge"
+        }
+      ],
+      "email": "rionatamishvili@parliament.ge",
+      "id": "02820800-420d-4f29-91b7-72ae06e0d038",
+      "name": "Rati Ionatamishvili"
+    },
+    {
+      "birth_date": "1964-10-20",
       "contact_details": [
         {
           "type": "email",
@@ -280,6 +305,7 @@
       "name": "Zaza Papuashvili"
     },
     {
+      "birth_date": "1964-07-05",
       "contact_details": [
         {
           "type": "email",
@@ -318,6 +344,7 @@
       "name": "Leri Khabelovi"
     },
     {
+      "birth_date": "1955-09-28",
       "contact_details": [
         {
           "type": "email",
@@ -356,6 +383,30 @@
       "name": "Tengizi Khubuluri"
     },
     {
+      "birth_date": "1961-04-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ekvitsiani@parliament.ge"
+        }
+      ],
+      "email": "ekvitsiani@parliament.ge",
+      "id": "048e4de4-b3ab-4059-8353-07a3188906f0",
+      "name": "Emzar Kvitsiani"
+    },
+    {
+      "birth_date": "1985-08-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "imezurnishvili@parliament.ge"
+        }
+      ],
+      "email": "imezurnishvili@parliament.ge",
+      "id": "058852c7-1bf4-4d0f-a9bd-136134d55dae",
+      "name": "Irakli Mezurnishvili"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -390,6 +441,7 @@
       "name": "Nodar Ebanoidze"
     },
     {
+      "birth_date": "1954-06-24",
       "contact_details": [
         {
           "type": "email",
@@ -426,6 +478,30 @@
         }
       ],
       "name": "Giorgi Gachechiladze"
+    },
+    {
+      "birth_date": "1979-02-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tkhulordava@parliament.ge"
+        }
+      ],
+      "email": "tkhulordava@parliament.ge",
+      "id": "08dd2709-84fc-4c28-86e3-bd46d02a3451",
+      "name": "Tamar Khulordava"
+    },
+    {
+      "birth_date": "1964-09-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gbenashvili@parliament.ge"
+        }
+      ],
+      "email": "gbenashvili@parliament.ge",
+      "id": "095cce01-2fc5-4fad-b591-bd7eef24d6f5",
+      "name": "Gia Benashvili"
     },
     {
       "birth_date": "1968-03-05",
@@ -618,6 +694,42 @@
       ]
     },
     {
+      "birth_date": "1978-09-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ikobakhidze@parliament.ge"
+        }
+      ],
+      "email": "ikobakhidze@parliament.ge",
+      "id": "0a6569e6-c218-4b18-a15c-877ffff9dbae",
+      "name": "Irakli Kobakhidze"
+    },
+    {
+      "birth_date": "1963-01-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tkokhreidze@parliament.ge"
+        }
+      ],
+      "email": "tkokhreidze@parliament.ge",
+      "id": "0a661b74-db4c-4351-bfd7-897204cc3f91",
+      "name": "Teimuraz Kokhreidze"
+    },
+    {
+      "birth_date": "1960-02-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gkopadze@parliament.ge"
+        }
+      ],
+      "email": "gkopadze@parliament.ge",
+      "id": "0a773332-8de3-4090-8205-c8e44af40f96",
+      "name": "Giorgi Kopadze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -652,6 +764,7 @@
       "name": "Giorgi Khechinashvili"
     },
     {
+      "birth_date": "1974-01-11",
       "contact_details": [
         {
           "type": "email",
@@ -684,6 +797,66 @@
         }
       ],
       "name": "Irakli Sesiashvili"
+    },
+    {
+      "birth_date": "1959-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "inakashidze@parliament.ge"
+        }
+      ],
+      "email": "inakashidze@parliament.ge",
+      "id": "0d13d233-79e0-4dfa-b0e8-603766fa7a18",
+      "name": "Ilia Nakashidze"
+    },
+    {
+      "birth_date": "1971-05-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ikhakhubia@parliament.ge"
+        }
+      ],
+      "email": "ikhakhubia@parliament.ge",
+      "id": "0de8a52c-2c09-4ece-841d-8470209bed7c",
+      "name": "Irakli Khakhubia"
+    },
+    {
+      "birth_date": "1971-11-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmeshveliani@parliament.ge"
+        }
+      ],
+      "email": "gmeshveliani@parliament.ge",
+      "id": "0e03d9c9-537e-4b84-9531-ad4f1648a48e",
+      "name": "Gogi Meshveliani"
+    },
+    {
+      "birth_date": "1972-06-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zchiaberashvili@parliament.ge"
+        }
+      ],
+      "email": "zchiaberashvili@parliament.ge",
+      "id": "0e399b61-4cbf-46e2-ac26-7c489fdf1af6",
+      "name": "Zurab Chiaberashvili"
+    },
+    {
+      "birth_date": "1975-07-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dimitrits@parliament.ge"
+        }
+      ],
+      "email": "dimitrits@parliament.ge",
+      "id": "0e869e6e-befe-45b8-a7fa-0c9ed11bdeaf",
+      "name": "Dimitri Tskitishvili"
     },
     {
       "contact_details": [
@@ -792,6 +965,19 @@
       "name": "Gubaz Sanikidze"
     },
     {
+      "birth_date": "1977-10-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bnatsvlishvili@parliament.ge"
+        }
+      ],
+      "email": "bnatsvlishvili@parliament.ge",
+      "id": "0f437c3b-db09-43d2-a5eb-42cf6e9d3a9f",
+      "name": "Beka Natsvlishvili"
+    },
+    {
+      "birth_date": "1985-11-12",
       "contact_details": [
         {
           "type": "phone",
@@ -859,6 +1045,18 @@
       "name": "Samvel Petrosiani"
     },
     {
+      "birth_date": "1983-01-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "atalakvadze@parliament.ge"
+        }
+      ],
+      "email": "atalakvadze@parliament.ge",
+      "id": "132143fd-91f3-40e3-a947-9ff48049329f",
+      "name": "Archil Talakvadze"
+    },
+    {
       "gender": "male",
       "id": "132af40b-0499-4a20-9a7b-9ccc5b6a918d",
       "identifiers": [
@@ -882,6 +1080,7 @@
       "name": "Paata Kiknavelidze"
     },
     {
+      "birth_date": "1969-03-26",
       "contact_details": [
         {
           "type": "email",
@@ -1096,6 +1295,30 @@
       ]
     },
     {
+      "birth_date": "1941-10-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rarveladze@parliament.ge"
+        }
+      ],
+      "email": "rarveladze@parliament.ge",
+      "id": "1fd777c1-f447-4353-bc2d-1de943cebc23",
+      "name": "Revaz Arveladze"
+    },
+    {
+      "birth_date": "1946-01-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "imakrakhidze@parliament.ge"
+        }
+      ],
+      "email": "imakrakhidze@parliament.ge",
+      "id": "225950ee-7b1f-4027-aad2-f3a8da88c0ab",
+      "name": "Ioseb Makrakhidze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1172,6 +1395,18 @@
       "name": "Levan Qardava"
     },
     {
+      "birth_date": "1974-08-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ldamenia@parliament.ge"
+        }
+      ],
+      "email": "ldamenia@parliament.ge",
+      "id": "23f9bf38-f4ce-4087-842a-3e47155d9fa6",
+      "name": "Lasha Damenia"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1204,6 +1439,18 @@
         }
       ],
       "name": "Merab Kachakhidze"
+    },
+    {
+      "birth_date": "1976-04-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ssamadashvili@parliament.ge"
+        }
+      ],
+      "email": "ssamadashvili@parliament.ge",
+      "id": "25d887ee-7a61-4df2-b92b-bfcb29e543cf",
+      "name": "Salome Samadashvili"
     },
     {
       "contact_details": [
@@ -1282,6 +1529,42 @@
       "name": "Zurab Japaridze"
     },
     {
+      "birth_date": "1962-06-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ikovzanadze@parliament.ge"
+        }
+      ],
+      "email": "ikovzanadze@parliament.ge",
+      "id": "27748cca-873c-4bed-be0b-6549f4c01a31",
+      "name": "Irakli Kovzanadze"
+    },
+    {
+      "birth_date": "1961-05-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rkakulia@parliament.ge"
+        }
+      ],
+      "email": "rkakulia@parliament.ge",
+      "id": "2797f157-88ed-4d30-be84-fdd99d603d18",
+      "name": "Roman Kakulia"
+    },
+    {
+      "birth_date": "1979-09-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kkuchava@parliament.ge"
+        }
+      ],
+      "email": "kkuchava@parliament.ge",
+      "id": "2939d262-fe03-46bf-8b48-857daff1d862",
+      "name": "Kakhaber Kutchava"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1354,6 +1637,19 @@
       "name": "Zurab Meliqishvili"
     },
     {
+      "birth_date": "1972-07-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mkvaraia@parliament.ge"
+        }
+      ],
+      "email": "mkvaraia@parliament.ge",
+      "id": "29c3cfa4-6a65-493e-94dd-9a03a8be9ce8",
+      "name": "Merab Kvaraia"
+    },
+    {
+      "birth_date": "1973-12-10",
       "contact_details": [
         {
           "type": "email",
@@ -1400,6 +1696,19 @@
       "name": "Giorgi Kakhiani"
     },
     {
+      "birth_date": "1967-01-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tnaveriani@parliament.ge"
+        }
+      ],
+      "email": "tnaveriani@parliament.ge",
+      "id": "2af71bad-1624-463e-b243-b2932a85b3c2",
+      "name": "Tamaz Naveriani"
+    },
+    {
+      "birth_date": "1962-05-20",
       "contact_details": [
         {
           "type": "phone",
@@ -1467,6 +1776,7 @@
       "name": "Levan Bezhashvili"
     },
     {
+      "birth_date": "1978-11-20",
       "contact_details": [
         {
           "type": "phone",
@@ -1614,6 +1924,18 @@
       "name": "Davit Onoprishvili"
     },
     {
+      "birth_date": "1974-09-02",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bodisharia@parliament.ge"
+        }
+      ],
+      "email": "bodisharia@parliament.ge",
+      "id": "335e698f-5c81-41cc-9a3f-2642f0129fe5",
+      "name": "Beka Odisharia"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1648,6 +1970,7 @@
       "name": "Tamazi Mechiauri"
     },
     {
+      "birth_date": "1970-09-04",
       "contact_details": [
         {
           "type": "email",
@@ -1682,6 +2005,31 @@
       "name": "Gela Samkharauli"
     },
     {
+      "birth_date": "1961-05-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "knakaidze@parliament.ge"
+        }
+      ],
+      "email": "knakaidze@parliament.ge",
+      "id": "357b7a2f-3340-4135-aeb8-084cf1e7ff1c",
+      "name": "Koba Nakaidze"
+    },
+    {
+      "birth_date": "1976-12-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skatsarava@parliament.ge"
+        }
+      ],
+      "email": "skatsarava@parliament.ge",
+      "id": "35e6b4fd-f124-403e-a9e7-960275118b6a",
+      "name": "Sofio Katsarava"
+    },
+    {
+      "birth_date": "1951-09-24",
       "contact_details": [
         {
           "type": "email",
@@ -1716,6 +2064,7 @@
       "name": "Erekle Tripolski"
     },
     {
+      "birth_date": "1970-03-15",
       "contact_details": [
         {
           "type": "email",
@@ -1750,6 +2099,7 @@
       "name": "Irma Nadirashvili"
     },
     {
+      "birth_date": "1974-09-27",
       "contact_details": [
         {
           "type": "email",
@@ -1782,6 +2132,18 @@
         }
       ],
       "name": "Otari Chrdileli"
+    },
+    {
+      "birth_date": "1983-02-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gtotladze@parliament.ge"
+        }
+      ],
+      "email": "gtotladze@parliament.ge",
+      "id": "3e147938-640b-404b-b07b-abba4f51173e",
+      "name": "Giorgi Totladze"
     },
     {
       "contact_details": [
@@ -1823,6 +2185,30 @@
         }
       ],
       "name": "Tamari Kordzaia"
+    },
+    {
+      "birth_date": "1971-12-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmacharashvili@parliament.ge"
+        }
+      ],
+      "email": "gmacharashvili@parliament.ge",
+      "id": "3f79fa80-1fa1-416e-9297-e4ec35317a06",
+      "name": "Guram Macharashvili"
+    },
+    {
+      "birth_date": "1972-05-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmosidze@parliament.ge"
+        }
+      ],
+      "email": "gmosidze@parliament.ge",
+      "id": "420bde1a-a363-4f0b-9dd9-f56c15460c7d",
+      "name": "Giorgi Mosidze"
     },
     {
       "contact_details": [
@@ -1897,6 +2283,7 @@
       "name": "Levan Berdzenishvili"
     },
     {
+      "birth_date": "1982-08-05",
       "contact_details": [
         {
           "type": "email",
@@ -1931,6 +2318,19 @@
       "name": "Giorgi Kandelaki"
     },
     {
+      "birth_date": "1967-07-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "amarshania@parliament.ge"
+        }
+      ],
+      "email": "amarshania@parliament.ge",
+      "id": "45a4cf39-30a0-4c67-9418-c71a5badbe2c",
+      "name": "Ada Marshania"
+    },
+    {
+      "birth_date": "1967-11-27",
       "contact_details": [
         {
           "type": "email",
@@ -1969,6 +2369,31 @@
       "name": "Sergo Ratiani"
     },
     {
+      "birth_date": "1960-06-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nchkheidze@parliament.ge"
+        }
+      ],
+      "email": "nchkheidze@parliament.ge",
+      "id": "46b1a40c-eef6-41c3-b7f5-b0ea944936d3",
+      "name": "Nato Chkheidze"
+    },
+    {
+      "birth_date": "1979-11-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ekhoshtaria@parliament.ge"
+        }
+      ],
+      "email": "ekhoshtaria@parliament.ge",
+      "id": "4a1169e8-7b31-4112-a963-a4b47a259837",
+      "name": "Elene Khoshtaria"
+    },
+    {
+      "birth_date": "1982-07-12",
       "contact_details": [
         {
           "type": "email",
@@ -2003,6 +2428,7 @@
       "name": "Ruslan Poghosiani"
     },
     {
+      "birth_date": "1959-10-07",
       "contact_details": [
         {
           "type": "email",
@@ -2039,6 +2465,18 @@
         }
       ],
       "name": "Aleqsandre Qantaria"
+    },
+    {
+      "birth_date": "1969-03-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gchankseliani@parliament.ge"
+        }
+      ],
+      "email": "gchankseliani@parliament.ge",
+      "id": "4bac7414-8b50-4315-9f7c-ab6c1ec22d1e",
+      "name": "Goderdzi Chankseliani"
     },
     {
       "contact_details": [
@@ -2185,6 +2623,18 @@
       "name": "Pridoni Sakvarelidze"
     },
     {
+      "birth_date": "1970-07-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iinashvili@parliament.ge"
+        }
+      ],
+      "email": "iinashvili@parliament.ge",
+      "id": "4d8ed20c-f222-40f0-b3c5-3848a6f91254",
+      "name": "Irma Inashvili"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2261,6 +2711,19 @@
       "name": "Irakli Chiqovani"
     },
     {
+      "birth_date": "1982-07-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "itsulaia@parliament.ge"
+        }
+      ],
+      "email": "itsulaia@parliament.ge",
+      "id": "4eac281d-b6e4-4195-bd2a-87d568ad81df",
+      "name": "Ivliane Tsulaia"
+    },
+    {
+      "birth_date": "1966-03-21",
       "contact_details": [
         {
           "type": "email",
@@ -2333,6 +2796,7 @@
       "name": "Giorgi Karbelashvili"
     },
     {
+      "birth_date": "1983-05-29",
       "contact_details": [
         {
           "type": "email",
@@ -2367,6 +2831,19 @@
       "name": "Tinatin Bokuchava"
     },
     {
+      "birth_date": "1984-09-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tszurabiani@parliament.ge"
+        }
+      ],
+      "email": "tszurabiani@parliament.ge",
+      "id": "53418d1a-74d4-4c52-a13a-2d376d785de9",
+      "name": "Tsotne Zurabiani"
+    },
+    {
+      "birth_date": "1967-10-13",
       "contact_details": [
         {
           "type": "email",
@@ -2405,6 +2882,19 @@
       "name": "Giga Bukia"
     },
     {
+      "birth_date": "1977-07-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkobiashvili@parliament.ge"
+        }
+      ],
+      "email": "lkobiashvili@parliament.ge",
+      "id": "54a8da6b-68a6-40e5-90ec-46aca9a00012",
+      "name": "Levan Kobiashvili"
+    },
+    {
+      "birth_date": "1968-11-30",
       "contact_details": [
         {
           "type": "email",
@@ -2549,6 +3039,30 @@
       "name": "Shota Malashkhia"
     },
     {
+      "birth_date": "1972-04-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gbokeria@parliament.ge"
+        }
+      ],
+      "email": "gbokeria@parliament.ge",
+      "id": "5b940f6a-557a-4a5a-b443-bf2bdaee21b8",
+      "name": "Giorgi Bokeria"
+    },
+    {
+      "birth_date": "1976-06-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mjashi@parliament.ge"
+        }
+      ],
+      "email": "mjashi@parliament.ge",
+      "id": "5b9aef5f-e5af-4b5c-8aee-b5ae00d8d1bd",
+      "name": "Mariam Jashi"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2581,6 +3095,18 @@
         }
       ],
       "name": "Revaz Shavlokhashvili"
+    },
+    {
+      "birth_date": "1964-07-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ematchavariani@parliament.ge"
+        }
+      ],
+      "email": "ematchavariani@parliament.ge",
+      "id": "60bce0bb-f018-4f5d-86b0-755264f0a045",
+      "name": "Endzela Machavariani"
     },
     {
       "gender": "male",
@@ -2649,6 +3175,18 @@
         }
       ],
       "name": "Nana Keinishvili"
+    },
+    {
+      "birth_date": "1978-10-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iberaia@parliament.ge"
+        }
+      ],
+      "email": "iberaia@parliament.ge",
+      "id": "66a25af3-02ae-47c8-9483-fd64d787bcbd",
+      "name": "Irakli Beraia"
     },
     {
       "contact_details": [
@@ -2727,6 +3265,42 @@
       "name": "Davit Bezhuashvili"
     },
     {
+      "birth_date": "1975-12-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aerqvania@parliament.ge"
+        }
+      ],
+      "email": "aerqvania@parliament.ge",
+      "id": "676fd3df-3f0e-40cb-8ffa-29e59e924e1e",
+      "name": "Aleksandre Erkvania"
+    },
+    {
+      "birth_date": "1983-02-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ishiolashvili@parliament.ge"
+        }
+      ],
+      "email": "ishiolashvili@parliament.ge",
+      "id": "68db26aa-22fe-4d7a-9a3f-72eb853cf2ce",
+      "name": "Irakli Shiolashvili"
+    },
+    {
+      "birth_date": "1953-03-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "snozadze@parliament.ge"
+        }
+      ],
+      "email": "snozadze@parliament.ge",
+      "id": "68dd826f-edee-4a72-8cb3-b4808787e484",
+      "name": "Simon Nozadze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2769,6 +3343,19 @@
       "name": "Petre Tsiskarishvili"
     },
     {
+      "birth_date": "1984-04-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zgabunia@parliament.ge"
+        }
+      ],
+      "email": "zgabunia@parliament.ge",
+      "id": "6c6fc2c1-c841-4e8a-92a4-9ad854e36d42",
+      "name": "Zaza Gabunia"
+    },
+    {
+      "birth_date": "1966-10-29",
       "contact_details": [
         {
           "type": "email",
@@ -2880,6 +3467,30 @@
       ]
     },
     {
+      "birth_date": "1965-07-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dchichinadze@parliament.ge"
+        }
+      ],
+      "email": "dchichinadze@parliament.ge",
+      "id": "71599d17-e484-46c1-973d-77801525af07",
+      "name": "David Chichinadze"
+    },
+    {
+      "birth_date": "1976-07-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "i.beraia@parliament.ge"
+        }
+      ],
+      "email": "i.beraia@parliament.ge",
+      "id": "74b51543-1be4-4359-9ba2-311a664fee60",
+      "name": "Irakli (Dachi) Beraia"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2948,6 +3559,42 @@
       "name": "Ioseb Jachvliani"
     },
     {
+      "birth_date": "1972-05-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkoberidze@parliament.ge"
+        }
+      ],
+      "email": "lkoberidze@parliament.ge",
+      "id": "783c3086-4858-4f41-910c-535a1bceb382",
+      "name": "Levani Koberidze"
+    },
+    {
+      "birth_date": "1957-11-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lbezhanidze@parliament.ge"
+        }
+      ],
+      "email": "lbezhanidze@parliament.ge",
+      "id": "785e3ba8-df12-4823-ae8f-751e9fdddc7d",
+      "name": "Levan Bejanidze"
+    },
+    {
+      "birth_date": "1976-10-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ipruidze@parliament.ge"
+        }
+      ],
+      "email": "ipruidze@parliament.ge",
+      "id": "7873a63e-82c9-4c8b-8b86-b29d6bd3f0b2",
+      "name": "Irine Pruidze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2980,6 +3627,18 @@
         }
       ],
       "name": "Dato Lortqipanidze"
+    },
+    {
+      "birth_date": "1958-03-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "egotsiridze@parliament.ge"
+        }
+      ],
+      "email": "egotsiridze@parliament.ge",
+      "id": "78ccd2d8-b78c-401e-b1c5-134d7f9468ae",
+      "name": "Elguja Gotsiridze"
     },
     {
       "contact_details": [
@@ -3016,6 +3675,19 @@
       "name": "Vakhtang Lemonjava"
     },
     {
+      "birth_date": "1977-11-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iabuseridze@parliament.ge"
+        }
+      ],
+      "email": "iabuseridze@parliament.ge",
+      "id": "7b3bb222-83cc-49c4-844e-ca45d0ddce3c",
+      "name": "Irakli Abuseridze"
+    },
+    {
+      "birth_date": "1960-01-12",
       "contact_details": [
         {
           "type": "email",
@@ -3054,6 +3726,31 @@
       "name": "Mirian Tsiklauri"
     },
     {
+      "birth_date": "1960-05-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pmkheidze@parliament.ge"
+        }
+      ],
+      "email": "pmkheidze@parliament.ge",
+      "id": "7cd6b638-886b-41b1-92e4-1e66e32f04d6",
+      "name": "Paata Mkheidze"
+    },
+    {
+      "birth_date": "1978-12-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ggulordava@parliament.ge"
+        }
+      ],
+      "email": "ggulordava@parliament.ge",
+      "id": "7d35a39e-4e30-45c8-a7db-7158289e82b6",
+      "name": "Goga Gulordava"
+    },
+    {
+      "birth_date": "1957-08-04",
       "contact_details": [
         {
           "type": "email",
@@ -3122,6 +3819,19 @@
       "name": "Giorgi Tsagareishvili"
     },
     {
+      "birth_date": "1974-06-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dmkheidze@parliament.ge"
+        }
+      ],
+      "email": "dmkheidze@parliament.ge",
+      "id": "7f9f2823-52fa-47a5-964f-56a9c1bac389",
+      "name": "Dimitri Mkheidze"
+    },
+    {
+      "birth_date": "1967-07-23",
       "contact_details": [
         {
           "type": "email",
@@ -3230,6 +3940,30 @@
         }
       ],
       "name": "Roland Akhalaia"
+    },
+    {
+      "birth_date": "1979-12-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "nmelia@parliament.ge"
+        }
+      ],
+      "email": "nmelia@parliament.ge",
+      "id": "85e24aab-1552-4d16-bf84-de90b481ed06",
+      "name": "Nikanori Melia"
+    },
+    {
+      "birth_date": "1970-03-05",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "klursmanashvili@parliament.ge"
+        }
+      ],
+      "email": "klursmanashvili@parliament.ge",
+      "id": "8a6a1dd7-6f6c-443b-acc8-5280b9c6fde2",
+      "name": "Koba Lursmanashvili"
     },
     {
       "contact_details": [
@@ -3410,6 +4144,19 @@
       "name": "Zurab Chilingarashvili"
     },
     {
+      "birth_date": "1976-09-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lkeburia@parliament.ge"
+        }
+      ],
+      "email": "lkeburia@parliament.ge",
+      "id": "935b57ac-a151-4d2f-b4f5-516e00e8bf9c",
+      "name": "Lela Keburia"
+    },
+    {
+      "birth_date": "1972-07-01",
       "contact_details": [
         {
           "type": "email",
@@ -3452,6 +4199,18 @@
       "name": "Davit Baqradze"
     },
     {
+      "birth_date": "1985-06-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "aokhanashvili@parliament.ge"
+        }
+      ],
+      "email": "aokhanashvili@parliament.ge",
+      "id": "952ed36c-a0fd-4b55-a7b4-b0523d1221b9",
+      "name": "Anri Okhanashvili"
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -3492,6 +4251,19 @@
       "name": "Levan Tarkhnishvili"
     },
     {
+      "birth_date": "1976-03-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tgunava@parliament.ge"
+        }
+      ],
+      "email": "tgunava@parliament.ge",
+      "id": "98e2b87b-87f7-4220-a060-e447ee5920a6",
+      "name": "Tengiz Gunava"
+    },
+    {
+      "birth_date": "1980-06-24",
       "contact_details": [
         {
           "type": "email",
@@ -3560,6 +4332,30 @@
       "name": "Giorgi Givi Targamadze"
     },
     {
+      "birth_date": "1982-02-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ntsilosani@parliament.ge"
+        }
+      ],
+      "email": "ntsilosani@parliament.ge",
+      "id": "9d043ac2-5b7f-4494-9d9e-b9e3cf082f12",
+      "name": "Nino Tsilosani"
+    },
+    {
+      "birth_date": "1971-07-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mkavelashvili@parliament.ge"
+        }
+      ],
+      "email": "mkavelashvili@parliament.ge",
+      "id": "9d6564cf-b014-41ab-a6fa-dff4f89f4098",
+      "name": "Mikheil kavelashvili"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3596,6 +4392,18 @@
         }
       ],
       "name": "Davit Darchiashvili"
+    },
+    {
+      "birth_date": "1981-05-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dsamkharadze@parliament.ge"
+        }
+      ],
+      "email": "dsamkharadze@parliament.ge",
+      "id": "9feab043-7fc7-4170-a25c-253092b95da9",
+      "name": "Dimitri Samkharadze"
     },
     {
       "contact_details": [
@@ -3670,6 +4478,18 @@
       "name": "Gogi Liparteliani"
     },
     {
+      "birth_date": "1984-12-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tchugoshvili@parliament.ge"
+        }
+      ],
+      "email": "tchugoshvili@parliament.ge",
+      "id": "a3454418-bc01-43ec-84b7-62b73dd4ebf1",
+      "name": "Tamari Chugoshvili"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3704,6 +4524,19 @@
       "name": "Vazha Chitashvili"
     },
     {
+      "birth_date": "1981-03-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "akhabadze@parliament.ge"
+        }
+      ],
+      "email": "akhabadze@parliament.ge",
+      "id": "a5e209b5-045c-4825-9f8b-dc0fad6101f9",
+      "name": "Archil Khabadze"
+    },
+    {
+      "birth_date": "1959-05-03",
       "contact_details": [
         {
           "type": "email",
@@ -3740,6 +4573,18 @@
         }
       ],
       "name": "Enzel Mkoiani"
+    },
+    {
+      "birth_date": "1981-04-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skapanadze@parliament.ge"
+        }
+      ],
+      "email": "skapanadze@parliament.ge",
+      "id": "a6d94470-55f1-40e1-baf0-ac9b2f834992",
+      "name": "Sergi Kapanadze"
     },
     {
       "birth_date": "1958-12-26",
@@ -3920,6 +4765,7 @@
       "name": "Gogla Zhvania"
     },
     {
+      "birth_date": "1964-09-04",
       "contact_details": [
         {
           "type": "email",
@@ -3952,6 +4798,54 @@
         }
       ],
       "name": "Khatuna Gogorishvili"
+    },
+    {
+      "birth_date": "1982-06-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "iabesadze@parliament.ge"
+        }
+      ],
+      "email": "iabesadze@parliament.ge",
+      "id": "acdd36b6-c327-4c95-9745-6740ed722698",
+      "name": "Irakli Abesadze"
+    },
+    {
+      "birth_date": "1954-07-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "grmikeladze@parliament.ge"
+        }
+      ],
+      "email": "grmikeladze@parliament.ge",
+      "id": "ad3cbd63-e680-4e9a-90fd-9a0bbb2dc0fb",
+      "name": "Grigol Mikeladze"
+    },
+    {
+      "birth_date": "1978-08-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "etoloraia@parliament.ge"
+        }
+      ],
+      "email": "etoloraia@parliament.ge",
+      "id": "adde2a78-96a4-4fc4-9a5d-ef98d2ec4055",
+      "name": "Edisher Toloraia"
+    },
+    {
+      "birth_date": "1965-05-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "zkhutsishvili@parliament.ge"
+        }
+      ],
+      "email": "zkhutsishvili@parliament.ge",
+      "id": "af709ed6-80be-4471-bb20-05dc2040bd9d",
+      "name": "Zaza Khutsishvili"
     },
     {
       "contact_details": [
@@ -4022,6 +4916,7 @@
       "name": "Kakha Butskhrikidze"
     },
     {
+      "birth_date": "1954-11-20",
       "contact_details": [
         {
           "type": "email",
@@ -4136,6 +5031,7 @@
       "name": "Giorgi Tevdoradze"
     },
     {
+      "birth_date": "1957-01-18",
       "contact_details": [
         {
           "type": "email",
@@ -4170,6 +5066,31 @@
       "name": "Giorgi Volski"
     },
     {
+      "birth_date": "1982-09-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vzardiashvili@parliament.ge"
+        }
+      ],
+      "email": "vzardiashvili@parliament.ge",
+      "id": "b61918c9-e9cd-4282-90d6-776ee1b79e4b",
+      "name": "Vano Zardiashvili"
+    },
+    {
+      "birth_date": "1977-03-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gtugushi@parliament.ge"
+        }
+      ],
+      "email": "gtugushi@parliament.ge",
+      "id": "b62a5377-4e65-4605-afe5-b8ecd7cd36f6",
+      "name": "Giorgi Tughushi"
+    },
+    {
+      "birth_date": "1945-04-09",
       "contact_details": [
         {
           "type": "email",
@@ -4280,6 +5201,12 @@
       "name": "Giorgi Gabashvili"
     },
     {
+      "birth_date": "1978-01-01",
+      "id": "b993e646-1b3e-4e0d-8684-f7a00f2078f3",
+      "name": "Ruslan Gajiev"
+    },
+    {
+      "birth_date": "1964-09-14",
       "contact_details": [
         {
           "type": "email",
@@ -4322,6 +5249,18 @@
       "name": "Akaki Bobokhidze"
     },
     {
+      "birth_date": "1955-12-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rgotsiridze@parliament.ge"
+        }
+      ],
+      "email": "rgotsiridze@parliament.ge",
+      "id": "bc6f7fa9-1b80-4c43-9801-85c1ae063681",
+      "name": "Roman Gotsiridze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -4356,6 +5295,7 @@
       "name": "Akaki Minashvili"
     },
     {
+      "birth_date": "1959-08-14",
       "contact_details": [
         {
           "type": "email",
@@ -4428,6 +5368,18 @@
       "name": "Paata Lezhava"
     },
     {
+      "birth_date": "1981-04-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lgogichaishvili@parliament.ge"
+        }
+      ],
+      "email": "lgogichaishvili@parliament.ge",
+      "id": "c2c13758-b927-4198-ad92-8af53621a2d6",
+      "name": "Levan Gogichaishvili"
+    },
+    {
       "contact_details": [
         {
           "type": "phone",
@@ -4457,6 +5409,19 @@
       "name": "Bidzina Gujabidze"
     },
     {
+      "birth_date": "1952-03-18",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "szurabishvili@parliament.ge"
+        }
+      ],
+      "email": "szurabishvili@parliament.ge",
+      "id": "c455db5b-cec0-445e-a3bf-144fb88b69cb",
+      "name": "Salome Zourabichvili"
+    },
+    {
+      "birth_date": "1962-04-08",
       "contact_details": [
         {
           "type": "email",
@@ -4495,6 +5460,7 @@
       "name": "Gocha Enuqidze"
     },
     {
+      "birth_date": "1972-02-13",
       "contact_details": [
         {
           "type": "email",
@@ -4575,6 +5541,7 @@
       "name": "Mikheil Makharadze"
     },
     {
+      "birth_date": "1964-12-16",
       "contact_details": [
         {
           "type": "email",
@@ -4677,6 +5644,7 @@
       "name": "Tedo Japaridze"
     },
     {
+      "birth_date": "1964-02-23",
       "contact_details": [
         {
           "type": "email",
@@ -4960,6 +5928,31 @@
       "name": "Tamazi Shioshvili"
     },
     {
+      "birth_date": "1972-11-23",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gbegadze@parliament.ge"
+        }
+      ],
+      "email": "gbegadze@parliament.ge",
+      "id": "dc619c72-b721-4387-aa2c-89c86df7ef8c",
+      "name": "Giorgi Begadze"
+    },
+    {
+      "birth_date": "1971-01-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmikadze@parliament.ge"
+        }
+      ],
+      "email": "gmikadze@parliament.ge",
+      "id": "dd767ad7-6fcb-4d3a-a8e6-9519160dfbbb",
+      "name": "Gela Mikadze"
+    },
+    {
+      "birth_date": "1965-06-17",
       "contact_details": [
         {
           "type": "email",
@@ -5044,6 +6037,7 @@
       "name": "Omari Nishnianidze"
     },
     {
+      "birth_date": "1944-09-20",
       "contact_details": [
         {
           "type": "email",
@@ -5114,6 +6108,18 @@
         }
       ],
       "name": "Davit Chavchanidze"
+    },
+    {
+      "birth_date": "1959-06-19",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "shshalelashvili@parliament.ge"
+        }
+      ],
+      "email": "shshalelashvili@parliament.ge",
+      "id": "e2d46c8f-ed1e-4709-864f-5015d7055671",
+      "name": "Shota Shalelashvili"
     },
     {
       "contact_details": [
@@ -5298,6 +6304,30 @@
       ]
     },
     {
+      "birth_date": "1983-07-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "okakhidze@parliament.ge"
+        }
+      ],
+      "email": "okakhidze@parliament.ge",
+      "id": "e3dcbb0c-6399-4a5d-95b5-2d8a055fbf85",
+      "name": "Otari Kakhidze"
+    },
+    {
+      "birth_date": "1969-07-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "kkobaladze@parliament.ge"
+        }
+      ],
+      "email": "kkobaladze@parliament.ge",
+      "id": "e4372c5a-a82e-4956-898f-0a5d680f3dc9",
+      "name": "Koba Kobaladze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5334,6 +6364,30 @@
         }
       ],
       "name": "Giorgi Meladze"
+    },
+    {
+      "birth_date": "1976-08-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mchikovani@parliament.ge"
+        }
+      ],
+      "email": "mchikovani@parliament.ge",
+      "id": "e50b3d7d-953f-490c-b3aa-5b2e43cc245f",
+      "name": "Mamuka Chikovani"
+    },
+    {
+      "birth_date": "1976-11-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "smanukiani@parliament.ge"
+        }
+      ],
+      "email": "smanukiani@parliament.ge",
+      "id": "e52afe9f-b167-4c23-9914-04096a7c2330",
+      "name": "Samvel Manukian"
     },
     {
       "contact_details": [
@@ -5378,6 +6432,7 @@
       "name": "Giorgi Topadze"
     },
     {
+      "birth_date": "1971-11-06",
       "contact_details": [
         {
           "type": "email",
@@ -5454,6 +6509,18 @@
       "name": "Goderdzi Bukia"
     },
     {
+      "birth_date": "1982-06-26",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "smakhatadze@parliament.ge"
+        }
+      ],
+      "email": "smakhatadze@parliament.ge",
+      "id": "e6880b37-fa21-4f0a-a529-5bdc27659797",
+      "name": "Sulkhan Makhatadze"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5486,6 +6553,30 @@
         }
       ],
       "name": "Demur Basheleishvili"
+    },
+    {
+      "birth_date": "1968-06-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "azoidze@parliament.ge"
+        }
+      ],
+      "email": "azoidze@parliament.ge",
+      "id": "e704ccc3-35be-4ff6-8c0c-8e463e4804c2",
+      "name": "Akaki Zoidze"
+    },
+    {
+      "birth_date": "1973-01-22",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mvakhtangadze@parliament.ge"
+        }
+      ],
+      "email": "mvakhtangadze@parliament.ge",
+      "id": "e7ad85a8-5ad9-44f1-b5e6-127070d1352e",
+      "name": "Mukhran Vakhtangadze"
     },
     {
       "contact_details": [
@@ -5636,6 +6727,43 @@
       "name": "Murman Dumbadze"
     },
     {
+      "birth_date": "1984-01-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skiladze@parliament.ge"
+        }
+      ],
+      "email": "skiladze@parliament.ge",
+      "id": "eb5b0320-8c6f-40ab-b0f1-1c5e5c334382",
+      "name": "Sopio Kiladze"
+    },
+    {
+      "birth_date": "1968-04-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmargvelashvili@parliament.ge"
+        }
+      ],
+      "email": "gmargvelashvili@parliament.ge",
+      "id": "eb689aa6-6fda-4c89-a2f2-cd70d358b759",
+      "name": "Genadi Margvelashvili"
+    },
+    {
+      "birth_date": "1978-11-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmdinaradze@parliament.ge"
+        }
+      ],
+      "email": "mmdinaradze@parliament.ge",
+      "id": "ec6e2c65-904d-4a1d-941a-2a90906197c6",
+      "name": "Mamuka Mdinaradze"
+    },
+    {
+      "birth_date": "1987-03-19",
       "contact_details": [
         {
           "type": "email",
@@ -5670,6 +6798,19 @@
       "name": "Shalva Kiknavelidze"
     },
     {
+      "birth_date": "1974-05-13",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rmuchiashvili@parliament.ge"
+        }
+      ],
+      "email": "rmuchiashvili@parliament.ge",
+      "id": "f13a9e60-20ae-4e77-8ad5-cd3b2f870161",
+      "name": "Roman Muchiashvili"
+    },
+    {
+      "birth_date": "1969-02-22",
       "contact_details": [
         {
           "type": "email",
@@ -5708,6 +6849,18 @@
       "name": "Koba Nakopia"
     },
     {
+      "birth_date": "1958-03-30",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "idaseni@parliament.ge"
+        }
+      ],
+      "email": "idaseni@parliament.ge",
+      "id": "f308bb1a-24d0-4f76-ac7b-03fb5c858817",
+      "name": "Isko Daseni"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5742,6 +6895,30 @@
       "name": "Davit Saganelidze"
     },
     {
+      "birth_date": "1986-08-29",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "smirzoevi@parliament.ge"
+        }
+      ],
+      "email": "smirzoevi@parliament.ge",
+      "id": "f371b5c4-ba63-47c5-973c-0d60bc6002cb",
+      "name": "Savalan Mirzoevi"
+    },
+    {
+      "birth_date": "1969-12-20",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "knarchemashvili@parliament.ge"
+        }
+      ],
+      "email": "knarchemashvili@parliament.ge",
+      "id": "f380cc91-93e9-4366-b898-e2f073020444",
+      "name": "Koba Narchemashvili"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5774,6 +6951,54 @@
         }
       ],
       "name": "Sergo Khabuliani"
+    },
+    {
+      "birth_date": "1952-05-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "skudba@parliament.ge"
+        }
+      ],
+      "email": "skudba@parliament.ge",
+      "id": "f43412f9-7c1e-468f-935e-b463ee55fcca",
+      "name": "Svetlana Kudba"
+    },
+    {
+      "birth_date": "1958-03-03",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "bgegidze@parliament.ge"
+        }
+      ],
+      "email": "bgegidze@parliament.ge",
+      "id": "f531f4ff-2acc-4dbe-94b4-0d6b2fe7a6f6",
+      "name": "Bidzina Gegidze"
+    },
+    {
+      "birth_date": "1979-09-21",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "odanelia@parliament.ge"
+        }
+      ],
+      "email": "odanelia@parliament.ge",
+      "id": "f5e3a5a8-8f0b-4b3a-8e8c-3ad7af737877",
+      "name": "Otari Danelia"
+    },
+    {
+      "birth_date": "1977-09-01",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gliluashvili@parliament.ge"
+        }
+      ],
+      "email": "gliluashvili@parliament.ge",
+      "id": "f60def96-889d-4b70-8c0c-111fa936a7bc",
+      "name": "Grigor Liluashvili"
     },
     {
       "contact_details": [
@@ -5812,6 +7037,11 @@
         }
       ],
       "name": "Koba Subeliani"
+    },
+    {
+      "birth_date": "1978-08-14",
+      "id": "f793db79-eadc-4fa7-9a68-a1721c653bc2",
+      "name": "David Matikashvili"
     },
     {
       "birth_date": "1957-10-28",
@@ -5899,6 +7129,7 @@
       ]
     },
     {
+      "birth_date": "1975-03-11",
       "contact_details": [
         {
           "type": "email",
@@ -6001,6 +7232,7 @@
       "name": "Davit Dartsmelidze"
     },
     {
+      "birth_date": "1960-09-09",
       "contact_details": [
         {
           "type": "email",
@@ -6037,9 +7269,36 @@
         }
       ],
       "name": "Anzor Bolqvadze"
+    },
+    {
+      "birth_date": "1975-05-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "glomia@parliament.ge"
+        }
+      ],
+      "email": "glomia@parliament.ge",
+      "id": "fd5476cc-6ca5-4553-a34d-fafffc2630c6",
+      "name": "Giorgi Lomia"
     }
   ],
   "organizations": [
+    {
+      "classification": "party",
+      "id": "party/european_georgia",
+      "name": "European Georgia"
+    },
+    {
+      "classification": "party",
+      "id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "name": "Faction \"The Georgian Dream - Social-Democrats\""
+    },
+    {
+      "classification": "party",
+      "id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "name": "Faction \"The Georgian Dream for Development of Regions\""
+    },
     {
       "classification": "party",
       "id": "party/free_democrats",
@@ -6118,6 +7377,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "party/georgian_dream_-_greens",
+      "name": "Georgian Dream - Greens"
+    },
+    {
+      "classification": "party",
+      "id": "party/movement_for_liberty_-_european_georgia",
+      "name": "Movement for Liberty - European Georgia"
     },
     {
       "classification": "party",
@@ -6787,6 +8056,11 @@
     },
     {
       "classification": "party",
+      "id": "party/patriots_of_georgia",
+      "name": "Patriots of Georgia"
+    },
+    {
+      "classification": "party",
       "id": "party/the_georgian_dream",
       "name": "The Georgian Dream"
     },
@@ -7111,6 +8385,16 @@
       "classification": "party",
       "id": "party/the_united_national_movement_-_regions",
       "name": "The United National Movement - Regions"
+    },
+    {
+      "classification": "party",
+      "id": "party/unknown",
+      "name": "unknown"
+    },
+    {
+      "classification": "party",
+      "id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "name": "მოძრაობა თავისუფლებისთვის - რეგიონები"
     }
   ],
   "meta": {
@@ -7147,6 +8431,31 @@
       ]
     },
     {
+      "area_id": "24",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "01e96914-21a1-4781-bda8-d45241a7bac1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/david-songhulashvili"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "02820800-420d-4f29-91b7-72ae06e0d038",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/rati-ionatamishvili"
+        }
+      ]
+    },
+    {
       "area_id": "area/mtatsminda",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
@@ -7156,6 +8465,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/474/zaza-papuashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "15",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "033e3b65-a6ef-4024-8a06-ac3e7aee5ca8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zaza-papuashvili"
         }
       ]
     },
@@ -7172,6 +8494,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "03b04f60-c024-4714-8e17-505eded5cc2c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/leri-khabelovi"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7180,6 +8515,45 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/530/tengiz-xubuluri/"
+        }
+      ]
+    },
+    {
+      "area_id": "42",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "041be1e1-ec6f-4d8b-bcec-690b9209aa5d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tengizi-khubuluri"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "048e4de4-b3ab-4059-8353-07a3188906f0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/emzar-kvitsiani"
+        }
+      ]
+    },
+    {
+      "area_id": "39",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "058852c7-1bf4-4d0f-a9bd-136134d55dae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-mezurnishvili"
         }
       ]
     },
@@ -7208,6 +8582,44 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "07cd77bd-8b28-4b1b-95ed-12f2593515f9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-gachechiladze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "08dd2709-84fc-4c28-86e3-bd46d02a3451",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tamar-khulordava"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "095cce01-2fc5-4fad-b591-bd7eef24d6f5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gia-benashvili"
+        }
+      ]
+    },
+    {
       "area_id": "area/saburtalo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_republicans",
@@ -7217,6 +8629,45 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/491/davit-usupashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0a6569e6-c218-4b18-a15c-877ffff9dbae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-kobakhidze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0a661b74-db4c-4351-bfd7-897204cc3f91",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/teimuraz-kokhreidze"
+        }
+      ]
+    },
+    {
+      "area_id": "44",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0a773332-8de3-4090-8205-c8e44af40f96",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-kopadze"
         }
       ]
     },
@@ -7241,6 +8692,83 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/486/irakli-sesiashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "27",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0c983ee7-1067-4bdc-92e3-30b43e580c4b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-sesiashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "72",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0d13d233-79e0-4dfa-b0e8-603766fa7a18",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ilia-nakashidze"
+        }
+      ]
+    },
+    {
+      "area_id": "61",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0de8a52c-2c09-4ece-841d-8470209bed7c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-khakhubia"
+        }
+      ]
+    },
+    {
+      "area_id": "33",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0e03d9c9-537e-4b84-9531-ad4f1648a48e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gogi-meshveliani"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0e399b61-4cbf-46e2-ac26-7c489fdf1af6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zurab-chiaberashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0e869e6e-befe-45b8-a7fa-0c9ed11bdeaf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/dimitri-tskitishvili"
         }
       ]
     },
@@ -7282,6 +8810,19 @@
       ]
     },
     {
+      "area_id": "10",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "0f437c3b-db09-43d2-a5eb-42cf6e9d3a9f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/beka-natsvlishvili"
+        }
+      ]
+    },
+    {
       "area_id": "area/dedoflistskaro",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement_-_majoritarians",
@@ -7295,6 +8836,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "104fdf0b-ba80-4dce-88b2-9ae75a7bcc00",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zaza-kedelashvili"
+        }
+      ]
+    },
+    {
       "area_id": "area/akhalkalaki",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
@@ -7304,6 +8858,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/475/samvel-petrosiani/"
+        }
+      ]
+    },
+    {
+      "area_id": "59",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "132143fd-91f3-40e3-a947-9ff48049329f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/archil-talakvadze"
         }
       ]
     },
@@ -7329,6 +8896,18 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/498/giorgi-gviniashvili/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "13795a29-865b-450d-a5e4-50049477e943",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/george-gviniashvili"
         }
       ]
     },
@@ -7369,6 +8948,31 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "1fd777c1-f447-4353-bc2d-1de943cebc23",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/revaz-arveladze"
+        }
+      ]
+    },
+    {
+      "area_id": "41",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "225950ee-7b1f-4027-aad2-f3a8da88c0ab",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ioseb-makrakhidze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/out_of_faction",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7394,6 +8998,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "23f9bf38-f4ce-4087-842a-3e47155d9fa6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/lasha-damenia"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7402,6 +9019,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/437/merab-kachaxize/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "25d887ee-7a61-4df2-b92b-bfcb29e543cf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/salome-samadashvili"
         }
       ]
     },
@@ -7426,6 +9056,44 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/537/zurab-japarize/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "27748cca-873c-4bed-be0b-6549f4c01a31",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-kovzanadze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2797f157-88ed-4d30-be84-fdd99d603d18",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/roman-kakulia"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2939d262-fe03-46bf-8b48-857daff1d862",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/kakhaber-kutchava"
         }
       ]
     },
@@ -7455,6 +9123,19 @@
       ]
     },
     {
+      "area_id": "65",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "29c3cfa4-6a65-493e-94dd-9a03a8be9ce8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/merab-kvaraia"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7463,6 +9144,31 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/436/giorgi-kaxiani/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2aa6bac3-63da-4c20-92e4-727a9060a04d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-kakhiani"
+        }
+      ]
+    },
+    {
+      "area_id": "36",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2af71bad-1624-463e-b243-b2932a85b3c2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tamaz-naveriani"
         }
       ]
     },
@@ -7476,6 +9182,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/525/pati-xalvashi/"
+        }
+      ]
+    },
+    {
+      "area_id": "68",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2b8bda52-8472-4d49-ab2f-ba319d5c1590",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/phati-khalvashi"
         }
       ]
     },
@@ -7502,6 +9221,20 @@
           "url": "http://www.chemiparlamenti.ge/en/who/representative/544/giorgi-xachize/"
         }
       ]
+    },
+    {
+      "end_date": "1978-11-20",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "2dae846e-cb6b-49dd-b93d-bafbc0a5f641",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-khatidze"
+        }
+      ],
+      "start_date": "2016-12-01"
     },
     {
       "legislative_period_id": "term/8",
@@ -7542,6 +9275,19 @@
       ]
     },
     {
+      "area_id": "7",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "335e698f-5c81-41cc-9a3f-2642f0129fe5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/beka-odisharia"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7567,6 +9313,45 @@
       ]
     },
     {
+      "area_id": "28",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "34fe9149-8dff-444f-8b18-6f37082e5ccd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gela-samkharauli"
+        }
+      ]
+    },
+    {
+      "area_id": "71",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "357b7a2f-3340-4135-aeb8-084cf1e7ff1c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/koba-nakaidze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "35e6b4fd-f124-403e-a9e7-960275118b6a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/sofio-katsarava"
+        }
+      ]
+    },
+    {
       "area_id": "area/dusheti",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
@@ -7576,6 +9361,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/489/erekle-tripolski/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "36485e01-985b-4e63-b23c-adfc1a30c1b2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/erekle-tripolski"
         }
       ]
     },
@@ -7592,6 +9390,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "3a5e585d-7437-4568-8d32-5f4402adc531",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irma-nadirashvili"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7600,6 +9411,30 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/511/otar-chrdileli/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "3dbd2223-cb7e-4149-b2a1-bd838d800630",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/otar-chrdileli"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "3e147938-640b-404b-b07b-abba4f51173e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-totladze"
         }
       ]
     },
@@ -7613,6 +9448,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/446/tamar-korzaia/"
+        }
+      ]
+    },
+    {
+      "area_id": "26",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "3f79fa80-1fa1-416e-9297-e4ec35317a06",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/guram-macharashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "11",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "420bde1a-a363-4f0b-9dd9-f56c15460c7d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-mosidze"
         }
       ]
     },
@@ -7654,6 +9515,32 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4494aae3-0105-44e5-b6ed-b92b93307945",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-kandelaki"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "45a4cf39-30a0-4c67-9418-c71a5badbe2c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ada-marshania"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7662,6 +9549,44 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/479/sergo-ratiani/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "45d41141-3d9a-4832-b4be-3c4b8ffbc13e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/sergo-ratiani"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "46b1a40c-eef6-41c3-b7f5-b0ea944936d3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/nato-chkheidze"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4a1169e8-7b31-4112-a963-a4b47a259837",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/elene-khoshtaria"
         }
       ]
     },
@@ -7678,6 +9603,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4a32ef71-846e-4c21-acbc-26108f48a5ee",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ruslan-poghosiani"
+        }
+      ]
+    },
+    {
       "area_id": "area/isani",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
@@ -7687,6 +9625,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/494/aleksandre-kantaria/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4b2da604-7737-4c75-b4de-79dbb7632501",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/aleksandre-kantaria"
+        }
+      ]
+    },
+    {
+      "area_id": "32",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4bac7414-8b50-4315-9f7c-ab6c1ec22d1e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/goderdzi-chankseliani"
         }
       ]
     },
@@ -7728,6 +9692,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4d8ed20c-f222-40f0-b3c5-3848a6f91254",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irma-inashvili"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7752,6 +9728,19 @@
       ]
     },
     {
+      "area_id": "15",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4eac281d-b6e4-4195-bd2a-87d568ad81df",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ivliane-tsulaia"
+        }
+      ]
+    },
+    {
       "area_id": "area/dmanisi",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_non-party,_independent_majoritarians",
@@ -7761,6 +9750,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/472/kaxaber-okriashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "34",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "4f574651-c97c-4bb2-8c41-067c299123f5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/kakhaber-okriashvili"
         }
       ]
     },
@@ -7789,6 +9791,31 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "51d3bc9f-6f68-4714-909b-6bded63f10a6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tinatin-bokuchava"
+        }
+      ]
+    },
+    {
+      "area_id": "57",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "53418d1a-74d4-4c52-a13a-2d376d785de9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tsotne-zurabiani"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7797,6 +9824,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/404/giga-bukia/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "53df0004-a42b-43f0-ba99-d6344c618484",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giga-bukia"
+        }
+      ]
+    },
+    {
+      "area_id": "21",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "54a8da6b-68a6-40e5-90ec-46aca9a00012",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/levan-kobiashvili"
         }
       ]
     },
@@ -7810,6 +9863,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/531/dimitri-xundaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "37",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "56d3353e-2ba1-43bc-81c6-feabbab00612",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/dimitri-khundadze"
         }
       ]
     },
@@ -7851,6 +9917,31 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "5b940f6a-557a-4a5a-b443-bf2bdaee21b8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-bokeria"
+        }
+      ]
+    },
+    {
+      "area_id": "12",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "5b9aef5f-e5af-4b5c-8aee-b5ae00d8d1bd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/mariam-jashi"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7859,6 +9950,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/503/revaz-shavloxashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "60bce0bb-f018-4f5d-86b0-755264f0a045",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/endzela-machavariani"
         }
       ]
     },
@@ -7899,6 +10003,19 @@
       ]
     },
     {
+      "area_id": "63",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "66a25af3-02ae-47c8-9483-fd64d787bcbd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-beraia"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7924,6 +10041,45 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "676fd3df-3f0e-40cb-8ffa-29e59e924e1e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/aleksandre-erkvania"
+        }
+      ]
+    },
+    {
+      "area_id": "25",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "68db26aa-22fe-4d7a-9a3f-72eb853cf2ce",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-shiolashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "43",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "68dd826f-edee-4a72-8cb3-b4808787e484",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/simon-nozadze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7932,6 +10088,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/513/petre-ciskarishvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "19",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "6c6fc2c1-c841-4e8a-92a4-9ad854e36d42",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zaza-gabunia"
         }
       ]
     },
@@ -7949,6 +10118,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "6e66aa5e-02a6-42ed-aebf-665e06d7d128",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/viktor-japaridze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7957,6 +10139,45 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/514/zviad-ziziguri/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "6f22f377-09b8-45fe-ad30-8917704c1e7d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zviad-dzidziguri"
+        }
+      ]
+    },
+    {
+      "area_id": "9",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "71599d17-e484-46c1-973d-77801525af07",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/david-chichinadze"
+        }
+      ]
+    },
+    {
+      "area_id": "64",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "74b51543-1be4-4359-9ba2-311a664fee60",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-dachi-beraia"
         }
       ]
     },
@@ -7986,6 +10207,45 @@
       ]
     },
     {
+      "area_id": "22",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "783c3086-4858-4f41-910c-535a1bceb382",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/levani-koberidze"
+        }
+      ]
+    },
+    {
+      "area_id": "69",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "785e3ba8-df12-4823-ae8f-751e9fdddc7d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/levan-bejanidze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7873a63e-82c9-4c8b-8b86-b29d6bd3f0b2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irine-pruidze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -7994,6 +10254,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/452/dato-lortkipanize/"
+        }
+      ]
+    },
+    {
+      "area_id": "50",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "78ccd2d8-b78c-401e-b1c5-134d7f9468ae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/elguja-gotsiridze"
         }
       ]
     },
@@ -8011,6 +10284,19 @@
       ]
     },
     {
+      "area_id": "8",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7b3bb222-83cc-49c4-844e-ca45d0ddce3c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-abuseridze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8019,6 +10305,45 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/517/mirian-ciklauri/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7b7cbf2b-69e5-4c84-a604-191f5c683dcd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/miriani-tsiklauri"
+        }
+      ]
+    },
+    {
+      "area_id": "29",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7cd6b638-886b-41b1-92e4-1e66e32f04d6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/paata-mkheidze"
+        }
+      ]
+    },
+    {
+      "area_id": "67",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7d35a39e-4e30-45c8-a7db-7158289e82b6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/goga-gulordava"
         }
       ]
     },
@@ -8035,6 +10360,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7dc9d436-4b25-435c-8efa-dbecfe69ffe1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/makhir-darzievi"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/free_democrats",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8043,6 +10381,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/512/giorgi-cagareishvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "48",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7f9f2823-52fa-47a5-964f-56a9c1bac389",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/dimitri-mkheidze"
         }
       ]
     },
@@ -8056,6 +10407,18 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/488/azer-suleimanovi/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "7fd9bdcf-1f30-4275-9c45-8f7f2cf8ba03",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/azer-suleimanovi"
         }
       ]
     },
@@ -8081,6 +10444,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/390/roland-axalaia/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "85e24aab-1552-4d16-bf84-de90b481ed06",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/nikanori-melia"
+        }
+      ]
+    },
+    {
+      "area_id": "51",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "8a6a1dd7-6f6c-443b-acc8-5280b9c6fde2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/koba-lursmanashvili"
         }
       ]
     },
@@ -8149,6 +10538,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "935b57ac-a151-4d2f-b4f5-516e00e8bf9c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/lela-keburia"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8159,6 +10561,32 @@
           "url": "http://www.chemiparlamenti.ge/en/who/representative/392/davit-bakraze/"
         }
       ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "94c068ba-3df7-42a3-81f7-fd98a7b8d972",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/david-bakradze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "952ed36c-a0fd-4b55-a7b4-b0523d1221b9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/anri-okhanashvili"
+        }
+      ],
+      "start_date": "2017-02-10"
     },
     {
       "legislative_period_id": "term/8",
@@ -8185,6 +10613,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "98e2b87b-87f7-4220-a060-e447ee5920a6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tengiz-gunava"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/free_democrats",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8193,6 +10634,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/412/nino-goguaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "5",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "99444b3a-a8ff-450a-823f-9a7ef202777e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/nino-goguadze"
         }
       ]
     },
@@ -8209,6 +10663,32 @@
       ]
     },
     {
+      "area_id": "60",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "9d043ac2-5b7f-4494-9d9e-b9e3cf082f12",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/nino-tsilosani"
+        }
+      ]
+    },
+    {
+      "area_id": "18",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "9d6564cf-b014-41ab-a6fa-dff4f89f4098",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/mikheil-kavelashvili"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8217,6 +10697,18 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/415/davit-darchiashvili/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "9feab043-7fc7-4170-a25c-253092b95da9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/dimitri-samkharadze"
         }
       ]
     },
@@ -8246,6 +10738,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "a3454418-bc01-43ec-84b7-62b73dd4ebf1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/tamari-chugoshvili"
+        }
+      ]
+    },
+    {
       "area_id": "area/akhaltsikhe",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement_-_regions",
@@ -8255,6 +10760,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/509/vazha-chitashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "a5e209b5-045c-4825-9f8b-dc0fad6101f9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/archil-khabadze"
         }
       ]
     },
@@ -8272,6 +10790,32 @@
       ]
     },
     {
+      "area_id": "46",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_for_development_of_regions\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "a6a6b327-009a-4a89-bc79-da80785e070c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/enzel-mkoiani"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "a6d94470-55f1-40e1-baf0-ac9b2f834992",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/sergi-kapanadze"
+        }
+      ]
+    },
+    {
       "area_id": "area/krtsanisi",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
@@ -8281,6 +10825,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/521/shota-xabareli/"
+        }
+      ]
+    },
+    {
+      "area_id": "13",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "aa4b0975-5007-4497-abd8-c976e4e03e30",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/shota-khabareli"
         }
       ]
     },
@@ -8305,6 +10862,70 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/411/xatuna-gogorishvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "aa87b010-21f4-4ebe-95ef-cb6ffa13b7d5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/khatuna-gogorishvili"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "acdd36b6-c327-4c95-9745-6740ed722698",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/irakli-abesadze"
+        }
+      ]
+    },
+    {
+      "area_id": "55",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "ad3cbd63-e680-4e9a-90fd-9a0bbb2dc0fb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/grigol-mikeladze"
+        }
+      ]
+    },
+    {
+      "area_id": "66",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "adde2a78-96a4-4fc4-9a5d-ef98d2ec4055",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/edisher-toloraia"
+        }
+      ]
+    },
+    {
+      "area_id": "3",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "af709ed6-80be-4471-bb20-05dc2040bd9d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zaza-khutsishvili"
         }
       ]
     },
@@ -8346,6 +10967,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b146ea1b-a39c-47cb-a504-c74816f54a5a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gia-jorjoliani"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_republicans",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8382,6 +11016,45 @@
       ]
     },
     {
+      "area_id": "14",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b5eadf50-158e-4a8c-a872-32f8d8bcd248",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-volski"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b61918c9-e9cd-4282-90d6-776ee1b79e4b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/vano-zardiashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b62a5377-4e65-4605-afe5-b8ecd7cd36f6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-tughushi"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8390,6 +11063,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/454/guguli-magraze/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b74ba5d1-a8eb-4442-952b-ded5b50aa432",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/guguli-magradze"
         }
       ]
     },
@@ -8419,6 +11105,19 @@
       ]
     },
     {
+      "area_id": "35",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "b993e646-1b3e-4e0d-8684-f7a00f2078f3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ruslan-gajiev"
+        }
+      ]
+    },
+    {
       "area_id": "area/tskaltubo",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement_-_majoritarians",
@@ -8428,6 +11127,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/401/akaki-boboxize/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "bb7d8d43-14ef-4fe4-ab34-88ec562a8836",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/akaki-bobokhidze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "bc6f7fa9-1b80-4c43-9801-85c1ae063681",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/roman-gotsiridze"
         }
       ]
     },
@@ -8456,6 +11181,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "be07ff13-f8bf-4c33-8f21-a729e3c4e595",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/karlo-kopaliani"
+        }
+      ]
+    },
+    {
       "area_id": "area/vani",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
@@ -8465,6 +11203,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/449/paata-lezhava/"
+        }
+      ]
+    },
+    {
+      "area_id": "6",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "c2c13758-b927-4198-ad92-8af53621a2d6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/levan-gogichaishvili"
         }
       ]
     },
@@ -8481,6 +11232,19 @@
       ]
     },
     {
+      "area_id": "1",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "c455db5b-cec0-445e-a3bf-144fb88b69cb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/salome-zourabichvili"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_independent_majoritarians_-_for_powerful_regions",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8489,6 +11253,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/422/gocha-enukize/"
+        }
+      ]
+    },
+    {
+      "area_id": "58",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "c4c775b4-065a-4853-9f62-f4b7f74a5c14",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gocha-enukidze"
         }
       ]
     },
@@ -8502,6 +11279,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/497/zakaria-kucnashvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "38",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "c767b6fd-1450-40a7-be09-6930e1fbab63",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zakaria-kutsnashvili"
         }
       ]
     },
@@ -8526,6 +11316,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/443/paata-kvizhinaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "53",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "cafcd251-0c95-4caa-87f4-49992513d675",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/paata-kvijinadze"
         }
       ]
     },
@@ -8566,6 +11369,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/movement_for_liberty_-_european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "cecc764a-a369-4fd0-a7ed-afd343774d40",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-tsereteli"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8587,6 +11403,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/442/zviad-kvachantiraze/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "d203ca80-1d64-46b3-a132-40331c235bf0",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/zviad-kvachantiradze"
         }
       ]
     },
@@ -8641,6 +11470,32 @@
       ]
     },
     {
+      "area_id": "30",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "dc619c72-b721-4387-aa2c-89c86df7ef8c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-begadze"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "dd767ad7-6fcb-4d3a-a8e6-9519160dfbbb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gela-mikadze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8649,6 +11504,18 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/469/ramaz-nikolaishvili/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "df6e11a1-9d6f-4100-bb5b-4751fa716bba",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/ramaz-nikolaishvili"
         }
       ]
     },
@@ -8678,6 +11545,18 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e28e3d96-800d-49f2-811d-bd21e93344ff",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/teimuraz-chkuaseli"
+        }
+      ]
+    },
+    {
       "area_id": "area/khoni",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement_-_majoritarians",
@@ -8687,6 +11566,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/519/davit-chavchanize/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e2d46c8f-ed1e-4709-864f-5015d7055671",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/shota-shalelashvili"
         }
       ]
     },
@@ -8715,6 +11607,32 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/european_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e3dcbb0c-6399-4a5d-95b5-2d8a055fbf85",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/otari-kakhidze"
+        }
+      ]
+    },
+    {
+      "area_id": "24",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e4372c5a-a82e-4956-898f-0a5d680f3dc9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/koba-kobaladze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/out_of_faction",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8723,6 +11641,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/461/giorgi-melaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/მოძრაობა_თავისუფლებისთვის_-_რეგიონები",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e50b3d7d-953f-490c-b3aa-5b2e43cc245f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/mamuka-chikovani"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/georgian_dream_-_greens",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e52afe9f-b167-4c23-9914-04096a7c2330",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/samvel-manukian"
         }
       ]
     },
@@ -8751,6 +11695,19 @@
       ]
     },
     {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e5b73641-5fe3-4f38-8a0f-59be7e7cb535",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/eka-beselia"
+        }
+      ]
+    },
+    {
       "area_id": "area/khobi",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_non-party,_independent_majoritarians",
@@ -8764,6 +11721,19 @@
       ]
     },
     {
+      "area_id": "56",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e6880b37-fa21-4f0a-a529-5bdc27659797",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/sulkhan-makhatadze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_entrepreneurs",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8772,6 +11742,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/395/demur-basheleishvili/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e704ccc3-35be-4ff6-8c0c-8e463e4804c2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/akaki-zoidze"
+        }
+      ]
+    },
+    {
+      "area_id": "70",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream_-_conservatives",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "e7ad85a8-5ad9-44f1-b5e6-127070d1352e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/mukhran-vakhtangadze"
         }
       ]
     },
@@ -8826,6 +11822,44 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "eb5b0320-8c6f-40ab-b0f1-1c5e5c334382",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/sopio-kiladze"
+        }
+      ]
+    },
+    {
+      "area_id": "47",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "eb689aa6-6fda-4c89-a2f2-cd70d358b759",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/genadi-margvelashvili"
+        }
+      ]
+    },
+    {
+      "area_id": "4",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "ec6e2c65-904d-4a1d-941a-2a90906197c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/mamuka-mdinaradze"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream_-_national_forum",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8834,6 +11868,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/440/shalva-kiknavelize/"
+        }
+      ]
+    },
+    {
+      "area_id": "52",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "efba708e-6ba8-46d5-8ab9-bc6b80f6486e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/shalva-kiknavelidze"
+        }
+      ]
+    },
+    {
+      "area_id": "23",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f13a9e60-20ae-4e77-8ad5-cd3b2f870161",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/roman-muchiashvili"
         }
       ]
     },
@@ -8850,6 +11910,31 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_united_national_movement",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f284e4e1-7f8e-4e3b-8eab-477f60a62894",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/koba-nakopia"
+        }
+      ]
+    },
+    {
+      "area_id": "area/party_list",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f308bb1a-24d0-4f76-ac7b-03fb5c858817",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/isko-daseni"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_georgian_dream",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8858,6 +11943,32 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/480/davit-saganelidze/"
+        }
+      ]
+    },
+    {
+      "area_id": "31",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f371b5c4-ba63-47c5-973c-0d60bc6002cb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/savalan-mirzoevi"
+        }
+      ]
+    },
+    {
+      "area_id": "49",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/faction_\"the_georgian_dream_-_social-democrats\"",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f380cc91-93e9-4366-b898-e2f073020444",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/koba-narchemashvili"
         }
       ]
     },
@@ -8875,6 +11986,57 @@
       ]
     },
     {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f43412f9-7c1e-468f-935e-b463ee55fcca",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/svetlana-kudba"
+        }
+      ]
+    },
+    {
+      "area_id": "2",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f531f4ff-2acc-4dbe-94b4-0d6b2fe7a6f6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/bidzina-gegidze"
+        }
+      ]
+    },
+    {
+      "area_id": "62",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f5e3a5a8-8f0b-4b3a-8e8c-3ad7af737877",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/otari-danelia"
+        }
+      ]
+    },
+    {
+      "area_id": "54",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f60def96-889d-4b70-8c0c-111fa936a7bc",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/grigor-liluashvili"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/the_united_national_movement",
       "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
@@ -8883,6 +12045,18 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/487/koba-subeliani/"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f793db79-eadc-4fa7-9a68-a1721c653bc2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/david-matikashvili"
         }
       ]
     },
@@ -8909,6 +12083,19 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/493/gedevan-popxaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "45",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "f828c10e-3556-47fd-a9f6-fe960206163a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/gedevan-popkhadze"
         }
       ]
     },
@@ -8946,6 +12133,31 @@
       "sources": [
         {
           "url": "http://www.chemiparlamenti.ge/en/who/representative/403/anzor-bolkvaze/"
+        }
+      ]
+    },
+    {
+      "area_id": "73",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/the_georgian_dream",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "fbc2023d-3122-44b7-aa0e-534e55bbb0f5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/anzor-bolkvadze"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/patriots_of_georgia",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "person_id": "fd5476cc-6ca5-4553-a34d-fafffc2630c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.chemiparlamenti.ge/en/parliamentarian/giorgi-lomia"
         }
       ]
     }
@@ -9094,9 +12306,367 @@
       ],
       "name": "Georgian parliamentary election, 2016",
       "start_date": "2016-10-08"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/9",
+      "identifiers": [
+        {
+          "identifier": "Q29583572",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "9th Convocation",
+      "organization_id": "a2f5a173-89e1-4eae-99f1-b1626a6f272f",
+      "start_date": "2016-11-18"
     }
   ],
   "areas": [
+    {
+      "id": "1",
+      "name": "#1 Mtatsminda",
+      "type": "constituency"
+    },
+    {
+      "id": "10",
+      "name": "#10 ისანი",
+      "type": "constituency"
+    },
+    {
+      "id": "11",
+      "name": "#11 ისანი",
+      "type": "constituency"
+    },
+    {
+      "id": "12",
+      "name": "#12 ისანი",
+      "type": "constituency"
+    },
+    {
+      "id": "13",
+      "name": "#13 ისანი",
+      "type": "constituency"
+    },
+    {
+      "id": "14",
+      "name": "#14 ჩუღურეთი",
+      "type": "constituency"
+    },
+    {
+      "id": "15",
+      "name": "#15 დიდუბე",
+      "type": "constituency"
+    },
+    {
+      "id": "18",
+      "name": "#18 ნაძალადევი",
+      "type": "constituency"
+    },
+    {
+      "id": "19",
+      "name": "#19 ნაძალადევი",
+      "type": "constituency"
+    },
+    {
+      "id": "2",
+      "name": "#2 ვაკე",
+      "type": "constituency"
+    },
+    {
+      "id": "21",
+      "name": "#21 Gldani",
+      "type": "constituency"
+    },
+    {
+      "id": "22",
+      "name": "#22 Gldani",
+      "type": "constituency"
+    },
+    {
+      "id": "23",
+      "name": "#23 Sagarejo",
+      "type": "constituency"
+    },
+    {
+      "id": "24",
+      "name": "#24 Gurjaani",
+      "type": "constituency"
+    },
+    {
+      "id": "25",
+      "name": "#25 Sighnaghi",
+      "type": "constituency"
+    },
+    {
+      "id": "26",
+      "name": "#26 Lagodekhi",
+      "type": "constituency"
+    },
+    {
+      "id": "27",
+      "name": "#27 Telavi",
+      "type": "constituency"
+    },
+    {
+      "id": "28",
+      "name": "#28 Akhmeta",
+      "type": "constituency"
+    },
+    {
+      "id": "29",
+      "name": "#29 Rustavi",
+      "type": "constituency"
+    },
+    {
+      "id": "3",
+      "name": "#3 Vake",
+      "type": "constituency"
+    },
+    {
+      "id": "30",
+      "name": "#30 რუსთავი",
+      "type": "constituency"
+    },
+    {
+      "id": "31",
+      "name": "#31 Gardabani",
+      "type": "constituency"
+    },
+    {
+      "id": "32",
+      "name": "#32 Tetritskaro",
+      "type": "constituency"
+    },
+    {
+      "id": "33",
+      "name": "#33 Bolnisi",
+      "type": "constituency"
+    },
+    {
+      "id": "34",
+      "name": "#34 Dmanisi",
+      "type": "constituency"
+    },
+    {
+      "id": "35",
+      "name": "#35 Marneuli",
+      "type": "constituency"
+    },
+    {
+      "id": "36",
+      "name": "#36 Marneuli",
+      "type": "constituency"
+    },
+    {
+      "id": "37",
+      "name": "#37 Mtskheta",
+      "type": "constituency"
+    },
+    {
+      "id": "38",
+      "name": "#38 Dusheti",
+      "type": "constituency"
+    },
+    {
+      "id": "39",
+      "name": "#39 Kaspi",
+      "type": "constituency"
+    },
+    {
+      "id": "4",
+      "name": "#4 საბურთალო",
+      "type": "constituency"
+    },
+    {
+      "id": "41",
+      "name": "#41 Gori",
+      "type": "constituency"
+    },
+    {
+      "id": "42",
+      "name": "#42 Gori",
+      "type": "constituency"
+    },
+    {
+      "id": "43",
+      "name": "#43 Khashuri",
+      "type": "constituency"
+    },
+    {
+      "id": "44",
+      "name": "#44 Akhaltsikhe",
+      "type": "constituency"
+    },
+    {
+      "id": "45",
+      "name": "#45 Borjomi",
+      "type": "constituency"
+    },
+    {
+      "id": "46",
+      "name": "#46 Akhalkalaki",
+      "type": "constituency"
+    },
+    {
+      "id": "47",
+      "name": "#47 Kutaisi",
+      "type": "constituency"
+    },
+    {
+      "id": "48",
+      "name": "#48 Kutaisi",
+      "type": "constituency"
+    },
+    {
+      "id": "49",
+      "name": "#49 Kutaisi",
+      "type": "constituency"
+    },
+    {
+      "id": "5",
+      "name": "#5 საბურთალო",
+      "type": "constituency"
+    },
+    {
+      "id": "50",
+      "name": "#50 Terjola",
+      "type": "constituency"
+    },
+    {
+      "id": "51",
+      "name": "#51 Bagdati",
+      "type": "constituency"
+    },
+    {
+      "id": "52",
+      "name": "#52 Zestaponi",
+      "type": "constituency"
+    },
+    {
+      "id": "53",
+      "name": "#53 Sachkhere",
+      "type": "constituency"
+    },
+    {
+      "id": "54",
+      "name": "#54 Vani",
+      "type": "constituency"
+    },
+    {
+      "id": "55",
+      "name": "#55 Samtredia",
+      "type": "constituency"
+    },
+    {
+      "id": "56",
+      "name": "#56 Chiatura",
+      "type": "constituency"
+    },
+    {
+      "id": "57",
+      "name": "#57 Tskaltubo",
+      "type": "constituency"
+    },
+    {
+      "id": "58",
+      "name": "#58 Ambrolauri",
+      "type": "constituency"
+    },
+    {
+      "id": "59",
+      "name": "#59 Ozurgeti",
+      "type": "constituency"
+    },
+    {
+      "id": "6",
+      "name": "#6 საბურთალო",
+      "type": "constituency"
+    },
+    {
+      "id": "60",
+      "name": "#60 Lanchkhuti",
+      "type": "constituency"
+    },
+    {
+      "id": "61",
+      "name": "#61 Poti",
+      "type": "constituency"
+    },
+    {
+      "id": "62",
+      "name": "#62 Martvili",
+      "type": "constituency"
+    },
+    {
+      "id": "63",
+      "name": "#63 Senaki",
+      "type": "constituency"
+    },
+    {
+      "id": "64",
+      "name": "#64 Khobi",
+      "type": "constituency"
+    },
+    {
+      "id": "65",
+      "name": "#65 Zugdidi",
+      "type": "constituency"
+    },
+    {
+      "id": "66",
+      "name": "#66 Zugdidi",
+      "type": "constituency"
+    },
+    {
+      "id": "67",
+      "name": "#67 Tsalenjikha",
+      "type": "constituency"
+    },
+    {
+      "id": "68",
+      "name": "#68 Batumi",
+      "type": "constituency"
+    },
+    {
+      "id": "69",
+      "name": "#69 Batumi",
+      "type": "constituency"
+    },
+    {
+      "id": "7",
+      "name": "#7 კრწანისი",
+      "type": "constituency"
+    },
+    {
+      "id": "70",
+      "name": "#70 Batumi",
+      "type": "constituency"
+    },
+    {
+      "id": "71",
+      "name": "#71 Kobuleti",
+      "type": "constituency"
+    },
+    {
+      "id": "72",
+      "name": "#72 Khelvachauri",
+      "type": "constituency"
+    },
+    {
+      "id": "73",
+      "name": "#73 Khulo",
+      "type": "constituency"
+    },
+    {
+      "id": "8",
+      "name": "#8 ისანი",
+      "type": "constituency"
+    },
+    {
+      "id": "9",
+      "name": "#9 ისანი",
+      "type": "constituency"
+    },
     {
       "id": "area/adigeni",
       "name": "Adigeni",
@@ -9270,6 +12840,11 @@
     {
       "id": "area/ozurgeti",
       "name": "Ozurgeti",
+      "type": "constituency"
+    },
+    {
+      "id": "area/party_list",
+      "name": "Party List",
       "type": "constituency"
     },
     {
