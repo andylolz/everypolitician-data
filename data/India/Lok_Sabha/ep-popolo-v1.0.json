@@ -23728,6 +23728,9 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/7.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Narendra_Modi_addressed_a_large_rally_in_Gorakhpur.jpg"
         }
       ],
       "links": [
@@ -33026,6 +33029,7 @@
           "value": "vkhanna@sansad.nic.in"
         }
       ],
+      "death_date": "2017-04-27",
       "email": "vkhanna@sansad.nic.in",
       "gender": "male",
       "given_name": "Vinod",
@@ -33056,6 +33060,10 @@
           "scheme": "isni"
         },
         {
+          "identifier": "236174",
+          "scheme": "kinopoisk"
+        },
+        {
           "identifier": "40578247",
           "scheme": "nla"
         },
@@ -33078,6 +33086,22 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فينود_خانا"
+        },
+        {
+          "note": "Wikipedia (as)",
+          "url": "https://as.wikipedia.org/wiki/বিনোদ_খান্না"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/বিনোদ_খান্না"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vinod_Khanna"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Vinod_Khanna"
@@ -33103,12 +33127,20 @@
           "url": "https://hy.wikipedia.org/wiki/Վինոդ_Կհաննա"
         },
         {
+          "note": "Wikipedia (kn)",
+          "url": "https://kn.wikipedia.org/wiki/ವಿನೋದ್_ಖನ್ನಾ"
+        },
+        {
           "note": "Wikipedia (ml)",
           "url": "https://ml.wikipedia.org/wiki/വിനോദ്_ഖന്ന"
         },
         {
           "note": "Wikipedia (mr)",
           "url": "https://mr.wikipedia.org/wiki/विनोद_खन्ना"
+        },
+        {
+          "note": "Wikipedia (pa)",
+          "url": "https://pa.wikipedia.org/wiki/ਵਿਨੋਦ_ਖੰਨਾ"
         },
         {
           "note": "Wikipedia (pl)",
@@ -33123,12 +33155,20 @@
           "url": "https://si.wikipedia.org/wiki/විනෝද්_කන්නා"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Vinod_Khanna"
+        },
+        {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/வினோத்_கண்ணா"
         },
         {
           "note": "Wikipedia (te)",
           "url": "https://te.wikipedia.org/wiki/వినోద్_ఖన్నా"
+        },
+        {
+          "note": "Wikipedia (vep)",
+          "url": "https://vep.wikipedia.org/wiki/Hanna_Vinod"
         }
       ],
       "name": "Khanna, Shri Vinod",
@@ -55898,6 +55938,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Shatrughan_Sinha"
         },
         {
+          "note": "Wikipedia (dty)",
+          "url": "https://dty.wikipedia.org/wiki/शत्रुघन_सिन्हा"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Shatrughan_Sinha"
         },
@@ -61367,6 +61411,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -61684,6 +61733,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
