@@ -6,6 +6,21 @@
       "type": "membership"
     },
     {
+      "file": "morph/chemiparlamenti.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/georgia-chemiparlamenti",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "source": "http://www.chemiparlamenti.ge/",
+      "type": "membership",
+      "merge": {
+        "incoming_field": "id",
+        "existing_field": "id",
+        "reconciliation_file": "reconciliation/chemiparlamenti.csv"
+      }
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
