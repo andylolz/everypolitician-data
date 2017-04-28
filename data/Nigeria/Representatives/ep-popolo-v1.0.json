@@ -2545,10 +2545,15 @@
       "birth_date": "1968-08-26",
       "contact_details": [
         {
+          "type": "email",
+          "value": "lawalyahaya001@yahoo.com"
+        },
+        {
           "type": "phone",
           "value": "08058031250"
         }
       ],
+      "email": "lawalyahaya001@yahoo.com",
       "id": "3e4fe02e-cdf8-4c5e-b88d-355cb886fb56",
       "identifiers": [
         {
@@ -5496,10 +5501,15 @@
       "birth_date": "1969-07-14",
       "contact_details": [
         {
+          "type": "email",
+          "value": "nasirubaballe@yahoo.com"
+        },
+        {
           "type": "phone",
           "value": "08037011938"
         }
       ],
+      "email": "nasirubaballe@yahoo.com",
       "id": "8010d5b9-a35e-4b8b-bbf9-74cdd1507c4b",
       "identifiers": [
         {
@@ -6588,10 +6598,15 @@
       "birth_date": "1957-06-01",
       "contact_details": [
         {
+          "type": "email",
+          "value": "okuwdi@yahoo.com"
+        },
+        {
           "type": "phone",
           "value": "08133204193"
         }
       ],
+      "email": "okuwdi@yahoo.com",
       "id": "9732b1be-0b73-4d5b-9106-ae55e5a55eb2",
       "identifiers": [
         {
@@ -6761,11 +6776,11 @@
       "name": "BASHIR BABALE",
       "other_names": [
         {
-          "name": "BABALE BASHIR",
+          "name": "BASHIR BABALE",
           "note": "alternate"
         },
         {
-          "name": "BASHIR BABALE",
+          "name": "Baballe Bashir",
           "note": "alternate"
         }
       ]
@@ -7312,10 +7327,15 @@
       "birth_date": "1953-09-28",
       "contact_details": [
         {
+          "type": "email",
+          "value": "jyagbaso@yahoo.com"
+        },
+        {
           "type": "phone",
           "value": "08177208333"
         }
       ],
+      "email": "jyagbaso@yahoo.com",
       "gender": "male",
       "id": "a526c57d-09d5-4230-97fd-f1cf98b359dc",
       "identifiers": [
@@ -9264,6 +9284,13 @@
     },
     {
       "birth_date": "1960-10-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jagba.adams@yahoo.com"
+        }
+      ],
+      "email": "jagba.adams@yahoo.com",
       "id": "d0ca0091-8bde-4f07-aa4c-ad6c7f2506ea",
       "identifiers": [
         {
@@ -12115,6 +12142,13 @@
     },
     {
       "birth_date": "1965-01-15",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mun@yahoo.com"
+        }
+      ],
+      "email": "mun@yahoo.com",
       "id": "fb99f755-dd6b-4192-b503-fbafe5053ea4",
       "identifiers": [
         {
@@ -12142,7 +12176,7 @@
           "note": "alternate"
         },
         {
-          "name": "MUHTARI MUHAMMAD CHIROMAWA",
+          "name": "MUKHTARI MUHAMMAD CHIROMAWA",
           "note": "alternate"
         }
       ]
