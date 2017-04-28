@@ -4651,6 +4651,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Жозефина Топали",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Jozefina Topalli",
           "note": "multilingual"
@@ -13863,6 +13868,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مثيلا_دودا"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mesila_Doda"
         },
@@ -14601,6 +14610,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -14918,6 +14932,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
