@@ -4,7 +4,7 @@
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
-        "scraper": "davewhiteland/thailand-national-assembly",
+        "scraper": "everypolitician-scrapers/thailand-national-assembly",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://www.senate.go.th/",
