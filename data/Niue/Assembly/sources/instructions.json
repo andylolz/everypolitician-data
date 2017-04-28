@@ -1,7 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/gov.nu.csv",
+      "file": "morph/official.csv",
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/niue-assembly",
