@@ -9467,6 +9467,9 @@
       "images": [
         {
           "url": "http://www.parliament.go.ug/mpdata/pics/9parl/KATAAHA431.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Janet_Museveni.jpg"
         }
       ],
       "links": [
@@ -24370,6 +24373,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -24687,6 +24695,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
@@ -33751,7 +33764,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2011",
+      "end_date": "2011-02-18",
       "id": "Q1164175",
       "identifiers": [
         {
@@ -33760,7 +33773,7 @@
         }
       ],
       "name": "Ugandan general election, 2011",
-      "start_date": "2011"
+      "start_date": "2011-02-18"
     },
     {
       "classification": "legislative period",

@@ -59,8 +59,10 @@
       }
     ],
     "dates": [
-      "2011"
-    ]
+      "2011-02-18"
+    ],
+    "followed_by": "Ugandan general election, 2016",
+    "office": "Member of the Parliament of Uganda"
   },
   "Q1553721": {
     "identifiers": [
@@ -306,6 +308,7 @@
     "dates": [
       "2016-02-18"
     ],
-    "follows": "Ugandan general election, 2011"
+    "follows": "Ugandan general election, 2011",
+    "office": "Member of the Parliament of Uganda"
   }
 }
