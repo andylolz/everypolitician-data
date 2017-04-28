@@ -11,6 +11,11 @@
       "type": "membership"
     },
     {
+      "file": "archive/vanished.csv",
+      "source": "http://www.senate.go.th/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
