@@ -5516,8 +5516,16 @@
       "id": "159c9a13-20ea-4ca9-890a-cc7c4df44051",
       "identifiers": [
         {
+          "identifier": "1089519265",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "4197",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "1462145856951922920534",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q20192072",
