@@ -30,11 +30,17 @@
       "type": "term"
     },
     {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
+      "file": "morph/genderbalance.csv",
       "create": {
-        "from": "gender-balance",
-        "source": "Namibia/Assembly"
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/namibia-assembly-gender-balance",
+        "query": "SELECT uuid, gender FROM data ORDER BY uuid"
+      },
+      "source": "http://gender-balance.org/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "uuid",
+        "existing_field": "uuid"
       }
     },
     {
