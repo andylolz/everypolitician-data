@@ -19369,6 +19369,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ليليا_هرينيفيش"
+        },
+        {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Лілія_Міхайлаўна_Грыневіч"
         },
@@ -19411,6 +19415,11 @@
       ],
       "name": "Гриневич Лілія Михайлівна",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ليليا هرينيفيش",
+          "note": "multilingual"
+        },
         {
           "lang": "be",
           "name": "Лілія Міхайлаўна Грыневіч",
