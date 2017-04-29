@@ -873,6 +873,13 @@
     },
     {
       "birth_date": "1970-12-12",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "u.ekwunife@yahoo.com"
+        }
+      ],
+      "email": "u.ekwunife@yahoo.com",
       "id": "2d19dc00-2a3d-48a4-9373-f05e3fec46c9",
       "identifiers": [
         {
@@ -5132,14 +5139,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "drsamominyiegwu@haoo.com.ss"
+          "value": "drsamominyiegwu@yahoo.com"
         },
         {
           "type": "phone",
           "value": "08039665848"
         }
       ],
-      "email": "drsamominyiegwu@haoo.com.ss",
+      "email": "drsamominyiegwu@yahoo.com",
       "id": "e5f73d13-00b5-4dd3-98b4-3ad8b72be43e",
       "identifiers": [
         {
