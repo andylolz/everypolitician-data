@@ -278,10 +278,12 @@
       }
     ],
     "dates": [
-      "2012"
+      "2012-07-01"
     ],
     "follows": "Senegalese parliamentary election, 2007",
-    "followed_by": "Senegalese parliamentary election, 2017"
+    "followed_by": "Senegalese parliamentary election, 2017",
+    "eligible_voters": "5368783",
+    "ballots_cast": "1968852"
   },
   "Q3587251": {
     "identifiers": [
@@ -309,6 +311,11 @@
       {
         "lang": "de",
         "name": "Parlamentswahlen Senegal 2007",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Senegal del 2007",
         "note": "multilingual"
       },
       {
