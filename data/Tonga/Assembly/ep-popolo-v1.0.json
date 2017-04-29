@@ -103,6 +103,10 @@
           "url": "https://tr.wikipedia.org/wiki/ʻAkilisi_Pōhiva"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Акілісі_Погіва"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/阿基利西·波希瓦"
         }
@@ -226,6 +230,11 @@
         {
           "lang": "tr",
           "name": "Akilisi Pohiva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Акілісі Погіва",
           "note": "multilingual"
         },
         {
