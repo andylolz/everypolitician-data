@@ -72,7 +72,30 @@
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
-      "title": "Member of the House of Representatives of the Philippines"
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2001-06-30",
+        "P582": "2004-06-30",
+        "P1366": "Jose Emmanuel Carlos"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18002923",
+      "label": "Member of the House of Representatives of the Philippines",
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2013-06-30",
+        "P582": "2016-06-30",
+        "P1365": "Rexlon Gatchalian"
+      }
     }
   ],
   "Q4776725": [
@@ -121,7 +144,19 @@
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
-      "title": "Member of the House of Representatives of the Philippines"
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2010-06-30",
+        "P582": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30"
+      }
     }
   ],
   "Q5491304": [
@@ -188,7 +223,7 @@
         "P580": "1998-06-30",
         "P582": "2001-01-20",
         "P1365": "Joseph Estrada",
-        "P1366": "Teofisto Guingona"
+        "P1366": "Teofisto Guingona Jr."
       }
     },
     {
@@ -303,7 +338,19 @@
     {
       "id": "Q18579098",
       "label": "Member of the Senate of the Philippines",
-      "title": "Member of the Senate of the Philippines"
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2004-06-30",
+        "P582": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18002923",
+      "label": "Member of the House of Representatives of the Philippines",
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30"
+      }
     }
   ],
   "Q19960435": [
@@ -616,7 +663,20 @@
     {
       "id": "Q18579098",
       "label": "Member of the Senate of the Philippines",
-      "title": "Member of the Senate of the Philippines"
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "1992-06-30",
+        "P582": "1995-06-30"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "1998-06-30",
+        "P582": "2010-06-30"
+      }
     }
   ],
   "Q7377943": [
