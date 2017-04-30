@@ -34528,7 +34528,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "OLR%c3%98",
+          "identifier": "OLR_O",
           "scheme": "storting"
         },
         {
@@ -84660,6 +84660,10 @@
           "url": "https://eo.wikipedia.org/wiki/Kaci_Kullmann_Five"
         },
         {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kaci_Kullmann_Five"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Kaci_Kullmann_Five"
         },
@@ -92537,6 +92541,10 @@
         {
           "identifier": "98002256",
           "scheme": "bibsys"
+        },
+        {
+          "identifier": "biography/Erna-Solberg",
+          "scheme": "britannica"
         },
         {
           "identifier": "ES",
