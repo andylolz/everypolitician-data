@@ -635,6 +635,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "2a034e98-7864-4cf8-8243-d49e32ef1655",
       "identifiers": [
         {
@@ -3680,6 +3681,10 @@
         {
           "note": "Wikipedia (azwikiquote)",
           "url": "https://azwikiquote.wikipedia.org/wiki/Zeynəb_Xanlarova"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Зейнаб_Ханларова"
         },
         {
           "note": "Wikipedia (cs)",
