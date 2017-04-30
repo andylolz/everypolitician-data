@@ -1,25 +1,25 @@
 {
   "people": {
-    "count": 289,
+    "count": 338,
     "wikidata": 70,
     "latest_term": {
-      "count": 172,
-      "wikidata": 45,
+      "count": 151,
+      "wikidata": 32,
       "contacts": {
         "email": 0,
-        "facebook": 2,
-        "twitter": 12
+        "facebook": 1,
+        "twitter": 10
       }
     }
   },
   "groups": {
-    "count": 32,
+    "count": 35,
     "wikidata": 28
   },
   "terms": {
-    "count": 2,
-    "latest": "2015-12-28",
-    "wikidata": 2
+    "count": 3,
+    "latest": "2016-10-14",
+    "wikidata": 3
   },
   "areas": {
     "count": 12,
