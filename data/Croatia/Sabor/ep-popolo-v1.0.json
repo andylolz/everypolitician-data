@@ -21399,6 +21399,12 @@
       "classification": "legislative period",
       "end_date": "2015-09-28",
       "id": "term/7",
+      "identifiers": [
+        {
+          "identifier": "Q29626073",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "7th Assembly",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "start_date": "2011-12-22"
@@ -21420,6 +21426,12 @@
       "classification": "legislative period",
       "end_date": "2016-07-15",
       "id": "term/8",
+      "identifiers": [
+        {
+          "identifier": "Q29626078",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "8th Assembly",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
       "start_date": "2015-12-28"
