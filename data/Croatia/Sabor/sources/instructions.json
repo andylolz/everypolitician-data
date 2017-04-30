@@ -6,7 +6,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
-        "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, end_date, source FROM data WHERE term = 7 ORDER BY id"
+        "query": "SELECT id, name, image, party, birth_date, constituency, term, start_date, end_date, source FROM data WHERE term = 7 ORDER BY id"
       },
       "type": "membership"
     },
@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/croatia-parliament",
-        "query": "SELECT id, name, sortname, image, party, birth_date, constituency, term, start_date, end_date, source FROM data WHERE term = 8 ORDER BY id"
+        "query": "SELECT id, name, image, party, birth_date, constituency, term, start_date, end_date, source FROM data WHERE term = 8 ORDER BY id"
       },
       "source": "http://www.sabor.hr",
       "merge": {
