@@ -11519,6 +11519,10 @@
           "scheme": "kuvendi"
         },
         {
+          "identifier": "58738541",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q727132",
           "scheme": "wikidata"
         }
@@ -11529,7 +11533,7 @@
           "url": "https://www.parlament.al/wp-content/uploads/sites/4/2015/12/Kryetari_OK_Gri.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ilir_Meta_detail,_000824-D-9880W-002.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ilir_Meta,_Foto.jpg"
         }
       ],
       "links": [
@@ -11566,12 +11570,20 @@
           "url": "https://gl.wikipedia.org/wiki/Ilir_Meta"
         },
         {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Ilir_Meta"
+        },
+        {
           "note": "Wikipedia (io)",
           "url": "https://io.wikipedia.org/wiki/Ilir_Meta"
         },
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Ilir_Meta"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ilir_Meta"
         },
         {
           "note": "Wikipedia (oc)",
@@ -11674,6 +11686,11 @@
         {
           "lang": "ja",
           "name": "イリル・メタ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Ilir Meta",
           "note": "multilingual"
         },
         {
@@ -13886,6 +13903,10 @@
         {
           "note": "Wikipedia (ml)",
           "url": "https://ml.wikipedia.org/wiki/മെസില_ദോദ"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дода,_Месила"
         },
         {
           "note": "Wikipedia (sq)",
