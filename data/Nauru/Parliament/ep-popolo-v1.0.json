@@ -1524,6 +1524,10 @@
           "url": "https://ar.wikipedia.org/wiki/بارون_واكا"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Baron_Waqa"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Baron_Waqa"
         },
@@ -1558,6 +1562,10 @@
         {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/בארון_ואקה"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Baron_Waqa"
         },
         {
           "note": "Wikipedia (it)",
@@ -1625,6 +1633,11 @@
         {
           "lang": "ar",
           "name": "بارون واكا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Baron Waqa",
           "note": "multilingual"
         },
         {
