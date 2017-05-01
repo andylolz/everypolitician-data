@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "gender": "male",
       "id": "03198a22-8864-446e-9490-2b9550f5c359",
       "identifiers": [
         {
@@ -2404,6 +2405,7 @@
       ]
     },
     {
+      "gender": "female",
       "id": "6ee88e7d-7303-4f26-89a6-b212918c48be",
       "identifiers": [
         {
