@@ -1657,6 +1657,7 @@
     },
     {
       "birth_date": "1975-08-19",
+      "gender": "female",
       "id": "47b79dad-e854-4429-b9cc-8a0042e2ad30",
       "identifiers": [
         {
@@ -7262,7 +7263,8 @@
   "meta": {
     "sources": [
       "http://www.parliament.gh",
-      "http://wikidata.org/"
+      "http://wikidata.org/",
+      "http://gender-balance.org/"
     ]
   },
   "memberships": [
