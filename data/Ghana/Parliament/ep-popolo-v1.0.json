@@ -2102,6 +2102,10 @@
         {
           "identifier": "61",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28606407",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gh/userfiles/mps/251_AMEYAW_CHEREMEH_KWASI.jpg",
@@ -2110,7 +2114,25 @@
           "url": "http://www.parliament.gh/userfiles/mps/251_AMEYAW_CHEREMEH_KWASI.jpg"
         }
       ],
-      "name": "Kwasi Ameyaw-Cheremeh"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kwasi_Ameyaw-Cheremeh"
+        }
+      ],
+      "name": "Kwasi Ameyaw-Cheremeh",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Kwasi Ameyaw-Cheremeh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kwasi Ameyaw-Cheremeh",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-06-19",
