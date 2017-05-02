@@ -52,11 +52,24 @@
       "birth_date": "1955-10-07",
       "family_name": "Li",
       "gender": "male",
+      "given_name": "Thomas",
       "id": "051643c4-1db1-49aa-9c07-12e5b5756ab0",
       "identifiers": [
         {
           "identifier": "00021",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "no2004066835",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "000002825",
+          "scheme": "ncl"
+        },
+        {
+          "identifier": "41549708",
+          "scheme": "nla"
         },
         {
           "identifier": "Q9031661",
@@ -78,6 +91,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Li_Tong-hao"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thomas_Lee_(Taiwanese_politician)"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/李桐豪"
         }
@@ -90,7 +107,7 @@
         },
         {
           "lang": "en",
-          "name": "Lee Tung-hao",
+          "name": "Thomas Lee",
           "note": "multilingual"
         },
         {
