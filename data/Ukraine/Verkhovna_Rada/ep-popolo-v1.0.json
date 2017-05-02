@@ -28480,6 +28480,12 @@
     },
     {
       "birth_date": "1972-03-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "borysfilatov"
+        }
+      ],
       "family_name": "Філатов",
       "gender": "male",
       "given_name": "Борис",
@@ -28542,7 +28548,15 @@
         },
         {
           "note": "facebook",
-          "url": "https://facebook.com/borys.filatov"
+          "url": "https://facebook.com/100002157183088"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/borysfilatov"
+        },
+        {
+          "note": "website",
+          "url": "http://borysfilatov.com"
         }
       ],
       "name": "Філатов Борис Альбертович",
@@ -36305,6 +36319,11 @@
         {
           "lang": "ru",
           "name": "БПП",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αλληλεγγύη",
           "note": "multilingual"
         }
       ]
