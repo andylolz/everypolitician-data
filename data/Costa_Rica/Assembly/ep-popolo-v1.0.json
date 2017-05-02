@@ -2743,6 +2743,9 @@
       "images": [
         {
           "url": "http://www.asamblea.go.cr/Diputadas_Diputados/Fotografas%20diputados%20y%20diputadas/2014%20-%202018/ac_morales_zapata.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Victor_Morales_Zapata,_PAC_-_Costa_Rica.jpg"
         }
       ],
       "links": [
@@ -3140,6 +3143,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Партия национального освобождения",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Partei der Nationalen Befreiung",
           "note": "multilingual"
@@ -3199,7 +3207,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.movimientolibertario.com"
+          "url": "http://www.movimientolibertario.co.cr/"
         }
       ],
       "name": "Movimiento Libertario",
