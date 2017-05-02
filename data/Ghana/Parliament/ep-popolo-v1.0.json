@@ -1553,6 +1553,7 @@
     {
       "birth_date": "1970-07-12",
       "gender": "female",
+      "given_name": "Gifty",
       "id": "4262f7fe-d4c0-4a6f-a861-072fed8383a6",
       "identifiers": [
         {
@@ -3047,6 +3048,7 @@
       ],
       "email": "megafaps@yahoo.com",
       "gender": "female",
+      "given_name": "Freda",
       "id": "7d77be7d-00bf-4216-806f-afc9fa664880",
       "identifiers": [
         {
@@ -6503,7 +6505,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -6528,7 +6530,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -6704,6 +6706,11 @@
         {
           "lang": "mk",
           "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "бәйсез",
           "note": "multilingual"
         },
         {
@@ -7014,6 +7021,21 @@
         {
           "lang": "mk",
           "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]

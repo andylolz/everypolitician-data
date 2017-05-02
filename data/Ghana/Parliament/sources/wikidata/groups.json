@@ -434,7 +434,7 @@
       },
       {
         "lang": "ru",
-        "name": "беспартийный",
+        "name": "независимый",
         "note": "multilingual"
       },
       {
@@ -459,7 +459,7 @@
       },
       {
         "lang": "ca",
-        "name": "Independent",
+        "name": "polític independent",
         "note": "multilingual"
       },
       {
@@ -635,6 +635,11 @@
       {
         "lang": "mk",
         "name": "независен политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "бәйсез",
         "note": "multilingual"
       },
       {
@@ -945,6 +950,21 @@
       {
         "lang": "mk",
         "name": "непартиски политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "независимый политик",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "беспартийный",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "фиркасез",
         "note": "multilingual"
       }
     ]
