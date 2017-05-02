@@ -19,7 +19,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives et présidentielle haïtiennes de 2010-2011",
+        "name": "élections législatives et présidentielle haïtiennes de 2010-2011",
         "note": "multilingual"
       },
       {
@@ -113,7 +113,7 @@
     ],
     "follows": "Haitian general election, 2006",
     "followed_by": "Haitian presidential election, 2015",
-    "office": "president",
+    "office": "President of Haiti",
     "successful_candidates": [
       "Michel Martelly"
     ]
@@ -128,7 +128,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections générales de 2006 à Haïti",
+        "name": "élections générales de 2006 à Haïti",
         "note": "multilingual"
       },
       {
@@ -187,7 +187,7 @@
     ],
     "follows": "Haitian presidential election, 2000",
     "followed_by": "Haitian general election 2010/2011",
-    "office": "president",
+    "office": "President of Haiti",
     "successful_candidates": [
       "René Préval"
     ]
@@ -212,7 +212,12 @@
       },
       {
         "lang": "fr",
-        "name": "Élection présidentielle haïtienne de 1957",
+        "name": "élection présidentielle haïtienne de 1957",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Всеобщие выборы на Гаити",
         "note": "multilingual"
       }
     ],
@@ -230,7 +235,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élection présidentielle haïtienne de 1988",
+        "name": "élection présidentielle haïtienne de 1988",
         "note": "multilingual"
       },
       {
@@ -253,7 +258,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élection présidentielle haïtienne de 1995",
+        "name": "élection présidentielle haïtienne de 1995",
         "note": "multilingual"
       },
       {
@@ -281,7 +286,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections générales de 1990-1991 à Haïti",
+        "name": "élections générales de 1990-1991 à Haïti",
         "note": "multilingual"
       },
       {
@@ -304,7 +309,7 @@
     "other_names": [
       {
         "lang": "fr",
-        "name": "Élections législatives et sénatoriales haïtiennes de 2000",
+        "name": "élections législatives et sénatoriales haïtiennes de 2000",
         "note": "multilingual"
       },
       {
@@ -332,7 +337,12 @@
       },
       {
         "lang": "fr",
-        "name": "Élection présidentielle haïtienne de 1950",
+        "name": "élection présidentielle haïtienne de 1950",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Президентские выборы на Гаити",
         "note": "multilingual"
       }
     ],
@@ -458,12 +468,12 @@
     "other_names": [
       {
         "lang": "en",
-        "name": "Haitian parliamentary election, 2015",
+        "name": "Haitian parliamentary election, 2015–16",
         "note": "multilingual"
       },
       {
         "lang": "fr",
-        "name": "Élections législatives haïtiennes de 2015",
+        "name": "élections législatives haïtiennes de 2015",
         "note": "multilingual"
       },
       {
@@ -504,7 +514,8 @@
     ],
     "dates": [
       "2015-08-09",
-      "2015-10-25"
+      "2015-10-25",
+      "2016-11-20"
     ],
     "follows": "Haitian general election 2010/2011"
   }

@@ -1164,7 +1164,7 @@
         },
         {
           "lang": "ru",
-          "name": "беспартийный",
+          "name": "независимый",
           "note": "multilingual"
         },
         {
@@ -1189,7 +1189,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -1360,6 +1360,16 @@
         {
           "lang": "zh-my",
           "name": "无党籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "бәйсез",
           "note": "multilingual"
         },
         {
@@ -1666,6 +1676,26 @@
           "lang": "sr",
           "name": "ванстраначки политичар",
           "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "непартиски политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "независимый политик",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
+          "note": "multilingual"
         }
       ]
     },
@@ -1693,6 +1723,11 @@
         {
           "lang": "zh",
           "name": "團結聯盟 (海地)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Inite",
           "note": "multilingual"
         },
         {
@@ -3316,7 +3351,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2015-10-25",
+      "end_date": "2016-11-20",
       "id": "Q19881628",
       "identifiers": [
         {
@@ -3324,7 +3359,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Haitian parliamentary election, 2015",
+      "name": "Haitian parliamentary election, 2015–16",
       "start_date": "2015-08-09"
     }
   ],
