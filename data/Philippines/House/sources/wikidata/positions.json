@@ -72,7 +72,30 @@
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
-      "title": "Member of the House of Representatives of the Philippines"
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2001-06-30",
+        "P582": "2004-06-30",
+        "P1366": "Jose Emmanuel Carlos"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18002923",
+      "label": "Member of the House of Representatives of the Philippines",
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2013-06-30",
+        "P582": "2016-06-30",
+        "P1365": "Rexlon Gatchalian"
+      }
     }
   ],
   "Q4776725": [
@@ -121,7 +144,19 @@
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
-      "title": "Member of the House of Representatives of the Philippines"
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2010-06-30",
+        "P582": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30"
+      }
     }
   ],
   "Q5491304": [
@@ -188,7 +223,7 @@
         "P580": "1998-06-30",
         "P582": "2001-01-20",
         "P1365": "Joseph Estrada",
-        "P1366": "Teofisto Guingona"
+        "P1366": "Teofisto Guingona Jr."
       }
     },
     {
@@ -234,6 +269,28 @@
       "id": "Q20670163",
       "label": "ICDB commissioner",
       "title": "ICDB commissioner"
+    },
+    {
+      "id": "Q7444318",
+      "label": "Secretary of National Defense",
+      "title": "Secretary of National Defense",
+      "description": "Cabinet position in The Philippines",
+      "qualifiers": {
+        "P580": "2003-09-01",
+        "P582": "2003-10-02",
+        "P1365": "Angelo Reyes",
+        "P1366": "Eduardo Ermita"
+      }
+    },
+    {
+      "id": "Q5261087",
+      "label": "Deputy Speakers of the House of Representatives of the Philippines",
+      "title": "Deputy Speakers of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2016-08-15",
+        "P582": "2017-03-15",
+        "P1365": "Roberto Puno"
+      }
     }
   ],
   "Q3543566": [
@@ -303,14 +360,52 @@
     {
       "id": "Q18579098",
       "label": "Member of the Senate of the Philippines",
-      "title": "Member of the Senate of the Philippines"
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "2004-06-30",
+        "P582": "2016-06-30"
+      }
+    },
+    {
+      "id": "Q18002923",
+      "label": "Member of the House of Representatives of the Philippines",
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2016-06-30",
+        "P2937": "17th Congress of the Philippines",
+        "P2715": "Philippine House of Representatives elections, 2016",
+        "P102": "Nacionalista Party",
+        "P1365": "Lino Cayetano",
+        "P768": "Legislative district of Taguig"
+      }
     }
   ],
   "Q19960435": [
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
-      "title": "Member of the House of Representatives of the Philippines"
+      "title": "Member of the House of Representatives of the Philippines",
+      "qualifiers": {
+        "P580": "2013-06-30",
+        "P582": "2016-06-30",
+        "P1365": "Sigfrido Tiñga",
+        "P1366": "Pia Cayetano",
+        "P2937": "16th Congress of the Philippines",
+        "P2715": "Philippine House of Representatives elections, 2013",
+        "P102": "Nacionalista Party",
+        "P768": "Legislative district of Taguig"
+      }
+    },
+    {
+      "id": "Q7260481",
+      "label": "Punong Barangay",
+      "title": "Punong Barangay",
+      "description": "elected official in the Philippines",
+      "qualifiers": {
+        "P580": "2010-10-30",
+        "P582": "2013-06-30",
+        "P768": "Fort Bonifacio"
+      }
     }
   ],
   "Q4887876": [
@@ -581,7 +676,27 @@
       "id": "Q3409782",
       "label": "Speaker of the House of Representatives of the Philippines",
       "title": "Speaker of the House of Representatives of the Philippines",
-      "description": "presiding officer of the lower house of Congress"
+      "description": "presiding officer of the lower house of Congress",
+      "qualifiers": {
+        "P580": "2010-07-26",
+        "P582": "2016-07-22",
+        "P1365": "Prospero Nograles",
+        "P1366": "Pantaleon Alvarez",
+        "P2937": "15th Congress of the Philippines"
+      }
+    },
+    {
+      "id": "Q3409782",
+      "label": "Speaker of the House of Representatives of the Philippines",
+      "title": "Speaker of the House of Representatives of the Philippines",
+      "description": "presiding officer of the lower house of Congress",
+      "qualifiers": {
+        "P580": "2001-01-24",
+        "P582": "2001-06-30",
+        "P1365": "Arnulfo Fuentebella",
+        "P1366": "Jose de Venecia",
+        "P2937": "11th Congress of the Philippines"
+      }
     }
   ],
   "Q3550210": [
@@ -616,10 +731,30 @@
     {
       "id": "Q18579098",
       "label": "Member of the Senate of the Philippines",
-      "title": "Member of the Senate of the Philippines"
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "1992-06-30",
+        "P582": "1995-06-30"
+      }
+    },
+    {
+      "id": "Q18579098",
+      "label": "Member of the Senate of the Philippines",
+      "title": "Member of the Senate of the Philippines",
+      "qualifiers": {
+        "P580": "1998-06-30",
+        "P582": "2010-06-30"
+      }
     }
   ],
   "Q7377943": [
+    {
+      "id": "Q18002923",
+      "label": "Member of the House of Representatives of the Philippines",
+      "title": "Member of the House of Representatives of the Philippines"
+    }
+  ],
+  "Q5441063": [
     {
       "id": "Q18002923",
       "label": "Member of the House of Representatives of the Philippines",
