@@ -780,7 +780,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Dzyanis",
+      "given_name": "Gennady",
       "id": "067b94f2-97fa-4534-ba66-f1cb061eaed0",
       "identifiers": [
         {
@@ -1074,7 +1074,7 @@
       "name": "Зюганов Геннадий Андреевич",
       "other_names": [
         {
-          "name": "Геннадий Зюганов",
+          "name": "Геннадий Андреевич Зюганов",
           "note": "alternate"
         },
         {
@@ -1254,7 +1254,7 @@
         },
         {
           "lang": "ru",
-          "name": "Геннадий Зюганов",
+          "name": "Геннадий Андреевич Зюганов",
           "note": "multilingual"
         },
         {
@@ -2667,8 +2667,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Aleksandr Burkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Aleksandr Burkov",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Aleksandr Leonidovitsj Boerkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Aleksandr Burkov",
           "note": "multilingual"
         },
         {
@@ -10840,6 +10855,21 @@
         {
           "name": "Тумусов, Федот Семенович",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Fedot Tumusov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fedot Tumusov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Fedot Tumusov",
+          "note": "multilingual"
         },
         {
           "lang": "ru",
@@ -21525,8 +21555,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Vadim Bulavinov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vadim Bulavinov",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Vadim Evgenevitsj Boelavinov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vadim Bulavinov",
           "note": "multilingual"
         },
         {
@@ -24303,8 +24348,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Nikolay Bulayev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Bulajev",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Nikolay Boelaev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Bulajev",
           "note": "multilingual"
         },
         {
@@ -31839,8 +31899,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Vladimir Burmatov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vladimir Burmatov",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Vladimir Boermatov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vladimir Burmatov",
           "note": "multilingual"
         },
         {
@@ -33796,6 +33871,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Buvajsar Sajtijev",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "Buwajsa Sajtijew",
           "note": "multilingual"
@@ -33860,8 +33940,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Aleksandr Bryksin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Aleksandr Bryksin",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Aleksandr Jurevitsj Briksin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Aleksandr Bryksin",
           "note": "multilingual"
         },
         {
@@ -37156,8 +37251,23 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Viktor Vodolatsky",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Viktor Vodolatskij",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Viktor Petrovitsj Vodolatskiy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Viktor Vodolatskij",
           "note": "multilingual"
         },
         {
@@ -39356,7 +39466,17 @@
         },
         {
           "lang": "en",
-          "name": "Valerij Sergeevich Seleznjov",
+          "name": "Valery Seleznyov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Valerij Seleznjov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Valerij Seleznjov",
           "note": "multilingual"
         },
         {
