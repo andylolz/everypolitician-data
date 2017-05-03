@@ -18021,6 +18021,10 @@
           "value": "Siret.Kotka@riigikogu.ee"
         },
         {
+          "type": "email",
+          "value": "siret.kotka-repinski@riigikogu.ee"
+        },
+        {
           "type": "phone",
           "value": "6316618"
         }
@@ -18071,6 +18075,10 @@
       ],
       "name": "Siret Kotka",
       "other_names": [
+        {
+          "name": "Siret Kotka-Repinski",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Siret Kotka",
@@ -31097,7 +31105,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e6416c11-b0c5-459a-96f9-c9549bbaaa81/Siret-Kotka"
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e6416c11-b0c5-459a-96f9-c9549bbaaa81/Siret-Kotka-Repinski"
         }
       ],
       "start_date": "2014-07-01"
@@ -31111,7 +31119,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e6416c11-b0c5-459a-96f9-c9549bbaaa81/Siret-Kotka"
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/e6416c11-b0c5-459a-96f9-c9549bbaaa81/Siret-Kotka-Repinski"
         }
       ]
     },
