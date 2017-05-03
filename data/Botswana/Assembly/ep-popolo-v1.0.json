@@ -27,11 +27,22 @@
       ]
     },
     {
+      "gender": "male",
       "id": "0532286e-d5d5-4464-b727-425d6dccd007",
       "identifiers": [
         {
           "identifier": "tshenolo_mabeo",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27663663",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tshenolo_Mabeo"
         }
       ],
       "name": "Tshenolo Mabeo",
@@ -39,6 +50,16 @@
         {
           "name": "Hon. Tshenolo Mabeo",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tshenolo Mabeo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tshenolo Mabeo",
+          "note": "multilingual"
         }
       ]
     },
