@@ -11262,6 +11262,13 @@
     },
     {
       "birth_date": "1975-03-25",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Tim.Hammond.MP@aph.gov.au"
+        }
+      ],
+      "email": "Tim.Hammond.MP@aph.gov.au",
       "family_name": "Hammond",
       "gender": "male",
       "given_name": "Tim",
@@ -11290,6 +11297,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Tim_Hammond_(politician)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/timhammondau"
+        },
+        {
+          "note": "website",
+          "url": "http://www.timhammondmp.com"
         }
       ],
       "name": "Tim Hammond",
@@ -34858,7 +34873,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.andrewwilkie.org/content/index.php/aw/home/"
+          "url": "http://www.andrewwilkie.org"
         }
       ],
       "name": "Andrew Wilkie",
