@@ -20,8 +20,8 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "name__bg",
-        "existing_field": "name__bg",
+        "incoming_field": "birth_date",
+        "existing_field": "birth_date",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },

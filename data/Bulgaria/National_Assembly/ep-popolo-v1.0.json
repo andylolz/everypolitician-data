@@ -14354,6 +14354,10 @@
         {
           "identifier": "2480",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q28599139",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2480.png",
@@ -14362,11 +14366,26 @@
           "url": "http://www.parliament.bg/images/Assembly/2480.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Стоян_Тонев"
+        }
+      ],
       "name": "СТОЯН ДИМИТРОВ ТОНЕВ",
       "other_names": [
         {
+          "name": "Стоян Тонев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "СТОЯН ДИМИТРОВ ТОНЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Стоян Тонев",
           "note": "multilingual"
         },
         {
@@ -14696,6 +14715,10 @@
         {
           "identifier": "2555",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q20029939",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2555.png",
@@ -14704,16 +14727,54 @@
           "url": "http://www.parliament.bg/images/Assembly/2555.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Николай_Ненчев"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nikolay_Nenchev"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nikołaj_Nenczew"
+        }
+      ],
       "name": "НИКОЛАЙ НАНКОВ НЕНЧЕВ",
       "other_names": [
+        {
+          "name": "Николай Ненчев",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "НИКОЛАЙ НАНКОВ НЕНЧЕВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Николай Ненчев",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "NIKOLAY NANKOV NENCHEV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Nenchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Nenchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nikołaj Nenczew",
           "note": "multilingual"
         }
       ]
@@ -45736,6 +45797,10 @@
         {
           "identifier": "600",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q28599818",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/600.png",
@@ -45744,16 +45809,41 @@
           "url": "http://www.parliament.bg/images/Assembly/600.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Бойко_Рашков"
+        }
+      ],
       "name": "БОЙКО ИЛИЕВ РАШКОВ",
       "other_names": [
+        {
+          "name": "Бойко Рашков",
+          "note": "alternate"
+        },
         {
           "lang": "bg",
           "name": "БОЙКО ИЛИЕВ РАШКОВ",
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Бойко Рашков",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "BOIKO ILIEV RASHKOV",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Boyko Rashkov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boyko Rashkov",
           "note": "multilingual"
         }
       ]
@@ -48586,6 +48676,10 @@
         {
           "identifier": "1585",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q12282211",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/1585.png",
@@ -48594,11 +48688,26 @@
           "url": "http://www.parliament.bg/images/Assembly/1585.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Йордан_Цонев"
+        }
+      ],
       "name": "ЙОРДАН КИРИЛОВ ЦОНЕВ",
       "other_names": [
         {
+          "name": "Йордан Цонев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЙОРДАН КИРИЛОВ ЦОНЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Йордан Цонев",
           "note": "multilingual"
         },
         {
