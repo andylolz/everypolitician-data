@@ -2735,7 +2735,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.carolinejones.wales"
+          "url": "http://www.carolinejones.wales/"
         }
       ],
       "name": "Caroline Jones",
@@ -10452,6 +10452,11 @@
     },
     {
       "classification": "party",
+      "id": "party/welsh_conservative_group",
+      "name": "Welsh Conservative Group"
+    },
+    {
+      "classification": "party",
       "id": "party/welsh_conservative_party",
       "identifiers": [
         {
@@ -10961,6 +10966,19 @@
       "area_id": "ocd-division/country:gb-wls/region:south_wales_east",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/united_kingdom_independence_party_(ukip)",
+      "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
+      "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.assembly.wales/en/memhome/Pages/MemberProfile.aspx?mid=5227"
+        }
+      ]
+    },
+    {
+      "area_id": "ocd-division/country:gb-wls/region:south_wales_east",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/welsh_conservative_group",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "person_id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
       "role": "member",
