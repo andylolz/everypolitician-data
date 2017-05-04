@@ -777,6 +777,10 @@
           "url": "https://no.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
           "note": "Wikipedia (pa)",
           "url": "https://pa.wikipedia.org/wiki/ਜਸਟਿਨ_ਟਰੂਡੋ"
         },
@@ -3394,6 +3398,7 @@
       ]
     },
     {
+      "birth_date": "1966",
       "contact_details": [
         {
           "type": "email",
@@ -37018,7 +37023,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Jim_Hillyer_(homme_politique)"
+          "url": "https://fr.wikipedia.org/wiki/Jim_Hillyer"
         },
         {
           "note": "twitter",
