@@ -7079,6 +7079,7 @@
       ]
     },
     {
+      "birth_date": "1966-07-21",
       "contact_details": [
         {
           "type": "email",
@@ -7096,6 +7097,10 @@
         {
           "identifier": "5830626",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23893494",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178923.jpg",
@@ -7104,7 +7109,35 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178923.jpg"
         }
       ],
-      "name": "ZECA CAVALCANTI"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Zeca_Cavalcanti"
+        }
+      ],
+      "name": "ZECA CAVALCANTI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zeca Cavalcanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zeca Cavalcanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zeca Cavalcanti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Zeca Cavalcanti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-07-06",
@@ -11488,15 +11521,89 @@
       ]
     },
     {
+      "birth_date": "1968-11-27",
       "gender": "male",
+      "given_name": "William",
       "id": "32cb363e-21a8-402d-970d-898cbf5979f3",
+      "identifiers": [
+        {
+          "identifier": "Q10393732",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/141563.jpg",
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141563.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Deputado-William-Woo-Plenario.jpg"
         }
       ],
-      "name": "WILLIAM WOO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/William_Woo"
+        }
+      ],
+      "name": "WILLIAM WOO",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "William Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "威廉巫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -12389,6 +12496,10 @@
         {
           "identifier": "5830425",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28555860",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178922.jpg",
@@ -12397,7 +12508,30 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178922.jpg"
         }
       ],
-      "name": "TADEU ALENCAR"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Tadeu_Alencar"
+        }
+      ],
+      "name": "TADEU ALENCAR",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tadeu Alencar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tadeu Alencar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Tadeu Alencar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1951-05-25",
@@ -14595,6 +14729,10 @@
         {
           "identifier": "5830810",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18285427",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/137853.jpg",
@@ -14603,7 +14741,25 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/137853.jpg"
         }
       ],
-      "name": "WADSON RIBEIRO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Wadson_Ribeiro"
+        }
+      ],
+      "name": "WADSON RIBEIRO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Wadson Ribeiro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Wadson Ribeiro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-12-29",
@@ -23813,6 +23969,7 @@
       ]
     },
     {
+      "birth_date": "1956-03-23",
       "contact_details": [
         {
           "type": "email",
@@ -23830,6 +23987,10 @@
         {
           "identifier": "5830551",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29654200",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74017.jpg",
@@ -23838,7 +23999,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74017.jpg"
         }
       ],
-      "name": "PAULO FEIJÓ"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Fernando_Torres_Feijó"
+        }
+      ],
+      "name": "PAULO FEIJÓ",
+      "other_names": [
+        {
+          "name": "Paulo Fernando Torres Feijó",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Paulo Feijó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Paulo Fernando Torres Feijó",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -31649,6 +31832,7 @@
       "name": "ÁTILA A. NUNES"
     },
     {
+      "birth_date": "1976-11-03",
       "contact_details": [
         {
           "type": "email",
@@ -31666,6 +31850,10 @@
         {
           "identifier": "5830584",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29696179",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178897.jpg",
@@ -31674,7 +31862,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178897.jpg"
         }
       ],
-      "name": "RODRIGO PACHECO"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Rodrigo_Pacheco"
+        }
+      ],
+      "name": "RODRIGO PACHECO",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rodrigo Pacheco",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-06-21",
@@ -45054,6 +45255,10 @@
         {
           "identifier": "5830392",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27862767",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178949.jpg",
@@ -45062,7 +45267,30 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178949.jpg"
         }
       ],
-      "name": "ZENAIDE MAIA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Zenaide_Maia"
+        }
+      ],
+      "name": "ZENAIDE MAIA",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zenaide Maia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zenaide Maia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Zenaide Maia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-10-08",
