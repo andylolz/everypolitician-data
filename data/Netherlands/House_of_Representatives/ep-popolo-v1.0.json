@@ -52,6 +52,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Liesbeth_van_Tongeren"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Liesbeth_van_Tongeren"
         },
@@ -7708,6 +7712,9 @@
       "images": [
         {
           "url": "https://www.houseofrepresentatives.nl/sites/default/files/styles/content_image/public/14a14325-842d-43c4-a405-9827eb05f5a1.jpg?itok=E3R8TAHU"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/LouisBontes2012.jpg"
         }
       ],
       "links": [
@@ -15476,6 +15483,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "233239",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "vj0nggwf3or2",
           "scheme": "parlement"
         },
@@ -19898,6 +19909,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Linda_Voortman"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Linda_Voortman"
