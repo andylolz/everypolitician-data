@@ -1735,6 +1735,7 @@
           "value": "8 (02233) 5 93 43"
         }
       ],
+      "family_name": "Wołkau",
       "gender": "male",
       "given_name": "Michaił",
       "id": "33f06b42-cd26-4d0e-afb6-c489795c67fb",
@@ -1767,7 +1768,7 @@
       "name": "VOLKOV MIKHAIL",
       "other_names": [
         {
-          "name": "Mikhail Volkov",
+          "name": "Mikhail Volkau",
           "note": "alternate"
         },
         {
@@ -1776,8 +1777,13 @@
           "note": "multilingual"
         },
         {
+          "lang": "be-tarask",
+          "name": "Міхаіл Міхайлавіч Волкаў",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "Mikhail Volkov",
+          "name": "Mikhail Volkau",
           "note": "multilingual"
         },
         {
@@ -1793,6 +1799,11 @@
         {
           "lang": "pl",
           "name": "Michaił Wołkau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Михаил Михайлович Волков",
           "note": "multilingual"
         }
       ]
@@ -5442,6 +5453,7 @@
           "value": "8 (0212) 25 34 64"
         }
       ],
+      "family_name": "Wołkau",
       "gender": "male",
       "given_name": "Michaił",
       "id": "cf20049c-3381-442b-96c6-464a76f091b1",
@@ -5474,7 +5486,7 @@
       "name": "VOLKOV MIKHAIL",
       "other_names": [
         {
-          "name": "Mikhail Volkov",
+          "name": "Mikhail Volkau",
           "note": "alternate"
         },
         {
@@ -5483,8 +5495,13 @@
           "note": "multilingual"
         },
         {
+          "lang": "be-tarask",
+          "name": "Міхаіл Мікалаевіч Волкаў",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
-          "name": "Mikhail Volkov",
+          "name": "Mikhail Volkau",
           "note": "multilingual"
         },
         {
@@ -5495,6 +5512,11 @@
         {
           "lang": "pl",
           "name": "Michaił Wołkau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Михаил Николаевич Волков",
           "note": "multilingual"
         }
       ]
@@ -6878,6 +6900,11 @@
         {
           "lang": "ru",
           "name": "Коммунистическая партия Белоруссии",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "КПБ",
           "note": "multilingual"
         },
         {
