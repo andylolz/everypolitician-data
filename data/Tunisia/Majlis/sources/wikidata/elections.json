@@ -262,7 +262,7 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni generali in Tunisia del 2004",
+        "name": "elezioni parlamentari in Tunisia del 2004",
         "note": "multilingual"
       },
       {
@@ -277,7 +277,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales de Túnez de 2004",
+        "name": "elecciones parlamentarias de Túnez de 2004",
         "note": "multilingual"
       },
       {
@@ -497,6 +497,11 @@
         "lang": "ar",
         "name": "الانتخابات الرئاسية التونسية 1974",
         "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Túnez de 1974",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -529,6 +534,11 @@
       {
         "lang": "de",
         "name": "Parlamentswahl in Tunesien 1979",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Túnez de 1979",
         "note": "multilingual"
       }
     ],
@@ -564,6 +574,11 @@
       {
         "lang": "de",
         "name": "Parlamentswahl in Tunesien 1981",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Túnez de 1981",
         "note": "multilingual"
       }
     ],
