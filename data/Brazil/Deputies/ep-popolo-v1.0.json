@@ -23813,6 +23813,7 @@
       ]
     },
     {
+      "birth_date": "1956-03-23",
       "contact_details": [
         {
           "type": "email",
@@ -23830,6 +23831,10 @@
         {
           "identifier": "5830551",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29654200",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/74017.jpg",
@@ -23838,7 +23843,29 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74017.jpg"
         }
       ],
-      "name": "PAULO FEIJÓ"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Paulo_Fernando_Torres_Feijó"
+        }
+      ],
+      "name": "PAULO FEIJÓ",
+      "other_names": [
+        {
+          "name": "Paulo Fernando Torres Feijó",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Paulo Feijó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Paulo Fernando Torres Feijó",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
