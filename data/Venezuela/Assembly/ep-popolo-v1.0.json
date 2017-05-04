@@ -5746,6 +5746,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Héctor_Rodríguez_Castro"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Héctor_Rodríguez_Castro"
         }
       ],
       "name": "RODRIGUEZ CASTRO HECTOR VICENTE",
@@ -5761,6 +5765,11 @@
         },
         {
           "lang": "es",
+          "name": "Héctor Rodríguez Castro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Héctor Rodríguez Castro",
           "note": "multilingual"
         },
