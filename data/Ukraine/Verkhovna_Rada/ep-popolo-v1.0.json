@@ -15283,6 +15283,12 @@
     },
     {
       "birth_date": "1987-07-09",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "v_parasiuk"
+        }
+      ],
       "family_name": "Парасюк",
       "gender": "male",
       "given_name": "Володимир",
@@ -15295,6 +15301,10 @@
         {
           "identifier": "18124",
           "scheme": "rada"
+        },
+        {
+          "identifier": "volodymyr.parasiuk",
+          "scheme": "vkontakte"
         },
         {
           "identifier": "Q15839019",
@@ -15334,6 +15344,18 @@
         {
           "note": "Wikipedia (ukwikiquote)",
           "url": "https://ukwikiquote.wikipedia.org/wiki/Парасюк_Володимир_Зіновійович"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/volodymyr.parasiuk"
+        },
+        {
+          "note": "instagram",
+          "url": "volodymyr_parasiuk"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/v_parasiuk"
         }
       ],
       "name": "Парасюк Володимир Зіновійович",
