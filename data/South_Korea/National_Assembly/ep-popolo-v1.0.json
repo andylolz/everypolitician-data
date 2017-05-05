@@ -2704,6 +2704,10 @@
           "url": "https://de.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μουν_Τζε-ιν"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Moon_Jae-in"
         },
@@ -2818,6 +2822,11 @@
         {
           "lang": "de",
           "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μουν Τζε-ιν",
           "note": "multilingual"
         },
         {
@@ -17501,6 +17510,10 @@
           "url": "https://de.wikipedia.org/wiki/Ahn_Cheol-soo"
         },
         {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αν_Τσολ-σου"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ahn_Cheol-soo"
         },
@@ -17586,6 +17599,11 @@
         {
           "lang": "de",
           "name": "Ahn Cheol-soo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αν Τσολ-σου",
           "note": "multilingual"
         },
         {
