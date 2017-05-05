@@ -10626,6 +10626,22 @@
       ]
     },
     {
+      "id": "ad56ab30-1373-48f3-a115-2a1989908845",
+      "image": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/Joya.jpg",
+      "images": [
+        {
+          "url": "http://www.parliament.gov.bd/images/10th_Par_Picture/women/Joya.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english?layout=edit&id=2123"
+        }
+      ],
+      "name": "Joya Sengupta"
+    },
+    {
       "gender": "male",
       "id": "adacfc05-8a25-400f-946b-09d027360250",
       "identifiers": [
@@ -14361,29 +14377,6 @@
         }
       ],
       "name": "Jahangir Kabir Nanak"
-    },
-    {
-      "gender": "female",
-      "id": "e02e8699-1c84-448d-9894-705ab218e8eb",
-      "identifiers": [
-        {
-          "identifier": "Q29564940",
-          "scheme": "wikidata"
-        }
-      ],
-      "name": "Joya Sengupta",
-      "other_names": [
-        {
-          "lang": "en",
-          "name": "Joya Sengupta",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Joya Sengupta",
-          "note": "multilingual"
-        }
-      ]
     },
     {
       "gender": "female",
@@ -24273,6 +24266,19 @@
       ]
     },
     {
+      "area_id": "area/sunamganj",
+      "legislative_period_id": "term/10",
+      "on_behalf_of_id": "party/bangladesh_awami_league",
+      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
+      "person_id": "ad56ab30-1373-48f3-a115-2a1989908845",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
+        }
+      ]
+    },
+    {
       "area_id": "area/meherpur",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/bangladesh_nationalist_party",
@@ -26323,19 +26329,6 @@
       "sources": [
         {
           "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/former-mp-s/list-of-9th-parliament-members-english"
-        }
-      ]
-    },
-    {
-      "area_id": "area/sunamganj",
-      "legislative_period_id": "term/10",
-      "on_behalf_of_id": "party/bangladesh_awami_league",
-      "organization_id": "a8da8135-339c-411f-95b8-bc2872597fc8",
-      "person_id": "e02e8699-1c84-448d-9894-705ab218e8eb",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.gov.bd/index.php/en/mps/members-of-parliament/current-mp-s/list-of-10th-parliament-members-english"
         }
       ]
     },
