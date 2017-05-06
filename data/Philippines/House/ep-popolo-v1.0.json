@@ -868,9 +868,6 @@
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/villafuerte-l.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lray-villafuerte-220px.jpg"
         }
       ],
       "links": [
@@ -3011,6 +3008,10 @@
           "url": "https://ru.wikipedia.org/wiki/Пакьяо,_Мэнни"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Manny_Pacquiao"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Mani_Pakjao"
         },
@@ -3341,6 +3342,11 @@
         {
           "lang": "ru",
           "name": "Пакьяо, Мэнни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Manny Pacquiao",
           "note": "multilingual"
         },
         {
