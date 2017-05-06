@@ -3,7 +3,7 @@ id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,ter
 ea1e23eb-472b-42fd-b653-4194c6fa2b3f,Abdul Ghani Ishak,Abdul Ghani Ishak,,,,United Malays National Organisation,UMNO,P087-2,"Malacca Utara, Malacca",Dewan Rakyat,2,,,,
 30007033-5758-499e-924b-0eb594909af2,Abdul Hamid Khan Sakhawat Ali Khan,Abdul Hamid Khan Sakhawat Ali Khan,,,,United Malays National Organisation,UMNO,P057-2,"Batang Padang, Perak",Dewan Rakyat,2,,,,male
 234cb0d0-fdb0-4f14-9c8e-cbc7412fe9bd,Abdul Karim Abu,Abdul Karim Abu,,,,United Malays National Organisation,UMNO,P088-2,"Malacca Selatan, Malacca",Dewan Rakyat,2,,,,
-56bf8af0-69f5-4607-a275-250d9c2bb172,Abdul Khalid Awang Osman,Abdul Khalid Awang Osman,,,,United Malays National Organisation,UMNO,P005-2,"Kota Star Utara, Kedah",Dewan Rakyat,2,,,,
+56bf8af0-69f5-4607-a275-250d9c2bb172,Abdul Khalid Awang Osman,Abdul Khalid Awang Osman,,,,United Malays National Organisation,UMNO,P005-2,"Kota Star Utara, Kedah",Dewan Rakyat,2,,,,male
 920f627c-010b-4386-844f-02a064f5dbf5,Abdul Rahman Talib,Abdul Rahman Talib,,,,United Malays National Organisation,UMNO,P061-2,"Kuantan, Pahang",Dewan Rakyat,2,,,,
 7eba38ce-78fe-4b0b-a118-daf12e571f73,Abdul Rauf Abdul Rahman,Abdul Rauf Abdul Rahman,,,,United Malays National Organisation,UMNO,P040-2,"Krian Laut, Perak",Dewan Rakyat,2,,,,
 478c49bc-68f4-4d11-85ea-75ea9bed389e,Abdul Razak Hussein,Abdul Razak Hussein,,,,United Malays National Organisation,UMNO,P062-2,"Pekan, Pahang",Dewan Rakyat,2,,,https://upload.wikimedia.org/wikipedia/commons/e/e4/Tun_Abdul_Razak_(MY_2nd_PM).jpg,male
@@ -33,12 +33,12 @@ d0a832d7-f425-47aa-85fd-4f4c1edcc058,Hamzah Abu Samah,Hamzah Abu Samah,,,,United
 76379f58-f7da-44e0-a1fc-8fba9785a71e,Hamzah Alang,Hamzah Alang,,,,United Malays National Organisation,UMNO,P067-2,"Kapar, Selangor",Dewan Rakyat,2,,,,
 be6953b1-2492-4af9-8b0f-680f709932c1,Hanafi Mohd Yunus,Hanafi Mohd Yunus,,,,United Malays National Organisation,UMNO,P013-2,"Kulim, Kedah",Dewan Rakyat,2,,,,
 93083528-d895-4acf-b56a-eebcec48a316,Hanafiah Hussain,Hanafiah Hussain,,,,United Malays National Organisation,UMNO,P010-2,"Jerai, Kedah",Dewan Rakyat,2,,,,
-c5b05370-3109-468f-901d-f4e526e6f0e2,Harun Abdullah,Harun Abdullah,,,,United Malays National Organisation,UMNO,P011-2,"Baling, Kedah",Dewan Rakyat,2,,,,
+c5b05370-3109-468f-901d-f4e526e6f0e2,Harun Abdullah,Harun Abdullah,,,,United Malays National Organisation,UMNO,P011-2,"Baling, Kedah",Dewan Rakyat,2,,,,male
 5bbc4802-9ce3-4303-8e95-d01a43ba3b7c,Hussain Rahimi Saman,Hussain Rahimi Saman,,,,Pan-Malayan Islamic Party,PMIP,P020-2,"Kota Bharu Hulu, Kelantan",Dewan Rakyat,2,,,,
-b7a7b8dc-5b00-4a94-9b3c-1f82a389e873,Hussein Hassan,Hussein Hassan,,,,United Malays National Organisation,UMNO,P059-2,"Raub, Pahang",Dewan Rakyat,2,,,,
+b7a7b8dc-5b00-4a94-9b3c-1f82a389e873,Hussein Hassan,Hussein Hassan,,,,United Malays National Organisation,UMNO,P059-2,"Raub, Pahang",Dewan Rakyat,2,,,,male
 0a143f1a-5f74-458d-b4a7-052b15f67655,Hussein Mohd Noordin,Hussein Mohd Noordin,,,,United Malays National Organisation,UMNO,P048-2,"Parit, Perak",Dewan Rakyat,2,,,,
 f72cfc66-f692-41f3-9386-f34c66a3a204,Hussein Sulaiman,Hussein Sulaiman,,,,United Malays National Organisation,UMNO,P024-2,"Ulu Kelantan, Kelantan",Dewan Rakyat,2,,,,
-7f517f97-487a-4a50-8d9a-0a8457502e4a,Ibrahim Abdul Rahman,Ibrahim Abdul Rahman,,,,United Malays National Organisation,UMNO,P032-2,"Seberang Tengah, Penang",Dewan Rakyat,2,,,,
+7f517f97-487a-4a50-8d9a-0a8457502e4a,Ibrahim Abdul Rahman,Ibrahim Abdul Rahman,,,,United Malays National Organisation,UMNO,P032-2,"Seberang Tengah, Penang",Dewan Rakyat,2,,,,male
 2cad0aa1-f922-4281-8d9e-3ce5df7715fa,Ismail Abdul Rahman,Ismail Abdul Rahman,,,,United Malays National Organisation,UMNO,P102-2,"Johore Timor, Johore",Dewan Rakyat,2,,,,male
 043b23b2-2600-4f64-a45a-3fbb20df3e5e,Ismail Idris,Ismail Idris,,,,United Malays National Organisation,UMNO,P035-2,"Penang Selatan, Penang",Dewan Rakyat,2,,,,
 e51df109-8028-4888-b3f0-5a01cf3a387c,Kam Woon Wah,Kam Woon Wah,,,,Malaysian Chinese Association,MCA,P045-2,"Sitiawan, Perak",Dewan Rakyat,2,,,,
@@ -59,7 +59,7 @@ ddf50c1e-fa1a-4b54-8813-bed38ec99007,Mohamed Ghazali Jawi,Mohamed Ghazali Jawi,,
 7769cb9a-9ae9-48c1-8919-830e2ff1bbc1,Mohamed Idris Matsil,Mohamed Idris Matsil,,,,United Malays National Organisation,UMNO,P083-2,"Jelebu-Jempol, Negri Sembilan",Dewan Rakyat,2,,,,
 778a1c19-d8a8-4f7b-9b04-7f617444ea57,Mohamed Noordin Mastan,Mohamed Noordin Mastan,,,,United Malays National Organisation,UMNO,P033-2,"Seberang Selatan, Penang",Dewan Rakyat,2,,,,
 f3b04592-5274-47d8-a207-39aa2e40edce,Mohamed Taib,Mohamed Taib,,,,United Malays National Organisation,UMNO,P061-2,"Kuantan, Pahang",Dewan Rakyat,2,,,,male
-0a81eb41-5ccb-404a-af6d-002d000efde0,Mohamed Yusof Mahmud,Mohamed Yusof Mahmud,,,,United Malays National Organisation,UMNO,P063-2,"Temerloh, Pahang",Dewan Rakyat,2,,,,
+0a81eb41-5ccb-404a-af6d-002d000efde0,Mohamed Yusof Mahmud,Mohamed Yusof Mahmud,,,,United Malays National Organisation,UMNO,P063-2,"Temerloh, Pahang",Dewan Rakyat,2,,,,male
 0b103997-adc6-4699-a2aa-fa87edb5683a,Mohamed Zahir Ismail,Mohamed Zahir Ismail,,,,United Malays National Organisation,UMNO,P012-2,"Sungei Patani, Kedah",Dewan Rakyat,2,,,,male
 adee4ad8-e0dd-47ae-a95f-06c2e2244e4d,Mohd. Daud Abdul Samad,Mohd. Daud Abdul Samad,,,,Pan-Malayan Islamic Party,PMIP,P025-2,"Besut, Trengganu",Dewan Rakyat,2,,,,
 80326156-13a6-499d-a6ed-602f13df5da8,Mohd. Tahir Abdul Majid,Mohd. Tahir Abdul Majid,,,,United Malays National Organisation,UMNO,P075-2,"Kuala Langat, Selangor",Dewan Rakyat,2,,,,
@@ -109,6 +109,6 @@ ec3cfff3-25b7-4497-846e-18132dfd3035,V. T. Sambanthan,V. T. Sambanthan,,,,Malays
 623dbde0-3130-44ce-b122-a078ab6e6d97,Wan Abdul Kadir Ismail,Wan Abdul Kadir Ismail,,,,United Malays National Organisation,UMNO,P026-2,"Kuala Trengganu Utara, Trengganu",Dewan Rakyat,2,,,,
 be6eada8-651f-4e46-ae3d-b28e41f546be,Wan Hassan Wan Daud,Wan Hassan Wan Daud,,,,Pan-Malayan Islamic Party,PMIP,P015-2,"Tumpat, Kelantan",Dewan Rakyat,2,,,,
 29e41e78-279a-4dfd-b91f-8668261bb2d2,Wan Mokhtar Ahmad,Wan Mokhtar Ahmad,,,,United Malays National Organisation,UMNO,P029-2,"Kemaman, Trengganu",Dewan Rakyat,2,,,,male
-50cff484-9a80-40f4-ad7b-015801207c0b,Yeoh Tat Beng,Yeoh Tat Beng,,,,Malaysian Chinese Association,MCA,P044-2,"Bruas, Perak",Dewan Rakyat,2,,,,
+50cff484-9a80-40f4-ad7b-015801207c0b,Yeoh Tat Beng,Yeoh Tat Beng,,,,Malaysian Chinese Association,MCA,P044-2,"Bruas, Perak",Dewan Rakyat,2,,,,male
 3c44aa8e-590f-4d29-989a-54cbef357be7,Zakaria Mohd Taib,Zakaria Mohd Taib,,,,United Malays National Organisation,UMNO,P069-2,"Langat, Selangor",Dewan Rakyat,2,,,,
 874839ab-46b8-42ee-a1b8-1d870236dae2,Zulkiflee Muhammad,Zulkiflee Muhammad,,,,Pan-Malayan Islamic Party,PMIP,P019-2,"Bachok, Kelantan",Dewan Rakyat,2,,,,

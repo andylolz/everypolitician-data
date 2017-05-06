@@ -1515,6 +1515,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "0a81eb41-5ccb-404a-af6d-002d000efde0",
       "identifiers": [
         {
@@ -3894,6 +3895,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "122d9f9c-8abe-4d78-96fb-00ccdf5303b7",
       "identifiers": [
         {
@@ -17182,6 +17184,7 @@
       "name": "S. Veerasingam"
     },
     {
+      "gender": "male",
       "id": "50cff484-9a80-40f4-ad7b-015801207c0b",
       "identifiers": [
         {
@@ -17214,6 +17217,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "50e49241-2338-4b6f-98b5-3e03edf2af48",
       "identifiers": [
         {
@@ -17416,6 +17420,7 @@
       "name": "Law Hieng Ding"
     },
     {
+      "gender": "female",
       "id": "531e1c40-7afb-43c8-9003-511c2e352492",
       "identifiers": [
         {
@@ -17791,6 +17796,7 @@
       "name": "Abu Bakar Othman"
     },
     {
+      "gender": "male",
       "id": "56bf8af0-69f5-4607-a275-250d9c2bb172",
       "identifiers": [
         {
@@ -24917,6 +24923,7 @@
       "name": "Geoffrey Yee Ling Fook"
     },
     {
+      "gender": "male",
       "id": "7f517f97-487a-4a50-8d9a-0a8457502e4a",
       "identifiers": [
         {
@@ -30588,6 +30595,7 @@
       "name": "Rahmat Daud"
     },
     {
+      "gender": "male",
       "id": "9e7f6505-06c3-42aa-bd6e-0fe3bd017dae",
       "identifiers": [
         {
@@ -31068,6 +31076,11 @@
         },
         {
           "lang": "fr",
+          "name": "Awang Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
           "name": "Awang Hassan",
           "note": "multilingual"
         },
@@ -35076,6 +35089,7 @@
       "name": "Yahya Zakaria"
     },
     {
+      "gender": "male",
       "id": "b1678b26-4bbd-4179-ad50-e1523635b20d",
       "identifiers": [
         {
@@ -36541,6 +36555,7 @@
       "name": "Mohamad Shukri Mohamed"
     },
     {
+      "gender": "male",
       "id": "b7a7b8dc-5b00-4a94-9b3c-1f82a389e873",
       "identifiers": [
         {
@@ -38972,6 +38987,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "c5b05370-3109-468f-901d-f4e526e6f0e2",
       "identifiers": [
         {
@@ -47478,6 +47494,7 @@
       ]
     },
     {
+      "gender": "male",
       "id": "f3129da6-d535-4e36-b480-4592e3222ade",
       "identifiers": [
         {
