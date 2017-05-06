@@ -825,6 +825,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Corinne_Ellemeet"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Corinne_Ellemeet"
         },
@@ -835,6 +839,11 @@
       ],
       "name": "Corinne Ellemeet",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Corinne Ellemeet",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Corinne Ellemeet",
@@ -4561,6 +4570,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Henk_Nijboer"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Henk_Nijboer"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Henk_Nijboer"
         },
@@ -4643,6 +4656,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Frank_Wassenberg"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Frank_Wassenberg"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Frank_Wassenberg"
         },
@@ -4656,6 +4673,11 @@
         {
           "name": "Frank P Wassenberg",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Frank Wassenberg",
+          "note": "multilingual"
         },
         {
           "lang": "en",
@@ -7535,6 +7557,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Hanke_Bruins_Slot"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Hanke_Bruins_Slot"
@@ -17881,6 +17907,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Carla_Dik-Faber"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Carla_Dik-Faber"
         },
@@ -21046,6 +21076,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Rik_Grashoff"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rik_Grashoff"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rik_Grashoff"
         },
@@ -23069,6 +23103,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Farshad_Bashir"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Farshad_Bashir"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Farshad_Bashir"
         },
@@ -23975,6 +24013,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Renske_Leijten"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Renske_Leijten"
         },
         {
           "note": "Wikipedia (en)",
