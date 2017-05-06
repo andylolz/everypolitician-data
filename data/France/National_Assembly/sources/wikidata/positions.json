@@ -6486,8 +6486,7 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Q3025171",
-        "P580": "2007-06-20",
-        "P582": "2012-06-19"
+        "P2937": "13th Legislature"
       }
     },
     {
@@ -22009,7 +22008,10 @@
       "id": "Q16886136",
       "label": "conseiller régional",
       "title": "conseiller régional",
-      "description": "member of a regional council in France"
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P582": "2017-05-05"
+      }
     },
     {
       "id": "Q3044918",
@@ -22017,7 +22019,8 @@
       "title": "member of the French National Assembly",
       "qualifiers": {
         "P768": "Cotes-d'Armor's 5th constituency",
-        "P580": "2012-06-20"
+        "P580": "2012-06-20",
+        "P582": "2017-05-05"
       }
     }
   ],
