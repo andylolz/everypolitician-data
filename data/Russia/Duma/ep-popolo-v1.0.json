@@ -1108,6 +1108,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "গেন্নাদি জিউগানোভ",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Guennadi Ziugànov",
           "note": "multilingual"
@@ -5146,6 +5151,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Бахарев,_Константин_Михайлович"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Бахарєв_Костянтин_Михайлович"
         }
       ],
       "name": "Бахарев Константин Михайлович",
@@ -23131,6 +23140,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Козенко,_Андрей_Дмитриевич"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Козенко_Андрій_Дмитрович"
         }
       ],
       "name": "Козенко Андрей Дмитриевич",
@@ -41068,6 +41081,11 @@
         {
           "lang": "sco",
           "name": "Vladislav Tretiak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Vladislav Alexandrovič Tretiak",
           "note": "multilingual"
         },
         {
