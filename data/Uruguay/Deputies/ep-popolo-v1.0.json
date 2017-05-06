@@ -2754,6 +2754,10 @@
         {
           "identifier": "4811585",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29052505",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11585.jpg",
@@ -2762,7 +2766,25 @@
           "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11585.jpg"
         }
       ],
-      "name": "Gonzalo Civila"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gonzalo_Civila"
+        }
+      ],
+      "name": "Gonzalo Civila",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Gonzalo Civila",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gonzalo Civila",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
