@@ -2741,6 +2741,7 @@
       "name": "Washington Silvera"
     },
     {
+      "birth_date": "1984-12-06",
       "contact_details": [
         {
           "type": "email",
@@ -2774,6 +2775,11 @@
       ],
       "name": "Gonzalo Civila",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Gonzalo Martín Civila López",
+          "note": "multilingual"
+        },
         {
           "lang": "es",
           "name": "Gonzalo Civila",
