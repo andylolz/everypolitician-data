@@ -2488,6 +2488,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Valerii_Lunchenko"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Лунченко,_Валерий_Валерьевич"
         },
@@ -2509,6 +2513,11 @@
         {
           "lang": "en",
           "name": "Valeriy Lunchenko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Valerii Lunchenko",
           "note": "multilingual"
         },
         {
@@ -8813,6 +8822,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mykhailo_Dovbenko"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Довбенко,_Михаил_Владимирович"
         },
@@ -8823,6 +8836,11 @@
       ],
       "name": "Довбенко Михайло Володимирович",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Mykhailo Dovbenko",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Довбенко, Михаил Владимирович",
@@ -13017,6 +13035,10 @@
         {
           "note": "Wikipedia (fa)",
           "url": "https://fa.wikipedia.org/wiki/یولیا_تیموشنکو"
+        },
+        {
+          "note": "Wikipedia (fawikiquote)",
+          "url": "https://fawikiquote.wikipedia.org/wiki/یولیا_تیموشنکو"
         },
         {
           "note": "Wikipedia (fi)",
@@ -19419,6 +19441,10 @@
           "url": "https://es.wikipedia.org/wiki/Liliya_Hrynevych"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lilia_Hrynevytch"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Lilija_Hrynewycz"
         },
@@ -21858,6 +21884,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Serhiy_Rudyk"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Serhii_Rudyk"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Рудик_Сергій_Ярославович"
         },
@@ -21872,6 +21902,16 @@
       ],
       "name": "Рудик Сергій Ярославович",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Serhii Rudyk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Serhii Rudyk",
+          "note": "multilingual"
+        },
         {
           "lang": "uk",
           "name": "Рудик Сергій Ярославович",
