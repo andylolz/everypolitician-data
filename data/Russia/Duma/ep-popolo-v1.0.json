@@ -28423,6 +28423,10 @@
       "id": "ac3ef30b-e6b0-49ee-ba20-f357fd32bae9",
       "identifiers": [
         {
+          "identifier": "mikhailshchapov",
+          "scheme": "livejournal"
+        },
+        {
           "identifier": "Q27758432",
           "scheme": "wikidata"
         }
@@ -41927,6 +41931,10 @@
         {
           "identifier": "12890135m",
           "scheme": "bnf"
+        },
+        {
+          "identifier": "biography/Valentina-Tereshkova",
+          "scheme": "britannica"
         },
         {
           "identifier": "643",
