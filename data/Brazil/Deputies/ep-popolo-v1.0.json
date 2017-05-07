@@ -24282,6 +24282,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/141408.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Cleber_verde.JPG"
         }
       ],
       "links": [
@@ -34700,6 +34703,7 @@
       ]
     },
     {
+      "birth_date": "1955-10-14",
       "contact_details": [
         {
           "type": "email",
@@ -36043,6 +36047,7 @@
       "name": "ADÉRMIS MARINI"
     },
     {
+      "birth_date": "1951-10-09",
       "contact_details": [
         {
           "type": "email",
@@ -58083,6 +58088,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Partido da Social Democracia Brasileira",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "Diversidade Tucana",
           "note": "multilingual"
@@ -58188,6 +58198,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Partido da Social Democracia Brasileira",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt-br",
           "name": "PSDB",
           "note": "multilingual"
@@ -58200,6 +58215,11 @@
         {
           "lang": "el",
           "name": "Βραζιλιάνικο Σοσιαλδημοκρατικό Κόμμα",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "PSDB",
           "note": "multilingual"
         }
       ]
