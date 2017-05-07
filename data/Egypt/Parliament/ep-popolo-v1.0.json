@@ -1834,6 +1834,10 @@
           "url": "https://ar.wikipedia.org/wiki/محمد_العرابي"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/محمد_العرابي"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Muhammad_al_Orabi"
         },
@@ -1862,6 +1866,11 @@
         },
         {
           "lang": "ar",
+          "name": "محمد العرابي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
           "name": "محمد العرابي",
           "note": "multilingual"
         },
