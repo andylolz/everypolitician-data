@@ -114,6 +114,10 @@
           "url": "https://it.wikipedia.org/wiki/Fabiola_Anitori"
         },
         {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Fabiola_Anitori"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/fabiola.anitori"
         },
@@ -14861,12 +14865,19 @@
       "images": [
         {
           "url": "http://politici.openpolis.it/politician/picture?content_id=308"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Francesco_colucci.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Francesco_Colucci"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Francesco_Colucci"
         }
       ],
       "name": "COLUCCI Francesco",
@@ -17500,6 +17511,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Stefano_Lucidi"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Stefano_Lucidi"
         },
         {
           "note": "facebook",
@@ -30490,6 +30505,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Claudio_Micheloni"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Claudio_Micheloni"
         }
       ],
       "name": "MICHELONI Claudio",
