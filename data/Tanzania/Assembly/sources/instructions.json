@@ -35,7 +35,7 @@
       "source": "http://wikidata.org/",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "original_wikiname",
+        "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }

@@ -1339,14 +1339,33 @@
         }
       ],
       "email": "j.juma@bunge.go.tz",
+      "gender": "male",
       "id": "0e2e9406-b037-454d-bb5c-6dd362551ff7",
+      "identifiers": [
+        {
+          "identifier": "Q29579610",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
         }
       ],
-      "name": "Juma Ali Juma"
+      "name": "Juma Ali Juma",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Juma Ali Juma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Juma Ali Juma",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2213,13 +2232,31 @@
       ],
       "email": "a.bulembo@bunge.go.tz",
       "id": "12df9785-f57c-44d2-b69e-e510a5c48df1",
+      "identifiers": [
+        {
+          "identifier": "Q29579658",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
         }
       ],
-      "name": "Abdallah Majurah Bulembo"
+      "name": "Abdallah Majurah Bulembo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Abdallah Majurah Bulembo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdallah Majurah Bulembo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-07-10",
@@ -12563,14 +12600,34 @@
         }
       ],
       "email": "g.rwakatare@bunge.go.tz",
+      "gender": "female",
+      "given_name": "Gertrude",
       "id": "62a6cd6b-cc60-4ba0-8bdc-a2a7c39de63e",
+      "identifiers": [
+        {
+          "identifier": "Q29579685",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
         }
       ],
-      "name": "Getrude Pangalile Rwakatare"
+      "name": "Getrude Pangalile Rwakatare",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Getrude Pangalile Rwakatare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Getrude Pangalile Rwakatare",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-06-18",
@@ -30471,6 +30528,7 @@
       "sort_name": "Lwanji Paul John"
     },
     {
+      "birth_date": "1963-11-30",
       "contact_details": [
         {
           "type": "email",
@@ -30482,14 +30540,57 @@
         }
       ],
       "email": "s.kikwete@bunge.go.tz",
+      "gender": "female",
+      "given_name": "Salma",
       "id": "e6775e76-0b65-4a01-bc20-1516d1077560",
+      "identifiers": [
+        {
+          "identifier": "Q7405361",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Salma_Kikwete.jpg"
         }
       ],
-      "name": "Salma RAshid Kikwete"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Salma_Kikwete"
+        }
+      ],
+      "name": "Salma RAshid Kikwete",
+      "other_names": [
+        {
+          "name": "Salma Kikwete",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Salma Kikwete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Salma Kikwete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Salma Kikwete",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Salma Kikwete",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -31659,14 +31760,37 @@
         }
       ],
       "email": "p.kabudi@bunge.go.tz",
+      "gender": "male",
       "id": "ecbe058b-b852-421e-8da2-f5cbccb64b93",
+      "identifiers": [
+        {
+          "identifier": "Q29579700",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
         }
       ],
-      "name": "Prof. Palamagamba John Aidan Mwaluko Kabudi"
+      "name": "Prof. Palamagamba John Aidan Mwaluko Kabudi",
+      "other_names": [
+        {
+          "name": "Palamagamba John Aidan Mwaluko Kabudi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Palamagamba John Aidan Mwaluko Kabudi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Palamagamba John Aidan Mwaluko Kabudi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
