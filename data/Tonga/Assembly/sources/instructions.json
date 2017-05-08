@@ -11,6 +11,16 @@
       "type": "membership"
     },
     {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/tonga-assembly-wikidata",
+        "query": "SELECT *, 'unknown' AS party, 2015 AS term FROM data ORDER BY id"
+      },
+      "source": "http://wikidata.org/",
+      "type": "membership"
+    },
+    {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
