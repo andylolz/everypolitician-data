@@ -26,6 +26,22 @@
       "id": "02859eb1-2507-4c23-8391-3cfe5a3d1dd4",
       "identifiers": [
         {
+          "identifier": "1056239050",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7983 9773",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n98026799",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "309740459",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q6547754",
           "scheme": "wikidata"
         }
