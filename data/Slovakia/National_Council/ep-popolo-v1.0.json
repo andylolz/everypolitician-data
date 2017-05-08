@@ -368,13 +368,32 @@
       "family_name": "Marček",
       "given_name": "Peter",
       "id": "03d092db-5bb1-4f44-9ef7-41b5627fae2d",
+      "identifiers": [
+        {
+          "identifier": "Q29789902",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=921&ImageWidth=140",
       "images": [
         {
           "url": "http://www.nrsr.sk/web/dynamic/PoslanecPhoto.aspx?PoslanecID=921&ImageWidth=140"
         }
       ],
-      "name": "Peter Marček"
+      "links": [
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Peter_Marček"
+        }
+      ],
+      "name": "Peter Marček",
+      "other_names": [
+        {
+          "lang": "sk",
+          "name": "Peter Marček",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-07-11",
