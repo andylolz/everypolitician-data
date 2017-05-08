@@ -262,6 +262,10 @@
       "name": "Lord Tu'ilakepa"
     },
     {
+      "id": "2bff51d6-65d4-4a0c-9bf7-3fd9e3100b27",
+      "name": "‘Akosita Lavulavu"
+    },
+    {
       "birth_date": "1969-02-13",
       "contact_details": [
         {
@@ -1126,6 +1130,60 @@
         }
       ],
       "name": "Lord Vaea"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "etuatelavulavu@gmail.com"
+        }
+      ],
+      "email": "etuatelavulavu@gmail.com",
+      "gender": "male",
+      "id": "f347d0c4-d290-423b-b60a-9a8c306652c4",
+      "identifiers": [
+        {
+          "identifier": "331-etuate-sungalu-lavulavu",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q8084044",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/‘Etuate_Lavulavu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/‘Etuate_Lavulavu"
+        }
+      ],
+      "name": "‘Etuate Lavulavu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "‘Etuate Lavulavu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "‘Etuate Lavulavu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "‘Etuate Lavulavu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "‘Etuate Lavulavu",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -1151,6 +1209,7 @@
   "meta": {
     "sources": [
       "http://parliament.gov.to/",
+      "http://wikidata.org/",
       "http://gender-balance.org/"
     ]
   },
@@ -1180,6 +1239,15 @@
           "url": "http://parliament.gov.to/members-of-parliament/nobles/133-lord-tu-ilakepa"
         }
       ]
+    },
+    {
+      "area_id": "area/vavaʻu_16",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "b8ba010c-a6c6-4b93-b97f-df2c7f4112ba",
+      "person_id": "2bff51d6-65d4-4a0c-9bf7-3fd9e3100b27",
+      "role": "member",
+      "start_date": "2016-07-14"
     },
     {
       "area_id": "area/the_ongo_niua's",
@@ -1478,6 +1546,15 @@
           "url": "http://parliament.gov.to/members-of-parliament/nobles/130-lord-vaea"
         }
       ]
+    },
+    {
+      "area_id": "area/vavaʻu_16",
+      "end_date": "2016-01-29",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "b8ba010c-a6c6-4b93-b97f-df2c7f4112ba",
+      "person_id": "f347d0c4-d290-423b-b60a-9a8c306652c4",
+      "role": "member"
     }
   ],
   "events": [
@@ -1745,6 +1822,11 @@
     {
       "id": "area/vava'u_no._15",
       "name": "Vava'u No. 15",
+      "type": "constituency"
+    },
+    {
+      "id": "area/vavaʻu_16",
+      "name": "Vavaʻu 16",
       "type": "constituency"
     }
   ]
