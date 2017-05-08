@@ -17010,6 +17010,7 @@
     },
     {
       "family_name": "Gichuhi",
+      "gender": "female",
       "given_name": "Lucy",
       "id": "c34f2d2a-210a-4e62-9b07-5dcfe8f578a0",
       "identifiers": [
@@ -17020,9 +17021,31 @@
         {
           "identifier": "10899",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q29373184",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lucy_Gichuhi"
         }
       ],
       "name": "Lucy Gichuhi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lucy Gichuhi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lucy Gichuhi",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gichuhi, Lucy"
     },
     {
