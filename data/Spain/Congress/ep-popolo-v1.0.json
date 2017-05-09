@@ -43244,6 +43244,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "María Such",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "María Such",
           "note": "multilingual"
@@ -52243,8 +52248,20 @@
           "url": "https://es.wikipedia.org/wiki/Joan_Josep_Nuet"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Joan-Josep-Nuet-160106617336338"
+        },
+        {
+          "note": "instagram",
+          "url": "jjnuet"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/NUET"
+        },
+        {
+          "note": "website",
+          "url": "http://www.nuet.cat/"
         }
       ],
       "name": "Joan Josep Nuet",
@@ -56097,7 +56114,7 @@
         },
         {
           "lang": "eu",
-          "name": "PP",
+          "name": "Alderdi Popular",
           "note": "multilingual"
         },
         {
@@ -56387,11 +56404,6 @@
         },
         {
           "lang": "eu",
-          "name": "Alderdi Popular",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
           "name": "Partido Popular",
           "note": "multilingual"
         },
@@ -56413,6 +56425,11 @@
         {
           "lang": "eu",
           "name": "Espainiako Alderdi Popular",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "PP",
           "note": "multilingual"
         },
         {

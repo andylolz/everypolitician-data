@@ -44,7 +44,7 @@
       },
       {
         "lang": "eu",
-        "name": "PP",
+        "name": "Alderdi Popular",
         "note": "multilingual"
       },
       {
@@ -334,11 +334,6 @@
       },
       {
         "lang": "eu",
-        "name": "Alderdi Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
         "name": "Partido Popular",
         "note": "multilingual"
       },
@@ -360,6 +355,11 @@
       {
         "lang": "eu",
         "name": "Espainiako Alderdi Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PP",
         "note": "multilingual"
       },
       {
