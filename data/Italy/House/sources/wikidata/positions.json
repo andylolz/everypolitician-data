@@ -2157,8 +2157,8 @@
     },
     {
       "id": "Q6501749",
-      "label": "General Secretary",
-      "title": "General Secretary (of Young Democrats)",
+      "label": "general secretary",
+      "title": "general secretary (of Young Democrats)",
       "description": "leader or chief officer of an organisation",
       "qualifiers": {
         "P580": "2008-11-21",
@@ -4274,12 +4274,6 @@
         "P582": "2014-05-07",
         "P580": "2013-03-05"
       }
-    },
-    {
-      "id": "Q30185",
-      "label": "mayor",
-      "title": "mayor",
-      "description": "head of municipal government such as a town or city"
     }
   ],
   "Q3766909": [
