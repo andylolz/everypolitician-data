@@ -44450,6 +44450,21 @@
       "sort_name": "Widmer, Sigmund"
     },
     {
+      "birth_date": "1967-08-15",
+      "family_name": "Egger",
+      "gender": "male",
+      "given_name": "Thomas",
+      "id": "9317a55f-8ac0-4be1-94e3-31785930a3b5",
+      "identifiers": [
+        {
+          "identifier": "4212",
+          "scheme": "parlamentdotch"
+        }
+      ],
+      "name": "Thomas Egger",
+      "sort_name": "Egger, Thomas"
+    },
+    {
       "birth_date": "1956-04-02",
       "family_name": "Hardegger",
       "gender": "male",
@@ -103116,6 +103131,20 @@
       ]
     },
     {
+      "area_id": "VS",
+      "legislative_period_id": "term/50",
+      "on_behalf_of_id": "0",
+      "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
+      "person_id": "9317a55f-8ac0-4be1-94e3-31785930a3b5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.parlament.ch/en/biografie?CouncillorId=4212"
+        }
+      ],
+      "start_date": "2017-06-15"
+    },
+    {
       "area_id": "ZH",
       "legislative_period_id": "term/49",
       "on_behalf_of_id": "2",
@@ -112453,6 +112482,7 @@
     },
     {
       "area_id": "VS",
+      "end_date": "2017-06-14",
       "legislative_period_id": "term/50",
       "on_behalf_of_id": "3",
       "organization_id": "8f4f13a5-bf1b-4999-a86a-9318f3ca7606",
