@@ -12673,6 +12673,10 @@
         {
           "identifier": "b764",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29861529",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/b764.jpg",
@@ -12681,7 +12685,18 @@
           "url": "http://www.parlament.hu/kepv/kepek/b764.jpg"
         }
       ],
-      "name": "Bóna, Zoltán"
+      "name": "Bóna, Zoltán",
+      "other_names": [
+        {
+          "name": "Bóna Zoltán",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bóna Zoltán",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-05",
