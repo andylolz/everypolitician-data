@@ -8516,12 +8516,20 @@
         "slug": "Parliament",
         "sources_directory": "data/Samoa/Parliament/sources",
         "popolo": "data/Samoa/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bd033a47daf5811343bb50de23d18620944f0558/data/Samoa/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d91f30646ef90b5ede22fd1973b13164f30bcf9c/data/Samoa/Parliament/ep-popolo-v1.0.json",
         "names": "data/Samoa/Parliament/names.csv",
-        "lastmod": "1493311554",
-        "person_count": 49,
-        "sha": "bd033a47daf5811343bb50de23d18620944f0558",
+        "lastmod": "1494314327",
+        "person_count": 81,
+        "sha": "d91f30646ef90b5ede22fd1973b13164f30bcf9c",
         "legislative_periods": [
+          {
+            "id": "term/16",
+            "name": "16th Parliament",
+            "start_date": "2016-03-16",
+            "slug": "16",
+            "csv": "data/Samoa/Parliament/term-16.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d91f30646ef90b5ede22fd1973b13164f30bcf9c/data/Samoa/Parliament/term-16.csv"
+          },
           {
             "end_date": "2016-01-29",
             "id": "term/15",
@@ -8532,7 +8540,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1637b7eff2ae081bebb632f72780d36c021cba05/data/Samoa/Parliament/term-15.csv"
           }
         ],
-        "statement_count": 1839,
+        "statement_count": 2353,
         "type": "unicameral legislature"
       }
     ]
