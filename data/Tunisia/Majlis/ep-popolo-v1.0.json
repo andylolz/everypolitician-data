@@ -2082,9 +2082,16 @@
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Hela_Omrane.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/HelaOmrane-Sayada-Mai-2017-1.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Hela_Omrane"
+        },
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Hela_Omrane"
@@ -2092,6 +2099,16 @@
       ],
       "name": "Hela Omrane",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "هالة عمران",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hela Omrane",
+          "note": "multilingual"
+        },
         {
           "lang": "fr",
           "name": "Hela Omrane",
