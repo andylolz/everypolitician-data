@@ -3254,6 +3254,12 @@
       "classification": "legislative period",
       "end_date": "2016-01-29",
       "id": "term/15",
+      "identifiers": [
+        {
+          "identifier": "Q4551042",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "15th Parliament",
       "organization_id": "61144f35-c484-46e3-8630-6c9e512923ff",
       "start_date": "2011-03-18"
