@@ -8475,6 +8475,10 @@
           "url": "https://fi.wikipedia.org/wiki/Jukka_Kopra"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Jukka_Kopra"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jukka_kopra"
         },
@@ -8502,6 +8506,11 @@
         },
         {
           "lang": "nl",
+          "name": "Jukka Kopra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Jukka Kopra",
           "note": "multilingual"
         }
@@ -26218,6 +26227,14 @@
           "url": "https://fi.wikipedia.org/wiki/Antti_Häkkänen"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Antti_Häkkänen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Antti_Häkkänen"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/anttihakkanen"
         }
@@ -26241,6 +26258,11 @@
         },
         {
           "lang": "nl",
+          "name": "Antti Häkkänen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Antti Häkkänen",
           "note": "multilingual"
         }
@@ -45168,6 +45190,10 @@
           "url": "https://fi.wikipedia.org/wiki/Jari_Leppä"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Jari_Leppä"
+        },
+        {
           "note": "wikipedia",
           "url": "http://fi.wikipedia.org/wiki/Jari_Lepp%C3%A4"
         }
@@ -51382,6 +51408,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Suna_Kymäläinen"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Suna_Kymäläinen"
         },
         {
           "note": "twitter",
