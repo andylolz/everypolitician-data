@@ -2807,6 +2807,19 @@
       "description": "Representative"
     }
   ],
+  "Q29373184": [
+    {
+      "id": "Q6814428",
+      "label": "member of the Australian Senate",
+      "title": "member of the Australian Senate",
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "South Australia",
+        "P1365": "Bob Day",
+        "P580": "2017-04-19"
+      }
+    }
+  ],
   "Q7351217": [
     {
       "id": "Q6814428",
