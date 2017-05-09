@@ -11,16 +11,11 @@
       "type": "membership"
     },
     {
-      "file": "morph/official.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/samoa-parliament",
-        "query": "SELECT * FROM data ORDER BY id"
-      },
+      "file": "archive/official-15.csv",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/data.csv"
+        "reconciliation_file": "reconciliation/official-15.csv"
       },
       "source": "http://www.parliament.gov.ws",
       "type": "person"
