@@ -871,6 +871,11 @@
         "lang": "ja",
         "name": "緑の党",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Scots Green Pairty",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -1021,7 +1026,7 @@
     ],
     "links": [
       {
-        "url": "http://www.scottishsocialistparty.org/",
+        "url": "https://www.scottishsocialistparty.org/",
         "note": "website"
       }
     ]
