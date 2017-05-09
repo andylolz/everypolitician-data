@@ -3446,6 +3446,12 @@
     },
     {
       "birth_date": "1968-07-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SutanovacDragan"
+        }
+      ],
       "gender": "male",
       "given_name": "Dragan",
       "id": "5f341a07-da50-45c9-ba56-f3ad2f540cdc",
@@ -3501,6 +3507,14 @@
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Драган_Шутановац"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/dragan.sutanovac.7"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SutanovacDragan"
         }
       ],
       "name": "DRAGAN SUTANOVAC",
@@ -6501,6 +6515,10 @@
         {
           "note": "Wikipedia (lv)",
           "url": "https://lv.wikipedia.org/wiki/Aleksandars_Vučičs"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Александар_Вучиќ"
         },
         {
           "note": "Wikipedia (nl)",
