@@ -7508,7 +7508,12 @@
         },
         {
           "lang": "en",
-          "name": "Jing-Yi Lin",
+          "name": "Lin Ching-yi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lin Ching-yi",
           "note": "multilingual"
         },
         {
@@ -7518,6 +7523,11 @@
         },
         {
           "lang": "zh",
+          "name": "林靜儀",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
           "name": "林靜儀",
           "note": "multilingual"
         }
@@ -8113,6 +8123,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Sra_Kacaw"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sra_Kacaw"
         },
         {
           "note": "Wikipedia (zh)",
