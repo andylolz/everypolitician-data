@@ -1,1569 +1,4 @@
 {
-  "udi": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q3550126"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "Union des démocrates et indépendants",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unuiĝo de Demokratoj kaj Sendependuloj",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Union des démocrates et indépendants",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union des démocrates et indépendants (Groupe parlementaire)",
-        "note": "multilingual"
-      }
-    ]
-  },
-  "ni": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q327591"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "zh-hans",
-        "name": "无党籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "無黨籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hk",
-        "name": "無黨籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "无党籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-sg",
-        "name": "无党籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-tw",
-        "name": "無黨籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Sans étiquette",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "무소속",
-        "note": "multilingual"
-      },
-      {
-        "lang": "arz",
-        "name": "سياسى مستقل",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidato independiente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ta",
-        "name": "சுயேட்சை",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Parteiloser",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Independen",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "無所属",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "ανεξάρτητος",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "independent politician",
-        "note": "multilingual"
-      },
-      {
-        "lang": "yue",
-        "name": "獨立人士",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "onafhankelijk politicus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Partilös",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "سياسي مستقل",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "político sem partido",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "независимый",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mn",
-        "name": "Бие даагч",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-ec",
-        "name": "независни политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Bağımsız siyasetçi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "politician independent",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "polític independent",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Sitoutumaton",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cy",
-        "name": "Annibynnwr",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "آزاد",
-        "note": "multilingual"
-      },
-      {
-        "lang": "az",
-        "name": "Partiyasız",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "løsgænger",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "無黨籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "независни политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "کنشگر سیاسی مستقل",
-        "note": "multilingual"
-      },
-      {
-        "lang": "war",
-        "name": "Independente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Independent",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-el",
-        "name": "nezavisni političar",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "indipendente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be",
-        "name": "Беспартыйны",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "polityk niezrzeszony",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mr",
-        "name": "अपक्ष",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be-tarask",
-        "name": "Беспартыйны",
-        "note": "multilingual"
-      },
-      {
-        "lang": "he",
-        "name": "פוליטיקאי עצמאי",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "partiløs",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "nezávislý",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "független politikus",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Sendependa",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "निर्दलीय",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sh",
-        "name": "Nezavisni",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "independent politeecian",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Nezávislý politik",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hak",
-        "name": "Mò-tóng-sit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "th",
-        "name": "นักการเมืองอิสระ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Незалежний політик",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sd",
-        "name": "آزاد",
-        "note": "multilingual"
-      },
-      {
-        "lang": "la",
-        "name": "Politicus nullius factionis",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nan",
-        "name": "Bû-tóng-che̍k",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tg",
-        "name": "сиёсатмадори мустақил",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-mo",
-        "name": "無黨籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-my",
-        "name": "无党籍政治人物",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mk",
-        "name": "независен политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tt",
-        "name": "бәйсез",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "無黨派",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "无党派人士",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "獨立人士",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "獨立候選人",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Sans etiquette",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Indépendant",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Non-inscrits",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Non-inscrit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "arz",
-        "name": "Independent",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidato civico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Movimientos cívicos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Independientes",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidatos cívicos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidato Cívico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidatura independiente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Movimiento Cívico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidatura cívica",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Candidata cívica",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ta",
-        "name": "சுயேச்சை",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Unabhängiger",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "freier Abgeordneter",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Politikus independen",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "無所属議員",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "onafhankelijke",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "partijloos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "partijloze",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "partijlozen",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Vänstervilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Liberal vilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Moderat vilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Politiska vildar",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Obunden",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Politisk vilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Frisinnad vilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Högervilde",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "سياسيون مستقلون",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Sem partido",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Político independente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Candidato independente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Bağımsız Politikacı",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Serbest siyasetçi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Politicieni independenţi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Independent",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Politicieni independenți",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cy",
-        "name": "Gwleidydd annibynnol",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cy",
-        "name": "Annibynnol",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cy",
-        "name": "Annibynol",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Uden for partierne",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Frigænger",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Udenfor partierne",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Uafhængig",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Partiløs",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "nonpartisan politician",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "candidato indipendente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "politico indipendente",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be-tarask",
-        "name": "Беспартыйны палітык",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "uavhengig",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "bezpartajní",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "bez stranické příslušnosti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "нестраначки политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "ванстраначки политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mk",
-        "name": "непартиски политичар",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "независимый политик",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "беспартийный",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tt",
-        "name": "фиркасез",
-        "note": "multilingual"
-      }
-    ]
-  },
-  "rrdp": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q3416469"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "fr",
-        "name": "Radical, républicain, démocrate et progressiste",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Vasemmiston radikaaliryhmä",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Radikala, Respublika, Demokrata kaj Progresisma Grupo",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Radical, Republican, Democratic and Progressist",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Radical, Republican, Democratic and Progressist",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Groupe Radical, Républicain, Démocrate et Progressiste",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "RRDP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Groupe radical, républicain, démocrate et progressiste",
-        "note": "multilingual"
-      }
-    ]
-  },
-  "gdr": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q2450519"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "nl",
-        "name": "Gauche démocrate et républicaine",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Democratic and Republican Left",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Gauche démocrate et républicaine",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Vasemmistorintama",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Demokrata kaj Respublikana Maldekstro",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "民主与共和左翼",
-        "note": "multilingual"
-      }
-    ]
-  },
-  "ump": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q173152"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "zh-hans",
-        "name": "人民运动联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hant",
-        "name": "人民運動聯盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-hk",
-        "name": "人民運動聯盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-cn",
-        "name": "人民运动联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-sg",
-        "name": "人民运动联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh-tw",
-        "name": "人民運動聯盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Unia na rzecz Ruchu Ludowego",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "대중운동연합",
-        "note": "multilingual"
-      },
-      {
-        "lang": "he",
-        "name": "הרפובליקנים",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Unión por un Movimiento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ta",
-        "name": "குடிதழீஇய இயக்கச் சங்கம்",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Union per un Movement Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "Unió egy Népi Mozgalomért",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Unione per un Movimento Popolare",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Unión por un Movemento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Persatuan Gerakan Masyarakat",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "国民運動連合",
-        "note": "multilingual"
-      },
-      {
-        "lang": "br",
-        "name": "Unvaniezh evit ul Luskad Poblel",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Ένωση για ένα Λαϊκό Κίνημα",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vi",
-        "name": "Đảng liên minh vì phong trào nhân dân",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Union for a Popular Movement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الاتحاد من أجل حركة شعبية",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "União por um Movimento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Únia za ľudové hnutie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Союз за народное движение",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hy",
-        "name": "Ժողովրդական շարժման միություն",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-el",
-        "name": "Unija za narodni pokret",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr-ec",
-        "name": "Унија за народни покрет",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Halk Hareketi Birliği",
-        "note": "multilingual"
-      },
-      {
-        "lang": "th",
-        "name": "สหภาพเพื่อขบวนการประชาชน",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Uniunea pentru o Mișcare Populară",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unió per a un Moviment Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Союз за Народний Рух",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sl",
-        "name": "Zveza za ljudsko gibanje",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Unie pro lidové hnutí",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bg",
-        "name": "Съюз за народно движение",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "اتحاد برای جنبش مردمی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ka",
-        "name": "კავშირი სახალხო მოძრაობისათვის",
-        "note": "multilingual"
-      },
-      {
-        "lang": "az",
-        "name": "Xalq Hərakatı Uğrunda İttifaq",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hr",
-        "name": "Savez za narodni pokret",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Унија за народни покрет",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "人民运动联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be",
-        "name": "Саюз за народны рух",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "União por um Movimento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tt",
-        "name": "Xalıq xäräkäte öçen Berlek",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be-tarask",
-        "name": "Зьвяз за народны рух (Францыя)",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Union for a Popular Muivement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mk",
-        "name": "Сојуз за народно движење",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Union for a Popular Movement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Union for a Popular Movement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lb",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ilo",
-        "name": "Kappon ti Popular a Tignay",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "法国人民运动联盟",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Union for a Popular Movement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Union pour la Majorité Présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Union pour la Majorite Presidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union pour la majorité présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Union en mouvement",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "대중 운동 연합",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "민중운동연합",
-        "note": "multilingual"
-      },
-      {
-        "lang": "he",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union por un movimiento popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union pour la Majorite Présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union pour la Majorite Presidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Union pour la majorité présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Union per la Majoritat Presidenciala",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Union pour une majorité présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Union pour la majorité présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "人民運動連合",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "民衆運動連合",
-        "note": "multilingual"
-      },
-      {
-        "lang": "br",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "br",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Ένωση για το Λαϊκό Κίνημα",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Union pour la Majorité Présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Folkrörelseunionen",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "UMP-gruppen",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الاتحاد من أجل حركه شعبيه",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الإتحاد من أجل حركة شعبية",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "حزب الاتحاد من أجل حركة شعبية",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Unie voor een Volksbeweging",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "União para o Movimento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unuiĝo por Popola Movado",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unio por Movado Popola",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Unuiĝo por Movado Popola",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Únia pre ľudové hnutie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Союз за президентское большинство Франции",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Союз народного движения",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Союз за президентское большинство",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hy",
-        "name": "ԺՇՄ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hy",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "L'Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "УМП",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Popüler Hareket Birliği",
-        "note": "multilingual"
-      },
-      {
-        "lang": "th",
-        "name": "สหภาพเพื่อกระบวนการประชาชน",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Uniunea pentru o Mişcare Populară",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unió pel Moviment Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Unió per un Moviment Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Kansanliikkeen unioni",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sl",
-        "name": "Union pour un Mouvement Populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Union pour la majorité présidentielle",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Svaz pro lidové hnutí",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "همبستگی برای یک جنبش مردمی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "اتحاد برای جنبشی مردمی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "همبستگی برای جنبشی مردمی",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ka",
-        "name": "კავშირი სახალხო მოძრაობისთვის",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hr",
-        "name": "Union pour un mouvement populaire",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hr",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "Unión por un Movimiento Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Union pour un mouvement populaire – UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "RPR",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "UMP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Union pour la Nouvelle République",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Unionen for en folkebevegelse",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Rassemblement pour la République",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Union des Démocrates pour la République",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Rassemblement du Peuple Français",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Union pour la Majorité Présidentielle",
-        "note": "multilingual"
-      }
-    ]
-  },
-  "ser": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q2236823"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "nl",
-        "name": "Socialiste, radical, citoyen et divers gauche",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Socialist, Radical, Citizen and Miscellaneous Left",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Groupe socialiste",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Socialisternas, de radikalas och medborgarnas grupp",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Sosialistinen ryhmä",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eo",
-        "name": "Socialisma Grupo",
-        "note": "multilingual"
-      }
-    ]
-  },
   "union_pour_un_mouvement_populaire": {
     "identifiers": [
       {
@@ -2318,193 +753,6 @@
         "note": "multilingual"
       }
     ]
-  },
-  "lr": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q20012759"
-      }
-    ],
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "The Republicans",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Los Republicanos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lb",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Οι Ρεπουμπλικανοί",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "共和黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "Cumhuriyetçiler",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ko",
-        "name": "공화당",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "I Repubblicani",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ar",
-        "name": "الجمهوريون",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Республіканці",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Els Republicans",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Republikanie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Republikanerna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Os Republicanos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "Republikánus Párt",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hy",
-        "name": "Հանրապետականներ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fa",
-        "name": "جمهوری‌خواهان",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Республиканцы",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Republicanii",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "The Republicans",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "LR",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "LR",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "LR",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Republikáni",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Les Républicains",
-        "note": "multilingual"
-      }
-    ],
-    "links": [
-      {
-        "url": "http://www.republicains.fr/",
-        "note": "website"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/LesRépublicains15logo.svg"
   },
   "socialiste,_radical_et_citoyen_et_divers_gauche": {
     "identifiers": [
@@ -5927,5 +4175,5173 @@
         "note": "multilingual"
       }
     ]
+  },
+  "tahoeraa_huiraatira": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3513932"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ca",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoeraa huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Tahoeraa huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Tahoeraa huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "人民陣線 (法屬玻里尼西亞)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "人民聯盟 (法屬波利尼西亞)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "人民联盟 (法属波利尼西亚)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Tāhō’ēra’a Huira’atira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Tahoera’a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Tahoeraa huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Tahoeraa Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoera'a",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoera'a Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoeraa Huiraatira",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoeraa Huiraatiraa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Tahoeraa Huiratiraa",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://tahoeraahuiraatira.pf/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Drapeau_Tahoeraa.jpg"
+  },
+  "union_pour_la_majorité_présidentielle": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q173152"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "人民运动联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "人民運動聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "人民運動聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "人民运动联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "人民运动联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "人民運動聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Unia na rzecz Ruchu Ludowego",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "대중운동연합",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הרפובליקנים",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión por un Movimiento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "குடிதழீஇய இயக்கச் சங்கம்",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Union per un Movement Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Unió egy Népi Mozgalomért",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unione per un Movimento Popolare",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Unión por un Movemento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Persatuan Gerakan Masyarakat",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "国民運動連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Unvaniezh evit ul Luskad Poblel",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ένωση για ένα Λαϊκό Κίνημα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng liên minh vì phong trào nhân dân",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Union for a Popular Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الاتحاد من أجل حركة شعبية",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "उनियों पूर अँ मुवमॉ पॉपुलेर",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União por um Movimento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Únia za ľudové hnutie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз за народное движение",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Ժողովրդական շարժման միություն",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Unija za narodni pokret",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Унија за народни покрет",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Halk Hareketi Birliği",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "สหภาพเพื่อขบวนการประชาชน",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Uniunea pentru o Mișcare Populară",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió per a un Moviment Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Союз за Народний Рух",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sl",
+        "name": "Zveza za ljudsko gibanje",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Unie pro lidové hnutí",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Съюз за народно движение",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "اتحاد برای جنبش مردمی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "კავშირი სახალხო მოძრაობისათვის",
+        "note": "multilingual"
+      },
+      {
+        "lang": "az",
+        "name": "Xalq Hərakatı Uğrunda İttifaq",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Savez za narodni pokret",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Унија за народни покрет",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "人民运动联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Саюз за народны рух",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "União por um Movimento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "Xalıq xäräkäte öçen Berlek",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Зьвяз за народны рух (Францыя)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Union for a Popular Muivement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Сојуз за народно движење",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Union for a Popular Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Union for a Popular Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ilo",
+        "name": "Kappon ti Popular a Tignay",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法国人民运动联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Union for a Popular Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Union pour la Majorité Présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Union pour la Majorite Presidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union pour la majorité présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union en mouvement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "대중 운동 연합",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "민중운동연합",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union por un movimiento popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la Majorite Présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la Majorite Presidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la majorité présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Union per la Majoritat Presidenciala",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour une majorité présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour la majorité présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "人民運動連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "民衆運動連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ένωση για το Λαϊκό Κίνημα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union pour la Majorité Présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Folkrörelseunionen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "UMP-gruppen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الاتحاد من أجل حركه شعبيه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الإتحاد من أجل حركة شعبية",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب الاتحاد من أجل حركة شعبية",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Unie voor een Volksbeweging",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "उनियों पुर अँ मुवमॉ पॉपुलेर",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União para o Movimento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unuiĝo por Popola Movado",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unio por Movado Popola",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unuiĝo por Movado Popola",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Únia pre ľudové hnutie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз за президентское большинство Франции",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз народного движения",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз за президентское большинство",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "ԺՇՄ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "L'Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "УМП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Popüler Hareket Birliği",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "สหภาพเพื่อกระบวนการประชาชน",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Uniunea pentru o Mişcare Populară",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió pel Moviment Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió per un Moviment Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Kansanliikkeen unioni",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sl",
+        "name": "Union pour un Mouvement Populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Union pour la majorité présidentielle",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Svaz pro lidové hnutí",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "همبستگی برای یک جنبش مردمی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "اتحاد برای جنبشی مردمی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "همبستگی برای جنبشی مردمی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "კავშირი სახალხო მოძრაობისთვის",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Union pour un mouvement populaire",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Unión por un Movimiento Popular",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Union pour un mouvement populaire – UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "RPR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "UMP",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la Nouvelle République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Unionen for en folkebevegelse",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Rassemblement pour la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union des Démocrates pour la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Rassemblement du Peuple Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la Majorité Présidentielle",
+        "note": "multilingual"
+      }
+    ]
+  },
+  "parti_socialiste": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q170972"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "nan",
+        "name": "Siā-hoē Tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Socjalistyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Frantziako Alderdi Sozialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "המפלגה הסוציאליסטית הצרפתית",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "சோசலிசக் கட்சி",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lij",
+        "name": "Facçion soçialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Partit Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Sosialis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng Xã hội",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλιστικό Κόμμα Γαλλίας",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "scn",
+        "name": "Partitu sucialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاشتراكي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Socialistiska partiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "समाजवादी दल",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Socialista Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Sosyalist Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "พรรคสังคมนิยม",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Socialist",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sosialistinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Соціалістична партія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sl",
+        "name": "Socialistična stranka",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعه‌گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mr",
+        "name": "समाजवादी पक्ष (फ्रान्स)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საფრანგეთის სოციალისტური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička stranka",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lt",
+        "name": "Prancūzijos socialistų partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-arab",
+        "name": "سوتسىيالىيستىك پارتىييا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-cn",
+        "name": "سوتسىيالىيستىك پارتىييا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-tr",
+        "name": "Socïalïstik partïya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-kz",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-cyrl",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-latn",
+        "name": "Socïalïstik partïya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Factio Socialistica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Сацыялістычная партыя",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "Sotsialistik firqä",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Szocialista Párt",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Սոցիալիստական կուսակցություն",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "arz",
+        "name": "الحزب الاشتراكى",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Sosialis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hōe Tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hoē-tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hōe-tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法国社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "French Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PSF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secrétariat nationale du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "L'impact",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secretariat national du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste(France)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secrétariat national du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PS France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti Socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste , PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "SFIO",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "프랑스 사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "불란서 사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S. F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S F",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "PSF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P. S. F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P.S.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialista francese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Sosialis Perancis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Sozialistische Partei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フランス社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Sokialour",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Sokialour Gall",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng xã hội Pháp",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Γαλλικό Σοσιαλιστικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλιστικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاشتراكي الفرنسي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي الفرنسي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Franska socialistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Frankrikes socialistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Socialistische Partij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido socialista francês",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Franca Socialista Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "SFIO",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Socialista Partio de Francio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "PS - Parti Socialiste, Социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социалистическая партия Франции",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "ФСП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Французская социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалистичка партија Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransız Sosyalist Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransa Sosyalist Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Socialist Francez",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialista francès",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Section Française de l'Internationale Ouvrière",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Primer Secretari del PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Secció francesa de la Internacional Obrera",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit socialista de França",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "French Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Французька соціалістична партія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Соціалістична партія Франції",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Det franske sosialistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Socialistická strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Socialistická strana Francie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعهٔ گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب سوسیالیست فرانسه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب سوسیالیست",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعه گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Френска социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Френската социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "სოციალისტური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička partija Francuske",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Parti Socialiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Partito Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Franske socialistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Socialist Party (France)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Section française de l'Internationale ouvrière",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Franske Sosialistiske Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "SFIO",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.parti-socialiste.fr/",
+        "note": "website"
+      }
+    ]
+  },
+  "les_républicains": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q20012759"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "The Republicans",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Los Republicanos",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Οι Ρεπουμπλικανοί",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "共和黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Cumhuriyetçiler",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "공화당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "I Repubblicani",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الجمهوريون",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Республіканці",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Els Republicans",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Republikanie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Republikanerna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Os Republicanos",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Republikánus Párt",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Հանրապետականներ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "جمهوری‌خواهان",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Республиканцы",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Republicanii",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "The Republicans",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "LR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "LR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "LR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Republikáni",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Les Républicains",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.republicains.fr/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/LesRépublicains15logo.svg"
+  },
+  "socialiste": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q170972"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "nan",
+        "name": "Siā-hoē Tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Socjalistyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Frantziako Alderdi Sozialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "המפלגה הסוציאליסטית הצרפתית",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ta",
+        "name": "சோசலிசக் கட்சி",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lij",
+        "name": "Facçion soçialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Partit Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Sosialis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng Xã hội",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλιστικό Κόμμα Γαλλίας",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "scn",
+        "name": "Partitu sucialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاشتراكي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Socialistiska partiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hi",
+        "name": "समाजवादी दल",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Socialista Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Sosyalist Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "พรรคสังคมนิยม",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Socialist",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Sosialistinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Соціалістична партія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sl",
+        "name": "Socialistična stranka",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعه‌گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mr",
+        "name": "समाजवादी पक्ष (फ्रान्स)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საფრანგეთის სოციალისტური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička stranka",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lt",
+        "name": "Prancūzijos socialistų partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-arab",
+        "name": "سوتسىيالىيستىك پارتىييا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-cn",
+        "name": "سوتسىيالىيستىك پارتىييا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-tr",
+        "name": "Socïalïstik partïya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-kz",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-cyrl",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk-latn",
+        "name": "Socïalïstik partïya",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "kk",
+        "name": "Социалистік партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Partido Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Factio Socialistica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "be",
+        "name": "Сацыялістычная партыя",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tt",
+        "name": "Sotsialistik firqä",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Szocialista Párt",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Социјалистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Սոցիալիստական կուսակցություն",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "arz",
+        "name": "الحزب الاشتراكى",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Sosialis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hōe Tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hoē-tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nan",
+        "name": "Siā-hōe-tóng",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法国社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "社會黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "French Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PSF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secrétariat nationale du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "L'impact",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secretariat national du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste(France)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Secrétariat national du Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PS France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti Socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste , PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "SFIO",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "프랑스 사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "불란서 사회당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S. F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S F",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "PSF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P S F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P. S. F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "P.S.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Socialista francese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Sosialis Perancis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Sozialistische Partei",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フランス社会党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Sokialour",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Sokialour Gall",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng xã hội Pháp",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Γαλλικό Σοσιαλιστικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Σοσιαλιστικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاشتراكي الفرنسي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي الفرنسي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Franska socialistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Frankrikes socialistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Socialistische Partij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido socialista francês",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Franca Socialista Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "SFIO",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Socialista Partio de Francio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "PS - Parti Socialiste, Социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социалистическая партия Франции",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "ФСП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Французская социалистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалистичка партија Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransız Sosyalist Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransa Sosyalist Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Partidul Socialist Francez",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Socialista francès",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Section Française de l'Internationale Ouvrière",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Primer Secretari del PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Secció francesa de la Internacional Obrera",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit socialista de França",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "French Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Французька соціалістична партія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Соціалістична партія Франції",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Det franske sosialistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Socialistická strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Socialistická strana Francie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعهٔ گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب سوسیالیست فرانسه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب سوسیالیست",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب جامعه گرا",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Френска социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Френската социалистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "სოციალისტური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Parti socialiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička partija",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hr",
+        "name": "Socijalistička partija Francuske",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Parti Socialiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Partito Socialista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Franske socialistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "PS",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti Socialiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Socialist Party (France)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Section française de l'Internationale ouvrière",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Franske Sosialistiske Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "SFIO",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.parti-socialiste.fr/",
+        "note": "website"
+      }
+    ]
+  },
+  "union_pour_la_démocratie_française": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q827415"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "法国民主联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "法國民主聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "法國民主聯盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União pela Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Unia na rzecz Demokracji Francuskiej",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Frantziako Demokraziaren aldeko Batasuna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Союз за французскую демократию",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión para la Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Union for French Democracy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransız Demokrasisi için Birlik",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Unió per a la Democràcia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Union per la Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Союз за французьку демократію",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Unione per la Democrazia Francese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Ühendus Prantsuse Demokraatia eest",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フランス民主連合",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Unie pro francouzskou demokracii",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Unvaniezh evit an Demokratelezh C'hall",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unionen för fransk demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الاتحاد من أجل الديمقراطية الفرنسية",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法国民主联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ένωση για την Γαλλική Δημοκρατία",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Uniunea pentru Democraţia Franceză",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Unió a Francia Demokráciáért",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法兰西民主联盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法國民主同盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "União para a Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unuiĝo Por Movado Demokratia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unio por Demokratio de Francio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Union pour la Democratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Uniĝo por Franca Demokratio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Unio por la Demokratio de Francio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Union pour la Democratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "UDF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "U.D.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union democratie francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Union pour la democratie francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la democratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la Démocratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la democratie francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union para la Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Union por la Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Unión por la Democracia Francesa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "UDF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour la démocratie francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour la Democratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Union pour la democratie francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "共和党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "UDF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Unvaniezh evit an Demokratelezh Gall",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union Pour La Democratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union pour la Démocratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Union pour la Democratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Unionen för Fransk deomokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Union pour la démocratie française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الاتحاد من أجل الديمقراطيه الفرنسيه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Union pour la Democratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la Democratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Unionen for fransk demokrati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la Démocratie Francaise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Union pour la Democratie Française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "UDF",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.udf.org",
+        "note": "website"
+      }
+    ]
+  },
+  "parti_radical_de_gauche": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q427965"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "Partito Radicale di Sinistra",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Радикална партия на левицата",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Radikal an Tu-kleiz",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Radical d'Esquerra",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Radical Party of the Left",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Maldekstra Radikala Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Radical de Izquierda",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Ezkerreko Alderdi Erradikala",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "左翼急進党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საფრანგეთის მემარცხენე რადიკალური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "좌익급진당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Parti Radical de Gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Partit Radical d’Esquèrra",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Lewicowa Partia Radykalna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Radical de Esquerda",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Радикальная левая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parti Radical de Gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Радикальна партія лівих",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "左派激進黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Radikal Sol Parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "PRG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PRG",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti Radical de Gauche, PRG",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.planeteradicale.org/",
+        "note": "website"
+      }
+    ]
+  },
+  "europe_Écologie_les_verts": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q613786"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Europe Écologie-Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Европа Екология Зелените",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Europe Écologie - Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Europe Écologie Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Europe Ecology – The Greens",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Europe Écologie-Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Europe Écologie – Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Europe Écologie Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Europa Ecologia I Verdi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "ヨーロッパ・エコロジー＝緑の党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "유럽 생태 녹색당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Europe Écologie-Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Euròpa Ecologia Los Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Europe Écologie-Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Европа Экология — «Зелёные»",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "พรรคเพื่อสิ่งแวดล้อมแห่งยุโรป",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Avrupa Ekolojisi - Yeşiller",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "歐洲生態－綠黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Europa Ecologia-Els Verds",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Europe Ecology – The Greens",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Europe écologie–Les verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Eŭropo Ekologio La Verduloj",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "歐洲生態－綠黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "欧洲生态 - 绿党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Europa Ecologia - Os Verdes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Ευρωπαίοι οικολόγοι - Πράσινοι",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "اروپ اکولوژی - سبزها",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Europe Écologie-Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Europe Ecology – The Greens",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Europe Ecology – The Greens",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Europa Ecologia - Os Verdes",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Europe Écologie–Les Verts",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "EELV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "EELV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "EELV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "EELV",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "EELV",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.eelv.fr",
+        "note": "website"
+      }
+    ]
+  },
+  "parti_communiste_français": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q192821"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "法国共产党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "法國共產黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "法國共產黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "法国共产党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "法国共产党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "法國共產黨",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pms",
+        "name": "Partì Comunista Fransèis",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Frantziako Alderdi Komunista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Francuska Partia Komunistyczna",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "프랑스 공산당",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Comunista Francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Partit Comunista Francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Comunista Francese",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Comunista Francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "フランス共産党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Komunour Gall",
+        "note": "multilingual"
+      },
+      {
+        "lang": "vi",
+        "name": "Đảng Cộng sản Pháp",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Γαλλικό Κομμουνιστικό Κόμμα",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "French Communist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Komunistička partija Francuske",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الشيوعي الفرنسي",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Franska kommunistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Franse Communistische Partij",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Partido Comunista Francês",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Franca Komunista Partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Французская коммунистическая партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Komunistička partija Francuske",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Комунистичка партија Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Fransız Komünist Partisi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Comunista Francès",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Ranskan kommunistinen puolue",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Французька комуністична партія",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Det franske kommunistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب کمونیست فرانسه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Френска комунистическа партия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საფრანგეთის კომუნისტური პარტია",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "فرانسی کمیونسٹ پارٹی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Комунистичка странка Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法国共产党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "French Communist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "French Communist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Partido Comunista Francês",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Француска комунистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Factio communistica Francica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Ֆրանսիայի կոմունիստական կուսակցություն",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Francia Kommunista Párt",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "המפלגה הקומוניסטית של צרפת",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ml",
+        "name": "ഫ്രെഞ്ച് കമ്മ്യൂണിസ്റ്റ് പാർട്ടി",
+        "note": "multilingual"
+      },
+      {
+        "lang": "wuu",
+        "name": "法国共产党",
+        "note": "multilingual"
+      },
+      {
+        "lang": "th",
+        "name": "พรรคคอมมิวนิสต์ฝรั่งเศส",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "法共",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Frantziar Alderdi Komunista",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Komunistyczna Partia Francji",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "P.C.F",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti communiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti communiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Section française de l'Internationale communiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "P.C.F.",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Section française de l’Internationale communiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "SFIC",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Communisme français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Parti communiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Comunista de Francia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Comunista Frances",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Comunista di Francia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Comunista de Francia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Kommunistische Partei Frankreichs",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Strollad Komunour Frañs",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Κομμουνιστικό Κόμμα Γαλλίας",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "KP Francuske",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Parti communiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Frankrikes kommunistiska parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Franska Kommunistiska Partiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Parti communiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Communistische Partij van Frankrijk",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Parie commniste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Franca komunisma partio",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Французская компартия",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Коммунистическая партия Франции",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "КП Франции",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "ФКП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Parti communiste française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "КП Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Parti Communiste Français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Partit Comunista Francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Комуністична партія Франції",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nn",
+        "name": "Parti communiste francais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Komunistická strana Francie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Francouzská komunistická strana",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ur",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Partito Comunista Franzés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Partito Comunista Francés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Det franske kommunistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Det franske kommunistiske parti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Frankrikes kommunistparti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Det franske kommunistpartiet",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Parti communiste français",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "PCF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "法共",
+        "note": "multilingual"
+      },
+      {
+        "lang": "wuu",
+        "name": "法共",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.pcf.fr/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Logopcf13.png"
+  },
+  "debout_la_france": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q12962"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Debout la France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "France Arise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Debout la France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Arise the Republic",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Arise the Republic",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "立ち上がれ!共和国",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "약진하는 공화국",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Powstań Republiko",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Ekstaru La Respubliko",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "France Arise",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Levantar a França",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "DLR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "DLF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Hoch die Republik",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "DLR",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Debout la France",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Debout la République",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "DLF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "DLR",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.debout-la-france.fr/",
+        "note": "website"
+      }
+    ]
+  },
+  "parti_socialiste_guyanais": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3366765"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ca",
+        "name": "Partit Socialista Guaianès",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Guianese Socialist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti socialiste guyanais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista Guayanés",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Parti Socialiste Guyanais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Parti socialiste guyanais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Socialista Guayanes",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.psg-guyane.com",
+        "note": "website"
+      }
+    ]
+  },
+  "no_oe_e_te_nuna'a": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3342491"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "ca",
+        "name": "No oe e te nunaa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "No oe e te nunaa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "No Oe E Te Nunaa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "No Oe E Te Nunaa",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "No Oe E Te Nunaa",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.noetn.com/",
+        "note": "website"
+      }
+    ]
+  },
+  "mouvement_indépendantiste_martiniquais": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3142671"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "马提尼克独立运动",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "馬提尼克獨立運動",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "馬提尼克獨立運動",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Ruch na rzecz Niepodległości Martyniki",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Mouvement indépendantiste martiniquais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Martinican Independence Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Movimiento Independentista Martinicano",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Moviment Independentista Martiniquès",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Movimento Indipendentista Martinicano",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "馬提尼克獨立運動",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Martinika Sendependisma Movado",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Martinican Independence Movement",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Mouvement independantiste martiniquais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Mouvement Indépendantiste Martiniquais",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Mouvman Endépandantis Matinitjé",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "MIM",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.mim-mk.org",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Bandera_del_MIM.svg"
+  },
+  "front_national": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q205150"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "zh-hans",
+        "name": "民族阵线",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "民族陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "民族陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "民族阵线",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "民族阵线",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "民族陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pms",
+        "name": "Front nassional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Fronte Nazionala",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Front Narodowy",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "החזית הלאומית",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "국민전선",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "af",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "oc",
+        "name": "Front Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Fronte Nazionale",
+        "note": "multilingual"
+      },
+      {
+        "lang": "gl",
+        "name": "Fronte Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "国民戦線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "br",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nl",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الجبهة الوطنية",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Frente Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Национальный фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "Ազգային ճակատ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "National Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-el",
+        "name": "Nacionalni front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr-ec",
+        "name": "Национални фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Ulusal Cephe",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Front Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Kansallinen rintama",
+        "note": "multilingual"
+      },
+      {
+        "lang": "uk",
+        "name": "Національний фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Národní fronta",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "جبهه ملی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "bg",
+        "name": "Национален фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "საფრანგეთის ეროვნული ფრონტი",
+        "note": "multilingual"
+      },
+      {
+        "lang": "an",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "da",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Национални фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "民族陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sk",
+        "name": "Front national (súčasné Francúzsko)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "et",
+        "name": "Rahvusrinne",
+        "note": "multilingual"
+      },
+      {
+        "lang": "yue",
+        "name": "國民陣線",
+        "note": "multilingual"
+      },
+      {
+        "lang": "el",
+        "name": "Εθνικό Μέτωπο",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Nemzeti Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "National Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "National Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "lb",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Frente Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "Национален фронт",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sco",
+        "name": "Naitional Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "la",
+        "name": "Acies Nationalis Francica",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ro",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sh",
+        "name": "Nacionalni front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "id",
+        "name": "Barisan Nasional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eu",
+        "name": "FN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pl",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "החזית הלאומית לאחדות צרפתית",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Front National pour l'unité française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Front-National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "FNUF",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "FN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "프랑스 국민전선",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "프랑스 국민 전선",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ko",
+        "name": "국민 전선",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Nacional de Francia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "it",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de",
+        "name": "Nationale Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الجبهه الوطنيه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "eo",
+        "name": "Fronto Nacia",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "Национални фронт Француске",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "tr",
+        "name": "Ulusal Cephesi",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ca",
+        "name": "Front National",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fi",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Francouzská národní fronta",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Národní fronta Francie",
+        "note": "multilingual"
+      },
+      {
+        "lang": "cs",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "جبهه ملی فرانسه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "جبههٔ ملی فرانسه",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "جبههٔ ملی",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ka",
+        "name": "ნაციონალური ფრონტი",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Front national",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Front national pour l'unité française",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "National Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "FN",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Front National",
+        "note": "multilingual"
+      }
+    ],
+    "links": [
+      {
+        "url": "http://www.frontnational.com/",
+        "note": "website"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Front_National.svg"
   }
 }
