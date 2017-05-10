@@ -2465,7 +2465,7 @@
           "url": "https://twitter.com/shkhrasheed"
         }
       ],
-      "name": "Sheikh Rashid Ahmed",
+      "name": "Sheikh Rasheed Ahmed",
       "other_names": [
         {
           "name": "Shaikh Rasheed Ahmad",
@@ -14504,12 +14504,8 @@
           "url": "https://en.wikipedia.org/wiki/Shafqat_Mahmood"
         }
       ],
-      "name": "Shafqat Mehmood",
+      "name": "Shafqat Mahmood",
       "other_names": [
-        {
-          "name": "Shafqat Mahmood",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Shafqat Mahmood",
@@ -15523,8 +15519,12 @@
           "url": "https://en.wikipedia.org/wiki/Mian_Abdul_Manan"
         }
       ],
-      "name": "Mian Abdul Manan",
+      "name": "Mian Abdul Mannan",
       "other_names": [
+        {
+          "name": "Mian Abdul Manan",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Mian Abdul Manan",
@@ -16660,12 +16660,8 @@
           "url": "https://en.wikipedia.org/wiki/Arshad_Khan_Leghari"
         }
       ],
-      "name": "Muhammad Arshad Khan Laghari",
+      "name": "Muhammad Arshad Khan Leghari",
       "other_names": [
-        {
-          "name": "Muhammad Arshad Khan Leghari",
-          "note": "alternate"
-        },
         {
           "lang": "en",
           "name": "Muhammad Arshad Khan Leghari",
@@ -17011,8 +17007,12 @@
           "url": "https://en.wikipedia.org/wiki/Muhammad_Junaid_Anwar_Chaudhry"
         }
       ],
-      "name": "Muhammad Junaid Anwar Chaudhry",
+      "name": "Muhammad Junaid Anwar Chaudhary",
       "other_names": [
+        {
+          "name": "Muhammad Junaid Anwar Chaudhry",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Muhammad Junaid Anwar Chaudhry",
@@ -17604,7 +17604,7 @@
           "url": "https://ur.wikipedia.org/wiki/چوہدری_پرویز_الٰہی"
         }
       ],
-      "name": "Ch. Pervaiz Ellahi",
+      "name": "Ch. Pervez Elahi",
       "other_names": [
         {
           "name": "Chaudhry Pervaiz Elahi",
@@ -17646,7 +17646,7 @@
           "note": "multilingual"
         }
       ],
-      "patronymic_name": "Ch.Manzoor Ellahi"
+      "patronymic_name": "Ch.Manzoor Elahi"
     },
     {
       "contact_details": [
@@ -19757,7 +19757,7 @@
           "url": "https://en.wikipedia.org/wiki/Nawab_Muhammad_Yousuf"
         }
       ],
-      "name": "Nawab Muhammad Yousif Talpur",
+      "name": "Nawab Muhammad Yousuf Talpur",
       "other_names": [
         {
           "name": "Nawab Muhammad Yousuf",
@@ -20405,12 +20405,8 @@
           "url": "https://ur.wikipedia.org/wiki/محمود_خان_اچکزئی"
         }
       ],
-      "name": "Mehmood Khan Achakzai",
+      "name": "Mahmood Khan Achakzai",
       "other_names": [
-        {
-          "name": "Mahmood Khan Achakzai",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Mahmood Khan Achakzai",
