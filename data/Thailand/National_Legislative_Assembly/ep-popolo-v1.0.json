@@ -13,7 +13,7 @@
           "scheme": "everypolitician_legacy"
         },
         {
-          "identifier": "Q13020617",
+          "identifier": "Q24174890",
           "scheme": "wikidata"
         }
       ],
@@ -26,18 +26,14 @@
       "links": [
         {
           "note": "Wikipedia (th)",
-          "url": "https://th.wikipedia.org/wiki/วัชรพล_ประสารราชกิจ"
+          "url": "https://th.wikipedia.org/wiki/ณะ_อารีนิจ"
         }
       ],
       "name": "ณะ อารีนิจ",
       "other_names": [
         {
-          "name": "วัชรพล ประสารราชกิจ",
-          "note": "alternate"
-        },
-        {
           "lang": "th",
-          "name": "วัชรพล ประสารราชกิจ",
+          "name": "ณะ อารีนิจ",
           "note": "multilingual"
         }
       ]
@@ -1054,24 +1050,62 @@
     {
       "honorific_prefix": "พลเอก",
       "id": "33a2ba12-4fdc-45f1-bc52-0863380c50a8",
+      "identifiers": [
+        {
+          "identifier": "Q28058488",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9159.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9159.JPG"
         }
       ],
-      "name": "ชัยชาญ ช้างมงคล"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ชัยชาญ_ช้างมงคล"
+        }
+      ],
+      "name": "ชัยชาญ ช้างมงคล",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ชัยชาญ ช้างมงคล",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "นาย",
       "id": "35099b80-0506-45ad-b4aa-23fe66affa56",
+      "identifiers": [
+        {
+          "identifier": "Q13021063",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9026.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9026.JPG"
         }
       ],
-      "name": "วิทยา ผิวผ่อง"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/วิทยา_ผิวผ่อง"
+        }
+      ],
+      "name": "วิทยา ผิวผ่อง",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "วิทยา ผิวผ่อง",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2097,13 +2131,32 @@
     {
       "honorific_prefix": "พลตำรวจโท",
       "id": "614f896f-6740-4fe4-9e86-9d2805398f79",
+      "identifiers": [
+        {
+          "identifier": "Q25543828",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9028.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9028.JPG"
         }
       ],
-      "name": "ศานิตย์ มหถาวร"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ศานิตย์_มหถาวร"
+        }
+      ],
+      "name": "ศานิตย์ มหถาวร",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ศานิตย์ มหถาวร",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "honorific_prefix": "พลอากาศเอก",
@@ -3180,13 +3233,32 @@
     {
       "honorific_prefix": "พลเอก",
       "id": "8a0ec317-07cd-45fd-ad8e-7650aff6a3f0",
+      "identifiers": [
+        {
+          "identifier": "Q28058515",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9160.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9160.JPG"
         }
       ],
-      "name": "สสิน ทองภักดี"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สสิน_ทองภักดี"
+        }
+      ],
+      "name": "สสิน ทองภักดี",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สสิน ทองภักดี",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4197,13 +4269,32 @@
     {
       "honorific_prefix": "พลเอก",
       "id": "b1c232fe-aa69-4688-9e2a-959f373b17a7",
+      "identifiers": [
+        {
+          "identifier": "Q25542483",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9031.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9031.JPG"
         }
       ],
-      "name": "สมศักดิ์ นิลบรรเจิดกุล"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/สมศักดิ์_นิลบรรเจิดกุล"
+        }
+      ],
+      "name": "สมศักดิ์ นิลบรรเจิดกุล",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "สมศักดิ์ นิลบรรเจิดกุล",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
