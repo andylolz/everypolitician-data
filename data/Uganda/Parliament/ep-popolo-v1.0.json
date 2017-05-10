@@ -18659,6 +18659,10 @@
         {
           "identifier": "2015-748",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29618018",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/RUHUNDA748.jpg",
@@ -18668,6 +18672,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Alex_Ruhunda"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/aruhunda"
@@ -18682,6 +18690,18 @@
         }
       ],
       "name": "Alex Ruhunda",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alex Ruhunda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alex Ruhunda",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ruhunda, Alex"
     },
     {
