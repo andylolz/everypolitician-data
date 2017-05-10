@@ -7,6 +7,30 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "oandrade@parlamento.gub.uy"
+        }
+      ],
+      "email": "oandrade@parlamento.gub.uy",
+      "gender": "male",
+      "id": "037d8102-5ba4-41e7-b38a-a68a8c94a567",
+      "identifiers": [
+        {
+          "identifier": "4809917",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09917.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09917.jpg"
+        }
+      ],
+      "name": "Oscar Andrade"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "glrodriguez@parlamento.gub.uy"
         }
       ],
@@ -340,6 +364,64 @@
       "sort_name": "Sánchez , Alejandro"
     },
     {
+      "birth_date": "1955-11-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "cvidalin@parlamento.gub.uy"
+        }
+      ],
+      "email": "cvidalin@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Carmelo",
+      "id": "17f8aed2-3eb3-4578-9b0f-10504b659311",
+      "identifiers": [
+        {
+          "identifier": "4805193",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5752399",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05193.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05193.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carmelo_Vidalín"
+        }
+      ],
+      "name": "Carmelo Vidalín",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Carmelo Vidalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carmelo Vidalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Carmelo Vidalín",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carmelo Vidalín",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -636,6 +718,23 @@
         }
       ],
       "sort_name": "Pasquet Iribarne , Ope"
+    },
+    {
+      "gender": "male",
+      "id": "23d2b2d1-2658-4e91-9be7-97b4e5d322e2",
+      "identifiers": [
+        {
+          "identifier": "4802999",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02999.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02999.jpg"
+        }
+      ],
+      "name": "Fernando José Lorenzo Estefan"
     },
     {
       "contact_details": [
@@ -1040,6 +1139,30 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "ipassada@parlamento.gub.uy"
+        }
+      ],
+      "email": "ipassada@parlamento.gub.uy",
+      "gender": "female",
+      "id": "465e9473-122b-4c99-a877-2f51680e2ccb",
+      "identifiers": [
+        {
+          "identifier": "4807769",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07769.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07769.jpg"
+        }
+      ],
+      "name": "Ivonne Passada"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "mlema@parlamento.gub.uy"
         }
       ],
@@ -1060,6 +1183,75 @@
       ],
       "name": "Martín Lema",
       "sort_name": "Lema , Martín"
+    },
+    {
+      "birth_date": "1962-09-04",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "dbianchi@parlamento.gub.uy"
+        }
+      ],
+      "email": "dbianchi@parlamento.gub.uy",
+      "family_name": "Bianchi",
+      "gender": "male",
+      "given_name": "Daniel",
+      "id": "49152edb-252b-4d0b-9bcc-1d5db689a21f",
+      "identifiers": [
+        {
+          "identifier": "4805131",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5798157",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05131.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05131.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Daniel_Bianchi"
+        }
+      ],
+      "name": "Daniel Bianchi",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "دانييل بيانكي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Daniel Bianchi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Daniel Bianchi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Daniel Bianchi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Daniel Bianchi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniel Bianchi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1110,6 +1302,30 @@
       ],
       "name": "W. Aparicio Ezquerra Alonso",
       "sort_name": "Ezquerra Alonso , W. Aparicio"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eantia@parlamento.gub.uy"
+        }
+      ],
+      "email": "eantia@parlamento.gub.uy",
+      "gender": "male",
+      "id": "54b2c8fe-6b59-41cf-b0d2-607a8561ea3f",
+      "identifiers": [
+        {
+          "identifier": "4800382",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00382.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00382.jpg"
+        }
+      ],
+      "name": "Enrique Antía"
     },
     {
       "contact_details": [
@@ -1358,6 +1574,213 @@
         }
       ],
       "sort_name": "Perdomo Gamarra , Alberto"
+    },
+    {
+      "birth_date": "1966-11-07",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "apereyra@parlamento.gub.uy"
+        }
+      ],
+      "email": "apereyra@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Anibal",
+      "id": "6688e56b-6aa3-4282-b6c4-25fc723c21f9",
+      "identifiers": [
+        {
+          "identifier": "4807742",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5676975",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07742.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07742.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Anibal_Pereyra.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Aníbal_Pereyra"
+        }
+      ],
+      "name": "Aníbal Pereyra",
+      "other_names": [
+        {
+          "name": "Anibal Pereyra",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anibal Pereyra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anibal Pereyra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Anibal Pereyra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anibal Pereyra",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1963-11-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jgarcia@parlamento.gub.uy"
+        },
+        {
+          "type": "twitter",
+          "value": "SenJavierGarcia"
+        }
+      ],
+      "email": "jgarcia@parlamento.gub.uy",
+      "family_name": "García",
+      "gender": "male",
+      "given_name": "Javier",
+      "id": "6f3886ad-eb90-4352-b3d2-d8a4525fbb4d",
+      "identifiers": [
+        {
+          "identifier": "4802965",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/g/121k2knr",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Q3163146",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02965.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02965.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Acto_Colón_Garcìa_2014_cropped.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Javier_García_Duchini"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Javier_García_Duchini"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Javier_García_Duchini"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Javier_García_Duchini"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Javier_García_Duchini"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/diputadojaviergarcia"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenJavierGarcia"
+        }
+      ],
+      "name": "Javier García",
+      "other_names": [
+        {
+          "name": "Javier García Duchini",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Javier García Duchini",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "pferreri@parlamento.gub.uy"
+        }
+      ],
+      "email": "pferreri@parlamento.gub.uy",
+      "gender": "male",
+      "id": "7180120e-ff25-48f6-b078-95b8593a46db",
+      "identifiers": [
+        {
+          "identifier": "4810635",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10635.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10635.jpg"
+        }
+      ],
+      "name": "Pablo Ferreri"
     },
     {
       "birth_date": "1968-07-06",
@@ -1648,6 +2071,54 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "clustemberg@parlamento.gub.uy"
+        }
+      ],
+      "email": "clustemberg@parlamento.gub.uy",
+      "gender": "female",
+      "id": "808aff52-9c35-47ab-a3ed-52ba63d820c1",
+      "identifiers": [
+        {
+          "identifier": "4811526",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11526.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11526.jpg"
+        }
+      ],
+      "name": "María Cristina Lustemberg Haro"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "mmontaner@parlamento.gub.uy"
+        }
+      ],
+      "email": "mmontaner@parlamento.gub.uy",
+      "gender": "female",
+      "id": "80c8f042-e03d-415e-986b-10ae456862dc",
+      "identifiers": [
+        {
+          "identifier": "4802945",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02945.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02945.jpg"
+        }
+      ],
+      "name": "Martha Montaner"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "msantalla@parlamento.gub.uy"
         }
       ],
@@ -1817,6 +2288,72 @@
       "sort_name": "Novales , Gonzalo"
     },
     {
+      "birth_date": "1956-06-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gmujica@parlamento.gub.uy"
+        }
+      ],
+      "email": "gmujica@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Gonzalo",
+      "id": "8c5ba0be-b44a-4ad2-83cc-af45e1bd5b53",
+      "identifiers": [
+        {
+          "identifier": "4807751",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5883126",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07751.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07751.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gonzalo_Mujica.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Gonzalo_Mujica"
+        }
+      ],
+      "name": "Gonzalo Mujica",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Gonzalo Mujica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gonzalo Mujica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Gonzalo Mujica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Gonzalo Mujica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gonzalo Mujica",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1974,6 +2511,65 @@
       ],
       "name": "Adriana González",
       "sort_name": "González , Adriana"
+    },
+    {
+      "birth_date": "1969-03-11",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "adelgado@parlamento.gub.uy"
+        }
+      ],
+      "email": "adelgado@parlamento.gub.uy",
+      "gender": "male",
+      "id": "96bb1038-b0f6-47cd-8a54-b32c39fb9c5f",
+      "identifiers": [
+        {
+          "identifier": "4803948",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q26727956",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03948.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot03948.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AlvaroDelgado-2000x1500.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Álvaro_Delgado_Ceretta"
+        }
+      ],
+      "name": "Alvaro Delgado",
+      "other_names": [
+        {
+          "name": "Álvaro Delgado Ceretta",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Álvaro Delgado Ceretta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Álvaro Delgado Ceretta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Álvaro Delgado Ceretta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-10-07",
@@ -2280,6 +2876,54 @@
       "sort_name": "Varela Nestier , Carlos"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "gbesozzi@parlamento.gub.uy"
+        }
+      ],
+      "email": "gbesozzi@parlamento.gub.uy",
+      "gender": "male",
+      "id": "9de69cd6-448a-4798-857f-ba1cb05bd551",
+      "identifiers": [
+        {
+          "identifier": "4810003",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10003.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot10003.jpg"
+        }
+      ],
+      "name": "Guillermo Besozzi"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "rchiazzaro@parlamento.gub.uy"
+        }
+      ],
+      "email": "rchiazzaro@parlamento.gub.uy",
+      "gender": "male",
+      "id": "9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
+      "identifiers": [
+        {
+          "identifier": "4811587",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11587.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11587.jpg"
+        }
+      ],
+      "name": "Roberto Chiazzaro"
+    },
+    {
       "birth_date": "1972-12-21",
       "contact_details": [
         {
@@ -2440,6 +3084,30 @@
       ],
       "name": "Alfredo Asti",
       "sort_name": "Asti , Alfredo"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "valonso@parlamento.gub.uy"
+        }
+      ],
+      "email": "valonso@parlamento.gub.uy",
+      "gender": "female",
+      "id": "a82b5637-13b7-48b7-b701-742684a69917",
+      "identifiers": [
+        {
+          "identifier": "4809891",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09891.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09891.jpg"
+        }
+      ],
+      "name": "Verónica Alonso"
     },
     {
       "birth_date": "1961-12-25",
@@ -2980,6 +3648,155 @@
       "sort_name": "Sosa Acosta , Heriberto"
     },
     {
+      "birth_date": "1958-04-24",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jcardoso@parlamento.gub.uy"
+        },
+        {
+          "type": "twitter",
+          "value": "SenJoseCarlos"
+        }
+      ],
+      "email": "jcardoso@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "José",
+      "id": "bdd56861-04be-4f4d-ae99-8ca1d7881879",
+      "identifiers": [
+        {
+          "identifier": "4800598",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5938758",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00598.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00598.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Carlos_Cardoso"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenJoseCarlos"
+        }
+      ],
+      "name": "José Carlos Cardoso",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "José Carlos Cardoso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "José Carlos Cardoso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "José Carlos Cardoso",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "José Carlos Cardoso",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "birth_date": "1937-03-27",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vsemproni@parlamento.gub.uy"
+        }
+      ],
+      "death_date": "2016-05-21",
+      "email": "vsemproni@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Víctor",
+      "id": "c14e23b1-9727-4794-bbb7-85bad836e0ab",
+      "identifiers": [
+        {
+          "identifier": "4802882",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6165739",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02882.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02882.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Víctor_Semproni"
+        }
+      ],
+      "name": "Víctor Semproni",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Víctor Semproni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Víctor Semproni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Víctor Semproni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Víctor Semproni",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "ceguiluz@parlamento.gub.uy"
+        }
+      ],
+      "email": "ceguiluz@parlamento.gub.uy",
+      "gender": "female",
+      "id": "c24c7ac7-f703-436e-abd5-c63712ccce46",
+      "identifiers": [
+        {
+          "identifier": "4809964",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09964.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09964.jpg"
+        }
+      ],
+      "name": "Cecilia Eguiluz"
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3364,6 +4181,30 @@
       "contact_details": [
         {
           "type": "email",
+          "value": "motheguy@parlamento.gub.uy"
+        }
+      ],
+      "email": "motheguy@parlamento.gub.uy",
+      "gender": "male",
+      "id": "e03aa528-2e7c-454f-8cc3-1301db5156b4",
+      "identifiers": [
+        {
+          "identifier": "4811523",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11523.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot11523.jpg"
+        }
+      ],
+      "name": "Marcos Javier Otheguy Vega"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
           "value": "rbacigalupe@parlamento.gub.uy"
         }
       ],
@@ -3558,6 +4399,412 @@
       "sort_name": "González , Pablo"
     },
     {
+      "birth_date": "1973-10-31",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "alima@parlamento.gub.uy"
+        }
+      ],
+      "email": "alima@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "Andrés",
+      "id": "f5f4e224-a384-4da4-a40c-af65ce52bb18",
+      "identifiers": [
+        {
+          "identifier": "4809898",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20655410",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09898.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot09898.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Andrés_Lima_Intendente.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Andrés_Lima_(político)"
+        }
+      ],
+      "name": "Andrés Lima",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Andrés Lima",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1947-10-28",
       "contact_details": [
         {
@@ -3721,6 +4968,115 @@
         }
       ],
       "sort_name": "Viera Duarte , Tabaré"
+    },
+    {
+      "birth_date": "1954-11-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "jamorin@parlamento.gub.uy"
+        }
+      ],
+      "email": "jamorin@parlamento.gub.uy",
+      "gender": "male",
+      "given_name": "José",
+      "id": "fee01fd3-3ae4-4034-9336-b54966a30466",
+      "identifiers": [
+        {
+          "identifier": "4801044",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9013534",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot01044.jpg",
+      "images": [
+        {
+          "url": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot01044.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/José_Gerardo_Amorín_Batlle"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/José_Amorín_Batlle"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Amorín_Batlle"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/José_Amorín_Batlle"
+        }
+      ],
+      "name": "José Amorín",
+      "other_names": [
+        {
+          "name": "José Amorín Batlle",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "José Gerardo Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nov",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "José Amorín Batlle",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -4538,6 +5894,19 @@
     {
       "area_id": "area/montevideo",
       "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "037d8102-5ba4-41e7-b38a-a68a8c94a567",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4809917&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_nacional",
       "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
       "person_id": "0c0da44b-4d75-495c-a9e2-3fe1323fa7ef",
@@ -4666,6 +6035,19 @@
       ]
     },
     {
+      "area_id": "area/durazno",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "17f8aed2-3eb3-4578-9b0f-10504b659311",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4805193&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/montevideo",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_frente_amplio",
@@ -4766,6 +6148,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/149"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "23d2b2d1-2658-4e91-9be7-97b4e5d322e2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4802999&SinActPar=s"
         }
       ]
     },
@@ -4928,6 +6323,19 @@
     {
       "area_id": "area/montevideo",
       "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "465e9473-122b-4c99-a877-2f51680e2ccb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4807769&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_nacional",
       "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
       "person_id": "4731f6b6-37aa-40ed-82fe-b3619497a404",
@@ -4935,6 +6343,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/11125"
+        }
+      ]
+    },
+    {
+      "area_id": "area/colonia",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_colorado",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "49152edb-252b-4d0b-9bcc-1d5db689a21f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4805131&SinActPar=s"
         }
       ]
     },
@@ -4961,6 +6382,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/11611"
+        }
+      ]
+    },
+    {
+      "area_id": "area/maldonado",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "54b2c8fe-6b59-41cf-b0d2-607a8561ea3f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4800382&SinActPar=s"
         }
       ]
     },
@@ -5030,6 +6464,45 @@
       ]
     },
     {
+      "area_id": "area/rocha",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "6688e56b-6aa3-4282-b6c4-25fc723c21f9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4807742&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "6f3886ad-eb90-4352-b3d2-d8a4525fbb4d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4802965&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "7180120e-ff25-48f6-b078-95b8593a46db",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4810635&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/durazno",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_frente_amplio",
@@ -5091,6 +6564,32 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/9973"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "808aff52-9c35-47ab-a3ed-52ba63d820c1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4811526&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/tacuarembo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_colorado",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "80c8f042-e03d-415e-986b-10ae456862dc",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4802945&SinActPar=s"
         }
       ]
     },
@@ -5173,6 +6672,19 @@
       ]
     },
     {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "8c5ba0be-b44a-4ad2-83cc-af45e1bd5b53",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4807751&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/canelones",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_nacional",
@@ -5234,6 +6746,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/11857"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "96bb1038-b0f6-47cd-8a54-b32c39fb9c5f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4803948&SinActPar=s"
         }
       ]
     },
@@ -5329,6 +6854,32 @@
       ]
     },
     {
+      "area_id": "area/soriano",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "9de69cd6-448a-4798-857f-ba1cb05bd551",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4810003&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "9f06bdc7-9102-4f7f-9454-4f4acc64c3d1",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4811587&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/canelones",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_nacional",
@@ -5377,6 +6928,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/5851"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "a82b5637-13b7-48b7-b701-742684a69917",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4809891&SinActPar=s"
         }
       ]
     },
@@ -5563,6 +7127,45 @@
       ]
     },
     {
+      "area_id": "area/rocha",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_nacional",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "bdd56861-04be-4f4d-ae99-8ca1d7881879",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4800598&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "c14e23b1-9727-4794-bbb7-85bad836e0ab",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4802882&SinActPar=s"
+        }
+      ]
+    },
+    {
+      "area_id": "area/salto",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_colorado",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "c24c7ac7-f703-436e-abd5-c63712ccce46",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4809964&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/montevideo",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_colorado",
@@ -5706,6 +7309,19 @@
       ]
     },
     {
+      "area_id": "area/canelones",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "e03aa528-2e7c-454f-8cc3-1301db5156b4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4811523&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/san_jose",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_nacional",
@@ -5784,6 +7400,19 @@
       ]
     },
     {
+      "area_id": "area/salto",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_frente_amplio",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "f5f4e224-a384-4da4-a40c-af65ce52bb18",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4809898&SinActPar=s"
+        }
+      ]
+    },
+    {
       "area_id": "area/artigas",
       "legislative_period_id": "term/48",
       "on_behalf_of_id": "party/partido_frente_amplio",
@@ -5819,6 +7448,19 @@
       "sources": [
         {
           "url": "https://parlamento.gub.uy/camarasycomisiones/legisladores/196"
+        }
+      ]
+    },
+    {
+      "area_id": "area/montevideo",
+      "legislative_period_id": "term/48",
+      "on_behalf_of_id": "party/partido_colorado",
+      "organization_id": "1f8d1d06-4b31-4afd-86c5-80de2638b93c",
+      "person_id": "fee01fd3-3ae4-4034-9336-b54966a30466",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlamento.gub.uy/palacio3/legisladores/legislador.asp?ID=4801044&SinActPar=s"
         }
       ]
     }
