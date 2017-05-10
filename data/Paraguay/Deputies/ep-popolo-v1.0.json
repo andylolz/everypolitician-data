@@ -1864,6 +1864,10 @@
         {
           "identifier": "P243",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29881992",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.diputados.gov.py/fotos/cv/P243.jpg",
@@ -1873,6 +1877,13 @@
         }
       ],
       "name": "Víctor Ríos Ojeda",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Víctor Ríos Ojeda",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ríos Ojeda, Víctor"
     },
     {
