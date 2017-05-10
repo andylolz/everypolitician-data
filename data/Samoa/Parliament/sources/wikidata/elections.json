@@ -52,11 +52,11 @@
       }
     ],
     "dates": [
-      "2011-03-04",
-      "2011"
+      "2011-03-04"
     ],
     "follows": "Samoan general election, 2006",
-    "followed_by": "Samoan general election, 2016"
+    "followed_by": "Samoan general election, 2016",
+    "office": "Member of the Legislative Assembly of Samoa"
   },
   "Q7409954": {
     "identifiers": [
@@ -381,6 +381,7 @@
     "dates": [
       "2016-03-04"
     ],
-    "follows": "Samoan general election, 2011"
+    "follows": "Samoan general election, 2011",
+    "office": "Member of the Legislative Assembly of Samoa"
   }
 }

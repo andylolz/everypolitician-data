@@ -2060,6 +2060,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Партія захисту прав людини",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "Hrpp",
           "note": "multilingual"
@@ -3786,7 +3791,7 @@
         }
       ],
       "name": "Samoan general election, 2011",
-      "start_date": "2011"
+      "start_date": "2011-03-04"
     },
     {
       "classification": "legislative period",
