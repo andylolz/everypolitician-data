@@ -1751,6 +1751,10 @@
         {
           "type": "email",
           "value": "senator.watt@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "MurrayWatt"
         }
       ],
       "email": "senator.watt@aph.gov.au",
@@ -1776,16 +1780,27 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/245759/upload_ref_binary/245759.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/2497682476/image.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Murray_Watt"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MurrayWatt"
         }
       ],
       "name": "Murray Watt",
       "other_names": [
+        {
+          "name": "Senator Murray Watt",
+          "note": "alternate"
+        },
         {
           "name": "Senator Murray Watt",
           "note": "alternate"
@@ -2617,6 +2632,10 @@
         {
           "type": "email",
           "value": "senator.hume@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorHume"
         }
       ],
       "email": "senator.hume@aph.gov.au",
@@ -2642,12 +2661,19 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266499/upload_ref_binary/266499.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/861475065166086144/enbhCGCc.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jane_Hume"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorHume"
         }
       ],
       "name": "Jane Hume",
@@ -2769,6 +2795,10 @@
         {
           "type": "email",
           "value": "Senator.McCarthy@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "Malarndirri19"
         }
       ],
       "email": "Senator.McCarthy@aph.gov.au",
@@ -2794,12 +2824,19 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/122087/upload_ref_binary/122087.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/760365249400713221/Xd6_SrNH.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Malarndirri_McCarthy"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Malarndirri19"
         }
       ],
       "name": "Malarndirri McCarthy",
@@ -7582,6 +7619,10 @@
         {
           "type": "email",
           "value": "senator.hinch@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "HumanHeadline"
         }
       ],
       "email": "senator.hinch@aph.gov.au",
@@ -7626,6 +7667,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Derryn_Hinch.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1731026662/Jan_12_035.JPG"
         }
       ],
       "links": [
@@ -7640,6 +7684,10 @@
         {
           "note": "Wikipedia (enwikiquote)",
           "url": "https://enwikiquote.wikipedia.org/wiki/Derryn_Hinch"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HumanHeadline"
         }
       ],
       "name": "Derryn Hinch",
@@ -8727,6 +8775,10 @@
         {
           "type": "email",
           "value": "senator.culleton@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorCulleton"
         }
       ],
       "email": "senator.culleton@aph.gov.au",
@@ -8752,16 +8804,27 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266482/upload_ref_binary/266482.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/762045713345720320/adhAitnR.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rod_Culleton"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorCulleton"
         }
       ],
       "name": "Rod Culleton",
       "other_names": [
+        {
+          "name": "Senator Rod Culleton",
+          "note": "alternate"
+        },
         {
           "name": "Senator Rod Culleton",
           "note": "alternate"
@@ -11223,6 +11286,10 @@
         {
           "type": "email",
           "value": "senator.hanson@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "PaulineHansonOz"
         }
       ],
       "email": "senator.hanson@aph.gov.au",
@@ -11279,6 +11346,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Pauline_Hanson.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/795848085368770560/fnD6Qhgd.jpg"
         }
       ],
       "links": [
@@ -11317,6 +11387,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/寶琳·韓森"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PaulineHansonOz"
         },
         {
           "note": "website",
@@ -13410,6 +13484,10 @@
         {
           "type": "email",
           "value": "senator.griff@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "Stirling_G"
         }
       ],
       "email": "senator.griff@aph.gov.au",
@@ -13435,12 +13513,19 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/76760/upload_ref_binary/76760.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/770123882489581568/K0gyycKZ.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Stirling_Griff"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Stirling_G"
         },
         {
           "note": "website",
@@ -16611,6 +16696,10 @@
         {
           "type": "email",
           "value": "senator.roberts@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorMRoberts"
         }
       ],
       "email": "senator.roberts@aph.gov.au",
@@ -16636,6 +16725,9 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/266524/upload_ref_binary/266524.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/827440857926152193/Y6M8-qhz.jpg"
         }
       ],
       "links": [
@@ -16646,10 +16738,18 @@
         {
           "note": "Wikipedia (si)",
           "url": "https://si.wikipedia.org/wiki/මැල්කම්_රොබට්ස්_(දේශපාලක)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorMRoberts"
         }
       ],
       "name": "Malcolm Roberts",
       "other_names": [
+        {
+          "name": "Sen. Malcolm Roberts",
+          "note": "alternate"
+        },
         {
           "name": "Senator Malcolm Roberts",
           "note": "alternate"
@@ -17009,6 +17109,12 @@
       "sort_name": "Harris, Leonard"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "senatorlucy"
+        }
+      ],
       "family_name": "Gichuhi",
       "gender": "female",
       "given_name": "Lucy",
@@ -17027,10 +17133,20 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://pbs.twimg.com/profile_images/861842494505353216/yQqtW8-N.jpg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/861842494505353216/yQqtW8-N.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lucy_Gichuhi"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/senatorlucy"
         }
       ],
       "name": "Lucy Gichuhi",
@@ -17593,6 +17709,10 @@
         {
           "type": "email",
           "value": "senator.chisholm@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "AnthonyChisholm"
         }
       ],
       "email": "senator.chisholm@aph.gov.au",
@@ -17618,12 +17738,19 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/39801/upload_ref_binary/39801.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/1497608562/chisholm.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Anthony_Chisholm_(politician)"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/AnthonyChisholm"
         }
       ],
       "name": "Anthony Chisholm",
@@ -19430,6 +19557,10 @@
         {
           "type": "email",
           "value": "senator.burston@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "SenatorBurston"
         }
       ],
       "email": "senator.burston@aph.gov.au",
@@ -19455,16 +19586,27 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/207807/upload_ref_binary/207807.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/762478709714538497/w9W1CXMw.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Brian_Burston"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorBurston"
         }
       ],
       "name": "Brian Burston",
       "other_names": [
+        {
+          "name": "Sen. Brian Burston",
+          "note": "alternate"
+        },
         {
           "name": "Senator Brian Burston",
           "note": "alternate"
@@ -19701,6 +19843,9 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/247512/upload_ref_binary/247512.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/378800000122266357/8496b95dd1b800c66bf84cd034d1e1b4.jpeg"
         }
       ],
       "links": [
