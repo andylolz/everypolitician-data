@@ -2696,8 +2696,16 @@
           "url": "https://ar.wikipedia.org/wiki/مون_جاي_في"
         },
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Мун_Че-ин"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
           "note": "Wikipedia (de)",
@@ -2712,8 +2720,20 @@
           "url": "https://en.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/מון_ג'יאה-אין"
         },
         {
           "note": "Wikipedia (id)",
@@ -2740,6 +2760,10 @@
           "url": "https://kowikisource.wikipedia.org/wiki/저자:문재인"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Mun_Jaein"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Mun_Džėinas"
         },
@@ -2748,8 +2772,20 @@
           "url": "https://mg.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
           "note": "Wikipedia (ru)",
@@ -2758,6 +2794,14 @@
         {
           "note": "Wikipedia (ruwikinews)",
           "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Мун_Джэ_Ин"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
           "note": "Wikipedia (th)",
@@ -2810,6 +2854,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bg",
+          "name": "Мун Че-ин",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Moon Jae-in",
           "note": "multilingual"
@@ -2817,6 +2866,11 @@
         {
           "lang": "cn",
           "name": "文在寅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Mun Če-in",
           "note": "multilingual"
         },
         {
@@ -2851,6 +2905,11 @@
         },
         {
           "lang": "ext",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Moon Jae-in",
           "note": "multilingual"
         },
@@ -2890,6 +2949,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "la",
+          "name": "Mun Jaein",
+          "note": "multilingual"
+        },
+        {
           "lang": "lt",
           "name": "Mun Džėinas",
           "note": "multilingual"
@@ -2915,8 +2979,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Мун Джэ Ин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Moon Jae-in",
           "note": "multilingual"
         },
         {
@@ -37028,6 +37102,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Demokratikus Összefogás Pártja",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "새정치민주연합",
           "note": "multilingual"
@@ -37830,6 +37909,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Demokratikus Összefogás Pártja",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "새정치민주연합",
           "note": "multilingual"
@@ -38244,6 +38328,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Demokratikus Összefogás Pártja",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "새정치민주연합",
           "note": "multilingual"
@@ -38645,6 +38734,11 @@
         {
           "lang": "hu",
           "name": "Igazság Párt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العدالة (كوريا الجنوبية)",
           "note": "multilingual"
         },
         {
