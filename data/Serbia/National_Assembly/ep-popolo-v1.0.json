@@ -9671,21 +9671,39 @@
       "sort_name": "SASA RADULOVIC"
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-01-27",
       "contact_details": [
         {
           "type": "twitter",
           "value": "DubravkaFilipov"
         }
       ],
+      "gender": "female",
+      "given_name": "Dubravka",
       "id": "e53c976a-cc45-4400-bf05-e4b8cce1c220",
       "identifiers": [
         {
           "identifier": "595",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16630186",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dubravka_Filipovski"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dubravka_Filipovski"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Dubravka_Filipovski"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/dubravka.filipovski"
@@ -9696,6 +9714,43 @@
         }
       ],
       "name": "DUBRAVKA FILIPOVSKI",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Dubravka Filipovski",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DUBRAVKA FILIPOVSKI"
     },
     {
