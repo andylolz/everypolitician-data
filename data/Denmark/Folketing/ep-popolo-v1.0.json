@@ -282,6 +282,10 @@
         {
           "identifier": "Q12339772",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCDxWzDSrN2ZpAjbCBGiJDyw",
+          "scheme": "youtube"
         }
       ],
       "links": [
@@ -5905,6 +5909,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Arne_Melchior"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Arne_Melchior"
         },
         {
           "note": "website",
@@ -14345,6 +14353,10 @@
         {
           "identifier": "Q12324714",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCkO5GqmJ6171uuqlJxUMNDw",
+          "scheme": "youtube"
         }
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Liv_Holm_Andersen_Portræt.jpg",
@@ -35892,6 +35904,10 @@
         {
           "identifier": "Q12326843",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCX2fVIyyWKfQP7SJ9UL-ATw",
+          "scheme": "youtube"
         }
       ],
       "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mette%20Reissmann/Mette_Reissmann_133.jpg.ashx",
