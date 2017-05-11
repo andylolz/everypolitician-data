@@ -19265,6 +19265,7 @@
       ]
     },
     {
+      "birth_date": "1986-06-23",
       "contact_details": [
         {
           "type": "email",
@@ -19273,9 +19274,23 @@
       ],
       "email": "merete.scheelsbeck@ft.dk",
       "family_name": "Scheelsbeck",
+      "gender": "female",
       "given_name": "Merete",
       "id": "5f838ae3-9d3e-42f6-b4bd-fcbbb5652621",
-      "name": "Merete Scheelsbeck"
+      "identifiers": [
+        {
+          "identifier": "Q29880936",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Merete Scheelsbeck",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1984-07-10",
