@@ -6318,9 +6318,75 @@
         {
           "identifier": "440",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q2076119",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Peter_Jossen"
         }
       ],
       "name": "Peter Jossen-Zinsstag",
+      "other_names": [
+        {
+          "name": "Peter Jossen",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Peter Jossen",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Jossen-Zinsstag, Peter"
     },
     {
@@ -40548,11 +40614,112 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "123933218",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "33654",
+          "scheme": "hds"
+        },
+        {
+          "identifier": "n97096181",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "789",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "47681883",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1039793",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (als)",
+          "url": "https://als.wikipedia.org/wiki/Carl_Miville"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Carl_Miville-Seiler"
         }
       ],
       "name": "Carl jun. Miville",
+      "other_names": [
+        {
+          "name": "Carl Miville-Seiler",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Carl Miville",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carl Miville-Seiler",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Miville, Carl jun."
     },
     {
