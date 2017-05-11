@@ -14141,6 +14141,10 @@
           "url": "https://it.wikipedia.org/wiki/Roberto_Cotti"
         },
         {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Roberto_Cotti"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/robertocottisenato"
         }
@@ -19780,6 +19784,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Luigi_Compagna"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Luigi_Compagna"
         },
         {
           "note": "twitter",
@@ -29259,6 +29267,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Riccardo_Conti"
+        },
+        {
+          "note": "Wikipedia (lmo)",
+          "url": "https://lmo.wikipedia.org/wiki/Riccardo_Conti"
         }
       ],
       "name": "CONTI Riccardo",
@@ -39125,6 +39137,11 @@
         {
           "lang": "el",
           "name": "Λέγκα του Βορρά",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "הליגה הצפונית",
           "note": "multilingual"
         },
         {
