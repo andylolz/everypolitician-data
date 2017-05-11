@@ -2419,6 +2419,10 @@
           "url": "https://tpi.wikipedia.org/wiki/Derek_Sikua"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Дерек_Сікуа"
+        },
+        {
           "note": "Wikipedia (yo)",
           "url": "https://yo.wikipedia.org/wiki/Derek_Sikua"
         }
@@ -2522,6 +2526,11 @@
         {
           "lang": "tpi",
           "name": "Derek Sikua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Дерек Сікуа",
           "note": "multilingual"
         },
         {
