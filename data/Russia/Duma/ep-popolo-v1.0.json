@@ -10280,13 +10280,36 @@
       "birth_date": "1963-09-13",
       "gender": "male",
       "id": "390b3e0d-4c3c-416c-b22c-e84c73918b16",
+      "identifiers": [
+        {
+          "identifier": "Q29864936",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/b55/b55213463104f1d4d94a2b174f2414dc.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b55/b55213463104f1d4d94a2b174f2414dc.jpg"
         }
       ],
-      "name": "Букачаков Родион Борисович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Букачаков,_Родион_Борисович"
+        }
+      ],
+      "name": "Букачаков Родион Борисович",
+      "other_names": [
+        {
+          "name": "Родион Борисович Букачаков",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Родион Борисович Букачаков",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1937-11-13",
@@ -13692,13 +13715,36 @@
       "birth_date": "1975-10-10",
       "gender": "male",
       "id": "4ae4ae6e-8409-4550-a4e8-7973d88b10dd",
+      "identifiers": [
+        {
+          "identifier": "Q29865367",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/5be/5be31136092d43c871a07da1baee427e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/5be/5be31136092d43c871a07da1baee427e.jpg"
         }
       ],
-      "name": "Панов Владимир Александрович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Панов,_Владимир_Александрович"
+        }
+      ],
+      "name": "Панов Владимир Александрович",
+      "other_names": [
+        {
+          "name": "Владимир Александрович Панов",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Владимир Александрович Панов",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-12-29",
@@ -14721,12 +14767,18 @@
     },
     {
       "birth_date": "1948-10-10",
+      "death_date": "2017-05-06",
       "gender": "male",
+      "given_name": "Vasily",
       "id": "5486d726-1bee-4210-8900-4eb3cb5a4705",
       "identifiers": [
         {
           "identifier": "131323",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29883665",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/3fa/3fa0a41d12fb636ed5f582bc6ff74221.jpg",
@@ -14735,7 +14787,52 @@
           "url": "http://www.duma.gov.ru/upload/iblock/3fa/3fa0a41d12fb636ed5f582bc6ff74221.jpg"
         }
       ],
-      "name": "Тарасюк Василий Михайлович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vasily_Tarasyuk"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тарасюк,_Василий_Михайлович"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Василий_Тарасюк"
+        }
+      ],
+      "name": "Тарасюк Василий Михайлович",
+      "other_names": [
+        {
+          "name": "Тарасюк, Василий Михайлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Vasily Tarasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vasily Tarasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vasily Tarasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vasily Tarasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Тарасюк, Василий Михайлович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1948-08-08",
@@ -18171,13 +18268,36 @@
       "birth_date": "1964-06-07",
       "gender": "male",
       "id": "70817b08-8d7b-4a90-a32e-a5e29e3f237a",
+      "identifiers": [
+        {
+          "identifier": "Q29865106",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/423/42346af789db3313753570572957a079.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/423/42346af789db3313753570572957a079.jpg"
         }
       ],
-      "name": "Зобнев Виктор Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Зобнев,_Виктор_Викторович"
+        }
+      ],
+      "name": "Зобнев Виктор Викторович",
+      "other_names": [
+        {
+          "name": "Виктор Викторович Зобнев",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Виктор Викторович Зобнев",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-07-22",
@@ -21485,13 +21605,36 @@
       "birth_date": "1977-08-10",
       "gender": "male",
       "id": "8230fbb5-f9a3-4e88-9ce6-b1bde7fd8c44",
+      "identifiers": [
+        {
+          "identifier": "Q29864955",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/d94/d941e795e267d656e041722b659de96e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/d94/d941e795e267d656e041722b659de96e.jpg"
         }
       ],
-      "name": "Дзюба Виктор Викторович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Виктор_Викторович_Дзюба"
+        }
+      ],
+      "name": "Дзюба Виктор Викторович",
+      "other_names": [
+        {
+          "name": "Виктор Викторович Дзюба",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Виктор Викторович Дзюба",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-03-28",
@@ -27712,13 +27855,36 @@
       "birth_date": "1978-08-11",
       "gender": "male",
       "id": "a8dff63f-3c56-484b-9b74-48e5e744fcfa",
+      "identifiers": [
+        {
+          "identifier": "Q29865313",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/1a6/1a66ef8645ab2748d352a06ff7d1ea86.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/1a6/1a66ef8645ab2748d352a06ff7d1ea86.jpg"
         }
       ],
-      "name": "Москвин Денис Павлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Москвин,_Денис_Павлович"
+        }
+      ],
+      "name": "Москвин Денис Павлович",
+      "other_names": [
+        {
+          "name": "Денис Павлович Москвин",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Денис Павлович Москвин",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-06-26",
