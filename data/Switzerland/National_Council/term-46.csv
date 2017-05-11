@@ -1,5 +1,5 @@
 id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender
-c810d1db-3406-4397-aed1-dc86e251a519,Adalbert Durrer,"Durrer, Adalbert",,,,C,3,OW,Obwalden,National Council,46,,2001-10-05,,male
+c810d1db-3406-4397-aed1-dc86e251a519,Adalbert Durrer,"Durrer, Adalbert",,,,C,3,OW,Obwalden,National Council,46,,2001-10-05,https://upload.wikimedia.org/wikipedia/commons/b/b0/Adalbert_Durrer.jpg,male
 f2fd8abd-3d8d-41e3-9e39-cb0bf5df0438,Adriano Imfeld,"Imfeld, Adriano",,,,C,3,OW,Obwalden,National Council,46,2001-11-16,,https://upload.wikimedia.org/wikipedia/commons/a/ab/Adriano_Imfeld.jpg,male
 6bd27ea8-6685-47df-871d-385442bce799,Alex Heim,"Heim, Alex",,,,C,3,SO,Solothurn,National Council,46,,,,male
 88cdff90-39dc-4115-ad6e-7c450e88fac3,Alexander Tschäppät,"Tschäppät, Alexander",,,,S,2,BE,Bern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/e/e4/Alexander_Tschäppät.jpg,male
@@ -54,7 +54,7 @@ fa980faf-0535-4618-919a-47100e1193c2,Fabio Abate,"Abate, Fabio",,,,RL,1,TI,Tessi
 8cf02840-2089-4a2a-b470-8afa4e078c68,Flavio Maspoli,"Maspoli, Flavio",,,,-,99,TI,Tessin,National Council,46,,,,male
 5889c58c-c3a1-49f8-9a53-c2219d07bdc2,Franco Cavalli,"Cavalli, Franco",,,,S,2,TI,Tessin,National Council,46,2002-06-03,,,male
 73327a8d-f4e4-495a-9fc0-933af8308ae8,Franz Brun,"Brun, Franz",,,,C,3,LU,Luzern,National Council,46,2003-05-05,,,male
-41099104-136f-4595-992e-5a1d632b2d4a,Franz Steinegger,"Steinegger, Franz",,,,RL,1,UR,Uri,National Council,46,,,,male
+41099104-136f-4595-992e-5a1d632b2d4a,Franz Steinegger,"Steinegger, Franz",,,,RL,1,UR,Uri,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/d/d1/Franz_Steinegger.jpg,male
 56539d21-1750-46b5-a2ce-febbbc4de5ca,Franziska Teuscher,"Teuscher, Franziska",,,,G,6,BE,Bern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/9/92/Franziska_Teuscher_(Grüne).jpg,female
 260c37c2-f880-4414-813f-fe9d92933c7a,François Lachat,"Lachat, François",,,,C,3,JU,Jura,National Council,46,,,,male
 00f6a63c-2b41-492f-9ec6-03512357f7c4,Fritz Abraham Oehrli,"Oehrli, Fritz Abraham",,,,V,4,BE,Bern,National Council,46,,,,male
@@ -63,7 +63,7 @@ f4aef6c9-2faa-46f4-adb5-24326e100f8f,Gabriele Gendotti,"Gendotti, Gabriele",,,,R
 864249c6-4f3c-4e8c-b8e2-f7347d676de6,Georges Theiler,"Theiler, Georges",,GTheiler,,RL,1,LU,Luzern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/7/7c/Georges_Theiler_(2007).jpg,male
 616e8782-4425-4fef-9cd8-ec65d8b0d69b,Gerold Bührer,"Bührer, Gerold",,,,RL,1,SH,Schaffhausen,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/b/ba/Gerold_Bührer.jpg,male
 89d8a2cd-7640-49a5-b345-6a6a1dbe879a,Giuliano Bignasca,"Bignasca, Giuliano",,,,-,99,TI,Tessin,National Council,46,,,,male
-0482586b-c346-4acb-afa3-d7a85741aba9,Guido Zäch,"Zäch, Guido",,,,C,3,AG,Aargau,National Council,46,,2003-07-11,,male
+0482586b-c346-4acb-afa3-d7a85741aba9,Guido Zäch,"Zäch, Guido",,,,C,3,AG,Aargau,National Council,46,,2003-07-11,https://upload.wikimedia.org/wikipedia/commons/0/0c/GAZ_2013.jpg,male
 a9234943-b1ee-483c-82de-3cf5e3a8ab95,Hans Fehr,"Fehr, Hans",,,,V,4,ZH,Zürich,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/2/2b/Hans_Fehr.jpg,male
 413934b6-e4fa-4d5a-9fec-a8715b5db5f5,Hans Kaufmann,"Kaufmann, Hans",,,,V,4,ZH,Zürich,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/3/39/Hans_Kaufmann_(2007).jpg,male
 a8702bb3-8608-4bfb-94bd-71a01f43ed2b,Hans Rudolf Gysin,"Gysin, Hans Rudolf",,,,RL,1,BL,Basel-Landschaft,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/d/da/Hans_Rudolf_Gysin_(2007).jpg,male
@@ -96,12 +96,12 @@ e5959929-6e02-4e59-924a-b7a4d88814fc,Jean Spielmann,"Spielmann, Jean",,,,-,99,GE
 fbbeaaf3-0428-430d-ac88-83661ca60670,Jean-Claude Rennwald,"Rennwald, Jean-Claude",,,,S,2,JU,Jura,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/3/33/Jean-Claude_Rennwald_(2007).jpg,male
 c4e7ffd4-29f4-40f5-9224-23cf1c8c9198,Jean-Claude Vaudroz,"Vaudroz, Jean-Claude",,,,C,3,GE,Genf,National Council,46,,,,male
 8e31d13c-ec6b-416b-9926-b9206eba50a9,Jean-Michel Cina,"Cina, Jean-Michel",,,,C,3,VS,Wallis,National Council,46,2002-10-07,,https://upload.wikimedia.org/wikipedia/commons/b/b3/JMC_Wiki.jpg,male
-553df8c5-c966-47af-88b9-06f11b849ad5,Jean-Nils de Dardel,"de Dardel, Jean-Nils",,,,S,2,GE,Genf,National Council,46,,,,male
+553df8c5-c966-47af-88b9-06f11b849ad5,Jean-Nils de Dardel,"de Dardel, Jean-Nils",,,,S,2,GE,Genf,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/8/8f/Jean-Nils_de_Dardel.jpg,male
 5015165f-25ab-41aa-a1b1-0ab204caf6be,Jean-Paul Glasson,"Glasson, Jean-Paul",,,,RL,1,FR,Freiburg,National Council,46,,,,male
 cb4404f5-6837-4460-b932-cdf4dba18ed3,Jean-Philippe Maitre,"Maitre, Jean-Philippe",,,,C,3,GE,Genf,National Council,46,2002-10-07,,https://upload.wikimedia.org/wikipedia/commons/e/e0/Jean-Philippe_Maitre.jpg,male
 f2162614-c4fb-4a05-9234-3e0bf454d1d0,Johann N. Schneider-Ammann,"Schneider-Ammann, Johann N.",,_br_jsa,,RL,1,BE,Bern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/a/a6/Johann_Schneider-Ammann_2011.jpg,male
 acab458a-0542-451c-95d9-b3e69066959e,Johannes Randegger,"Randegger, Johannes",,,,RL,1,BS,Basel-Stadt,National Council,46,,,,male
-a371fd7a-359b-4062-9477-fc4e0f0d5f66,John Dupraz,"Dupraz, John",,,,RL,1,GE,Genf,National Council,46,,,,male
+a371fd7a-359b-4062-9477-fc4e0f0d5f66,John Dupraz,"Dupraz, John",,,,RL,1,GE,Genf,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/1/11/John_Dupraz.jpg,male
 96fa43bb-784e-4842-a323-ecc052b1dc7c,Josef Kunz,"Kunz, Josef",,,,V,4,LU,Luzern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/0/06/Josef_Kunz_(2007).jpg,male
 755d4da7-6e6d-4216-bbb4-472ca63d221a,Josef Leu,"Leu, Josef",,,,C,3,LU,Luzern,National Council,46,,,,male
 cb3cb5a0-a509-4149-89e6-7b91170261ac,Josef Zisyadis,"Zisyadis, Josef",,,,-,99,VD,Waadt,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/2/24/Josef_Zisyadis_(2007).jpg,male
@@ -195,7 +195,7 @@ b49aff7c-c593-4ca2-931f-71f073f26842,Trix Heberlein,"Heberlein, Trix",,,,RL,1,ZH
 6602d198-89df-40e3-af4b-9caf8b69bf14,Ulrich Siegrist,"Siegrist, Ulrich",,,,V,4,AG,Aargau,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/f/fb/Ulrich_Siegrist.jpg,male
 345ef9b7-29a5-46e4-b89d-d155770150b9,Urs Hofmann,"Hofmann, Urs",,,,S,2,AG,Aargau,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/2/22/Urs_Hofmann_(2007).jpg,male
 74e3eb51-f6e9-4d6a-8455-db2033e38637,Ursula Haller Vannini,"Haller Vannini, Ursula",,,,V,4,BE,Bern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/2/2a/Ursula_Haller_2.jpg,female
-d1685efa-f47a-4030-9391-a9339d2f65e3,Ursula Koch,"Koch, Ursula",,,,S,2,ZH,Zürich,National Council,46,,2000-05-10,,female
+d1685efa-f47a-4030-9391-a9339d2f65e3,Ursula Koch,"Koch, Ursula",,,,S,2,ZH,Zürich,National Council,46,,2000-05-10,https://upload.wikimedia.org/wikipedia/commons/b/bc/Ursula_Koch.jpg,female
 38643971-a6cc-4a4d-b470-78f9df804bf4,Ursula Wyss,"Wyss, Ursula",,,,S,2,BE,Bern,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/d/d6/Ursula_Wyss_2.jpg,female
 8603250a-0fe8-4315-b145-04ff33f7aa4d,Valérie Garbani,"Garbani, Valérie",,,,S,2,NE,Neuenburg,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/d/d1/Valérie_Garbani.jpg,female
 b6f8ee65-eddb-4474-af00-e0ddf7fa9fbb,Vreni Hubmann,"Hubmann, Vreni",,,,S,2,ZH,Zürich,National Council,46,,,https://upload.wikimedia.org/wikipedia/commons/1/11/Vreni_Hubmann.jpg,female

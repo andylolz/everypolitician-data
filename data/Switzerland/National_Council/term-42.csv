@@ -45,7 +45,7 @@ e99d674d-7539-4cac-b635-defd071a55b6,Ernst Eggenberg,"Eggenberg, Ernst",,,,S,2,B
 10f0acd9-6351-4839-b64b-9a62351cb1d8,Flavio Cotti,"Cotti, Flavio",,,,C,3,TI,Tessin,National Council,42,1983-12-01,1986-12-10,,male
 7a860bf6-408b-494a-b988-8e6b9cc46a02,Franz Eng,"Eng, Franz",,,,RL,1,SO,Solothurn,National Council,42,,,,male
 e6cdd287-c951-47b5-a2ac-36560845a726,Franz Jung,"Jung, Franz",,,,C,3,LU,Luzern,National Council,42,,,,male
-41099104-136f-4595-992e-5a1d632b2d4a,Franz Steinegger,"Steinegger, Franz",,,,RL,1,UR,Uri,National Council,42,,,,male
+41099104-136f-4595-992e-5a1d632b2d4a,Franz Steinegger,"Steinegger, Franz",,,,RL,1,UR,Uri,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/d/d1/Franz_Steinegger.jpg,male
 cb24acd5-48ec-4c8f-896e-b78efa9632ce,François Borel,"Borel, François",,,,S,2,NE,Neuenburg,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/d/d1/François_Borel.jpg,male
 33313f81-f358-4c82-a2d0-54cee008e534,François Jeanneret,"Jeanneret, François",,,,L,7,NE,Neuenburg,National Council,42,,,,male
 e2ab128f-70ab-4008-9bba-81ada2444e8a,Françoise Pitteloud,"Pitteloud, Françoise",,,,S,2,VD,Waadt,National Council,42,,,,female
@@ -62,7 +62,7 @@ efa6987f-d4d2-40e3-9078-19e9ceec272b,Georg Nef,"Nef, Georg",,,,RL,1,SG,St. Galle
 dfcb97c4-6be7-46ed-b76c-c3044a87b384,Georges Thévoz,"Thévoz, Georges",,,,L,7,VD,Waadt,National Council,42,,,,male
 cc7a7506-7521-4761-bbd2-9704ed386b90,Gianfranco Cotti,"Cotti, Gianfranco",,,,C,3,TI,Tessin,National Council,42,,,,male
 744c5645-aab0-44f0-bbee-bb73ac588073,Gilbert Coutau,"Coutau, Gilbert",,,,L,7,GE,Genf,National Council,42,,,,male
-d7988477-84d2-4db2-8177-b7f8f3d8ed5a,Gilles Petitpierre,"Petitpierre, Gilles",,,,RL,1,GE,Genf,National Council,42,,,,male
+d7988477-84d2-4db2-8177-b7f8f3d8ed5a,Gilles Petitpierre,"Petitpierre, Gilles",,,,RL,1,GE,Genf,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/9/90/Gilles_Petitpierre_by_Erling_Mandelmann_-_2.jpg,male
 1bf20734-026a-43fb-944b-5f243dac82e6,Giovanni Baggi,"Baggi, Giovanni",,,,C,3,TI,Tessin,National Council,42,1987-03-02,,,male
 fc6fc3a1-9b6d-439f-a4aa-6b44b4d384d6,Gottlieb Geissbühler,"Geissbühler, Gottlieb",,,,V,4,BE,Bern,National Council,42,,,,male
 9a8f370b-d18c-4f7b-b078-34a065d31d7b,Hans Frei,"Frei, Hans",,,,C,3,TG,Thurgau,National Council,42,,1986-05-18,,male
@@ -100,7 +100,7 @@ c08f6aae-d120-4240-9454-d60dfc8d7370,Jacques-Simon Eggly,"Eggly, Jacques-Simon",
 864112cb-5520-46ce-af51-1dd8ca57f930,Jean Revaclier,"Revaclier, Jean",,,,RL,1,GE,Genf,National Council,42,,,,male
 b0c203ff-7d10-4cf7-9755-9abd12843a12,Jean Riesen,"Riesen, Jean",,,,S,2,FR,Freiburg,National Council,42,,1987-09-12,https://upload.wikimedia.org/wikipedia/commons/c/c5/Jean_Riesen.jpg,male
 fefd6400-c448-495d-b81b-ecf8d7926d9e,Jean Savary,"Savary, Jean",,,,C,3,FR,Freiburg,National Council,42,,,,male
-cc32e6ab-2e73-4bd2-b103-e155e48cf190,Jean-Jacques Cevey,"Cevey, Jean-Jacques",,,,RL,1,VD,Waadt,National Council,42,1986-12-01,,,male
+cc32e6ab-2e73-4bd2-b103-e155e48cf190,Jean-Jacques Cevey,"Cevey, Jean-Jacques",,,,RL,1,VD,Waadt,National Council,42,1986-12-01,,https://upload.wikimedia.org/wikipedia/commons/8/85/Cevey.2008.jpg,male
 0efb647e-014a-4b14-933b-f2f30f8175f9,Jean-Jacques Hegg,"Hegg, Jean-Jacques",,,,N,11,ZH,Zürich,National Council,42,1984-01-01,1985-02-01,,male
 2c5fc958-8282-46a3-ab7b-96d522e9b856,Jean-Pascal Delamuraz,"Delamuraz, Jean-Pascal",,,,RL,1,VD,Waadt,National Council,42,,1983-12-07,,male
 f71fe689-cc53-4559-b007-f70d0792d6e6,Jean-Paul Gehler,"Gehler, Jean-Paul",,,,V,4,BE,Bern,National Council,42,,,,male
@@ -112,7 +112,7 @@ cb4404f5-6837-4460-b932-cdf4dba18ed3,Jean-Philippe Maitre,"Maitre, Jean-Philippe
 60a06593-df26-4ca8-96e7-1407cc0952de,Josef Landolt,"Landolt, Josef",,,,C,3,ZH,Zürich,National Council,42,,,,male
 e46c12bc-6eb0-40c5-a59b-8938aab71098,Josef Risi,"Risi, Josef",,,,C,3,SZ,Schwyz,National Council,42,,,,male
 90fa8aec-ac40-4bcb-9f68-ae39e1176fe9,Josef Ziegler,"Ziegler, Josef",,,,C,3,SO,Solothurn,National Council,42,,,,male
-77ac934d-c5c1-4d3a-80d2-f5b7ed056924,Joseph Cottet,"Cottet, Joseph",,,,V,4,FR,Freiburg,National Council,42,,,,male
+77ac934d-c5c1-4d3a-80d2-f5b7ed056924,Joseph Cottet,"Cottet, Joseph",,,,V,4,FR,Freiburg,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/0/08/Joseph_Cottet.jpg,male
 7e85a43a-813f-40b6-9a05-621fe585bb78,Joseph Iten,"Iten, Joseph",,,,C,3,NW,Nidwalden,National Council,42,,,,male
 67e478fb-a5c5-4915-ba08-d3c323acdec2,Judith Stamm,"Stamm, Judith",,,,C,3,LU,Luzern,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/6/62/Judith_Stamm_(2009).jpg,female
 d7f41c36-2626-4a44-a431-00aabf82f142,Karl Flubacher,"Flubacher, Karl",,,,RL,1,BL,Basel-Landschaft,National Council,42,,,,male
@@ -128,7 +128,7 @@ b2cee071-c5ae-419a-bfa2-425bd7bf3aa9,Kurt Müller,"Müller, Kurt",,,,RL,1,ZH,Zü
 1863b4fc-aab7-4b3f-b2b7-e3f2ff6e612a,Laurent Rebeaud,"Rebeaud, Laurent",,,,G,6,GE,Genf,National Council,42,,,,male
 c51eb3c5-b808-4ebf-931d-764dbd78c801,Leni Robert-Bächtold,"Robert-Bächtold, Leni",,,,-,99,BE,Bern,National Council,42,,1986-05-31,https://upload.wikimedia.org/wikipedia/commons/b/b3/Leni_Robert_(1991)_by_Erling_Mandelmann.jpg,female
 4908ef4e-0367-49d2-97ae-003c6728ce8a,Leo Weber,"Weber, Leo",,,,C,3,AG,Aargau,National Council,42,,,,male
-f0d6f469-157a-4138-854f-87bd5a726878,Lilian Uchtenhagen,"Uchtenhagen, Lilian",,,,S,2,ZH,Zürich,National Council,42,,,,female
+f0d6f469-157a-4138-854f-87bd5a726878,Lilian Uchtenhagen,"Uchtenhagen, Lilian",,,,S,2,ZH,Zürich,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/1/10/Lilian_Uchtehagen_by_Erling_Mandelmann.jpg,female
 ba94f5f1-bf74-4409-a66c-377b58bb10e5,Luciano Giudici,"Giudici, Luciano",,,,RL,1,TI,Tessin,National Council,42,,,,male
 14e7d9a1-4e6f-433a-92b5-7096353791a2,Manfred Aregger,"Aregger, Manfred",,,,RL,1,LU,Luzern,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/c/cd/Manfred_Aregger.jpg,male
 b2f8a136-a6c2-4377-bf2e-90ca0d425f15,Marc-André Houmard,"Houmard, Marc-André",,,,RL,1,BE,Bern,National Council,42,,,,male
@@ -141,7 +141,7 @@ ad2fd846-efbd-4e3d-a5ea-d8540e406bd4,Marcel Dubois,"Dubois, Marcel",,,,RL,1,VD,W
 dd215f8e-f6ce-400c-89f6-48ec46856f2e,Massimo Pini,"Pini, Massimo",,,,RL,1,TI,Tessin,National Council,42,,,,male
 c872513c-8ccf-4eb1-a2da-d1100dd65f67,Max Chopard,"Chopard, Max",,,,S,2,AG,Aargau,National Council,42,,,,male
 6c550cd4-f42e-4e38-a44e-59b75f84a57f,Max Dünki,"Dünki, Max",,,,U,5,ZH,Zürich,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/1/15/Max_Dünki.jpg,male
-f3adc32a-3e3d-42e1-8250-1aea34bc9f3d,Monika Weber,"Weber, Monika",,,,U,5,ZH,Zürich,National Council,42,,,,female
+f3adc32a-3e3d-42e1-8250-1aea34bc9f3d,Monika Weber,"Weber, Monika",,,,U,5,ZH,Zürich,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/a/a9/Monika_Weber.jpg,female
 b0f061d6-7782-4c09-a23e-b4adf8b99657,Moritz Leuenberger,"Leuenberger, Moritz",,,,S,2,ZH,Zürich,National Council,42,,,"https://upload.wikimedia.org/wikipedia/commons/0/0d/Moritz_Leuenberger,_2009.jpg",male
 7b904e4c-2800-4424-9805-23276138516e,Otto Nauer,"Nauer, Otto",,,,S,2,ZH,Zürich,National Council,42,,,,male
 6446b7a5-8dfe-47ec-a779-f386532cfa9e,Otto Zwygart,"Zwygart, Otto",,,,U,5,BE,Bern,National Council,42,,,,male
@@ -170,7 +170,7 @@ d4e045b4-209c-4a62-985a-363bca609b5a,René Longet,"Longet, René",,,,S,2,GE,Genf
 8fd44ef1-2d6e-46c7-a1ba-677d4f1c359f,Richard Bäumlin,"Bäumlin, Richard",,,,S,2,BE,Bern,National Council,42,,,,male
 3d123143-dfcb-4420-8716-ce9dea02e6b0,Richard Reich,"Reich, Richard",,,,RL,1,ZH,Zürich,National Council,42,,,,male
 57fcb1d3-5aae-4c0a-8bee-cbe7a7e87fdf,Roger Dafflon,"Dafflon, Roger",,,,T,10,GE,Genf,National Council,42,,1984-09-11,,male
-04dbbf18-706e-48c2-a32b-4a62580549f1,Rolf Engler,"Engler, Rolf",,,,C,3,AI,Appenzell I.-Rh.,National Council,42,1987-03-02,,,male
+04dbbf18-706e-48c2-a32b-4a62580549f1,Rolf Engler,"Engler, Rolf",,,,C,3,AI,Appenzell I.-Rh.,National Council,42,1987-03-02,,https://upload.wikimedia.org/wikipedia/commons/4/44/Rolf_Engler.jpg,male
 53fed67c-de9a-42c4-b105-cf0f3117a612,Rolf Seiler,"Seiler, Rolf",,,,C,3,ZH,Zürich,National Council,42,,,,male
 b121aaf8-59e5-4441-b435-9d3ccfc6a37b,Rolf Weber,"Weber, Rolf",,,,S,2,TG,Thurgau,National Council,42,,,,male
 fdb5e84d-76e6-47a8-8d9f-47f3a9a2ec52,Rudolf Ruch,"Ruch, Rudolf",,,,S,2,SO,Solothurn,National Council,42,,,,male
@@ -191,7 +191,7 @@ e4b6c163-7432-414e-9d03-90b6f67fb861,Susi Eppenberger,"Eppenberger, Susi",,,,RL,
 f9cd3b62-560f-441d-84a8-7645011a1b44,Ulrich Bremi-Forrer,"Bremi-Forrer, Ulrich",,,,RL,1,ZH,Zürich,National Council,42,,,,male
 5285787e-736f-423a-bbbe-e4beecf07f3f,Urs Nussbaumer,"Nussbaumer, Urs",,,,C,3,SO,Solothurn,National Council,42,,,,male
 25efeb7a-2584-4e84-a676-642042908915,Urs Schwarz,"Schwarz, Urs",,,,RL,1,AG,Aargau,National Council,42,,,,male
-3e03e72c-eafb-4bbd-a8ce-ffa0f1420a24,Ursula Mauch,"Mauch, Ursula",,,,S,2,AG,Aargau,National Council,42,,,,female
+3e03e72c-eafb-4bbd-a8ce-ffa0f1420a24,Ursula Mauch,"Mauch, Ursula",,,,S,2,AG,Aargau,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/d/db/Ursula_Mauch.JPG,female
 ed89f580-c8bc-41ae-aa56-81e709dc88cd,Valentin Oehen,"Oehen, Valentin",,,,N,11,BE,Bern,National Council,42,1984-01-01,,,male
 0f685e25-4b41-4536-bc33-dbac9d2915ac,Valentine Friedli,"Friedli, Valentine",,,,S,2,JU,Jura,National Council,42,,,,female
 7308d52a-ac3c-49ed-9f06-f070b4903edd,Verena Grendelmeier,"Grendelmeier, Verena",,,,U,5,ZH,Zürich,National Council,42,,,https://upload.wikimedia.org/wikipedia/commons/1/15/Verena_Grendelmeier.jpg,female
