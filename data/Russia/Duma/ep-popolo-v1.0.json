@@ -28292,6 +28292,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ديمتري_فاديموفيتش_سابلين"
+        },
+        {
           "note": "Wikipedia (bgwikiquote)",
           "url": "https://bgwikiquote.wikipedia.org/wiki/Дмитрий_Саблин"
         },
@@ -28313,6 +28317,11 @@
         {
           "name": "Саблин, Дмитрий Вадимович",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "ديمتري فاديموفيتش سابلين",
+          "note": "multilingual"
         },
         {
           "lang": "bg",
@@ -32769,6 +32778,11 @@
         {
           "lang": "hu",
           "name": "Yelena Drapeko",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ելենա Դրապեկո",
           "note": "multilingual"
         },
         {
