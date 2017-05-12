@@ -25259,7 +25259,7 @@
       "sort_name": "Navarro Garzón, Micaela"
     },
     {
-      "birth_date": "1966-08-06",
+      "birth_date": "1966-08-10",
       "contact_details": [
         {
           "type": "email",
@@ -25279,6 +25279,10 @@
         {
           "identifier": "380",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29896348",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/801859718826364928/pPoOk7By.jpg",
@@ -25288,6 +25292,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joseba_Andoni_Agirretxea_Urresti"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/jagirretxea"
@@ -25302,6 +25310,15 @@
         {
           "name": "Joseba Andoni Agirretxea Urresti",
           "note": "alternate"
+        },
+        {
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Agirretxea Urresti, Joseba Andoni"
@@ -30413,10 +30430,19 @@
       "gender": "male",
       "given_name": "Pablo",
       "id": "94268599-dda6-4cb1-8409-1d919ff88da3",
+      "identifiers": [
+        {
+          "identifier": "Q29894326",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/263_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/263_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Pablo_Bustinduy_2015_(cropped).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/832145332792336384/y1T9wLgm.jpg"
@@ -30424,11 +30450,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pablo_Bustinduy"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pbustinduy"
         }
       ],
       "name": "Pablo Bustinduy Amador",
+      "other_names": [
+        {
+          "name": "Pablo Bustinduy",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Pablo Bustinduy",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bustinduy Amador, Pablo"
     },
     {
