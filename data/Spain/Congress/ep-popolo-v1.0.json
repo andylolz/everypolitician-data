@@ -1369,6 +1369,11 @@
       "name": "Isabel García Tejerina",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "إيزابيل غارسيا",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
           "name": "Isabel García Tejerina",
           "note": "multilingual"
@@ -8662,6 +8667,11 @@
         {
           "name": "María González Veracruz",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "ماريا غونزاليس",
+          "note": "multilingual"
         },
         {
           "lang": "ca",
@@ -29992,6 +30002,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1028335091",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "289674266",
           "scheme": "viaf"
         },
@@ -30163,6 +30177,10 @@
         {
           "identifier": "/m/03vm2j",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "171411749",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0003 8253 8631",
@@ -34759,12 +34777,6 @@
         {
           "identifier": "Q19839207",
           "scheme": "wikidata"
-        }
-      ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/W4A2100.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/W4A2100.jpg"
         }
       ],
       "links": [
