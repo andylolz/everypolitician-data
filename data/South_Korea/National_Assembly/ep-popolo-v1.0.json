@@ -1462,9 +1462,6 @@
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9770497.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Yoo_Sung-min_in_2017.jpg"
         }
       ],
       "links": [
@@ -2696,16 +2693,16 @@
           "url": "https://ar.wikipedia.org/wiki/مون_جيه_إن"
         },
         {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Мун_Джэін"
+        },
+        {
           "note": "Wikipedia (bewikiquote)",
           "url": "https://bewikiquote.wikipedia.org/wiki/Мун_Джэін"
         },
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Мун_Че-ин"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Moon_Jae-in"
         },
         {
           "note": "Wikipedia (cs)",
@@ -2842,6 +2839,10 @@
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/மூன்_சே-இன்"
         },
         {
           "note": "Wikipedia (th)",
@@ -8245,6 +8246,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Sim_Sang-jung"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sim_Sang-jung"
@@ -28599,6 +28604,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/송영길_(정치인)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сон_Ен_Гиль"
         },
         {
           "note": "Wikipedia (zh)",
