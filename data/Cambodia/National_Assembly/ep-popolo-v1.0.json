@@ -2408,6 +2408,10 @@
           "url": "https://tr.wikipedia.org/wiki/Hun_Sen"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Гун_Сен"
+        },
+        {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Hun_Sen"
         },
@@ -2615,6 +2619,11 @@
         {
           "lang": "tr",
           "name": "Hun Sen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Гун Сен",
           "note": "multilingual"
         },
         {
@@ -4536,6 +4545,11 @@
         {
           "lang": "be",
           "name": "Народная партыя Камбоджы",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Народна партія Камбоджі",
           "note": "multilingual"
         },
         {
