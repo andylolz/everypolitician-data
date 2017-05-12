@@ -35,8 +35,8 @@
       "source": "https://fr.wikipedia.org/wiki/Cat%C3%A9gorie:D%C3%A9put%C3%A9_de_la_XIVe_l%C3%A9gislature_de_la_Ve_R%C3%A9publique",
       "type": "wikidata",
       "merge": {
-        "incoming_field": "identifier__sycomore",
-        "existing_field": "identifier__sycomore",
+        "incoming_field": "name",
+        "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
       }
     },
