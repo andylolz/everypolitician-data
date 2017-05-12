@@ -12490,6 +12490,10 @@
           "url": "https://fr.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (frr)",
+          "url": "https://frr.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/António_Guterres"
         },
@@ -24221,6 +24225,10 @@
           "scheme": "bnf"
         },
         {
+          "identifier": "13394865X",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 2025 5420",
           "scheme": "isni"
         },
@@ -24446,6 +24454,11 @@
         {
           "name": "Elisa Ferreira",
           "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "إليسا فيريرا",
+          "note": "multilingual"
         },
         {
           "lang": "da",
