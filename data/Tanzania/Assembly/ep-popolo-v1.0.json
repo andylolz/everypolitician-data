@@ -51887,6 +51887,12 @@
       "classification": "legislative period",
       "end_date": "2005-10-29",
       "id": "term/2",
+      "identifiers": [
+        {
+          "identifier": "Q29579632",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "2nd Assembly",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
       "start_date": "2000-10-29"
@@ -51908,6 +51914,12 @@
       "classification": "legislative period",
       "end_date": "2010-10-30",
       "id": "term/3",
+      "identifiers": [
+        {
+          "identifier": "Q29579630",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "3rd Assembly",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
       "start_date": "2005-10-30"
@@ -51929,6 +51941,12 @@
       "classification": "legislative period",
       "end_date": "2015-06-18",
       "id": "term/4",
+      "identifiers": [
+        {
+          "identifier": "Q29579626",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "4th Assembly",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
       "start_date": "2010-10-31"
@@ -51949,6 +51967,12 @@
     {
       "classification": "legislative period",
       "id": "term/5",
+      "identifiers": [
+        {
+          "identifier": "Q29579628",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "5th Assembly",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
       "start_date": "2015-11-17"
