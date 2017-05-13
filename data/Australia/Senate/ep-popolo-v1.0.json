@@ -15191,6 +15191,10 @@
       "id": "b1c67dcb-d051-42ee-bf38-ab441e4c8579",
       "identifiers": [
         {
+          "identifier": "171175883",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 7905 8088",
           "scheme": "isni"
         },
@@ -18218,6 +18222,10 @@
         {
           "identifier": "450072",
           "scheme": "fast"
+        },
+        {
+          "identifier": "1030227632",
+          "scheme": "gnd"
         },
         {
           "identifier": "n00040988",
