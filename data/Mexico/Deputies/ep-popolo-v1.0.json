@@ -2427,6 +2427,7 @@
       "sort_name": "Villa Trujillo Edith"
     },
     {
+      "gender": "female",
       "id": "0f3aaab8-d26a-47c1-b9e8-1d59a2a5e9b8",
       "identifiers": [
         {
@@ -7686,6 +7687,7 @@
       "sort_name": "Antelo Esper Bernardino"
     },
     {
+      "gender": "female",
       "id": "29c39722-d763-4767-96c9-d3f456918ef2",
       "image": "http://sitl.diputados.gob.mx/LXIII_leg/fotos_lxiiiconfondo/500_FOTO_CHICA.jpg",
       "images": [
@@ -7987,6 +7989,7 @@
       "sort_name": "Valencia Pérez Ulises Iván"
     },
     {
+      "gender": "female",
       "id": "2c121ab6-5bf8-493e-9464-12584ee7745d",
       "identifiers": [
         {
@@ -12055,6 +12058,7 @@
       "sort_name": "Guzmán Cervantes Carlos Bernardo"
     },
     {
+      "gender": "female",
       "id": "424907cf-5937-4596-b74a-146dae2024b7",
       "identifiers": [
         {
@@ -27054,6 +27058,7 @@
         }
       ],
       "email": "gloria.valencia@congreso.gob.mx",
+      "gender": "female",
       "id": "94dffb1a-91f9-404e-8aba-5b9b9691535a",
       "identifiers": [
         {
@@ -37337,6 +37342,7 @@
         }
       ],
       "email": "gabriela.bardales@congreso.gob.mx",
+      "gender": "female",
       "id": "d28b7938-768b-4526-b94d-991cd080a373",
       "identifiers": [
         {
@@ -38785,6 +38791,7 @@
         }
       ],
       "email": "monica.clara@congreso.gob.mx",
+      "gender": "female",
       "id": "df1017e6-3c87-41d9-b2b8-baba6c150909",
       "identifiers": [
         {
