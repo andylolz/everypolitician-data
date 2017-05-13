@@ -25696,10 +25696,15 @@
       "birth_date": "1961-11-27",
       "contact_details": [
         {
+          "type": "email",
+          "value": "okdaegu@naver.com"
+        },
+        {
           "type": "phone",
           "value": "02-784-2820"
         }
       ],
+      "email": "okdaegu@naver.com",
       "id": "b4a6d6a4-4ea2-40af-8988-54b46420f554",
       "identifiers": [
         {
@@ -25717,6 +25722,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/정태옥"
+        },
+        {
+          "note": "website",
+          "url": "http://taeok.kr"
         }
       ],
       "name": "CHOUNG TAEOK",
@@ -41637,7 +41646,7 @@
     {
       "area_id": "area/경남_사천시남해군하동군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "5fc8ef51-d270-4056-a69a-059d551ebd44",
       "role": "member",
@@ -41949,7 +41958,7 @@
     {
       "area_id": "area/경기_안산시단원구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "6868c7ec-cc55-4610-b276-1b12221dbb47",
       "role": "member",
@@ -42301,7 +42310,7 @@
     {
       "area_id": "area/인천_남구갑",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "7129c3e0-d851-4a5e-8b32-a1eb68a6ca71",
       "role": "member",
@@ -42327,7 +42336,7 @@
     {
       "area_id": "area/부산_사상구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "71cb371c-935a-4e32-9beb-d6d2c075428d",
       "role": "member",
@@ -43147,7 +43156,7 @@
     {
       "area_id": "area/대구_북구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/무소속",
+      "on_behalf_of_id": "party/더불어민주당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "8b8a6047-1eaa-4c74-a2bb-cfec7b7b4687",
       "role": "member",
@@ -43264,7 +43273,7 @@
     {
       "area_id": "area/강원_강릉시",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "8e4941b7-3754-4c09-bb71-cf668b456aaf",
       "role": "member",
@@ -43381,7 +43390,7 @@
     {
       "area_id": "area/서울_강서구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "937bd485-8e57-469f-aae0-fb42edf13e94",
       "role": "member",
@@ -43745,7 +43754,7 @@
     {
       "area_id": "area/경남_진주시을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "a0a131f7-9092-4859-a1d1-c3808a656ae9",
       "role": "member",
@@ -43862,7 +43871,7 @@
     {
       "area_id": "area/충남_홍성군예산군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "a54c2718-8a61-4597-8211-904bee6d2974",
       "role": "member",
@@ -43966,7 +43975,7 @@
     {
       "area_id": "area/서울_강남구병",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "a849aac2-1352-4963-bb93-524fe479f9b1",
       "role": "member",
@@ -44616,7 +44625,7 @@
     {
       "area_id": "area/경기_안성시",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "b8c6f9ca-f53d-4597-a70d-2409e8928dd1",
       "role": "member",
@@ -44720,7 +44729,7 @@
     {
       "area_id": "area/서울_송파구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/무소속",
+      "on_behalf_of_id": "party/국민의당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "bd201157-e402-4cb0-a75b-201c9e972cc3",
       "role": "member",
@@ -45162,7 +45171,7 @@
     {
       "area_id": "area/부산_동래구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "ce2ecde7-1b43-4edd-bb74-2cd5a7c0d6b0",
       "role": "member",
@@ -45812,7 +45821,7 @@
     {
       "area_id": "area/서울_서초구을",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "e5a02895-e82f-4181-94c8-3e89ba2d853d",
       "role": "member",
@@ -46046,7 +46055,7 @@
     {
       "area_id": "area/울산_중구",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/무소속",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "edb7b879-c4a9-4b9a-aff6-15553ee3f9ea",
       "role": "member",
@@ -46358,7 +46367,7 @@
     {
       "area_id": "area/경남_통영시고성군",
       "legislative_period_id": "term/20",
-      "on_behalf_of_id": "party/바른정당",
+      "on_behalf_of_id": "party/자유한국당",
       "organization_id": "eb645257-3387-42ac-9cc1-d6379eff8ca2",
       "person_id": "f6311ef1-f252-440b-bbf6-0448a0d61be2",
       "role": "member",
