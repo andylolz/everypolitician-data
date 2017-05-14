@@ -22711,6 +22711,9 @@
       "images": [
         {
           "url": "http://164.100.47.132/mpimage/photo/4399.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Arjun_Meghwal.jpg"
         }
       ],
       "links": [
@@ -53705,6 +53708,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "171908392",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "n82151511",
           "scheme": "lcauth"
         },
@@ -54848,6 +54855,10 @@
           "scheme": "nla"
         },
         {
+          "identifier": "252/000136841",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "107805",
           "scheme": "port"
         },
@@ -55285,6 +55296,11 @@
         {
           "lang": "ur",
           "name": "ہیما مالنی",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vep",
+          "name": "Malini Hema",
           "note": "multilingual"
         },
         {
@@ -60370,27 +60386,12 @@
         },
         {
           "lang": "bn",
-          "name": "CPI",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
           "name": "সিপিআই",
           "note": "multilingual"
         },
         {
           "lang": "bn",
           "name": "ভারতীয় কমিউনিষ্ট পার্টি",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "Communist party of india",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "All India State Government Employees Federation",
           "note": "multilingual"
         },
         {
@@ -62731,32 +62732,7 @@
         },
         {
           "lang": "bn",
-          "name": "JDU",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
           "name": "জনতা দল(ইউনাইটেড)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "JD(U)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "People's Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "Janata Dal United Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "Janata Dal",
           "note": "multilingual"
         },
         {
@@ -63670,16 +63646,6 @@
         {
           "lang": "bn",
           "name": "রেভোলিউশনারি সোশালিস্ট পার্টি",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "Revolutionary Socialist Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bn",
-          "name": "RSP",
           "note": "multilingual"
         },
         {
