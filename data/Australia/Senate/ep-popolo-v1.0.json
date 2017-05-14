@@ -15191,6 +15191,10 @@
       "id": "b1c67dcb-d051-42ee-bf38-ab441e4c8579",
       "identifiers": [
         {
+          "identifier": "171175883",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0000 7905 8088",
           "scheme": "isni"
         },
@@ -17133,8 +17137,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/861842494505353216/yQqtW8-N.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lucy_Gichuhi_and_family_2017.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Lucy_Gichuhi_and_family_2017.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/861842494505353216/yQqtW8-N.jpg"
         }
@@ -18218,6 +18225,10 @@
         {
           "identifier": "450072",
           "scheme": "fast"
+        },
+        {
+          "identifier": "1030227632",
+          "scheme": "gnd"
         },
         {
           "identifier": "n00040988",
