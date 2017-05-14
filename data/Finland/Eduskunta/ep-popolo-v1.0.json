@@ -13032,6 +13032,10 @@
           "scheme": "eduskunta"
         },
         {
+          "identifier": "170604438",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "208886497",
           "scheme": "viaf"
         },
@@ -15210,6 +15214,11 @@
         },
         {
           "lang": "nl",
+          "name": "Erkki Virtanen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Erkki Virtanen",
           "note": "multilingual"
         }
@@ -18941,6 +18950,11 @@
         },
         {
           "lang": "nl",
+          "name": "Raimo Vistbacka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Raimo Vistbacka",
           "note": "multilingual"
         },
@@ -43940,6 +43954,10 @@
         {
           "identifier": "464",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170112284",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0001 0979 2110",
