@@ -7393,6 +7393,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "171877403",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "nb2009014250",
           "scheme": "lcauth"
         },
@@ -19615,16 +19619,6 @@
         },
         {
           "lang": "nl",
-          "name": "Christelijke Volkspartij",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "CVP",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
           "name": "Christen-Democratisch & Vlaams",
           "note": "multilingual"
         },
@@ -19641,11 +19635,6 @@
         {
           "lang": "nl",
           "name": "CDenV",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "CVP(België)",
           "note": "multilingual"
         },
         {
