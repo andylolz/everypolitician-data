@@ -2067,6 +2067,9 @@
       "images": [
         {
           "url": "https://www.parliament.nz/media/1350/mitchell-mark.C24eAg.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Mark_Mitchell_NZ.jpg"
         }
       ],
       "links": [
@@ -8847,6 +8850,11 @@
         {
           "lang": "vi",
           "name": "Bill English",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "標英吉利",
           "note": "multilingual"
         },
         {
@@ -17247,6 +17255,11 @@
         {
           "lang": "yo",
           "name": "John Key",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "莊基",
           "note": "multilingual"
         },
         {
