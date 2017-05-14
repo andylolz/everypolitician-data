@@ -9565,9 +9565,16 @@
       "images": [
         {
           "url": "http://www.parlament.gv.at/WWER/PAD_83108/4385273_180.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Walter_Bacher_(14501945192).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Walter_Bacher"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Walter_Bacher_(Politiker)"
@@ -20511,6 +20518,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Walter_Schopf"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Walter_Schopf"
         }
@@ -21248,6 +21259,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Aygül_Berîvan_Aslan"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Aygül_Berîvan_Aslan"
