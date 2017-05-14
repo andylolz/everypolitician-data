@@ -24804,6 +24804,11 @@
           "lang": "en",
           "name": "VALENTIN IVANOV RADEV",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Walentin Radew",
+          "note": "multilingual"
         }
       ]
     },
@@ -47770,6 +47775,10 @@
         {
           "identifier": "634",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "170326861",
+          "scheme": "gnd"
         },
         {
           "identifier": "0000 0000 8145 9227",
