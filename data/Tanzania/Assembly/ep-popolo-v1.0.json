@@ -3426,14 +3426,34 @@
         }
       ],
       "email": "c.ruge@bunge.go.tz",
+      "gender": "female",
+      "given_name": "Catherine",
       "id": "1c0c4b2a-4cc4-45d5-bd3d-39e2a3b9e09e",
+      "identifiers": [
+        {
+          "identifier": "Q29904609",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.tz/site/images/img.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.tz/site/images/img.jpg"
         }
       ],
-      "name": "Catherine Nyakao Ruge"
+      "name": "Catherine Nyakao Ruge",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Catherine Nyakao Ruge",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Catherine Nyakao Ruge",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
