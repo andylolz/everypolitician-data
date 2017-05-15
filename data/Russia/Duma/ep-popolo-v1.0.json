@@ -30315,12 +30315,18 @@
       ]
     },
     {
+      "birth_date": "1952-04-14",
       "gender": "male",
+      "given_name": "Sergej",
       "id": "b694143f-d59e-4cfb-a34e-e8aa687c7c66",
       "identifiers": [
         {
           "identifier": "131317",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7454103",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/44e/44e8263d50ef904345814b53bdef7e2e.jpg",
@@ -30329,7 +30335,58 @@
           "url": "http://www.duma.gov.ru/upload/iblock/44e/44e8263d50ef904345814b53bdef7e2e.jpg"
         }
       ],
-      "name": "Сироткин Сергей Никанорович"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sergey_Sirotkin_(politician)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сироткин,_Сергей_Никанорович"
+        }
+      ],
+      "name": "Сироткин Сергей Никанорович",
+      "other_names": [
+        {
+          "name": "Сергей Никанорович Сироткин",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sergey Sirotkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sergey Sirotkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sergey Sirotkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sergey Sirotkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sergey Sirotkin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сергей Никанорович Сироткин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "塞爾蓋·斯羅特金",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-02-12",
