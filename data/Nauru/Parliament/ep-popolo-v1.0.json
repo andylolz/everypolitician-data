@@ -2567,8 +2567,33 @@
       ]
     },
     {
+      "gender": "male",
       "id": "df307805-4df4-4d53-a0d8-6a958528b50d",
-      "name": "Sean Oppenheimer"
+      "identifiers": [
+        {
+          "identifier": "Q29838772",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sean_Oppenheimer"
+        }
+      ],
+      "name": "Sean Oppenheimer",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-05-06",
