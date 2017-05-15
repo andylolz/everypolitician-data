@@ -7888,6 +7888,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1053064543",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "133231925",
           "scheme": "sudoc"
         },
@@ -9958,7 +9962,7 @@
         },
         {
           "lang": "en",
-          "name": "Marisol Pérez Tello",
+          "name": "Marisol Pérez Tello De Rivera",
           "note": "multilingual"
         },
         {
@@ -11018,6 +11022,11 @@
         {
           "lang": "zh-cn",
           "name": "秘魯民族主義黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הלאומית הפרואנית",
           "note": "multilingual"
         },
         {
