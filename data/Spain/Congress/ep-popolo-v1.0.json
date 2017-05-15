@@ -25276,6 +25276,10 @@
         {
           "identifier": "380",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755732",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/801859718826364928/pPoOk7By.jpg",
@@ -25285,6 +25289,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joseba_Andoni_Agirretxea_Urresti"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joseba_Agirretxea"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/jagirretxea"
@@ -25299,6 +25311,40 @@
         {
           "name": "Joseba Andoni Agirretxea Urresti",
           "note": "alternate"
+        },
+        {
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseba Agirretxea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Joseba Andoni Agirretxea Urresti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseba Agirretxea",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Agirretxea Urresti, Joseba Andoni"
@@ -34790,6 +34836,7 @@
       "sort_name": "Martín-Toledano Suárez, José Alberto"
     },
     {
+      "birth_date": "1961-02-26",
       "family_name": "Aguiar Rodríguez",
       "gender": "male",
       "given_name": "Ernesto",
@@ -34798,6 +34845,20 @@
         {
           "identifier": "171",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755695",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ernesto_Aguiar"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ernesto_Aguiar_Rodríguez"
         }
       ],
       "name": "Ernesto Aguiar",
@@ -34805,6 +34866,31 @@
         {
           "name": "Ernesto Aguiar Rodríguez",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ernesto Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ernesto Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ernesto Aguiar Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ernesto Aguiar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ernesto Aguiar Rodríguez",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Aguiar Rodríguez, Ernesto"
