@@ -2697,6 +2697,10 @@
           "url": "https://az.wikipedia.org/wiki/Mun_Çje_İn"
         },
         {
+          "note": "Wikipedia (bcl)",
+          "url": "https://bcl.wikipedia.org/wiki/Moon_Jae-in"
+        },
+        {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Мун_Джэін"
         },
@@ -6109,7 +6113,7 @@
           "url": "http://www.assembly.go.kr/photo/9770879.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lee_hae-chan.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lee_Haechan.JPG"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/668963470327418881/uyVEI7RJ.jpg"
@@ -25067,8 +25071,16 @@
           "url": "https://fr.wikipedia.org/wiki/Yoo_Il-ho"
         },
         {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/柳一鎬"
+        },
+        {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/유일호"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Yoo_Il-ho"
         },
         {
           "note": "Wikipedia (zh)",
@@ -25104,6 +25116,11 @@
         {
           "lang": "cn",
           "name": "柳一鎬",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yoo Il-ho",
           "note": "multilingual"
         },
         {
@@ -37204,6 +37221,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Minju-partij",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "새정치민주연합",
           "note": "multilingual"
@@ -38021,6 +38043,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Minju-partij",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "새정치민주연합",
           "note": "multilingual"
@@ -38447,6 +38474,11 @@
         {
           "lang": "da",
           "name": "Ny Politisk Alliance for Demokrati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Minju-partij",
           "note": "multilingual"
         },
         {
