@@ -1770,14 +1770,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/José_Alejandro_Montano"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Alejandro_Montano_Guzmán"
         }
       ],
       "name": "José Alejandro Montano Guzmán",
       "other_names": [
-        {
-          "name": "José Alejandro Montano",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "José Alejandro Montano",
@@ -1785,7 +1785,12 @@
         },
         {
           "lang": "en",
-          "name": "José Alejandro Montano",
+          "name": "José Alejandro Montano Guzmán",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Alejandro Montano Guzmán",
           "note": "multilingual"
         },
         {
