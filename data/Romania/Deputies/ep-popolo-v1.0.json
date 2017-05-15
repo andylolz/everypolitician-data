@@ -18783,6 +18783,10 @@
           "url": "https://hr.wikipedia.org/wiki/Sorin_Grindeanu"
         },
         {
+          "note": "Wikipedia (hsb)",
+          "url": "https://hsb.wikipedia.org/wiki/Sorin_Grindeanu"
+        },
+        {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Sorin_Grindeanu"
         },
@@ -18932,6 +18936,11 @@
         },
         {
           "lang": "hr",
+          "name": "Sorin Grindeanu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hsb",
           "name": "Sorin Grindeanu",
           "note": "multilingual"
         },
@@ -27189,6 +27198,11 @@
       "name": "Florin-Alexandru ALEXE",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Florin-Alexandru Alexe",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Florin-Alexandru Alexe",
           "note": "multilingual"
@@ -27205,6 +27219,11 @@
         },
         {
           "lang": "hu",
+          "name": "Florin-Alexandru Alexe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
           "name": "Florin-Alexandru Alexe",
           "note": "multilingual"
         },
