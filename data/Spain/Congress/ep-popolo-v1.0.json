@@ -1259,8 +1259,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/851487255969628163/4fFa4j5j.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Aborto_legal_y_seguro_28sept_2014.jpg",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Aborto_legal_y_seguro_28sept_2014.jpg"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/851487255969628163/4fFa4j5j.jpg"
         }
@@ -33285,6 +33288,11 @@
         {
           "lang": "ca",
           "name": "Mercè Perea Conillas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mercè Perea",
           "note": "multilingual"
         },
         {
