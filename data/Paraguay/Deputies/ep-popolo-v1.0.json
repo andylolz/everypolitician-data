@@ -1882,6 +1882,11 @@
           "lang": "en",
           "name": "Víctor Ríos Ojeda",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Víctor Ríos Ojeda",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Ríos Ojeda, Víctor"
@@ -2696,6 +2701,11 @@
           "lang": "eu",
           "name": "Colorado alderdia",
           "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Partidul Colorado",
+          "note": "multilingual"
         }
       ]
     },
@@ -2712,6 +2722,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Avanza País",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Avanza País",
           "note": "multilingual"
         }
@@ -2771,6 +2786,11 @@
         {
           "lang": "zh",
           "name": "大陣線",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fronte Ampio",
           "note": "multilingual"
         },
         {
@@ -2923,7 +2943,7 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
@@ -3099,6 +3119,11 @@
         {
           "lang": "mk",
           "name": "независен политичар",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "бәйсез",
           "note": "multilingual"
         },
         {
@@ -3420,6 +3445,11 @@
           "lang": "ru",
           "name": "беспартийный",
           "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
+          "note": "multilingual"
         }
       ]
     },
@@ -3453,6 +3483,11 @@
         {
           "lang": "zh",
           "name": "遇見國家黨",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito dell'Incontro Nazionale",
           "note": "multilingual"
         }
       ]
