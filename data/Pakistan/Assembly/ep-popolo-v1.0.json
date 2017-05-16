@@ -17447,9 +17447,6 @@
       "images": [
         {
           "url": "http://www.na.gov.pk/uploads/images/NA-69.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Uzair-Headshot.jpg"
         }
       ],
       "links": [
@@ -19294,6 +19291,7 @@
       "patronymic_name": "D/o Syed Iqbal Haider"
     },
     {
+      "birth_date": "1972-03-02",
       "contact_details": [
         {
           "type": "phone",
