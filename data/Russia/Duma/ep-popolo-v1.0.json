@@ -14004,6 +14004,11 @@
           "note": "alternate"
         },
         {
+          "lang": "da",
+          "name": "Aleksej Veller",
+          "note": "multilingual"
+        },
+        {
           "lang": "el",
           "name": "Αλεξέι Μπορίσοβιτς Μπέλερ",
           "note": "multilingual"
@@ -14824,6 +14829,11 @@
         {
           "lang": "fr",
           "name": "Vasily Tarasyuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "וסילי טארסיוק",
           "note": "multilingual"
         },
         {
@@ -18503,6 +18513,10 @@
         {
           "identifier": "10014534",
           "scheme": "itf"
+        },
+        {
+          "identifier": "641/000044509",
+          "scheme": "nndb"
         },
         {
           "identifier": "Marat-Safin-3",
