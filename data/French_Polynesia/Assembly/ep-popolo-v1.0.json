@@ -367,6 +367,10 @@
         {
           "identifier": "111",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703324",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMAURI-Jean.jpg",
@@ -375,18 +379,72 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMAURI-Jean.jpg"
         }
       ],
-      "name": "TEMAURI Jean"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Jean_Temauri"
+        }
+      ],
+      "name": "TEMAURI Jean",
+      "other_names": [
+        {
+          "name": "Jean Temauri",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Jean Temauri",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
+      "given_name": "René",
       "id": "14c26045-1993-4106-9f75-fa0d20efc2cd",
+      "identifiers": [
+        {
+          "identifier": "Q20089174",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMEHARO-Rene.jpg",
       "images": [
         {
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEMEHARO-Rene.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/René_Temeharo.JPG"
         }
       ],
-      "name": "TEMEHARO René"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/René_Temeharo"
+        }
+      ],
+      "name": "TEMEHARO René",
+      "other_names": [
+        {
+          "name": "René Temeharo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "René Temeharo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "René Temeharo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "René Temeharo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971",
@@ -527,6 +585,7 @@
       ]
     },
     {
+      "birth_date": "1970-02-23",
       "contact_details": [
         {
           "type": "email",
@@ -540,15 +599,58 @@
         {
           "identifier": "114",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19887794",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TETUANUI-Lana.jpg",
       "images": [
         {
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TETUANUI-Lana.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lana_Tetuanui.jpg"
         }
       ],
-      "name": "TETUANUI Lana"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lana_Tetuanui"
+        },
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Lana_Tetuanui"
+        }
+      ],
+      "name": "TETUANUI Lana",
+      "other_names": [
+        {
+          "name": "Lana Tetuanui",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lana Tetuanui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lana Tetuanui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lana Tetuanui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Lana Tetuanui",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -564,6 +666,10 @@
         {
           "identifier": "106",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703336",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AMARU-Lois.jpg",
@@ -572,7 +678,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AMARU-Lois.jpg"
         }
       ],
-      "name": "SALMON-AMARU Loïs"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Loïs_Salmon-Amaru"
+        }
+      ],
+      "name": "SALMON-AMARU Loïs",
+      "other_names": [
+        {
+          "name": "Loïs Salmon-Amaru",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Loïs Salmon-Amaru",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-09-15",
@@ -678,6 +801,10 @@
         {
           "identifier": "115",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703333",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TOROMONA-John.jpg",
@@ -686,7 +813,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TOROMONA-John.jpg"
         }
       ],
-      "name": "TOROMONA John"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/John_Toromona"
+        }
+      ],
+      "name": "TOROMONA John",
+      "other_names": [
+        {
+          "name": "John Toromona",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "John Toromona",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -726,6 +870,10 @@
         {
           "identifier": "65",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703349",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FLORES-TAHIATA-Chantal.jpg",
@@ -734,7 +882,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FLORES-TAHIATA-Chantal.jpg"
         }
       ],
-      "name": "FLORES-TAHIATA Chantal"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Chantal_Flores-Tahiata"
+        }
+      ],
+      "name": "FLORES-TAHIATA Chantal",
+      "other_names": [
+        {
+          "name": "Chantal Flores-Tahiata",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Chantal Flores-Tahiata",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-01-20",
@@ -851,6 +1016,10 @@
         {
           "identifier": "61",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703334",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/CROSS-Valentina.jpg",
@@ -859,7 +1028,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/CROSS-Valentina.jpg"
         }
       ],
-      "name": "CROSS Valentina"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Valentina_Cross"
+        }
+      ],
+      "name": "CROSS Valentina",
+      "other_names": [
+        {
+          "name": "Valentina Cross",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Valentina Cross",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -875,6 +1061,10 @@
         {
           "identifier": "132",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703351",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TAHIATA-Fernand.jpg",
@@ -883,7 +1073,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TAHIATA-Fernand.jpg"
         }
       ],
-      "name": "TAHIATA Fernand"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Fernand_Tahiata"
+        }
+      ],
+      "name": "TAHIATA Fernand",
+      "other_names": [
+        {
+          "name": "Fernand Tahiata",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Fernand Tahiata",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -899,6 +1106,10 @@
         {
           "identifier": "119",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703354",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/VIRIAMU-Yolande.jpg",
@@ -907,7 +1118,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/VIRIAMU-Yolande.jpg"
         }
       ],
-      "name": "VIRIAMU Yolande"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Yolande_Viriamu"
+        }
+      ],
+      "name": "VIRIAMU Yolande",
+      "other_names": [
+        {
+          "name": "Yolande Viriamu",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Yolande Viriamu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -923,6 +1151,10 @@
         {
           "identifier": "101",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703342",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RAIOHA-Jacques.jpg",
@@ -931,7 +1163,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RAIOHA-Jacques.jpg"
         }
       ],
-      "name": "RAIOHA Jacques"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Jacques_Raioha"
+        }
+      ],
+      "name": "RAIOHA Jacques",
+      "other_names": [
+        {
+          "name": "Jacques Raioha",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Jacques Raioha",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-07",
@@ -1126,6 +1375,10 @@
         {
           "identifier": "108",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703337",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TAAE-putai.jpg",
@@ -1134,7 +1387,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TAAE-putai.jpg"
         }
       ],
-      "name": "TAAE Puta'i"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Putaì_Taae"
+        }
+      ],
+      "name": "TAAE Puta'i",
+      "other_names": [
+        {
+          "name": "Putaì Taae",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Putaì Taae",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-05-10",
@@ -1256,6 +1526,10 @@
         {
           "identifier": "110",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703341",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEAHE-Teapehu.jpg",
@@ -1264,7 +1538,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEAHE-Teapehu.jpg"
         }
       ],
-      "name": "TEAHE Teapehu"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Teapehu_Teahe"
+        }
+      ],
+      "name": "TEAHE Teapehu",
+      "other_names": [
+        {
+          "name": "Teapehu Teahe",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Teapehu Teahe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1280,6 +1571,10 @@
         {
           "identifier": "113",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703345",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TERIITAHI-Moehau.jpg",
@@ -1288,7 +1583,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TERIITAHI-Moehau.jpg"
         }
       ],
-      "name": "TERIITAHI Moehau"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Moehau_Teriitahi"
+        }
+      ],
+      "name": "TERIITAHI Moehau",
+      "other_names": [
+        {
+          "name": "Moehau Teriitahi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Moehau Teriitahi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-05-03",
@@ -1371,6 +1683,10 @@
         {
           "identifier": "133",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703328",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/HAUMANI-Evans.jpg",
@@ -1379,7 +1695,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/HAUMANI-Evans.jpg"
         }
       ],
-      "name": "HAUMANI Evans"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Evans_Haumani"
+        }
+      ],
+      "name": "HAUMANI Evans",
+      "other_names": [
+        {
+          "name": "Evans Haumani",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Evans Haumani",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1395,6 +1728,10 @@
         {
           "identifier": "83",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703339",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AMARU-Patricia.jpg",
@@ -1403,7 +1740,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AMARU-Patricia.jpg"
         }
       ],
-      "name": "AMARU Patricia"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Patricia_Amaru"
+        }
+      ],
+      "name": "AMARU Patricia",
+      "other_names": [
+        {
+          "name": "Patricia Amaru",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Patricia Amaru",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1443,6 +1797,10 @@
         {
           "identifier": "117",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703344",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/VAIHO-FAATOA-Gilda.jpg",
@@ -1451,7 +1809,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/VAIHO-FAATOA-Gilda.jpg"
         }
       ],
-      "name": "VAIHO-FAATOA Gilda"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Gilda_Vaiho-Faatoa"
+        }
+      ],
+      "name": "VAIHO-FAATOA Gilda",
+      "other_names": [
+        {
+          "name": "Gilda Vaiho-Faatoa",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Gilda Vaiho-Faatoa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1467,6 +1842,10 @@
         {
           "identifier": "97",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703332",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MANUTAHI-LEVY-AGAMI-Sandra.jpg",
@@ -1475,7 +1854,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MANUTAHI-LEVY-AGAMI-Sandra.jpg"
         }
       ],
-      "name": "MANUTAHI LEVY-AGAMI Sandra"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Sandra_Manutahi_Levy-Agami"
+        }
+      ],
+      "name": "MANUTAHI LEVY-AGAMI Sandra",
+      "other_names": [
+        {
+          "name": "Sandra Manutahi Levy-Agami",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Sandra Manutahi Levy-Agami",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1571,6 +1967,10 @@
         {
           "identifier": "71",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703340",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEURA-Justine.jpg",
@@ -1579,7 +1979,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEURA-Justine.jpg"
         }
       ],
-      "name": "TEURA Justine"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Justine_Teura"
+        }
+      ],
+      "name": "TEURA Justine",
+      "other_names": [
+        {
+          "name": "Justine Teura",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Justine Teura",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1595,6 +2012,10 @@
         {
           "identifier": "99",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703329",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PERRY-FRIEDMAN-Vaiata.jpg",
@@ -1603,7 +2024,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PERRY-FRIEDMAN-Vaiata.jpg"
         }
       ],
-      "name": "PERRY-FRIEDMAN Vaiata"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Vaiata_Perry_Friedman"
+        }
+      ],
+      "name": "PERRY-FRIEDMAN Vaiata",
+      "other_names": [
+        {
+          "name": "Vaiata Perry Friedman",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Vaiata Perry Friedman",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1643,6 +2081,10 @@
         {
           "identifier": "100",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703330",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PUHETINI-Sylvana.jpg",
@@ -1651,7 +2093,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/PUHETINI-Sylvana.jpg"
         }
       ],
-      "name": "PUHETINI Sylvana"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Sylvana_Puhetini"
+        }
+      ],
+      "name": "PUHETINI Sylvana",
+      "other_names": [
+        {
+          "name": "Sylvana Puhetini",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Sylvana Puhetini",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1667,6 +2126,10 @@
         {
           "identifier": "102",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703343",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RICHETON-Monique.jpg",
@@ -1675,7 +2138,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/RICHETON-Monique.jpg"
         }
       ],
-      "name": "RICHETON Monique"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Monique_Richeton"
+        }
+      ],
+      "name": "RICHETON Monique",
+      "other_names": [
+        {
+          "name": "Monique Richeton",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Monique Richeton",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1691,6 +2171,10 @@
         {
           "identifier": "130",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703331",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TINORUA-Alice.jpg",
@@ -1699,7 +2183,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TINORUA-Alice.jpg"
         }
       ],
-      "name": "TINORUA-RIJKAART Alice"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Alice_Tinorua_Rikjaart"
+        }
+      ],
+      "name": "TINORUA-RIJKAART Alice",
+      "other_names": [
+        {
+          "name": "Alice Tinorua Rikjaart",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Alice Tinorua Rikjaart",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1872,11 +2373,16 @@
       ],
       "email": "juliette.nuupure@assemblee.pf",
       "gender": "female",
+      "given_name": "Juliette",
       "id": "a68cb2c6-8f1d-4be5-bb13-8f931df12e3c",
       "identifiers": [
         {
           "identifier": "98",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703335",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MATEHAU-NUUPURE-juliette.jpg",
@@ -1885,7 +2391,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MATEHAU-NUUPURE-juliette.jpg"
         }
       ],
-      "name": "MATEHAU-NUUPURE Juliette"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Juliette_Matehau-Nuupure"
+        }
+      ],
+      "name": "MATEHAU-NUUPURE Juliette",
+      "other_names": [
+        {
+          "name": "Juliette Matehau-Nuupure",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Juliette Matehau-Nuupure",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1901,6 +2424,10 @@
         {
           "identifier": "126",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703320",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MOUTAME-Thomas.jpg",
@@ -1909,7 +2436,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/MOUTAME-Thomas.jpg"
         }
       ],
-      "name": "MOUTAME Thomas"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Thomas_Moutame"
+        }
+      ],
+      "name": "MOUTAME Thomas",
+      "other_names": [
+        {
+          "name": "Thomas Moutame",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Thomas Moutame",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1949,6 +2493,10 @@
         {
           "identifier": "82",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703346",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AH-SCHA-Joseph.jpg",
@@ -1957,7 +2505,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/AH-SCHA-Joseph.jpg"
         }
       ],
-      "name": "AH-SCHA Joseph"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Joseph_Ah-Scha"
+        }
+      ],
+      "name": "AH-SCHA Joseph",
+      "other_names": [
+        {
+          "name": "Joseph Ah-Scha",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Joseph Ah-Scha",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1973,6 +2538,10 @@
         {
           "identifier": "96",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703322",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/LUCAS-Beatrix.jpg",
@@ -1981,7 +2550,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/LUCAS-Beatrix.jpg"
         }
       ],
-      "name": "LUCAS Béatrice"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Béatrice_Lucas"
+        }
+      ],
+      "name": "LUCAS Béatrice",
+      "other_names": [
+        {
+          "name": "Béatrice Lucas",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Béatrice Lucas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1997,6 +2583,10 @@
         {
           "identifier": "72",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703338",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEVAHITUA-Eliane.jpg",
@@ -2005,7 +2595,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TEVAHITUA-Eliane.jpg"
         }
       ],
-      "name": "TEVAHITUA Éliane"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Eliane_Tevahitua"
+        }
+      ],
+      "name": "TEVAHITUA Éliane",
+      "other_names": [
+        {
+          "name": "Eliane Tevahitua",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Eliane Tevahitua",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2082,6 +2689,10 @@
         {
           "identifier": "90",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703326",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FONG-LOI-Charles.jpg",
@@ -2090,7 +2701,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/FONG-LOI-Charles.jpg"
         }
       ],
-      "name": "FONG LOI Charles"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Charles_Fong_Loi"
+        }
+      ],
+      "name": "FONG LOI Charles",
+      "other_names": [
+        {
+          "name": "Charles Fong Loi",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Charles Fong Loi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-07-22",
@@ -2168,6 +2796,10 @@
         {
           "identifier": "67",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703327",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GALENON-Minarii.jpg",
@@ -2176,7 +2808,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GALENON-Minarii.jpg"
         }
       ],
-      "name": "GALENON Minarii"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Minarii_Galenon"
+        }
+      ],
+      "name": "GALENON Minarii",
+      "other_names": [
+        {
+          "name": "Minarii Galenon",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Minarii Galenon",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967",
@@ -2288,6 +2937,10 @@
         {
           "identifier": "86",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703325",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/BRUANT-Virginie.jpg",
@@ -2296,7 +2949,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/BRUANT-Virginie.jpg"
         }
       ],
-      "name": "BRUANT Virginie"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Virginie_Bruant"
+        }
+      ],
+      "name": "BRUANT Virginie",
+      "other_names": [
+        {
+          "name": "Virginie Bruant",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Virginie Bruant",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-01-07",
@@ -2402,6 +3072,10 @@
         {
           "identifier": "109",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703348",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TATA-Jeanine.jpg",
@@ -2410,7 +3084,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/TATA-Jeanine.jpg"
         }
       ],
-      "name": "TATA Jeanine"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Jeanine_Tata"
+        }
+      ],
+      "name": "TATA Jeanine",
+      "other_names": [
+        {
+          "name": "Jeanine Tata",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Jeanine Tata",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2426,6 +3117,10 @@
         {
           "identifier": "92",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25703323",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GRAFFE-jacquie.jpg",
@@ -2434,7 +3129,24 @@
           "url": "http://www.assemblee.pf/_bdd/photos_elus/300x400/GRAFFE-jacquie.jpg"
         }
       ],
-      "name": "GRAFFE Jacquie"
+      "links": [
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Jacquie_Graffe"
+        }
+      ],
+      "name": "GRAFFE Jacquie",
+      "other_names": [
+        {
+          "name": "Jacquie Graffe",
+          "note": "alternate"
+        },
+        {
+          "lang": "ty",
+          "name": "Jacquie Graffe",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
