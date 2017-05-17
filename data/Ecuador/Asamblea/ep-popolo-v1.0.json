@@ -1199,6 +1199,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Mae Montaño",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Mae Montaño",
           "note": "multilingual"
@@ -1310,7 +1315,7 @@
       "name": "Diana Lucía Peña Carrasco"
     },
     {
-      "birth_date": "1965",
+      "birth_date": "1965-08-05",
       "contact_details": [
         {
           "type": "twitter",
@@ -2055,7 +2060,7 @@
       "name": "Carlos Alberto Bergmann Reyna"
     },
     {
-      "birth_date": "1960",
+      "birth_date": "1960-02-23",
       "contact_details": [
         {
           "type": "twitter",
@@ -2081,7 +2086,7 @@
           "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-224-1445980757.png?itok=l57KgiS5"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Asambleísta_Miguel_Carvajal,_interviene_en_la_Sesión_311_del_Pleno_(16342243165).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Miguel_Carvajal_en_2015.jpg"
         }
       ],
       "links": [
@@ -2397,7 +2402,7 @@
       "name": "Patricio Donoso Chiriboga"
     },
     {
-      "birth_date": "1979",
+      "birth_date": "1979-09-25",
       "contact_details": [
         {
           "type": "twitter",
@@ -2405,6 +2410,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Nicolás",
       "id": "640b7a8a-00cb-4330-8d28-a237fbfb56cf",
       "identifiers": [
         {
@@ -2846,6 +2852,9 @@
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-204-1397086347.jpg?itok=-ICDlksQ"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Antonio_Posso_(cropped).png"
         }
       ],
       "links": [
@@ -3269,7 +3278,7 @@
           "url": "http://www.asambleanacional.gob.ec/es/system/files/styles/asambleista/private/pictures/picture-210-1394717283.png?itok=Td0yTfjD"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/MARCELA_AGUIÑAGA_(22326097823).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Marcela_Aguiñaga_(cropped).png"
         }
       ],
       "links": [
@@ -3840,7 +3849,7 @@
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-207-1394804821.png?itok=2t8Tv-cS"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Luis_Fernando_Torres_2016.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Luis_Fernando_Torres_en_Programa_de_Ecuador_Tv_\"Ciudadanizando_las_Enmiendas\"_(22282082413).jpg"
         }
       ],
       "links": [
@@ -5154,6 +5163,9 @@
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-241-1394989278.png?itok=ETITOR9s"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Oswaldo_Larriva_(cropped).png"
         }
       ],
       "links": [
@@ -5944,9 +5956,16 @@
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ec/sites/default/files/styles/asambleista/public/pictures/picture-150-1394652737.png?itok=oRjksfVK"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Cesar_Umajinga_(cropped).png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:César_Umaginga"
+        },
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/César_Umajinga"
@@ -6200,6 +6219,11 @@
         {
           "name": "Franco Romero",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Franco Romero",
+          "note": "multilingual"
         },
         {
           "lang": "es",
@@ -6637,6 +6661,11 @@
         {
           "lang": "de",
           "name": "PAIS Alliance",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alianza PAIS",
           "note": "multilingual"
         }
       ]
@@ -7376,6 +7405,16 @@
           "lang": "es",
           "name": "CREO",
           "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "CREO",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Creando Oportunidades",
+          "note": "multilingual"
         }
       ]
     },
@@ -7473,6 +7512,11 @@
         {
           "lang": "es",
           "name": "Movimiento Social Cristiano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Partido Social Cristiano",
           "note": "multilingual"
         }
       ]
