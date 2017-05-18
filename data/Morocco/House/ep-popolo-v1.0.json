@@ -8420,6 +8420,8 @@
       "sort_name": "Bouarfa Addi"
     },
     {
+      "birth_date": "1978",
+      "gender": "female",
       "id": "6f21ca83-45d1-4136-b921-1912cbec2ef5",
       "identifiers": [
         {
@@ -8461,6 +8463,11 @@
         {
           "lang": "ar",
           "name": "رقية الدرهم",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rkia Derham",
           "note": "multilingual"
         },
         {
