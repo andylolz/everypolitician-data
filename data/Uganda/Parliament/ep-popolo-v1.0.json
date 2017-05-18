@@ -5208,7 +5208,26 @@
       ],
       "gender": "male",
       "id": "32f79571-5611-42a8-b231-7608bfacba0a",
-      "name": "Paul Amoru"
+      "identifiers": [
+        {
+          "identifier": "Q29917557",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Amoru"
+        }
+      ],
+      "name": "Paul Amoru",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Paul Amoru",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -13024,13 +13043,32 @@
       ],
       "gender": "male",
       "id": "8271cfa9-da0d-4c4d-988f-f0ceb3230339",
+      "identifiers": [
+        {
+          "identifier": "Q29963755",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/TUSIIME%20MICHAEL.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/TUSIIME%20MICHAEL.jpg"
         }
       ],
-      "name": "Michael Tusiime"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_Tusiime"
+        }
+      ],
+      "name": "Michael Tusiime",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Michael Tusiime",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -13465,6 +13503,10 @@
         {
           "identifier": "2015-600",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29913996",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/BARYAYANGA600.jpg",
@@ -13475,11 +13517,26 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Andrew_Baryayanga"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=600&const=Kabale+Municipality&dist_id=55&distname=Kabale"
         }
       ],
       "name": "Andrew Aja Baryayanga",
+      "other_names": [
+        {
+          "name": "Andrew Baryayanga",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Baryayanga, Andrew Aja"
     },
     {
@@ -16361,13 +16418,36 @@
       ],
       "gender": "male",
       "id": "9f784bc9-e33c-47e3-82e8-1b21febeaf98",
+      "identifiers": [
+        {
+          "identifier": "Q29947195",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/OTTO%20EDWARD%20MAKMOT.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/OTTO%20EDWARD%20MAKMOT.jpg"
         }
       ],
-      "name": "Edward Otto Makmot"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Makmot_Otto"
+        }
+      ],
+      "name": "Edward Otto Makmot",
+      "other_names": [
+        {
+          "name": "Makmot Otto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Makmot Otto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-05-04",
@@ -18753,7 +18833,35 @@
     {
       "gender": "male",
       "id": "c1910d5a-2dfc-40d9-a7b0-06883c1331ad",
-      "name": "Vicent Waboya"
+      "identifiers": [
+        {
+          "identifier": "Q29898231",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vincent_Woboya"
+        }
+      ],
+      "name": "Vicent Waboya",
+      "other_names": [
+        {
+          "name": "Vincent Woboya",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Vincent Woboya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vincent Woboya",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-08-12",
