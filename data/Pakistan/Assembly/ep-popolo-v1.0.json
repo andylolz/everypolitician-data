@@ -19992,11 +19992,17 @@
           "value": "0300-2556606"
         }
       ],
+      "gender": "male",
+      "given_name": "Pir",
       "id": "f08f2d5d-07b2-481f-aafe-6c095a4dd32f",
       "identifiers": [
         {
           "identifier": "884",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25549884",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.na.gov.pk/uploads/images/216.jpg",
@@ -20005,7 +20011,49 @@
           "url": "http://www.na.gov.pk/uploads/images/216.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pir_Sadaruddin_Shah"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/سید_صدر_الدین_شاہ_راشدی"
+        }
+      ],
       "name": "Pir Sadaruddin Shah",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pir Sadaruddin Shah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pir Sadaruddin Shah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pir Sadaruddin Shah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pir Sadaruddin Shah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pir Sadaruddin Shah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "سید صدر الدین شاہ راشدی",
+          "note": "multilingual"
+        }
+      ],
       "patronymic_name": "Pir Shah Mardan Shah Pir Pagaro"
     },
     {
