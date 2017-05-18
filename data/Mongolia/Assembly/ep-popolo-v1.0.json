@@ -757,6 +757,10 @@
           "note": "alternate"
         },
         {
+          "name": "Нямжавын Батбаяр",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Nyamjavyn Batbayar",
           "note": "multilingual"
@@ -1299,6 +1303,9 @@
       "images": [
         {
           "url": "http://www.parliament.mn/en/files/images/703-7864481.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Р.Амаржаргал_ажлын_өрөөндөө.jpg"
         }
       ],
       "links": [
@@ -1698,7 +1705,7 @@
           "note": "alternate"
         },
         {
-          "name": "Radnaasumbereliyn Gonchigdorj",
+          "name": "Раднаасүмбэрэлийн Гончигдорж",
           "note": "alternate"
         },
         {
@@ -2085,6 +2092,10 @@
       "other_names": [
         {
           "name": "ZORIGT Munkhchuluun",
+          "note": "alternate"
+        },
+        {
+          "name": "Мөнхчулууны Зоригт",
           "note": "alternate"
         },
         {
@@ -2702,6 +2713,10 @@
           "note": "alternate"
         },
         {
+          "name": "Мишигийн Сономпил",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Mishigiin Sonompil",
           "note": "multilingual"
@@ -3214,6 +3229,10 @@
       ],
       "name": "Gombojavyn Zandanshatar",
       "other_names": [
+        {
+          "name": "Гомбожавын Занданшатар",
+          "note": "alternate"
+        },
         {
           "lang": "de",
           "name": "Gombojavyn Zandanshatar",
@@ -3870,6 +3889,10 @@
           "note": "alternate"
         },
         {
+          "name": "Цэндийн Нямдорж",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Tsendiin Nyamdorj",
           "note": "multilingual"
@@ -4468,6 +4491,10 @@
       "other_names": [
         {
           "name": "OYUN Sanjaasuren",
+          "note": "alternate"
+        },
+        {
+          "name": "Санжаасүрэнгийн Оюун",
           "note": "alternate"
         },
         {
@@ -5309,6 +5336,10 @@
           "note": "alternate"
         },
         {
+          "name": "Чимэдийн Сайханбилэг",
+          "note": "alternate"
+        },
+        {
           "lang": "az",
           "name": "Çimediyn Sayxanbileq",
           "note": "multilingual"
@@ -5973,6 +6004,10 @@
       "other_names": [
         {
           "name": "ENKHBOLD Nyamaa",
+          "note": "alternate"
+        },
+        {
+          "name": "Нямаагийн Энхболд",
           "note": "alternate"
         },
         {
@@ -7237,7 +7272,7 @@
           "note": "alternate"
         },
         {
-          "name": "Jargaltulga Erdenebat",
+          "name": "Жаргалтулгын Эрдэнэбат",
           "note": "alternate"
         },
         {
