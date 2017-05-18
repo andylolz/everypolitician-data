@@ -146,6 +146,22 @@
       "label": "conseiller régional",
       "title": "conseiller régional",
       "description": "member of a regional council in France"
+    },
+    {
+      "id": "Q29963198",
+      "label": "Q29963198",
+      "title": "Q29963198",
+      "qualifiers": {
+        "P580": "2017-05-17"
+      }
+    },
+    {
+      "id": "Q3398872",
+      "label": "Government spokesman",
+      "title": "Government spokesman",
+      "qualifiers": {
+        "P580": "2017-05-17"
+      }
     }
   ],
   "Q3187459": [
@@ -4065,6 +4081,14 @@
       "qualifiers": {
         "P768": "Finistère's 6th constituency",
         "P580": "2012-06-20"
+      }
+    },
+    {
+      "id": "Q29962874",
+      "label": "Q29962874",
+      "title": "Q29962874",
+      "qualifiers": {
+        "P580": "2017-05-17"
       }
     }
   ],
@@ -11393,7 +11417,8 @@
       "description": "mayor in France",
       "qualifiers": {
         "P642": "Ivry-sur-Seine",
-        "P580": "1998"
+        "P580": "1998",
+        "P582": "2015"
       }
     },
     {
@@ -11402,7 +11427,9 @@
       "title": "conseiller régional (of Île-de-France)",
       "description": "member of a regional council in France",
       "qualifiers": {
-        "P642": "Île-de-France"
+        "P642": "Île-de-France",
+        "P580": "1986",
+        "P582": "2004"
       }
     }
   ],
@@ -17829,6 +17856,14 @@
         "P768": "Saint-Pierre-et-Miquelon's 1st constituency",
         "P580": "2014-06-30",
         "P582": "2014-07-29"
+      }
+    },
+    {
+      "id": "Q29963125",
+      "label": "Q29963125",
+      "title": "Q29963125",
+      "qualifiers": {
+        "P580": "2017-05-17"
       }
     }
   ],
@@ -27362,6 +27397,25 @@
         "P580": "2012-06-20",
         "P582": "2016-01-27"
       }
+    },
+    {
+      "id": "Q29962994",
+      "label": "Q29962994",
+      "title": "Q29962994",
+      "qualifiers": {
+        "P580": "2017-05-17"
+      }
+    },
+    {
+      "id": "Q16886136",
+      "label": "conseiller régional",
+      "title": "conseiller régional (of Nord-Pas-de-Calais)",
+      "description": "member of a regional council in France",
+      "qualifiers": {
+        "P642": "Nord-Pas-de-Calais",
+        "P580": "2010-03-26",
+        "P582": "2014-03-30"
+      }
     }
   ],
   "Q2223097": [
@@ -27617,6 +27671,15 @@
         "P768": "Pyrénées-Atlantiques' 2nd constituency",
         "P580": "2007-06-20",
         "P582": "2012-06-19"
+      }
+    },
+    {
+      "id": "Q17763739",
+      "label": "minister of justice",
+      "title": "minister of justice",
+      "description": "justice minister of a state",
+      "qualifiers": {
+        "P580": "2017-05-17"
       }
     }
   ],
@@ -28858,21 +28921,15 @@
   ],
   "Q559040": [
     {
-      "id": "Q1055894",
-      "label": "deputy",
-      "title": "deputy",
-      "description": "name for legislator in many countries",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
         "P1366": "proportional representation",
         "P580": "1978",
         "P582": "1986",
         "P1365": "Yves Allainmat"
       }
-    },
-    {
-      "id": "Q3044918",
-      "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
     },
     {
       "id": "Q382617",
@@ -28891,6 +28948,24 @@
       "label": "conseiller régional",
       "title": "conseiller régional",
       "description": "member of a regional council in France"
+    },
+    {
+      "id": "Q2518691",
+      "label": "defence minister",
+      "title": "defence minister",
+      "description": "minister in charge of defence affairs",
+      "qualifiers": {
+        "P580": "2012-05-16",
+        "P582": "2017-05-15"
+      }
+    },
+    {
+      "id": "Q29962890",
+      "label": "Q29962890",
+      "title": "Q29962890",
+      "qualifiers": {
+        "P580": "2017-05-17"
+      }
     }
   ],
   "Q2848745": [
@@ -30772,6 +30847,15 @@
       "qualifiers": {
         "P768": "Q3402047",
         "P580": "2012-06-20"
+      }
+    },
+    {
+      "id": "Q17618153",
+      "label": "economy minister",
+      "title": "economy minister",
+      "description": "Minister responsible for economic affairs of a State",
+      "qualifiers": {
+        "P580": "2017-05-17"
       }
     }
   ],
