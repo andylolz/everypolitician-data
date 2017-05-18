@@ -34400,10 +34400,21 @@
       "sort_name": "ALLEN, Mike, B.Admin., M.B.A.(Hons.)"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mona.Fortier@parl.gc.ca"
+        }
+      ],
+      "email": "Mona.Fortier@parl.gc.ca",
       "gender": "female",
       "given_name": "Mona",
       "id": "88dceac1-5501-4e3c-9025-3ec528ba6cc0",
       "identifiers": [
+        {
+          "identifier": "96356",
+          "scheme": "represent"
+        },
         {
           "identifier": "Q29138522",
           "scheme": "wikidata"
@@ -34439,9 +34450,20 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mary.Ng@parl.gc.ca"
+        }
+      ],
+      "email": "Mary.Ng@parl.gc.ca",
       "gender": "female",
       "id": "88fa41fb-1b89-444a-a9c3-001604f0d76a",
       "identifiers": [
+        {
+          "identifier": "96352",
+          "scheme": "represent"
+        },
         {
           "identifier": "Q29139548",
           "scheme": "wikidata"
@@ -52305,9 +52327,20 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Stephanie.Kusie@parl.gc.ca"
+        }
+      ],
+      "email": "Stephanie.Kusie@parl.gc.ca",
       "gender": "female",
       "id": "d59bd257-d4b3-493b-a81a-496d89828511",
       "identifiers": [
+        {
+          "identifier": "96367",
+          "scheme": "represent"
+        },
         {
           "identifier": "Q29139551",
           "scheme": "wikidata"
@@ -55089,9 +55122,20 @@
       "sort_name": "SAVOIE, Denise, B.A., M.A., M.Ed."
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Bob.Benzen@parl.gc.ca"
+        }
+      ],
+      "email": "Bob.Benzen@parl.gc.ca",
       "gender": "male",
       "id": "de71b1d0-1cb8-45f2-a9e3-603d7d2686bf",
       "identifiers": [
+        {
+          "identifier": "96361",
+          "scheme": "represent"
+        },
         {
           "identifier": "Q29139192",
           "scheme": "wikidata"
@@ -61548,9 +61592,20 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Emmanuella.Lambropoulos@parl.gc.ca"
+        }
+      ],
+      "email": "Emmanuella.Lambropoulos@parl.gc.ca",
       "gender": "female",
       "id": "fd68e3f7-fa2b-4869-bba8-5c319d753cce",
       "identifiers": [
+        {
+          "identifier": "96350",
+          "scheme": "represent"
+        },
         {
           "identifier": "Q29139554",
           "scheme": "wikidata"
