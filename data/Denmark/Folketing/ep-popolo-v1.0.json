@@ -1556,7 +1556,7 @@
       "links": [
         {
           "note": "Wikipedia (da)",
-          "url": "https://da.wikipedia.org/wiki/Jacob_Lund"
+          "url": "https://da.wikipedia.org/wiki/Jacob_Lund_(politiker)"
         }
       ],
       "name": "Jacob Lund",
@@ -19301,6 +19301,11 @@
           "lang": "en",
           "name": "Merete Scheelsbeck",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Merete Scheelsbeck",
+          "note": "multilingual"
         }
       ]
     },
@@ -31596,12 +31601,24 @@
       "id": "95e2e8ad-65e4-4f1a-ac17-2aa3c9fcd972",
       "identifiers": [
         {
+          "identifier": "4033712",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "/m/03cy_rw",
           "scheme": "freebase"
         },
         {
+          "identifier": "nb2016021987",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "5980",
           "scheme": "pace"
+        },
+        {
+          "identifier": "307268793",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q356883",
@@ -37209,6 +37226,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "17020345X",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 0901 0908",
           "scheme": "isni"
         },
@@ -42587,6 +42608,10 @@
       "id": "cbecc4d2-09a2-4679-8009-6ee2d05f4be7",
       "identifiers": [
         {
+          "identifier": "142313300",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "OL1842497A",
           "scheme": "olid"
         },
@@ -47137,6 +47162,11 @@
         },
         {
           "lang": "nb",
+          "name": "Tommy Dinesen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Tommy Dinesen",
           "note": "multilingual"
         }
