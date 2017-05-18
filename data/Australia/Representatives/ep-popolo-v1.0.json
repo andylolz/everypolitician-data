@@ -12678,10 +12678,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/L6B/upload_ref_binary/l6b.jpg",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/L6B/upload_ref_binary/L6B.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/L6B/upload_ref_binary/l6b.jpg"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/L6B/upload_ref_binary/L6B.jpg"
         }
       ],
       "links": [
@@ -19974,10 +19974,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWG/upload_ref_binary/HWG.JPG",
+      "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWG/upload_ref_binary/HWG.jpg",
       "images": [
         {
-          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWG/upload_ref_binary/HWG.JPG"
+          "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/HWG/upload_ref_binary/HWG.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Mark_Dreyfus,_Australian_Labor_MP_in_2005.jpg"
@@ -29415,10 +29415,15 @@
       "birth_date": "1973-03-31",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Madeleine.King.MP@aph.gov.au"
+        },
+        {
           "type": "twitter",
           "value": "MadeleineMHKing"
         }
       ],
+      "email": "Madeleine.King.MP@aph.gov.au",
       "family_name": "King",
       "gender": "female",
       "given_name": "Madeleine",
