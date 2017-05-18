@@ -13549,6 +13549,10 @@
           "url": "https://es.wikipedia.org/wiki/Fátima_Báñez"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Fátima_Báñez"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Fátima_Báñez"
         },
@@ -25285,8 +25289,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/801859718826364928/pPoOk7By.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Joseba_Andoni_Agirretxea.png",
       "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Joseba_Andoni_Agirretxea.png"
+        },
         {
           "url": "https://pbs.twimg.com/profile_images/801859718826364928/pPoOk7By.jpg"
         }
