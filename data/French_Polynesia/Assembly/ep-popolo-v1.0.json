@@ -1928,6 +1928,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Joëlle_Frébault"
+        },
+        {
+          "note": "Wikipedia (ty)",
+          "url": "https://ty.wikipedia.org/wiki/Joëlle_Frebault"
         }
       ],
       "name": "FREBAULT Joëlle",
@@ -1949,6 +1953,11 @@
         {
           "lang": "nl",
           "name": "Joëlle Frébault",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Joëlle Frebault",
           "note": "multilingual"
         }
       ]
