@@ -124,14 +124,86 @@
     },
     {
       "birth_date": "1985-11-14",
+      "gender": "male",
       "id": "0a42fc71-537d-4157-a570-0c1f0945aa2d",
+      "identifiers": [
+        {
+          "identifier": "6457624",
+          "scheme": "goodreads"
+        },
+        {
+          "identifier": "/g/1hl3fsp5g",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "nm7392892",
+          "scheme": "imdb"
+        },
+        {
+          "identifier": "000587956",
+          "scheme": "nsk"
+        },
+        {
+          "identifier": "305773893",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q12752142",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=47092&sp=170x219",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47092&sp=170x219"
         }
       ],
-      "name": "Ivan Pernar"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Pernar_(Croatian_politician)"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Ivan_Pernar_(1985.)"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Ivan_Pernar_(hrvatski_političar)"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Иван_Пернар_(р._1985)"
+        }
+      ],
+      "name": "Ivan Pernar",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan Pernar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ivan Pernar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Pernar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Ivan Pernar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Иван Пернар",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-10-05",
@@ -1667,14 +1739,129 @@
     },
     {
       "birth_date": "1979-10-16",
+      "gender": "male",
+      "given_name": "Božo",
       "id": "2cbde03a-2e35-4fa1-a866-023e41b2d14c",
+      "identifiers": [
+        {
+          "identifier": "Q16114858",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=47095",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47095"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/PetrovBožo.png"
         }
       ],
-      "name": "Božo Petrov"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Božo_Petrov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Божо_Петров"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/波佐·佩特羅夫"
+        }
+      ],
+      "name": "Božo Petrov",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Божо Петров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Božo Petrov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Божо Петров",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "波佐·佩特羅夫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-09-28",
@@ -1718,14 +1905,175 @@
     },
     {
       "birth_date": "1973-06-14",
+      "gender": "male",
+      "given_name": "Zlatko",
       "id": "316d8368-73d1-4c92-88d4-f19c32b06d91",
+      "identifiers": [
+        {
+          "identifier": "159215651",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 6665 1958",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2007023300",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "js2015884894",
+          "scheme": "nkc"
+        },
+        {
+          "identifier": "A3235762X",
+          "scheme": "nlp"
+        },
+        {
+          "identifier": "120276593",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "7162442",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q20525725",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=47032&sp=170x219",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=47032&sp=170x219"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/ZlatkoHasanbegovic_final.jpg"
         }
       ],
-      "name": "Zlatko Hasanbegović"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (io)",
+          "url": "https://io.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (ku)",
+          "url": "https://ku.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Zlatko_Hasanbegović"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Златко_Хасанбеговић"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Златко_Гасанбегович"
+        }
+      ],
+      "name": "Zlatko Hasanbegović",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Zlatko Hasanbegović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Златко Хасанбеговић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Златко Гасанбегович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-06-05",
@@ -3316,18 +3664,216 @@
       "birth_date": "1974-04-25",
       "gender": "male",
       "id": "528d6e2d-37d2-4dcd-8c2e-724d8b7e2013",
+      "identifiers": [
+        {
+          "identifier": "Q27537248",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=44452"
         }
       ],
-      "name": "Ivan Kovačić"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ivan_Kovačić"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ivan_Kovačić"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Іван_Ковачич"
+        }
+      ],
+      "name": "Ivan Kovačić",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ivan Kovačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Kovačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ivan Kovačić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Іван Ковачич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-09-20",
+      "gender": "male",
       "id": "52a26069-c0ee-4ad9-bfae-785ef7dc4e8b",
-      "name": "Miro Kovač"
+      "identifiers": [
+        {
+          "identifier": "n2001153021",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "7619139",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q22160025",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Miro_Kovač.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Miro_Kovač.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (tw)",
+          "url": "https://tw.wikipedia.org/wiki/Miro_Kovač"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Міро_Ковач"
+        }
+      ],
+      "name": "Miro Kovač",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tw",
+          "name": "Miro Kovač",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Міро Ковач",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-03",
@@ -9225,14 +9771,56 @@
     },
     {
       "birth_date": "1971-08-22",
+      "gender": "male",
+      "given_name": "Krešo",
       "id": "c28ee55a-35d9-4688-bf4a-203137f956ff",
+      "identifiers": [
+        {
+          "identifier": "Q16115922",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.sabor.hr/lgs.axd?t=16&id=46999&sp=170x219",
       "images": [
         {
           "url": "http://www.sabor.hr/lgs.axd?t=16&id=46999&sp=170x219"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Krešo_Beljak.jpg"
         }
       ],
-      "name": "Krešo Beljak"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Krešo_Beljak"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Krešo_Beljak"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Krešo_Beljak"
+        }
+      ],
+      "name": "Krešo Beljak",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Krešo Beljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Krešo Beljak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Krešo Beljak",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-06-21",
