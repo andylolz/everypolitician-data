@@ -11206,7 +11206,7 @@
           "url": "http://data.stortinget.no/eksport/personbilde?personid=IOL&storrelse=middels"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ingalill_Olsen_-_Arbeiderpartiet.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ingalill_Olsen_(cropped).jpg"
         }
       ],
       "links": [
@@ -17496,7 +17496,7 @@
         },
         {
           "note": "Wikipedia (nn)",
-          "url": "https://nn.wikipedia.org/wiki/Jens_Marcussen"
+          "url": "https://nn.wikipedia.org/wiki/Jens_Marcussen_den_yngre"
         },
         {
           "note": "Wikipedia (no)",
@@ -30604,6 +30604,10 @@
           "url": "https://en.wikipedia.org/wiki/Thorbjørn_Jagland"
         },
         {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Thorbjørn_Jagland"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Thorbjørn_Jagland"
         },
@@ -30642,6 +30646,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Thorbjørn_Jagland"
+        },
+        {
+          "note": "Wikipedia (itwikiquote)",
+          "url": "https://itwikiquote.wikipedia.org/wiki/Thorbjørn_Jagland"
         },
         {
           "note": "Wikipedia (lt)",
@@ -33759,6 +33767,12 @@
         {
           "identifier": "Q17113325",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ole_Gabriel_Ueland.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Ole_Gabriel_Ueland.jpg"
         }
       ],
       "links": [
@@ -67625,6 +67639,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Morten_Steenstrup_(2017-03-11_bilde01).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Morten_Steenstrup_(2017-03-11_bilde01).jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (no)",
@@ -69954,6 +69974,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Harry_Jensen_(Norwegian_politician)"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Harry_Jensen"
         },
         {
           "note": "Wikipedia (no)",
@@ -120036,6 +120060,11 @@
         {
           "lang": "nb",
           "name": "Venstre，直译为“左翼”",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Венстре",
           "note": "multilingual"
         }
       ]
