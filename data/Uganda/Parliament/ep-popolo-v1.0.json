@@ -5200,6 +5200,7 @@
       "sort_name": "Oryem, Henry Okello"
     },
     {
+      "birth_date": "1983-10-11",
       "contact_details": [
         {
           "type": "phone",
@@ -5207,6 +5208,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Paul",
       "id": "32f79571-5611-42a8-b231-7608bfacba0a",
       "identifiers": [
         {
@@ -13035,6 +13037,7 @@
       "sort_name": "Nankabirwa, Ann Maria"
     },
     {
+      "birth_date": "1972-01-29",
       "contact_details": [
         {
           "type": "phone",
@@ -13042,6 +13045,7 @@
         }
       ],
       "gender": "male",
+      "given_name": "Michael",
       "id": "8271cfa9-da0d-4c4d-988f-f0ceb3230339",
       "identifiers": [
         {
@@ -13532,7 +13536,407 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Andrew Baryayanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Andrew Baryayanga",
           "note": "multilingual"
         }
@@ -16410,6 +16814,7 @@
       "name": "Lucy Otim Aciro"
     },
     {
+      "birth_date": "1978-08-02",
       "contact_details": [
         {
           "type": "phone",
@@ -18831,7 +19236,9 @@
       "sort_name": "Kiwanda, Godfrey Ssubi"
     },
     {
+      "birth_date": "1974-07-01",
       "gender": "male",
+      "given_name": "Vincent",
       "id": "c1910d5a-2dfc-40d9-a7b0-06883c1331ad",
       "identifiers": [
         {
