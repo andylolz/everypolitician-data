@@ -162,6 +162,11 @@
       "qualifiers": {
         "P580": "2017-05-17"
       }
+    },
+    {
+      "id": "Q29968251",
+      "label": "Q29968251",
+      "title": "Q29968251"
     }
   ],
   "Q3187459": [
@@ -3549,6 +3554,17 @@
   ],
   "Q3579995": [
     {
+      "id": "Q1587677",
+      "label": "Prime Minister of France",
+      "title": "Prime Minister of France",
+      "description": "head of government and of the Council of Ministers of France",
+      "qualifiers": {
+        "P580": "2017-05-15",
+        "P1365": "Bernard Cazeneuve",
+        "P35": "Emmanuel Macron"
+      }
+    },
+    {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
       "title": "member of the French National Assembly",
@@ -3587,17 +3603,6 @@
         "P768": "Seine-Maritime's 7th constituency",
         "P580": "2012-06-20",
         "P1365": "Jean-Yves Besselat"
-      }
-    },
-    {
-      "id": "Q1587677",
-      "label": "Prime Minister of France",
-      "title": "Prime Minister of France",
-      "description": "head of government and of the Council of Ministers of France",
-      "qualifiers": {
-        "P580": "2017-05-15",
-        "P1365": "Bernard Cazeneuve",
-        "P35": "Emmanuel Macron"
       }
     },
     {
@@ -28921,14 +28926,11 @@
   ],
   "Q559040": [
     {
-      "id": "Q3044918",
-      "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly",
+      "id": "Q29962890",
+      "label": "Minister of Europe and Foreign Affairs",
+      "title": "Minister of Europe and Foreign Affairs",
       "qualifiers": {
-        "P1366": "proportional representation",
-        "P580": "1978",
-        "P582": "1986",
-        "P1365": "Yves Allainmat"
+        "P580": "2017-05-17"
       }
     },
     {
@@ -28960,11 +28962,89 @@
       }
     },
     {
-      "id": "Q29962890",
-      "label": "Q29962890",
-      "title": "Q29962890",
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
       "qualifiers": {
-        "P580": "2017-05-17"
+        "P580": "1978-03-19",
+        "P582": "1981-05-22",
+        "P2937": "6th Legislature of the 5th French Republic",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election of 1978",
+        "P1365": "Yves Allainmat",
+        "P1366": "Jean-Yves Le Drian",
+        "P1534": "Q17177277"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1981-06-21",
+        "P582": "1986-04-01",
+        "P2937": "7th Legislature of the 5th French Republic",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election of 1981",
+        "P1365": "Jean-Yves Le Drian",
+        "P1366": ""
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1986-03-16",
+        "P582": "1988-05-14",
+        "P2937": "8th Legislature of the 5th French Republic",
+        "P768": "",
+        "P2715": "French legislative election of 1986",
+        "P1365": "",
+        "P1366": "",
+        "P1534": "Q17177277"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1988-06-12",
+        "P582": "1991-05-17",
+        "P2937": "9th Legislature of the 5th French Republic",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election, 1988",
+        "P1365": "",
+        "P1366": "Pierre Victoria"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "1997-06-01",
+        "P582": "2002-06-18",
+        "P2937": "11th Legislature of the 5th French Republic",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election, 1997",
+        "P1365": "Michel Godard",
+        "P1366": "Jean-Yves Le Drian"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "2002-06-16",
+        "P582": "2007-06-25",
+        "P2937": "12th Legislature of the 5th French Republic",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election, 2002",
+        "P1365": "Jean-Yves Le Drian",
+        "P1366": "Françoise Olivier-Coupeau"
       }
     }
   ],
