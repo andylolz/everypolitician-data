@@ -16086,7 +16086,7 @@
           "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/94e1bbf2-42b5-4a73-9281-10b8f118a981.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/KE_Jüri_Ratas.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/RK_Jüri_Ratas.jpg"
         }
       ],
       "links": [
@@ -16318,6 +16318,11 @@
         {
           "lang": "hu",
           "name": "Jüri Ratas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Յուրի Ռատաս",
           "note": "multilingual"
         },
         {
