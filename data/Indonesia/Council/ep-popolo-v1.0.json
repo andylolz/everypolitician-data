@@ -10336,6 +10336,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/hnurwahid"
+        },
+        {
+          "note": "website",
+          "url": "http://www.hnw.or.id/"
         }
       ],
       "name": "Dr. H. MUHAMMAD HIDAYAT NUR WAHID, M.A.",
@@ -18220,6 +18224,11 @@
         {
           "lang": "ru",
           "name": "ИДП (Б)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ДПИ(б)",
           "note": "multilingual"
         },
         {
