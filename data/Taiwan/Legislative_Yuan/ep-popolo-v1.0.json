@@ -10310,6 +10310,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Lee Chun-yi",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "李俊俋",
           "note": "multilingual"
@@ -12403,6 +12408,11 @@
         {
           "lang": "fr",
           "name": "Union pour la solidarité de Taiwan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "ТСС",
           "note": "multilingual"
         }
       ]
