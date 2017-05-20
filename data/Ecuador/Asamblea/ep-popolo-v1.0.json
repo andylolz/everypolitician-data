@@ -1751,6 +1751,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Cristina Reyes",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Cristina Reyes",
           "note": "multilingual"
@@ -3854,6 +3859,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Luis_Fernando_Torres"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Luis_Fernando_Torres"
         },
@@ -4410,6 +4419,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Gabriela_Rivadeneira"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gabriela_Rivadeneira"
