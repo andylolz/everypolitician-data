@@ -2349,6 +2349,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Frode Nør Christensen",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Frode Nør Christensen",
           "note": "multilingual"
@@ -5973,6 +5978,11 @@
         },
         {
           "lang": "nn",
+          "name": "Arne Melchior",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
           "name": "Arne Melchior",
           "note": "multilingual"
         },
@@ -22597,10 +22607,6 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Pia_Christmas-Møller"
-        },
-        {
-          "note": "website",
-          "url": "http://www.pia-c.dk/"
         }
       ],
       "name": "Pia Christmas-Møller",
