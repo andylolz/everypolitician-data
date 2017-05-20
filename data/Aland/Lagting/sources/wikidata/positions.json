@@ -22,6 +22,18 @@
       "label": "Speaker of the Parliament of Åland",
       "title": "Speaker of the Parliament of Åland",
       "description": "Wikimedia list article"
+    },
+    {
+      "id": "Q19185575",
+      "label": "President of the Nordic Council",
+      "title": "President of the Nordic Council",
+      "description": "position in the Nordic Council",
+      "qualifiers": {
+        "P580": "2017-01-01",
+        "P582": "",
+        "P1365": "Henrik Dam Kristensen",
+        "P1366": ""
+      }
     }
   ],
   "Q451038": [
