@@ -542,6 +542,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/876/876c5e074eb063efa4982dbdfd345b9a.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Михаил_Анатольевич_Чернышёв,_мэр_Ростова-на-Дону.jpg"
         }
       ],
       "links": [
@@ -733,6 +736,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/957/957875096d00fc1a2e5439d76a666e3c.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Brykinng2016.jpg"
         }
       ],
       "links": [
@@ -2202,6 +2208,12 @@
     },
     {
       "birth_date": "1954-08-07",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ValeryGazzaev"
+        }
+      ],
       "gender": "male",
       "given_name": "Valery",
       "id": "0d29247b-bf18-4bab-91d0-778f892526de",
@@ -2348,6 +2360,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Газзаєв_Валерій_Георгійович"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/ValeryGazzaev"
         }
       ],
       "name": "Газзаев Валерий Георгиевич",
@@ -7316,6 +7332,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/25d/25db0ee2c688ff39e199bd363d3f2a26.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Oleg_Savchenko.jpg"
         }
       ],
       "links": [
@@ -8069,6 +8088,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/e2d/e2d5a909768dc85ec511ee9858225591.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Russian_State_Duma_deputy_Nikolai_Buduev.jpg"
         }
       ],
       "links": [
@@ -8174,6 +8196,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/361/36104fb18739a811d2973f2bd56ac3a4.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Щаблыкин_Максим_Иванович.jpg"
         }
       ],
       "links": [
@@ -14183,6 +14208,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/276/27644f7c68b851eed9722029b68ff5a6.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Д.А._Белик.jpg"
         }
       ],
       "links": [
@@ -19579,6 +19607,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/604/604edafce5040924c103e50276c998e3.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Литовченко_А.Г.jpg"
         }
       ],
       "links": [
@@ -20612,7 +20643,7 @@
       "name": "Кашин Борис Сергеевич",
       "other_names": [
         {
-          "name": "Кашин, Борис Сергеевич",
+          "name": "Борис Кашин",
           "note": "alternate"
         },
         {
@@ -20657,7 +20688,7 @@
         },
         {
           "lang": "ru",
-          "name": "Кашин, Борис Сергеевич",
+          "name": "Борис Кашин",
           "note": "multilingual"
         },
         {
@@ -21673,6 +21704,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/630/63013b04083b22cc61e44e4ec8ccf1b0.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Aldar_Damdinov.png"
         }
       ],
       "links": [
@@ -26232,6 +26266,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "SObuhov",
+          "scheme": "periscope"
+        },
+        {
           "identifier": "spobuhov",
           "scheme": "vkontakte"
         },
@@ -26565,6 +26603,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/82a/82a3aae89754c12444e99aa4f1520798.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Борис_Чернышов.jpg"
         }
       ],
       "links": [
@@ -30507,6 +30548,10 @@
       "id": "b9ae1860-5d99-4777-81b9-573bb5cc3cbf",
       "identifiers": [
         {
+          "identifier": "lebedevofficial",
+          "scheme": "blogger"
+        },
+        {
           "identifier": "602",
           "scheme": "declarator"
         },
@@ -30645,6 +30690,10 @@
       "id": "ba1f2528-f2c8-4fec-aab8-b815b79dd040",
       "identifiers": [
         {
+          "identifier": "13679985187",
+          "scheme": "odnoklassniki"
+        },
+        {
           "identifier": "avturow",
           "scheme": "vkontakte"
         },
@@ -30704,6 +30753,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/e31/e3145e8023487187552ff42e3b227c0a.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Блоцкий_В.Н.jpg"
         }
       ],
       "links": [
@@ -33664,6 +33716,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b14/b1487ac23932a2ea389832275ace5746.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Andrey_Alshevskikh,_2009.jpg"
         }
       ],
       "links": [
@@ -36349,7 +36404,7 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "01000002069",
+          "identifier": "00000014499",
           "scheme": "munzinger"
         },
         {
@@ -38906,6 +38961,9 @@
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/cba/cba92a35c9d40b074c7783c789d6c901.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ветлужских_Андрей_Леонидович.jpg"
         }
       ],
       "links": [
