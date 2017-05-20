@@ -26276,6 +26276,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Antti Häkkänen",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Antti Häkkänen",
           "note": "multilingual"
@@ -45237,6 +45242,11 @@
           "lang": "nl",
           "name": "Jari Leppä",
           "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jari Leppä",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Leppä Jari"
@@ -48006,6 +48016,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Outi_Ojala"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Outi_Ojala"
         },
@@ -48025,12 +48039,37 @@
       "name": "Outi Ojala",
       "other_names": [
         {
+          "lang": "ca",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Outi Ojala",
           "note": "multilingual"
         },
         {
+          "lang": "de-at",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Outi Ojala",
           "note": "multilingual"
         },
