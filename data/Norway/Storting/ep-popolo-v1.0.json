@@ -18526,8 +18526,8 @@
           "url": "https://no.wikipedia.org/wiki/Iselin_Nybø"
         },
         {
-          "note": "website",
-          "url": "http://www.facebook.com/IselinNybo"
+          "note": "facebook",
+          "url": "https://facebook.com/IselinNybo"
         }
       ],
       "name": "Iselin Nybø",
@@ -77436,6 +77436,11 @@
         },
         {
           "lang": "nl",
+          "name": "Ola Røtvei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
           "name": "Ola Røtvei",
           "note": "multilingual"
         },
