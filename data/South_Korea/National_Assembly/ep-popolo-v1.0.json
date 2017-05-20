@@ -2881,6 +2881,10 @@
           "url": "https://zh.wikipedia.org/wiki/文在寅"
         },
         {
+          "note": "Wikipedia (zh_min_nan)",
+          "url": "https://zh_min_nan.wikipedia.org/wiki/Bûn_Chāi-în"
+        },
+        {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/文在寅"
         },
@@ -2923,6 +2927,21 @@
           "note": "multilingual"
         },
         {
+          "lang": "az",
+          "name": "Mun Çje İn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bcl",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "be",
+          "name": "Мун Джэін",
+          "note": "multilingual"
+        },
+        {
           "lang": "bg",
           "name": "Мун Че-ин",
           "note": "multilingual"
@@ -2940,6 +2959,11 @@
         {
           "lang": "cs",
           "name": "Mun Če-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Moon Jae-in",
           "note": "multilingual"
         },
         {
@@ -2968,6 +2992,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eo",
+          "name": "Mun Ĝe-In",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Moon Jae-in",
           "note": "multilingual"
@@ -2975,6 +3004,11 @@
         {
           "lang": "ext",
           "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "مون جائه-این",
           "note": "multilingual"
         },
         {
@@ -2990,6 +3024,16 @@
         {
           "lang": "gl",
           "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "מון ג'יאה-אין",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "मून जे-इन",
           "note": "multilingual"
         },
         {
@@ -3028,6 +3072,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lb",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
           "lang": "lt",
           "name": "Mun Džėinas",
           "note": "multilingual"
@@ -3040,6 +3089,16 @@
         {
           "lang": "mk",
           "name": "Мун Џе-ин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Moon Jae-in",
           "note": "multilingual"
         },
         {
@@ -3078,13 +3137,38 @@
           "note": "multilingual"
         },
         {
+          "lang": "sh",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "மூன் சே-இன்",
+          "note": "multilingual"
+        },
+        {
           "lang": "th",
           "name": "มุน แจ-อิน",
           "note": "multilingual"
         },
         {
+          "lang": "uk",
+          "name": "Мун Чже Ін",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
           "lang": "vi",
           "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "文在寅",
           "note": "multilingual"
         },
         {
@@ -25128,6 +25212,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "Yoo Il-ho",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
           "name": "Yoo Il-ho",
           "note": "multilingual"
@@ -25145,6 +25234,11 @@
         {
           "lang": "ko",
           "name": "유일호",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Yoo Il-ho",
           "note": "multilingual"
         },
         {
