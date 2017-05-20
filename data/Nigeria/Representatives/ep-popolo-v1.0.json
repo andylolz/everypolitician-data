@@ -10558,6 +10558,10 @@
         {
           "identifier": "503",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29834852",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/503.jpg",
@@ -10566,11 +10570,31 @@
           "url": "http://www.nass.gov.ng/images/mps/503.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdulrahman_Shuaibu_Abubakar"
+        }
+      ],
       "name": "Shuaibu Abdulraman",
       "other_names": [
         {
+          "name": "Abdulrahman Shuaibu Abubakar",
+          "note": "alternate"
+        },
+        {
           "name": "Shuaibu abubakar Abdulraman",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abdulrahman Shuaibu Abubakar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdulrahman Shuaibu Abubakar",
+          "note": "multilingual"
         }
       ]
     },
