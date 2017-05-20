@@ -7142,6 +7142,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ms",
+          "name": "Kensuke Miyazaki",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Kensuke Miyazaki",
           "note": "multilingual"
@@ -10604,6 +10609,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "tr",
+          "name": "Fumio Kishida",
+          "note": "multilingual"
+        },
+        {
           "lang": "uk",
           "name": "Кисида Фуміо",
           "note": "multilingual"
@@ -10636,6 +10646,10 @@
         {
           "identifier": "biography/Taro-Aso",
           "scheme": "britannica"
+        },
+        {
+          "identifier": "DA1274197X",
+          "scheme": "cinii"
         },
         {
           "identifier": "aso_taro",
@@ -23207,6 +23221,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Յուրիկո Կոիկե",
+          "note": "multilingual"
+        },
+        {
           "lang": "id",
           "name": "Yuriko Koike",
           "note": "multilingual"
@@ -31931,6 +31950,11 @@
         {
           "lang": "uz",
           "name": "Shinzō Abe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vep",
+          "name": "Abe Sindzo",
           "note": "multilingual"
         },
         {
