@@ -322,20 +322,45 @@
     },
     {
       "birth_date": "1981",
+      "gender": "male",
       "id": "0c0ee673-9484-4983-ac38-cf50df851aa4",
       "identifiers": [
         {
           "identifier": "490",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29583315",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Árpád_Fremond"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/arpad.fremond"
         }
       ],
       "name": "ÁRPÁD FREMOND",
+      "other_names": [
+        {
+          "name": "Arpad Fremond",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Arpad Fremond",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Arpad Fremond",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ÁRPÁD FREMOND"
     },
     {
@@ -3820,8 +3845,37 @@
     },
     {
       "birth_date": "1954",
+      "gender": "male",
       "id": "66b74202-a8c2-46fd-8dd3-70a2c9c836dc",
+      "identifiers": [
+        {
+          "identifier": "Q29791390",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bajro_Gegić"
+        }
+      ],
       "name": "BAJRO GEGIC",
+      "other_names": [
+        {
+          "name": "Bajro Gegić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Bajro Gegić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bajro Gegić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BAJRO GEGIC"
     },
     {
@@ -8526,20 +8580,45 @@
     },
     {
       "birth_date": "1972",
+      "gender": "male",
       "id": "c384d750-087a-4ca0-926f-cb7340fa7c4a",
       "identifiers": [
         {
           "identifier": "428",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29888661",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Žika_Gojković"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/gojkoviczika"
         }
       ],
       "name": "ZIKA GOJKOVIC",
+      "other_names": [
+        {
+          "name": "Žika Gojković",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Žika Gojković",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Žika Gojković",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ZIKA GOJKOVIC"
     },
     {
@@ -10484,8 +10563,37 @@
     },
     {
       "birth_date": "1958",
+      "gender": "female",
       "id": "f93fbc26-d539-410d-b069-6e82805bcb9e",
+      "identifiers": [
+        {
+          "identifier": "Q29587324",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gorica_Gajić"
+        }
+      ],
       "name": "GORICA GAJIC",
+      "other_names": [
+        {
+          "name": "Gorica Gajić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gorica Gajić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gorica Gajić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "GORICA GAJIC"
     },
     {
