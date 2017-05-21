@@ -13050,6 +13050,10 @@
           "url": "https://fr.wikipedia.org/wiki/Eva_Glawischnig-Piesczek"
         },
         {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Eva_Glawischnig"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Eva_Glawischnig-Piesczek"
         },
@@ -19048,11 +19052,6 @@
         },
         {
           "lang": "es",
-          "name": "Walter Rauch",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
           "name": "Walter Rauch",
           "note": "multilingual"
         },
