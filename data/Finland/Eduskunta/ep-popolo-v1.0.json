@@ -23313,6 +23313,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Laura_Huhtasaari"
+        },
+        {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Laura_Huhtasaari"
         },
@@ -48034,6 +48038,14 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Outi_Ojala"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Outi_Ojala"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Outi_Ojala"
         }
       ],
       "name": "Outi Ojala",
