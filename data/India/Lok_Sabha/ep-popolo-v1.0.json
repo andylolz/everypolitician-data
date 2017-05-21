@@ -5145,6 +5145,10 @@
           "url": "https://de.wikipedia.org/wiki/Rahul_Gandhi"
         },
         {
+          "note": "Wikipedia (dty)",
+          "url": "https://dty.wikipedia.org/wiki/राहुल_गान्धी"
+        },
+        {
           "note": "Wikipedia (el)",
           "url": "https://el.wikipedia.org/wiki/Ραούλ_Γκάντι"
         },
@@ -8194,6 +8198,10 @@
         {
           "identifier": "104108304",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "17287",
+          "scheme": "goodreads"
         },
         {
           "identifier": "nm0857076",
