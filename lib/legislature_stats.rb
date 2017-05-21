@@ -38,6 +38,7 @@ class StatsFile
       latest_term: {
         count:    current.count,
         wikidata: current.select(&:wikidata).count,
+        images:   current.select(&:image).count,
         contacts: {
           email:    current.select(&:email).count,
           facebook: current.select(&:facebook).count,
