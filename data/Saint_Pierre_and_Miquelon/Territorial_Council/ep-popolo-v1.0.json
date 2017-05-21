@@ -258,6 +258,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Annick_Girardin"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Annick_Girardin"
         },
@@ -268,6 +272,14 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Annick_Girardin"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Annick_Girardin"
         },
         {
           "note": "Wikipedia (pl)",
@@ -331,6 +343,11 @@
         {
           "lang": "ja",
           "name": "アニック・ジラルダン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Annick Girardin",
           "note": "multilingual"
         },
         {
