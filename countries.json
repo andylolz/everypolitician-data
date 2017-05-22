@@ -1936,6 +1936,29 @@
         ],
         "statement_count": 39278,
         "type": "lower house"
+      },
+      {
+        "name": "Senate",
+        "slug": "Senate",
+        "sources_directory": "data/Canada/Senate/sources",
+        "popolo": "data/Canada/Senate/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576/data/Canada/Senate/ep-popolo-v1.0.json",
+        "names": "data/Canada/Senate/names.csv",
+        "lastmod": "1495445792",
+        "person_count": 98,
+        "sha": "c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576",
+        "legislative_periods": [
+          {
+            "id": "term/42",
+            "name": "42nd Parliament",
+            "start_date": "2015-12-03",
+            "slug": "42",
+            "csv": "data/Canada/Senate/term-42.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c7ea9ca71e32fdb8f332a5cc73f9aeb7cae17576/data/Canada/Senate/term-42.csv"
+          }
+        ],
+        "statement_count": 3099,
+        "type": "upper house"
       }
     ]
   },
