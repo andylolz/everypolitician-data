@@ -22514,6 +22514,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ling_Liong_Sik.png",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ling_Liong_Sik.png"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -22526,6 +22532,10 @@
         {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Ling_Liong_Sik"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/林良实"
         },
         {
           "note": "wikipedia",
