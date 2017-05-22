@@ -19701,6 +19701,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Баталова_Рима_Аҡбирҙе_ҡыҙы"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rima_Batalova"
         },
@@ -19722,6 +19726,11 @@
         {
           "name": "Баталова, Рима Акбердиновна",
           "note": "alternate"
+        },
+        {
+          "lang": "ba",
+          "name": "Баталова Рима Аҡбирҙе ҡыҙы",
+          "note": "multilingual"
         },
         {
           "lang": "en",
