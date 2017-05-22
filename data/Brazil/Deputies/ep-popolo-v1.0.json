@@ -54925,11 +54925,16 @@
       ],
       "email": "dep.carlosmarun@camara.leg.br",
       "gender": "male",
+      "given_name": "Carlos",
       "id": "fcb3c7eb-f997-4b2c-99e9-3d456fa721f7",
       "identifiers": [
         {
           "identifier": "5830595",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24691950",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178900.jpg",
@@ -54938,7 +54943,33 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178900.jpg"
         }
       ],
-      "name": "CARLOS MARUN"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Carlos_Marun"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Marun"
+        }
+      ],
+      "name": "CARLOS MARUN",
+      "other_names": [
+        {
+          "name": "Carlos Eduardo Xavier Marun",
+          "note": "alternate"
+        },
+        {
+          "lang": "nl",
+          "name": "Carlos Eduardo Xavier Marun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Carlos Eduardo Xavier Marun",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
