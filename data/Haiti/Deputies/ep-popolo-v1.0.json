@@ -164,14 +164,41 @@
       "name": "E. F. Gérard BOURJOLLY"
     },
     {
+      "gender": "male",
       "id": "227023ed-be30-41b7-806a-15596fb3a3ce",
       "identifiers": [
         {
           "identifier": "ronald_lareche",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24951558",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ronald LARECHE"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ronald_Larêche"
+        }
+      ],
+      "name": "Ronald LARECHE",
+      "other_names": [
+        {
+          "name": "Ronald Larêche",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ronald Larêche",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ronald Larêche",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "297e828c-c39b-4101-8ad9-bc40ba341f98",
@@ -514,14 +541,47 @@
       "name": "Jean Bertold BASTIEN"
     },
     {
+      "birth_date": "1970-05-10",
+      "gender": "male",
       "id": "858f08c1-d9c2-4847-9c15-75e6c03c8220",
       "identifiers": [
         {
           "identifier": "stevenson_jacques_thimolÉon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21030784",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Stevenson Jacques THIMOLÉON"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Stevenson_Jacques_Thimoléon"
+        }
+      ],
+      "name": "Stevenson Jacques THIMOLÉON",
+      "other_names": [
+        {
+          "name": "Stevenson Jacques Thimoléon",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Stevenson Jacques Thimoléon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stevenson Jacques Thimoléon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stevenson Jacques Thimoléon",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "8c8367c5-063f-4ec5-b5a2-06520c5903f8",
