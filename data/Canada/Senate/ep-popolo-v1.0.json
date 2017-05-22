@@ -3457,7 +3457,7 @@
   "organizations": [
     {
       "classification": "party",
-      "id": "party/conservative_party_of_canada",
+      "id": "conservative_party_of_canada",
       "identifiers": [
         {
           "identifier": "Q488523",
@@ -3886,7 +3886,7 @@
     },
     {
       "classification": "party",
-      "id": "party/liberal_party_of_canada",
+      "id": "liberal_party_of_canada",
       "identifiers": [
         {
           "identifier": "Q21035865",
@@ -3950,7 +3950,7 @@
     },
     {
       "classification": "party",
-      "id": "party/non-affiliated",
+      "id": "non-affiliated",
       "identifiers": [
         {
           "identifier": "Q327591",
@@ -4603,12 +4603,12 @@
     },
     {
       "classification": "party",
-      "id": "party/non-affiliated_(independent_reform)",
+      "id": "non-affiliated_(independent_reform)",
       "name": "Non-affiliated (Independent Reform)"
     },
     {
       "classification": "party",
-      "id": "party/non-affiliated_(independent_senators_group)",
+      "id": "non-affiliated_(independent_senators_group)",
       "identifiers": [
         {
           "identifier": "Q28946329",
@@ -4652,7 +4652,7 @@
     {
       "area_id": "area/nova_scotia_(nova_scotia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "03c0084f-adea-4ff0-968a-0c2af3f7a049",
       "role": "member",
@@ -4665,7 +4665,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "080d3393-33d7-4831-8360-240631213499",
       "role": "member",
@@ -4678,7 +4678,7 @@
     {
       "area_id": "area/nova_scotia_(northend_halifax)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "173cfbfa-1695-4330-9d4d-652ebb3402eb",
       "role": "member",
@@ -4691,7 +4691,7 @@
     {
       "area_id": "area/manitoba_(manitoba)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "176a00c9-0e21-451e-96fb-35420297dac1",
       "role": "member",
@@ -4704,7 +4704,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "199e417b-315c-4d95-8cf3-81f92427f480",
       "role": "member",
@@ -4717,7 +4717,7 @@
     {
       "area_id": "area/quebec_(bedford)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "1abfdecd-d5f2-40c4-9566-13e075a76d2d",
       "role": "member",
@@ -4730,7 +4730,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "1b6aeac7-7fb0-43db-a31f-f8d77391e220",
       "role": "member",
@@ -4743,7 +4743,7 @@
     {
       "area_id": "area/british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "1c3284c1-47c8-49d8-8f5b-206405d1f2d9",
       "role": "member",
@@ -4756,7 +4756,7 @@
     {
       "area_id": "area/quebec_(kennebec)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "1da3975b-44ec-493c-8b67-625efc000ab8",
       "role": "member",
@@ -4769,7 +4769,7 @@
     {
       "area_id": "area/new_brunswick_(saint_john-kennebecasis)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "1e48b79d-c6ea-4d65-8035-e34c99f032c9",
       "role": "member",
@@ -4782,7 +4782,7 @@
     {
       "area_id": "area/yukon_(yukon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "247280b2-cd29-4967-973d-495a7f2323c3",
       "role": "member",
@@ -4795,7 +4795,7 @@
     {
       "area_id": "area/quebec_(grandville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "331d1791-bc9a-4d7f-8d18-72de7d139451",
       "role": "member",
@@ -4808,7 +4808,7 @@
     {
       "area_id": "area/nova_scotia_(annapolis_valley_-_hants)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "33eaf177-ddd6-430e-9565-ed269050842d",
       "role": "member",
@@ -4821,7 +4821,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "364428b3-bddd-4fcc-8fc4-64083dcf67a1",
       "role": "member",
@@ -4834,7 +4834,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "3740ca6e-1bf5-49dc-948f-a39062b9cbd8",
       "role": "member",
@@ -4847,7 +4847,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "43209d6b-e312-42c6-bb96-96fd2756585a",
       "role": "member",
@@ -4860,7 +4860,7 @@
     {
       "area_id": "area/ontario_(rideau)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "43673e63-a20a-49bb-be65-f13ae06d46f5",
       "role": "member",
@@ -4873,7 +4873,7 @@
     {
       "area_id": "area/prince_edward_island_(prince_edward_island)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "480390f5-a298-40b6-b2ca-f2db71c7028e",
       "role": "member",
@@ -4886,7 +4886,7 @@
     {
       "area_id": "area/quebec_(shawinegan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "490008c1-2b1a-4bed-99c8-3f00e0d33638",
       "role": "member",
@@ -4899,7 +4899,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "4d7308c5-bd3a-4226-9b22-59a1a3fdda22",
       "role": "member",
@@ -4912,7 +4912,7 @@
     {
       "area_id": "area/quebec_(de_la_durantaye)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "529bd785-e345-4fa0-8a4b-9a480993c242",
       "role": "member",
@@ -4925,7 +4925,7 @@
     {
       "area_id": "area/manitoba_(manitoba)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "53e48fc7-72e4-4ee2-8d8b-31cb4016fbce",
       "role": "member",
@@ -4938,7 +4938,7 @@
     {
       "area_id": "area/saskatchewan_(saskatchewan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "558480ac-42f1-4312-a960-209b378ffe80",
       "role": "member",
@@ -4951,7 +4951,7 @@
     {
       "area_id": "area/nova_scotia_(nova_scotia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "5658d0ee-29cf-4b6f-932c-962bc71bfd1d",
       "role": "member",
@@ -4964,7 +4964,7 @@
     {
       "area_id": "area/manitoba_(landmark)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "57acb6d0-808a-4c18-98df-bdb4a07c5499",
       "role": "member",
@@ -4977,7 +4977,7 @@
     {
       "area_id": "area/quebec_(de_salaberry)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "5a16dd06-d2ab-484c-9260-70fa585268ce",
       "role": "member",
@@ -4990,7 +4990,7 @@
     {
       "area_id": "area/ontario_(toronto)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "5d8e7cfd-825a-4f9b-b7d2-233f32b93ab9",
       "role": "member",
@@ -5003,7 +5003,7 @@
     {
       "area_id": "area/quebec_(saurel)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "5f6f351a-cdc7-4be8-a3e1-ace3674a0af4",
       "role": "member",
@@ -5016,7 +5016,7 @@
     {
       "area_id": "area/saskatchewan_(saskatchewan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "600bf5fa-8907-47e3-b17c-9bb6fa6834f3",
       "role": "member",
@@ -5029,7 +5029,7 @@
     {
       "area_id": "area/manitoba_(manitoba)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "61bb0cd4-0b99-44bd-84ec-5e05e416d2c0",
       "role": "member",
@@ -5042,7 +5042,7 @@
     {
       "area_id": "area/quebec_(la_salle)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "64084f5d-652e-4b46-98d9-3262440ff939",
       "role": "member",
@@ -5055,7 +5055,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "645add6c-dbc7-4b96-9a20-ca540b06d2d6",
       "role": "member",
@@ -5068,7 +5068,7 @@
     {
       "area_id": "area/ontario_(toronto)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "6709c55e-5c23-4be0-bfc0-def3311474ae",
       "role": "member",
@@ -5081,7 +5081,7 @@
     {
       "area_id": "area/quebec_(de_la_vallière)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "69832e5b-0196-406e-ab7c-dacab0e74885",
       "role": "member",
@@ -5094,7 +5094,7 @@
     {
       "area_id": "area/quebec_(gulf)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "6e27469d-9aae-455a-9531-b4835e8e7548",
       "role": "member",
@@ -5107,7 +5107,7 @@
     {
       "area_id": "area/nova_scotia_(halifax_-_the_citadel)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_reform)",
+      "on_behalf_of_id": "non-affiliated_(independent_reform)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "6e36ad5d-1bae-41d7-a95f-f025e4731dc5",
       "role": "member",
@@ -5120,7 +5120,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "6ee08ade-a15e-4c2d-afae-7ca417992bb0",
       "role": "member",
@@ -5133,7 +5133,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "76d0c5f8-c4e0-4405-9ce1-32f5fb2e856f",
       "role": "member",
@@ -5146,7 +5146,7 @@
     {
       "area_id": "area/nunavut_(nunavut)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "7803c921-168c-4b97-8788-e6f25e03407c",
       "role": "member",
@@ -5159,7 +5159,7 @@
     {
       "area_id": "area/british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "7aea9861-c65f-48b3-ac57-35d9d1ecf300",
       "role": "member",
@@ -5172,7 +5172,7 @@
     {
       "area_id": "area/manitoba_(manitoba)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "7b379950-3a67-4d8b-bbcc-2ae454133762",
       "role": "member",
@@ -5185,7 +5185,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "7e979cc3-bedb-44ee-8db2-76d03fef6fe9",
       "role": "member",
@@ -5198,7 +5198,7 @@
     {
       "area_id": "area/ontario_(ottawa)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "7fb47759-97ec-436c-95f1-41504c3c2500",
       "role": "member",
@@ -5211,7 +5211,7 @@
     {
       "area_id": "area/new_brunswick_(saint-louis-de-kent)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "886cae9e-f747-412b-a96c-e9707cd5269f",
       "role": "member",
@@ -5224,7 +5224,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "89fa4bb1-9d2a-456f-b74b-2e602a9f076a",
       "role": "member",
@@ -5237,7 +5237,7 @@
     {
       "area_id": "area/british_columbia_(thompson-okanagan-kootenay)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8b7e82a6-94a1-4940-9040-621965d33f28",
       "role": "member",
@@ -5250,7 +5250,7 @@
     {
       "area_id": "area/saskatchewan_(saskatchewan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8c5ac95a-519e-4928-a376-7b8ec67fdcb8",
       "role": "member",
@@ -5263,7 +5263,7 @@
     {
       "area_id": "area/british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8c87eb9e-39e0-4bec-8bd9-36598ab86978",
       "role": "member",
@@ -5276,7 +5276,7 @@
     {
       "area_id": "area/quebec_(wellington)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8dccbb06-2b2b-47b3-ab57-c08cf9984c5e",
       "role": "member",
@@ -5289,7 +5289,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8edfff7d-12fc-4134-8326-c5f411fe53a5",
       "role": "member",
@@ -5302,7 +5302,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "8f88dc0e-8c0b-4411-9ca3-9fa31df08525",
       "role": "member",
@@ -5315,7 +5315,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "9156f56f-0489-4937-9da8-bbd4713682bd",
       "role": "member",
@@ -5328,7 +5328,7 @@
     {
       "area_id": "area/quebec_(stadacona)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "96bedde7-d0c4-449e-bac2-599135bbff7f",
       "role": "member",
@@ -5341,7 +5341,7 @@
     {
       "area_id": "area/prince_edward_island_(cavendish)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "99c5a22c-d2b9-4c9c-9572-c764a882e69b",
       "role": "member",
@@ -5354,7 +5354,7 @@
     {
       "area_id": "area/british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "9a0c648b-5c74-4c97-b9fa-cba5dead48c4",
       "role": "member",
@@ -5367,7 +5367,7 @@
     {
       "area_id": "area/quebec_(lauzon)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "9de111bf-1147-4102-8525-745dd8b3999d",
       "role": "member",
@@ -5380,7 +5380,7 @@
     {
       "area_id": "area/quebec_(repentigny)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "aa8d7baf-f970-411e-bd91-5b482a1b6f09",
       "role": "member",
@@ -5393,7 +5393,7 @@
     {
       "area_id": "area/ontario_(thousand_islands_and_rideau_lakes)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "aab90a57-c46a-4239-88b9-b6d2bb13740b",
       "role": "member",
@@ -5406,7 +5406,7 @@
     {
       "area_id": "area/quebec_(de_lorimier)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ab3a5fd7-7910-4f0c-8d54-b002f3216862",
       "role": "member",
@@ -5419,7 +5419,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "acd52cfc-4325-46e4-a69c-6d928ea04163",
       "role": "member",
@@ -5432,7 +5432,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ad5c5c01-c77d-43d5-b21f-e8d6568e6f2d",
       "role": "member",
@@ -5445,7 +5445,7 @@
     {
       "area_id": "area/quebec_(alma)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "af650bf7-db05-445b-abe3-4319aca77d7d",
       "role": "member",
@@ -5458,7 +5458,7 @@
     {
       "area_id": "area/quebec_(inkerman)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "afd5197f-c79f-472b-8ad9-c8f0a90cfd48",
       "role": "member",
@@ -5471,7 +5471,7 @@
     {
       "area_id": "area/nova_scotia_(cape_breton)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "b0291607-fbd9-40db-8283-db71a80aafc2",
       "role": "member",
@@ -5484,7 +5484,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "b1971043-15c5-4842-9248-28db774dc42f",
       "role": "member",
@@ -5497,7 +5497,7 @@
     {
       "area_id": "area/nova_scotia_(east_preston)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "b1f1de17-ba02-41f1-bed7-8bf2c9afb8fe",
       "role": "member",
@@ -5510,7 +5510,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "b773e2b0-266b-4136-b180-79aa42bb6812",
       "role": "member",
@@ -5523,7 +5523,7 @@
     {
       "area_id": "area/ontario_(toronto_centre-york)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "bb67c1b5-24de-485f-92db-649e58be97c7",
       "role": "member",
@@ -5536,7 +5536,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "bca9766a-32f2-4bbb-bb5e-9905832bbc5c",
       "role": "member",
@@ -5549,7 +5549,7 @@
     {
       "area_id": "area/quebec_(rigaud)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "c12d1617-253b-4c5b-9139-0a74760d8daa",
       "role": "member",
@@ -5562,7 +5562,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "c69a578c-4e79-4f4b-8f59-92ea88702b24",
       "role": "member",
@@ -5575,7 +5575,7 @@
     {
       "area_id": "area/quebec_(mille_isles)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "c80cf077-37b0-418f-a1ef-4e51f0de451b",
       "role": "member",
@@ -5588,7 +5588,7 @@
     {
       "area_id": "area/ontario_(mississauga)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "c82cf916-a486-4218-9023-214e1b98389f",
       "role": "member",
@@ -5601,7 +5601,7 @@
     {
       "area_id": "area/northwest_territories_(northwest_territories)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "d25424a0-3d63-4102-b94b-bbbc49dde250",
       "role": "member",
@@ -5614,7 +5614,7 @@
     {
       "area_id": "area/nova_scotia_(nova_scotia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "d6062c2f-ca8b-496b-b055-af43a2f20445",
       "role": "member",
@@ -5627,7 +5627,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "d7e1df39-3156-4932-ae17-3e72fdef5b29",
       "role": "member",
@@ -5640,7 +5640,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "d8e0a139-0f52-47f6-b664-1b368b86a445",
       "role": "member",
@@ -5653,7 +5653,7 @@
     {
       "area_id": "area/ontario_(ottawa_/_rideau_canal)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "da6bc109-504b-48e7-8445-2bac0a381444",
       "role": "member",
@@ -5666,7 +5666,7 @@
     {
       "area_id": "area/quebec_(rougemont)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "dadc50e7-1a33-49a0-b2f5-03e0db10a3a6",
       "role": "member",
@@ -5679,7 +5679,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "dbf13155-23c3-4bb6-a34d-173bd9b8daca",
       "role": "member",
@@ -5692,7 +5692,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "dc0b89d2-c8cf-4e9c-a437-e174f0607e0d",
       "role": "member",
@@ -5705,7 +5705,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e1410d5f-ee03-43bb-bb08-2e280522808d",
       "role": "member",
@@ -5718,7 +5718,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e2138cf5-5e1a-4b1a-a55b-2be1229a5f93",
       "role": "member",
@@ -5731,7 +5731,7 @@
     {
       "area_id": "area/quebec_(montarville)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated",
+      "on_behalf_of_id": "non-affiliated",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e276f77e-f464-49a4-9f1a-e19f6e7c4626",
       "role": "member",
@@ -5744,7 +5744,7 @@
     {
       "area_id": "area/saskatchewan_(saskatchewan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e4213990-eed3-4091-93d3-708a7b92d85b",
       "role": "member",
@@ -5757,7 +5757,7 @@
     {
       "area_id": "area/alberta_(alberta)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e45d67a1-58d6-4564-adc0-ff01cb4e2a4c",
       "role": "member",
@@ -5770,7 +5770,7 @@
     {
       "area_id": "area/quebec_(the_laurentides)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e52eaad5-f6f0-459b-bc22-1c6200ab7ac8",
       "role": "member",
@@ -5783,7 +5783,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e72ffe4d-200a-45cb-98fc-9c19f822a2b5",
       "role": "member",
@@ -5796,7 +5796,7 @@
     {
       "area_id": "area/newfoundland_and_labrador_(newfoundland_and_labrador)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e758e3f5-b189-4e74-94b2-b2617eea2077",
       "role": "member",
@@ -5809,7 +5809,7 @@
     {
       "area_id": "area/prince_edward_island_(prince_edward_island)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "e9d92366-2a74-4cba-adde-6f94ff973f92",
       "role": "member",
@@ -5822,7 +5822,7 @@
     {
       "area_id": "area/british_columbia_(british_columbia)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ec27bc66-3d98-4577-8b7e-33828e6cf553",
       "role": "member",
@@ -5835,7 +5835,7 @@
     {
       "area_id": "area/saskatchewan_(saskatchewan)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "f09eb208-b95c-4762-a78b-6c55b8c938e5",
       "role": "member",
@@ -5848,7 +5848,7 @@
     {
       "area_id": "area/quebec_(de_lanaudière)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "f1b94cb0-76f8-4212-b5f8-bc6082f24da5",
       "role": "member",
@@ -5861,7 +5861,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "f6d6b205-9de2-491c-9acd-c2fece611807",
       "role": "member",
@@ -5874,7 +5874,7 @@
     {
       "area_id": "area/quebec_(victoria)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "fdccef11-fcf1-43a7-9f42-2f8520706b8d",
       "role": "member",
@@ -5887,7 +5887,7 @@
     {
       "area_id": "area/prince_edward_island_(charlottetown)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/liberal_party_of_canada",
+      "on_behalf_of_id": "liberal_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ff54fd7e-be34-45b2-bddb-75f9f094e3cb",
       "role": "member",
@@ -5900,7 +5900,7 @@
     {
       "area_id": "area/ontario_(ontario)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/non-affiliated_(independent_senators_group)",
+      "on_behalf_of_id": "non-affiliated_(independent_senators_group)",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ff635215-6d95-44de-a644-973cfa157074",
       "role": "member",
@@ -5913,7 +5913,7 @@
     {
       "area_id": "area/new_brunswick_(new_brunswick)",
       "legislative_period_id": "term/42",
-      "on_behalf_of_id": "party/conservative_party_of_canada",
+      "on_behalf_of_id": "conservative_party_of_canada",
       "organization_id": "aa0787d3-5383-4638-a107-b5d0b2aac937",
       "person_id": "ffe87ab5-9e21-4a5e-b657-a7b7bd084bc4",
       "role": "member",
