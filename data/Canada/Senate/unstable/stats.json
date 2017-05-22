@@ -1,0 +1,36 @@
+{
+  "people": {
+    "count": 98,
+    "wikidata": 0,
+    "latest_term": {
+      "count": 98,
+      "wikidata": 0,
+      "images": 98,
+      "contacts": {
+        "email": 98,
+        "facebook": 30,
+        "twitter": 44
+      }
+    }
+  },
+  "groups": {
+    "count": 5,
+    "wikidata": 0
+  },
+  "terms": {
+    "count": 1,
+    "latest": "2015-12-03",
+    "wikidata": 1
+  },
+  "areas": {
+    "count": 54,
+    "wikidata": 0
+  },
+  "elections": {
+    "count": 0,
+    "latest": ""
+  },
+  "positions": {
+    "cabinet": 0
+  }
+}
