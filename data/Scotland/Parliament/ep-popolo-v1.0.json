@@ -12293,6 +12293,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gillian_Martin_(Politikerin)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Gillian_Martin"
         },
@@ -12303,6 +12307,11 @@
       ],
       "name": "Gillian Martin",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Gillian Martin",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Gillian Martin",
@@ -20043,7 +20052,7 @@
         },
         {
           "note": "Wikipedia (bewikiquote)",
-          "url": "https://bewikiquote.wikipedia.org/wiki/Алекс_Сэлманд"
+          "url": "https://bewikiquote.wikipedia.org/wiki/Алекс_Салманд"
         },
         {
           "note": "Wikipedia (bg)",
