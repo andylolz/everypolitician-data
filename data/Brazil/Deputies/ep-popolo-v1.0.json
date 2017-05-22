@@ -14337,7 +14337,7 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/74693.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/CPI_-_Petrobras_-_2014_-_CPIPETRO_(15147420504).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Michel_Temer_toma_posse_como_presidente_da_República_1041332-31.08.2016_pzzb-8955_1.jpg"
         }
       ],
       "links": [
@@ -14348,6 +14348,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rodrigo_Maia"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rodrigo_Maia"
         },
         {
           "note": "Wikipedia (fr)",
@@ -14380,6 +14384,11 @@
         },
         {
           "lang": "en",
+          "name": "Rodrigo Maia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "Rodrigo Maia",
           "note": "multilingual"
         },
@@ -31947,6 +31956,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nl",
+          "name": "Rodrigo Pacheco",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "Rodrigo Pacheco",
           "note": "multilingual"
@@ -44901,7 +44915,7 @@
         },
         {
           "note": "Wikipedia (pt)",
-          "url": "https://pt.wikipedia.org/wiki/Carlos_Gaguim"
+          "url": "https://pt.wikipedia.org/wiki/Carlos_Henrique_Gaguim"
         }
       ],
       "name": "CARLOS HENRIQUE GAGUIM",
@@ -47988,6 +48002,7 @@
       "name": "FERNANDO LOPES"
     },
     {
+      "birth_date": "1948-12-23",
       "contact_details": [
         {
           "type": "email",
@@ -48000,6 +48015,7 @@
       ],
       "email": "dep.betorosado@camara.leg.br",
       "gender": "male",
+      "given_name": "Carlos",
       "id": "dd9e689d-88ed-4ea4-af4f-76bc0f615467",
       "identifiers": [
         {
@@ -48028,6 +48044,11 @@
         {
           "name": "Betinho Rosado",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Betinho Rosado",
+          "note": "multilingual"
         },
         {
           "lang": "pt",
@@ -54565,6 +54586,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Rogério_Rosso"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rogério_Rosso"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Rogério_Rosso"
         },
@@ -59404,7 +59429,7 @@
         },
         {
           "lang": "pt",
-          "name": "Partido Trabalhista Nacional",
+          "name": "Podemos",
           "note": "multilingual"
         },
         {
@@ -59449,7 +59474,7 @@
         },
         {
           "lang": "pt-br",
-          "name": "Partido Trabalhista Nacional",
+          "name": "Podemos",
           "note": "multilingual"
         },
         {
@@ -59458,8 +59483,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Partido Trabalhista Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "PODE",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt-br",
           "name": "PTN",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Partido Trabalhista Nacional",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "PODE",
           "note": "multilingual"
         }
       ]
