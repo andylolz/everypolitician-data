@@ -824,14 +824,51 @@
       "name": "Jude Charles FAUSTIN"
     },
     {
+      "birth_date": "1967-02-16",
+      "gender": "male",
       "id": "d3ac08d9-f904-4e33-b9af-da103ae6d3cc",
       "identifiers": [
         {
           "identifier": "chancy_cholzer",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23309180",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Chancy CHOLZER"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Cholzer_Chancy"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Cholzer_Chancy"
+        }
+      ],
+      "name": "Chancy CHOLZER",
+      "other_names": [
+        {
+          "name": "Cholzer Chancy",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Cholzer Chancy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Cholzer Chancy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Cholzer Chancy",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "dc6b9d75-bb05-4987-bebf-b8cfcbd704fb",
