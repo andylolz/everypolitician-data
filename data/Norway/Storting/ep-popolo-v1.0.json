@@ -36279,12 +36279,37 @@
       "name": "Peter N. Myhre",
       "other_names": [
         {
+          "lang": "bar",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Peter N. Myhre",
           "note": "multilingual"
         },
         {
+          "lang": "de",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Peter N. Myhre",
           "note": "multilingual"
         },
@@ -36295,6 +36320,11 @@
         },
         {
           "lang": "fr",
+          "name": "Peter N. Myhre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
           "name": "Peter N. Myhre",
           "note": "multilingual"
         },
@@ -77133,6 +77163,12 @@
         {
           "identifier": "Q709844",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Regjeringen_Lyngs_siste_dag_fra_debatten_i_Stortinget_-_L0022_368bFo30141605120053.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Regjeringen_Lyngs_siste_dag_fra_debatten_i_Stortinget_-_L0022_368bFo30141605120053.jpg"
         }
       ],
       "links": [
