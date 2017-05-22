@@ -10488,6 +10488,12 @@
     {
       "classification": "legislative period",
       "id": "term/1",
+      "identifiers": [
+        {
+          "identifier": "Q18600849",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "1st Legislature",
       "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
       "start_date": "2014-12-02"
