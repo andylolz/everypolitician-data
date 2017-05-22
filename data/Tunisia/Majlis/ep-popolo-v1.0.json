@@ -5085,6 +5085,17 @@
           "scheme": "everypolitician_legacy"
         }
       ],
+      "image": "http://majles.marsad.tn/2014/uploads/images/Salem_Hamdi.png",
+      "images": [
+        {
+          "url": "http://majles.marsad.tn/2014/uploads/images/Salem_Hamdi.png"
+        }
+      ],
+      "name": "Salem Hamdi"
+    },
+    {
+      "gender": "male",
+      "id": "c89ebb24-696e-466a-be84-98b954e4c5fc",
       "image": "http://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed.png",
       "images": [
         {
@@ -9565,9 +9576,22 @@
     {
       "area_id": "area/sidi_bouzid",
       "legislative_period_id": "term/1",
-      "on_behalf_of_id": "Mouvement_Nidaa_Tounes",
+      "on_behalf_of_id": "Aucun_bloc",
       "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
       "person_id": "c6c69195-78cb-432c-a00f-a73bd0014b21",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://majles.marsad.tn/2014/fr/elus/Salem_Hamdi"
+        }
+      ]
+    },
+    {
+      "area_id": "area/sidi_bouzid",
+      "legislative_period_id": "term/1",
+      "on_behalf_of_id": "Mouvement_Nidaa_Tounes",
+      "organization_id": "2248fcda-00c5-4c70-a4c3-5c7927bf1c8e",
+      "person_id": "c89ebb24-696e-466a-be84-98b954e4c5fc",
       "role": "member",
       "sources": [
         {
