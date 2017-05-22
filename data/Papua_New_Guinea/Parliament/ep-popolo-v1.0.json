@@ -2353,6 +2353,10 @@
           "url": "https://sv.wikipedia.org/wiki/Julius_Chan"
         },
         {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Джуліус_Чан"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/陳仲民"
         },
@@ -2445,6 +2449,11 @@
         {
           "lang": "sv",
           "name": "Julius Chan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Джуліус Чан",
           "note": "multilingual"
         },
         {
