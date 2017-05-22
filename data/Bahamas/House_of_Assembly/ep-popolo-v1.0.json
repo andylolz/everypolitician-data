@@ -996,6 +996,10 @@
           "url": "https://la.wikipedia.org/wiki/Hubertus_Minnis"
         },
         {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Hubert_Minnis"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Hubert_Minnis"
         },
@@ -1052,6 +1056,11 @@
         {
           "lang": "pl",
           "name": "Hubert Minnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Губерт Миннис",
           "note": "multilingual"
         }
       ],
