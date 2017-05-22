@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1950-07-02",
       "contact_details": [
         {
           "type": "email",
@@ -23,7 +24,15 @@
         }
       ],
       "email": "jane.cordy@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Jane",
       "id": "03c0084f-adea-4ff0-968a-0c2af3f7a049",
+      "identifiers": [
+        {
+          "identifier": "Q6151275",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26049/sen_159_large.jpg",
       "images": [
         {
@@ -31,6 +40,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jane_Cordy"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/senatorcordy"
@@ -41,9 +54,62 @@
         }
       ],
       "name": "Jane Cordy",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jane Cordy",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cordy, Jane"
     },
     {
+      "birth_date": "1958-10-25",
       "contact_details": [
         {
           "type": "email",
@@ -59,17 +125,43 @@
         }
       ],
       "email": "Lucie.Moncion@sen.parl.gc.ca",
+      "gender": "female",
       "id": "080d3393-33d7-4831-8360-240631213499",
+      "identifiers": [
+        {
+          "identifier": "Q27656978",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188229/sen_207814_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188229/sen_207814_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lucie_Moncion"
+        }
+      ],
       "name": "Lucie Moncion",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Lucie Moncion",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lucie Moncion",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Moncion, Lucie"
     },
     {
+      "birth_date": "1947-05-06",
       "contact_details": [
         {
           "type": "email",
@@ -85,17 +177,88 @@
         }
       ],
       "email": "terry.mercer@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Terry",
       "id": "173cfbfa-1695-4330-9d4d-652ebb3402eb",
+      "identifiers": [
+        {
+          "identifier": "Q7704796",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26263/sen_2759_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26263/sen_2759_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Terry_Mercer"
+        }
+      ],
       "name": "Terry M. Mercer",
+      "other_names": [
+        {
+          "name": "Terry Mercer",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Terry Mercer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mercer, Terry M."
     },
     {
+      "birth_date": "1956-01-07",
       "contact_details": [
         {
           "type": "email",
@@ -111,17 +274,55 @@
         }
       ],
       "email": "Raymonde.Gagne@sen.parl.gc.ca",
+      "gender": "female",
       "id": "176a00c9-0e21-451e-96fb-35420297dac1",
+      "identifiers": [
+        {
+          "identifier": "Q23771365",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26124/sen_206043_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26124/sen_206043_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Raymonde_Gagné_reçois_le_Prix_Riel.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raymonde_Gagné"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Raymonde_Gagné"
         }
       ],
       "name": "Raymonde Gagné",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Raymonde Gagné",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raymonde Gagné",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raymonde Gagné",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gagne, Raymonde"
     },
     {
+      "birth_date": "1945-11-11",
       "contact_details": [
         {
           "type": "email",
@@ -137,7 +338,20 @@
         }
       ],
       "email": "norman.doyle@sen.parl.gc.ca",
+      "family_name": "Doyle",
+      "gender": "male",
+      "given_name": "Norman",
       "id": "199e417b-315c-4d95-8cf3-81f92427f480",
+      "identifiers": [
+        {
+          "identifier": "68456160",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3343768",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26079/sen_3553_large.jpg",
       "images": [
         {
@@ -146,14 +360,79 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Norman_Doyle"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Norman_Doyle"
+        },
+        {
           "note": "website",
           "url": "http://normanedoyle.sencanada.ca/"
         }
       ],
       "name": "Norman E. Doyle",
+      "other_names": [
+        {
+          "name": "Norman Doyle",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Norman Doyle",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Doyle, Norman E."
     },
     {
+      "birth_date": "1962-06-21",
       "contact_details": [
         {
           "type": "email",
@@ -169,14 +448,48 @@
         }
       ],
       "email": "rosa.galvez@sen.parl.gc.ca",
+      "gender": "female",
       "id": "1abfdecd-d5f2-40c4-9566-13e075a76d2d",
+      "identifiers": [
+        {
+          "identifier": "Q27673144",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/230877/sen-208170-large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/230877/sen-208170-large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosa_Galvez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rosa_Galvez"
+        }
+      ],
       "name": "Rosa Galvez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rosa Galvez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rosa Galvez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosa Galvez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Galvez, Rosa"
     },
     {
@@ -195,17 +508,49 @@
         }
       ],
       "email": "Howard.Wetston@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Howard",
       "id": "1b6aeac7-7fb0-43db-a31f-f8d77391e220",
+      "identifiers": [
+        {
+          "identifier": "Q5921234",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/191415/sen_207812_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/191415/sen_207812_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Howard_Wetston"
+        }
+      ],
       "name": "Howard Wetston",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Howard Wetston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Howard Wetston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Howard Wetston",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wetston, Howard"
     },
     {
+      "birth_date": "1944-11-06",
       "contact_details": [
         {
           "type": "email",
@@ -221,7 +566,19 @@
         }
       ],
       "email": "richard.neufeld@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Richard",
       "id": "1c3284c1-47c8-49d8-8f5b-206405d1f2d9",
+      "identifiers": [
+        {
+          "identifier": "221145492",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7328032",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26288/sen_2814_large.jpg",
       "images": [
         {
@@ -230,14 +587,56 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Richard_Neufeld"
+        },
+        {
           "note": "website",
           "url": "http://senatorrichardneufeld.com/"
         }
       ],
       "name": "Richard Neufeld",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Richard Neufeld",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Neufeld, Richard"
     },
     {
+      "birth_date": "1945-02-01",
       "contact_details": [
         {
           "type": "email",
@@ -253,7 +652,35 @@
         }
       ],
       "email": "serge.joyal@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Serge",
       "id": "1da3975b-44ec-493c-8b67-625efc000ab8",
+      "identifiers": [
+        {
+          "identifier": "135300618",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "0000 0000 7837 6631",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "n79047824",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "050441914",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "70202940",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2272463",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26159/sen_132_large.jpg",
       "images": [
         {
@@ -262,14 +689,83 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Serge_Joyal"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Serge_Joyal"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Serge_Joyal"
+        },
+        {
           "note": "website",
           "url": "http://sergejoyal.sencanada.ca"
         }
       ],
       "name": "Serge Joyal, P.C.",
+      "other_names": [
+        {
+          "name": "Serge Joyal",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Serge Joyal",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Joyal, Serge, P.C."
     },
     {
+      "birth_date": "1945-01-24",
       "contact_details": [
         {
           "type": "email",
@@ -289,7 +785,16 @@
         }
       ],
       "email": "joseph.day@sen.parl.gc.ca",
+      "family_name": "Day",
+      "gender": "male",
+      "given_name": "Joseph",
       "id": "1e48b79d-c6ea-4d65-8035-e34c99f032c9",
+      "identifiers": [
+        {
+          "identifier": "Q6280781",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/19359/sen_170_large.jpg",
       "images": [
         {
@@ -297,6 +802,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joseph_A._Day"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joseph_A._Day"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/sendaynb"
@@ -307,6 +820,58 @@
         }
       ],
       "name": "Joseph A. Day",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joseph A. Day",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Day, Joseph A."
     },
     {
@@ -350,6 +915,7 @@
       "sort_name": "Lang, Daniel"
     },
     {
+      "birth_date": "1969-12-15",
       "contact_details": [
         {
           "type": "email",
@@ -369,14 +935,61 @@
         }
       ],
       "email": "Chantal.Petitclerc@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Chantal",
       "id": "331d1791-bc9a-4d7f-8d18-72de7d139451",
+      "identifiers": [
+        {
+          "identifier": "/m/03q52q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "179537",
+          "scheme": "iiaf"
+        },
+        {
+          "identifier": "106553009",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q457113",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188239/sen_102735_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188239/sen_102735_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Chantal_Petitclerc.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Chantal_Petitclercová"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Chantal_Petitclerc"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chantal_Petitclerc"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chantal_Petitclerc"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Chantal_Petitclerc"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/シャンタル・プチクレール"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/chantalpetitclerc"
@@ -388,12 +1001,79 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/CPetitclerc"
+        },
+        {
+          "note": "website",
+          "url": "http://chantalpetitclerc.com/"
         }
       ],
       "name": "Chantal Petitclerc",
+      "other_names": [
+        {
+          "lang": "cs",
+          "name": "Chantal Petitclercová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "シャンタル・プチクレール",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Chantal Petitclerc",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Petitclerc, Chantal"
     },
     {
+      "birth_date": "1942-11-06",
       "contact_details": [
         {
           "type": "email",
@@ -413,14 +1093,37 @@
         }
       ],
       "email": "kelvin.ogilvie@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Kelvin",
       "id": "33eaf177-ddd6-430e-9565-ed269050842d",
+      "identifiers": [
+        {
+          "identifier": "106646803",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6386718",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26298/sen_2855_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26298/sen_2855_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Kelvin_Ogilvie.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kelvin_Ogilvie"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Kelvin_Ogilvie"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/KelvinKOgilvie"
@@ -431,6 +1134,57 @@
         }
       ],
       "name": "Kelvin Kenneth Ogilvie",
+      "other_names": [
+        {
+          "name": "Kelvin Ogilvie",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Kelvin Ogilvie",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ogilvie, Kelvin Kenneth"
     },
     {
@@ -453,7 +1207,14 @@
         }
       ],
       "email": "Rene.Cormier@sen.parl.gc.ca",
+      "gender": "male",
       "id": "364428b3-bddd-4fcc-8fc4-64083dcf67a1",
+      "identifiers": [
+        {
+          "identifier": "Q27688775",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188198/sen_207798_large.jpg",
       "images": [
         {
@@ -461,6 +1222,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/René_Cormier"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/René_Cormier"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/sencormier"
@@ -471,9 +1240,27 @@
         }
       ],
       "name": "René Cormier",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "René Cormier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "René Cormier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "René Cormier",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cormier, Rene"
     },
     {
+      "birth_date": "1962-02-25",
       "contact_details": [
         {
           "type": "email",
@@ -489,7 +1276,15 @@
         }
       ],
       "email": "scott.tannas@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Scott",
       "id": "3740ca6e-1bf5-49dc-948f-a39062b9cbd8",
+      "identifiers": [
+        {
+          "identifier": "Q7437348",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26370/sen_3577_large.jpg",
       "images": [
         {
@@ -497,6 +1292,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Scott_Tannas"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ScottTannas.ca"
@@ -507,6 +1306,33 @@
         }
       ],
       "name": "Scott Tannas",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Scott Tannas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scott Tannas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scott Tannas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Scott Tannas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scott Tannas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tannas, Scott"
     },
     {
@@ -525,17 +1351,54 @@
         }
       ],
       "email": "Gwen.Boniface@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Gwen",
       "id": "43209d6b-e312-42c6-bb96-96fd2756585a",
+      "identifiers": [
+        {
+          "identifier": "Q5623403",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/182851/sen_207820_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/182851/sen_207820_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gwen_Boniface"
+        }
+      ],
       "name": "Gwen Boniface",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Gwen Boniface",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gwen Boniface",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Gwen Boniface",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gwen Boniface",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Boniface, Gwen"
     },
     {
+      "birth_date": "1943-12-10",
       "contact_details": [
         {
           "type": "email",
@@ -551,7 +1414,31 @@
         }
       ],
       "email": "colin.kenny@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Colin",
       "id": "43673e63-a20a-49bb-be65-f13ae06d46f5",
+      "identifiers": [
+        {
+          "identifier": "144589078",
+          "scheme": "bnf"
+        },
+        {
+          "identifier": "173703348",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "0000 0000 7365 580X",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "43683088",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2982619",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26169/sen_50_large.jpg",
       "images": [
         {
@@ -560,14 +1447,80 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Colin_Kenny"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Colin_Kenny"
+        },
+        {
           "note": "website",
           "url": "http://colinkenny.ca/"
         }
       ],
       "name": "Colin Kenny",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Колин Кенни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Colin Kenny",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kenny, Colin"
     },
     {
+      "birth_date": "1942-09-08",
       "contact_details": [
         {
           "type": "email",
@@ -587,7 +1540,14 @@
         }
       ],
       "email": "elizabeth.hubley@sen.parl.gc.ca",
+      "gender": "female",
       "id": "480390f5-a298-40b6-b2ca-f2db71c7028e",
+      "identifiers": [
+        {
+          "identifier": "Q6540386",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26149/sen_163_large.jpg",
       "images": [
         {
@@ -595,6 +1555,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Libbe_Hubley"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/SenLibbeHubley"
@@ -605,9 +1569,66 @@
         }
       ],
       "name": "Elizabeth Hubley",
+      "other_names": [
+        {
+          "name": "Libbe Hubley",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Libbe Hubley",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hubley, Elizabeth"
     },
     {
+      "birth_date": "1944-04-22",
       "contact_details": [
         {
           "type": "email",
@@ -623,23 +1644,89 @@
         }
       ],
       "email": "ghislain.maltais@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Ghislain",
       "id": "490008c1-2b1a-4bed-99c8-3f00e0d33638",
+      "identifiers": [
+        {
+          "identifier": "Q5556749",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26189/sen_3551_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26189/sen_3551_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Ghislain_Maltais_-_February_2017_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ghislain_Maltais"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ghislain_Maltais"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ghislain_Maltais"
+        },
         {
           "note": "website",
           "url": "http://ghislainmaltais.sencanada.ca/"
         }
       ],
       "name": "Ghislain Maltais",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ghislain Maltais",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Maltais, Ghislain"
     },
     {
+      "birth_date": "1948-05-12",
       "contact_details": [
         {
           "type": "email",
@@ -659,14 +1746,37 @@
         }
       ],
       "email": "george.furey@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "George",
       "id": "4d7308c5-bd3a-4226-9b22-59a1a3fdda22",
+      "identifiers": [
+        {
+          "identifier": "Q5539530",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26119/sen_149_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26119/sen_149_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/George_J._Furey.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:George_Furey"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Furey"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/George_Furey"
+        },
         {
           "note": "instagram",
           "url": "https://www.instagram.com/senatespeaker/"
@@ -681,9 +1791,66 @@
         }
       ],
       "name": "George J. Furey",
+      "other_names": [
+        {
+          "name": "George Furey",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "George Furey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "George Furey",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Furey, George J."
     },
     {
+      "birth_date": "1950-09-01",
       "contact_details": [
         {
           "type": "email",
@@ -703,7 +1870,15 @@
         }
       ],
       "email": "judith.seidman@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Judith",
       "id": "529bd785-e345-4fa0-8a4b-9a480993c242",
+      "identifiers": [
+        {
+          "identifier": "Q3188008",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26343/sen_2859_large.jpg",
       "images": [
         {
@@ -711,6 +1886,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Judith_Seidman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Judith_Seidman"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/judithseidman"
@@ -721,6 +1904,28 @@
         }
       ],
       "name": "Judith Seidman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Judith Seidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Judith Seidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Judith Seidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Judith Seidman",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Seidman, Judith"
     },
     {
@@ -739,17 +1944,53 @@
         }
       ],
       "email": "Marilou.McPhedran@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Marilou",
       "id": "53e48fc7-72e4-4ee2-8d8b-31cb4016fbce",
+      "identifiers": [
+        {
+          "identifier": "/m/0n48_0l",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q6763480",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188224/sen_207818_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188224/sen_207818_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marilou_McPhedran"
+        }
+      ],
       "name": "Marilou McPhedran",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Marilou McPhedran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marilou McPhedran",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marilou McPhedran",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "McPhedran, Marilou"
     },
     {
+      "birth_date": "1945-02-18",
       "contact_details": [
         {
           "type": "email",
@@ -765,7 +2006,19 @@
         }
       ],
       "email": "david.tkachuk@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "David",
       "id": "558480ac-42f1-4312-a960-209b378ffe80",
+      "identifiers": [
+        {
+          "identifier": "6469",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q3018884",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26381/sen_101_large.jpg",
       "images": [
         {
@@ -774,11 +2027,71 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Tkachuk"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/David_Tkachuk"
+        },
+        {
           "note": "website",
           "url": "http://senatortkachuk.com"
         }
       ],
       "name": "David Tkachuk",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "David Tkachuk",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tkachuk, David"
     },
     {
@@ -797,17 +2110,47 @@
         }
       ],
       "email": "daniel.christmas@sen.parl.gc.ca",
+      "gender": "male",
       "id": "5658d0ee-29cf-4b6f-932c-962bc71bfd1d",
+      "identifiers": [
+        {
+          "identifier": "Q27734329",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/229928/sen_208172_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/229928/sen_208172_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Daniel_Christmas"
+        }
+      ],
       "name": "Dan Christmas",
+      "other_names": [
+        {
+          "name": "Daniel Christmas",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Daniel Christmas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniel Christmas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Christmas, Dan"
     },
     {
+      "birth_date": "1950-05-14",
       "contact_details": [
         {
           "type": "email",
@@ -827,14 +2170,29 @@
         }
       ],
       "email": "don.plett@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Don",
       "id": "57acb6d0-808a-4c18-98df-bdb4a07c5499",
+      "identifiers": [
+        {
+          "identifier": "Q5293328",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26318/sen_2858_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26318/sen_2858_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Don_Plett_2009.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Don_Plett"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/senatorplett"
@@ -849,9 +2207,71 @@
         }
       ],
       "name": "Donald Neil Plett",
+      "other_names": [
+        {
+          "name": "Don Plett",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Don Plett",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Don Plett",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Plett, Donald Neil"
     },
     {
+      "birth_date": "1957",
       "contact_details": [
         {
           "type": "email",
@@ -867,7 +2287,27 @@
         }
       ],
       "email": "Andre.Pratte@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "André",
       "id": "5a16dd06-d2ab-484c-9260-70fa585268ce",
+      "identifiers": [
+        {
+          "identifier": "/m/025wxwp",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "077685245",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "119564330",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2848475",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26328/sen_206056_large.jpg",
       "images": [
         {
@@ -875,6 +2315,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/André_Pratte"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/André_Pratte"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/100012463301443"
@@ -885,9 +2333,42 @@
         }
       ],
       "name": "André Pratte",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "André Pratte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "André Pratte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "André Pratte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "André Pratte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "André Pratte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "André Pratte",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pratte, Andre"
     },
     {
+      "birth_date": "1943-09-29",
       "contact_details": [
         {
           "type": "email",
@@ -903,14 +2384,45 @@
         }
       ],
       "email": "art.eggleton@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Art",
       "id": "5d8e7cfd-825a-4f9b-b7d2-233f32b93ab9",
+      "identifiers": [
+        {
+          "identifier": "/m/02_s9g",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "106714209",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q705518",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26099/sen_2774_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26099/sen_2774_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Art_Eggleton_1.JPG"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Art_Eggleton"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Art_Eggleton"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Art_Eggleton"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Art.Eggleton"
@@ -921,9 +2433,71 @@
         }
       ],
       "name": "Art Eggleton, P.C.",
+      "other_names": [
+        {
+          "name": "Art Eggleton",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Арт Эгглтон",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Art Eggleton",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Eggleton, Art, P.C."
     },
     {
+      "birth_date": "1951-04-28",
       "contact_details": [
         {
           "type": "email",
@@ -943,7 +2517,16 @@
         }
       ],
       "email": "larry.smith@sen.parl.gc.ca",
+      "family_name": "Smith",
+      "gender": "male",
+      "given_name": "Larry",
       "id": "5f6f351a-cdc7-4be8-a3e1-ace3674a0af4",
+      "identifiers": [
+        {
+          "identifier": "Q3218104",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26360/sen_2870_large.jpg",
       "images": [
         {
@@ -951,6 +2534,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/لاري_سميث"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Larry_Smith_(Canadian_politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Larry_Smith_(football)"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/LarryWSmith36"
@@ -961,9 +2556,56 @@
         }
       ],
       "name": "Larry W. Smith",
+      "other_names": [
+        {
+          "name": "Larry Smith",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "لاري سميث",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Larry Smith",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ларри Смит",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Smith, Larry W."
     },
     {
+      "birth_date": "1970-06-18",
       "contact_details": [
         {
           "type": "email",
@@ -983,7 +2625,15 @@
         }
       ],
       "email": "denise.batters@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Denise",
       "id": "600bf5fa-8907-47e3-b17c-9bb6fa6834f3",
+      "identifiers": [
+        {
+          "identifier": "Q5257618",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16459/batters_3571_large.jpg",
       "images": [
         {
@@ -991,6 +2641,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Denise_Batters"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/sendenisebatters"
@@ -1005,6 +2659,53 @@
         }
       ],
       "name": "Denise Batters",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Denise Batters",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Batters, Denise"
     },
     {
@@ -1023,17 +2724,47 @@
         }
       ],
       "email": "Patricia.Bovey@sen.parl.gc.ca",
+      "gender": "female",
       "id": "61bb0cd4-0b99-44bd-84ec-5e05e416d2c0",
+      "identifiers": [
+        {
+          "identifier": "Q27656987",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188193/sen_207795_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188193/sen_207795_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Patricia_Bovey"
+        }
+      ],
       "name": "Patricia E. Bovey",
+      "other_names": [
+        {
+          "name": "Patricia Bovey",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Patricia Bovey",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Patricia Bovey",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bovey, Patricia E."
     },
     {
+      "birth_date": "1949-02-12",
       "contact_details": [
         {
           "type": "email",
@@ -1053,7 +2784,15 @@
         }
       ],
       "email": "pierre-hugues.boisvenu@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Pierre",
       "id": "64084f5d-652e-4b46-98d9-3262440ff939",
+      "identifiers": [
+        {
+          "identifier": "Q3383128",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26029/sen_2865_large.jpg",
       "images": [
         {
@@ -1061,6 +2800,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pierre-Hugues_Boisvenu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pierre-Hugues_Boisvenu"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/PHBoisvenu"
@@ -1075,9 +2822,27 @@
         }
       ],
       "name": "Pierre-Hugues Boisvenu",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pierre-Hugues Boisvenu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pierre-Hugues Boisvenu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pierre-Hugues Boisvenu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Boisvenu, Pierre-Hugues"
     },
     {
+      "birth_date": "1945-01-21",
       "contact_details": [
         {
           "type": "email",
@@ -1093,7 +2858,15 @@
         }
       ],
       "email": "nicole.eaton@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Nicole",
       "id": "645add6c-dbc7-4b96-9a20-ca540b06d2d6",
+      "identifiers": [
+        {
+          "identifier": "Q7030042",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26094/sen_2809_large.jpg",
       "images": [
         {
@@ -1102,14 +2875,66 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicole_Eaton"
+        },
+        {
           "note": "website",
           "url": "http://nicoleeaton.sencanada.ca"
         }
       ],
       "name": "Nicole Eaton",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nicole Eaton",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Eaton, Nicole"
     },
     {
+      "birth_date": "1952-04-29",
       "contact_details": [
         {
           "type": "email",
@@ -1129,14 +2954,33 @@
         }
       ],
       "email": "salma.ataullahjan@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Salma",
       "id": "6709c55e-5c23-4be0-bfc0-def3311474ae",
+      "identifiers": [
+        {
+          "identifier": "307170072",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7405355",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16456/ataullahjan_2869_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/16456/ataullahjan_2869_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/SenatorSalma(Cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Salma_Ataullahjan"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorSalma"
@@ -1151,9 +2995,32 @@
         }
       ],
       "name": "Salma Ataullahjan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Salma Ataullahjan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Salma Ataullahjan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Salma Ataullahjan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Salma Ataullahjan",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ataullahjan, Salma"
     },
     {
+      "birth_date": "1950-09-21",
       "contact_details": [
         {
           "type": "email",
@@ -1169,17 +3036,52 @@
         }
       ],
       "email": "raymonde.saint-germain@sen.parl.gc.ca",
+      "gender": "female",
       "id": "69832e5b-0196-406e-ab7c-dacab0e74885",
+      "identifiers": [
+        {
+          "identifier": "Q27680096",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/202271/sen_208007_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/202271/sen_208007_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raymonde_Saint-Germain"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Raymonde_Saint-Germain"
+        }
+      ],
       "name": "Raymonde Saint-Germain",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Raymonde Saint-Germain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raymonde Saint-Germain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raymonde Saint-Germain",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Saint-Germain, Raymonde"
     },
     {
+      "birth_date": "1952-04-06",
       "contact_details": [
         {
           "type": "email",
@@ -1199,7 +3101,14 @@
         }
       ],
       "email": "Eric.Forest@sen.parl.gc.ca",
+      "gender": "male",
       "id": "6e27469d-9aae-455a-9531-b4835e8e7548",
+      "identifiers": [
+        {
+          "identifier": "Q27735011",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188213/sen_207927_large.jpg",
       "images": [
         {
@@ -1207,6 +3116,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Éric_Forest"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Éric_Forest"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ericforest.sen"
@@ -1217,9 +3134,31 @@
         }
       ],
       "name": "Éric Forest",
+      "other_names": [
+        {
+          "name": "Eric Forest",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Eric Forest",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Éric Forest",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Eric Forest",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Forest, Eric"
     },
     {
+      "birth_date": "1949-12-08",
       "contact_details": [
         {
           "type": "email",
@@ -1235,7 +3174,19 @@
         }
       ],
       "email": "stephen.greene@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Stephen",
       "id": "6e36ad5d-1bae-41d7-a95f-f025e4731dc5",
+      "identifiers": [
+        {
+          "identifier": "257722547",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7609352",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26129/sen_2800_large.jpg",
       "images": [
         {
@@ -1244,14 +3195,71 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Greene_(politician)"
+        },
+        {
           "note": "website",
           "url": "http://stephengreene.sencanada.ca/"
         }
       ],
       "name": "Stephen Greene",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Stephen Greene",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Greene, Stephen"
     },
     {
+      "birth_date": "1947-01-03",
       "contact_details": [
         {
           "type": "email",
@@ -1271,7 +3279,14 @@
         }
       ],
       "email": "thanhhai.ngo@sen.parl.gc.ca",
+      "gender": "male",
       "id": "6ee08ade-a15e-4c2d-afae-7ca417992bb0",
+      "identifiers": [
+        {
+          "identifier": "Q7710334",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26293/sen_3564_large.jpg",
       "images": [
         {
@@ -1279,6 +3294,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Thanh_Hai_Ngo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Thanh_Hai_Ngo"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Ngô_Thanh_Hải"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/SenatorNgo"
@@ -1289,9 +3316,47 @@
         }
       ],
       "name": "Thanh Hai Ngo",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Thanh Hai Ngo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ngô Thanh Hải",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ngo, Thanh Hai"
     },
     {
+      "birth_date": "1962-02-28",
       "contact_details": [
         {
           "type": "email",
@@ -1311,7 +3376,15 @@
         }
       ],
       "email": "davidwells@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "David",
       "id": "76d0c5f8-c4e0-4405-9ce1-32f5fb2e856f",
+      "identifiers": [
+        {
+          "identifier": "Q5240957",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26411/sen_3568_large.jpg",
       "images": [
         {
@@ -1319,6 +3392,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Wells_(politician)"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/wellsdavid"
@@ -1329,6 +3406,72 @@
         }
       ],
       "name": "David M. Wells",
+      "other_names": [
+        {
+          "name": "David Wells",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "David Wells",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Дэвид Уэллс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "David Wells",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wells, David M."
     },
     {
@@ -1387,7 +3530,14 @@
         }
       ],
       "email": "YuenPau.Woo@sen.parl.gc.ca",
+      "gender": "male",
       "id": "7aea9861-c65f-48b3-ac57-35d9d1ecf300",
+      "identifiers": [
+        {
+          "identifier": "Q8060296",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/191420/sen_207794_large.jpg",
       "images": [
         {
@@ -1395,6 +3545,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yuen_Pau_Woo"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/senatoryuenpauwoo"
@@ -1409,9 +3563,27 @@
         }
       ],
       "name": "Yuen Pau Woo",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yuen Pau Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yuen Pau Woo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Yuen Pau Woo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Woo, Yuen Pau"
     },
     {
+      "birth_date": "1951",
       "contact_details": [
         {
           "type": "email",
@@ -1431,14 +3603,29 @@
         }
       ],
       "email": "Senator.Sinclair@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Murray",
       "id": "7b379950-3a67-4d8b-bbcc-2ae454133762",
+      "identifiers": [
+        {
+          "identifier": "Q6939457",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26353/sen_206060_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26353/sen_206060_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Murray_Sinclair_at_Shingwauk_2015_Gathering.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Murray_Sinclair"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Sincmurr1951"
@@ -1449,9 +3636,22 @@
         }
       ],
       "name": "Murray Sinclair",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Murray Sinclair",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Murray Sinclair",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sinclair, Murray"
     },
     {
+      "birth_date": "1949-06-11",
       "contact_details": [
         {
           "type": "email",
@@ -1471,23 +3671,59 @@
         }
       ],
       "email": "Ratna.Omidvar@sen.parl.gc.ca",
+      "gender": "female",
       "id": "7e979cc3-bedb-44ee-8db2-76d03fef6fe9",
+      "identifiers": [
+        {
+          "identifier": "Q23771366",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26308/sen_206052_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26308/sen_206052_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Senator_Ratna_Omidvar.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ratna_Omidvar"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/راتنا_امیدوار"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/ratnaomi"
         }
       ],
       "name": "Ratna Omidvar",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ratna Omidvar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "راتنا امیدوار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ratna Omidvar",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Omidvar, Ratna"
     },
     {
+      "birth_date": "1952-08-25",
       "contact_details": [
         {
           "type": "email",
@@ -1507,7 +3743,15 @@
         }
       ],
       "email": "peter.harder@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Peter",
       "id": "7fb47759-97ec-436c-95f1-41504c3c2500",
+      "identifiers": [
+        {
+          "identifier": "Q25189394",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26139/sen_206019_large.jpg",
       "images": [
         {
@@ -1515,6 +3759,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Peter_Harder_(politician)"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/SenHarder"
@@ -1525,9 +3773,26 @@
         }
       ],
       "name": "Peter Harder, P.C.",
+      "other_names": [
+        {
+          "name": "Peter Harder",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Peter Harder",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Peter Harder",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Harder, Peter, P.C."
     },
     {
+      "birth_date": "1954-03-02",
       "contact_details": [
         {
           "type": "email",
@@ -1543,7 +3808,14 @@
         }
       ],
       "email": "rosemay.poirier@sen.parl.gc.ca",
+      "gender": "female",
       "id": "886cae9e-f747-412b-a96c-e9707cd5269f",
+      "identifiers": [
+        {
+          "identifier": "Q3442344",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26323/sen_2867_large.jpg",
       "images": [
         {
@@ -1552,14 +3824,75 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rose-May_Poirier"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rose-May_Poirier"
+        },
+        {
           "note": "website",
           "url": "http://rosemaypoirier.sencanada.ca/"
         }
       ],
       "name": "Rose-May Poirier",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Rose-May Poirier",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Poirier, Rose-May"
     },
     {
+      "birth_date": "1963-01-13",
       "contact_details": [
         {
           "type": "email",
@@ -1579,7 +3912,19 @@
         }
       ],
       "email": "linda.frum@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Linda",
       "id": "89fa4bb1-9d2a-456f-b74b-2e602a9f076a",
+      "identifiers": [
+        {
+          "identifier": "105948833",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q6551575",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26114/sen_2853_large.jpg",
       "images": [
         {
@@ -1587,6 +3932,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Linda_Frum"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Senator-Linda-Frum-1565513493746791"
@@ -1601,9 +3950,67 @@
         }
       ],
       "name": "Linda Frum",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Linda Frum",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Frum, Linda"
     },
     {
+      "birth_date": "1943-05-11",
       "contact_details": [
         {
           "type": "email",
@@ -1623,14 +4030,113 @@
         }
       ],
       "email": "nancy.raine@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Nancy",
       "id": "8b7e82a6-94a1-4940-9040-621965d33f28",
+      "identifiers": [
+        {
+          "identifier": "18536",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/01yl0k",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "104358",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "n50058778",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "18470192",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q238041",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26134/sen_2812_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26134/sen_2812_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Nancy_Greene_at_Sun_Peaks_in_2000.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Nancy_Greene"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Ненси_Грин"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Nancy_Greene"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorGreeneRaine"
@@ -1645,9 +4151,121 @@
         }
       ],
       "name": "Nancy Greene Raine",
+      "other_names": [
+        {
+          "name": "Nancy Greene",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ナンシー・グリーン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Ненси Грин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Ненси Грин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Nensi Grin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nancy Greene",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Raine, Nancy Greene"
     },
     {
+      "birth_date": "1945-08-24",
       "contact_details": [
         {
           "type": "email",
@@ -1663,7 +4281,15 @@
         }
       ],
       "email": "lillian.dyck@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Lillian",
       "id": "8c5ac95a-519e-4928-a376-7b8ec67fdcb8",
+      "identifiers": [
+        {
+          "identifier": "Q2402200",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26089/sen_2776_large.jpg",
       "images": [
         {
@@ -1672,14 +4298,93 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lillian_Dyck"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lillian_Dyck"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Lillian_Dyck"
+        },
+        {
           "note": "website",
           "url": "http://sen.parl.gc.ca/ldyck"
         }
       ],
       "name": "Lillian Eva Dyck",
+      "other_names": [
+        {
+          "name": "Lillian Dyck",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lillian Dyck",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dyck, Lillian Eva"
     },
     {
+      "birth_date": "1965-04-11",
       "contact_details": [
         {
           "type": "email",
@@ -1695,23 +4400,70 @@
         }
       ],
       "email": "martin@sen.parl.gc.ca",
+      "family_name": "Martin",
+      "gender": "female",
       "id": "8c87eb9e-39e0-4bec-8bd9-36598ab86978",
+      "identifiers": [
+        {
+          "identifier": "Q8054885",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26204/sen_2813_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26204/sen_2813_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Yonah_Martin.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yonah_Martin"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/연아_마틴"
+        },
         {
           "note": "website",
           "url": "http://yonahmartin.sencanada.ca/"
         }
       ],
       "name": "Yonah Martin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Yonah Martin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yonah Martin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yonah Martin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "연아 마틴",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yonah Martin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Martin, Yonah"
     },
     {
+      "birth_date": "1968-01-10",
       "contact_details": [
         {
           "type": "email",
@@ -1731,7 +4483,19 @@
         }
       ],
       "email": "Leo.Housakos@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Leo",
       "id": "8dccbb06-2b2b-47b3-ab57-c08cf9984c5e",
+      "identifiers": [
+        {
+          "identifier": "210982348",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3229562",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26144/sen_2818_large.jpg",
       "images": [
         {
@@ -1739,6 +4503,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Leo_Housakos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Leo_Housakos"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Хусакос,_Лео"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/SenatorHousakos"
@@ -1749,9 +4525,37 @@
         }
       ],
       "name": "Leo Housakos",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Leo Housakos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Leo Housakos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Leo Housakos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Leo Housakos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Лео Хусакос",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Housakos, Leo"
     },
     {
+      "birth_date": "1947-07-27",
       "contact_details": [
         {
           "type": "email",
@@ -1767,7 +4571,19 @@
         }
       ],
       "email": "claudette.tardif@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Claudette",
       "id": "8edfff7d-12fc-4134-8326-c5f411fe53a5",
+      "identifiers": [
+        {
+          "identifier": "104361212",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2978387",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26376/sen_2780_large.jpg",
       "images": [
         {
@@ -1776,14 +4592,75 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Claudette_Tardif"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Claudette_Tardif"
+        },
+        {
           "note": "website",
           "url": "http://claudettetardif.ca"
         }
       ],
       "name": "Claudette Tardif",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Claudette Tardif",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Tardif, Claudette"
     },
     {
+      "birth_date": "1959-02-21",
       "contact_details": [
         {
           "type": "email",
@@ -1799,14 +4676,37 @@
         }
       ],
       "email": "senatorwhite@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Vernon",
       "id": "8f88dc0e-8c0b-4411-9ca3-9fa31df08525",
+      "identifiers": [
+        {
+          "identifier": "305233260",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7922281",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26416/sen_3561_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26416/sen_3561_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Vernon_White_-_September_2016_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vernon_White_(politician)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Vernon_White_(politician)"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Honourable-Vern-White-107421413000121"
@@ -1817,9 +4717,52 @@
         }
       ],
       "name": "Vernon White",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Vernon White",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vernon White",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "White, Vernon"
     },
     {
+      "birth_date": "1949-02-18",
       "contact_details": [
         {
           "type": "email",
@@ -1835,7 +4778,15 @@
         }
       ],
       "email": "lynn.beyak@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Lynn",
       "id": "9156f56f-0489-4937-9da8-bbd4713682bd",
+      "identifiers": [
+        {
+          "identifier": "Q6708935",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/21280/sen_3569_large.jpg",
       "images": [
         {
@@ -1844,11 +4795,57 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lynn_Beyak"
+        },
+        {
           "note": "website",
           "url": "http://lynnbeyak.sencanada.ca/"
         }
       ],
       "name": "Lynn Beyak",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lynn Beyak",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Beyak, Lynn"
     },
     {
@@ -1867,17 +4864,52 @@
         }
       ],
       "email": "marc.gold@sen.parl.gc.ca",
+      "gender": "male",
       "id": "96bedde7-d0c4-449e-bac2-599135bbff7f",
+      "identifiers": [
+        {
+          "identifier": "Q27735015",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188219/sen_208003_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188219/sen_208003_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marc_Gold"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marc_Gold"
+        }
+      ],
       "name": "Marc Gold",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marc Gold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marc Gold",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marc Gold",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Gold, Marc"
     },
     {
+      "birth_date": "1946-05-27",
       "contact_details": [
         {
           "type": "email",
@@ -1893,17 +4925,89 @@
         }
       ],
       "email": "Michael.Duffy@sen.parl.gc.ca",
+      "family_name": "Duffy",
+      "gender": "male",
+      "given_name": "Mike",
       "id": "99c5a22c-d2b9-4c9c-9572-c764a882e69b",
+      "identifiers": [
+        {
+          "identifier": "/m/06g65y",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "310519859",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3313285",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26084/sen_2802_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26084/sen_2802_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mike_Duffy.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mike_Duffy"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mike_Duffy"
         }
       ],
       "name": "Michael Duffy",
+      "other_names": [
+        {
+          "name": "Mike Duffy",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mike Duffy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "邁克·杜菲",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Duffy, Michael"
     },
     {
+      "birth_date": "1948-02-28",
       "contact_details": [
         {
           "type": "email",
@@ -1919,7 +5023,27 @@
         }
       ],
       "email": "larry.campbell@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Larry",
       "id": "9a0c648b-5c74-4c97-b9fa-cba5dead48c4",
+      "identifiers": [
+        {
+          "identifier": "/m/01df91",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "no2010045171",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "104929197",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q1680169",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26039/sen_2787_large.jpg",
       "images": [
         {
@@ -1928,14 +5052,98 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Larry_Campbell_(Politiker)"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Larry_Campbell"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Лари_Кембел"
+        },
+        {
           "note": "website",
           "url": "http://www.larrycampbell.ca/"
         }
       ],
       "name": "Larry W. Campbell",
+      "other_names": [
+        {
+          "name": "Larry Campbell",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Ларри Кэмпбелл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Лари Кембел",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Larry Campbell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "李建堡",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Campbell, Larry W."
     },
     {
+      "birth_date": "1949-09-28",
       "contact_details": [
         {
           "type": "email",
@@ -1955,7 +5163,19 @@
         }
       ],
       "email": "dennis.dawson@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Dennis",
       "id": "9de111bf-1147-4102-8525-745dd8b3999d",
+      "identifiers": [
+        {
+          "identifier": "193699167",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3023150",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26064/sen_2785_large.jpg",
       "images": [
         {
@@ -1964,14 +5184,75 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dennis_Dawson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Dennis_Dawson"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/dennis_dawson"
         }
       ],
       "name": "Dennis Dawson",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dennis Dawson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dawson, Dennis"
     },
     {
+      "birth_date": "1974-11-11",
       "contact_details": [
         {
           "type": "email",
@@ -1991,7 +5272,19 @@
         }
       ],
       "email": "Patrick.Brazeau@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Patrick",
       "id": "aa8d7baf-f970-411e-bd91-5b482a1b6f09",
+      "identifiers": [
+        {
+          "identifier": "260991868",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3369280",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26034/sen_2817_large.jpg",
       "images": [
         {
@@ -2000,14 +5293,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Brazeau"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Patrick_Brazeau"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/senatorbrazeau"
         }
       ],
       "name": "Patrick Brazeau",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Patrick Brazeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Patrick Brazeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Patrick Brazeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Patrick Brazeau",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Brazeau, Patrick"
     },
     {
+      "birth_date": "1942-08-10",
       "contact_details": [
         {
           "type": "email",
@@ -2023,7 +5347,15 @@
         }
       ],
       "email": "bob.runciman@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Bob",
       "id": "aab90a57-c46a-4239-88b9-b6d2bb13740b",
+      "identifiers": [
+        {
+          "identifier": "Q2907803",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26338/sen_2863_large.jpg",
       "images": [
         {
@@ -2032,14 +5364,55 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bob_Runciman"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Bob_Runciman"
+        },
+        {
           "note": "website",
           "url": "http://www.bobrunciman.com"
         }
       ],
       "name": "Bob Runciman",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Bob Runciman",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Runciman, Bob"
     },
     {
+      "birth_date": "1944-10-12",
       "contact_details": [
         {
           "type": "email",
@@ -2055,7 +5428,27 @@
         }
       ],
       "email": "joan.fraser@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Joan",
       "id": "ab3a5fd7-7910-4f0c-8d54-b002f3216862",
+      "identifiers": [
+        {
+          "identifier": "/m/05rnkv",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "5971",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "66293604",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3179583",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26109/sen_142_large.jpg",
       "images": [
         {
@@ -2064,11 +5457,71 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joan_Fraser"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joan_Fraser"
+        },
+        {
           "note": "website",
           "url": "http://sen.parl.gc.ca/jfraser"
         }
       ],
       "name": "Joan Fraser",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Joan Fraser",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fraser, Joan"
     },
     {
@@ -2091,14 +5544,28 @@
         }
       ],
       "email": "Nancy.Hartling@sen.parl.gc.ca",
+      "gender": "female",
       "id": "acd52cfc-4325-46e4-a69c-6d928ea04163",
+      "identifiers": [
+        {
+          "identifier": "Q27656982",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/202700/sen_207800_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/202700/sen_207800_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Sen_207800_large.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nancy_Hartling"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorHartling"
@@ -2109,9 +5576,26 @@
         }
       ],
       "name": "Nancy J. Hartling",
+      "other_names": [
+        {
+          "name": "Nancy Hartling",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nancy Hartling",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nancy Hartling",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Hartling, Nancy J."
     },
     {
+      "birth_date": "1944-11-02",
       "contact_details": [
         {
           "type": "email",
@@ -2127,7 +5611,15 @@
         }
       ],
       "email": "paul.mcintyre@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Paul",
       "id": "ad5c5c01-c77d-43d5-b21f-e8d6568e6f2d",
+      "identifiers": [
+        {
+          "identifier": "Q14942774",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26258/sen_3566_large.jpg",
       "images": [
         {
@@ -2136,14 +5628,59 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_McIntyre_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paul_McIntyre"
+        },
+        {
           "note": "website",
           "url": "http://paulmcintyre.sencanada.ca/"
         }
       ],
       "name": "Paul E. McIntyre",
+      "other_names": [
+        {
+          "name": "Paul McIntyre",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul McIntyre",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "McIntyre, Paul E."
     },
     {
+      "birth_date": "1949-10-13",
       "contact_details": [
         {
           "type": "email",
@@ -2163,7 +5700,19 @@
         }
       ],
       "email": "diane.bellemare@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Diane",
       "id": "af650bf7-db05-445b-abe3-4319aca77d7d",
+      "identifiers": [
+        {
+          "identifier": "304316710",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5271402",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/19349/sen_3562_large.jpg",
       "images": [
         {
@@ -2171,6 +5720,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Diane_Bellemare"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Diane_Bellemare"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/DianeBellemareSen"
@@ -2185,9 +5742,42 @@
         }
       ],
       "name": "Diane Bellemare",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Diane Bellemare",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bellemare, Diane"
     },
     {
+      "birth_date": "1944-06-29",
       "contact_details": [
         {
           "type": "email",
@@ -2203,17 +5793,92 @@
         }
       ],
       "email": "charlie.watt@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Charlie",
       "id": "afd5197f-c79f-472b-8ad9-c8f0a90cfd48",
+      "identifiers": [
+        {
+          "identifier": "106221352",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2960890",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26406/sen_103_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26406/sen_103_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Charlie_Watt"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Charlie_Watt"
+        }
+      ],
       "name": "Charlie Watt",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Charlie Watt",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Watt, Charlie"
     },
     {
+      "birth_date": "1955-05-04",
       "contact_details": [
         {
           "type": "email",
@@ -2229,7 +5894,15 @@
         }
       ],
       "email": "michael.macdonald@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Michael",
       "id": "b0291607-fbd9-40db-8283-db71a80aafc2",
+      "identifiers": [
+        {
+          "identifier": "Q6832030",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26184/sen_2801_large.jpg",
       "images": [
         {
@@ -2238,14 +5911,56 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Michael_L._MacDonald"
+        },
+        {
           "note": "website",
           "url": "http://capebretonsenator.ca"
         }
       ],
       "name": "Michael L. MacDonald",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Michael L. MacDonald",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MacDonald, Michael L."
     },
     {
+      "birth_date": "1951-07-19",
       "contact_details": [
         {
           "type": "email",
@@ -2265,7 +5980,19 @@
         }
       ],
       "email": "grant.mitchell@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Grant",
       "id": "b1971043-15c5-4842-9248-28db774dc42f",
+      "identifiers": [
+        {
+          "identifier": "272769611",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q5596353",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16443/sen_2778_large.jpg",
       "images": [
         {
@@ -2274,14 +6001,76 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Grant_Mitchell_(politician)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/senmitchell"
         }
       ],
       "name": "Grant Mitchell",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Грант Митчелл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Grant Mitchell",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mitchell, Grant"
     },
     {
+      "birth_date": "1953-08-01",
       "contact_details": [
         {
           "type": "email",
@@ -2301,7 +6090,14 @@
         }
       ],
       "email": "WandaThomas.Bernard@sen.parl.gc.ca",
+      "gender": "female",
       "id": "b1f1de17-ba02-41f1-bed7-8bf2c9afb8fe",
+      "identifiers": [
+        {
+          "identifier": "Q27656999",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/222228/sen_207808_large.jpg",
       "images": [
         {
@@ -2310,14 +6106,35 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Wanda_Thomas_Bernard"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/SenatorWanda"
         }
       ],
       "name": "Wanda Elaine Thomas Bernard",
+      "other_names": [
+        {
+          "name": "Wanda Thomas Bernard",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Wanda Thomas Bernard",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Wanda Thomas Bernard",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bernard, Wanda Elaine Thomas"
     },
     {
+      "birth_date": "1948-04-15",
       "contact_details": [
         {
           "type": "email",
@@ -2333,17 +6150,87 @@
         }
       ],
       "email": "carole.smith@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Sandra",
       "id": "b773e2b0-266b-4136-b180-79aa42bb6812",
+      "identifiers": [
+        {
+          "identifier": "Q3471928",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26179/sen_2792_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26179/sen_2792_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sandra_Lovelace_Nicholas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sandra_Lovelace_Nicholas"
+        }
+      ],
       "name": "Sandra M. Lovelace Nicholas",
+      "other_names": [
+        {
+          "name": "Sandra Lovelace Nicholas",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sandra Lovelace Nicholas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lovelace Nicholas, Sandra M."
     },
     {
+      "birth_date": "1943-08-12",
       "contact_details": [
         {
           "type": "email",
@@ -2359,7 +6246,15 @@
         }
       ],
       "email": "anne.cools@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Anne",
       "id": "bb67c1b5-24de-485f-92db-649e58be97c7",
+      "identifiers": [
+        {
+          "identifier": "Q2851043",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26044/sen_21_large.jpg",
       "images": [
         {
@@ -2368,14 +6263,83 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Anne_Cools"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Anne_Cools"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Anne_Cools"
+        },
+        {
           "note": "website",
           "url": "http://senatorcools.sencanada.ca/"
         }
       ],
       "name": "Anne C. Cools",
+      "other_names": [
+        {
+          "name": "Anne Cools",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Anne Cools",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cools, Anne C."
     },
     {
+      "birth_date": "1943-08-21",
       "contact_details": [
         {
           "type": "email",
@@ -2395,7 +6359,15 @@
         }
       ],
       "email": "betty.unger@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Betty",
       "id": "bca9766a-32f2-4bbb-bb5e-9905832bbc5c",
+      "identifiers": [
+        {
+          "identifier": "Q4898995",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26386/sen_3549_large.jpg",
       "images": [
         {
@@ -2403,6 +6375,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Betty_Unger"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorUnger"
@@ -2417,9 +6393,62 @@
         }
       ],
       "name": "Betty Unger",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Betty Unger",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Unger, Betty"
     },
     {
+      "birth_date": "1944-08-25",
       "contact_details": [
         {
           "type": "email",
@@ -2435,23 +6464,117 @@
         }
       ],
       "email": "line.tessier@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Jacques",
       "id": "c12d1617-253b-4c5b-9139-0a74760d8daa",
+      "identifiers": [
+        {
+          "identifier": "/m/05zykc",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "102788414",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q927215",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26069/sen_2851_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26069/sen_2851_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jacques_Demers.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jacques_Demers"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jacques_Demers"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jacques_Demers"
+        },
         {
           "note": "website",
           "url": "http://jacquesdemers.sencanada.ca/"
         }
       ],
       "name": "Jacques Demers",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Жак Демерс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jacques Demers",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Demers, Jacques"
     },
     {
+      "birth_date": "1964-05-21",
       "contact_details": [
         {
           "type": "email",
@@ -2467,23 +6590,99 @@
         }
       ],
       "email": "fabian.manning@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Fabian",
       "id": "c69a578c-4e79-4f4b-8f59-92ea88702b24",
+      "identifiers": [
+        {
+          "identifier": "232449668",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3063518",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26194/sen_2798_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26194/sen_2798_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Senator_Fabian_Manning.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Fabian_Manning"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fabian_Manning"
+        },
         {
           "note": "website",
           "url": "http://www.fabianmanning.ca/"
         }
       ],
       "name": "Fabian Manning",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Fabian Manning",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Manning, Fabian"
     },
     {
+      "birth_date": "1964-12-04",
       "contact_details": [
         {
           "type": "email",
@@ -2503,7 +6702,19 @@
         }
       ],
       "email": "claude.carignan@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Claude",
       "id": "c80cf077-37b0-418f-a1ef-4e51f0de451b",
+      "identifiers": [
+        {
+          "identifier": "105092118",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q2977137",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/19354/sen_2841_large.jpg",
       "images": [
         {
@@ -2511,6 +6722,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Claude_Carignan"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Claude_Carignan"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/senateurcarignan"
@@ -2525,9 +6744,36 @@
         }
       ],
       "name": "Claude Carignan, P.C.",
+      "other_names": [
+        {
+          "name": "Claude Carignan",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Claude Carignan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Claude Carignan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Claude Carignan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Claude Carignan",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Carignan, Claude, P.C."
     },
     {
+      "birth_date": "1949-06-10",
       "contact_details": [
         {
           "type": "email",
@@ -2547,14 +6793,29 @@
         }
       ],
       "email": "senator.oh@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Victor",
       "id": "c82cf916-a486-4218-9023-214e1b98389f",
+      "identifiers": [
+        {
+          "identifier": "Q7926201",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26303/sen_3570_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26303/sen_3570_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Senator_Victor_Oh.png"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Victor_Oh"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorVictorOh"
@@ -2569,6 +6830,53 @@
         }
       ],
       "name": "Victor Oh",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Victor Oh",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Oh, Victor"
     },
     {
@@ -2616,6 +6924,7 @@
       "sort_name": "Sibbeston, Nick G."
     },
     {
+      "birth_date": "1945-04-09",
       "contact_details": [
         {
           "type": "email",
@@ -2631,7 +6940,19 @@
         }
       ],
       "email": "thomasjohnson.mcinnis@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Tom",
       "id": "d6062c2f-ca8b-496b-b055-af43a2f20445",
+      "identifiers": [
+        {
+          "identifier": "/m/0m0ftkt",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q7816827",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26251/sen_3565_large.jpg",
       "images": [
         {
@@ -2640,11 +6961,46 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tom_McInnis"
+        },
+        {
           "note": "website",
           "url": "http://senatormcinnis.sencanada.ca/"
         }
       ],
       "name": "Thomas J. McInnis",
+      "other_names": [
+        {
+          "name": "Tom McInnis",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tom McInnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tom McInnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tom McInnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tom McInnis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tom McInnis",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "McInnis, Thomas J."
     },
     {
@@ -2663,17 +7019,43 @@
         }
       ],
       "email": "sabi.marwah@sen.parl.gc.ca",
+      "gender": "male",
       "id": "d7e1df39-3156-4932-ae17-3e72fdef5b29",
+      "identifiers": [
+        {
+          "identifier": "Q27734910",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/265509/sen_207810_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/265509/sen_207810_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sabi_Marwah"
+        }
+      ],
       "name": "Sabi Marwah",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sabi Marwah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sabi Marwah",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Marwah, Sabi"
     },
     {
+      "birth_date": "1942-09-04",
       "contact_details": [
         {
           "type": "email",
@@ -2689,17 +7071,92 @@
         }
       ],
       "email": "george.baker@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "George",
       "id": "d8e0a139-0f52-47f6-b664-1b368b86a445",
+      "identifiers": [
+        {
+          "identifier": "Q5536629",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16463/sen_174_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/16463/sen_174_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/George_Baker_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/George_Baker_(homme_politique)"
+        }
+      ],
       "name": "George Baker, P.C.",
+      "other_names": [
+        {
+          "name": "George Baker",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "George Baker",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "George Baker",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Baker, George, P.C."
     },
     {
+      "birth_date": "1946-07-14",
       "contact_details": [
         {
           "type": "email",
@@ -2719,14 +7176,29 @@
         }
       ],
       "email": "jim.munson@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Jim",
       "id": "da6bc109-504b-48e7-8445-2bac0a381444",
+      "identifiers": [
+        {
+          "identifier": "Q6197083",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26283/sen_2760_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26283/sen_2760_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Jim_Munson.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jim_Munson"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorJimMunson"
@@ -2741,9 +7213,62 @@
         }
       ],
       "name": "Jim Munson",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jim Munson",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Munson, Jim"
     },
     {
+      "birth_date": "1950-09-21",
       "contact_details": [
         {
           "type": "email",
@@ -2759,7 +7284,15 @@
         }
       ],
       "email": "marie-francoise.megie@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Marie-Françoise",
       "id": "dadc50e7-1a33-49a0-b2f5-03e0db10a3a6",
+      "identifiers": [
+        {
+          "identifier": "Q27680092",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/267308/sen_-208005_large.jpg",
       "images": [
         {
@@ -2768,14 +7301,40 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marie-Françoise_Mégie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marie-Françoise_Mégie"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/SenMegie"
         }
       ],
       "name": "Marie-Françoise Mégie",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marie-Françoise Mégie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marie-Françoise Mégie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marie-Françoise Mégie",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Megie, Marie-Francoise"
     },
     {
+      "birth_date": "1955-12-02",
       "contact_details": [
         {
           "type": "email",
@@ -2791,14 +7350,29 @@
         }
       ],
       "email": "tobias.enverga@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Tobias",
       "id": "dbf13155-23c3-4bb6-a34d-173bd9b8daca",
+      "identifiers": [
+        {
+          "identifier": "Q16186656",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26104/sen_3563_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26104/sen_3563_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Senator_Tobias_Enverga.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tobias_Enverga"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorEnverga"
@@ -2809,6 +7383,37 @@
         }
       ],
       "name": "Tobias C. Enverga Jr.",
+      "other_names": [
+        {
+          "name": "Tobias Enverga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Tobias Enverga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tobias Enverga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tobias Enverga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Tobias Enverga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tobias Enverga",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Enverga, Tobias C. Jr."
     },
     {
@@ -2831,7 +7436,14 @@
         }
       ],
       "email": "Kim.Pate@sen.parl.gc.ca",
+      "gender": "female",
       "id": "dc0b89d2-c8cf-4e9c-a437-e174f0607e0d",
+      "identifiers": [
+        {
+          "identifier": "Q17386522",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188234/sen_207802_large.jpg",
       "images": [
         {
@@ -2839,6 +7451,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kim_Pate"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/kim.pate.3152"
@@ -2849,9 +7465,22 @@
         }
       ],
       "name": "Kim Pate",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Kim Pate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Kim Pate",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pate, Kim"
     },
     {
+      "birth_date": "1946-07-27",
       "contact_details": [
         {
           "type": "email",
@@ -2867,7 +7496,15 @@
         }
       ],
       "email": "carolyn.stewartolsen@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Carolyn",
       "id": "e1410d5f-ee03-43bb-bb08-2e280522808d",
+      "identifiers": [
+        {
+          "identifier": "Q5045471",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26365/sen_2860_large.jpg",
       "images": [
         {
@@ -2876,14 +7513,74 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Carolyn_Stewart-Olsen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carolyn_Stewart_Olsen"
+        },
+        {
           "note": "website",
           "url": "http://carolynstewartolsen.sencanada.ca/"
         }
       ],
       "name": "Carolyn Stewart Olsen",
+      "other_names": [
+        {
+          "name": "Carolyn Stewart-Olsen",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Carolyn Stewart Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Carolyn Stewart-Olsen",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Stewart Olsen, Carolyn"
     },
     {
+      "birth_date": "1952-05-10",
       "contact_details": [
         {
           "type": "email",
@@ -2903,14 +7600,29 @@
         }
       ],
       "email": "doug.black@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Doug",
       "id": "e2138cf5-5e1a-4b1a-a55b-2be1229a5f93",
+      "identifiers": [
+        {
+          "identifier": "Q5300309",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16448/sen_3567_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/16448/sen_3567_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Doug_Black_2013_Calgary_Stampede.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Doug_Black"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/senatordougblack"
@@ -2929,9 +7641,36 @@
         }
       ],
       "name": "Douglas Black",
+      "other_names": [
+        {
+          "name": "Doug Black",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Doug Black",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Doug Black",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Doug Black",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Doug Black",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Black, Douglas"
     },
     {
+      "birth_date": "1959-12-30",
       "contact_details": [
         {
           "type": "email",
@@ -2947,7 +7686,19 @@
         }
       ],
       "email": "josee.verner@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Josée",
       "id": "e276f77e-f464-49a4-9f1a-e19f6e7c4626",
+      "identifiers": [
+        {
+          "identifier": "920/000165425",
+          "scheme": "nndb"
+        },
+        {
+          "identifier": "Q3186643",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26391/sen_3336_large.jpg",
       "images": [
         {
@@ -2956,14 +7707,79 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Josée_Verner"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Josée_Verner"
+        },
+        {
           "note": "website",
           "url": "http://joseeverner.sencanada.ca/"
         }
       ],
       "name": "Josée Verner, P.C.",
+      "other_names": [
+        {
+          "name": "Josée Verner",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Josée Verner",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Verner, Josee, P.C."
     },
     {
+      "birth_date": "1944-08-14",
       "contact_details": [
         {
           "type": "email",
@@ -2983,7 +7799,26 @@
         }
       ],
       "email": "raynell.andreychuk@sen.parl.gc.ca",
+      "gender": "female",
       "id": "e4213990-eed3-4091-93d3-708a7b92d85b",
+      "identifiers": [
+        {
+          "identifier": "0000 0000 7402 7100",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2008150481",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "56435646",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q7299317",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/16453/andreychuck_2_large.jpg",
       "images": [
         {
@@ -2991,6 +7826,22 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Raynell_Andreychuk"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Raynell_Andreychuk"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raynell_Andreychuk"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Рейнелл_Андрейчук"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/senandreychuk"
@@ -3001,9 +7852,51 @@
         }
       ],
       "name": "A. Raynell Andreychuk",
+      "other_names": [
+        {
+          "name": "Raynell Andreychuk",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raynell Andreychuk",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Андрійчук Рейнелл",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Andreychuk, A. Raynell"
     },
     {
+      "birth_date": "1946-03-07",
       "contact_details": [
         {
           "type": "email",
@@ -3023,14 +7916,29 @@
         }
       ],
       "email": "elaine.mccoy@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Elaine",
       "id": "e45d67a1-58d6-4564-adc0-ff01cb4e2a4c",
+      "identifiers": [
+        {
+          "identifier": "Q5353253",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26246/sen_2779_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26246/sen_2779_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/SenatorElaineMcCoysitting.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elaine_McCoy"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Senator-Elaine-McCoy-QC-75145008732"
@@ -3045,9 +7953,42 @@
         }
       ],
       "name": "Elaine McCoy",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elaine McCoy",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "McCoy, Elaine"
     },
     {
+      "birth_date": "1949-01-17",
       "contact_details": [
         {
           "type": "email",
@@ -3063,17 +8004,53 @@
         }
       ],
       "email": "Renee.Dupuis@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Renée",
       "id": "e52eaad5-f6f0-459b-bc22-1c6200ab7ac8",
+      "identifiers": [
+        {
+          "identifier": "Q27680102",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188208/sen_207816_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/188208/sen_207816_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Renée_Dupuis"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Renée_Dupuis_(avocate)"
+        }
+      ],
       "name": "Renée Dupuis",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Renée Dupuis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Renée Dupuis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Renée Dupuis",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dupuis, Renee"
     },
     {
+      "birth_date": "1953-08-19",
       "contact_details": [
         {
           "type": "email",
@@ -3093,7 +8070,15 @@
         }
       ],
       "email": "Tony.Dean@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Tony",
       "id": "e72ffe4d-200a-45cb-98fc-9c19f822a2b5",
+      "identifiers": [
+        {
+          "identifier": "Q7822211",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/188203/sen_207804_large.jpg",
       "images": [
         {
@@ -3102,14 +8087,46 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tony_Dean_(Canadian_senator)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/TonyDean_TO"
         }
       ],
       "name": "Tony Dean",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Tony Dean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Tony Dean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Tony Dean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Tony Dean",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tony Dean",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dean, Tony"
     },
     {
+      "birth_date": "1951-09-07",
       "contact_details": [
         {
           "type": "email",
@@ -3121,7 +8138,19 @@
         }
       ],
       "email": "elizabeth.marshall@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Elizabeth",
       "id": "e758e3f5-b189-4e74-94b2-b2617eea2077",
+      "identifiers": [
+        {
+          "identifier": "/m/03cd5yr",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q668271",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26199/sen_2866_large.jpg",
       "images": [
         {
@@ -3130,11 +8159,76 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Marshall"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Elizabeth_Marshall"
+        },
+        {
           "note": "website",
           "url": "http://elizabethmarshall.ca/"
         }
       ],
       "name": "Elizabeth Marshall",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элизабет Маршалл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Elizabeth Marshall",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Marshall, Elizabeth"
     },
     {
@@ -3157,7 +8251,14 @@
         }
       ],
       "email": "Diane.Griffin@sen.parl.gc.ca",
+      "gender": "female",
       "id": "e9d92366-2a74-4cba-adde-6f94ff973f92",
+      "identifiers": [
+        {
+          "identifier": "Q27657049",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/229938/sen-207806-large.jpg",
       "images": [
         {
@@ -3165,6 +8266,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Diane_Griffin_(conservationist)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Diane_Griffin"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorGriffin"
@@ -3175,9 +8284,31 @@
         }
       ],
       "name": "Diane F. Griffin",
+      "other_names": [
+        {
+          "name": "Diane Griffin",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Diane Griffin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Diane Griffin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Diane Griffin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Griffin, Diane F."
     },
     {
+      "birth_date": "1949-08-20",
       "contact_details": [
         {
           "type": "email",
@@ -3197,7 +8328,14 @@
         }
       ],
       "email": "mobina.jaffer@sen.parl.gc.ca",
+      "gender": "female",
       "id": "ec27bc66-3d98-4577-8b7e-33828e6cf553",
+      "identifiers": [
+        {
+          "identifier": "Q6887337",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26154/sen_168_large.jpg",
       "images": [
         {
@@ -3205,6 +8343,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mobina_Jaffer"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/SenatorJaffer"
@@ -3223,9 +8365,66 @@
         }
       ],
       "name": "Mobina S.B. Jaffer",
+      "other_names": [
+        {
+          "name": "Mobina Jaffer",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mobina Jaffer",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Jaffer, Mobina S.B."
     },
     {
+      "birth_date": "1953-04-10",
       "contact_details": [
         {
           "type": "email",
@@ -3241,17 +8440,104 @@
         }
       ],
       "email": "pamela.wallin@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Pamela",
       "id": "f09eb208-b95c-4762-a78b-6c55b8c938e5",
+      "identifiers": [
+        {
+          "identifier": "434778",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "/m/03jckw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "n99044334",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "w6253s4m",
+          "scheme": "snac"
+        },
+        {
+          "identifier": "28864806",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3361787",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26401/sen_2811_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26401/sen_2811_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/ETalk2008-Pamela_Wallin.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pamela_Wallin"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pamela_Wallin"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pamela_Wallin"
+        },
+        {
+          "note": "website",
+          "url": "http://www.pamelawallin.com"
         }
       ],
       "name": "Pamela Wallin",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pamela Wallin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "柏米拿‧和寧",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Wallin, Pamela"
     },
     {
+      "birth_date": "1951-09-10",
       "contact_details": [
         {
           "type": "email",
@@ -3267,7 +8553,23 @@
         }
       ],
       "email": "paul.massicotte@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Paul",
       "id": "f1b94cb0-76f8-4212-b5f8-bc6082f24da5",
+      "identifiers": [
+        {
+          "identifier": "/m/06q7kj",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "313282817",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q386676",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26241/sen_2754_large.jpg",
       "images": [
         {
@@ -3276,14 +8578,79 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Paul_Massicotte"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Paul_J._Massicotte"
+        },
+        {
           "note": "website",
           "url": "http://pauljmassicotte.sencanada.ca/"
         }
       ],
       "name": "Paul J. Massicotte",
+      "other_names": [
+        {
+          "name": "Paul Massicotte",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Paul J. Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Paul Massicotte",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Massicotte, Paul J."
     },
     {
+      "birth_date": "1955-12-31",
       "contact_details": [
         {
           "type": "email",
@@ -3299,7 +8666,23 @@
         }
       ],
       "email": "pierrette.ringuette@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Pierrette",
       "id": "f6d6b205-9de2-491c-9acd-c2fece611807",
+      "identifiers": [
+        {
+          "identifier": "/m/05fl8r",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "5419",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q581686",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26333/sen_2753_large.jpg",
       "images": [
         {
@@ -3308,14 +8691,75 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pierrette_Ringuette"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pierrette_Ringuette"
+        },
+        {
           "note": "website",
           "url": "http://pringuette.sencanada.ca/"
         }
       ],
       "name": "Pierrette Ringuette",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Pierrette Ringuette",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Ringuette, Pierrette"
     },
     {
+      "birth_date": "1950-02-02",
       "contact_details": [
         {
           "type": "email",
@@ -3335,7 +8779,19 @@
         }
       ],
       "email": "jean-guy.dagenais@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Jean-Guy",
       "id": "fdccef11-fcf1-43a7-9f42-2f8520706b8d",
+      "identifiers": [
+        {
+          "identifier": "/m/0hzrtnk",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q6169316",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26059/sen_3555_large.jpg",
       "images": [
         {
@@ -3343,6 +8799,14 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jean-Guy_Dagenais"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Guy_Dagenais"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/senatdagenais"
@@ -3353,9 +8817,47 @@
         }
       ],
       "name": "Jean-Guy Dagenais",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Jean-Guy Dagenais",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Dagenais, Jean-Guy"
     },
     {
+      "birth_date": "1954-07-08",
       "contact_details": [
         {
           "type": "email",
@@ -3375,14 +8877,37 @@
         }
       ],
       "email": "percy.downe@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Percy",
       "id": "ff54fd7e-be34-45b2-bddb-75f9f094e3cb",
+      "identifiers": [
+        {
+          "identifier": "6468",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q3375189",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26074/sen_2755_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26074/sen_2755_large.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Percy_Downe_photo_by_Djuradj_Vujcic.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Percy_Downe"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Percy_Downe"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/PercyDowne"
@@ -3393,9 +8918,66 @@
         }
       ],
       "name": "Percy E. Downe",
+      "other_names": [
+        {
+          "name": "Percy Downe",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Percy Downe",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Downe, Percy E."
     },
     {
+      "birth_date": "1954-04-16",
       "contact_details": [
         {
           "type": "email",
@@ -3411,17 +8993,68 @@
         }
       ],
       "email": "Frances.Lankin@sen.parl.gc.ca",
+      "gender": "female",
+      "given_name": "Frances",
       "id": "ff635215-6d95-44de-a644-973cfa157074",
+      "identifiers": [
+        {
+          "identifier": "Q5478789",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26164/sen_206050_large.jpg",
       "images": [
         {
           "url": "https://sencanada.ca/media/26164/sen_206050_large.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Frances_Lankin"
+        }
+      ],
       "name": "Frances Lankin, P.C.",
+      "other_names": [
+        {
+          "name": "Frances Lankin",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Frances Lankin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lankin, Frances, P.C."
     },
     {
+      "birth_date": "1949-04-14",
       "contact_details": [
         {
           "type": "email",
@@ -3437,7 +9070,15 @@
         }
       ],
       "email": "percy.mockler@sen.parl.gc.ca",
+      "gender": "male",
+      "given_name": "Percy",
       "id": "ffe87ab5-9e21-4a5e-b657-a7b7bd084bc4",
+      "identifiers": [
+        {
+          "identifier": "Q3375214",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "https://sencanada.ca/media/26278/sen_2803_large.jpg",
       "images": [
         {
@@ -3446,11 +9087,51 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Percy_Mockler"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Percy_Mockler"
+        },
+        {
           "note": "website",
           "url": "http://percymockler.sencanada.ca/"
         }
       ],
       "name": "Percy Mockler",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Percy Mockler",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mockler, Percy"
     }
   ],
