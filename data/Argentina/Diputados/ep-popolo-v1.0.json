@@ -22826,6 +22826,11 @@
     },
     {
       "classification": "party",
+      "id": "party/bloque_de_los_trabajadores",
+      "name": "BLOQUE DE LOS TRABAJADORES"
+    },
+    {
+      "classification": "party",
       "id": "party/bloque_social_cristiano",
       "name": "BLOQUE SOCIAL CRISTIANO"
     },
@@ -28421,7 +28426,7 @@
     {
       "area_id": "area/buenos_aires",
       "legislative_period_id": "term/133",
-      "on_behalf_of_id": "party/federal_unidos_por_una_nueva_argentina",
+      "on_behalf_of_id": "party/bloque_de_los_trabajadores",
       "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
       "person_id": "bd9ae5e5-2c1b-4af3-86e6-7b72c2579d87",
       "role": "member",
