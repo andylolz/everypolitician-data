@@ -29046,6 +29046,30 @@
         "P1365": "Jean-Yves Le Drian",
         "P1366": "Françoise Olivier-Coupeau"
       }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president (of Regional Council of Brittany)",
+      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "qualifiers": {
+        "P642": "Regional Council of Brittany",
+        "P580": "2004-04-02",
+        "P582": "2010-03-26",
+        "P1365": "Josselin de Rohan",
+        "P1366": "Pierrick Massiot"
+      }
+    },
+    {
+      "id": "Q30461",
+      "label": "president",
+      "title": "president (of Regional Council of Brittany)",
+      "description": "leader of a country or part of a country, usually in republics. For the president of an organization, use Q1255921",
+      "qualifiers": {
+        "P642": "Regional Council of Brittany",
+        "P580": "2015-12-18",
+        "P1365": "Pierrick Massiot"
+      }
     }
   ],
   "Q2848745": [
