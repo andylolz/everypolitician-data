@@ -8726,6 +8726,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "567599",
+          "scheme": "nlatrove"
+        },
+        {
           "identifier": "10437",
           "scheme": "openaustralia"
         },
@@ -42243,6 +42247,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/juliagillard"
+        },
+        {
+          "note": "website",
+          "url": "http://juliagillard.com.au/"
         },
         {
           "note": "wikipedia",
