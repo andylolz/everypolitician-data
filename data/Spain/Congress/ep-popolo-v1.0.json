@@ -6748,6 +6748,9 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/284_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ignasi_Candela_Serna.png"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/849160545236373508/THLfetha.jpg"
         }
       ],
@@ -7506,6 +7509,11 @@
         },
         {
           "lang": "es",
+          "name": "Juan Carlos Girauta",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
           "name": "Juan Carlos Girauta",
           "note": "multilingual"
         },
@@ -45245,6 +45253,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Adriana_Lastra"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Adriana_Lastra"
         },
@@ -53389,6 +53401,11 @@
         },
         {
           "lang": "es",
+          "name": "José Manuel Villegas Pérez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
           "name": "José Manuel Villegas Pérez",
           "note": "multilingual"
         },
