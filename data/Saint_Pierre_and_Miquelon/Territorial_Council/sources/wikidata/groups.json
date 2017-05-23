@@ -190,6 +190,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hu",
+        "name": "Baloldali Radikális Párt",
+        "note": "multilingual"
+      },
+      {
         "lang": "en",
         "name": "Parti radical de gauche",
         "note": "multilingual"
@@ -208,6 +213,11 @@
         "lang": "fr",
         "name": "Parti Radical de Gauche, PRG",
         "note": "multilingual"
+      },
+      {
+        "lang": "hu",
+        "name": "Parti radical de gauche",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -215,7 +225,8 @@
         "url": "http://www.planeteradicale.org/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Logo_PRG.png"
   },
   "spm_ensemble": {
     "identifiers": [
