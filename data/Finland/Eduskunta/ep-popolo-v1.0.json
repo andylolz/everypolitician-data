@@ -52894,6 +52894,10 @@
           "url": "https://fr.wikipedia.org/wiki/Petteri_Orpo"
         },
         {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Petteri_Orpo"
+        },
+        {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Petteri_Orpo"
         },
@@ -76946,7 +76950,7 @@
   "events": [
     {
       "classification": "general election",
-      "end_date": "1907-03-15",
+      "end_date": "1907-03-16",
       "id": "Q2052948",
       "identifiers": [
         {

@@ -2285,9 +2285,9 @@
         "note": "multilingual"
       }
     ],
-    "dates": [
-      "1907-03-15"
-    ],
+    "start_date": "1907-03-15",
+    "end_date": "1907-03-16",
+    "follows": "",
     "followed_by": "Finnish parliamentary election, 1908"
   },
   "Q2112415": {
