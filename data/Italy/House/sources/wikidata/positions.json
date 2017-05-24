@@ -604,13 +604,22 @@
       "id": "Q18558478",
       "label": "member of the Chamber of Deputies of the Italian Republic",
       "title": "member of the Chamber of Deputies of the Italian Republic",
-      "description": "deputy in the lower house of the Parliament of Italy"
+      "description": "deputy in the lower house of the Parliament of Italy",
+      "qualifiers": {
+        "P580": "2008"
+      }
     },
     {
       "id": "Q30185",
       "label": "mayor",
       "title": "mayor",
-      "description": "head of municipal government such as a town or city"
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P580": "1998",
+        "P582": "2008",
+        "P1365": "Piero Floriani",
+        "P1366": "Marco Filippeschi"
+      }
     }
   ],
   "Q1060314": [

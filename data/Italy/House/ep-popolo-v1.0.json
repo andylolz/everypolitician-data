@@ -33,6 +33,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Giovanni_Fava"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Giovanni_Fava_(1968)"
         },
@@ -77874,6 +77878,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Forza_Italia.svg",
       "links": [
         {
           "note": "website",
