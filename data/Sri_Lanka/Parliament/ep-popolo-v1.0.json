@@ -10314,6 +10314,10 @@
           "url": "https://en.wikipedia.org/wiki/Ravi_Karunanayake"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Ravi_Karunanayake"
+        },
+        {
           "note": "Wikipedia (si)",
           "url": "https://si.wikipedia.org/wiki/රවී_කරුණානායක"
         },
@@ -10346,6 +10350,11 @@
         },
         {
           "lang": "hu",
+          "name": "Ravi Karunanayake",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
           "name": "Ravi Karunanayake",
           "note": "multilingual"
         },
