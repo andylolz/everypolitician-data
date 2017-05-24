@@ -400,6 +400,11 @@
       "name": "Mladen Novak"
     },
     {
+      "birth_date": "1968-11-16",
+      "id": "110987e5-bc92-4fb6-907f-364acc43d3f5",
+      "name": "Vlaho Orepić"
+    },
+    {
       "birth_date": "1985-03-21",
       "gender": "female",
       "id": "12771173-f30a-493d-9cbd-9ea0542f3611",
@@ -3496,6 +3501,17 @@
       "name": "Lucian Vukelić"
     },
     {
+      "birth_date": "1974-04-25",
+      "id": "49130dd1-f11a-420b-93f6-41c22d60b534",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=44452",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=44452"
+        }
+      ],
+      "name": "Ivan Kovačić"
+    },
+    {
       "birth_date": "1975-09-04",
       "gender": "male",
       "id": "4a3cac7f-bab1-4d07-80ff-b5f6bd231e25",
@@ -4673,6 +4689,17 @@
         }
       ],
       "name": "Josip Benčić"
+    },
+    {
+      "birth_date": "1956-09-23",
+      "id": "64bd72e1-6e67-45bb-8f2e-e1c727e53e8b",
+      "image": "http://www.sabor.hr/lgs.axd?t=16&id=47148&sp=170x219",
+      "images": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=16&id=47148&sp=170x219"
+        }
+      ],
+      "name": "Branimir Glavaš"
     },
     {
       "birth_date": "1990-06-21",
@@ -6042,6 +6069,11 @@
         }
       ],
       "name": "Ljubica Maksimčuk"
+    },
+    {
+      "birth_date": "1967-08-29",
+      "id": "77ede113-0a07-45ef-885f-696da09e8a50",
+      "name": "Slaven Dobrović"
     },
     {
       "birth_date": "1959-06-07",
@@ -18165,6 +18197,19 @@
       ]
     },
     {
+      "area_id": "area/1st",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "110987e5-bc92-4fb6-907f-364acc43d3f5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7566"
+        }
+      ]
+    },
+    {
       "area_id": "area/4th",
       "end_date": "2013-07-01",
       "legislative_period_id": "term/7",
@@ -18406,6 +18451,7 @@
     },
     {
       "area_id": "area/4th",
+      "end_date": "2017-05-11",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/hdssb",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -18741,6 +18787,7 @@
     },
     {
       "area_id": "area/10th",
+      "end_date": "2017-05-11",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/most",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -19367,6 +19414,19 @@
         }
       ],
       "start_date": "2016-01-22"
+    },
+    {
+      "area_id": "area/10th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "49130dd1-f11a-420b-93f6-41c22d60b534",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7568"
+        }
+      ]
     },
     {
       "area_id": "area/4th",
@@ -20092,6 +20152,19 @@
       "start_date": "2011-12-23"
     },
     {
+      "area_id": "area/4th",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/hdssb",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "64bd72e1-6e67-45bb-8f2e-e1c727e53e8b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7209"
+        }
+      ]
+    },
+    {
       "area_id": "area/2nd",
       "legislative_period_id": "term/8",
       "on_behalf_of_id": "party/bm_365",
@@ -20556,6 +20629,19 @@
       ]
     },
     {
+      "area_id": "area/2nd",
+      "legislative_period_id": "term/9",
+      "on_behalf_of_id": "party/most",
+      "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
+      "person_id": "77ede113-0a07-45ef-885f-696da09e8a50",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.sabor.hr/lgs.axd?t=24&id=7564"
+        }
+      ]
+    },
+    {
       "area_id": "area/10th",
       "legislative_period_id": "term/7",
       "on_behalf_of_id": "party/hdz",
@@ -20994,6 +21080,7 @@
     },
     {
       "area_id": "area/1st",
+      "end_date": "2017-05-10",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/most",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
@@ -23806,6 +23893,7 @@
     },
     {
       "area_id": "area/2nd",
+      "end_date": "2017-05-10",
       "legislative_period_id": "term/9",
       "on_behalf_of_id": "party/most",
       "organization_id": "ecec7a71-01ce-46db-af3b-f8ec9b956ca5",
