@@ -64353,6 +64353,7 @@
     },
     {
       "area_id": "area/quebec_(bourassa)",
+      "end_date": "2013-06-02",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -64362,8 +64363,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-06-02"
+      ]
     },
     {
       "area_id": "area/ontario_(cambridge)",
@@ -64432,6 +64432,7 @@
     },
     {
       "area_id": "area/ontario_(scarborough—agincourt)",
+      "end_date": "2014-04-01",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -64441,8 +64442,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-04-01"
+      ]
     },
     {
       "area_id": "area/ontario_(parkdale—high_park)",
@@ -64641,6 +64641,7 @@
     },
     {
       "area_id": "area/ontario_(toronto_centre)",
+      "end_date": "2013-07-31",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -64650,8 +64651,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-07-31"
+      ]
     },
     {
       "area_id": "area/nova_scotia_(halifax_west)",
@@ -64811,7 +64811,6 @@
     },
     {
       "area_id": "area/ontario_(scarborough—agincourt)",
-      "end_date": "2014-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -64821,7 +64820,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-06-30"
     },
     {
       "area_id": "area/ontario_(scarborough—agincourt)",
@@ -65150,7 +65150,6 @@
     },
     {
       "area_id": "area/alberta_(fort_mcmurray—athabasca)",
-      "end_date": "2014-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -65160,7 +65159,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-06-30"
     },
     {
       "area_id": "area/alberta_(fort_mcmurray—cold_lake)",
@@ -65463,6 +65463,7 @@
     },
     {
       "area_id": "area/manitoba_(brandon—souris)",
+      "end_date": "2013-08-31",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -65472,8 +65473,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-08-31"
+      ]
     },
     {
       "area_id": "area/quebec_(ahuntsic-cartierville)",
@@ -65763,6 +65763,7 @@
     },
     {
       "area_id": "area/ontario_(trinity—spadina)",
+      "end_date": "2014-03-12",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -65772,8 +65773,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-03-12"
+      ]
     },
     {
       "area_id": "area/ontario_(glengarry—prescott—russell)",
@@ -65803,7 +65803,6 @@
     },
     {
       "area_id": "area/alberta_(calgary_centre)",
-      "end_date": "2012-11-26",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -65813,7 +65812,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2012-11-26"
     },
     {
       "area_id": "area/ontario_(vaughan)",
@@ -65999,6 +65999,7 @@
     },
     {
       "area_id": "area/ontario_(markham—thornhill)",
+      "end_date": "2017-01-31",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -66008,8 +66009,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2017-01-31"
+      ]
     },
     {
       "area_id": "area/quebec_(saint-hyacinthe—bagot)",
@@ -66364,7 +66364,6 @@
     },
     {
       "area_id": "area/newfoundland_and_labrador_(labrador)",
-      "end_date": "2013-05-13",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -66374,7 +66373,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2013-05-13"
     },
     {
       "area_id": "area/newfoundland_and_labrador_(labrador)",
@@ -66560,6 +66560,7 @@
     },
     {
       "area_id": "area/alberta_(yellowhead)",
+      "end_date": "2014-09-17",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -66569,8 +66570,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-09-17"
+      ]
     },
     {
       "area_id": "area/ontario_(eglinton—lawrence)",
@@ -66652,6 +66652,7 @@
     },
     {
       "area_id": "area/alberta_(calgary_midnapore)",
+      "end_date": "2016-09-23",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -66661,8 +66662,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2016-09-23"
+      ]
     },
     {
       "area_id": "area/british_columbia_(vancouver_south)",
@@ -67147,6 +67147,7 @@
     },
     {
       "area_id": "area/alberta_(calgary_centre)",
+      "end_date": "2012-05-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -67156,8 +67157,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2012-05-30"
+      ]
     },
     {
       "area_id": "area/quebec_(repentigny)",
@@ -67278,6 +67278,7 @@
     },
     {
       "area_id": "area/ontario_(durham)",
+      "end_date": "2012-07-31",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -67287,8 +67288,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2012-07-31"
+      ]
     },
     {
       "area_id": "area/british_columbia_(richmond)",
@@ -67344,7 +67344,6 @@
     },
     {
       "area_id": "area/manitoba_(provencher)",
-      "end_date": "2013-11-25",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -67354,7 +67353,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2013-11-25"
     },
     {
       "area_id": "area/manitoba_(provencher)",
@@ -67410,6 +67410,7 @@
     },
     {
       "area_id": "area/manitoba_(provencher)",
+      "end_date": "2013-07-09",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -67419,8 +67420,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-07-09"
+      ]
     },
     {
       "area_id": "area/quebec_(argenteuil—papineau—mirabel)",
@@ -68048,7 +68048,6 @@
     },
     {
       "area_id": "area/ontario_(durham)",
-      "end_date": "2012-11-26",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68058,7 +68057,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2012-11-26"
     },
     {
       "area_id": "area/ontario_(durham)",
@@ -68452,7 +68452,6 @@
     },
     {
       "area_id": "area/ontario_(toronto_centre)",
-      "end_date": "2013-11-25",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68462,7 +68461,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2013-11-25"
     },
     {
       "area_id": "area/ontario_(university—rosedale)",
@@ -68518,6 +68518,7 @@
     },
     {
       "area_id": "area/ontario_(barrie)",
+      "end_date": "2015-05-13",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68527,8 +68528,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2015-05-13"
+      ]
     },
     {
       "area_id": "area/quebec_(avignon—la_mitis—matane—matapédia)",
@@ -68584,6 +68584,7 @@
     },
     {
       "area_id": "area/alberta_(calgary_heritage)",
+      "end_date": "2016-08-26",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68593,8 +68594,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2016-08-26"
+      ]
     },
     {
       "area_id": "area/quebec_(thérèse-de_blainville)",
@@ -68936,7 +68936,6 @@
     },
     {
       "area_id": "area/ontario_(toronto—danforth)",
-      "end_date": "2012-03-19",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68946,7 +68945,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2012-03-19"
     },
     {
       "area_id": "area/ontario_(northumberland—peterborough_south)",
@@ -68963,7 +68963,6 @@
     },
     {
       "area_id": "area/ontario_(whitby—oshawa)",
-      "end_date": "2014-11-17",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -68973,7 +68972,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-11-17"
     },
     {
       "area_id": "area/quebec_(pontiac)",
@@ -69237,6 +69237,7 @@
     },
     {
       "area_id": "area/alberta_(medicine_hat—cardston—warner)",
+      "end_date": "2016-03-23",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -69246,8 +69247,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2016-03-23"
+      ]
     },
     {
       "area_id": "area/ontario_(mississauga—erindale)",
@@ -69446,6 +69446,7 @@
     },
     {
       "area_id": "area/ontario_(toronto—danforth)",
+      "end_date": "2011-08-22",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -69455,8 +69456,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2011-08-22"
+      ]
     },
     {
       "area_id": "area/alberta_(medicine_hat—cardston—warner)",
@@ -69469,10 +69469,12 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2016-10-24"
     },
     {
       "area_id": "area/ontario_(ottawa_west—nepean)",
+      "end_date": "2015-03-16",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -69482,8 +69484,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2015-03-16"
+      ]
     },
     {
       "area_id": "area/ontario_(brampton_north)",
@@ -69812,6 +69813,7 @@
     },
     {
       "area_id": "area/quebec_(saint-laurent)",
+      "end_date": "2017-01-31",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -69821,8 +69823,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2017-01-31"
+      ]
     },
     {
       "area_id": "area/alberta_(peace_river)",
@@ -69956,6 +69957,7 @@
     },
     {
       "area_id": "area/newfoundland_and_labrador_(labrador)",
+      "end_date": "2013-03-14",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -69965,8 +69967,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-03-14"
+      ]
     },
     {
       "area_id": "area/quebec_(lac-saint-louis)",
@@ -70360,6 +70361,7 @@
     },
     {
       "area_id": "area/alberta_(fort_mcmurray—athabasca)",
+      "end_date": "2014-01-17",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -70369,8 +70371,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-01-17"
+      ]
     },
     {
       "area_id": "area/saskatchewan_(regina—qu'appelle)",
@@ -70504,6 +70505,7 @@
     },
     {
       "area_id": "area/ontario_(sudbury)",
+      "end_date": "2015-01-05",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -70513,8 +70515,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2015-01-05"
+      ]
     },
     {
       "area_id": "area/new_brunswick_(miramichi—grand_lake)",
@@ -70570,7 +70571,6 @@
     },
     {
       "area_id": "area/ontario_(trinity—spadina)",
-      "end_date": "2014-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -70580,7 +70580,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-06-30"
     },
     {
       "area_id": "area/ontario_(spadina—fort_york)",
@@ -70688,6 +70689,7 @@
     },
     {
       "area_id": "area/ontario_(ottawa—vanier)",
+      "end_date": "2016-08-16",
       "legislative_period_id": "term/42",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -70697,8 +70699,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_42nd_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2016-08-16"
+      ]
     },
     {
       "area_id": "area/british_columbia_(west_vancouver—sunshine_coast—sea_to_sky_country)",
@@ -71352,7 +71353,6 @@
     },
     {
       "area_id": "area/british_columbia_(victoria)",
-      "end_date": "2012-11-26",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -71362,7 +71362,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2012-11-26"
     },
     {
       "area_id": "area/british_columbia_(victoria)",
@@ -71431,7 +71432,6 @@
     },
     {
       "area_id": "area/alberta_(yellowhead)",
-      "end_date": "2014-11-17",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -71441,7 +71441,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-11-17"
     },
     {
       "area_id": "area/alberta_(yellowhead)",
@@ -71497,6 +71498,7 @@
     },
     {
       "area_id": "area/ontario_(whitby—oshawa)",
+      "end_date": "2014-04-10",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -71506,8 +71508,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-04-10"
+      ]
     },
     {
       "area_id": "area/quebec_(marc-aurèle-fortin)",
@@ -71797,6 +71798,7 @@
     },
     {
       "area_id": "area/british_columbia_(victoria)",
+      "end_date": "2012-08-23",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "ndp",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -71806,8 +71808,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2012-08-23"
+      ]
     },
     {
       "area_id": "area/alberta_(calgary_heritage)",
@@ -71902,7 +71903,6 @@
     },
     {
       "area_id": "area/manitoba_(brandon—souris)",
-      "end_date": "2013-11-25",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -71912,7 +71912,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2013-11-25"
     },
     {
       "area_id": "area/manitoba_(brandon—souris)",
@@ -72124,6 +72125,7 @@
     },
     {
       "area_id": "area/alberta_(macleod)",
+      "end_date": "2013-11-06",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -72133,11 +72135,11 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2013-11-06"
+      ]
     },
     {
       "area_id": "area/ontario_(peterborough)",
+      "end_date": "2014-11-05",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "independent",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -72147,8 +72149,7 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ],
-      "start_date": "2014-11-05"
+      ]
     },
     {
       "area_id": "area/ontario_(oshawa)",
@@ -72204,7 +72205,6 @@
     },
     {
       "area_id": "area/quebec_(bourassa)",
-      "end_date": "2013-11-25",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "liberal",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -72214,7 +72214,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2013-11-25"
     },
     {
       "area_id": "area/quebec_(bourassa)",
@@ -72322,7 +72323,6 @@
     },
     {
       "area_id": "area/alberta_(macleod)",
-      "end_date": "2014-06-30",
       "legislative_period_id": "term/41",
       "on_behalf_of_id": "conservative",
       "organization_id": "66326899-6dd4-432c-ae60-ca6375072785",
@@ -72332,7 +72332,8 @@
         {
           "url": "https://en.wikipedia.org/wiki/List_of_House_members_of_the_41st_Parliament_of_Canada"
         }
-      ]
+      ],
+      "start_date": "2014-06-30"
     },
     {
       "area_id": "area/alberta_(foothills)",
