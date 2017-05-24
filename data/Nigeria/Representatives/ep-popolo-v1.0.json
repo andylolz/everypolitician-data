@@ -1228,43 +1228,27 @@
     {
       "contact_details": [
         {
-          "type": "email",
-          "value": "sabema374@gmail.com"
-        },
-        {
           "type": "phone",
           "value": "08033423837"
         }
       ],
-      "email": "sabema374@gmail.com",
       "id": "24a57e06-1019-4ed5-a6a9-99af12871b17",
       "identifiers": [
         {
           "identifier": "853",
           "scheme": "everypolitician_legacy"
-        },
-        {
-          "identifier": "sani-bello-mashi",
-          "scheme": "shineyoureye"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/853.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/853.jpg"
-        },
-        {
-          "url": "http://www.shineyoureye.org/media_root/images/Mashi-Dutsi_-_BELLO_MASHI_SANI.jpg"
         }
       ],
       "name": "BELLO SANI",
       "other_names": [
         {
           "name": "BELLO MASHI SANI",
-          "note": "alternate"
-        },
-        {
-          "name": "SANI BELLO MASHI",
           "note": "alternate"
         }
       ]
