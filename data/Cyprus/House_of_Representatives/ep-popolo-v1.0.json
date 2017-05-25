@@ -11004,6 +11004,11 @@
           "lang": "id",
           "name": "Distrik Kyrenia",
           "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "கியரேனியா மாவட்டம்",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -11238,6 +11243,11 @@
         {
           "lang": "id",
           "name": "Distrik Larnaca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லார்நக  மாவட்டம்",
           "note": "multilingual"
         }
       ],
@@ -11703,6 +11713,11 @@
         {
           "lang": "id",
           "name": "Distrik Limassol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "லிமஸ்ஸோல்  மாவட்டம்",
           "note": "multilingual"
         }
       ],
