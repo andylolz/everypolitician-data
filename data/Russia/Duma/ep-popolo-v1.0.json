@@ -786,7 +786,7 @@
         }
       ],
       "gender": "male",
-      "given_name": "Gennady",
+      "given_name": "Gennadi",
       "id": "067b94f2-97fa-4534-ba66-f1cb061eaed0",
       "identifiers": [
         {
@@ -33706,6 +33706,11 @@
         {
           "name": "Синяговский, Владимир Ильич",
           "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Vladimir Sinjagovskij",
+          "note": "multilingual"
         },
         {
           "lang": "el",
