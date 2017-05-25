@@ -2411,20 +2411,197 @@
     },
     {
       "birth_date": "1958-06-25",
+      "gender": "male",
+      "given_name": "George",
       "id": "135ae5c0-f748-46b3-bff5-08b2eadb513d",
       "identifiers": [
         {
+          "identifier": "96846",
+          "scheme": "europarlmep"
+        },
+        {
           "identifier": "27",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04hqns",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q737378",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.cdep.ro/parlamentari/l2012/Becali_George.jpg",
       "images": [
         {
           "url": "http://www.cdep.ro/parlamentari/l2012/Becali_George.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/George_Becali.JPG"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جيورجي_بيكالي"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Gigi_Becali"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジジ・ベカリ"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (roa_rup)",
+          "url": "https://roa_rup.wikipedia.org/wiki/Gheorghe_Becali"
+        },
+        {
+          "note": "Wikipedia (rowikiquote)",
+          "url": "https://rowikiquote.wikipedia.org/wiki/George_Becali"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Џорџ_Бекали"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Gigi_Becali"
         }
       ],
       "name": "George BECALI",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جيورجي بيكالي",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Gigi Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジジ・ベカリ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rup",
+          "name": "Gheorghe Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Џорџ Бекали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Џорџ Бекали",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Džordž Bekali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "George Becali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Gigi Becali",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Becali George"
     },
     {
@@ -18593,6 +18770,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Sorin_Grindeanu"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Sorin_Grindeanu"
         },
         {
           "note": "Wikipedia (fr)",
