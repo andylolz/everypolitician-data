@@ -784,13 +784,41 @@
       ],
       "gender": "male",
       "id": "08b4c874-3452-47f9-b9a8-336ee5a831b9",
+      "identifiers": [
+        {
+          "identifier": "Q24851611",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Gume%20Fredrick.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Gume%20Fredrick.jpg"
         }
       ],
-      "name": "Fredrick Ngobi Gume"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Frederick_Ngobi_Gume"
+        }
+      ],
+      "name": "Fredrick Ngobi Gume",
+      "other_names": [
+        {
+          "name": "Frederick Ngobi Gume",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Frederick Ngobi Gume",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Frederick Ngobi Gume",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-01-03",
@@ -1595,6 +1623,10 @@
         {
           "identifier": "2015-652",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572652",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/KWIYUCWINY652.jpg",
@@ -1605,6 +1637,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Grace_Kwiyucwiny"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/kwiyucwiny.freedom"
         },
@@ -1614,6 +1650,22 @@
         }
       ],
       "name": "Grace Freedom Kwiyucwiny",
+      "other_names": [
+        {
+          "name": "Grace Kwiyucwiny",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Grace Kwiyucwiny",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Grace Kwiyucwiny",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kwiyucwiny, Grace Freedom"
     },
     {
@@ -1710,6 +1762,7 @@
       "name": "Jackson Karugaba Kafuuzi"
     },
     {
+      "birth_date": "1949-12-12",
       "contact_details": [
         {
           "type": "phone",
@@ -1718,13 +1771,37 @@
       ],
       "gender": "male",
       "id": "1145ea03-1dcd-4300-8eb3-26452a62512c",
+      "identifiers": [
+        {
+          "identifier": "Q24565843",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Cheptoris%20Sam.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Cheptoris%20Sam.jpg"
         }
       ],
-      "name": "Sam Cheptoris"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sam_Cheptoris"
+        }
+      ],
+      "name": "Sam Cheptoris",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sam Cheptoris",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sam Cheptoris",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-03-27",
@@ -2822,13 +2899,37 @@
       ],
       "gender": "male",
       "id": "1bab8a3e-3d42-41ca-9c09-243220d71ec3",
+      "identifiers": [
+        {
+          "identifier": "Q24572683",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/KIZIGE%20MOSES.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/KIZIGE%20MOSES.jpg"
         }
       ],
-      "name": "Moses Kizige"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Moses_Kizige"
+        }
+      ],
+      "name": "Moses Kizige",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Moses Kizige",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Moses Kizige",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3864,14 +3965,43 @@
         }
       ],
       "gender": "male",
+      "given_name": "Felix",
       "id": "25c87581-6af8-4e03-9b19-2a82e53af7ec",
+      "identifiers": [
+        {
+          "identifier": "Q25755641",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/KULAYIGYE%20FELIX%20MUTIINI%20(COL.).jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/KULAYIGYE%20FELIX%20MUTIINI%20(COL.).jpg"
         }
       ],
-      "name": "Col. Felix Kulayigye"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Felix_Kulayigye"
+        }
+      ],
+      "name": "Col. Felix Kulayigye",
+      "other_names": [
+        {
+          "name": "Felix Kulayigye",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Felix Kulayigye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Felix Kulayigye",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -4566,13 +4696,37 @@
       ],
       "gender": "male",
       "id": "2c4f9d45-f051-4404-a53b-fa1f49354060",
+      "identifiers": [
+        {
+          "identifier": "Q24572839",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Bagiire%20Aggrey%20Henry.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Bagiire%20Aggrey%20Henry.jpg"
         }
       ],
-      "name": "Aggrey Bagiire"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Aggrey_Bagiire"
+        }
+      ],
+      "name": "Aggrey Bagiire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aggrey Bagiire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Aggrey Bagiire",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1978-08-17",
@@ -4805,7 +4959,35 @@
     {
       "gender": "male",
       "id": "2fbf6535-47cc-479d-b2d7-3e7cb6036364",
-      "name": "Denis Galabuzi"
+      "identifiers": [
+        {
+          "identifier": "Q24565103",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Dennis_Galabuzi_Ssozi"
+        }
+      ],
+      "name": "Denis Galabuzi",
+      "other_names": [
+        {
+          "name": "Dennis Galabuzi Ssozi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Dennis Galabuzi Ssozi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dennis Galabuzi Ssozi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-09-27",
@@ -5703,14 +5885,43 @@
         }
       ],
       "gender": "male",
+      "given_name": "Charles",
       "id": "3855edee-a54e-4eda-9e1d-1aaa19718eab",
+      "identifiers": [
+        {
+          "identifier": "Q24851651",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/OKELLO%20CHARLES%20ENGOLA.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/OKELLO%20CHARLES%20ENGOLA.jpg"
         }
       ],
-      "name": "Charles Okello P. Engola Macodwogo"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Charles_Engola"
+        }
+      ],
+      "name": "Charles Okello P. Engola Macodwogo",
+      "other_names": [
+        {
+          "name": "Charles Engola",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Charles Engola",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Charles Engola",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5810,6 +6021,7 @@
       "sort_name": "Aadroa, Alex Onzima"
     },
     {
+      "birth_date": "1971-04-27",
       "contact_details": [
         {
           "type": "phone",
@@ -5818,7 +6030,31 @@
       ],
       "gender": "female",
       "id": "3a30668c-6139-426b-85a8-b6871e384b77",
-      "name": "Esther Mbulakubuza Mbayo"
+      "identifiers": [
+        {
+          "identifier": "Q24572633",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Esther_Mbulakubuza_Mbayo"
+        }
+      ],
+      "name": "Esther Mbulakubuza Mbayo",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Esther Mbulakubuza Mbayo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Esther Mbulakubuza Mbayo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-10-07",
@@ -5911,8 +6147,42 @@
         }
       ],
       "gender": "male",
+      "given_name": "Christopher",
       "id": "3cdb198f-fa9c-4228-828e-f58fbaf14a39",
-      "name": "Christopher Mbalibulha Kibanzaga"
+      "identifiers": [
+        {
+          "identifier": "Q5112673",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Kibanzaga"
+        }
+      ],
+      "name": "Christopher Mbalibulha Kibanzaga",
+      "other_names": [
+        {
+          "name": "Christopher Kibanzaga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Christopher Kibanzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christopher Kibanzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christopher Kibanzaga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -5940,13 +6210,41 @@
       ],
       "gender": "male",
       "id": "3d1d4f38-ecb7-4151-8aef-b9f074d7f12e",
+      "identifiers": [
+        {
+          "identifier": "Q24851618",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/OBIGA%20MARIO%20KANIA.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/OBIGA%20MARIO%20KANIA.jpg"
         }
       ],
-      "name": "Mario Kania Obiga"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kania_Obiga"
+        }
+      ],
+      "name": "Mario Kania Obiga",
+      "other_names": [
+        {
+          "name": "Kania Obiga",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kania Obiga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Kania Obiga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -7019,6 +7317,10 @@
         {
           "identifier": "2015-351",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27688647",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NAGGAYI351.jpg",
@@ -7029,6 +7331,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nabilah_Naggayi_Sempala"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/nabilah.sempala"
         },
@@ -7038,6 +7344,22 @@
         }
       ],
       "name": "Nabilah Sempala Naggayi",
+      "other_names": [
+        {
+          "name": "Nabilah Naggayi Sempala",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nabilah Naggayi Sempala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nabilah Naggayi Sempala",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Naggayi, Nabilah Sempala"
     },
     {
@@ -9233,14 +9555,39 @@
         }
       ],
       "gender": "male",
+      "given_name": "David",
       "id": "5d795867-7558-4521-9a0d-99b3e0095c99",
+      "identifiers": [
+        {
+          "identifier": "Q24572701",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Karubanga%20David.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Karubanga%20David.jpg"
         }
       ],
-      "name": "David Karubanga"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/David_Karubanga"
+        }
+      ],
+      "name": "David Karubanga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "David Karubanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "David Karubanga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-02-02",
@@ -11945,7 +12292,31 @@
       ],
       "gender": "female",
       "id": "79fdbc3b-8026-471e-adfa-33bcf2419d44",
-      "name": "Persis Namuganza"
+      "identifiers": [
+        {
+          "identifier": "Q24572733",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Persis_Namuganza"
+        }
+      ],
+      "name": "Persis Namuganza",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Persis Namuganza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Persis Namuganza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955-12-05",
@@ -13345,6 +13716,10 @@
         {
           "identifier": "2015-669",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572657",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/MAGANDA669.jpg",
@@ -13355,6 +13730,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Julius_Wandera_Maganda"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/magandajulius"
         },
@@ -13364,6 +13743,22 @@
         }
       ],
       "name": "Julius Maganda",
+      "other_names": [
+        {
+          "name": "Julius Wandera Maganda",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Julius Wandera Maganda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Julius Wandera Maganda",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Maganda, Julius"
     },
     {
@@ -15454,6 +15849,7 @@
       "name": "Herbert Edmund Ariko"
     },
     {
+      "birth_date": "1969-04-21",
       "contact_details": [
         {
           "type": "phone",
@@ -15462,7 +15858,31 @@
       ],
       "gender": "female",
       "id": "930b509b-af3b-4f9d-b8a2-a7c835fd1b3c",
-      "name": "Joyce Moriku"
+      "identifiers": [
+        {
+          "identifier": "Q24572655",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Joyce_Moriku"
+        }
+      ],
+      "name": "Joyce Moriku",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Joyce Moriku",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joyce Moriku",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -18086,6 +18506,10 @@
         {
           "identifier": "2015-254",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572753",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NANSUBUGA254.jpg",
@@ -18096,11 +18520,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosemary_Seninde"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=254&const=Woman+Representative&dist_id=13&distname=Wakiso"
         }
       ],
       "name": "Seninde Rosemary Nansubuga",
+      "other_names": [
+        {
+          "name": "Rosemary Seninde",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rosemary Seninde",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosemary Seninde",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Nansubuga, Seninde Rosemary"
     },
     {
@@ -19021,6 +19465,10 @@
         {
           "identifier": "2015-655",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572841",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/KYEYUNE655.jpg",
@@ -19031,11 +19479,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Haruna_Kasolo_Kyeyune"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=655&const=Kyotera++County&dist_id=10&distname=Rakai"
         }
       ],
       "name": "Harun Kyeyune",
+      "other_names": [
+        {
+          "name": "Haruna Kasolo Kyeyune",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Haruna Kasolo Kyeyune",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Haruna Kasolo Kyeyune",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kyeyune, Harun"
     },
     {
@@ -19233,6 +19701,10 @@
         {
           "identifier": "2015-127",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24851613",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/KIWANDA127.jpg",
@@ -19243,11 +19715,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Godfrey_Kiwanda"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=127&const=Mityana+County+North&dist_id=15&distname=Mityana"
         }
       ],
       "name": "Godfrey Ssubi Kiwanda",
+      "other_names": [
+        {
+          "name": "Godfrey Kiwanda",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Godfrey Kiwanda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Godfrey Kiwanda",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kiwanda, Godfrey Ssubi"
     },
     {
@@ -19822,6 +20314,10 @@
         {
           "identifier": "2015-19",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572619",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/AMONGI19.jpg",
@@ -19832,11 +20328,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Betty_Amongi"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=19&const=Oyam+County+South&dist_id=83&distname=Oyam"
         }
       ],
       "name": "Betty Ongom Amongi",
+      "other_names": [
+        {
+          "name": "Betty Amongi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Betty Amongi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Betty Amongi",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Amongi, Betty Ongom"
     },
     {
@@ -21677,6 +22193,7 @@
       "name": "Jovrine Kaliisa"
     },
     {
+      "birth_date": "1968-07-27",
       "contact_details": [
         {
           "type": "phone",
@@ -21684,8 +22201,42 @@
         }
       ],
       "gender": "female",
+      "given_name": "Jennifer",
       "id": "de60930f-dfdb-4ce4-9767-89d88111ad3b",
-      "name": "Jenipher Kacha Namuyangu"
+      "identifiers": [
+        {
+          "identifier": "Q16200545",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jenipher_Namuyangu"
+        }
+      ],
+      "name": "Jenipher Kacha Namuyangu",
+      "other_names": [
+        {
+          "name": "Jennifer Namuyangu",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Jennifer Namuyangu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jennifer Namuyangu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jennifer Namuyangu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -22617,6 +23168,10 @@
         {
           "identifier": "2015-728",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27973946",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/OBOTH728.jpg",
@@ -22627,6 +23182,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jacob_Oboth-Oboth"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/ObothOboth"
         },
@@ -22636,6 +23195,22 @@
         }
       ],
       "name": "Marksons Jacob Oboth",
+      "other_names": [
+        {
+          "name": "Jacob Oboth-Oboth",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jacob Oboth-Oboth",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jacob Oboth-Oboth",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Oboth, Marksons Jacob"
     },
     {
@@ -23509,6 +24084,10 @@
         {
           "identifier": "2015-710",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24572755",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/NAMUGWANYA710.jpg",
@@ -23519,11 +24098,31 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Benna_Namugwanya"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=710&const=Woman+Representative&dist_id=7&distname=Mubende"
         }
       ],
       "name": "Benny Bugembe Namugwanya",
+      "other_names": [
+        {
+          "name": "Benna Namugwanya",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Benna Namugwanya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Benna Namugwanya",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Namugwanya, Benny Bugembe"
     },
     {
@@ -23749,13 +24348,37 @@
       ],
       "gender": "male",
       "id": "f588b9c9-752f-4394-97df-6d99dfccb505",
+      "identifiers": [
+        {
+          "identifier": "Q24896277",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Kabafunzaki%20Herbert.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Kabafunzaki%20Herbert.jpg"
         }
       ],
-      "name": "Herbert Kabafunzaki"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Herbert_Kabafunzaki"
+        }
+      ],
+      "name": "Herbert Kabafunzaki",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Herbert Kabafunzaki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Herbert Kabafunzaki",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-06-23",
