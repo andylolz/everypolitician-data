@@ -14681,7 +14681,7 @@
     {
       "birth_date": "1946-09-26",
       "gender": "male",
-      "given_name": "Jakov",
+      "given_name": "Jacob",
       "id": "46a7e361-aa8f-4a26-b300-b9aad6a014d2",
       "identifiers": [
         {
@@ -47981,6 +47981,12 @@
         {
           "identifier": "Q5104594",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chong_Chieng_Jen_during_Malaysian_GE_13.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Chong_Chieng_Jen_during_Malaysian_GE_13.jpg"
         }
       ],
       "links": [
