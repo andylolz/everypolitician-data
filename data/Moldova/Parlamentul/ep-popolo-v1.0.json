@@ -2305,6 +2305,17 @@
       "sort_name": "Palihovici Liliana"
     },
     {
+      "id": "3d77bf20-0aa7-433c-b472-8d55da81c69e",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Nicolae Olaru",
+      "sort_name": "Olaru Nicolae"
+    },
+    {
       "birth_date": "1987-02-09",
       "gender": "male",
       "given_name": "Constantin",
@@ -3316,6 +3327,17 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "58791fab-f7d8-4092-a2be-1c40ee2e5d72",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Eugen Bodarev",
+      "sort_name": "Bodarev Eugen"
     },
     {
       "birth_date": "1975-11-27",
@@ -5194,6 +5216,17 @@
         }
       ],
       "sort_name": "Greceanîi Zinaida"
+    },
+    {
+      "id": "734dbfe7-8fd3-4f63-aaec-6e9aa095d52b",
+      "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
+      "images": [
+        {
+          "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
+        }
+      ],
+      "name": "Iurie Chiorescu",
+      "sort_name": "Chiorescu Iurie"
     },
     {
       "birth_date": "1966-04-22",
@@ -13422,6 +13455,18 @@
     },
     {
       "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "11",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "3d77bf20-0aa7-433c-b472-8d55da81c69e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/703/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
       "on_behalf_of_id": "9",
       "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
       "person_id": "40c243fd-26cf-4707-8726-d082d263f4df",
@@ -13561,6 +13606,18 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/306/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "11",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "58791fab-f7d8-4092-a2be-1c40ee2e5d72",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/701/language/en-US/Default.aspx"
         }
       ]
     },
@@ -13765,6 +13822,18 @@
       "sources": [
         {
           "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/106/language/en-US/Default.aspx"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "11",
+      "organization_id": "cb459823-f905-4d88-a0cb-c420eb796e33",
+      "person_id": "734dbfe7-8fd3-4f63-aaec-6e9aa095d52b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/702/language/en-US/Default.aspx"
         }
       ]
     },
