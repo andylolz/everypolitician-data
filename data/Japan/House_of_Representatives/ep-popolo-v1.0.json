@@ -2594,6 +2594,10 @@
           "url": "https://bg.wikipedia.org/wiki/Йошихико_Нода"
         },
         {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Yoshihiko_Noda"
+        },
+        {
           "note": "Wikipedia (bn)",
           "url": "https://bn.wikipedia.org/wiki/ইয়োশিহিকো_নোদা"
         },
@@ -4109,6 +4113,18 @@
         {
           "identifier": "gotoda_masazumi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "0000 0003 8044 2863",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "01129351",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "259463728",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q6782819",
@@ -12709,6 +12725,9 @@
       "images": [
         {
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/060.jpg/%24File/060.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Masahiro_Imamura_201608.jpg"
         }
       ],
       "links": [
@@ -15365,6 +15384,10 @@
         {
           "note": "Wikipedia (be)",
           "url": "https://be.wikipedia.org/wiki/Наота_Кан"
+        },
+        {
+          "note": "Wikipedia (bi)",
+          "url": "https://bi.wikipedia.org/wiki/Naoto_Kan"
         },
         {
           "note": "Wikipedia (bn)",
