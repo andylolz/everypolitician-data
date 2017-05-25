@@ -27517,10 +27517,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Einar_Gerhardsen.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Einar_Gerhardsen_1945.jpeg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Einar_Gerhardsen.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Einar_Gerhardsen_1945.jpeg"
         }
       ],
       "links": [
@@ -50745,6 +50745,10 @@
           "url": "https://ku.wikipedia.org/wiki/Gro_Harlem_Brundtland"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Gro_Harlem_Brundtland"
+        },
+        {
           "note": "Wikipedia (lt)",
           "url": "https://lt.wikipedia.org/wiki/Gru_Harlem_Brundtland"
         },
@@ -51086,6 +51090,11 @@
         },
         {
           "lang": "ku-latn",
+          "name": "Gro Harlem Brundtland",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
           "name": "Gro Harlem Brundtland",
           "note": "multilingual"
         },
@@ -77451,6 +77460,11 @@
       "name": "Ola Røtvei",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Ola Røtvei",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Ola Røtvei",
           "note": "multilingual"
@@ -77461,7 +77475,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Ola Røtvei",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Ola Røtvei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
           "name": "Ola Røtvei",
           "note": "multilingual"
         },
@@ -77483,6 +77507,11 @@
         {
           "lang": "ru",
           "name": "Ула Рётвей",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ola Røtvei",
           "note": "multilingual"
         }
       ],
@@ -79573,6 +79602,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dagfinn_Hjertenes"
+        },
+        {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Dagfinn_Hjertenes"
         },
         {
           "note": "Wikipedia (no)",
@@ -93689,6 +93722,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "da",
+          "name": "Espen Johnsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Espen Johnsen",
           "note": "multilingual"
@@ -93704,12 +93742,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Espen Johnsen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Espen Johnsen",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Espen Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
           "name": "Espen Johnsen",
           "note": "multilingual"
         },
@@ -93725,6 +93773,11 @@
         },
         {
           "lang": "nn",
+          "name": "Espen Johnsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Espen Johnsen",
           "note": "multilingual"
         }
