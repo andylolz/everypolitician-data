@@ -5868,6 +5868,10 @@
         {
           "identifier": "1560",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29579685",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.tz/polis/images/Pictures/oll/1560.jpg",
@@ -5877,6 +5881,22 @@
         }
       ],
       "name": "Rev. Dr. Getrude Pangalile Rwakatare",
+      "other_names": [
+        {
+          "name": "Getrude Pangalile Rwakatare",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Getrude Pangalile Rwakatare",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Getrude Pangalile Rwakatare",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rwakatare Pangalile Rev. Dr. Getrude"
     },
     {
