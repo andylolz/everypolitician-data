@@ -3342,6 +3342,10 @@
           "url": "https://en.wikipedia.org/wiki/Kem_Sokha"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Kem_Sokha"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Kem_Sokha"
         },
@@ -4376,6 +4380,11 @@
         {
           "lang": "ru",
           "name": "Партия национального спасения Камбоджи",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido de Rescate Nacional de Camboya",
           "note": "multilingual"
         },
         {
