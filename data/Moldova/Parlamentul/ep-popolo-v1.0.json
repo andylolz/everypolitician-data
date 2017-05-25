@@ -1294,6 +1294,7 @@
     {
       "birth_date": "1956-09-06",
       "gender": "male",
+      "given_name": "Anatolie",
       "id": "22c86fb0-e40f-41a8-b029-4da13e56fee2",
       "identifiers": [
         {
@@ -1324,7 +1325,232 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
           "name": "Anatolie Labuneț",
           "note": "multilingual"
         },
@@ -1334,7 +1560,132 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
           "lang": "ro",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Anatolie Labuneț",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Anatolie Labuneț",
           "note": "multilingual"
         }
@@ -1461,6 +1812,7 @@
       ],
       "email": "Oleg.Sirbu@parlament.md",
       "gender": "male",
+      "given_name": "Oleg",
       "id": "3045e31c-fddb-46c3-9c93-c4c12ee3d03e",
       "identifiers": [
         {
@@ -2092,6 +2444,7 @@
     {
       "birth_date": "1960-10-22",
       "gender": "male",
+      "given_name": "Oleg",
       "id": "427e3ce6-68c4-46f2-abe3-2112f8de7540",
       "identifiers": [
         {
@@ -2296,6 +2649,7 @@
       ],
       "email": "Anatolie.Gorila@parlament.md",
       "gender": "male",
+      "given_name": "Anatolie",
       "id": "4aa3199a-6416-4a2d-bb8b-24c08e411c50",
       "identifiers": [
         {
@@ -2322,7 +2676,232 @@
       "name": "Anatolie Gorilă",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
           "name": "Anatolie Gorilă",
           "note": "multilingual"
         },
@@ -2332,7 +2911,132 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
           "lang": "ro",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Anatolie Gorilă",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Anatolie Gorilă",
           "note": "multilingual"
         }
@@ -2553,6 +3257,7 @@
       ],
       "email": "Anatolie.Dimitriu@parlament.md",
       "gender": "male",
+      "given_name": "Anatolie",
       "id": "5738b37f-30de-46cf-afb8-ce3515cfe7db",
       "identifiers": [
         {
@@ -5743,6 +6448,7 @@
       ],
       "email": "Anatolie.Zagorodnii@parlament.md",
       "gender": "male",
+      "given_name": "Anatolie",
       "id": "a081a549-c630-4d3a-9ef0-ed6e4e27710b",
       "identifiers": [
         {
@@ -6200,6 +6906,7 @@
       ],
       "email": "Oleg.Reidman@parlament.md",
       "gender": "male",
+      "given_name": "Oleg",
       "id": "a4513b3a-6ef7-4741-ae08-e257d73f4a30",
       "identifiers": [
         {
@@ -6229,12 +6936,367 @@
       "name": "Oleg Reidman",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Oleg Reidman",
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
           "lang": "ro",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Oleg Reidman",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Oleg Reidman",
           "note": "multilingual"
         }
@@ -10058,6 +11120,7 @@
     {
       "birth_date": "1966-12-10",
       "gender": "male",
+      "given_name": "Oleg",
       "id": "f919817c-8f90-4712-b643-76dd0961149f",
       "identifiers": [
         {
