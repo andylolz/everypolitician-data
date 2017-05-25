@@ -1491,6 +1491,10 @@
         {
           "type": "email",
           "value": "amalecela@parliament.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255784689968"
         }
       ],
       "email": "amalecela@parliament.go.tz",
@@ -5849,6 +5853,10 @@
         {
           "type": "email",
           "value": "grwakatare@parliament.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255679997051"
         }
       ],
       "email": "grwakatare@parliament.go.tz",
@@ -9384,28 +9392,6 @@
       "sort_name": "Msigwa Simon Rev. Peter"
     },
     {
-      "birth_date": "1956-09-01",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "a.malecela@bunge.go.tz"
-        },
-        {
-          "type": "phone",
-          "value": "+255784689968"
-        }
-      ],
-      "email": "a.malecela@bunge.go.tz",
-      "id": "49ef27ae-1bba-4252-a666-783959b66300",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.64738000%201494232865.png",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.64738000%201494232865.png"
-        }
-      ],
-      "name": "Anne Kilango Malecela"
-    },
-    {
       "birth_date": "1967-08-13",
       "contact_details": [
         {
@@ -12631,52 +12617,6 @@
       "name": "Atupele Fredy Mwakibete"
     },
     {
-      "birth_date": "1950-12-31",
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "g.rwakatare@bunge.go.tz"
-        },
-        {
-          "type": "phone",
-          "value": "+255679997051"
-        }
-      ],
-      "email": "g.rwakatare@bunge.go.tz",
-      "gender": "female",
-      "given_name": "Gertrude",
-      "id": "62a6cd6b-cc60-4ba0-8bdc-a2a7c39de63e",
-      "identifiers": [
-        {
-          "identifier": "Q29579685",
-          "scheme": "wikidata"
-        }
-      ],
-      "image": "http://parliament.go.tz/polis/uploads/members/0.33440300%201494232974.png",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.33440300%201494232974.png"
-        }
-      ],
-      "name": "Rev. Dr. Getrude Pangalile Rwakatare",
-      "other_names": [
-        {
-          "name": "Getrude Pangalile Rwakatare",
-          "note": "alternate"
-        },
-        {
-          "lang": "en",
-          "name": "Getrude Pangalile Rwakatare",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Getrude Pangalile Rwakatare",
-          "note": "multilingual"
-        }
-      ]
-    },
-    {
       "birth_date": "1962-06-18",
       "contact_details": [
         {
@@ -13805,6 +13745,10 @@
         {
           "type": "email",
           "value": "jAyoub@parliament.go.tz"
+        },
+        {
+          "type": "phone",
+          "value": "+255777413413"
         }
       ],
       "email": "jAyoub@parliament.go.tz",
@@ -30270,27 +30214,6 @@
       "sort_name": "Ngwilizi Athumani Brg. Gen. Hassan"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "j.ayoub@bunge.go.tz"
-        },
-        {
-          "type": "phone",
-          "value": "+255777413413"
-        }
-      ],
-      "email": "j.ayoub@bunge.go.tz",
-      "id": "e5588e69-73cc-439a-b859-be9d53a98210",
-      "image": "http://parliament.go.tz/polis/uploads/members/0.72953700%201486016028.png",
-      "images": [
-        {
-          "url": "http://parliament.go.tz/polis/uploads/members/0.72953700%201486016028.png"
-        }
-      ],
-      "name": "Jaku Hashim Ayoub"
-    },
-    {
       "gender": "male",
       "id": "e57c1cf4-8e2b-41da-bf51-ae4dc94d1101",
       "identifiers": [
@@ -35578,6 +35501,19 @@
       ]
     },
     {
+      "area_id": "area/nominated",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "109671d1-0f07-4559-b529-e43f5024ae1c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/564"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2",
       "on_behalf_of_id": "party/chama_cha_mapinduzi",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
@@ -37773,6 +37709,19 @@
       ]
     },
     {
+      "area_id": "area/special_seats",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "300d0798-a4eb-430b-82fe-d0725fb4e176",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/572"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "party/chama_cha_mapinduzi",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
@@ -39772,19 +39721,6 @@
       ]
     },
     {
-      "area_id": "area/nominated",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "party/ccm",
-      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
-      "person_id": "49ef27ae-1bba-4252-a666-783959b66300",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.go.tz/administrations/564"
-        }
-      ]
-    },
-    {
       "area_id": "area/nanyumbu",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/ccm",
@@ -41416,19 +41352,6 @@
     {
       "area_id": "area/special_seats",
       "legislative_period_id": "term/5",
-      "on_behalf_of_id": "party/ccm",
-      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
-      "person_id": "62a6cd6b-cc60-4ba0-8bdc-a2a7c39de63e",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.go.tz/administrations/572"
-        }
-      ]
-    },
-    {
-      "area_id": "area/special_seats",
-      "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/chadema",
       "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
       "person_id": "63109228-4c9d-44a9-b8d6-55cd18a51bc8",
@@ -41971,6 +41894,19 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1760/4"
+        }
+      ]
+    },
+    {
+      "area_id": "area/house_of_representatives",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "party/ccm",
+      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
+      "person_id": "67b42f29-9ae2-4055-a579-a1a62dce3ddd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.parliament.go.tz/administrations/556"
         }
       ]
     },
@@ -49906,19 +49842,6 @@
       "sources": [
         {
           "url": "http://www.parliament.go.tz/index.php/members/mpcvs/1016/4"
-        }
-      ]
-    },
-    {
-      "area_id": "area/house_of_representatives",
-      "legislative_period_id": "term/5",
-      "on_behalf_of_id": "party/ccm",
-      "organization_id": "0a742811-0f27-4d3c-b69e-099c4f821b7b",
-      "person_id": "e5588e69-73cc-439a-b859-be9d53a98210",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.parliament.go.tz/administrations/556"
         }
       ]
     },
