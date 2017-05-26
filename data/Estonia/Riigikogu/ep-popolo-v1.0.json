@@ -16199,6 +16199,10 @@
           "url": "https://ru.wikipedia.org/wiki/Ратас,_Юри"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Jüri_Ratas"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Јири_Ратас"
         },
@@ -16398,6 +16402,11 @@
         {
           "lang": "ru",
           "name": "Ратас, Юри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Jüri Ratas",
           "note": "multilingual"
         },
         {
@@ -25796,6 +25805,11 @@
         {
           "lang": "fr",
           "name": "Sven Mikser",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "סוון מיקסר",
           "note": "multilingual"
         },
         {
