@@ -632,14 +632,54 @@
       "name": "Tan, Milagrosa T."
     },
     {
+      "birth_date": "1971-03-21",
+      "gender": "male",
       "id": "0a347cd0-8a8a-494f-bd26-250ea9c2c17f",
+      "identifiers": [
+        {
+          "identifier": "Q16935127",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/17th/romero-m.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/romero-m.jpg"
         }
       ],
-      "name": "Romero, Michael L., PhD."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mikee_Romero"
+        }
+      ],
+      "name": "Romero, Michael L., PhD.",
+      "other_names": [
+        {
+          "name": "Mikee Romero",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mikee Romero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mikee Romero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mikee Romero",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mikee Romero",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "0ae84b9e-ab83-4158-a9ab-c948abeecd1f",
@@ -9515,14 +9555,47 @@
       "name": "Cortuna, Julieta R."
     },
     {
+      "gender": "male",
       "id": "9240414c-ece2-4481-82cd-24097a4d6770",
+      "identifiers": [
+        {
+          "identifier": "Q12972881",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/17th/nieto-y.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/nieto-y.jpg"
         }
       ],
-      "name": "Nieto, John Marvin \"Yul Servo\" C."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yul_Servo"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Yul_Servo"
+        }
+      ],
+      "name": "Nieto, John Marvin \"Yul Servo\" C.",
+      "other_names": [
+        {
+          "name": "Yul Servo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Yul Servo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Yul Servo",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-03-27",
@@ -10515,14 +10588,59 @@
       "name": "Rocamora, Ramon V. A.\"Rav\""
     },
     {
+      "birth_date": "1957-11-12",
+      "gender": "male",
       "id": "abd7a941-a106-494c-8244-0fdb9cab77f2",
+      "identifiers": [
+        {
+          "identifier": "Q4666167",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/17th/arbison-mu.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/17th/arbison-mu.jpg"
         }
       ],
-      "name": "Arbison, Munir M."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdulmunir_Mundoc_Arbison"
+        }
+      ],
+      "name": "Arbison, Munir M.",
+      "other_names": [
+        {
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Abdulmunir Mundoc Arbison",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "acc2853f-7e76-49fb-8184-5e7282bcc7dc",
