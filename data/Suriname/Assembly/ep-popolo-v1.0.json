@@ -1482,6 +1482,86 @@
       ]
     },
     {
+      "birth_date": "1952-11-17",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.parmessar@dna.sr"
+        }
+      ],
+      "email": "r.parmessar@dna.sr",
+      "gender": "male",
+      "id": "51c852b3-1a74-4daa-ac8c-21b005947e65",
+      "identifiers": [
+        {
+          "identifier": "rabindre-parmessar",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2643343",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.dna.sr/media/94648/r.parmessar.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/94648/r.parmessar.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Rabin_Parmessar"
+        },
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/rabindre-parmessar/"
+        }
+      ],
+      "name": "Hr. Drs. Rabindre T. Parmessar",
+      "other_names": [
+        {
+          "name": "Rabin Parmessar",
+          "note": "alternate"
+        },
+        {
+          "lang": "da",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rabin Parmessar",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2426,6 +2506,445 @@
       "name": "Hr. Hendrik W. Sakimin"
     },
     {
+      "birth_date": "1980-06-10",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "m.adhin@dna.sr"
+        }
+      ],
+      "email": "m.adhin@dna.sr",
+      "gender": "male",
+      "given_name": "Ashwin",
+      "id": "80bad810-293c-4e06-b166-8121dc553f2f",
+      "identifiers": [
+        {
+          "identifier": "ashwin-adhin",
+          "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20670527",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.dna.sr/media/95459/adhin.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/95459/adhin.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ashwin_Adhin_Minister_of_Education.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Ашвин_Адхин"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ashwin_Adhin"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ashwin_Adhin"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ashwin_Adhin"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ashwin_Adhin"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Ashwin_Adhin"
+        },
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/ashwin-adhin/"
+        }
+      ],
+      "name": "Hr. Ir. Ashwin M.S. Adhin Msc.",
+      "other_names": [
+        {
+          "name": "Ashwin Adhin",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Ашвин Адхин",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Ashwin Adhin",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2615,6 +3134,36 @@
         }
       ],
       "name": "Hr. Rudolf Zeeman"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.akiemboto@dna.sr"
+        }
+      ],
+      "email": "s.akiemboto@dna.sr",
+      "gender": "male",
+      "id": "8d7fba09-cc1d-4019-9358-b52de491d505",
+      "identifiers": [
+        {
+          "identifier": "sergio-akiemboto",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.dna.sr/media/95567/sergio.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/95567/sergio.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/sergio-akiemboto/"
+        }
+      ],
+      "name": "Hr. Drs. Sergio F.D. Akiemboto"
     },
     {
       "contact_details": [
@@ -2980,6 +3529,36 @@
         }
       ],
       "name": "Mw. Ingrid A. Bink"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "s.algoe@dna.sr"
+        }
+      ],
+      "email": "s.algoe@dna.sr",
+      "gender": "male",
+      "id": "9c8f6ca0-abd0-456e-a2cc-4ffe2183279f",
+      "identifiers": [
+        {
+          "identifier": "soeresh-algoe",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.dna.sr/media/95513/algoe.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/95513/algoe.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/soeresh-algoe/"
+        }
+      ],
+      "name": "Hr. Ir. Soeresh Algoe"
     },
     {
       "contact_details": [
@@ -3706,6 +4285,36 @@
         }
       ],
       "name": "Hr. Lekhram Soerdjan, MSc."
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "r.kromodihardjo@dna.sr"
+        }
+      ],
+      "email": "r.kromodihardjo@dna.sr",
+      "gender": "male",
+      "id": "df22b3f4-5bec-4a70-ab5e-d79692a42e52",
+      "identifiers": [
+        {
+          "identifier": "ricky-kromodihardjo",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.dna.sr/media/95973/kromo.jpg",
+      "images": [
+        {
+          "url": "http://www.dna.sr/media/95973/kromo.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "website",
+          "url": "/het-politiek-college/leden/ricky-kromodihardjo/"
+        }
+      ],
+      "name": "Hr. Drs. Ricky Kromodihardjo"
     },
     {
       "birth_date": "1948-10-23",
@@ -5445,6 +6054,19 @@
       ]
     },
     {
+      "area_id": "area/paramaribo",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "NDP",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "51c852b3-1a74-4daa-ac8c-21b005947e65",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
       "area_id": "area/saramacca",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "NDP",
@@ -5744,6 +6366,19 @@
       ]
     },
     {
+      "area_id": "area/paramaribo",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "NDP",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "80bad810-293c-4e06-b166-8121dc553f2f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
       "area_id": "area/brokopondo",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "MC",
@@ -5814,6 +6449,19 @@
       "on_behalf_of_id": "BEP",
       "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
       "person_id": "88e2e71d-a53e-48d4-8133-3c61022f9027",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/brokopondo",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "NDP",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "8d7fba09-cc1d-4019-9358-b52de491d505",
       "role": "member",
       "sources": [
         {
@@ -5918,6 +6566,19 @@
       "on_behalf_of_id": "PL",
       "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
       "person_id": "9b83f076-27b5-4d37-a868-ee712bf68160",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/wanica",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "NDP",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "9c8f6ca0-abd0-456e-a2cc-4ffe2183279f",
       "role": "member",
       "sources": [
         {
@@ -6056,6 +6717,19 @@
       ]
     },
     {
+      "area_id": "area/coronie",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "PALU",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "b57676f9-1781-425d-bd91-1a9b1e704ad2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
       "area_id": "area/saramacca",
       "legislative_period_id": "term/2010",
       "on_behalf_of_id": "NF",
@@ -6165,6 +6839,19 @@
       "on_behalf_of_id": "NF",
       "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
       "person_id": "ca368803-642e-4163-b112-ee3f74470ae9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.dna.sr/het-politiek-college/leden/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/paramaribo",
+      "legislative_period_id": "term/2015",
+      "on_behalf_of_id": "NDP",
+      "organization_id": "2f191010-34fe-4273-95f4-9d5b300feb28",
+      "person_id": "df22b3f4-5bec-4a70-ab5e-d79692a42e52",
       "role": "member",
       "sources": [
         {
