@@ -11,6 +11,11 @@
       "type": "membership"
     },
     {
+      "file": "archive/wikipedia-ceased.csv",
+      "source": "https://en.wikipedia.org",
+      "type": "membership"
+    },
+    {
       "file": "morph/official.csv",
       "create": {
         "from": "morph",
