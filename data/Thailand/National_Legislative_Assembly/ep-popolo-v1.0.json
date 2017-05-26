@@ -1166,17 +1166,6 @@
       "name": "ณรงค์พันธ์ จิตต์แก้วแท้"
     },
     {
-      "honorific_prefix": "พลเอก",
-      "id": "3c50980b-5ed8-45ca-8c44-d0e45ec4010f",
-      "image": "http://library.senate.go.th/document/Picture_HR//9206.JPG",
-      "images": [
-        {
-          "url": "http://library.senate.go.th/document/Picture_HR//9206.JPG"
-        }
-      ],
-      "name": "ศุภวุฒิ อุตมะ"
-    },
-    {
       "honorific_prefix": "นาย",
       "id": "3cc7a268-064c-4e10-aea5-86d263a752a9",
       "image": "http://library.senate.go.th/document/Picture_HR//9005.JPG",
@@ -2375,6 +2364,24 @@
         }
       ],
       "name": "ชูศักดิ์ ลิ่มสกุล"
+    },
+    {
+      "gender": "male",
+      "honorific_prefix": "พลเอก",
+      "id": "683ce09b-1688-4c04-8963-b634f6cf3e4d",
+      "identifiers": [
+        {
+          "identifier": "212",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://library.senate.go.th/document/Picture_HR//9206.JPG",
+      "images": [
+        {
+          "url": "http://library.senate.go.th/document/Picture_HR//9206.JPG"
+        }
+      ],
+      "name": "ศุภวุฒิ อุตมะ"
     },
     {
       "gender": "male",
@@ -6979,18 +6986,6 @@
       "legislative_period_id": "term/2557",
       "on_behalf_of_id": "party/ncpo",
       "organization_id": "e441ca10-6c4b-4991-8f1d-4a4ea0dae3d0",
-      "person_id": "3c50980b-5ed8-45ca-8c44-d0e45ec4010f",
-      "role": "member",
-      "sources": [
-        {
-          "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=5&orby=&orrg=ASC"
-        }
-      ]
-    },
-    {
-      "legislative_period_id": "term/2557",
-      "on_behalf_of_id": "party/ncpo",
-      "organization_id": "e441ca10-6c4b-4991-8f1d-4a4ea0dae3d0",
       "person_id": "3cc7a268-064c-4e10-aea5-86d263a752a9",
       "role": "member",
       "sources": [
@@ -7560,6 +7555,18 @@
       "sources": [
         {
           "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=4&orby=&orrg=ASC"
+        }
+      ]
+    },
+    {
+      "legislative_period_id": "term/2557",
+      "on_behalf_of_id": "party/ncpo",
+      "organization_id": "e441ca10-6c4b-4991-8f1d-4a4ea0dae3d0",
+      "person_id": "683ce09b-1688-4c04-8963-b634f6cf3e4d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.senate.go.th/w3c/senate/senator.php?id=18&page=5&orby=&orrg=ASC"
         }
       ]
     },
