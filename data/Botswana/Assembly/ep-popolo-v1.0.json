@@ -415,6 +415,22 @@
       ]
     },
     {
+      "id": "48541bfe-e5a9-4847-ab4c-59752c1b4f83",
+      "identifiers": [
+        {
+          "identifier": "james_mathokgwane",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "name": "James Mathokgwane",
+      "other_names": [
+        {
+          "name": "Hon. James Mathokgwane",
+          "note": "alternate"
+        }
+      ]
+    },
+    {
       "id": "4f9c0c6d-9a7a-4e2d-b3e5-04254c68124f",
       "identifiers": [
         {
@@ -2467,6 +2483,20 @@
       ]
     },
     {
+      "area_id": "area/goodhope-mabule",
+      "end_date": "2015-05-27",
+      "legislative_period_id": "term/2014",
+      "on_behalf_of_id": "party/udc",
+      "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
+      "person_id": "48541bfe-e5a9-4847-ab4c-59752c1b4f83",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_current_members_of_the_National_Assembly_of_Botswana"
+        }
+      ]
+    },
+    {
       "area_id": "area/boteti_east",
       "legislative_period_id": "term/2014",
       "on_behalf_of_id": "party/bdp",
@@ -3227,7 +3257,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "2014",
+      "name": "11th Parliament",
       "organization_id": "93d742c6-207c-44e3-80b8-4f04845cced3",
       "start_date": "2014-10-29"
     }
