@@ -6219,6 +6219,7 @@
     },
     {
       "birth_date": "1948-01-27",
+      "death_date": "2015-07-27",
       "gender": "male",
       "id": "30ab0437-b570-48bb-bb5f-5ba138e573c2",
       "identifiers": [
@@ -6248,6 +6249,11 @@
         {
           "name": "Aurel Vlădoiu",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Aurel Vlădoiu",
+          "note": "multilingual"
         },
         {
           "lang": "ro",
