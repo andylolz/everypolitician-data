@@ -51,7 +51,10 @@
       "id": "Q21290847",
       "label": "Member of the National Assembly of Botswana",
       "title": "Member of the National Assembly of Botswana",
-      "description": "Member of the Botswanan legislature"
+      "description": "Member of the Botswanan legislature",
+      "qualifiers": {
+        "P2937": "11th Parliament of Botswana"
+      }
     }
   ],
   "Q6418347": [
@@ -103,6 +106,19 @@
       "label": "Member of the National Assembly of Botswana",
       "title": "Member of the National Assembly of Botswana",
       "description": "Member of the Botswanan legislature"
+    }
+  ],
+  "Q30057616": [
+    {
+      "id": "Q21290847",
+      "label": "Member of the National Assembly of Botswana",
+      "title": "Member of the National Assembly of Botswana",
+      "description": "Member of the Botswanan legislature",
+      "qualifiers": {
+        "P2937": "11th Parliament of Botswana",
+        "P580": "2014-10-30",
+        "P582": "2015-05-27"
+      }
     }
   ]
 }
