@@ -2308,14 +2308,60 @@
       "sort_name": "Palihovici Liliana"
     },
     {
+      "birth_date": "1958",
+      "gender": "male",
+      "given_name": "Nicolae",
       "id": "3d77bf20-0aa7-433c-b472-8d55da81c69e",
+      "identifiers": [
+        {
+          "identifier": "Q7029292",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
           "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Nicolae_Olaru"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Nicolae_Olaru"
+        }
+      ],
       "name": "Nicolae Olaru",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Nicolae Olaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nicolae Olaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nicolae Olaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nicolae Olaru",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Nicolae Olaru",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Olaru Nicolae"
     },
     {
@@ -3332,7 +3378,15 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "Eugen",
       "id": "58791fab-f7d8-4092-a2be-1c40ee2e5d72",
+      "identifiers": [
+        {
+          "identifier": "Q30045704",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
@@ -3340,6 +3394,13 @@
         }
       ],
       "name": "Eugen Bodarev",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eugen Bodarev",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bodarev Eugen"
     },
     {
@@ -5221,14 +5282,56 @@
       "sort_name": "Greceanîi Zinaida"
     },
     {
+      "birth_date": "1979-03-01",
+      "gender": "male",
+      "given_name": "Iurie",
       "id": "734dbfe7-8fd3-4f63-aaec-6e9aa095d52b",
+      "identifiers": [
+        {
+          "identifier": "Q6095576",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
           "url": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Iurie_Chiorescu"
+        }
+      ],
       "name": "Iurie Chiorescu",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Chiorescu Iurie"
     },
     {
@@ -8875,7 +8978,14 @@
       "sort_name": "Mudreac Radu"
     },
     {
+      "gender": "male",
       "id": "c0a4ced0-94f5-4fc9-9007-477af4d71bfb",
+      "identifiers": [
+        {
+          "identifier": "Q29051936",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.md/LinkClick.aspx?fileticket=aWu5jPgKe%2fc%3d&tabid=87&mid=476&language=en-US",
       "images": [
         {
@@ -8883,6 +8993,22 @@
         }
       ],
       "name": "Barbăroșie Alexandru",
+      "other_names": [
+        {
+          "name": "Alexandru Barbăroșie",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Alexandru Barbăroșie",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Alexandru Barbăroșie",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alexandru Barbăroșie"
     },
     {
