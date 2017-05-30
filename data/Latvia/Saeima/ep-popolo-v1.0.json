@@ -3358,6 +3358,14 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0003 7190 6152",
+          "scheme": "isni"
+        },
+        {
+          "identifier": "no2011086642",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "171969572",
           "scheme": "viaf"
         },
@@ -3379,6 +3387,10 @@
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Ints_Dālderis"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ints_Dālderis"
         },
         {
           "note": "Wikipedia (en)",
@@ -44177,6 +44189,7 @@
       ]
     },
     {
+      "birth_date": "1963",
       "contact_details": [
         {
           "type": "email",
@@ -44192,15 +44205,34 @@
         {
           "identifier": "1A6B13C5EC34802EC2257D7B0032D7A8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28972967",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1a6b13c5ec34802ec2257d7b0032d7a8/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/1a6b13c5ec34802ec2257d7b0032d7a8/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/12.Saeimas_deputāts_Jānis_Ruks_(15815948900).jpg"
         }
       ],
-      "name": "Jānis Ruks"
+      "name": "Jānis Ruks",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jānis Ruks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jānis Ruks",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
