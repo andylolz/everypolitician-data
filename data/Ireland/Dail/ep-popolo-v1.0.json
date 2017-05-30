@@ -8441,6 +8441,10 @@
           "url": "https://pl.wikipedia.org/wiki/Leo_Varadkar"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/campaignforleo"
         },
@@ -8462,12 +8466,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "cy",
+          "name": "Leo Varadkar",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Leo Varadkar",
           "note": "multilingual"
         },
         {
           "lang": "en",
+          "name": "Leo Varadkar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Leo Varadkar",
           "note": "multilingual"
         },
