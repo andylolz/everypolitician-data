@@ -24297,6 +24297,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nn)",
+          "url": "https://nn.wikipedia.org/wiki/Ernst_Wroldsen"
+        },
+        {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Ernst_Wroldsen"
         }
@@ -24540,6 +24544,11 @@
       ],
       "name": "Otto Dahl",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "أوتو داهل",
+          "note": "multilingual"
+        },
         {
           "lang": "da",
           "name": "Otto Dahl",
@@ -29694,6 +29703,14 @@
         {
           "identifier": "0000 0000 2606 0547",
           "scheme": "isni"
+        },
+        {
+          "identifier": "n86030167",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "ARJO",
+          "scheme": "storting"
         },
         {
           "identifier": "8514635",
@@ -40214,12 +40231,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Jakob Aano",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Jakob Aano",
           "note": "multilingual"
         },
@@ -40240,6 +40267,26 @@
         },
         {
           "lang": "nn",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Jakob Aano",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
           "name": "Jakob Aano",
           "note": "multilingual"
         },
@@ -42637,6 +42684,18 @@
         {
           "identifier": "/m/02x34z9",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1098006720",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "ERBA",
+          "scheme": "storting"
+        },
+        {
+          "identifier": "18146217688209141607",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q822451",
@@ -46939,7 +46998,7 @@
         },
         {
           "note": "Wikipedia (no)",
-          "url": "https://no.wikipedia.org/wiki/Terje_Johansen"
+          "url": "https://no.wikipedia.org/wiki/Terje_Johansen_(politiker)"
         }
       ],
       "name": "Terje Johansen",
@@ -57461,7 +57520,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "de-at",
+          "name": "Annemarie Lorentzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Annemarie Lorentzen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Annemarie Lorentzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Annemarie Lorentzen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Annemarie Lorentzen",
           "note": "multilingual"
         },
@@ -59909,6 +59988,11 @@
       ],
       "name": "Odin Hansen",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Odin Hansen",
+          "note": "multilingual"
+        },
         {
           "lang": "nb",
           "name": "Odin Hansen",
@@ -66415,8 +66499,16 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "n82074679",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "3834",
           "scheme": "pace"
+        },
+        {
+          "identifier": "HBA",
+          "scheme": "storting"
         },
         {
           "identifier": "273646552",
@@ -69825,12 +69917,24 @@
       "id": "a1d32529-f25d-473f-b8bb-23347ad78913",
       "identifiers": [
         {
+          "identifier": "90245438",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "ANSL",
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "0000 0003 6376 641X",
+          "scheme": "isni"
+        },
+        {
           "identifier": "1443",
           "scheme": "pace"
+        },
+        {
+          "identifier": "ANSL",
+          "scheme": "storting"
         },
         {
           "identifier": "228584646",
@@ -70072,6 +70176,10 @@
         {
           "identifier": "ARAR",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "ARAR",
+          "scheme": "storting"
         },
         {
           "identifier": "Q4797847",
@@ -70616,6 +70724,11 @@
         },
         {
           "lang": "fr",
+          "name": "Henry Jacobsen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Henry Jacobsen",
           "note": "multilingual"
         },
@@ -83052,6 +83165,11 @@
       "name": "Joachim Dahl",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "خواكيم داهل",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Joachim Dahl",
           "note": "multilingual"
@@ -84137,6 +84255,10 @@
         {
           "identifier": "1103",
           "scheme": "pace"
+        },
+        {
+          "identifier": "JOAS",
+          "scheme": "storting"
         },
         {
           "identifier": "Q1554081",
@@ -90534,6 +90656,11 @@
       "name": "Ragnvald Marensius Gundersen",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Ragnvald Marensius Gundersen",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Ragnvald Marensius Gundersen",
           "note": "multilingual"
@@ -90550,6 +90677,11 @@
         },
         {
           "lang": "it",
+          "name": "Ragnvald Marensius Gundersen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Ragnvald Marensius Gundersen",
           "note": "multilingual"
         },
@@ -92678,8 +92810,16 @@
       "id": "d076c6e9-dd3e-4e3c-a355-d83f201fc355",
       "identifiers": [
         {
+          "identifier": "90687365",
+          "scheme": "bibsys"
+        },
+        {
           "identifier": "GS",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "no2002076681",
+          "scheme": "lcauth"
         },
         {
           "identifier": "GS",
@@ -98474,6 +98614,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "NIHØ",
+          "scheme": "storting"
+        },
+        {
           "identifier": "Q3743445",
           "scheme": "wikidata"
         }
@@ -98645,6 +98789,10 @@
       "given_name": "Lars",
       "id": "dc446ca7-56d9-4dc1-ac32-6a6be178df25",
       "identifiers": [
+        {
+          "identifier": "90215081",
+          "scheme": "bibsys"
+        },
         {
           "identifier": "biography/Lars-Korvald",
           "scheme": "britannica"
@@ -102071,6 +102219,10 @@
         {
           "identifier": "PESO",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "PESO",
+          "scheme": "storting"
         },
         {
           "identifier": "Q2308222",
