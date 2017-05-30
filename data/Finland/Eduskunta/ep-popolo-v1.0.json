@@ -1574,7 +1574,7 @@
     },
     {
       "birth_date": "1947-12-03",
-      "death_date": "2010-07-02",
+      "death_date": "2010-07-01",
       "family_name": "Tabermann",
       "gender": "male",
       "given_name": "Tommy",
@@ -9268,6 +9268,11 @@
         },
         {
           "lang": "nl",
+          "name": "Markku Eestilä",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Markku Eestilä",
           "note": "multilingual"
         }
@@ -34635,6 +34640,10 @@
           "url": "https://ru.wikipedia.org/wiki/Сипиля,_Юха"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Juha_Sipilä"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Juha_Sipilä"
         },
@@ -35338,6 +35347,11 @@
           "lang": "nl",
           "name": "Eeva-Johanna Eloranta",
           "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Eeva-Johanna Eloranta",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Eloranta Eeva-Johanna"
@@ -35781,6 +35795,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Anders Adlercreutz",
+          "note": "multilingual"
+        },
+        {
           "lang": "fi",
           "name": "Anders Adlercreutz",
           "note": "multilingual"
@@ -35792,6 +35811,11 @@
         },
         {
           "lang": "nl",
+          "name": "Anders Adlercreutz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Anders Adlercreutz",
           "note": "multilingual"
         }
@@ -38210,6 +38234,11 @@
         },
         {
           "lang": "nl",
+          "name": "James Hirvisaari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "James Hirvisaari",
           "note": "multilingual"
         }
@@ -48117,6 +48146,11 @@
         },
         {
           "lang": "sv",
+          "name": "Outi Ojala",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
           "name": "Outi Ojala",
           "note": "multilingual"
         }
@@ -76963,7 +76997,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1908",
+      "end_date": "1908-07-02",
       "id": "Q1853901",
       "identifiers": [
         {
@@ -76972,7 +77006,7 @@
         }
       ],
       "name": "Finnish parliamentary election, 1908",
-      "start_date": "1908"
+      "start_date": "1908-07-01"
     },
     {
       "classification": "general election",
