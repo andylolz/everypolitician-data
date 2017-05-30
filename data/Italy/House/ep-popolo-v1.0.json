@@ -12084,9 +12084,6 @@
         },
         {
           "url": "https://politici.openpolis.it/politician/picture?content_id=589"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bruno_Murgia_daticamera.jpg"
         }
       ],
       "links": [
@@ -25646,6 +25643,10 @@
           "scheme": "italian_cod"
         },
         {
+          "identifier": "685892",
+          "scheme": "openpolis"
+        },
+        {
           "identifier": "Q13581225",
           "scheme": "wikidata"
         }
@@ -25698,6 +25699,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/luigidimaio"
+        },
+        {
+          "note": "website",
+          "url": "http://luigidimaio.blogspot.it/"
         }
       ],
       "name": "DI MAIO Luigi",
@@ -40422,6 +40427,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Nicola_Fratoianni"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фратоянни,_Никола"
         },
         {
           "note": "facebook",
@@ -67340,9 +67349,6 @@
       "images": [
         {
           "url": "http://www.camera.it/application/xmanager/projects/leg17/attachments/shadow_deputato/has_fotos/000/302/837/original_d302837.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Settimo_NIzzi_daticamera.jpg"
         }
       ],
       "links": [
@@ -70787,6 +70793,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Джентилони,_Паоло"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Паоло_Джентилони"
         },
         {
           "note": "Wikipedia (sco)",
