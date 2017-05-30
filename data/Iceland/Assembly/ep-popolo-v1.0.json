@@ -4392,6 +4392,10 @@
           "url": "https://facebook.com/johannasig"
         },
         {
+          "note": "website",
+          "url": "http://www.althingi.is/johanna/"
+        },
+        {
           "note": "wikipedia",
           "url": "Jóhanna Sigurðardóttir"
         }
@@ -6601,6 +6605,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (be)",
+          "url": "https://be.wikipedia.org/wiki/Б'ярні_Бенедыктсан,_1970"
+        },
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Bjarni_Benediktsson_(1970)"
