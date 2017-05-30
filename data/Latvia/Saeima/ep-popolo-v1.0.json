@@ -9723,6 +9723,7 @@
       ]
     },
     {
+      "birth_date": "1954",
       "contact_details": [
         {
           "type": "email",
@@ -9738,15 +9739,49 @@
         {
           "identifier": "E961B0E9009A6875C2257D7B0032D989",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24901024",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/e961b0e9009a6875c2257d7b0032d989/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/e961b0e9009a6875c2257d7b0032d989/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/12.Saeimas_deputāte_Silvija_Šimfa_(15384866743).jpg"
         }
       ],
-      "name": "Silvija Šimfa"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Silvija_Šimfa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Silvija_Šimfa"
+        }
+      ],
+      "name": "Silvija Šimfa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Silvija Šimfa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Silvija Šimfa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Silvija Šimfa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-02-29",
@@ -11939,6 +11974,7 @@
       ]
     },
     {
+      "birth_date": "1961",
       "contact_details": [
         {
           "type": "email",
@@ -11954,15 +11990,45 @@
         {
           "identifier": "A8E9C82F4F5E51E0C2257D7B0032D91D",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22245081",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a8e9c82f4f5e51e0c2257d7b0032d91d/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a8e9c82f4f5e51e0c2257d7b0032d91d/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/12.Saeimas_deputāts_Jānis_Trupovnieks_(16003799132).jpg"
         }
       ],
-      "name": "Jānis Trupovnieks"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jānis_Trupovnieks"
+        }
+      ],
+      "name": "Jānis Trupovnieks",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jānis Trupovnieks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jānis Trupovnieks",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jānis Trupovnieks",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-04-08",
@@ -25590,6 +25656,7 @@
       ]
     },
     {
+      "birth_date": "1951",
       "contact_details": [
         {
           "type": "email",
@@ -25605,6 +25672,10 @@
         {
           "identifier": "395ACA521F7CCA51C2257D7B0032D94C",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30085728",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/395aca521f7cca51c2257d7b0032d94c/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -25613,7 +25684,14 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/395aca521f7cca51c2257d7b0032d94c/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
-      "name": "Valdis Skujiņš"
+      "name": "Valdis Skujiņš",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Valdis Skujiņš",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-12-19",
@@ -33700,6 +33778,7 @@
       ]
     },
     {
+      "birth_date": "1970",
       "contact_details": [
         {
           "type": "email",
@@ -33715,6 +33794,10 @@
         {
           "identifier": "395CB65CCA31C04AC2257D7B0032D8A8",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28527298",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/395cb65cca31c04ac2257d7b0032d8a8/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -33723,7 +33806,14 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/395cb65cca31c04ac2257d7b0032d8a8/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
-      "name": "Aldis Adamovičs"
+      "name": "Aldis Adamovičs",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Aldis Adamovičs",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-06-21",
@@ -35057,6 +35147,7 @@
       ]
     },
     {
+      "birth_date": "1963",
       "contact_details": [
         {
           "type": "email",
@@ -35072,6 +35163,10 @@
         {
           "identifier": "EB1927D2674433B6C2257D7B0032D90D",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30085737",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/eb1927d2674433b6c2257d7b0032d90d/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -35080,7 +35175,14 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/eb1927d2674433b6c2257d7b0032d90d/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
-      "name": "Valters Dambe"
+      "name": "Valters Dambe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Valters Dambe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-08-18",
@@ -43699,6 +43801,7 @@
       ]
     },
     {
+      "birth_date": "1960",
       "contact_details": [
         {
           "type": "email",
@@ -43714,6 +43817,10 @@
         {
           "identifier": "A8BFF98F41C3E6E8C2257D7B0032D84B",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29092251",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a8bff98f41c3e6e8c2257d7b0032d84b/Foto/0.84?OpenElement&FieldElemFormat=jpg",
@@ -43722,7 +43829,19 @@
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/a8bff98f41c3e6e8c2257d7b0032d84b/Foto/0.84?OpenElement&FieldElemFormat=jpg"
         }
       ],
-      "name": "Zenta Tretjaka"
+      "name": "Zenta Tretjaka",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Zenta Tretjaka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zenta Tretjaka",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-07-17",
