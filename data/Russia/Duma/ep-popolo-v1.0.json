@@ -3317,6 +3317,7 @@
       ]
     },
     {
+      "birth_date": "1961-10-29",
       "gender": "male",
       "id": "0fa281ab-08dd-43b4-a767-62da05665f7e",
       "identifiers": [
@@ -4631,6 +4632,11 @@
         },
         {
           "lang": "en",
+          "name": "Olga Batalina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Olga Batalina",
           "note": "multilingual"
         },
@@ -6363,7 +6369,7 @@
         },
         {
           "lang": "hu",
-          "name": "Stanislav Govorukhin",
+          "name": "Sztanyiszlav Govoruhin",
           "note": "multilingual"
         },
         {
@@ -7680,7 +7686,6 @@
     },
     {
       "birth_date": "1966-06-09",
-      "family_name": "Novikov",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "29ea4a25-421f-413d-b94e-a578a0cd72c2",
@@ -9834,7 +9839,6 @@
     },
     {
       "birth_date": "1969-09-12",
-      "family_name": "Novikov",
       "gender": "male",
       "id": "340aaf70-e20b-4f7c-b0f6-deb35ff17c2f",
       "identifiers": [
@@ -12982,7 +12986,7 @@
         },
         {
           "lang": "fr",
-          "name": "OӀga Borsowa",
+          "name": "OӀga Borsova",
           "note": "multilingual"
         },
         {
@@ -31804,6 +31808,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fr",
+          "name": "Olga Nikolaevna Alimova",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
           "name": "Olga Alimova",
           "note": "multilingual"
@@ -38202,7 +38211,7 @@
         },
         {
           "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Alexandr_Karelin"
+          "url": "https://es.wikipedia.org/wiki/Alexander_Karelin"
         },
         {
           "note": "Wikipedia (et)",
