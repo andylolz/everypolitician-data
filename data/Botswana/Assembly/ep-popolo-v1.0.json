@@ -415,11 +415,17 @@
       ]
     },
     {
+      "gender": "male",
+      "given_name": "James",
       "id": "48541bfe-e5a9-4847-ab4c-59752c1b4f83",
       "identifiers": [
         {
           "identifier": "james_mathokgwane",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30057616",
+          "scheme": "wikidata"
         }
       ],
       "name": "James Mathokgwane",
@@ -427,6 +433,16 @@
         {
           "name": "Hon. James Mathokgwane",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "James Mathokgwane",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "James Mathokgwane",
+          "note": "multilingual"
         }
       ]
     },
