@@ -10110,8 +10110,26 @@
       "sort_name": "Nanni, Miguel"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "GiordanoGringo"
+        }
+      ],
       "gender": "male",
       "id": "778d577e-ab47-4e4f-b302-9842174b38d1",
+      "image": "https://pbs.twimg.com/profile_images/3663978946/6b1a083dc7ef1019d751bf02d60684da.jpeg",
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/3663978946/6b1a083dc7ef1019d751bf02d60684da.jpeg"
+        }
+      ],
+      "links": [
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/GiordanoGringo"
+        }
+      ],
       "name": "Juan Carlos Giordano",
       "sort_name": "Giordano, Juan Carlos"
     },
