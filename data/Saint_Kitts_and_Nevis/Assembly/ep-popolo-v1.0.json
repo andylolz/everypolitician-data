@@ -632,8 +632,37 @@
       ]
     },
     {
+      "gender": "female",
       "id": "7025c742-93a0-4d99-97c6-67e175891aa1",
-      "name": "Constance Mitcham"
+      "identifiers": [
+        {
+          "identifier": "Q28819574",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Constance_V._Mitcham"
+        }
+      ],
+      "name": "Constance Mitcham",
+      "other_names": [
+        {
+          "name": "Constance V. Mitcham",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Constance V. Mitcham",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Constance V. Mitcham",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "78fb1999-93b8-438b-9818-428d75b60eb9",
@@ -695,11 +724,17 @@
       "name": "Sydney Morris"
     },
     {
+      "gender": "male",
+      "given_name": "Ian",
       "id": "8bc42a88-b304-4997-88e9-768629516c75",
       "identifiers": [
         {
           "identifier": "ian_liburd",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28846124",
+          "scheme": "wikidata"
         }
       ],
       "name": "Liburd, Ian",
@@ -707,6 +742,20 @@
         {
           "name": "Ian Liburd",
           "note": "alternate"
+        },
+        {
+          "name": "Ian Liburd",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ian Liburd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ian Liburd",
+          "note": "multilingual"
         }
       ]
     },
