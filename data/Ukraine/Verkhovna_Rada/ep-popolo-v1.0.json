@@ -19445,6 +19445,10 @@
           "url": "https://be.wikipedia.org/wiki/Лілія_Міхайлаўна_Грыневіч"
         },
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Лилия_Хриневич"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Liliya_Hrynevych"
         },
@@ -22354,6 +22358,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Дейдей,_Евгений_Сергеевич"
+        },
+        {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Дейдей_Євген_Сергійович"
         }
@@ -22619,10 +22627,14 @@
           "url": "http://static.rada.gov.ua/dep_img8/sp8.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Альона_БабакDSC01312.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Бабак_Альона.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Alyona_Babak"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Aliona_Babak"
