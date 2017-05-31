@@ -4643,6 +4643,10 @@
           "url": "https://en.wikipedia.org/wiki/Márton_Gyöngyösi"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Márton_Gyöngyösi"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Márton_Gyöngyösi"
         },
@@ -4673,6 +4677,11 @@
         },
         {
           "lang": "en",
+          "name": "Márton Gyöngyösi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Márton Gyöngyösi",
           "note": "multilingual"
         },
