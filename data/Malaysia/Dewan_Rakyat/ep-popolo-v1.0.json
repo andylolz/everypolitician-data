@@ -46339,14 +46339,32 @@
       "name": "Ahmad Shukri Abd. Shukor"
     },
     {
+      "gender": "female",
       "id": "ea3e12b1-2daa-40e0-b4d9-6c2660e9f89f",
       "identifiers": [
         {
           "identifier": "napsiah_omar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30086910",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Napsiah Omar"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Napsiah_Omar"
+        }
+      ],
+      "name": "Napsiah Omar",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Napsiah Omar",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "ea7cabe0-341e-4265-bf23-fe1251d85002",
