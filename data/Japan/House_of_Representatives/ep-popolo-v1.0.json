@@ -23082,6 +23082,10 @@
           "scheme": "wikidata"
         },
         {
+          "identifier": "Koike-2",
+          "scheme": "wikitree"
+        },
+        {
           "identifier": "UC3cIERTYVJv23O9gHl5kfIw",
           "scheme": "youtube"
         }
@@ -42951,7 +42955,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
