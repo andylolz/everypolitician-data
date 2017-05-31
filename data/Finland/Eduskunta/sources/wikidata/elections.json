@@ -899,6 +899,7 @@
     ],
     "follows": "Finnish parliamentary election, 1908",
     "followed_by": "Finnish parliamentary election, 1910",
+    "office": "member of the Parliament of Finland",
     "participants": [
       "Social Democratic Party of Finland",
       "Finnish Party",
@@ -1142,10 +1143,12 @@
       }
     ],
     "dates": [
-      "1916"
+      "1916-07-01",
+      "1916-07-03"
     ],
     "follows": "Finnish parliamentary election, 1913",
-    "followed_by": "Finnish parliamentary election, 1917"
+    "followed_by": "Finnish parliamentary election, 1917",
+    "eligible_voters": "1442091"
   },
   "Q1574308": {
     "identifiers": [

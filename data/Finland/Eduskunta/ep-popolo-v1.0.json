@@ -2358,6 +2358,11 @@
           "lang": "sco",
           "name": "Heli Järvinen",
           "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Heli Järvinen",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Järvinen Heli"
@@ -9685,6 +9690,11 @@
           "lang": "nl",
           "name": "Hannakaisa Heikkinen",
           "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Hannakaisa Heikkinen",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Heikkinen Hannakaisa"
@@ -11033,6 +11043,11 @@
         },
         {
           "lang": "nl",
+          "name": "Kalle Jokinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Kalle Jokinen",
           "note": "multilingual"
         }
@@ -20667,6 +20682,11 @@
         },
         {
           "lang": "nl",
+          "name": "Hannu Hoskonen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Hannu Hoskonen",
           "note": "multilingual"
         }
@@ -77062,7 +77082,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "1916",
+      "end_date": "1916-07-03",
       "id": "Q1571885",
       "identifiers": [
         {
@@ -77071,7 +77091,7 @@
         }
       ],
       "name": "Finnish parliamentary election, 1916",
-      "start_date": "1916"
+      "start_date": "1916-07-01"
     },
     {
       "classification": "general election",
