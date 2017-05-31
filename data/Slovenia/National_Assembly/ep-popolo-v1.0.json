@@ -11038,7 +11038,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
@@ -12105,6 +12105,11 @@
         {
           "lang": "be",
           "name": "Славенская дэмакратычная партыя",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Slovenska demokratska stranka",
           "note": "multilingual"
         }
       ]
