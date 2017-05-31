@@ -8237,6 +8237,10 @@
           "scheme": "olid"
         },
         {
+          "identifier": "Shashi-Tharoor-Indian-politician",
+          "scheme": "quora"
+        },
+        {
           "identifier": "028432371",
           "scheme": "sudoc"
         },
@@ -30946,6 +30950,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Jyotiraditya_Madhavrao_Scindia"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jyotiraditya_Madhavrao_Scindia"
         },
@@ -33336,7 +33344,7 @@
         },
         {
           "lang": "ru",
-          "name": "Кханна, Винод",
+          "name": "Винод Кханна",
           "note": "multilingual"
         },
         {
@@ -56937,7 +56945,7 @@
       "name": "Rajesh, Shri M. B.",
       "other_names": [
         {
-          "name": "M. B. Rajesh",
+          "name": "മാക്ക്രി ബീഫ് രാജേഷ്‌",
           "note": "alternate"
         },
         {
@@ -56947,7 +56955,7 @@
         },
         {
           "lang": "en",
-          "name": "M. B. Rajesh",
+          "name": "മാക്ക്രി ബീഫ് രാജേഷ്‌",
           "note": "multilingual"
         },
         {
@@ -63245,8 +63253,23 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Partido Nacionalista del Congreso",
+          "note": "multilingual"
+        },
+        {
           "lang": "or",
           "name": "ଏନ. ସି. ପି.",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "NCP",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nationalist Congress Party",
           "note": "multilingual"
         }
       ]
