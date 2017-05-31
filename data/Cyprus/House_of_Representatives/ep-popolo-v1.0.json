@@ -8601,7 +8601,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
@@ -11004,6 +11004,11 @@
           "lang": "mr",
           "name": "कायरेनिया जिल्हा",
           "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "কায়রেনিয়া জেলা",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -11112,7 +11117,7 @@
         },
         {
           "lang": "ro",
-          "name": "Districtul Larnaca",
+          "name": "Larnaca",
           "note": "multilingual"
         },
         {
@@ -11248,6 +11253,11 @@
         {
           "lang": "mr",
           "name": "लार्नाका जिल्हा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "লার্নাকা জেলা",
           "note": "multilingual"
         }
       ],
@@ -11723,6 +11733,11 @@
         {
           "lang": "mr",
           "name": "लिमासोल जिल्हा",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "লিমাসোল জেলা",
           "note": "multilingual"
         }
       ],
