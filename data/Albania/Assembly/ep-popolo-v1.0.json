@@ -4822,6 +4822,10 @@
           "url": "https://it.wikipedia.org/wiki/Gazmend_Oketa"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Gazmend_Oketa"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Окета,_Газменд"
         },
@@ -6361,6 +6365,10 @@
           "url": "https://uk.wikipedia.org/wiki/Арта_Даде"
         },
         {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/阿爾塔·達戴"
+        },
+        {
           "note": "website",
           "url": "https://www.parlament.al/deputet/arta-dade/"
         }
@@ -6450,6 +6458,11 @@
         {
           "lang": "uk",
           "name": "Арта Даде",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "阿爾塔·達戴",
           "note": "multilingual"
         }
       ]
@@ -11573,7 +11586,7 @@
           "url": "https://www.parlament.al/wp-content/uploads/sites/4/2015/12/Kryetari_OK_Gri.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ilir_Meta,_Foto.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ilir_Meta_detail,_000824-D-9880W-002.jpg"
         }
       ],
       "links": [
@@ -13968,6 +13981,10 @@
         {
           "note": "Wikipedia (sq)",
           "url": "https://sq.wikipedia.org/wiki/Mesila_Doda"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/梅西拉·多達"
         },
         {
           "note": "website",
