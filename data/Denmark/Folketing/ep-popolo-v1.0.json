@@ -3603,6 +3603,7 @@
     },
     {
       "birth_date": "1952-05-12",
+      "family_name": "Haugaard",
       "gender": "male",
       "given_name": "Jacob",
       "id": "1a21c2d7-a73f-4c77-a65b-c5fc66e63e71",
@@ -3612,16 +3613,16 @@
           "scheme": "csfd"
         },
         {
+          "identifier": "676357",
+          "scheme": "discogs"
+        },
+        {
           "identifier": "3682",
           "scheme": "dnf"
         },
         {
           "identifier": "/m/01p4xnl",
           "scheme": "freebase"
-        },
-        {
-          "identifier": "122297997",
-          "scheme": "gnd"
         },
         {
           "identifier": "nm0369270",
@@ -3644,15 +3645,11 @@
           "scheme": "port"
         },
         {
-          "identifier": "13003",
-          "scheme": "scope"
-        },
-        {
           "identifier": "304820",
           "scheme": "sfdb"
         },
         {
-          "identifier": "11622606",
+          "identifier": "18101728",
           "scheme": "viaf"
         },
         {
