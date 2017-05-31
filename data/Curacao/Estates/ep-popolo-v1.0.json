@@ -223,6 +223,10 @@
         {
           "identifier": "161",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093088",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/161.jpg",
@@ -231,7 +235,14 @@
           "url": "http://www.parlamento.cw/images/members/161.jpg"
         }
       ],
-      "name": "Eugène Cleopa"
+      "name": "Eugène Cleopa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eugène Cleopa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-04-23",
@@ -1049,6 +1060,7 @@
       ]
     },
     {
+      "birth_date": "1973-04-01",
       "contact_details": [
         {
           "type": "email",
@@ -1062,6 +1074,10 @@
         {
           "identifier": "169",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22955295",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/169.jpg",
@@ -1072,11 +1088,36 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Jacinta_Scoop-Constancia"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/jacinta.constancia.9"
         }
       ],
-      "name": "Jacinta V.A. Scoop-Constancia"
+      "name": "Jacinta V.A. Scoop-Constancia",
+      "other_names": [
+        {
+          "name": "Jacinta Scoop-Constancia",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jacinta Scoop-Constancia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jacinta Scoop-Constancia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jacinta Scoop-Constancia",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1092,6 +1133,10 @@
         {
           "identifier": "164",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093089",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/164.jpg",
@@ -1106,7 +1151,18 @@
           "url": "https://facebook.com/charles.cooper.5876060"
         }
       ],
-      "name": "Ing. Charles Cooper, MSc"
+      "name": "Ing. Charles Cooper, MSc",
+      "other_names": [
+        {
+          "name": "Charles Cooper",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Charles Cooper",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -1115,6 +1171,10 @@
         {
           "identifier": "174",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093091",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlamento.cw/images/members/174.jpg",
@@ -1123,7 +1183,14 @@
           "url": "http://www.parlamento.cw/images/members/174.jpg"
         }
       ],
-      "name": "Winifred Raveneau"
+      "name": "Winifred Raveneau",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Winifred Raveneau",
+          "note": "multilingual"
+        }
+      ]
     }
   ],
   "organizations": [
