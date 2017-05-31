@@ -38,6 +38,12 @@ GIT
       require_all
 
 GIT
+  remote: https://github.com/everypolitician/facebook_username_extractor.git
+  revision: fdb65615a5a513bb2ae8391aad9e2a5e76f4503d
+  specs:
+    facebook_username_extractor (0.3.0)
+
+GIT
   remote: https://github.com/everypolitician/field_serializer.git
   revision: 07e89a97eebe4e85ec23f46e04c7e061ac0fe166
   specs:
@@ -97,7 +103,6 @@ GEM
     escape_utils (1.2.1)
     ethon (0.9.1)
       ffi (>= 1.3.0)
-    facebook_username_extractor (0.2.0)
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.14)
@@ -190,7 +195,7 @@ DEPENDENCIES
   everypolitician-dataview-terms!
   everypolitician-popolo!
   everypolitician-pull_request!
-  facebook_username_extractor (~> 0.2.0)
+  facebook_username_extractor (~> 0.3.0)!
   field_serializer!
   flog
   fuzzy_match
