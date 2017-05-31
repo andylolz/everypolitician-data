@@ -7957,6 +7957,7 @@
       "name": "Dr. Szakács, László"
     },
     {
+      "birth_date": "1977-07-24",
       "contact_details": [
         {
           "type": "email",
@@ -7965,11 +7966,16 @@
       ],
       "email": "velez.arpad@parlament.hu",
       "gender": "male",
+      "given_name": "Árpád",
       "id": "8334ac0d-7586-404a-824f-76b1787e83f6",
       "identifiers": [
         {
           "identifier": "v041",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093138",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/v041.jpg",
@@ -7978,7 +7984,29 @@
           "url": "http://www.parlament.hu/kepv/kepek/v041.jpg"
         }
       ],
-      "name": "Velez, Árpád"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Velez_Árpád"
+        }
+      ],
+      "name": "Velez, Árpád",
+      "other_names": [
+        {
+          "name": "Velez Árpád",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Árpád Velez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Velez Árpád",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-12-18",
@@ -11137,6 +11165,7 @@
       ]
     },
     {
+      "birth_date": "1977-06-02",
       "contact_details": [
         {
           "type": "email",
@@ -11145,11 +11174,16 @@
       ],
       "email": "witzmann.mihaly@parlament.hu",
       "gender": "male",
+      "given_name": "Mihály",
       "id": "ae15f018-f424-4d48-95bb-c8f6e3973465",
       "identifiers": [
         {
           "identifier": "w704",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093130",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/w704.jpg",
@@ -11158,9 +11192,32 @@
           "url": "http://www.parlament.hu/kepv/kepek/w704.jpg"
         }
       ],
-      "name": "Witzmann, Mihály"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Witzmann_Mihály"
+        }
+      ],
+      "name": "Witzmann, Mihály",
+      "other_names": [
+        {
+          "name": "Witzmann Mihály",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mihály Witzmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Witzmann Mihály",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1976-09-01",
       "contact_details": [
         {
           "type": "email",
@@ -11169,11 +11226,16 @@
       ],
       "email": "vago.sebestyen@parlament.hu",
       "gender": "male",
+      "given_name": "Sebestyén",
       "id": "af0c0f9a-02d8-46f6-9266-2285d9ebc53f",
       "identifiers": [
         {
           "identifier": "v050",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30093134",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/v050.jpg",
@@ -11182,7 +11244,29 @@
           "url": "http://www.parlament.hu/kepv/kepek/v050.jpg"
         }
       ],
-      "name": "Vágó, Sebestyén"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Vágó_Sebestyén"
+        }
+      ],
+      "name": "Vágó, Sebestyén",
+      "other_names": [
+        {
+          "name": "Vágó Sebestyén",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Sebestyén Vágó",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Vágó Sebestyén",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-11-10",
