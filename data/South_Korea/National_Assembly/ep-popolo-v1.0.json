@@ -28301,6 +28301,7 @@
         }
       ],
       "email": "euldong@na.go.kr",
+      "family_name": "Kim",
       "gender": "female",
       "id": "c0c3087b-c689-4d3e-9bdd-97453ff00fa6",
       "identifiers": [
@@ -28439,6 +28440,11 @@
         {
           "lang": "pt",
           "name": "Kim Eul-dong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Kim Ul-dong",
           "note": "multilingual"
         },
         {
@@ -37566,7 +37572,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
