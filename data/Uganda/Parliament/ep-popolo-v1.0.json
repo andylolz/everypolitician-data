@@ -10199,7 +10199,31 @@
       ],
       "gender": "female",
       "id": "62e9bd9c-2b38-440d-a587-bce2d772cd7e",
-      "name": "Mariam Naigaga"
+      "identifiers": [
+        {
+          "identifier": "Q30070354",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mariam_Naigaga"
+        }
+      ],
+      "name": "Mariam Naigaga",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mariam Naigaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mariam Naigaga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-12-23",
@@ -13524,13 +13548,32 @@
       ],
       "gender": "male",
       "id": "831e50fc-de7e-4ea8-a43c-965dbc18bb78",
+      "identifiers": [
+        {
+          "identifier": "Q30091390",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/SSEWANYANA%20ALOIZIOUS%20ALLAN.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/SSEWANYANA%20ALOIZIOUS%20ALLAN.jpg"
         }
       ],
-      "name": "Allan Ssewanyana"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Allan_Ssewanyana"
+        }
+      ],
+      "name": "Allan Ssewanyana",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Allan Ssewanyana",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
