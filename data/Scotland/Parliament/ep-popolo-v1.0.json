@@ -2348,6 +2348,11 @@
       "name": "Iain Smith",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "لاين سميث",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Iain Smith",
           "note": "multilingual"
@@ -30138,7 +30143,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
