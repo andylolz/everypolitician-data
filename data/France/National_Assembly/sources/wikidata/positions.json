@@ -5504,9 +5504,10 @@
       }
     },
     {
-      "id": "Q30047077",
-      "label": "Hem’s Mayor",
-      "title": "Hem’s Mayor",
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor",
+      "description": "head of municipal government such as a town or city",
       "qualifiers": {
         "P768": "Hem",
         "P580": "1998-12-04",
@@ -20684,8 +20685,8 @@
   "Q58130": [
     {
       "id": "Q20203208",
-      "label": "Minister of Foreign Affairs and International Development",
-      "title": "Minister of Foreign Affairs and International Development",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
       "description": "French minister"
     },
     {
@@ -24387,7 +24388,12 @@
       "id": "Q382617",
       "label": "maire",
       "title": "maire",
-      "description": "mayor in France"
+      "description": "mayor in France",
+      "qualifiers": {
+        "P768": "Épaignes",
+        "P580": "1995-06-19",
+        "P582": "2016-01-04"
+      }
     },
     {
       "id": "Q16886136",
@@ -34871,8 +34877,8 @@
   "Q217070": [
     {
       "id": "Q20203208",
-      "label": "Minister of Foreign Affairs and International Development",
-      "title": "Minister of Foreign Affairs and International Development",
+      "label": "Minister of Foreign Affairs",
+      "title": "Minister of Foreign Affairs",
       "description": "French minister"
     },
     {
