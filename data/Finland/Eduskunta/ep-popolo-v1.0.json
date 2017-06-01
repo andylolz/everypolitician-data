@@ -18830,6 +18830,14 @@
           "scheme": "eduskunta"
         },
         {
+          "identifier": "1504120",
+          "scheme": "elonet"
+        },
+        {
+          "identifier": "nm2647744",
+          "scheme": "imdb"
+        },
+        {
           "identifier": "Q11851928",
           "scheme": "wikidata"
         }
@@ -18857,12 +18865,29 @@
           "url": "https://sv.wikipedia.org/wiki/Antero_Vartia"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/anterovartia"
+        },
+        {
+          "note": "instagram",
+          "url": "anterovartia"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/anterovartia"
+        },
+        {
+          "note": "website",
+          "url": "http://anterovartia.com/"
         }
       ],
       "name": "Antero Vartia",
       "other_names": [
+        {
+          "lang": "de",
+          "name": "Antero Vartia",
+          "note": "multilingual"
+        },
         {
           "lang": "en",
           "name": "Antero Vartia",
