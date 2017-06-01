@@ -7686,6 +7686,7 @@
     },
     {
       "birth_date": "1966-06-09",
+      "family_name": "Novikov",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "29ea4a25-421f-413d-b94e-a578a0cd72c2",
@@ -9839,6 +9840,7 @@
     },
     {
       "birth_date": "1969-09-12",
+      "family_name": "Novikov",
       "gender": "male",
       "id": "340aaf70-e20b-4f7c-b0f6-deb35ff17c2f",
       "identifiers": [
@@ -11932,7 +11934,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/865/865509fbda7c185cf3c6f763d5843961.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Konstantin-Zatulin.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Konstantin_Zatulin_M2017-05.jpg"
         }
       ],
       "links": [
@@ -16008,7 +16010,7 @@
       "name": "Лебедев Игорь Владимирович",
       "other_names": [
         {
-          "name": "Лебедев, Игорь Владимирович",
+          "name": "Игорь Владимирович Лебедев",
           "note": "alternate"
         },
         {
@@ -16078,7 +16080,7 @@
         },
         {
           "lang": "ru",
-          "name": "Лебедев, Игорь Владимирович",
+          "name": "Игорь Владимирович Лебедев",
           "note": "multilingual"
         },
         {
@@ -23606,6 +23608,7 @@
     },
     {
       "birth_date": "1963-05-11",
+      "family_name": "Fyodorov",
       "gender": "male",
       "given_name": "Yevhen",
       "id": "91cd2025-e18d-4624-b09f-f46e3cd45863",
@@ -27258,7 +27261,7 @@
       "name": "Жириновский Владимир Вольфович",
       "other_names": [
         {
-          "name": "Жириновский, Владимир Вольфович",
+          "name": "Владимир Вольфович Жириновский",
           "note": "alternate"
         },
         {
@@ -27453,7 +27456,7 @@
         },
         {
           "lang": "ru",
-          "name": "Жириновский, Владимир Вольфович",
+          "name": "Владимир Вольфович Жириновский",
           "note": "multilingual"
         },
         {
