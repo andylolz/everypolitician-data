@@ -629,6 +629,10 @@
           "url": "https://el.wikipedia.org/wiki/Τζάστιν_Τρυντώ"
         },
         {
+          "note": "Wikipedia (eml)",
+          "url": "https://eml.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Justin_Trudeau"
         },
@@ -45682,6 +45686,10 @@
           "url": "https://enwikiquote.wikipedia.org/wiki/Andrew_Scheer"
         },
         {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/اندرو_شیر"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Andrew_Scheer"
         },
@@ -62937,7 +62945,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
