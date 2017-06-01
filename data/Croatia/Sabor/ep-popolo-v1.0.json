@@ -7207,6 +7207,10 @@
           "url": "https://hr.wikipedia.org/wiki/Jadranka_Kosor"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Յադրանկա_Կոսոր"
+        },
+        {
           "note": "Wikipedia (ie)",
           "url": "https://ie.wikipedia.org/wiki/Jadranka_Kosor"
         },
@@ -7424,6 +7428,11 @@
         {
           "lang": "hu",
           "name": "Jadranka Kosor",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Յադրանկա Կոսոր",
           "note": "multilingual"
         },
         {
@@ -16605,7 +16614,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
