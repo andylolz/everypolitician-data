@@ -3911,6 +3911,11 @@
       "name": "Paul Davies",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "بول ديفيز",
+          "note": "multilingual"
+        },
+        {
           "lang": "cy",
           "name": "Paul Davies",
           "note": "multilingual"
@@ -9322,7 +9327,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
