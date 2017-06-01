@@ -2857,6 +2857,10 @@
           "url": "https://simple.wikipedia.org/wiki/Moon_Jae-in"
         },
         {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Мун_Џае_Ин"
+        },
+        {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/மூன்_சே-இன்"
         },
@@ -3144,6 +3148,11 @@
         {
           "lang": "sh",
           "name": "Moon Jae-in",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Мун Џае Ин",
           "note": "multilingual"
         },
         {
@@ -27621,7 +27630,7 @@
         },
         {
           "note": "Wikipedia (ko)",
-          "url": "https://ko.wikipedia.org/wiki/이완구_(1950년)"
+          "url": "https://ko.wikipedia.org/wiki/이완구"
         },
         {
           "note": "Wikipedia (pl)",
@@ -28301,6 +28310,7 @@
         }
       ],
       "email": "euldong@na.go.kr",
+      "family_name": "Kim",
       "gender": "female",
       "id": "c0c3087b-c689-4d3e-9bdd-97453ff00fa6",
       "identifiers": [
@@ -28439,6 +28449,11 @@
         {
           "lang": "pt",
           "name": "Kim Eul-dong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Kim Ul-dong",
           "note": "multilingual"
         },
         {
@@ -37566,7 +37581,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
