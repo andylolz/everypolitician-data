@@ -35,6 +35,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Crystal_Tovar_Aragón"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Crystal_Tovar_Aragón"
         }
       ],
       "name": "Crystal Tovar Aragón",
@@ -45556,7 +45560,7 @@
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
