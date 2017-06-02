@@ -7087,18 +7087,40 @@
           "value": "02-784-8870"
         }
       ],
+      "gender": "male",
       "id": "357740fd-8b13-4da6-a755-9da6c88841c5",
+      "identifiers": [
+        {
+          "identifier": "Q30093075",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.assembly.go.kr/photo/9771086.jpg",
       "images": [
         {
           "url": "http://www.assembly.go.kr/photo/9771086.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/심기준"
+        }
+      ],
       "name": "SHIM KIJOON",
       "other_names": [
         {
+          "name": "심기준",
+          "note": "alternate"
+        },
+        {
           "lang": "cn",
           "name": "沈基俊",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shin Kijoon",
           "note": "multilingual"
         },
         {
