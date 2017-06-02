@@ -128,6 +128,7 @@
         }
       ],
       "email": "malourdes.flores@congreso.gob.mx",
+      "gender": "female",
       "id": "0137002c-129d-44ab-a419-2dedba6f8453",
       "identifiers": [
         {
@@ -195,6 +196,7 @@
       "sort_name": "Bolaños Aguilar Edmundo Javier"
     },
     {
+      "gender": "male",
       "id": "024c87ba-f4b2-4f2c-8ff5-3547b3006ed2",
       "identifiers": [
         {
@@ -1726,6 +1728,7 @@
         }
       ],
       "email": "rocio.santos@congreso.gob.mx",
+      "gender": "female",
       "id": "0a461a5a-e693-437d-ad93-99e34c401ef8",
       "identifiers": [
         {
@@ -2394,6 +2397,7 @@
         }
       ],
       "email": "manuel.tapia@congreso.gob.mx",
+      "gender": "male",
       "id": "0e35b028-1661-44af-88fb-4a9214e6382b",
       "identifiers": [
         {
@@ -3553,6 +3557,7 @@
         }
       ],
       "email": "eduardo.dominguez@congreso.gob.mx",
+      "gender": "male",
       "id": "15ebb1c3-b0a9-4367-a12f-dc986d5f145d",
       "identifiers": [
         {
@@ -4196,6 +4201,7 @@
       "sort_name": "Aubry De Castro Palomino Enrique"
     },
     {
+      "gender": "male",
       "id": "18ea3667-54ed-47ae-8970-f69d3390c4c9",
       "identifiers": [
         {
@@ -6596,6 +6602,7 @@
         }
       ],
       "email": "alberto.escamilla@congreso.gob.mx",
+      "gender": "male",
       "id": "23a8b2f0-a3aa-4b61-afcb-b29762fde554",
       "identifiers": [
         {
@@ -6836,6 +6843,7 @@
       "sort_name": "Santana Alfaro Arturo"
     },
     {
+      "gender": "female",
       "id": "252ad46e-87f1-42b5-b279-57d5d96ad923",
       "identifiers": [
         {
@@ -7023,6 +7031,7 @@
         }
       ],
       "email": "lucia.rosales@congreso.gob.mx",
+      "gender": "female",
       "id": "26f2ba9c-852c-47ca-91fb-1ce935e1bbe1",
       "identifiers": [
         {
@@ -7884,6 +7893,7 @@
       "sort_name": "Vázquez Saut Regina"
     },
     {
+      "gender": "male",
       "id": "2b70f527-7b26-4b3f-9d12-2a76031d2b70",
       "identifiers": [
         {
@@ -7981,6 +7991,7 @@
         }
       ],
       "email": "ulises.valencia@congreso.gob.mx",
+      "gender": "male",
       "id": "2bcabe93-4bd2-4b65-9d52-663d973d0329",
       "identifiers": [
         {
@@ -8558,6 +8569,7 @@
       "sort_name": "Villafuerte Trujillo Amílcar Augusto"
     },
     {
+      "gender": "female",
       "id": "2ebff478-7594-4203-a015-b6c027b5d593",
       "identifiers": [
         {
@@ -12050,6 +12062,7 @@
       "sort_name": "García Navarro Otniel"
     },
     {
+      "gender": "male",
       "id": "42432628-7067-4dc9-b1a3-99e090b90669",
       "identifiers": [
         {
@@ -12891,6 +12904,7 @@
         }
       ],
       "email": "cesar.serna@congreso.gob.mx",
+      "gender": "male",
       "id": "47a72374-e353-4a20-a70c-31cf94dc6575",
       "identifiers": [
         {
@@ -13594,6 +13608,7 @@
         }
       ],
       "email": "lmedina.valdes@congreso.gob.mx",
+      "gender": "female",
       "id": "4a6a1b8a-4d05-405c-93ce-79da8046d655",
       "identifiers": [
         {
@@ -13618,6 +13633,7 @@
         }
       ],
       "email": "guadalupe.jaramillo@congreso.gob.mx",
+      "gender": "female",
       "id": "4a735365-ad0e-4f17-8f40-cd3ba2c01daf",
       "identifiers": [
         {
@@ -14746,6 +14762,7 @@
         }
       ],
       "email": "hector.mares@congreso.gob.mx",
+      "gender": "male",
       "id": "52298905-c45d-402f-a8b2-64f3b0548036",
       "identifiers": [
         {
@@ -16799,6 +16816,7 @@
         }
       ],
       "email": "elizabeth.flores@congreso.gob.mx",
+      "gender": "female",
       "id": "5d46c117-414a-4f8c-be65-7644721d042a",
       "identifiers": [
         {
@@ -18447,6 +18465,7 @@
         }
       ],
       "email": "nacho.mestas@congreso.gob.mx",
+      "gender": "male",
       "id": "64636d9d-2ca6-49ab-bd35-2ecded208d48",
       "identifiers": [
         {
@@ -19584,6 +19603,7 @@
         }
       ],
       "email": "minerva.sanchez@congreso.gob.mx",
+      "gender": "female",
       "id": "6b977312-140b-49e0-874c-6f4ee53e2774",
       "identifiers": [
         {
@@ -19699,6 +19719,7 @@
       "sort_name": "Díaz Montoya Rocío"
     },
     {
+      "gender": "female",
       "id": "6ccc3109-be63-4097-a16f-50a420704624",
       "identifiers": [
         {
@@ -20680,6 +20701,7 @@
         }
       ],
       "email": "shantall.zepeda@congreso.gob.mx",
+      "gender": "female",
       "id": "71095ba9-0e73-4044-8879-a7bdb7d4c433",
       "identifiers": [
         {
@@ -27218,6 +27240,7 @@
         }
       ],
       "email": "ernesto.sanchez@congreso.gob.mx",
+      "gender": "male",
       "id": "95346c45-e5d6-4949-9ee6-1bc4e26f4596",
       "identifiers": [
         {
@@ -29257,6 +29280,7 @@
         }
       ],
       "email": "danner.gonzalez@congreso.gob.mx",
+      "gender": "male",
       "id": "a28fe43b-2ad4-40da-9955-b0388a798c64",
       "identifiers": [
         {
@@ -29820,6 +29844,7 @@
       "sort_name": "González Domínguez Isela"
     },
     {
+      "gender": "male",
       "id": "a4e14750-77ab-4ab7-8ed7-ab405fcbed05",
       "identifiers": [
         {
@@ -31660,6 +31685,7 @@
         }
       ],
       "email": "mruiz.fraga@congreso.gob.mx",
+      "gender": "female",
       "id": "aed322cb-8f35-4072-b6ce-cdde77baf7bf",
       "identifiers": [
         {
@@ -35207,6 +35233,7 @@
         }
       ],
       "email": "esther.gutierrez@congreso.gob.mx",
+      "gender": "female",
       "id": "c8b76085-4b94-45d9-a74c-d6a40a1ff0fa",
       "identifiers": [
         {
@@ -35356,6 +35383,7 @@
         }
       ],
       "email": "adriana.soto@congreso.gob.mx",
+      "gender": "female",
       "id": "c9a440a8-8020-470c-ae3a-158fa4c47bab",
       "identifiers": [
         {
@@ -36408,6 +36436,7 @@
       "sort_name": "Fujiwara Montelongo René Ricardo"
     },
     {
+      "gender": "male",
       "id": "ce485c23-48fb-42a1-be7e-d43e7ab1f775",
       "identifiers": [
         {
@@ -39044,6 +39073,7 @@
         }
       ],
       "email": "juan.velasco@congreso.gob.mx",
+      "gender": "male",
       "id": "e0852e50-a3d8-4d97-8250-8553e0423789",
       "identifiers": [
         {
@@ -39061,6 +39091,7 @@
       "sort_name": "Velasco Pérez Juan Carlos"
     },
     {
+      "gender": "female",
       "id": "e088901b-bb50-473b-9c53-7ece45bbc250",
       "identifiers": [
         {
@@ -39977,6 +40008,7 @@
       "sort_name": "Cordero Lerma Leonel Gerardo"
     },
     {
+      "gender": "female",
       "id": "e709612f-bd27-42a6-8611-0339ff2f47c2",
       "identifiers": [
         {
@@ -42124,6 +42156,7 @@
       "sort_name": "Hernández Ortiz Carolina"
     },
     {
+      "gender": "male",
       "id": "f51dce25-0aa7-4414-8f98-56590b9304ad",
       "identifiers": [
         {
@@ -43272,6 +43305,7 @@
         }
       ],
       "email": "martha.loera@congreso.gob.mx",
+      "gender": "female",
       "id": "fbd7d840-e7f3-4c89-91dd-d482fed51b41",
       "identifiers": [
         {
