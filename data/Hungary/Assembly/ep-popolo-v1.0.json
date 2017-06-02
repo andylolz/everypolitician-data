@@ -353,6 +353,10 @@
         {
           "identifier": "s774",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30103059",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s774.jpg",
@@ -361,7 +365,29 @@
           "url": "http://www.parlament.hu/kepv/kepek/s774.jpg"
         }
       ],
-      "name": "Simon, Róbert Balázs"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Simon_Róbert_Balázs"
+        }
+      ],
+      "name": "Simon, Róbert Balázs",
+      "other_names": [
+        {
+          "name": "Simon Róbert Balázs",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Róbert Balázs Simon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Simon Róbert Balázs",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-11-23",
@@ -595,13 +621,41 @@
       "email": "pinter.tamas@parlament.hu",
       "gender": "male",
       "id": "0c307842-da0d-4ea6-abd4-6c375a619137",
+      "identifiers": [
+        {
+          "identifier": "Q30103064",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568",
       "images": [
         {
           "url": "http://www.parlament.hu/en/web/house-of-the-national-assembly/list-of-mps?p_p_id=pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_count=1&_pairproxy_WAR_pairproxyportlet_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Ftel_konyv.szem_dolgkep%3Fp_szem%3D98568"
         }
       ],
-      "name": "Pintér, Tamás"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Pintér_Tamás_(politikus)"
+        }
+      ],
+      "name": "Pintér, Tamás",
+      "other_names": [
+        {
+          "name": "Pintér Tamás",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tamás Pintér",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pintér Tamás",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-11-03",
@@ -8374,6 +8428,10 @@
         {
           "identifier": "k115",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30103066",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/k115.jpg",
@@ -8382,7 +8440,29 @@
           "url": "http://www.parlament.hu/kepv/kepek/k115.jpg"
         }
       ],
-      "name": "Kulcsár, Gergely"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kulcsár_Gergely_(politikus)"
+        }
+      ],
+      "name": "Kulcsár, Gergely",
+      "other_names": [
+        {
+          "name": "Kulcsár Gergely",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Gergely Kulcsár",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Kulcsár Gergely",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-06-14",
@@ -12734,6 +12814,7 @@
       ]
     },
     {
+      "birth_date": "1945-07-28",
       "contact_details": [
         {
           "type": "email",
@@ -12747,6 +12828,10 @@
         {
           "identifier": "s770",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30103048",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s770.jpg",
@@ -12755,7 +12840,29 @@
           "url": "http://www.parlament.hu/kepv/kepek/s770.jpg"
         }
       ],
-      "name": "Szabolcs, Attila"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Szabolcs_Attila"
+        }
+      ],
+      "name": "Szabolcs, Attila",
+      "other_names": [
+        {
+          "name": "Szabolcs Attila",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Attila Szabolcs",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Szabolcs Attila",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
