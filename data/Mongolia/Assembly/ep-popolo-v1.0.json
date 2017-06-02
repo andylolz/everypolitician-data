@@ -4949,20 +4949,34 @@
       "sort_name": "Namdag BATTSEREG"
     },
     {
+      "birth_date": "1963",
       "contact_details": [
         {
           "type": "email",
           "value": "battulga@parliament.mn"
+        },
+        {
+          "type": "twitter",
+          "value": "battulgakh"
         }
       ],
       "email": "battulga@parliament.mn",
       "family_name": "Khaltmaa",
+      "gender": "male",
       "given_name": "BATTULGA",
       "id": "affa1ab2-d95a-4132-9204-2fddde0fae93",
       "identifiers": [
         {
           "identifier": "khaltmaagiin_battulga",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "107434374",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q9122260",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.mn/en/files/images/1096-7864481.jpg",
@@ -4972,6 +4986,26 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khaltmaagiin_Battulga"
+        },
+        {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Халтмаагийн_Баттулга"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Халтмаагийн_Баттулга"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/哈勒特玛格·巴特图勒嘎"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/battulgakh"
+        },
         {
           "note": "website",
           "url": "http://battulga.parliament.mn"
@@ -4984,8 +5018,32 @@
           "note": "alternate"
         },
         {
+          "name": "Халтмаагийн Баттулга",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Khaltmaagiin Battulga",
+          "note": "multilingual"
+        },
+        {
           "lang": "mn",
           "name": "Халтмаагийн Баттулга",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khaltmaagyn Battulga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Халтмаагийн Баттулга",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "哈勒特玛格·巴特图勒嘎",
           "note": "multilingual"
         }
       ],
