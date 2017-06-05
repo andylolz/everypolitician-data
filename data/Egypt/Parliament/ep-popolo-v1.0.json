@@ -1516,12 +1516,12 @@
       "name": "محمد فرج ابراهيم محمد عامر",
       "other_names": [
         {
-          "name": "محمد فرج عامر",
+          "name": "فرج عامر",
           "note": "alternate"
         },
         {
           "lang": "ar",
-          "name": "محمد فرج عامر",
+          "name": "فرج عامر",
           "note": "multilingual"
         },
         {
@@ -3465,6 +3465,11 @@
         },
         {
           "lang": "ar",
+          "name": "لميس جابر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
           "name": "لميس جابر",
           "note": "multilingual"
         }
