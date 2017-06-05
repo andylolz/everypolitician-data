@@ -134,21 +134,57 @@
       "name": "Haykel Belgacem"
     },
     {
+      "birth_date": "1971-01-08",
       "gender": "male",
+      "given_name": "Habib",
       "id": "0a70a2f7-69d1-4ba0-ba7a-9a3d34a74267",
       "identifiers": [
         {
           "identifier": "105",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28716311",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Habib_Khedher.png",
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Habib_Khedher.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Habib_Khedher.jpg"
         }
       ],
-      "name": "Habib Khedher"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/الحبيب_خضر"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Habib_Khedher"
+        }
+      ],
+      "name": "Habib Khedher",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "الحبيب خضر",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Habib Khedher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Habib Khedher",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -5095,14 +5131,38 @@
     },
     {
       "gender": "male",
+      "given_name": "Mohamed",
       "id": "c89ebb24-696e-466a-be84-98b954e4c5fc",
+      "identifiers": [
+        {
+          "identifier": "Q30012117",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed.png",
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/abdellaoui%20mohamed.png"
         }
       ],
-      "name": "Mohamed Abdellaoui"
+      "name": "Mohamed Abdellaoui",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Mohamed Abdellaoui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohamed Abdellaoui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohamed Abdellaoui",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -5487,21 +5547,73 @@
       "name": "Abdelmoumen Belanes"
     },
     {
+      "birth_date": "1960-09-01",
       "gender": "female",
       "id": "da6dc7af-3199-4742-a209-a1591ce7ce6c",
       "identifiers": [
         {
           "identifier": "194",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q2947600",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://majles.marsad.tn/2014/uploads/images/Chahida_Fraj.png",
       "images": [
         {
           "url": "http://majles.marsad.tn/2014/uploads/images/Chahida_Fraj.png"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/ChahidaFraj-Mai-2017-1.png"
         }
       ],
-      "name": "Chahida Fraj"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Chahida_Fraj"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chahida_Ben_Fraj_Bouraoui"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Chahida_Ben_Fraj_Bouraoui"
+        },
+        {
+          "note": "Wikipedia (mg)",
+          "url": "https://mg.wikipedia.org/wiki/Chahida_Ben_Fraj_Bouraoui"
+        }
+      ],
+      "name": "Chahida Fraj",
+      "other_names": [
+        {
+          "name": "Chahida Ben Fraj Bouraoui",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chahida Ben Fraj Bouraoui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Chahida Ben Fraj Bouraoui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Chahida Ben Fraj Bouraoui",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Chahida Ben Fraj Bouraoui",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-04-17",
