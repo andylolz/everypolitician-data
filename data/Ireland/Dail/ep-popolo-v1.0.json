@@ -8397,6 +8397,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ليو_فرادكار"
+        },
+        {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Leo_Varadkar"
         },
@@ -8425,6 +8429,22 @@
           "url": "https://he.wikipedia.org/wiki/ליאו_ורדקר"
         },
         {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/लिओ_वारड्कर"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Լեո_Վարադկար"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
+          "note": "Wikipedia (is)",
+          "url": "https://is.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Leo_Varadkar"
         },
@@ -8437,12 +8457,40 @@
           "url": "https://ko.wikipedia.org/wiki/리오_버라드커"
         },
         {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Leo_Varadkar"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
+          "note": "Wikipedia (ro)",
+          "url": "https://ro.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Варадкар,_Лео"
+        },
+        {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Лео_Варадкар"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/李歐·瓦拉德卡"
         },
         {
           "note": "twitter",
@@ -8455,6 +8503,11 @@
       ],
       "name": "Leo Varadkar",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ليو فرادكار",
+          "note": "multilingual"
+        },
         {
           "lang": "bn",
           "name": "লিও বরাডকর",
@@ -8516,6 +8569,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "Լեո Վարադկար",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "Leo Varadkar",
           "note": "multilingual"
@@ -8532,6 +8590,16 @@
         },
         {
           "lang": "pl",
+          "name": "Leo Varadkar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Leo Varadkar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
           "name": "Leo Varadkar",
           "note": "multilingual"
         }
@@ -21937,6 +22005,11 @@
         {
           "lang": "bg",
           "name": "Фине Гейл",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "فاين جايل",
           "note": "multilingual"
         }
       ]
