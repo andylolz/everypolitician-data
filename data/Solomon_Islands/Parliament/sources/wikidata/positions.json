@@ -105,6 +105,15 @@
       "label": "Member of the National Parliament of the Solomon Islands",
       "title": "Member of the National Parliament of the Solomon Islands",
       "description": "political representative"
+    },
+    {
+      "id": "Q1425954",
+      "label": "Prime Minister of the Solomon Islands",
+      "title": "Prime Minister of the Solomon Islands",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2014-12-09"
+      }
     }
   ],
   "Q7331464": [
