@@ -4896,6 +4896,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "pl",
+          "name": "Gazmend Oketa",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Окета, Газменд",
           "note": "multilingual"
@@ -7055,6 +7060,11 @@
         {
           "lang": "es",
           "name": "Rajmonda Bulku",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "راموندا بولکو",
           "note": "multilingual"
         },
         {
@@ -9872,6 +9882,10 @@
           "url": "https://en.wikipedia.org/wiki/Namik_Dokle"
         },
         {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Намик_Докле"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Namik_Dokle"
         },
@@ -9922,6 +9936,11 @@
         {
           "lang": "hu",
           "name": "Namik Dokle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Намик Докле",
           "note": "multilingual"
         },
         {
@@ -11636,6 +11655,10 @@
           "url": "https://it.wikipedia.org/wiki/Ilir_Meta"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/일리르_메타"
+        },
+        {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Ilir_Meta"
         },
@@ -11745,6 +11768,11 @@
         {
           "lang": "ja",
           "name": "イリル・メタ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "일리르 메타",
           "note": "multilingual"
         },
         {
@@ -12357,7 +12385,7 @@
       "other_names": [
         {
           "lang": "ar",
-          "name": "سالي باريشا",
+          "name": "صالح بريشا",
           "note": "multilingual"
         },
         {
@@ -13272,6 +13300,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Еди_Рама"
+        },
+        {
+          "note": "Wikipedia (br)",
+          "url": "https://br.wikipedia.org/wiki/Edi_Rama"
         },
         {
           "note": "Wikipedia (ca)",
