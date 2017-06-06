@@ -6569,7 +6569,30 @@
     {
       "gender": "male",
       "id": "40ecb61d-04ae-40da-a6bc-9a939a43272a",
-      "name": "Lawrence Akuguzibwe"
+      "identifiers": [
+        {
+          "identifier": "Q30110261",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lawrence_Akugizibwe"
+        }
+      ],
+      "name": "Lawrence Akuguzibwe",
+      "other_names": [
+        {
+          "name": "Lawrence Akugizibwe",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Lawrence Akugizibwe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-07-28",
