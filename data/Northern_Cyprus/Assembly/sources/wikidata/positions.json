@@ -3,7 +3,19 @@
     {
       "id": "Q2662165",
       "label": "Prime Minister of Northern Cyprus",
-      "title": "Prime Minister of Northern Cyprus"
+      "title": "Prime Minister of Northern Cyprus",
+      "description": "head of government of Northern Cyprus"
+    }
+  ],
+  "Q58174": [
+    {
+      "id": "Q2662165",
+      "label": "Prime Minister of Northern Cyprus",
+      "title": "Prime Minister of Northern Cyprus",
+      "description": "head of government of Northern Cyprus",
+      "qualifiers": {
+        "P580": "2016-04-16"
+      }
     }
   ]
 }
