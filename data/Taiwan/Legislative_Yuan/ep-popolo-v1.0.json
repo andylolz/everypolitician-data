@@ -274,6 +274,11 @@
           "note": "alternate"
         },
         {
+          "lang": "en",
+          "name": "Hsu Shu-hua",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "許淑華",
           "note": "multilingual"
@@ -1428,6 +1433,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Chung_Chia-pin"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chung_Chia-pin"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/鍾佳濱"
         }
@@ -1437,6 +1446,11 @@
         {
           "name": "鍾佳濱",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chung Chia-pin",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -3072,6 +3086,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Huang_Kuo-shu"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Huang_Kuo-shu"
         },
         {
           "note": "Wikipedia (zh)",
@@ -8213,6 +8231,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yang_Yao"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yang_Yao"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/楊曜"
         }
@@ -8553,6 +8579,10 @@
         {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Chen_Man-li"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mary_Chen"
         },
         {
           "note": "Wikipedia (zh)",
@@ -11157,7 +11187,7 @@
         },
         {
           "lang": "ar",
-          "name": "الحزب الديمقراطي التقدمي (تايوان)",
+          "name": "الحزب الديمقراطي التقدمي",
           "note": "multilingual"
         },
         {
