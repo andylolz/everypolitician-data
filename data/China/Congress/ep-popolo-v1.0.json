@@ -6186,6 +6186,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Ma_Xiaotian"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ma_Xiaotian"
         },
@@ -11132,6 +11136,11 @@
         {
           "lang": "vi",
           "name": "Lý Nguyên Triều",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "李源潮",
           "note": "multilingual"
         },
         {
@@ -18572,6 +18581,11 @@
         {
           "lang": "sv",
           "name": "Li Zhanshu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yue",
+          "name": "栗戰書",
           "note": "multilingual"
         },
         {
@@ -32398,6 +32412,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lzh",
+          "name": "劉奇",
+          "note": "multilingual"
+        },
+        {
           "lang": "nov",
           "name": "Liu Qi",
           "note": "multilingual"
@@ -38703,7 +38722,7 @@
         },
         {
           "lang": "ar",
-          "name": "شى جين بينغ",
+          "name": "شي جين بينغ",
           "note": "multilingual"
         },
         {
