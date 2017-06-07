@@ -9,6 +9,7 @@
     },
     {
       "birth_date": "1966-05-24",
+      "family_name": "Kun",
       "gender": "male",
       "given_name": "Russell",
       "id": "02d3781d-f785-4f2e-b1e6-c56b396a7093",
@@ -75,12 +76,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Russell Kun",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Russell Kun",
           "note": "multilingual"
         },
@@ -105,7 +116,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Russell Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Russell Kun",
           "note": "multilingual"
         }
@@ -117,7 +153,9 @@
     },
     {
       "birth_date": "1972-09-16",
+      "family_name": "Dabwido",
       "gender": "male",
+      "given_name": "Sprent",
       "id": "081d97c0-d123-4e48-ba6d-59cdfe0e9e23",
       "identifiers": [
         {
@@ -570,6 +608,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Marcus Stephen",
           "note": "multilingual"
@@ -586,6 +629,11 @@
         },
         {
           "lang": "id",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Marcus Stephen",
           "note": "multilingual"
         },
@@ -650,7 +698,27 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
           "lang": "sh",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Marcus Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
           "name": "Marcus Stephen",
           "note": "multilingual"
         },
@@ -724,7 +792,9 @@
     {
       "birth_date": "1968-08-31",
       "death_date": "2016-12-08",
+      "family_name": "Dowiyogo",
       "gender": "male",
+      "given_name": "Valdon",
       "id": "17405a38-3a25-4c51-ad86-3794742f9540",
       "identifiers": [
         {
@@ -761,6 +831,11 @@
       "name": "Valdon Dowiyogo",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Valdon Dowiyogo",
           "note": "multilingual"
@@ -776,12 +851,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Valdon Dowiyogo",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Valdon Dowiyogo",
           "note": "multilingual"
         },
@@ -801,7 +886,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Valdon Dowiyogo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Valdon Dowiyogo",
           "note": "multilingual"
         }
@@ -813,7 +933,9 @@
     },
     {
       "birth_date": "1960-05-16",
+      "family_name": "Deireragea",
       "gender": "male",
+      "given_name": "Landon",
       "id": "312b2e05-eb0c-4009-b7c0-5f43e48dfc10",
       "identifiers": [
         {
@@ -838,6 +960,11 @@
       "name": "Landon Deireragea",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Landon Deireragea",
           "note": "multilingual"
@@ -848,7 +975,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Landon Deireragea",
           "note": "multilingual"
         },
@@ -858,7 +1000,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Landon Deireragea",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Landon Deireragea",
           "note": "multilingual"
         }
@@ -941,6 +1118,7 @@
     },
     {
       "birth_date": "1969-11-24",
+      "family_name": "Adeang",
       "gender": "male",
       "given_name": "David",
       "id": "50732d43-5318-409a-a5ca-29670f1bb846",
@@ -1012,7 +1190,7 @@
         },
         {
           "lang": "da",
-          "name": "David Waiau Adeang",
+          "name": "David Adeang",
           "note": "multilingual"
         },
         {
@@ -1031,12 +1209,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "David Adeang",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "David Adeang",
           "note": "multilingual"
         },
@@ -1057,7 +1245,7 @@
         },
         {
           "lang": "nn",
-          "name": "David Waiau Adeang",
+          "name": "David Adeang",
           "note": "multilingual"
         },
         {
@@ -1076,8 +1264,33 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
-          "name": "David Waiau Adeang",
+          "name": "David Adeang",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "David Adeang",
           "note": "multilingual"
         },
         {
@@ -1089,7 +1302,9 @@
     },
     {
       "birth_date": "1966-07-08",
+      "family_name": "Bernicke",
       "gender": "male",
+      "given_name": "Shadlog",
       "id": "50886da6-8654-4790-89d5-528ed7d8c876",
       "identifiers": [
         {
@@ -1118,6 +1333,11 @@
       "name": "Shadlog Bernicke",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Shadlog Bernicke",
           "note": "multilingual"
@@ -1128,7 +1348,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Shadlog Bernicke",
           "note": "multilingual"
         },
@@ -1138,7 +1373,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Shadlog Bernicke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Shadlog Bernicke",
           "note": "multilingual"
         }
@@ -1146,7 +1416,9 @@
     },
     {
       "birth_date": "1971-06-27",
+      "family_name": "Keke",
       "gender": "male",
+      "given_name": "Kieren",
       "id": "692cc1e8-af7d-4b14-8d54-aeda57338c7d",
       "identifiers": [
         {
@@ -1204,7 +1476,7 @@
       "other_names": [
         {
           "lang": "da",
-          "name": "Kieren Aedogan Ankwong Keke",
+          "name": "Kieren Keke",
           "note": "multilingual"
         },
         {
@@ -1228,7 +1500,17 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Kieren Keke",
           "note": "multilingual"
         },
@@ -1263,8 +1545,33 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
-          "name": "Kieren Aedogan Ankwong Keke",
+          "name": "Kieren Keke",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Kieren Keke",
           "note": "multilingual"
         },
         {
@@ -1276,6 +1583,7 @@
     },
     {
       "birth_date": "1971-05-27",
+      "family_name": "Batsiua",
       "gender": "male",
       "given_name": "Mathew",
       "id": "6b84796d-bbd7-4b09-bd94-cfda16785bd1",
@@ -1310,6 +1618,11 @@
       "name": "Mathew Batsiua",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Mathew Batsiua",
           "note": "multilingual"
@@ -1320,7 +1633,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Mathew Batsiua",
           "note": "multilingual"
         },
@@ -1330,7 +1658,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mathew Batsiua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Mathew Batsiua",
           "note": "multilingual"
         }
@@ -1342,7 +1705,9 @@
     },
     {
       "birth_date": "1965-10-04",
+      "family_name": "Solomon",
       "gender": "male",
+      "given_name": "Rykers",
       "id": "75a6a60b-f042-461f-8f41-020247f493d6",
       "identifiers": [
         {
@@ -1367,6 +1732,11 @@
       "name": "Rykers Solomon",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Rykers Solomon",
           "note": "multilingual"
@@ -1377,7 +1747,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Rykers Solomon",
           "note": "multilingual"
         },
@@ -1387,7 +1772,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rykers Solomon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Rykers Solomon",
           "note": "multilingual"
         }
@@ -1395,6 +1815,7 @@
     },
     {
       "birth_date": "1959-09-28",
+      "family_name": "Tsitsi",
       "gender": "male",
       "given_name": "Dantes",
       "id": "7ae56b52-0e4c-49cb-82b9-e9e3fd857123",
@@ -1417,6 +1838,11 @@
       "name": "Dantes Tsitsi",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Dantes Tsitsi",
           "note": "multilingual"
@@ -1427,7 +1853,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Dantes Tsitsi",
           "note": "multilingual"
         },
@@ -1437,7 +1878,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dantes Tsitsi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Dantes Tsitsi",
           "note": "multilingual"
         }
@@ -1496,7 +1972,9 @@
           "value": "naurubwiema"
         }
       ],
+      "family_name": "Waqa",
       "gender": "male",
+      "given_name": "Baron",
       "id": "802e8e7a-ee52-44ef-840a-0e83f06c7d12",
       "identifiers": [
         {
@@ -1695,6 +2173,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Baron Waqa",
           "note": "multilingual"
@@ -1711,6 +2194,11 @@
         },
         {
           "lang": "io",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Baron Waqa",
           "note": "multilingual"
         },
@@ -1770,12 +2258,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
           "lang": "sk",
           "name": "Baron Divavesi Waqa",
           "note": "multilingual"
         },
         {
+          "lang": "sma",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Baron Waqa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Baron Waqa",
           "note": "multilingual"
         },
@@ -1798,7 +2311,9 @@
     },
     {
       "birth_date": "1963-01-26",
+      "family_name": "Akua",
       "gender": "male",
+      "given_name": "Riddell",
       "id": "80626a5a-33a8-47e7-88ca-0fcd5f2e26fe",
       "identifiers": [
         {
@@ -1855,12 +2370,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Riddell Akua",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Riddell Akua",
           "note": "multilingual"
         },
@@ -1885,7 +2410,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Riddell Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Riddell Akua",
           "note": "multilingual"
         }
@@ -1893,6 +2443,7 @@
     },
     {
       "birth_date": "1967-02-05",
+      "family_name": "Pitcher",
       "gender": "male",
       "given_name": "Frederick",
       "id": "8485f19e-98c9-43f5-80be-555e1d129794",
@@ -1967,10 +2518,6 @@
       "name": "Frederick Pitcher",
       "other_names": [
         {
-          "name": "Freddie Pitcher",
-          "note": "alternate"
-        },
-        {
           "lang": "ar",
           "name": "فريدي بيتشر",
           "note": "multilingual"
@@ -1997,7 +2544,7 @@
         },
         {
           "lang": "en",
-          "name": "Freddie Pitcher",
+          "name": "Frederick Pitcher",
           "note": "multilingual"
         },
         {
@@ -2021,6 +2568,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Frederick Pitcher",
           "note": "multilingual"
@@ -2028,6 +2580,11 @@
         {
           "lang": "hu",
           "name": "Freddie Pitcher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Frederick Pitcher",
           "note": "multilingual"
         },
         {
@@ -2081,7 +2638,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Frederick Pitcher",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Frederick Pitcher",
           "note": "multilingual"
         },
@@ -2141,6 +2723,7 @@
       ]
     },
     {
+      "family_name": "Scotty",
       "gender": "female",
       "given_name": "Charmaine",
       "id": "aa16b078-a0f9-49ec-8239-c4c076f70d8b",
@@ -2185,6 +2768,11 @@
       "name": "Charmaine Scotty",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Charmaine Scotty",
           "note": "multilingual"
@@ -2195,7 +2783,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Charmaine Scotty",
           "note": "multilingual"
         },
@@ -2205,7 +2808,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Charmaine Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Charmaine Scotty",
           "note": "multilingual"
         }
@@ -2217,6 +2855,7 @@
     },
     {
       "birth_date": "1948-06-20",
+      "family_name": "Scotty",
       "gender": "male",
       "given_name": "Ludwig",
       "id": "bcfd822d-1212-4022-9cda-236751e4cf3b",
@@ -2375,6 +3014,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Ludwig Scotty",
           "note": "multilingual"
@@ -2470,7 +3114,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "se",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Ludwig Scotty",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Ludwig Scotty",
           "note": "multilingual"
         }
@@ -2478,6 +3147,7 @@
     },
     {
       "birth_date": "1957-01-22",
+      "family_name": "Thoma",
       "gender": "male",
       "given_name": "Godfrey",
       "id": "dd4c4957-518b-4346-a99c-b3deb1e2fa82",
@@ -2520,6 +3190,11 @@
       "name": "Godfrey Thoma",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Godfrey Thoma",
           "note": "multilingual"
@@ -2535,12 +3210,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Godfrey Thoma",
           "note": "multilingual"
         },
         {
           "lang": "hu",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Godfrey Thoma",
           "note": "multilingual"
         },
@@ -2555,7 +3240,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Godfrey Thoma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Godfrey Thoma",
           "note": "multilingual"
         },
@@ -2568,6 +3288,7 @@
     },
     {
       "birth_date": "1967-10-07",
+      "family_name": "Oppenheimer",
       "gender": "male",
       "given_name": "Sean",
       "id": "df307805-4df4-4d53-a0d8-6a958528b50d",
@@ -2586,7 +3307,27 @@
       "name": "Sean Oppenheimer",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Sean Oppenheimer",
           "note": "multilingual"
         },
@@ -2594,11 +3335,47 @@
           "lang": "nl",
           "name": "Sean Oppenheimer",
           "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Sean Oppenheimer",
+          "note": "multilingual"
         }
       ]
     },
     {
       "birth_date": "1970-05-06",
+      "family_name": "Kun",
       "gender": "male",
       "given_name": "Roland",
       "id": "e7634741-ca86-422e-b17d-ea888f598b95",
@@ -2637,6 +3414,11 @@
       "name": "Roland Kun",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Roland Kun",
           "note": "multilingual"
@@ -2652,6 +3434,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Roland Kun",
           "note": "multilingual"
@@ -2662,7 +3449,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
           "name": "Roland Kun",
           "note": "multilingual"
         },
@@ -2670,10 +3472,41 @@
           "lang": "pl",
           "name": "Roland Kun",
           "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Roland Kun",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Roland Kun",
+          "note": "multilingual"
         }
       ]
     },
     {
+      "family_name": "Kam",
       "gender": "male",
       "id": "ee28aa27-a7a5-4f53-a5ae-b87e58986e10",
       "identifiers": [
@@ -2703,7 +3536,17 @@
       "name": "Lyn-Wannan Kam",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
           "name": "Lyn-Wannan Kam",
           "note": "multilingual"
         },
@@ -2713,7 +3556,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "is",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
           "name": "Lyn-Wannan Kam",
           "note": "multilingual"
         },
@@ -2721,11 +3579,43 @@
           "lang": "pl",
           "name": "Tawaki Kam",
           "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Lyn-Wannan Kam",
+          "note": "multilingual"
         }
       ]
     },
     {
+      "family_name": "Akua",
       "gender": "male",
+      "given_name": "Ranin",
       "id": "f11e4e54-2761-421b-8d70-74e323885619",
       "identifiers": [
         {
@@ -2750,7 +3640,27 @@
       "name": "Ranin Akua",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Ranin Akua",
           "note": "multilingual"
         },
@@ -2760,14 +3670,51 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ranin Akua",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Ranin Akua",
           "note": "multilingual"
         }
       ]
     },
     {
+      "family_name": "Jeremiah",
       "gender": "male",
+      "given_name": "Squire",
       "id": "f1d525d3-f133-4f51-abd9-d0087bc95a76",
       "identifiers": [
         {
@@ -2800,6 +3747,11 @@
       "name": "Squire Jeremiah",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Squire Jeremiah",
           "note": "multilingual"
@@ -2810,7 +3762,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Squire Jeremiah",
           "note": "multilingual"
         },
@@ -2820,7 +3787,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Squire Jeremiah",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Squire Jeremiah",
           "note": "multilingual"
         }
@@ -2828,6 +3830,7 @@
     },
     {
       "birth_date": "1980-08-09",
+      "family_name": "Tabuna",
       "gender": "male",
       "given_name": "Dominic",
       "id": "f93ec602-3952-4e59-b351-ffa789487add",
@@ -2854,6 +3857,11 @@
       "name": "Dominic Tabuna",
       "other_names": [
         {
+          "lang": "da",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Dominic Tabuna",
           "note": "multilingual"
@@ -2864,7 +3872,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "fo",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
           "name": "Dominic Tabuna",
           "note": "multilingual"
         },
@@ -2874,7 +3897,42 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dominic Tabuna",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
           "name": "Dominic Tabuna",
           "note": "multilingual"
         }
@@ -3091,7 +4149,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -3451,42 +4509,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
