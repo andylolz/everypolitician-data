@@ -4949,7 +4949,7 @@
       "sort_name": "Namdag BATTSEREG"
     },
     {
-      "birth_date": "1963",
+      "birth_date": "1963-03-03",
       "contact_details": [
         {
           "type": "email",
@@ -4988,7 +4988,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Khaltmaagiin_Battulga"
+          "url": "https://en.wikipedia.org/wiki/Battulga_Khaltmaa"
         },
         {
           "note": "Wikipedia (mn)",
@@ -7314,6 +7314,11 @@
           "note": "alternate"
         },
         {
+          "lang": "da",
+          "name": "Jargaltulga Erdenebat",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Dschargaltulgyn Erdenebat",
           "note": "multilingual"
@@ -7929,7 +7934,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -8289,42 +8294,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
