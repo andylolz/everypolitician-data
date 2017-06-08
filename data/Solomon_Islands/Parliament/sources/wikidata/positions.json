@@ -105,6 +105,40 @@
       "label": "Member of the National Parliament of the Solomon Islands",
       "title": "Member of the National Parliament of the Solomon Islands",
       "description": "political representative"
+    },
+    {
+      "id": "Q1425954",
+      "label": "Prime Minister of the Solomon Islands",
+      "title": "Prime Minister of the Solomon Islands",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2014-12-09",
+        "P1365": "Gordon Darcy Lilo"
+      }
+    },
+    {
+      "id": "Q1425954",
+      "label": "Prime Minister of the Solomon Islands",
+      "title": "Prime Minister of the Solomon Islands",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2006-05-04",
+        "P582": "2007-12-20",
+        "P1365": "Snyder Rini",
+        "P1366": "Derek Sikua"
+      }
+    },
+    {
+      "id": "Q1425954",
+      "label": "Prime Minister of the Solomon Islands",
+      "title": "Prime Minister of the Solomon Islands",
+      "description": "position",
+      "qualifiers": {
+        "P580": "2000-06-30",
+        "P582": "2001-12-17",
+        "P1365": "Bartholomew Ulufa'alu",
+        "P1366": "Allan Kemakeza"
+      }
     }
   ],
   "Q7331464": [
