@@ -7335,9 +7335,35 @@
         {
           "identifier": "296",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30122905",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mladen_Grujić"
         }
       ],
       "name": "MLADEN GRUJIC",
+      "other_names": [
+        {
+          "name": "Mladen Grujić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mladen Grujić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mladen Grujić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MLADEN GRUJIC"
     },
     {
