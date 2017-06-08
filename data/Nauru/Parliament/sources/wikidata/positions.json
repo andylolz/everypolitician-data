@@ -8,7 +8,7 @@
       "qualifiers": {
         "P580": "2011-11-15",
         "P582": "2013-06-11",
-        "P1365": "Freddie Pitcher",
+        "P1365": "Frederick Pitcher",
         "P1366": "Baron Waqa"
       }
     }
@@ -23,7 +23,7 @@
         "P580": "2007-12-19",
         "P582": "2011-11-10",
         "P1365": "Ludwig Scotty",
-        "P1366": "Freddie Pitcher"
+        "P1366": "Frederick Pitcher"
       }
     }
   ],
@@ -35,7 +35,8 @@
       "description": "head of state and government in Nauru",
       "qualifiers": {
         "P580": "2013-06-11",
-        "P1365": "Sprent Dabwido"
+        "P1365": "Sprent Dabwido",
+        "P1545": "14"
       }
     }
   ],
