@@ -17491,6 +17491,12 @@
       "classification": "legislative period",
       "end_date": "2016-06-03",
       "id": "term/10",
+      "identifiers": [
+        {
+          "identifier": "Q16082873",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "10th legislature",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "start_date": "2014-05-16"
@@ -17511,6 +17517,12 @@
     {
       "classification": "legislative period",
       "id": "term/11",
+      "identifiers": [
+        {
+          "identifier": "Q30155066",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "11th legislature",
       "organization_id": "bcabb5c4-6ac3-4704-b57e-cdc33c1ddc05",
       "start_date": "2016-06-03"
