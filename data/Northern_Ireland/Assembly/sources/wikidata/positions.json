@@ -2192,13 +2192,55 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "55th United Kingdom Parliament"
+      }
     },
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
-      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P2937": "3rd Northern Ireland Assembly"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "56th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "57th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland",
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P2937": "4th Northern Ireland Assembly"
+      }
+    },
+    {
+      "id": "Q3272410",
+      "label": "Member of the Legislative Assembly of Northern Ireland",
+      "title": "Member of the Legislative Assembly of Northern Ireland",
+      "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland",
+      "qualifiers": {
+        "P2937": "5th Northern Ireland Assembly"
+      }
     }
   ],
   "Q5439436": [
@@ -4770,7 +4812,10 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "53rd United Kingdom Parliament"
+      }
     },
     {
       "id": "Q3272410",
@@ -4786,6 +4831,46 @@
       "qualifiers": {
         "P580": "2001-07-27",
         "P582": "2001-10-24"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "54th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "55th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "56th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "57th United Kingdom Parliament",
+        "P768": "East Londonderry",
+        "P2715": "United Kingdom general election, 2017",
+        "P102": "Democratic Unionist Party",
+        "P1111": "19723"
       }
     }
   ],
@@ -5926,7 +6011,8 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "1997-05-01",
-        "P1365": "James Molyneaux, Baron Molyneaux of Killead"
+        "P1365": "James Molyneaux, Baron Molyneaux of Killead",
+        "P2937": "52nd United Kingdom Parliament"
       }
     },
     {
@@ -5939,6 +6025,46 @@
         "P582": "2010-06",
         "P1365": "Patrick Roche",
         "P1366": "Paul Givan"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "57th United Kingdom Parliament",
+        "P768": "Lagan Valley",
+        "P2715": "United Kingdom general election, 2017",
+        "P102": "Democratic Unionist Party",
+        "P1111": "26762"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "56th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "55th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "54th United Kingdom Parliament"
       }
     }
   ],
@@ -6043,13 +6169,38 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "55th United Kingdom Parliament"
+      }
     },
     {
       "id": "Q3272410",
       "label": "Member of the Legislative Assembly of Northern Ireland",
       "title": "Member of the Legislative Assembly of Northern Ireland",
       "description": "representative elected by the voters to the Northern Ireland Assembly in Northern Ireland"
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "56th United Kingdom Parliament"
+      }
+    },
+    {
+      "id": "Q16707842",
+      "label": "Member of Parliament in the United Kingdom",
+      "title": "Member of Parliament in the United Kingdom",
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P2937": "57th United Kingdom Parliament",
+        "P768": "Strangford",
+        "P2715": "United Kingdom general election, 2017",
+        "P102": "Democratic Unionist Party",
+        "P1111": "24036"
+      }
     }
   ],
   "Q24052788": [
