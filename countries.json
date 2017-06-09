@@ -10776,12 +10776,20 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/07f0d8254f877cc3f6cb0bb25c431816057c3512/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1496898773",
-        "person_count": 1347,
-        "sha": "dd685cb1022a233e26b084f717946dc3138138d5",
+        "lastmod": "1497010160",
+        "person_count": 1434,
+        "sha": "07f0d8254f877cc3f6cb0bb25c431816057c3512",
         "legislative_periods": [
+          {
+            "id": "term/57",
+            "name": "57th Parliament of the United Kingdom",
+            "start_date": "2017-06-09",
+            "slug": "57",
+            "csv": "data/UK/Commons/term-57.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/07f0d8254f877cc3f6cb0bb25c431816057c3512/data/UK/Commons/term-57.csv"
+          },
           {
             "end_date": "2017-05-03",
             "id": "term/56",
@@ -10789,7 +10797,7 @@
             "start_date": "2015-05-08",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/term-56.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbda9827d8323107dbb4fd42b908a6c39f168be/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -10798,7 +10806,7 @@
             "start_date": "2010-05-06",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/term-55.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbda9827d8323107dbb4fd42b908a6c39f168be/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
@@ -10807,7 +10815,7 @@
             "start_date": "2005-05-05",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/term-54.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbda9827d8323107dbb4fd42b908a6c39f168be/data/UK/Commons/term-54.csv"
           },
           {
             "end_date": "2005-04-11",
@@ -10816,7 +10824,7 @@
             "start_date": "2001-06-07",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/term-53.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbda9827d8323107dbb4fd42b908a6c39f168be/data/UK/Commons/term-53.csv"
           },
           {
             "end_date": "2001-05-14",
@@ -10825,10 +10833,10 @@
             "start_date": "1997-05-01",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd685cb1022a233e26b084f717946dc3138138d5/data/UK/Commons/term-52.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6fbda9827d8323107dbb4fd42b908a6c39f168be/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 158925,
+        "statement_count": 167570,
         "type": "lower house"
       }
     ]
