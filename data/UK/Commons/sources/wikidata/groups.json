@@ -1999,6 +1999,36 @@
         "note": "multilingual"
       },
       {
+        "lang": "mk",
+        "name": "Демократска унионистичка партија",
+        "note": "multilingual"
+      },
+      {
+        "lang": "de-ch",
+        "name": "Democratic Unionist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "Democratic Unionist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "Democratic Unionist Party",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب اتحادگرای دموکراتیک",
+        "note": "multilingual"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Partido Unionista Democrático",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "北愛民主統一黨",
         "note": "multilingual"
@@ -2172,6 +2202,16 @@
         "lang": "en",
         "name": "DUP",
         "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "ДУП",
+        "note": "multilingual"
+      },
+      {
+        "lang": "mk",
+        "name": "DUP",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -2179,8 +2219,7 @@
         "url": "http://www.mydup.com/",
         "note": "website"
       }
-    ],
-    "srgb": "D46A4C"
+    ]
   },
   "sinn-fein": {
     "identifiers": [
