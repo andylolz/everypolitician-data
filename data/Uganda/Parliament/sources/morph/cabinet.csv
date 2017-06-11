@@ -1,6 +1,7 @@
-id,position,label,description,start_date,end_date,replaces,replaced_by
-Q1740843,Q2462330,Prime Minister of Uganda,"",2014-09-18,,Amama Mbabazi,
-Q57873,Q2462330,Prime Minister of Uganda,"",2011-05-24,2014-09-18,Apolo Nsibambi,Ruhakana Rugunda
-Q57873,Q5358201,attorney general,main legal advisor to the government,"",,,
-Q57873,Q6865949,Minister for Security,UK ministerial position,"",,,
-Q58240,Q24262601,Minister of Foreign Affairs of Uganda,foreign affairs minister of Uganda,"",,,
+id,position,label,description,start_date,term,end_date,replaces,replaced_by
+Q1740843,Q2462330,Prime Minister of Uganda,Note - not Head of Government,2014-09-18,,,Amama Mbabazi,
+Q30110261,Q21296005,Member of the Parliament of Uganda,"","",10th Parliament of Uganda,,,
+Q57873,Q2462330,Prime Minister of Uganda,Note - not Head of Government,2011-05-24,,2014-09-18,Apolo Nsibambi,Ruhakana Rugunda
+Q57873,Q5358201,attorney general,main legal advisor to the government,"",,,,
+Q57873,Q6865949,Minister for Security,UK ministerial position,"",,,,
+Q58240,Q24262601,Minister of Foreign Affairs of Uganda,foreign affairs minister of Uganda,"",,,,
