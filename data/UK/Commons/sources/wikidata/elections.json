@@ -522,6 +522,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "en",
+        "name": "UK general election, 2010",
+        "note": "multilingual"
+      },
+      {
         "lang": "nb",
         "name": "Storbritannias parlamentsvalg 2010",
         "note": "multilingual"
@@ -860,6 +865,11 @@
         "lang": "en",
         "name": "United Kingdom general election of 2005",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2005",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -1134,6 +1144,11 @@
         "lang": "zh",
         "name": "同年英國大選",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 1992",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -1407,6 +1422,11 @@
       {
         "lang": "tr",
         "name": "2001 Birleşik Krallık genel seçimleri",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2001",
         "note": "multilingual"
       }
     ],
@@ -3197,6 +3217,11 @@
       {
         "lang": "zh",
         "name": "1997年選舉",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 1997",
         "note": "multilingual"
       }
     ],
@@ -4999,6 +5024,11 @@
         "lang": "bn",
         "name": "যুক্তরাজ্যের সাধারণ নির্বাচন, ২০১৫",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2015",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -5950,7 +5980,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections générales britanniques de 2017",
+        "name": "élections générales britanniques de 2017",
         "note": "multilingual"
       },
       {
@@ -6044,6 +6074,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "sv",
+        "name": "Parlamentsvalet i Storbritannien 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "United Kingdom general election, 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "United Kingdom general election, 2017",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual"
@@ -6052,12 +6097,43 @@
         "lang": "en",
         "name": "UK general election, 2017",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election of 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "2017 United Kingdom general election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "UK snap election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-ca",
+        "name": "UK general election, 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "UK snap election",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en-gb",
+        "name": "UK general election, 2017",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2017-06-08"
     ],
     "follows": "United Kingdom general election, 2015",
+    "part_of": "elections in the United Kingdom",
     "office": "Member of Parliament in the United Kingdom"
   }
 }
