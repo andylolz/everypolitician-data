@@ -16167,13 +16167,37 @@
       ],
       "gender": "male",
       "id": "948591a3-60c4-48a2-bb66-b6a2a8bcd9d4",
+      "identifiers": [
+        {
+          "identifier": "Q30150061",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Gafabusa%20Richard.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Gafabusa%20Richard.jpg"
         }
       ],
-      "name": "Richard Gafabusa"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Richard_Gafabusa"
+        }
+      ],
+      "name": "Richard Gafabusa",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Richard Gafabusa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Richard Gafabusa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-06-28",
