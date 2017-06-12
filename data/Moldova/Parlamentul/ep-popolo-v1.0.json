@@ -260,6 +260,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/马里安·卢普"
+        },
+        {
+          "note": "website",
+          "url": "http://www.marianlupu.md/"
         }
       ],
       "name": "Marian Lupu",
@@ -570,6 +574,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Унтилэ,_Вячеслав"
+        },
+        {
+          "note": "website",
+          "url": "http://untila.md/"
         }
       ],
       "name": "Veaceslav Untila",
@@ -785,6 +793,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Валеріу_Мунтяну"
+        },
+        {
+          "note": "website",
+          "url": "http://munteanu.md/"
         }
       ],
       "name": "Munteanu Valeriu",
@@ -3463,6 +3475,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Андріан_Канду"
+        },
+        {
+          "note": "website",
+          "url": "http://www.candu.md"
         }
       ],
       "name": "Andrian Candu",
@@ -4137,7 +4153,232 @@
       "name": "Vladimir Odnostalco",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
           "name": "Vladimir Odnostalco",
           "note": "multilingual"
         },
@@ -4147,7 +4388,132 @@
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
           "lang": "ro",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Vladimir Odnostalco",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Vladimir Odnostalco",
           "note": "multilingual"
         }
@@ -5265,7 +5631,7 @@
         },
         {
           "lang": "ru",
-          "name": "Гречаная, Зинаида Петровна",
+          "name": "Зинаида Петровна Гречаная",
           "note": "multilingual"
         },
         {
@@ -7979,7 +8345,7 @@
         },
         {
           "lang": "ru",
-          "name": "Стрелец, Валерий",
+          "name": "Валерий Иванович Стрелец",
           "note": "multilingual"
         },
         {
@@ -8555,7 +8921,7 @@
         },
         {
           "lang": "en",
-          "name": "Nae-Simion Pleşca",
+          "name": "Nae-Simion Pleșca",
           "note": "multilingual"
         },
         {
@@ -11545,7 +11911,7 @@
         },
         {
           "lang": "ru",
-          "name": "Додон, Игорь Николаевич",
+          "name": "Игорь Николаевич Додон",
           "note": "multilingual"
         },
         {
@@ -13013,7 +13379,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -13373,42 +13739,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
