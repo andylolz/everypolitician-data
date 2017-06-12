@@ -1,11 +1,14 @@
-id,position,label,description,start_date,constituency,end_date,replaces,replaced_by
-Q10855915,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q12587534,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q12612132,Q15407843,Prime Minister of South Korea,"",2015-02-17,,2015-04-27,Jung Hong-won,Hwang Kyo-ahn
-Q12612920,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q12615445,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q12617992,Q14850694,Member of National Assembly of South Korea,"",2016-05-30,,,,
-Q15139412,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q16181809,Q14850694,Member of National Assembly of South Korea,"","",,,,
-Q21001,Q14850694,Member of National Assembly of South Korea,"",2012,Sasang District,,,
-Q24856317,Q14850694,Member of National Assembly of South Korea,"","",,,,
+id,position,label,description,start_date,constituency,end_date,replaces,replaced_by,term,party,election
+Q10855915,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q12587534,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q12612132,Q15407843,Prime Minister of South Korea,"South Korean appointee, not Head of State",2015-02-17,,2015-04-27,Jung Hong-won,Hwang Kyo-ahn,,,
+Q12612920,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q12615445,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q12617992,Q14850694,Member of National Assembly of South Korea,"",2016-05-30,,,,,,,
+Q15139412,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q16080684,Q14850694,Member of National Assembly of South Korea,"","",,,,,19th Legislative Assembly,Liberty Korea Party,"South Korean legislative election, 2012"
+Q16181809,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q21001,Q14850694,Member of National Assembly of South Korea,"",2012-05-30,Sasang District,2016-05-29,Chang Je-won,Chang Je-won,,,
+Q21001,Q6296418,President of South Korea,Head of State of the Republic of Korea,2017-05-10,,,Hwang Kyo-ahn,,,,
+Q24856317,Q14850694,Member of National Assembly of South Korea,"","",,,,,,,
+Q30093075,Q14850694,Member of National Assembly of South Korea,"","",,,,,20th Legislative Assembly,,
