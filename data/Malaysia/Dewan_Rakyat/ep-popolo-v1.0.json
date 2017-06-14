@@ -341,6 +341,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/RAFIDAHAZIZ.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/RAFIDAHAZIZ.JPG"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (en)",
@@ -8270,10 +8276,6 @@
           "url": "https://en.wikipedia.org/wiki/Abdul_Khalid_Ibrahim"
         },
         {
-          "note": "Wikipedia (id)",
-          "url": "https://id.wikipedia.org/wiki/Abdul_Khalid_Ibrahim"
-        },
-        {
           "note": "Wikipedia (ms)",
           "url": "https://ms.wikipedia.org/wiki/Abdul_Khalid_Ibrahim"
         },
@@ -13987,7 +13989,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/马丽亚马目"
+          "url": "https://zh.wikipedia.org/wiki/茜蒂玛丽亚"
         },
         {
           "note": "wikipedia",
@@ -26368,6 +26370,7 @@
     {
       "birth_date": "1920-09-14",
       "death_date": "1976-06-06",
+      "family_name": "Stephens",
       "gender": "male",
       "given_name": "Mohammad",
       "id": "880bcb6f-8d9c-4030-ab83-72ab96f20f66",
@@ -29081,7 +29084,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/依德里斯哈伦"
+          "url": "https://zh.wikipedia.org/wiki/依德利斯哈伦"
         },
         {
           "note": "wikipedia",
@@ -30425,6 +30428,11 @@
         {
           "lang": "ta",
           "name": "ராபிஸி ராம்லி",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "拉菲兹",
           "note": "multilingual"
         }
       ]
@@ -38552,6 +38560,11 @@
       "name": "George Chan Hong Nam",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "جورج تشن",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "George Chan Hong Nam",
           "note": "multilingual"
@@ -38574,6 +38587,11 @@
         {
           "lang": "id",
           "name": "George Chan Hong Nam",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "George Chen",
           "note": "multilingual"
         },
         {
@@ -46364,6 +46382,11 @@
           "lang": "en",
           "name": "Napsiah Omar",
           "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Napsiah Omar",
+          "note": "multilingual"
         }
       ]
     },
@@ -47311,6 +47334,11 @@
         {
           "lang": "id",
           "name": "Teo Nie Ching",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Teo Zhang",
           "note": "multilingual"
         },
         {
@@ -51143,7 +51171,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -51503,42 +51531,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
