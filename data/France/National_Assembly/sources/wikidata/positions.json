@@ -14599,23 +14599,25 @@
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
+      "title": "maire (of Toulouse)",
       "description": "mayor in France",
       "qualifiers": {
         "P580": "2004-05-06",
         "P1365": "Philippe Douste-Blazy",
         "P582": "2008-03-21",
-        "P1366": "Pierre Cohen"
+        "P1366": "Pierre Cohen",
+        "P642": "Toulouse"
       }
     },
     {
       "id": "Q382617",
       "label": "maire",
-      "title": "maire",
+      "title": "maire (of Toulouse)",
       "description": "mayor in France",
       "qualifiers": {
         "P580": "2014-04-04",
-        "P1365": "Pierre Cohen"
+        "P1365": "Pierre Cohen",
+        "P642": "Toulouse"
       }
     },
     {
@@ -15734,8 +15736,8 @@
   "Q379229": [
     {
       "id": "Q16059954",
-      "label": "Minister of National Education (France)",
-      "title": "Minister of National Education (France)",
+      "label": "Minister of National Education",
+      "title": "Minister of National Education",
       "description": "head of the ministry of education in France, part of the French government",
       "qualifiers": {
         "P580": "2000-03-27",
@@ -27579,8 +27581,8 @@
   "Q12963": [
     {
       "id": "Q16059954",
-      "label": "Minister of National Education (France)",
-      "title": "Minister of National Education (France)",
+      "label": "Minister of National Education",
+      "title": "Minister of National Education",
       "description": "head of the ministry of education in France, part of the French government",
       "qualifiers": {
         "P580": "1993-03-29",
@@ -27871,7 +27873,7 @@
         "P768": "Q3142944",
         "P580": "2012-06-20",
         "P582": "2012-06-30",
-        "P1534": "11 june 2017"
+        "P1534": "death"
       }
     }
   ],
@@ -34633,8 +34635,8 @@
     },
     {
       "id": "Q16059954",
-      "label": "Minister of National Education (France)",
-      "title": "Minister of National Education (France)",
+      "label": "Minister of National Education",
+      "title": "Minister of National Education",
       "description": "head of the ministry of education in France, part of the French government",
       "qualifiers": {
         "P582": "2005-06-02",
