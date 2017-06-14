@@ -53,12 +53,12 @@ a038456a-0ca4-4b87-b1f6-64ecfae96bee,Gerry McHugh,Gerry McHugh,,,,Sinn Féin,sin
 bcb619c2-5d73-4f33-8485-afa6dde4cdc9,Gregory Campbell,Gregory Campbell,,,,DUP,dup,uk.org.publicwhip/cons/197-NI,East Londonderry,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/4/42/GregoryCampell.jpg,male
 6732c6df-fec3-4416-a9ab-b28db8f842b8,Ian Adamson,Ian Adamson,,,,UUP,uup,uk.org.publicwhip/cons/35-NI,Belfast East,Northern Ireland Assembly,1,,,,male
 0f9fc03b-1408-47ed-9089-c60606d5aa1c,Ian Paisley,Ian Paisley,,,,DUP,dup,uk.org.publicwhip/cons/402-NI,North Antrim,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/e/eb/DrIanPaisley.jpg,male
-8fd9ad33-564c-4f27-b89b-64e436c64ae8,Ian Paisley Jnr,Ian Paisley Jnr,,,,DUP,dup,uk.org.publicwhip/cons/402-NI,North Antrim,Northern Ireland Assembly,1,,,"https://upload.wikimedia.org/wikipedia/commons/3/3e/Ian_Paisley,_Jr..jpg",male
+8fd9ad33-564c-4f27-b89b-64e436c64ae8,Ian Paisley Jnr,Ian Paisley Jnr,,ianpaisleymp,,DUP,dup,uk.org.publicwhip/cons/402-NI,North Antrim,Northern Ireland Assembly,1,,,"https://upload.wikimedia.org/wikipedia/commons/3/3e/Ian_Paisley,_Jr..jpg",male
 6318edc4-36e6-42aa-95b1-4cefaa2e7baa,Iris Robinson,Iris Robinson,,,,DUP,dup,uk.org.publicwhip/cons/557-NI,Strangford,Northern Ireland Assembly,1,,,,female
 6a55ad65-962e-42e1-943c-40a42cdb0fd4,Ivan Davis,Ivan Davis,,,,UUP,uup,uk.org.publicwhip/cons/325-NI,Lagan Valley,Northern Ireland Assembly,1,,,,male
 51ab9f21-7743-49ff-b391-d6f41a167635,James Leslie,James Leslie,,,,UUP,uup,uk.org.publicwhip/cons/402-NI,North Antrim,Northern Ireland Assembly,1,,,,male
 2267657d-66b8-4694-93e3-4fe70fbfc79c,Jane Morrice,Jane Morrice,,,,NIWC,niwc,uk.org.publicwhip/cons/406-NI,North Down,Northern Ireland Assembly,1,,,,female
-ef802218-ad8c-4f84-a8b2-9bc3f1b3a277,Jim Shannon,Jim Shannon,,,,DUP,dup,uk.org.publicwhip/cons/557-NI,Strangford,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/b/b7/JimShannon.jpg,male
+ef802218-ad8c-4f84-a8b2-9bc3f1b3a277,Jim Shannon,Jim Shannon,,JimShannonMP,,DUP,dup,uk.org.publicwhip/cons/557-NI,Strangford,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/b/b7/JimShannon.jpg,male
 a657493a-caef-4aba-95d7-a125287c036c,Jim Wells,Jim Wells,,,,DUP,dup,uk.org.publicwhip/cons/519-NI,South Down,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/5/5c/Jim_Wells_DUP.jpg,male
 90c1927b-8119-469b-861c-df16a561973b,Jim Wilson,Jim Wilson,,,,UUP,uup,uk.org.publicwhip/cons/515-NI,South Antrim,Northern Ireland Assembly,1,,,,male
 722eaed1-d44e-4855-be4f-f2e8903d23a4,Joan Carson,Joan Carson,,,,UUP,uup,uk.org.publicwhip/cons/231-NI,Fermanagh and South Tyrone,Northern Ireland Assembly,1,,,,female
@@ -111,7 +111,7 @@ d819aab4-d610-4619-a6d6-48061df9fb76,Peter Robinson,Peter Robinson,,,,DUP,dup,uk
 7f99a516-25bc-48ca-8ee7-30317d5a8653,Roger Hutchinson,Roger Hutchinson,,,,DUP,dup,uk.org.publicwhip/cons/192-NI,East Antrim,Northern Ireland Assembly,1,,,,male
 9091a64b-281c-425a-b044-8691dcf18053,Roy Beggs,Roy Beggs,,,,UUP,uup,uk.org.publicwhip/cons/192-NI,East Antrim,Northern Ireland Assembly,1,,,,male
 f6b6ae3b-0a85-405d-9c39-2943d803cbc5,Sam Foster,Sam Foster,,,,UUP,uup,uk.org.publicwhip/cons/231-NI,Fermanagh and South Tyrone,Northern Ireland Assembly,1,,,,male
-4b75917c-54a4-4c7b-a5d9-3f568accb9a7,Sammy Wilson,Sammy Wilson,,,,DUP,dup,uk.org.publicwhip/cons/35-NI,Belfast East,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/8/8a/SammyWilson.jpg,male
+4b75917c-54a4-4c7b-a5d9-3f568accb9a7,Sammy Wilson,Sammy Wilson,,eastantrimmp,sammywilsonmp,DUP,dup,uk.org.publicwhip/cons/35-NI,Belfast East,Northern Ireland Assembly,1,,,https://upload.wikimedia.org/wikipedia/commons/8/8a/SammyWilson.jpg,male
 e1339715-afeb-439c-bc35-5db78cde7e3b,Seamus Close,Seamus Close,,,,Alliance,alliance,uk.org.publicwhip/cons/325-NI,Lagan Valley,Northern Ireland Assembly,1,,,,male
 54f1e598-c4c7-494c-8403-7020612f6ef9,Seamus Mallon,Seamus Mallon,,,,Social Democratic and Labour Party,social-democratic-and-labour-party,uk.org.publicwhip/cons/400-NI,Newry and Armagh,Northern Ireland Assembly,1,,,,male
 69d1f1b3-f198-4678-b1da-e2e6c018f6d3,Sean Farren,Sean Farren,,,,Social Democratic and Labour Party,social-democratic-and-labour-party,uk.org.publicwhip/cons/402-NI,North Antrim,Northern Ireland Assembly,1,,,,male

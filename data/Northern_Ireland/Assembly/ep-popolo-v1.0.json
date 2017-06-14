@@ -3467,6 +3467,11 @@
       "name": "Brian Wilson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "برايان ويلسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Brian Wilson",
           "note": "multilingual"
@@ -4301,6 +4306,10 @@
           "url": "https://es.wikipedia.org/wiki/Arlene_Foster"
         },
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Arlene_Foster"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Arlene_Foster"
         },
@@ -4327,6 +4336,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Arlene_Foster"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Фостер,_Арлин"
         },
         {
           "note": "Wikipedia (tr)",
@@ -6233,7 +6246,15 @@
       ]
     },
     {
+      "birth_date": "1982-01-01",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "elishamcc_sf"
+        }
+      ],
       "gender": "female",
+      "given_name": "Elisha",
       "id": "4792896d-4b89-4ce5-8c91-2151e4823529",
       "identifiers": [
         {
@@ -6255,6 +6276,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Elisha_McCallion"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/elishamcc_sf"
         }
       ],
       "name": "Elisha McCallion",
@@ -6421,6 +6446,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nigel_Dodds"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nigel_Dodds"
         },
         {
           "note": "Wikipedia (sv)",
@@ -6840,6 +6869,12 @@
     },
     {
       "birth_date": "1953-04-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "eastantrimmp"
+        }
+      ],
       "family_name": "Wilson",
       "gender": "male",
       "given_name": "Sammy",
@@ -6894,14 +6929,78 @@
           "url": "https://enwikiquote.wikipedia.org/wiki/Sammy_Wilson"
         },
         {
-          "note": "website",
-          "url": "https://www.parliament.uk/biographies/commons/Sammy-Wilson/1593"
+          "note": "facebook",
+          "url": "https://facebook.com/sammywilsonmp"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/eastantrimmp"
         }
       ],
       "name": "Sammy Wilson",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
           "name": "Sammy Wilson",
           "note": "multilingual"
         },
@@ -6911,7 +7010,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Sammy Wilson",
           "note": "multilingual"
         },
@@ -6921,7 +7050,67 @@
           "note": "multilingual"
         },
         {
+          "lang": "frp",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Sammy Wilson",
           "note": "multilingual"
         },
@@ -6931,7 +7120,142 @@
           "note": "multilingual"
         },
         {
+          "lang": "kg",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
           "name": "Sammy Wilson",
           "note": "multilingual"
         },
@@ -6941,8 +7265,48 @@
           "note": "multilingual"
         },
         {
+          "lang": "sw",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Sammy Wilson",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "薩米·威爾遜",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Sammy Wilson",
           "note": "multilingual"
         }
       ]
@@ -9252,6 +9616,12 @@
     },
     {
       "birth_date": "1959-02-16",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "DavidSimpsonDUP"
+        }
+      ],
       "gender": "male",
       "given_name": "David",
       "id": "62479dcd-b981-4a57-8a11-b8f8b17249fb",
@@ -9297,6 +9667,10 @@
           "url": "https://en.wikipedia.org/wiki/David_Simpson_(British_politician)"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/DavidSimpsonDUP"
+        },
+        {
           "note": "website",
           "url": "http://www.mydup.com/who-we-are/david-simpson"
         }
@@ -9304,7 +9678,67 @@
       "name": "David Simpson",
       "other_names": [
         {
+          "lang": "af",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
           "name": "David Simpson",
           "note": "multilingual"
         },
@@ -9314,7 +9748,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "David Simpson",
           "note": "multilingual"
         },
@@ -9324,7 +9788,67 @@
           "note": "multilingual"
         },
         {
+          "lang": "frp",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "David Simpson",
           "note": "multilingual"
         },
@@ -9334,12 +9858,187 @@
           "note": "multilingual"
         },
         {
+          "lang": "kg",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "David Simpson",
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "David Simpson",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "David Simpson",
           "note": "multilingual"
         }
@@ -12810,6 +13509,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "רובין סוואן",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Robin Swann",
           "note": "multilingual"
@@ -13263,6 +13967,12 @@
     },
     {
       "birth_date": "1966-12-12",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "ianpaisleymp"
+        }
+      ],
       "family_name": "Paisley",
       "gender": "male",
       "given_name": "Ian",
@@ -13325,8 +14035,12 @@
           "url": "https://la.wikipedia.org/wiki/Ioannes_Paisley_iunior"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/ianpaisleymp"
+        },
+        {
           "note": "website",
-          "url": "http://www.ipjr.net/"
+          "url": "http://ianpaisleymp.co.uk"
         }
       ],
       "name": "Ian Paisley Jnr",
@@ -13868,6 +14582,11 @@
       ],
       "name": "Jim Wilson",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "جيم ويلسون",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Jim Wilson",
@@ -15389,6 +16108,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "קולום איסטווד",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
           "name": "Colum Eastwood",
           "note": "multilingual"
@@ -15989,6 +16713,11 @@
       ],
       "name": "Martina Anderson",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "مارتينا أندرسون",
+          "note": "multilingual"
+        },
         {
           "lang": "ca",
           "name": "Martina Anderson",
@@ -18707,7 +19436,22 @@
           "note": "multilingual"
         },
         {
+          "lang": "de-ch",
+          "name": "Maurice Morrow, Baron Morrow",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Maurice Morrow, Baron Morrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Maurice Morrow, Baron Morrow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
           "name": "Maurice Morrow, Baron Morrow",
           "note": "multilingual"
         },
@@ -18883,6 +19627,11 @@
         {
           "lang": "fr",
           "name": "Naomi Long",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "נעמי לונג",
           "note": "multilingual"
         },
         {
@@ -20281,6 +21030,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Gerard Kelly",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Gerry Kelly",
           "note": "multilingual"
@@ -21235,6 +21989,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Danny Kennedy",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Danny Kennedy",
           "note": "multilingual"
@@ -21327,6 +22086,12 @@
     },
     {
       "birth_date": "1955-03-25",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "JimShannonMP"
+        }
+      ],
       "gender": "male",
       "given_name": "Jim",
       "id": "ef802218-ad8c-4f84-a8b2-9bc3f1b3a277",
@@ -21376,6 +22141,10 @@
           "url": "https://en.wikipedia.org/wiki/Jim_Shannon"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/JimShannonMP"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.uk/biographies/commons/jim-shannon/4131"
         }
@@ -21383,7 +22152,67 @@
       "name": "Jim Shannon",
       "other_names": [
         {
+          "lang": "af",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
           "name": "Jim Shannon",
           "note": "multilingual"
         },
@@ -21393,7 +22222,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "en-ca",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
           "lang": "es",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Jim Shannon",
           "note": "multilingual"
         },
@@ -21403,7 +22262,67 @@
           "note": "multilingual"
         },
         {
+          "lang": "frp",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
           "name": "Jim Shannon",
           "note": "multilingual"
         },
@@ -21413,12 +22332,187 @@
           "note": "multilingual"
         },
         {
+          "lang": "kg",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Jim Shannon",
           "note": "multilingual"
         },
         {
+          "lang": "nn",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Jim Shannon",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Jim Shannon",
           "note": "multilingual"
         }
@@ -23414,18 +24508,8 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Parti unioniste democrate",
-          "note": "multilingual"
-        },
-        {
           "lang": "es",
           "name": "Partido Unionista Democratico",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "DUP",
           "note": "multilingual"
         },
         {
