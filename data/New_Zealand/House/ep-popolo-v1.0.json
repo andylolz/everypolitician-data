@@ -8601,6 +8601,10 @@
           "url": "https://sq.wikipedia.org/wiki/Bill_English"
         },
         {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Бил_Инглиш"
+        },
+        {
           "note": "Wikipedia (th)",
           "url": "https://th.wikipedia.org/wiki/บิลล์_อิงกลิช"
         },
@@ -10062,6 +10066,11 @@
       ],
       "name": "Margaret Wilson",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "مارغريت ويلسون",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Margaret Wilson",
@@ -12636,6 +12645,11 @@
       ],
       "name": "Andrew Williams",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "أندرو وليامز",
+          "note": "multilingual"
+        },
         {
           "lang": "ca",
           "name": "Andrew Williams",
@@ -16231,6 +16245,11 @@
         },
         {
           "lang": "hu",
+          "name": "Shane Jones",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Shane Jones",
           "note": "multilingual"
         },
