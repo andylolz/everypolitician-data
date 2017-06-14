@@ -393,6 +393,21 @@
         "note": "multilingual"
       },
       {
+        "lang": "ru",
+        "name": "ФНО",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "ФЛН",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "FLN",
+        "note": "multilingual"
+      },
+      {
         "lang": "tr",
         "name": "Milli Kurtulus Cephesi",
         "note": "multilingual"
@@ -528,7 +543,8 @@
         "url": "http://www.pfln.dz",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
   },
   "rassemblement_national_democratique": {
     "identifiers": [
@@ -1099,7 +1115,7 @@
       },
       {
         "lang": "sv",
-        "name": "Partilös",
+        "name": "partilös",
         "note": "multilingual"
       },
       {
@@ -1144,7 +1160,7 @@
       },
       {
         "lang": "fi",
-        "name": "Sitoutumaton",
+        "name": "sitoutumaton",
         "note": "multilingual"
       },
       {
@@ -1459,42 +1475,42 @@
       },
       {
         "lang": "sv",
-        "name": "Vänstervilde",
+        "name": "vänstervilde",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Liberal vilde",
+        "name": "liberal vilde",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Moderat vilde",
+        "name": "moderat vilde",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Politiska vildar",
+        "name": "politiska vildar",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Obunden",
+        "name": "obunden",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Politisk vilde",
+        "name": "politisk vilde",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Frisinnad vilde",
+        "name": "frisinnad vilde",
         "note": "multilingual"
       },
       {
         "lang": "sv",
-        "name": "Högervilde",
+        "name": "högervilde",
         "note": "multilingual"
       },
       {
