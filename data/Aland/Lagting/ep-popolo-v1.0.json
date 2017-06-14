@@ -49,6 +49,11 @@
           "note": "alternate"
         },
         {
+          "lang": "ar",
+          "name": "أندرس أريكسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Anders Eriksson",
           "note": "multilingual"
@@ -796,6 +801,7 @@
         }
       ],
       "email": "gun.carlson@lagtinget.ax",
+      "family_name": "Carlson",
       "gender": "female",
       "given_name": "Gun",
       "id": "3fdb5680-ddd6-4c06-a199-6a3a76327ece",
