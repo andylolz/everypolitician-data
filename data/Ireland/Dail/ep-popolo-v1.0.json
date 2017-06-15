@@ -4026,6 +4026,11 @@
       "name": "Paul Murphy",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "بول ميرفي",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Paul Murphy",
           "note": "multilingual"
@@ -4806,7 +4811,7 @@
         },
         {
           "lang": "he",
-          "name": "אינדה קני",
+          "name": "אנדה קני",
           "note": "multilingual"
         },
         {
@@ -8505,6 +8510,10 @@
           "url": "https://simple.wikipedia.org/wiki/Leo_Varadkar"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Leo_Varadkar"
+        },
+        {
           "note": "Wikipedia (ta)",
           "url": "https://ta.wikipedia.org/wiki/லியோ_வரத்கர்"
         },
@@ -8664,6 +8673,11 @@
         },
         {
           "lang": "ro",
+          "name": "Leo Varadkar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Leo Varadkar",
           "note": "multilingual"
         },
@@ -10871,6 +10885,11 @@
         {
           "lang": "ga",
           "name": "Marcella Corcoran Kennedy",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marcella Kennedy",
           "note": "multilingual"
         },
         {
@@ -14828,6 +14847,10 @@
           "url": "https://ga.wikipedia.org/wiki/Michael_Ring"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Michael_Ring"
+        },
+        {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Michael_Ring"
         },
@@ -16004,7 +16027,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Seán_Barrett_(Fine_Gael)"
+          "url": "https://en.wikipedia.org/wiki/Seán_Barrett_(politician)"
         },
         {
           "note": "Wikipedia (ga)",
@@ -17557,6 +17580,10 @@
           "url": "https://ga.wikipedia.org/wiki/Regina_Doherty"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Regina_Doherty"
+        },
+        {
           "note": "website",
           "url": "http://www.reginadoherty.com"
         }
@@ -18946,6 +18973,10 @@
         {
           "note": "Wikipedia (ga)",
           "url": "https://ga.wikipedia.org/wiki/Eoghan_Murphy"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Eoghan_Murphy"
         },
         {
           "note": "twitter",
@@ -24279,7 +24310,7 @@
         },
         {
           "lang": "de",
-          "name": "Anti-Austerity Alliance",
+          "name": "Solidarity (Partei)",
           "note": "multilingual"
         },
         {
