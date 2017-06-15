@@ -7124,6 +7124,23 @@
       }
     }
   ],
+  "Q515115": [
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P580": "2007-06-17",
+        "P582": "2011-05-04",
+        "P1365": "Jean-Yves Le Drian",
+        "P1366": "Gwendal Rouillard",
+        "P2937": "13th Legislature",
+        "P768": "Morbihan's 5th constituency",
+        "P2715": "French legislative election, 2007",
+        "P1534": "death in office"
+      }
+    }
+  ],
   "Q3165874": [
     {
       "id": "Q3044918",
