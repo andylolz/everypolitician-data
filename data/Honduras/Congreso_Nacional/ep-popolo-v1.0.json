@@ -1828,15 +1828,63 @@
       "name": "Midence Martínez"
     },
     {
+      "birth_date": "1947-02-25",
       "gender": "male",
+      "given_name": "José",
       "id": "f59719c0-c21f-4fda-a0c6-d83d7e1b7b4b",
       "identifiers": [
         {
           "identifier": "josé_oswaldo_ramos_soto",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20994878",
+          "scheme": "wikidata"
         }
       ],
-      "name": "José Oswaldo Ramos Soto"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Oswaldo_Ramos_Soto"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/José_Oswaldo_Ramos_Soto"
+        }
+      ],
+      "name": "José Oswaldo Ramos Soto",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Oswaldo Ramos Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oswaldo Ramos Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "José Oswaldo Ramos Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oswaldo Ramos Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "José Oswaldo Ramos Soto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oswaldo Ramos Soto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "f6813c16-b361-4694-bf61-16a73499045b",
