@@ -500,8 +500,32 @@
     },
     {
       "gender": "female",
+      "given_name": "Veronica",
       "id": "0cc7eeba-f10c-4a8c-a0e4-339a1610bfe3",
+      "identifiers": [
+        {
+          "identifier": "Q28865307",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Veronica Carolina Couly",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Veronica Couly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Veronica Carolina Couly",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Veronica Couly",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Couly, Veronica Carolina"
     },
     {
@@ -17893,8 +17917,32 @@
       "sort_name": "Roberti, Alberto Oscar"
     },
     {
+      "gender": "female",
       "id": "c591f65f-27de-4fab-9f9e-0bc4ef0cb5ee",
+      "identifiers": [
+        {
+          "identifier": "Q28865310",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Orieta Cecilia Vera Gonzalez",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Orieta Cecilia Vera Gonzalez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Orieta Cecilia Vera Gonzalez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Orieta Cecilia Vera Gonzalez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Vera Gonzalez, Orieta Cecilia"
     },
     {
@@ -23158,7 +23206,30 @@
     {
       "classification": "party",
       "id": "party/frente_civico_por_santiago",
-      "name": "FRENTE CIVICO POR SANTIAGO"
+      "identifiers": [
+        {
+          "identifier": "Q3088428",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "FRENTE CIVICO POR SANTIAGO",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Front civique pour Santiago",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Civic Front for Santiago",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Frente Cívico por Santiago",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "classification": "party",

@@ -900,6 +900,31 @@
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Logo_PS.jpg"
   },
+  "frente_civico_por_santiago": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3088428"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fr",
+        "name": "Front civique pour Santiago",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Civic Front for Santiago",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Cívico por Santiago",
+        "note": "multilingual"
+      }
+    ]
+  },
   "compromiso_federal": {
     "identifiers": [
       {
