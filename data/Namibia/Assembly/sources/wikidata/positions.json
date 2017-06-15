@@ -163,6 +163,11 @@
       "id": "Q4294412",
       "label": "Ministry of Information and Broadcasting",
       "title": "Ministry of Information and Broadcasting"
+    },
+    {
+      "id": "Q30277603",
+      "label": "Member of the Pan-African Parliament",
+      "title": "Member of the Pan-African Parliament"
     }
   ],
   "Q7395683": [
@@ -184,6 +189,13 @@
       "label": "defence minister",
       "title": "defence minister",
       "description": "minister in charge of defence affairs"
+    }
+  ],
+  "Q7849929": [
+    {
+      "id": "Q30277603",
+      "label": "Member of the Pan-African Parliament",
+      "title": "Member of the Pan-African Parliament"
     }
   ],
   "Q404678": [
