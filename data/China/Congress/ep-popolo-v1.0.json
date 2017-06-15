@@ -675,14 +675,43 @@
       "name": "张晓山"
     },
     {
+      "birth_date": "1961",
+      "death_date": "2017-01-21",
       "id": "03cb928d-f133-4b04-a293-d003f26d588f",
       "identifiers": [
         {
           "identifier": "戴天荣",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q9142953",
+          "scheme": "wikidata"
         }
       ],
-      "name": "戴天荣"
+      "links": [
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/戴天荣"
+        }
+      ],
+      "name": "戴天荣",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Dai Tianrong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dai Tianrong",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "戴天荣",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "03f20a86-233b-452f-b893-d86ed9715822",
