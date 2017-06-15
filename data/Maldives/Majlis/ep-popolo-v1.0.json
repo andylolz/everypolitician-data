@@ -276,14 +276,42 @@
       "name": "Ali MOHAMED"
     },
     {
+      "death_date": "2007-12-25",
+      "gender": "male",
       "id": "3561cbdf-1c1f-4136-82c9-6a5cc82f58a8",
       "identifiers": [
         {
           "identifier": "ali_saleem",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q7403838",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ali SALEEM"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Saleem_Ali_(politician)"
+        }
+      ],
+      "name": "Ali SALEEM",
+      "other_names": [
+        {
+          "name": "Saleem Ali",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Saleem Ali",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Saleem Ali",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "38717672-61e7-451f-8b84-41c02cc73f23",
