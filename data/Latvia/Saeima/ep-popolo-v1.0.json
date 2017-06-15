@@ -21336,6 +21336,10 @@
           "scheme": "lnb"
         },
         {
+          "identifier": "799/000162313",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "308249015",
           "scheme": "viaf"
         },
@@ -25688,6 +25692,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Valdis Skujiņš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Valdis Skujiņš",
           "note": "multilingual"
         }
@@ -35179,6 +35188,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Valters Dambe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Valters Dambe",
           "note": "multilingual"
         }
@@ -45678,7 +45692,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -46038,42 +46052,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
