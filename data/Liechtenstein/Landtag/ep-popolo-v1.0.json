@@ -663,6 +663,7 @@
       ]
     },
     {
+      "birth_date": "1977-04-24",
       "contact_details": [
         {
           "type": "email",
@@ -670,8 +671,43 @@
         }
       ],
       "email": "daniel.seger@landtag.li",
+      "family_name": "Seger",
+      "gender": "male",
+      "given_name": "Daniel",
       "id": "1dcd3d33-931d-49cf-a002-591e0f5264f4",
-      "name": "Seger Daniel"
+      "identifiers": [
+        {
+          "identifier": "7726",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q28870270",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Daniel_F._Seger"
+        }
+      ],
+      "name": "Seger Daniel",
+      "other_names": [
+        {
+          "name": "Daniel F. Seger",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Daniel F. Seger",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniel F. Seger",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-08-30",
@@ -1052,6 +1088,7 @@
       ]
     },
     {
+      "birth_date": "1973-01-12",
       "contact_details": [
         {
           "type": "email",
@@ -1059,8 +1096,1138 @@
         }
       ],
       "email": "mario.wohlwend@landtag.li",
+      "gender": "male",
+      "given_name": "Mario",
       "id": "2e496fff-336e-423d-9c17-673f7d6fed0e",
-      "name": "Wohlwend Mario"
+      "identifiers": [
+        {
+          "identifier": "Q28870141",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mario_Wohlwend"
+        }
+      ],
+      "name": "Wohlwend Mario",
+      "other_names": [
+        {
+          "name": "Mario Wohlwend",
+          "note": "alternate"
+        },
+        {
+          "lang": "aa",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "af",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ak",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "aln",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ang",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ay",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "az",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bcl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bjn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "brh",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cbk-zam",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cdo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ceb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ch",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cho",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "chr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "chy",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "crh-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "csb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "diq",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dsb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "dtp",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ee",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eml",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ext",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ff",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fit",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fj",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fy",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gag",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "got",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ha",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "haw",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hif-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ho",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hsb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ht",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hz",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ig",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ik",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ike-cans",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ike-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ilo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "iu",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jbo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jv",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kaa",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ki",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kj",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-kz",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kk-tr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "krj",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ksh",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ku",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lad",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lg",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ln",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "loz",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ltg",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lus",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lzz",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "map-bms",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mt",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mus",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mwl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "na",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nah",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ng",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nov",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nso",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nv",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ny",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "om",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pag",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pam",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pdc",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pdt",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pfl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pih",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qu",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "qug",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rif",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rmy",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "roa-tara",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rup",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ruq",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ruq-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rw",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sat",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sdc",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sei",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sg",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sgs",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "shi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "shi-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sli",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sm",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "srn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "st",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "stq",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "szl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tet",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tg-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tk",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "to",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tokipona",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tpi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tru",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ts",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tum",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ty",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ug-latn",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ve",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vep",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vot",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "war",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "xh",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "za",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zea",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Mario Wohlwend",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-05-09",
@@ -1924,6 +3091,7 @@
       ]
     },
     {
+      "birth_date": "1982-06-10",
       "contact_details": [
         {
           "type": "email",
@@ -1931,8 +3099,37 @@
         }
       ],
       "email": "johannes.hasler@landtag.li",
+      "gender": "male",
       "id": "6ba9e125-feed-4d69-ad90-45b471f17b50",
-      "name": "Hasler Johannes"
+      "identifiers": [
+        {
+          "identifier": "Q28870266",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Johannes_Hasler"
+        }
+      ],
+      "name": "Hasler Johannes",
+      "other_names": [
+        {
+          "name": "Johannes Hasler",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Johannes Hasler",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Johannes Hasler",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-04-21",
@@ -2105,6 +3302,7 @@
       ]
     },
     {
+      "birth_date": "1961-08-17",
       "contact_details": [
         {
           "type": "email",
@@ -2112,8 +3310,48 @@
         }
       ],
       "email": "guenter.vogt@landtag.li",
+      "family_name": "Vogt",
+      "gender": "male",
+      "given_name": "Günter",
       "id": "7c9e4123-146e-4a97-a388-ea5704671c7a",
-      "name": "Vogt Günter"
+      "identifiers": [
+        {
+          "identifier": "7727",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q29380602",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Günter_Vogt"
+        }
+      ],
+      "name": "Vogt Günter",
+      "other_names": [
+        {
+          "name": "Günter Vogt",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Günter Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Günter Vogt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Günter Vogt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-12-08",
@@ -2176,6 +3414,7 @@
       ]
     },
     {
+      "birth_date": "1960-06-10",
       "contact_details": [
         {
           "type": "email",
@@ -2183,8 +3422,48 @@
         }
       ],
       "email": "susanne.eberle-strub@landtag.li",
+      "family_name": "Strub",
+      "gender": "female",
+      "given_name": "Susanne",
       "id": "968972c5-7adc-49d8-8938-94c11b87e5c7",
-      "name": "Eberle-Strub Susanne"
+      "identifiers": [
+        {
+          "identifier": "7724",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q28870267",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Susanne_Eberle-Strub"
+        }
+      ],
+      "name": "Eberle-Strub Susanne",
+      "other_names": [
+        {
+          "name": "Susanne Eberle-Strub",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Susanne Eberle-Strub",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Susanne Eberle-Strub",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Susanne Eberle-Strub",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2194,8 +3473,37 @@
         }
       ],
       "email": "daniel.oehry@landtag.li",
+      "gender": "male",
       "id": "9cda707b-a494-4b53-bb62-a31efa8528ee",
-      "name": "Oehry Daniel"
+      "identifiers": [
+        {
+          "identifier": "Q28870268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Daniel_Oehry"
+        }
+      ],
+      "name": "Oehry Daniel",
+      "other_names": [
+        {
+          "name": "Daniel Oehry",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Daniel Oehry",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniel Oehry",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-08-10",
@@ -2729,8 +4037,37 @@
         }
       ],
       "email": "gunilla.marxer-kranz@landtag.li",
+      "gender": "female",
       "id": "b094819e-e356-4ebc-bca3-66fc4a2b9daa",
-      "name": "Marxer-Kranz Gunilla"
+      "identifiers": [
+        {
+          "identifier": "Q28870122",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Gunilla_Marxer-Kranz"
+        }
+      ],
+      "name": "Marxer-Kranz Gunilla",
+      "other_names": [
+        {
+          "name": "Gunilla Marxer-Kranz",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Gunilla Marxer-Kranz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Gunilla Marxer-Kranz",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-09-07",
@@ -3490,8 +4827,37 @@
         }
       ],
       "email": "georg.kaufmann@landtag.li",
+      "gender": "male",
       "id": "db2077a9-8e94-442c-827e-1283ff57c6e7",
-      "name": "Kaufmann Georg"
+      "identifiers": [
+        {
+          "identifier": "Q28870283",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Georg_Kaufmann_(Politiker)"
+        }
+      ],
+      "name": "Kaufmann Georg",
+      "other_names": [
+        {
+          "name": "Georg Kaufmann",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Georg Kaufmann",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Georg Kaufmann",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1941-12-23",
