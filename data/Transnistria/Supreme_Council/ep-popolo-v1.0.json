@@ -88,6 +88,16 @@
       "name": "ВАСИЛЬЕВ Илья Иванович"
     },
     {
+      "id": "1b3e1bb0-5475-4119-9066-816ad9f1291a",
+      "image": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057048056053124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУЧЕРЕНКО Юрий Юрьевич"
+    },
+    {
       "id": "1d6d4963-a5ee-4d46-bb28-ed3d3cb6142f",
       "image": "http://vspmr.org/im.xp/049054053048056124049048048124049053048124049.jpg",
       "images": [
@@ -826,6 +836,16 @@
       "name": "БУГА Игорь Семенович"
     },
     {
+      "id": "dfb7031b-2fe0-42e4-9ff3-7d3adbefe21d",
+      "image": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057050055050124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "НЕДЕЛКОВ Иван Васильевич"
+    },
+    {
       "id": "ecb5e21a-c89a-40d0-9c2c-cf99635a793b",
       "identifiers": [
         {
@@ -840,6 +860,16 @@
         }
       ],
       "name": "СОИН Дмитрий Юрьевич"
+    },
+    {
+      "id": "f27a6ebe-9372-4af1-9bb2-bf8795279d28",
+      "image": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg",
+      "images": [
+        {
+          "url": "http://vspmr.org/im.xp/052057051048048124049048048124049053048124049.jpg"
+        }
+      ],
+      "name": "КУНИЦКИЙ Василий Анатольевич"
     },
     {
       "id": "f7ecb9a4-770c-4358-b47a-7ac1af87f3dd",
@@ -1027,6 +1057,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/vasiljev-iljya-ivanovich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/2",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "1b3e1bb0-5475-4119-9066-816ad9f1291a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kucherenko-yuriy-yurjevich/"
         }
       ]
     },
@@ -1939,6 +1982,19 @@
       ]
     },
     {
+      "area_id": "area/31",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "dfb7031b-2fe0-42e4-9ff3-7d3adbefe21d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/nedelkov-ivan-vasiljevich/"
+        }
+      ]
+    },
+    {
       "area_id": "area/38",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "party/unknown",
@@ -1948,6 +2004,19 @@
       "sources": [
         {
           "url": "http://vspmr.org/structure/deputies/soin-dmitriy-yurjevich/"
+        }
+      ]
+    },
+    {
+      "area_id": "area/22",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "party/unknown",
+      "organization_id": "85818632-502f-4e63-ad5e-74073936b289",
+      "person_id": "f27a6ebe-9372-4af1-9bb2-bf8795279d28",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://vspmr.org/structure/deputies/kunitskiy-vasiliy-anatoljevich/"
         }
       ]
     },
