@@ -3839,6 +3839,10 @@
           "scheme": "munzinger"
         },
         {
+          "identifier": "822/000120462",
+          "scheme": "nndb"
+        },
+        {
           "identifier": "136682219",
           "scheme": "sudoc"
         },
@@ -4965,6 +4969,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Dory_Szamun"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шамун,_Дори"
         }
       ],
       "name": "Dory Chamoun",
