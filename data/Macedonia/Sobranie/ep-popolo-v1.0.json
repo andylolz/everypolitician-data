@@ -524,21 +524,187 @@
       "name": "Liljana Zaturoska"
     },
     {
+      "birth_date": "1959-01-04",
       "gender": "male",
+      "given_name": "Ali",
       "id": "31be7a64-8b23-4a10-844a-ef23bf410cc4",
       "identifiers": [
         {
           "identifier": "ali-ahmeti",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/015z1y",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "1012811336",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "n2015001323",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000024263",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "171907059",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q260196",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg",
       "images": [
         {
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ali--Ahmeti.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ali_Ahmeti.jpg"
         }
       ],
-      "name": "Ali Ahmeti"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Али_Ахмети"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αλί_Αχμέτι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Али_Ахмети"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ali_Ahmeti"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ахмети,_Али"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Ali_Ahmeti_(politikan)"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Алі_Ахметі"
+        }
+      ],
+      "name": "Ali Ahmeti",
+      "other_names": [
+        {
+          "name": "Али Ахмети",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Али Ахмети",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αλί Αχμέτι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アリ・アフメティ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Али Ахмети",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Али Ахмети",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Ali Ahmeti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Алі Ахметі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿里·阿赫麥提",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-03-03",
@@ -932,11 +1098,18 @@
       "name": "Vladanka Avirovik"
     },
     {
+      "birth_date": "1965-03-31",
+      "gender": "female",
+      "given_name": "Svetlana",
       "id": "5a8847f0-430c-4602-af38-466167a20c78",
       "identifiers": [
         {
           "identifier": "svetlana-karapetrova",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30306429",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Svetlana-Karapetrova.jpg",
@@ -945,7 +1118,14 @@
           "url": "http://www.sobranie.mk/content/images/pratenici%20sliki%2014-18/Svetlana-Karapetrova.jpg"
         }
       ],
-      "name": "Svetlana Karapetrova"
+      "name": "Svetlana Karapetrova",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Svetlana Karapetrova",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -1737,12 +1917,18 @@
       "name": "Svetlana Jakimovska"
     },
     {
+      "birth_date": "1980-08-10",
       "gender": "male",
+      "given_name": "Ilija",
       "id": "d482e080-b0ff-486b-b3cc-4b934804cd7f",
       "identifiers": [
         {
           "identifier": "ilija-dimovski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q5998182",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg",
@@ -1751,7 +1937,30 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ilija-Dimovski.jpg"
         }
       ],
-      "name": "Ilija Dimovski"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ilija_Dimovski"
+        }
+      ],
+      "name": "Ilija Dimovski",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ilija Dimovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ilija Dimovski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ilija Dimovski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
