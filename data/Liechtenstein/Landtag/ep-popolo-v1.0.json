@@ -4,6 +4,7 @@
   ],
   "persons": [
     {
+      "birth_date": "1971-01-21",
       "contact_details": [
         {
           "type": "email",
@@ -3466,6 +3467,7 @@
       ]
     },
     {
+      "birth_date": "1971",
       "contact_details": [
         {
           "type": "email",
@@ -4820,6 +4822,7 @@
       ]
     },
     {
+      "birth_date": "1955-11-22",
       "contact_details": [
         {
           "type": "email",

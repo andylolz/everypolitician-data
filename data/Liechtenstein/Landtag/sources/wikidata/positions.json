@@ -1,4 +1,74 @@
 {
+  "Q28870270": [
+    {
+      "id": "Q21328607",
+      "label": "Member of the Landtag of Liechtenstein",
+      "title": "Member of the Landtag of Liechtenstein",
+      "qualifiers": {
+        "P580": "2017",
+        "P582": "",
+        "P2715": "Liechtenstein general election, 2017"
+      }
+    },
+    {
+      "id": "Q27137568",
+      "label": "member of the Parliamentary Assembly of the Council of Europe",
+      "title": "member of the Parliamentary Assembly of the Council of Europe",
+      "qualifiers": {
+        "P580": "2017-04-24",
+        "P582": ""
+      }
+    }
+  ],
+  "Q28870141": [
+    {
+      "id": "Q21328607",
+      "label": "Member of the Landtag of Liechtenstein",
+      "title": "Member of the Landtag of Liechtenstein"
+    }
+  ],
+  "Q29380602": [
+    {
+      "id": "Q21328607",
+      "label": "Member of the Landtag of Liechtenstein",
+      "title": "Member of the Landtag of Liechtenstein",
+      "qualifiers": {
+        "P580": "2017",
+        "P582": "",
+        "P2715": "Liechtenstein general election, 2017"
+      }
+    },
+    {
+      "id": "Q27137568",
+      "label": "member of the Parliamentary Assembly of the Council of Europe",
+      "title": "member of the Parliamentary Assembly of the Council of Europe",
+      "qualifiers": {
+        "P580": "2017-04-24",
+        "P582": ""
+      }
+    }
+  ],
+  "Q28870267": [
+    {
+      "id": "Q21328607",
+      "label": "Member of the Landtag of Liechtenstein",
+      "title": "Member of the Landtag of Liechtenstein",
+      "qualifiers": {
+        "P580": "2017",
+        "P582": "",
+        "P2715": "Liechtenstein general election, 2017"
+      }
+    },
+    {
+      "id": "Q27137568",
+      "label": "member of the Parliamentary Assembly of the Council of Europe",
+      "title": "member of the Parliamentary Assembly of the Council of Europe",
+      "qualifiers": {
+        "P580": "2017-04-24",
+        "P582": ""
+      }
+    }
+  ],
   "Q15794374": [
     {
       "id": "Q21328607",
