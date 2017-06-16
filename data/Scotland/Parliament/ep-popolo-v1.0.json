@@ -17626,6 +17626,10 @@
           "url": "https://gd.wikipedia.org/wiki/Oliver_Mundell"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Oliver_Mundell"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/olivermundell"
         }
@@ -17648,6 +17652,11 @@
         },
         {
           "lang": "nl",
+          "name": "Oliver Mundell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
           "name": "Oliver Mundell",
           "note": "multilingual"
         }
