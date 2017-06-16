@@ -19,8 +19,9 @@
       "type": "person",
       "source": "http://data.parliament.uk",
       "merge": {
-        "incoming_field": "id",
-        "existing_field": "identifier__datadotparl"
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/parliament.csv"
       }
     },
     {
