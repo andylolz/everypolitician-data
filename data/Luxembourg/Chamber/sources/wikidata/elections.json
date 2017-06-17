@@ -1019,5 +1019,25 @@
     "dates": [
       "1848"
     ]
+  },
+  "Q30164146": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q30164146"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "de",
+        "name": "Kammerwahl 2018",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Next Luxembourg general election",
+        "note": "multilingual"
+      }
+    ]
   }
 }
