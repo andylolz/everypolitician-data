@@ -83,6 +83,14 @@
         {
           "type": "email",
           "value": "Marko.Pomerants@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316615"
+        },
+        {
+          "type": "twitter",
+          "value": "MPomerants"
         }
       ],
       "email": "Marko.Pomerants@riigikogu.ee",
@@ -99,12 +107,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "85b88dbc-3406-44a0-9aff-49394fd4e9a2",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q1399189",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IRL_Marko_Pomerants.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5a0b0d07-31ce-4a96-a574-c3413ed3e7a5.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5a0b0d07-31ce-4a96-a574-c3413ed3e7a5.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/IRL_Marko_Pomerants.jpg"
         }
@@ -149,6 +164,14 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Marko_Pomerants"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100000234181959"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/MPomerants"
         }
       ],
       "name": "Marko Pomerants",
@@ -2320,6 +2343,14 @@
         {
           "type": "email",
           "value": "barbi.pilvre@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316574"
+        },
+        {
+          "type": "twitter",
+          "value": "barbipilvre"
         }
       ],
       "email": "barbi.pilvre@riigikogu.ee",
@@ -2331,12 +2362,19 @@
           "scheme": "etis_ee"
         },
         {
+          "identifier": "b12fce45-ee22-49c9-bfdc-cc3d8dcda5e5",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q12360203",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/345b2059-cb14-4e50-910e-ace787bdc78c.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/345b2059-cb14-4e50-910e-ace787bdc78c.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Barbi_Pilvre_.jpg"
         }
@@ -2345,10 +2383,22 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Barbi_Pilvre"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/barbi.pilvre"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/barbipilvre"
         }
       ],
       "name": "Barbi Pilvre",
       "other_names": [
+        {
+          "name": "Barbi Pilvre",
+          "note": "alternate"
+        },
         {
           "name": "Barbi Pilvre",
           "note": "alternate"
@@ -3425,6 +3475,10 @@
         {
           "type": "email",
           "value": "toomas.paur@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316305"
         }
       ],
       "email": "toomas.paur@riigikogu.ee",
@@ -3433,14 +3487,28 @@
       "id": "114fbc7c-a136-4547-bbc3-8a573c913724",
       "identifiers": [
         {
+          "identifier": "dd8df35c-edd1-4c9a-ac7e-6681b58361eb",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28071323",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/827f5a84-1242-4090-9c60-835651c89a48.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/827f5a84-1242-4090-9c60-835651c89a48.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Toomas_Paur"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/toomas.paur"
         }
       ],
       "name": "Toomas Paur",
@@ -3998,6 +4066,48 @@
       ]
     },
     {
+      "birth_date": "1967-04-09",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "tarmo.kruusimae@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316446"
+        },
+        {
+          "type": "twitter",
+          "value": "meestyypikoda"
+        }
+      ],
+      "email": "tarmo.kruusimae@riigikogu.ee",
+      "id": "167f33a0-8874-4c14-877a-77ea3605a34e",
+      "identifiers": [
+        {
+          "identifier": "dd439e1c-be78-4751-a152-f02f98ae1d39",
+          "scheme": "riigikogu"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/75f2065a-d103-4887-837c-c480716563b4.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/75f2065a-d103-4887-837c-c480716563b4.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kruusimae"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/meestyypikoda"
+        }
+      ],
+      "name": "Tarmo Kruusimäe"
+    },
+    {
       "birth_date": "1979-11-01",
       "contact_details": [
         {
@@ -4157,6 +4267,14 @@
         {
           "type": "email",
           "value": "Urmas.Kruuse@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316474"
+        },
+        {
+          "type": "twitter",
+          "value": "urmaskruuse"
         }
       ],
       "email": "Urmas.Kruuse@riigikogu.ee",
@@ -4173,12 +4291,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "4a332fbb-be05-4cb2-b6a0-5916eb40fe89",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q3741429",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tartu_linnapea_Urmas_Kruuse_Tartu_hansalaadal,_20._juuli_2008-crop.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/f86027f8-3534-4843-811f-0b8a72195fc5.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/f86027f8-3534-4843-811f-0b8a72195fc5.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tartu_linnapea_Urmas_Kruuse_Tartu_hansalaadal,_20._juuli_2008-crop.jpg"
         }
@@ -4215,6 +4340,14 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Круузе,_Урмас"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/urmas.kruuse"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/urmaskruuse"
         }
       ],
       "name": "Urmas Kruuse",
@@ -6112,6 +6245,10 @@
         {
           "type": "email",
           "value": "helmut.hallemaa@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316459"
         }
       ],
       "email": "helmut.hallemaa@riigikogu.ee",
@@ -6120,14 +6257,28 @@
       "id": "24974763-c61d-4a42-9da1-ac8beb834dfa",
       "identifiers": [
         {
+          "identifier": "9a2c28c3-c9fd-47cc-9dbb-79e94607ba86",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q16407871",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5016d41c-a5d8-4022-84bc-b476fabc3ced.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5016d41c-a5d8-4022-84bc-b476fabc3ced.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Helmut_Hallemaa"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/helmut.hallemaa"
         }
       ],
       "name": "Helmut Hallemaa",
@@ -7327,6 +7478,10 @@
         {
           "type": "email",
           "value": "tiina.kangro@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "631 6648"
         }
       ],
       "email": "tiina.kangro@riigikogu.ee",
@@ -7334,14 +7489,28 @@
       "id": "2ef163b7-4c24-4991-813f-9188119bd632",
       "identifiers": [
         {
+          "identifier": "5bf1116f-2e60-4a46-927a-e6aade9bebf9",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q20528288",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5954ae7b-cb00-4ed5-925c-b0e8b0096b57.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/5954ae7b-cb00-4ed5-925c-b0e8b0096b57.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Tiina_Kangro"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/tiina.kangro"
         }
       ],
       "name": "Tiina Kangro",
@@ -7794,6 +7963,10 @@
         {
           "type": "email",
           "value": "toomas.vainaste@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316635"
         }
       ],
       "email": "toomas.vainaste@riigikogu.ee",
@@ -7802,8 +7975,18 @@
       "id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
       "identifiers": [
         {
+          "identifier": "99f436f3-ea77-4e40-9b8a-05e2cc92b8a5",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28854341",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a43b6e69-0c50-4760-b201-6c766fd18cc0.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a43b6e69-0c50-4760-b201-6c766fd18cc0.jpg"
         }
       ],
       "name": "Toomas Väinaste",
@@ -8192,6 +8375,14 @@
         {
           "type": "email",
           "value": "Hanno.Pevkur@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316576"
+        },
+        {
+          "type": "twitter",
+          "value": "hpevkur"
         }
       ],
       "email": "Hanno.Pevkur@riigikogu.ee",
@@ -8208,12 +8399,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "cf42a56a-b91a-4a51-913b-a489305326a2",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q1399218",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hanno_Pevkur,_2011.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/0c866dee-9ede-46b8-b464-2af37e6f3f4a.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/0c866dee-9ede-46b8-b464-2af37e6f3f4a.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hanno_Pevkur,_2011.jpg"
         }
@@ -8266,6 +8464,14 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Hanno_Pevkur"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100007049538530"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hpevkur"
         },
         {
           "note": "website",
@@ -9451,6 +9657,10 @@
           "value": "Arto.Aas@riigikogu.ee"
         },
         {
+          "type": "phone",
+          "value": "6316660"
+        },
+        {
           "type": "twitter",
           "value": "ArtoAas"
         }
@@ -9469,12 +9679,19 @@
           "scheme": "google_knowledge"
         },
         {
+          "identifier": "fe748f4d-3f50-4af8-8069-92a460978d2b",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q616356",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RE_Arto_Aas.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/bb120d34-cead-4d58-b351-a399516ac722.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/bb120d34-cead-4d58-b351-a399516ac722.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/RE_Arto_Aas.jpg"
         },
@@ -10407,6 +10624,10 @@
         {
           "type": "email",
           "value": "Jyrgen.Ligi@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316449"
         }
       ],
       "email": "Jyrgen.Ligi@riigikogu.ee",
@@ -10423,12 +10644,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "c0c7bea2-4c5e-4295-9c0f-dca52d602098",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q983831",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jürgen_Ligi,_2011.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a0af4f4a-fc66-43e6-be9c-8891b923b78d.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a0af4f4a-fc66-43e6-be9c-8891b923b78d.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jürgen_Ligi,_2011.jpg"
         }
@@ -10485,6 +10713,10 @@
         {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Jürgen_Ligi"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/JurgenLigi"
         }
       ],
       "name": "Jürgen Ligi",
@@ -10808,13 +11040,34 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "vladimir.arhipov@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316637"
+        }
+      ],
+      "email": "vladimir.arhipov@riigikogu.ee",
       "gender": "male",
       "given_name": "Vladimir",
       "id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
       "identifiers": [
         {
+          "identifier": "586335bd-0e3f-4cee-a325-7af602224ca7",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28854358",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/default-user.jpg",
+      "images": [
+        {
+          "url": "http://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/default-user.jpg"
         }
       ],
       "name": "Vladimir Arhipov",
@@ -11585,12 +11838,39 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "eevi.paasmae@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316563"
+        }
+      ],
+      "email": "eevi.paasmae@riigikogu.ee",
       "gender": "female",
       "id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
       "identifiers": [
         {
+          "identifier": "587e9a85-08b6-4045-b49a-7a8d6e3dc940",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28854356",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/f86ee3a0-1de1-46ce-97ff-c0291a9c519e.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/f86ee3a0-1de1-46ce-97ff-c0291a9c519e.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/100008238098684"
         }
       ],
       "name": "Eevi Paasmäe",
@@ -12320,8 +12600,12 @@
           "value": "Taavi.Roivas@riigikogu.ee"
         },
         {
+          "type": "phone",
+          "value": "6316321"
+        },
+        {
           "type": "twitter",
-          "value": "taaviroivas"
+          "value": "TaaviRoivas"
         }
       ],
       "email": "Taavi.Roivas@riigikogu.ee",
@@ -12346,12 +12630,19 @@
           "scheme": "parlement"
         },
         {
+          "identifier": "47201a8e-4ae7-45fa-8659-b47930d6f99c",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q3785077",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RE_Taavi_Rõivas.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/c402740a-1fa9-4118-ad92-457f1523eb13.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/c402740a-1fa9-4118-ad92-457f1523eb13.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/RE_Taavi_Rõivas.jpg"
         },
@@ -12541,8 +12832,12 @@
           "url": "https://zh.wikipedia.org/wiki/塔维·罗伊瓦斯"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/taavi.roivas"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/taaviroivas"
+          "url": "https://twitter.com/TaaviRoivas"
         }
       ],
       "name": "Taavi Rõivas",
@@ -13461,6 +13756,10 @@
         {
           "type": "email",
           "value": "tiit.terik@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316475"
         }
       ],
       "email": "tiit.terik@riigikogu.ee",
@@ -13468,12 +13767,19 @@
       "id": "71bd38d5-bc6d-4819-bcba-0234ab7f694f",
       "identifiers": [
         {
+          "identifier": "6884a4c4-473f-4a78-b229-7a4ef631e2d2",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q12376941",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/28e11590-0944-40b7-9210-35b2aef0afa6.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/28e11590-0944-40b7-9210-35b2aef0afa6.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Tiit_Terik_2013.jpg"
         }
@@ -13486,6 +13792,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Tiit_Terik"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Tiit-Terik-197603360697785"
         }
       ],
       "name": "Tiit Terik",
@@ -13794,6 +14104,10 @@
         {
           "type": "email",
           "value": "marko.sorin@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316665"
         }
       ],
       "email": "marko.sorin@riigikogu.ee",
@@ -13802,14 +14116,28 @@
       "id": "7543bb1d-1f30-49dc-985e-de023d6235ca",
       "identifiers": [
         {
+          "identifier": "149dab3f-f850-4eb3-bf03-0890ce9090c1",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28071329",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a7c9bfd6-c244-43bd-b03b-5e7e9d22887d.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a7c9bfd6-c244-43bd-b03b-5e7e9d22887d.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Marko_Šorin"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/edukas.sindi"
         }
       ],
       "name": "Marko Šorin",
@@ -14967,21 +15295,37 @@
       "birth_date": "1969-09-03",
       "contact_details": [
         {
+          "type": "email",
+          "value": "Liisa.Pakosta@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316425"
+        },
+        {
           "type": "twitter",
-          "value": "LiisaPakosta"
+          "value": "Liisapakosta"
         }
       ],
+      "email": "Liisa.Pakosta@riigikogu.ee",
       "gender": "female",
       "given_name": "Liisa",
       "id": "807c420d-6083-4839-98e5-932cf6bbf2b8",
       "identifiers": [
         {
+          "identifier": "289fc421-d890-4401-ba74-4dc6813f0403",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q12368739",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/IRL_Liisa-Ly_Pakosta.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/default-user.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/default-user.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/IRL_Liisa-Ly_Pakosta.jpg"
         },
@@ -14999,18 +15343,18 @@
           "url": "https://et.wikipedia.org/wiki/Liisa_Pakosta"
         },
         {
-          "note": "twitter",
-          "url": "https://twitter.com/LiisaPakosta"
-        }
-      ],
-      "name": "Liisa-Ly Pakosta",
-      "other_names": [
-        {
-          "name": "Liisa Pakosta",
-          "note": "alternate"
+          "note": "facebook",
+          "url": "https://facebook.com/liisa.pakosta"
         },
         {
-          "name": "Liisa Pakosta",
+          "note": "twitter",
+          "url": "https://twitter.com/Liisapakosta"
+        }
+      ],
+      "name": "Liisa Pakosta",
+      "other_names": [
+        {
+          "name": "Liisa-Ly Pakosta",
           "note": "alternate"
         },
         {
@@ -18393,6 +18737,10 @@
         {
           "type": "email",
           "value": "igor.kravtsenko@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316647"
         }
       ],
       "email": "igor.kravtsenko@riigikogu.ee",
@@ -18401,8 +18749,24 @@
       "id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
       "identifiers": [
         {
+          "identifier": "9893487a-845e-4b03-ba51-09a79fef87eb",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q28840779",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a688686e-8bed-4221-a128-3d693aabee57.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a688686e-8bed-4221-a128-3d693aabee57.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kravtsenkoigor"
         }
       ],
       "name": "Igor Kravtšenko",
@@ -19009,8 +19373,12 @@
           "value": "Margus.Tsahkna@riigikogu.ee"
         },
         {
+          "type": "phone",
+          "value": "6316631"
+        },
+        {
           "type": "twitter",
-          "value": "Tsahkna"
+          "value": "tsahkna"
         }
       ],
       "email": "Margus.Tsahkna@riigikogu.ee",
@@ -19026,12 +19394,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "db788688-d7a6-4af8-8cee-3004adb948f5",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q11716283",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/IRL_Margus_Tsahkna.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e4609ac1-7a11-4011-9d37-a83fea6aff6a.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e4609ac1-7a11-4011-9d37-a83fea6aff6a.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/IRL_Margus_Tsahkna.jpg"
         },
@@ -19081,8 +19456,12 @@
           "url": "https://sv.wikipedia.org/wiki/Margus_Tsahkna"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/margus.tsahkna"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/Tsahkna"
+          "url": "https://twitter.com/tsahkna"
         }
       ],
       "name": "Margus Tsahkna",
@@ -20534,6 +20913,10 @@
         {
           "type": "email",
           "value": "inara.luigas@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316674"
         }
       ],
       "email": "inara.luigas@riigikogu.ee",
@@ -20541,12 +20924,19 @@
       "id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "identifiers": [
         {
+          "identifier": "24ddd323-b871-400f-9649-7aa6e76a260d",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q12364487",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e3042208-f15d-401f-b859-bf98e4de607b.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/e3042208-f15d-401f-b859-bf98e4de607b.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/KE_Inara_Luigas.jpg"
         }
@@ -20559,6 +20949,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Inara_Luigas"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Inara-Luigas"
         }
       ],
       "name": "Inara Luigas",
@@ -21540,6 +21934,14 @@
         {
           "type": "email",
           "value": "liisa.oviir@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316658"
+        },
+        {
+          "type": "twitter",
+          "value": "liisaoviir"
         }
       ],
       "email": "liisa.oviir@riigikogu.ee",
@@ -21548,8 +21950,18 @@
       "id": "cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
       "identifiers": [
         {
+          "identifier": "b5063311-cf9e-43bb-8b24-e767b447eb37",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q21009735",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/29f6f150-feb6-4060-a126-f36ae09df84d.jpg",
+      "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/29f6f150-feb6-4060-a126-f36ae09df84d.jpg"
         }
       ],
       "links": [
@@ -21572,6 +21984,14 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Liisa_Oviir"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/liisa.oviir"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/liisaoviir"
         }
       ],
       "name": "Liisa Oviir",
@@ -24660,6 +25080,10 @@
         {
           "type": "email",
           "value": "Kristen.Michal@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316614"
         }
       ],
       "email": "Kristen.Michal@riigikogu.ee",
@@ -24676,12 +25100,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "84bf9004-a454-44c9-8696-5337c74ff486",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q1789192",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kristen_Michal.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5fcacfe-2ca1-4cea-a9fe-bcc171057246.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/a5fcacfe-2ca1-4cea-a9fe-bcc171057246.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kristen_Michal.jpg"
         }
@@ -24718,6 +25149,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Kristen_Michal"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/kristen.michal.5"
         }
       ],
       "name": "Kristen Michal",
@@ -26290,6 +26725,21 @@
     },
     {
       "birth_date": "1969-07-14",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sven.sester@riigikogu.ee"
+        },
+        {
+          "type": "phone",
+          "value": "6316432"
+        },
+        {
+          "type": "twitter",
+          "value": "SvenSester"
+        }
+      ],
+      "email": "sven.sester@riigikogu.ee",
       "gender": "male",
       "given_name": "Sven",
       "id": "fadf4b85-2782-4159-8a94-457448957956",
@@ -26299,12 +26749,19 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "4c3d9559-69ad-4e75-a188-94eae98786fd",
+          "scheme": "riigikogu"
+        },
+        {
           "identifier": "Q11158997",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg",
+      "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/84749bf2-ba33-4c99-84f1-a8b5e78a10b7.jpg",
       "images": [
+        {
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/84749bf2-ba33-4c99-84f1-a8b5e78a10b7.jpg"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/IRL_Sven_Sester.jpg"
         }
@@ -26345,6 +26802,14 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Sven_Sester"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/sven.sester1"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SvenSester"
         }
       ],
       "name": "Sven Sester",
@@ -29319,7 +29784,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0259486a-0410-49f3-aef9-8b79c15741a7",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/85b88dbc-3406-44a0-9aff-49394fd4e9a2/Marko-Pomerants"
+        }
+      ]
     },
     {
       "area_id": "area/lääne-virumaa",
@@ -29328,7 +29798,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0259486a-0410-49f3-aef9-8b79c15741a7",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/85b88dbc-3406-44a0-9aff-49394fd4e9a2/Marko-Pomerants"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/12",
@@ -29511,6 +29986,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b12fce45-ee22-49c9-bfdc-cc3d8dcda5e5/Barbi-Pilvre"
+        }
+      ],
       "start_date": "2014-03-27"
     },
     {
@@ -29520,6 +30000,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "0d073e9d-8fd2-4322-98dc-a4571e9b4cce",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b12fce45-ee22-49c9-bfdc-cc3d8dcda5e5/Barbi-Pilvre"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -29601,6 +30086,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "114fbc7c-a136-4547-bbc3-8a573c913724",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/dd8df35c-edd1-4c9a-ac7e-6681b58361eb/Toomas-Paur"
+        }
+      ],
       "start_date": "2016-12-11"
     },
     {
@@ -29695,6 +30185,20 @@
       ]
     },
     {
+      "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "167f33a0-8874-4c14-877a-77ea3605a34e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/dd439e1c-be78-4751-a152-f02f98ae1d39/Tarmo-Kruusim%C3%A4e"
+        }
+      ],
+      "start_date": "2017-06-02"
+    },
+    {
       "end_date": "2012-04-08",
       "legislative_period_id": "term/12",
       "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
@@ -29739,7 +30243,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "173df2d0-3584-4a91-bd88-abd1799f83d6",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4a332fbb-be05-4cb2-b6a0-5916eb40fe89/Urmas-Kruuse"
+        }
+      ]
     },
     {
       "area_id": "area/jõgeva-_ja_tartumaa",
@@ -29748,7 +30257,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "173df2d0-3584-4a91-bd88-abd1799f83d6",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4a332fbb-be05-4cb2-b6a0-5916eb40fe89/Urmas-Kruuse"
+        }
+      ]
     },
     {
       "area_id": "area/jõgeva-_ja_tartumaa",
@@ -29757,6 +30271,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "173df2d0-3584-4a91-bd88-abd1799f83d6",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4a332fbb-be05-4cb2-b6a0-5916eb40fe89/Urmas-Kruuse"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -29983,6 +30502,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "24974763-c61d-4a42-9da1-ac8beb834dfa",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/9a2c28c3-c9fd-47cc-9dbb-79e94607ba86/Helmut-Hallemaa"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -30151,6 +30675,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "2ef163b7-4c24-4991-813f-9188119bd632",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/5bf1116f-2e60-4a46-927a-e6aade9bebf9/Tiina-Kangro"
+        }
+      ],
       "start_date": "2016-12-16"
     },
     {
@@ -30227,6 +30756,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/99f436f3-ea77-4e40-9b8a-05e2cc92b8a5/Toomas-V%C3%A4inaste"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -30257,7 +30791,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/cf42a56a-b91a-4a51-913b-a489305326a2/Hanno-Pevkur"
+        }
+      ]
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
@@ -30266,7 +30805,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/cf42a56a-b91a-4a51-913b-a489305326a2/Hanno-Pevkur"
+        }
+      ]
     },
     {
       "area_id": "area/võru-,_valga-_ja_põlvamaa",
@@ -30275,6 +30819,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "3783663b-a6e2-4da0-abdb-ad5d5fc2d6e5",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/cf42a56a-b91a-4a51-913b-a489305326a2/Hanno-Pevkur"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -30442,7 +30991,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/fe748f4d-3f50-4af8-8069-92a460978d2b/Arto-Aas"
+        }
+      ]
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -30451,7 +31005,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/fe748f4d-3f50-4af8-8069-92a460978d2b/Arto-Aas"
+        }
+      ]
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -30460,6 +31019,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "4ab03025-d72c-4b06-94b9-e23ec9d32e3a",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/fe748f4d-3f50-4af8-8069-92a460978d2b/Arto-Aas"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -30535,7 +31099,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/c0c7bea2-4c5e-4295-9c0f-dca52d602098/J%C3%BCrgen-Ligi"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/12",
@@ -30543,6 +31112,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/c0c7bea2-4c5e-4295-9c0f-dca52d602098/J%C3%BCrgen-Ligi"
+        }
+      ],
       "start_date": "2014-11-04"
     },
     {
@@ -30552,7 +31126,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/c0c7bea2-4c5e-4295-9c0f-dca52d602098/J%C3%BCrgen-Ligi"
+        }
+      ]
     },
     {
       "area_id": "area/järva-_ja_viljandimaa",
@@ -30561,6 +31140,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "508adc11-672e-401d-bf60-7912e9ebf6fc",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/c0c7bea2-4c5e-4295-9c0f-dca52d602098/J%C3%BCrgen-Ligi"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -30610,6 +31194,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
       "role": "member",
+      "sources": [
+        {
+          "url": "http://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/586335bd-0e3f-4cee-a325-7af602224ca7/Vladimir-Arhipov"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -30701,6 +31290,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/587e9a85-08b6-4045-b49a-7a8d6e3dc940/Eevi-Paasm%C3%A4e"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -30804,7 +31398,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/47201a8e-4ae7-45fa-8659-b47930d6f99c/Taavi-R%C3%B5ivas"
+        }
+      ]
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
@@ -30813,7 +31412,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/47201a8e-4ae7-45fa-8659-b47930d6f99c/Taavi-R%C3%B5ivas"
+        }
+      ]
     },
     {
       "area_id": "area/harju-_ja_raplamaa",
@@ -30822,6 +31426,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "6b71eefc-413d-4db6-88f0-d7ff845ebaf1",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/47201a8e-4ae7-45fa-8659-b47930d6f99c/Taavi-R%C3%B5ivas"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -30887,6 +31496,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "71bd38d5-bc6d-4819-bcba-0234ab7f694f",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/6884a4c4-473f-4a78-b229-7a4ef631e2d2/Tiit-Terik"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -30964,6 +31578,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "7543bb1d-1f30-49dc-985e-de023d6235ca",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/149dab3f-f850-4eb3-bf03-0890ce9090c1/Marko-%C5%A0orin"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -31146,7 +31765,26 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "807c420d-6083-4839-98e5-932cf6bbf2b8",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/289fc421-d890-4401-ba74-4dc6813f0403/Liisa-Ly-Pakosta"
+        }
+      ],
       "start_date": "2011-04-06"
+    },
+    {
+      "end_date": "2017-06-02",
+      "legislative_period_id": "term/13",
+      "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
+      "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
+      "person_id": "807c420d-6083-4839-98e5-932cf6bbf2b8",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/289fc421-d890-4401-ba74-4dc6813f0403/Liisa-Ly-Pakosta"
+        }
+      ],
+      "start_date": "2017-06-01"
     },
     {
       "end_date": "2011-04-05",
@@ -31511,6 +32149,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/9893487a-845e-4b03-ba51-09a79fef87eb/Igor-Kravt%C5%A1enko"
+        }
+      ],
       "start_date": "2016-12-06"
     },
     {
@@ -31629,7 +32272,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "ac4cc87b-1de2-418e-b92d-799fce699e48",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/db788688-d7a6-4af8-8cee-3004adb948f5/Margus-Tsahkna"
+        }
+      ]
     },
     {
       "area_id": "area/tartu_linn",
@@ -31638,7 +32286,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "ac4cc87b-1de2-418e-b92d-799fce699e48",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/db788688-d7a6-4af8-8cee-3004adb948f5/Margus-Tsahkna"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/12",
@@ -31817,7 +32470,12 @@
       "on_behalf_of_id": "f6b76a72-7b02-433b-8ced-4f9b8d3f980c",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/24ddd323-b871-400f-9649-7aa6e76a260d/Inara-Luigas"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/12",
@@ -31825,6 +32483,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/24ddd323-b871-400f-9649-7aa6e76a260d/Inara-Luigas"
+        }
+      ],
       "start_date": "2012-04-09"
     },
     {
@@ -31834,6 +32497,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "be215647-b37d-439b-81fe-fd0f4f2c332c",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/24ddd323-b871-400f-9649-7aa6e76a260d/Inara-Luigas"
+        }
+      ],
       "start_date": "2016-11-25"
     },
     {
@@ -31989,6 +32657,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "cc6edfd7-0fa6-4809-91c3-71d7da976bb2",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/b5063311-cf9e-43bb-8b24-e767b447eb37/Liisa-Oviir"
+        }
+      ],
       "start_date": "2016-11-24"
     },
     {
@@ -32363,6 +33036,7 @@
     },
     {
       "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
+      "end_date": "2017-06-01",
       "legislative_period_id": "term/13",
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
@@ -32520,7 +33194,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e6279173-c122-46a0-a4e1-0155c8df817c",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/84bf9004-a454-44c9-8696-5337c74ff486/Kristen-Michal"
+        }
+      ]
     },
     {
       "legislative_period_id": "term/12",
@@ -32528,6 +33207,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e6279173-c122-46a0-a4e1-0155c8df817c",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/84bf9004-a454-44c9-8696-5337c74ff486/Kristen-Michal"
+        }
+      ],
       "start_date": "2012-12-11"
     },
     {
@@ -32537,7 +33221,12 @@
       "on_behalf_of_id": "809ffcc5-c6cf-40f2-a985-2e859e3a0396",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e6279173-c122-46a0-a4e1-0155c8df817c",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/84bf9004-a454-44c9-8696-5337c74ff486/Kristen-Michal"
+        }
+      ]
     },
     {
       "area_id": "area/tallinna_haabersti,_põhja-tallinna_ja_kristiine_linnaosa",
@@ -32546,6 +33235,11 @@
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "e6279173-c122-46a0-a4e1-0155c8df817c",
       "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/84bf9004-a454-44c9-8696-5337c74ff486/Kristen-Michal"
+        }
+      ],
       "start_date": "2016-11-23"
     },
     {
@@ -32789,7 +33483,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "fadf4b85-2782-4159-8a94-457448957956",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4c3d9559-69ad-4e75-a188-94eae98786fd/Sven-Sester"
+        }
+      ]
     },
     {
       "area_id": "area/tallinna_kesklinna,_lasnamäe_ja_pirita_linnaosa",
@@ -32798,7 +33497,12 @@
       "on_behalf_of_id": "c52ce7c4-e725-407e-81c4-d903f6b61b93",
       "organization_id": "1ba661a9-22ad-4d0f-8a60-fe8e28f2488c",
       "person_id": "fadf4b85-2782-4159-8a94-457448957956",
-      "role": "member"
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/saadik/4c3d9559-69ad-4e75-a188-94eae98786fd/Sven-Sester"
+        }
+      ]
     },
     {
       "end_date": "2011-04-05",
