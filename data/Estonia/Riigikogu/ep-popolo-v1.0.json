@@ -4082,11 +4082,21 @@
         }
       ],
       "email": "tarmo.kruusimae@riigikogu.ee",
+      "gender": "male",
+      "given_name": "Tarmo",
       "id": "167f33a0-8874-4c14-877a-77ea3605a34e",
       "identifiers": [
         {
+          "identifier": "66761082-0f92-453e-a1ca-f5e2869b25f1",
+          "scheme": "musicbrainz"
+        },
+        {
           "identifier": "dd439e1c-be78-4751-a152-f02f98ae1d39",
           "scheme": "riigikogu"
+        },
+        {
+          "identifier": "Q16404443",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.riigikogu.ee/wpcms/wp-content/uploads/ems/temp/75f2065a-d103-4887-837c-c480716563b4.jpg",
@@ -4097,6 +4107,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Tarmo_Kruusimäe"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/kruusimae"
         },
@@ -4105,7 +4119,19 @@
           "url": "https://twitter.com/meestyypikoda"
         }
       ],
-      "name": "Tarmo Kruusimäe"
+      "name": "Tarmo Kruusimäe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tarmo Kruusimäe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Tarmo Kruusimäe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-11-01",
