@@ -7718,6 +7718,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Armenian_Revolutionary_Federation_Flag.gif",
       "links": [
         {
           "note": "website",
@@ -7813,7 +7814,7 @@
         },
         {
           "lang": "hy",
-          "name": "Հայ Յեղափոխական Դաշնակցութիւն",
+          "name": "Հայ Հեղափոխական Դաշնակցություն",
           "note": "multilingual"
         },
         {
@@ -8756,6 +8757,11 @@
         {
           "lang": "tt",
           "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
           "note": "multilingual"
         },
         {

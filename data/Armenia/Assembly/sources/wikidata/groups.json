@@ -745,7 +745,7 @@
       },
       {
         "lang": "hy",
-        "name": "Հայ Յեղափոխական Դաշնակցութիւն",
+        "name": "Հայ Հեղափոխական Դաշնակցություն",
         "note": "multilingual"
       },
       {
@@ -1279,7 +1279,8 @@
         "url": "http://www.arfd.info/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Armenian_Revolutionary_Federation_Flag.gif"
   },
   "_IND": {
     "identifiers": [
@@ -1602,6 +1603,11 @@
       {
         "lang": "tt",
         "name": "бәйсез",
+        "note": "multilingual"
+      },
+      {
+        "lang": "hy",
+        "name": "անկախ քաղաքական գործիչ",
         "note": "multilingual"
       },
       {
