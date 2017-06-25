@@ -1145,6 +1145,7 @@
         }
       ],
       "email": "sencalvo@gmail.com",
+      "family_name": "Calvo",
       "gender": "male",
       "given_name": "Eddie",
       "id": "cdd24859-1f63-45de-be11-afd4908fc80c",
@@ -1249,6 +1250,16 @@
           "note": "multilingual"
         },
         {
+          "lang": "ca",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
           "lang": "da",
           "name": "Eddie Calvo",
           "note": "multilingual"
@@ -1270,6 +1281,11 @@
         },
         {
           "lang": "es",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
           "name": "Eddie Calvo",
           "note": "multilingual"
         },
@@ -1324,8 +1340,38 @@
           "note": "multilingual"
         },
         {
+          "lang": "pt",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Эдди Кальво",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Eddie Calvo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Eddie Calvo",
           "note": "multilingual"
         },
         {
