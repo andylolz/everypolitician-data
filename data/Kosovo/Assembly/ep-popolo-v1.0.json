@@ -9782,6 +9782,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nb",
+          "name": "Alliansen for et nytt Kosovo",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Aleanca Kosova e Re",
           "note": "multilingual"
@@ -10976,12 +10981,17 @@
         },
         {
           "lang": "en",
-          "name": "Serb List (Kosovo)",
+          "name": "Serb List",
           "note": "multilingual"
         },
         {
           "lang": "ja",
           "name": "セルビア人のリスト",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Сербский список (Косово)",
           "note": "multilingual"
         }
       ]
@@ -18909,6 +18919,19 @@
       "name": "Periudha e pestë Legjislative",
       "organization_id": "c70b06ce-c00d-4e28-adf5-a00c1a1434a5",
       "start_date": "2014-07-17"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017-06-11",
+      "id": "Q29940703",
+      "identifiers": [
+        {
+          "identifier": "Q29940703",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Kosovan parliamentary election, 2017",
+      "start_date": "2017-06-11"
     }
   ],
   "areas": [

@@ -3081,12 +3081,17 @@
       },
       {
         "lang": "en",
-        "name": "Serb List (Kosovo)",
+        "name": "Serb List",
         "note": "multilingual"
       },
       {
         "lang": "ja",
         "name": "セルビア人のリスト",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Сербский список (Косово)",
         "note": "multilingual"
       }
     ]
@@ -3213,6 +3218,11 @@
       {
         "lang": "ja",
         "name": "新コソボ同盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Alliansen for et nytt Kosovo",
         "note": "multilingual"
       },
       {
