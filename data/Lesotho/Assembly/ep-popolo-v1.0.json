@@ -3963,6 +3963,19 @@
       "name": "9th Parliament",
       "organization_id": "fec02388-0c3d-4df8-802f-738125cdcccc",
       "start_date": "2015-03-10"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2017",
+      "id": "Q28977215",
+      "identifiers": [
+        {
+          "identifier": "Q28977215",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Lesotho general election, 2017",
+      "start_date": "2017"
     }
   ],
   "areas": [
