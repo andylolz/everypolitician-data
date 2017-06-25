@@ -1632,6 +1632,11 @@
       "name": "Ian Robinson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "يان روبنسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Ian Robinson",
           "note": "multilingual"
@@ -20187,6 +20192,7 @@
       "sort_name": "Hockey, Joe"
     },
     {
+      "birth_date": "1972",
       "contact_details": [
         {
           "type": "twitter",
@@ -52027,6 +52033,11 @@
         {
           "lang": "en",
           "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual"
         },
         {
