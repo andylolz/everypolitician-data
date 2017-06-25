@@ -8845,6 +8845,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "sr",
+          "name": "Бил Инглиш",
+          "note": "multilingual"
+        },
+        {
           "lang": "th",
           "name": "บิลล์ อิงกลิช",
           "note": "multilingual"
@@ -23051,6 +23056,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -31029,7 +31039,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2017",
+      "end_date": "2017-09-23",
       "id": "Q18167358",
       "identifiers": [
         {
@@ -31038,7 +31048,7 @@
         }
       ],
       "name": "New Zealand general election, 2017",
-      "start_date": "2017"
+      "start_date": "2017-09-23"
     }
   ],
   "areas": [
