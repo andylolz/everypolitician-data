@@ -5562,6 +5562,11 @@
       "sort_name": "Goicoechea, Horacio"
     },
     {
+      "id": "485024e6-70b8-4031-b346-88643279f6c6",
+      "name": "Nathalia Gonzalez Seligra",
+      "sort_name": "Gonzalez Seligra, Nathalia"
+    },
+    {
       "gender": "female",
       "id": "48994f44-dc69-49b6-ab9b-1d8910df29d7",
       "identifiers": [
@@ -25984,6 +25989,20 @@
       "sources": [
         {
           "url": "http://www.hcdn.gob.ar/diputados/hgoicoechea/"
+        }
+      ],
+      "start_date": "2015-12-10"
+    },
+    {
+      "area_id": "area/buenos_aires",
+      "legislative_period_id": "term/133",
+      "on_behalf_of_id": "party/frente_de_izquierda_y_de_los_trabajadores",
+      "organization_id": "5b5e0f3d-0f45-41ea-a8a9-8e5de20c3d11",
+      "person_id": "485024e6-70b8-4031-b346-88643279f6c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "http://www.hcdn.gob.ar/diputados/"
         }
       ],
       "start_date": "2015-12-10"
