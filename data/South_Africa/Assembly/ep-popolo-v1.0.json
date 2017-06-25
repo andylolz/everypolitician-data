@@ -23973,6 +23973,19 @@
       "name": "26th Parliament",
       "organization_id": "a36b27d7-5cb0-49f9-bba3-8e0b68bfdcbd",
       "start_date": "2014-05-21"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2019",
+      "id": "Q19623664",
+      "identifiers": [
+        {
+          "identifier": "Q19623664",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "South African general election, 2019",
+      "start_date": "2019"
     }
   ],
   "areas": [
