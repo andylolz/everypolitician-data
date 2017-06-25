@@ -962,6 +962,10 @@
           "url": "https://sh.wikipedia.org/wiki/Talat_Džaferi"
         },
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Talat_Xhaferi"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Талат_Џафери"
         },
@@ -1122,6 +1126,11 @@
       "other_names": [
         {
           "lang": "en",
+          "name": "Svetlana Karapetrova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
           "name": "Svetlana Karapetrova",
           "note": "multilingual"
         }
@@ -3228,6 +3237,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -4281,6 +4295,11 @@
         },
         {
           "lang": "hu",
+          "name": "VMRO-DPMNE",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
           "name": "VMRO-DPMNE",
           "note": "multilingual"
         }
