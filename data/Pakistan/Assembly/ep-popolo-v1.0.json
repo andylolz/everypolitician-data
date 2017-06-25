@@ -10461,6 +10461,10 @@
           "url": "https://hif.wikipedia.org/wiki/Nawaz_sharif"
         },
         {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Nawaz_Sharif"
+        },
+        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Nawaz_Sharif"
         },
@@ -17597,6 +17601,10 @@
           "url": "https://fr.wikipedia.org/wiki/Chaudhry_Pervaiz_Elahi"
         },
         {
+          "note": "Wikipedia (pnb)",
+          "url": "https://pnb.wikipedia.org/wiki/چوہدری_پرویز_الاہی"
+        },
+        {
           "note": "Wikipedia (ur)",
           "url": "https://ur.wikipedia.org/wiki/چوہدری_پرویز_الٰہی"
         }
@@ -21646,6 +21654,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -22558,7 +22571,7 @@
         },
         {
           "lang": "ur",
-          "name": "پاکستان مسلم لیگ ن",
+          "name": "پاکستان مسلم لیگ (ن)",
           "note": "multilingual"
         },
         {
