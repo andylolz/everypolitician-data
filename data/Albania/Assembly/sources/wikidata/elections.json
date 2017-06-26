@@ -962,10 +962,20 @@
         "lang": "sv",
         "name": "parlamentsvalet i Albanien 2017",
         "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones parlamentarias de Albania de 2017",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات التشريعية الألبانية 2017",
+        "note": "multilingual"
       }
     ],
     "dates": [
-      "2017-06-18"
+      "2017-06-25"
     ],
     "follows": "Albanian parliamentary election, 2013"
   }

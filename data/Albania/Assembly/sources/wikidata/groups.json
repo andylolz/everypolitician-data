@@ -927,6 +927,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي (ألبانيا)",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "PSSH",
         "note": "multilingual"
@@ -1264,6 +1269,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ar",
+        "name": "الحزب الإشتراكي (ألبانيا)",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "PSSH",
         "note": "multilingual"
@@ -1516,7 +1526,8 @@
         "url": "http://www.lsi.al/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_e_Lëvizjes_Socialiste_për_Integrim.svg"
   },
   "lsi": {
     "identifiers": [
@@ -1657,7 +1668,8 @@
         "url": "http://www.lsi.al/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_e_Lëvizjes_Socialiste_për_Integrim.svg"
   },
   "pdiu": {
     "identifiers": [
@@ -1723,7 +1735,8 @@
         "url": "http://www.pdiu.al",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/PDIU_Logo.svg"
   },
   "pr": {
     "identifiers": [
@@ -2261,6 +2274,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hy",
+        "name": "անկախ քաղաքական գործիչ",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual"
@@ -2523,6 +2541,11 @@
       {
         "lang": "en",
         "name": "nonpartisan politician",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "independent member",
         "note": "multilingual"
       },
       {

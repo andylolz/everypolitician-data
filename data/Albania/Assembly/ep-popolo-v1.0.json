@@ -5450,7 +5450,7 @@
         },
         {
           "lang": "ru",
-          "name": "Нишани, Буяр",
+          "name": "Буяр Нишани",
           "note": "multilingual"
         },
         {
@@ -14792,6 +14792,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -15057,6 +15062,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "independent member",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "candidato indipendente",
           "note": "multilingual"
@@ -15140,6 +15150,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_e_Lëvizjes_Socialiste_për_Integrim.svg",
       "links": [
         {
           "note": "website",
@@ -15767,6 +15778,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/PDIU_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -16170,6 +16182,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ar",
+          "name": "الحزب الإشتراكي (ألبانيا)",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "PSSH",
           "note": "multilingual"
@@ -16394,6 +16411,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Logo_e_Lëvizjes_Socialiste_për_Integrim.svg",
       "links": [
         {
           "note": "website",
@@ -16760,6 +16778,11 @@
         {
           "lang": "be",
           "name": "Сацыялістычная партыя Албаніі",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الإشتراكي (ألبانيا)",
           "note": "multilingual"
         },
         {
@@ -20856,7 +20879,7 @@
     },
     {
       "classification": "general election",
-      "end_date": "2017-06-18",
+      "end_date": "2017-06-25",
       "id": "Q28128219",
       "identifiers": [
         {
@@ -20865,7 +20888,7 @@
         }
       ],
       "name": "Albanian parliamentary election, 2017",
-      "start_date": "2017-06-18"
+      "start_date": "2017-06-25"
     }
   ],
   "areas": [
