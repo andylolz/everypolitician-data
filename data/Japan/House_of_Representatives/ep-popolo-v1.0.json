@@ -2461,12 +2461,25 @@
       ]
     },
     {
+      "birth_date": "1975-08-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "akimoto_chiba9"
+        }
+      ],
+      "family_name": "Akimoto",
       "gender": "male",
+      "given_name": "Masatoshi",
       "id": "0ebe0a18-123d-4ba1-84fc-c640480d46d9",
       "identifiers": [
         {
           "identifier": "akimoto_masatoshi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16263623",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/019.jpg/%24File/019.jpg",
@@ -2475,16 +2488,64 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/019.jpg/%24File/019.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Masatoshi_Akimoto"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/秋本真利"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/akimoto_chiba9"
+        }
+      ],
       "name": "AKIMOTO Masatoshi",
       "other_names": [
+        {
+          "name": "Masatoshi Akimoto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Masatoshi Akimoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Masatoshi Akimoto",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "秋本 真利君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "秋本真利",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "あきもと まさとし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "あきもと まさとし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Masatoshi Akimoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Акимото, Масатоси",
           "note": "multilingual"
         }
       ]
@@ -10322,12 +10383,24 @@
       ]
     },
     {
+      "birth_date": "1975-09-30",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "HamamuraSusumu"
+        }
+      ],
       "gender": "male",
+      "given_name": "Susumu",
       "id": "399ff3fb-3b31-4dda-b256-dbb087d9ce00",
       "identifiers": [
         {
           "identifier": "hamamura_susumu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11566187",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/351.jpg/%24File/351.jpg",
@@ -10336,16 +10409,63 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/351.jpg/%24File/351.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Susumu_Hamamura"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/濱村進"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/hamamurasusumu"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/HamamuraSusumu"
+        }
+      ],
       "name": "HAMAMURA Susumu",
       "other_names": [
+        {
+          "name": "Susumu Hamamura",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Susumu Hamamura",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Susumu Hamamura",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "濱村 進君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "濱村進",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "はまむら すすむ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "はまむら すすむ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хамамура, Сусуму",
           "note": "multilingual"
         }
       ]
@@ -14546,12 +14666,18 @@
       ]
     },
     {
+      "birth_date": "1970-04-25",
+      "family_name": "Nakagawa",
       "gender": "male",
       "id": "4b667cfe-1e5e-4958-a1b6-4e7078e9c8d0",
       "identifiers": [
         {
           "identifier": "nakagawa_toshinao",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11364762",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/301.jpg/%24File/301.jpg",
@@ -14560,16 +14686,55 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/301.jpg/%24File/301.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Toshinao_Nakagawa"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/中川俊直"
+        }
+      ],
       "name": "NAKAGAWA Toshinao",
       "other_names": [
+        {
+          "name": "Toshinao Nakagawa",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Toshinao Nakagawa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Toshinao Nakagawa",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "中川 俊直君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "中川俊直",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "なかがわ としなお",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "なかがわ としなお",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Накагава, Тосинао",
           "note": "multilingual"
         }
       ]
@@ -30136,12 +30301,24 @@
       ]
     },
     {
+      "birth_date": "1970-05-08",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "hamachi_m"
+        }
+      ],
       "gender": "male",
+      "given_name": "Masakazu",
       "id": "ae225c51-32aa-4663-ae3b-4b99ce9dc98e",
       "identifiers": [
         {
           "identifier": "hamachi_masakazu",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17220479",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/350.jpg/%24File/350.jpg",
@@ -30150,16 +30327,63 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/350.jpg/%24File/350.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Masakazu_Hamachi"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/濱地雅一"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/hamachi.masakazu"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/hamachi_m"
+        }
+      ],
       "name": "HAMACHI Masakazu",
       "other_names": [
+        {
+          "name": "Masakazu Hamachi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Masakazu Hamachi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Masakazu Hamachi",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "浜地 雅一君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "濱地雅一",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "はまち まさかず",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "はまち まさかず",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хамати, Масакадзу",
           "note": "multilingual"
         }
       ]
