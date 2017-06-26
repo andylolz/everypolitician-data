@@ -166,14 +166,41 @@
       "name": "Abdulkadir Mohamed Aden"
     },
     {
+      "gender": "male",
       "id": "19a0ee82-4205-4cc2-9577-b058cc0b022b",
       "identifiers": [
         {
           "identifier": "bashiir_maxamed_jaamac",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16730151",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Bashiir Maxamed Jaamac"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Bashir_Mohamed_Jama"
+        }
+      ],
+      "name": "Bashiir Maxamed Jaamac",
+      "other_names": [
+        {
+          "name": "Bashir Mohamed Jama",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Bashir Mohamed Jama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Bashir Mohamed Jama",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "1ad436bf-6241-436b-9810-7b46d10bb0a1",
@@ -900,9 +927,35 @@
         {
           "identifier": "ali_ahmed_mohamed",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30069813",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ali Ahmed Mohamed"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ali_Mohamed_Ahmed"
+        }
+      ],
+      "name": "Ali Ahmed Mohamed",
+      "other_names": [
+        {
+          "name": "Ali Mohamed Ahmed",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ali Mohamed Ahmed",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ali Mohamed Ahmed",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "608193c5-b012-43ff-b0a4-96c56de19993",
@@ -1045,14 +1098,46 @@
       "name": "C/raxman Xoosh Jibriil"
     },
     {
+      "gender": "male",
       "id": "6e25cd7e-b13f-493a-9788-a2b3e1f5626e",
       "identifiers": [
         {
           "identifier": "mahad_maxamed_salaad",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18351578",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mahad Maxamed Salaad"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mahad_Mohamed_Salad"
+        }
+      ],
+      "name": "Mahad Maxamed Salaad",
+      "other_names": [
+        {
+          "name": "Mahad Mohamed Salad",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Mahad Mohamed Salad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mahad Mohamed Salad",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "マハド・モハメド・サラド",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "6e5db606-10c0-4a69-96f6-00076dbed6c3",
@@ -1075,14 +1160,108 @@
       "name": "Prof Ahmed Ismail Samatar"
     },
     {
+      "birth_date": "1940-12-25",
+      "gender": "male",
       "id": "704285a4-ca42-48f3-99dd-3540fee1783e",
       "identifiers": [
         {
           "identifier": "muse_hassan_abdulle",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q6940437",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Muse Hassan Abdulle"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Muse_Hassan_Abdulle.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Muse_Hassan_Abdulle.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/موسى_حسن_شيخ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Muse_Hassan_Sheikh_Sayid_Abdulle"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Muse_Hassan_Sheikh_Sayid_Abdulle"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ムセ・ハッサン・シェイハ・サイード・アブドゥレ"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Muse_Hassan_Abdulle"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/มูเซ_ฮัสซัน_ชีค_ซายิด_อับดุลเล"
+        }
+      ],
+      "name": "Muse Hassan Abdulle",
+      "other_names": [
+        {
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "موسى حسن شيخ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ムセ・ハッサン・シェイハ・サイード・アブドゥレ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Muse Hassan Sheikh Sayid Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Muse Hassan Abdulle",
+          "note": "multilingual"
+        },
+        {
+          "lang": "so",
+          "name": "Muuse Xasan Sheekh Sayyid Cabdulleh",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "มูเซ ฮัสซัน ชีค ซายิด อับดุลเล",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "70dbf8cd-5c49-417e-bfc2-9413c290b47a",
@@ -1238,14 +1417,46 @@
       "name": "Ibrahim Cali Cumar"
     },
     {
+      "gender": "male",
       "id": "7918b008-dade-46de-9153-27b1e7c4e8db",
       "identifiers": [
         {
           "identifier": "shariif_maxamed_xasan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19321625",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Shariif Maxamed Xasan"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Shariif_Mohamed_Hassan"
+        }
+      ],
+      "name": "Shariif Maxamed Xasan",
+      "other_names": [
+        {
+          "name": "Shariif Mohamed Hassan",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Shariif Mohamed Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Shariif Mohamed Hassan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Shariif Mohamed Hassan",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "7ca77ea1-f25b-4819-a767-a034dc4e800d",
@@ -1528,14 +1739,58 @@
       "name": "Maxamed C/laahi Xasan"
     },
     {
+      "birth_date": "1949-04-02",
+      "gender": "female",
       "id": "a253ef4f-e327-4de3-bf3c-0a8a06fca0cd",
       "identifiers": [
         {
           "identifier": "khadiija_maxamed_diiriye",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16730772",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Khadiija Maxamed Diiriye"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Khadijo_Mohamed_Diriye.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Khadijo_Mohamed_Diriye.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Khadijo_Mohamed_Diriye"
+        }
+      ],
+      "name": "Khadiija Maxamed Diiriye",
+      "other_names": [
+        {
+          "name": "Khadijo Mohamed Diriye",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Khadijo Mohamed Diriye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Khadijo Mohamed Diriye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Khadijo Mohamed Diriye",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Khadijo Mohamed Diriye",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "a36de3dd-e19d-421c-9310-f8f1813361b7",
@@ -1708,14 +1963,57 @@
       "name": "Biibi Khaliif Maxamed"
     },
     {
+      "gender": "male",
+      "given_name": "Ali",
       "id": "b75df85c-e708-4fd4-bbbf-870fb5995d1b",
       "identifiers": [
         {
           "identifier": "abdi_mohamed_ali",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q4725043",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Abdi Mohamed Ali"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ali_Mohamud_Abdi"
+        }
+      ],
+      "name": "Abdi Mohamed Ali",
+      "other_names": [
+        {
+          "name": "Ali Mohamud Abdi",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ali Mohamud Abdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ali Mohamud Abdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ali Mohamud Abdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ali Mohamud Abdi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ali Mohamud Abdi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "b7ca44bf-5a22-452d-a61e-7cd16adcffd2",
@@ -1738,14 +2036,85 @@
       "name": "Faaduma Xasan Cali"
     },
     {
+      "birth_date": "1956",
+      "gender": "male",
+      "given_name": "Mohamed",
       "id": "b9634a6e-708f-4d3d-bc3e-367a2ad1bec8",
       "identifiers": [
         {
           "identifier": "mohamed_ahmed_nur",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0gtx_3b",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q1684346",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Mohamed Ahmed Nur"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Mohamed_Nur"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Mohamoud_Ahmed_Nur"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Mohamed_Nur"
+        }
+      ],
+      "name": "Mohamed Ahmed Nur",
+      "other_names": [
+        {
+          "name": "Mohamed Nur",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mohamoud Ahmed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mohamed Nur",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "ba70deea-86c7-4e15-b46d-51bf698119a6",
