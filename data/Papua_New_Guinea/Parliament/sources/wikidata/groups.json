@@ -131,6 +131,11 @@
         "lang": "nl",
         "name": "National Alliance Party",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Партия национального альянса",
+        "note": "multilingual"
       }
     ]
   },
@@ -533,6 +538,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hy",
+        "name": "անկախ քաղաքական գործիչ",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual"
@@ -798,6 +808,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "en",
+        "name": "independent member",
+        "note": "multilingual"
+      },
+      {
         "lang": "it",
         "name": "candidato indipendente",
         "note": "multilingual"
@@ -985,6 +1000,11 @@
       {
         "lang": "fr",
         "name": "Papua and Niugini Union Pati",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Пангу",
         "note": "multilingual"
       }
     ]
