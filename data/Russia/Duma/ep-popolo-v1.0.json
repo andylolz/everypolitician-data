@@ -241,12 +241,17 @@
       "name": "Каргинов Сергей Генрихович"
     },
     {
+      "birth_date": "1953-04-13",
       "gender": "male",
       "id": "02bd3bda-0def-4111-a68e-60eda096b49a",
       "identifiers": [
         {
           "identifier": "235403",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22918802",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/666/6666a0f2058e57f0e39c9da9ea35077c.jpg",
@@ -255,7 +260,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/666/6666a0f2058e57f0e39c9da9ea35077c.jpg"
         }
       ],
-      "name": "Кузин Сергей Павлович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кузин,_Сергей_Павлович"
+        }
+      ],
+      "name": "Кузин Сергей Павлович",
+      "other_names": [
+        {
+          "name": "Кузин, Сергей Павлович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Кузин, Сергей Павлович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-03-15",
@@ -5992,13 +6014,91 @@
       "birth_date": "1958-06-08",
       "gender": "male",
       "id": "1c247d91-7953-4adf-8c1f-e42baa6a7837",
+      "identifiers": [
+        {
+          "identifier": "shulepov-e",
+          "scheme": "livejournal"
+        },
+        {
+          "identifier": "Q4211206",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/7f7/7f7b1010ac78ad923e75cb972c778d4d.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/7f7/7f7b1010ac78ad923e75cb972c778d4d.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Evgeny_Shulepov_99.jpg"
         }
       ],
-      "name": "Шулепов Евгений Борисович"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Yevgeny_Shulepov"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Шулепов,_Евгений_Борисович"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Шулєпов_Євген_Борисович"
+        }
+      ],
+      "name": "Шулепов Евгений Борисович",
+      "other_names": [
+        {
+          "name": "Евгений Шулепов",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Jewgeni Borissowitsch Schulepow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Evgeny Shulepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Evgeny Shulepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Evgeny Shulepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jevgenij Sjulepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Evgeniy Sjoelepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jevgenij Sjulepov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Евгений Шулепов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Шулєпов Євген Борисович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-01-06",
@@ -6633,21 +6733,265 @@
       "name": "Ревин Игорь Алексеевич"
     },
     {
+      "birth_date": "1943-11-07",
       "gender": "male",
+      "given_name": "Boris",
       "id": "211d9e90-0ebf-43af-97be-624708acffb5",
       "identifiers": [
         {
+          "identifier": "391",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "373199",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/096j4q",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "131990691",
+          "scheme": "gnd"
+        },
+        {
+          "identifier": "103909",
+          "scheme": "gtaa"
+        },
+        {
+          "identifier": "nr94032016",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "00000021312",
+          "scheme": "munzinger"
+        },
+        {
+          "identifier": "133258572",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "76200217",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q504137",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/1d1/1d15a3911ccfd5c305bc7c2efcab7f93.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/1d1/1d15a3911ccfd5c305bc7c2efcab7f93.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Gromov_boris_8.06.2010.jpg"
         }
       ],
-      "name": "Громов Борис Всеволодович"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بوريس_غروموف"
+        },
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Борис_Громов"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Boris_Vsevolodovič_Gromov"
+        },
+        {
+          "note": "Wikipedia (cv)",
+          "url": "https://cv.wikipedia.org/wiki/Громов_Борис_Всеволодович"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Boris_Wsewolodowitsch_Gromow"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Borís_Grómov"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ボリス・グロモフ"
+        },
+        {
+          "note": "Wikipedia (lt)",
+          "url": "https://lt.wikipedia.org/wiki/Borisas_Gromovas"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Boris_Gromow"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Громов,_Борис_Всеволодович"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Борис_Громов"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Boris_Gromov"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Громов_Борис_Всеволодович"
+        }
+      ],
+      "name": "Громов Борис Всеволодович",
+      "other_names": [
+        {
+          "name": "Громов, Борис Всеволодович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "بوريس غروموف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Борис Громов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Boris Vsevolodovič Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Громов Борис Всеволодович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Boris Wsewolodowitsch Gromow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ボリス・グロモフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Borisas Gromovas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Borys Gromow",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Громов, Борис Всеволодович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Борис Громов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Boris Gromov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Громов Борис Всеволодович",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鮑里斯·格羅莫夫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-07-14",
@@ -11226,14 +11570,500 @@
     {
       "birth_date": "1980-03-18",
       "gender": "female",
+      "given_name": "Natalja",
       "id": "3ed9d60b-dd5e-45df-aa7d-eaf3763a59c2",
+      "identifiers": [
+        {
+          "identifier": "Natalia-Poklonskaya",
+          "scheme": "quora"
+        },
+        {
+          "identifier": "Q15963668",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/08c/08c3a2c529f1fd3dc6f1edc7cfff743e.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/08c/08c3a2c529f1fd3dc6f1edc7cfff743e.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Natalia_Poklonskaya_August_2015_(cropped).jpg"
         }
       ],
-      "name": "Поклонская Наталья Владимировна"
+      "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/نتاليا_بوكلونسكايا"
+        },
+        {
+          "note": "Wikipedia (bs)",
+          "url": "https://bs.wikipedia.org/wiki/Natalija_Poklonska"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (cs)",
+          "url": "https://cs.wikipedia.org/wiki/Natalja_Poklonská"
+        },
+        {
+          "note": "Wikipedia (cv)",
+          "url": "https://cv.wikipedia.org/wiki/Поклонская_Наталья_Владимировна"
+        },
+        {
+          "note": "Wikipedia (da)",
+          "url": "https://da.wikipedia.org/wiki/Natalja_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Natalja_Wladimirowna_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (enwikiquote)",
+          "url": "https://enwikiquote.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/Natalia_Vladimirovna_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Natalia_Poklónskaya"
+        },
+        {
+          "note": "Wikipedia (eswikiquote)",
+          "url": "https://eswikiquote.wikipedia.org/wiki/Natalia_Vladímirovna_Poklónskaia"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/ناتالیا_پوکلونسکایا"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Natalja_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Natalia_Poklonskaïa"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/נטליה_פוקלונסקאיה"
+        },
+        {
+          "note": "Wikipedia (hi)",
+          "url": "https://hi.wikipedia.org/wiki/नतालिया_पोकलोन्‍सकाया"
+        },
+        {
+          "note": "Wikipedia (hr)",
+          "url": "https://hr.wikipedia.org/wiki/Natalija_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Natal'ja_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ナタリア・ポクロンスカヤ"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ნატალია_პოკლონსკაია"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/나탈리야_포클론스카야"
+        },
+        {
+          "note": "Wikipedia (lb)",
+          "url": "https://lb.wikipedia.org/wiki/Natalja_Wladimirowna_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/നതാലിയ_പൊക്ലോൻസ്‌കായ"
+        },
+        {
+          "note": "Wikipedia (ms)",
+          "url": "https://ms.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Natalia_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (oc)",
+          "url": "https://oc.wikipedia.org/wiki/Natàlia_Poklònskaia"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Natalja_Pokłonska"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Поклонская,_Наталья_Владимировна"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Наталья_Поклонская"
+        },
+        {
+          "note": "Wikipedia (ruwikiquote)",
+          "url": "https://ruwikiquote.wikipedia.org/wiki/Наталья_Владимировна_Поклонская"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Natalija_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (sk)",
+          "url": "https://sk.wikipedia.org/wiki/Natalia_Vladimirovna_Poklonská"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Наталија_Поклонска"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Natalja_Poklonskaja"
+        },
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นาตาเลีย_ปอกลอนสกายา"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Natalia_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Наталья_Поклонская"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Поклонська_Наталія_Володимирівна"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Поклонська_Наталія_Володимирівна"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/نتاليا_پوكلونسكايا"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/Natalya_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (vep)",
+          "url": "https://vep.wikipedia.org/wiki/Poklonskaja_Natal'ja"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Natalia_Vladimirovna_Poklonskaya"
+        },
+        {
+          "note": "Wikipedia (yi)",
+          "url": "https://yi.wikipedia.org/wiki/נאטאליא_פאקלאנסקאיא"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/娜塔莉亚·弗拉基米罗芙娜·波克隆斯卡娅"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/PoklonskayaNV"
+        }
+      ],
+      "name": "Поклонская Наталья Владимировна",
+      "other_names": [
+        {
+          "name": "Наталья Владимировна Поклонская",
+          "note": "alternate"
+        },
+        {
+          "lang": "ar",
+          "name": "نتاليا بوكلونسكايا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Natalija Poklonska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Natalia Vladímirovna Poklónskaia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cv",
+          "name": "Поклонская Наталья Владимировна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Natalja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Natalja Wladimirowna Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Natalja Wladimirowna Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Natalia Vladimirovna Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "ناتالیا پوکلونسکایا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Natalja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Natalia Poklonskaïa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "נטליה פוקלונסקאיה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "नतालिया पोकलोन्‍सकाया",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Natalija Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Natal'ja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ナタリア・ポクロンスカヤ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ნატალია პოკლონსკაია",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "나탈리아 포클론스카야",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Natalja Wladimirowna Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ml",
+          "name": "നതാലിയ പൊക്ലോൻസ്‌കായ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Natalja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Natalia Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Natalja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Natàlia Poklònskaia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Natalja Pokłonska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Наталья Владимировна Поклонская",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Natalija Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Natalia Vladimirovna Poklonská",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Наталија Поклонска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Natalja Poklonskaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นาตาเลีย ปอกลอนสกายา",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Наталья Поклонская",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Поклонська Наталія Володимирівна",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نتاليا پوكلونسكايا",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uz",
+          "name": "Natalya Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vep",
+          "name": "Poklonskaja Natal'ja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Natalia Poklonskaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yi",
+          "name": "נאטאליא פאקלאנסקאיא",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "娜塔莉亚·波克隆斯卡娅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-12-26",
@@ -14793,13 +15623,36 @@
       "birth_date": "1961-01-14",
       "gender": "male",
       "id": "53b5167e-f155-4158-9b74-d90a7ad9309a",
+      "identifiers": [
+        {
+          "identifier": "Q30346534",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/4af/4af7da0a643688e7c805ce27cc4a5669.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/4af/4af7da0a643688e7c805ce27cc4a5669.jpg"
         }
       ],
-      "name": "Бугера Михаил Евгеньевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бугера,_Михаил_Евгеньевич"
+        }
+      ],
+      "name": "Бугера Михаил Евгеньевич",
+      "other_names": [
+        {
+          "name": "Михаил Евгеньевич Бугера",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Михаил Евгеньевич Бугера",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1932-01-25",
@@ -15509,12 +16362,17 @@
       "name": "Петрунин Николай Юрьевич"
     },
     {
+      "birth_date": "1960-04-20",
       "gender": "male",
       "id": "55e9b785-7911-4c87-a195-2b9cd2efb56f",
       "identifiers": [
         {
           "identifier": "219933",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28466367",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/d48/d4875efcefb9c1d889449f5a0d0bced5.jpg",
@@ -15523,7 +16381,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/d48/d4875efcefb9c1d889449f5a0d0bced5.jpg"
         }
       ],
-      "name": "Тарнавский Александр Георгиевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Тарнавский,_Александр_Георгиевич"
+        }
+      ],
+      "name": "Тарнавский Александр Георгиевич",
+      "other_names": [
+        {
+          "name": "Александр Георгиевич Тарнавский",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Георгиевич Тарнавский",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-05-10",
@@ -19627,15 +20502,40 @@
       ]
     },
     {
+      "birth_date": "1946-06-05",
       "gender": "male",
+      "given_name": "Anatoli",
       "id": "773624f9-08de-4383-bafa-d81279f9a66d",
+      "identifiers": [
+        {
+          "identifier": "Q21640307",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/b1c/b1c09a6885457405468f1471656454eb.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/b1c/b1c09a6885457405468f1471656454eb.jpg"
         }
       ],
-      "name": "Ковалёв Анатолий Дмитриевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Ковалёв,_Анатолий_Дмитриевич"
+        }
+      ],
+      "name": "Ковалёв Анатолий Дмитриевич",
+      "other_names": [
+        {
+          "name": "Ковалёв, Анатолий Дмитриевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Ковалёв, Анатолий Дмитриевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-07-31",
@@ -21691,13 +22591,36 @@
       "birth_date": "1956-08-08",
       "gender": "male",
       "id": "820f9822-7c72-45de-8e2f-eef946578c26",
+      "identifiers": [
+        {
+          "identifier": "Q30596843",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/ad8/ad8df516bc1f616a5bd8ca8474d9eda2.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/ad8/ad8df516bc1f616a5bd8ca8474d9eda2.jpg"
         }
       ],
-      "name": "Березуцкий Юрий Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Березуцкий,_Юрий_Николаевич"
+        }
+      ],
+      "name": "Березуцкий Юрий Николаевич",
+      "other_names": [
+        {
+          "name": "Березуцкий, Юрий Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Березуцкий, Юрий Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-06-08",
@@ -24524,15 +25447,185 @@
       ]
     },
     {
+      "birth_date": "1977-10-11",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "EBerezhnaya"
+        }
+      ],
       "gender": "female",
+      "given_name": "Elena",
       "id": "9741c45f-e80c-479a-bf46-fc463941d054",
+      "identifiers": [
+        {
+          "identifier": "/m/0hmg1",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q433035",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/664/6644098b6b6e01c2eecb8787bbeb5664.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/664/6644098b6b6e01c2eecb8787bbeb5664.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Elena_Bereznaya.jpg"
         }
       ],
-      "name": "Бережная Елена Викторовна"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Elena_Berezhnaya"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jelena_Wiktorowna_Bereschnaja"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Elena_Berezhnaya"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Elena_Berejnaïa"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ելենա_Բերեժնայա"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/エレーナ・ベレズナヤ"
+        },
+        {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/옐레나_베레즈나야"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Jeļena_Berežnaja"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Jelena_Berezjnaja"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Jelena_Berezjnaja"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Elena_Berezhnaya"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Бережная,_Елена_Викторовна"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Yelena_Berejnaya"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/EBerezhnaya"
+        }
+      ],
+      "name": "Бережная Елена Викторовна",
+      "other_names": [
+        {
+          "name": "Елена Викторовна Бережная",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Jelena Wiktorowna Bereschnaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elena Berezhnaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elena Berezhnaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elena Berejnaïa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ելենա Բերեժնայա",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エレーナ・ベレズナヤ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "옐레나 베레즈나야",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Jeļena Berežnaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Jelena Berezjnaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jelena Berezjnaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Jelena Berezjnaja",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Elena Berezhnaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Елена Викторовна Бережная",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Yelena Berejnaya",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伊蓮娜·別烈日娜亞",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "埃琳娜·布列兹娜雅",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "佈列茲娜雅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1986-12-23",
@@ -26678,17 +27771,45 @@
       "id": "a3f9b1cb-6a95-4e89-9cb3-19acbc8de2dd",
       "identifiers": [
         {
+          "identifier": "615",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "131463",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16629325",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/8b9/8b9536dd6902e05111db820a8a231fad.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/8b9/8b9536dd6902e05111db820a8a231fad.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Васильев_Александр_Николаевич.jpg"
         }
       ],
-      "name": "Васильев Александр Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Васильев,_Александр_Николаевич_(политик)"
+        }
+      ],
+      "name": "Васильев Александр Николаевич",
+      "other_names": [
+        {
+          "name": "Александр Васильев",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Александр Васильев",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1991-06-25",
@@ -29080,12 +30201,21 @@
       "name": "Евтушенко Ирина Дмитриевна"
     },
     {
+      "birth_date": "1963-02-03",
       "gender": "female",
       "id": "ae50e6db-8bb7-4dc0-8e28-e0919f5c787e",
       "identifiers": [
         {
+          "identifier": "184",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "473253",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18399109",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/03d/03d16c4d485fd166829da8ff2d3863f7.jpg",
@@ -29094,7 +30224,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/03d/03d16c4d485fd166829da8ff2d3863f7.jpg"
         }
       ],
-      "name": "Яковлева Лариса Николаевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Яковлева,_Лариса_Николаевна"
+        }
+      ],
+      "name": "Яковлева Лариса Николаевна",
+      "other_names": [
+        {
+          "name": "Яковлева, Лариса Николаевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Яковлева, Лариса Николаевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -32543,12 +33690,21 @@
       ]
     },
     {
+      "birth_date": "1953-07-20",
       "gender": "male",
       "id": "c7ba3906-b774-439f-9a4b-3fba387641ac",
       "identifiers": [
         {
+          "identifier": "208",
+          "scheme": "declarator"
+        },
+        {
           "identifier": "870076",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q18740972",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/423/4232f624de211c3199a34aea1d338d89.jpg",
@@ -32557,7 +33713,44 @@
           "url": "http://www.duma.gov.ru/upload/iblock/423/4232f624de211c3199a34aea1d338d89.jpg"
         }
       ],
-      "name": "Мусалимов Николай Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Мусалимов,_Николай_Николаевич"
+        }
+      ],
+      "name": "Мусалимов Николай Николаевич",
+      "other_names": [
+        {
+          "name": "Мусалимов, Николай Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Musalimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Musalimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Musalimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Musalimov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Мусалимов, Николай Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-08-26",
@@ -35996,12 +37189,17 @@
       "name": "Куранов Григорий Владимирович"
     },
     {
+      "birth_date": "1964-12-02",
       "gender": "male",
       "id": "dc8e2124-9cf7-4913-8c07-4a19b628c880",
       "identifiers": [
         {
           "identifier": "239916",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24350675",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/61b/61b75ceaec78074c6d93328013c02cf8.jpg",
@@ -36010,7 +37208,28 @@
           "url": "http://www.duma.gov.ru/upload/iblock/61b/61b75ceaec78074c6d93328013c02cf8.jpg"
         }
       ],
-      "name": "Абасов Мамед Магарамович"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Абасов,_Мамед_Магарамович"
+        },
+        {
+          "note": "website",
+          "url": "http://www.abasovmm.ru"
+        }
+      ],
+      "name": "Абасов Мамед Магарамович",
+      "other_names": [
+        {
+          "name": "Абасов, Мамед Магарамович",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Абасов, Мамед Магарамович",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-01-27",
@@ -37870,6 +39089,10 @@
         {
           "identifier": "131199",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30345177",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/367/367d8c06e216b9ade16507159934305d.jpg",
@@ -37878,7 +39101,24 @@
           "url": "http://www.duma.gov.ru/upload/iblock/367/367d8c06e216b9ade16507159934305d.jpg"
         }
       ],
-      "name": "Умаханов Умахан Магомедгаджиевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Умаханов,_Умахан_Магомедгаджиевич"
+        }
+      ],
+      "name": "Умаханов Умахан Магомедгаджиевич",
+      "other_names": [
+        {
+          "name": "Умахан Магомедгаджиевич Умаханов",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Умахан Магомедгаджиевич Умаханов",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-09-26",
@@ -40433,12 +41673,17 @@
       ]
     },
     {
+      "birth_date": "1958-04-23",
       "gender": "male",
       "id": "f357621a-2679-415a-a9d9-96c07595acf9",
       "identifiers": [
         {
           "identifier": "648567",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21103195",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/165/16530fb72271adc82f21465a8c9103c1.jpg",
@@ -40447,7 +41692,48 @@
           "url": "http://www.duma.gov.ru/upload/iblock/165/16530fb72271adc82f21465a8c9103c1.jpg"
         }
       ],
-      "name": "Кузьмин Николай Алексеевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Кузьмин,_Николай_Алексеевич_(политик)"
+        },
+        {
+          "note": "website",
+          "url": "http://kuzminn.ru/"
+        }
+      ],
+      "name": "Кузьмин Николай Алексеевич",
+      "other_names": [
+        {
+          "name": "Кузьмин, Николай Алексеевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolay Kuzmin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Nikolaj Kuzmin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolay Kuzmin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nikolaj Kuzmin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Кузьмин, Николай Алексеевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-08-06",
@@ -40887,15 +42173,39 @@
       ]
     },
     {
+      "birth_date": "1959-01-28",
       "gender": "female",
       "id": "f5c10671-410b-427c-a693-332ce59ece1f",
+      "identifiers": [
+        {
+          "identifier": "Q4360162",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif",
       "images": [
         {
           "url": "http://www.duma.gov.ru/bitrix/templates/duma2/img/no_photo_small.gif"
         }
       ],
-      "name": "Петеляева Ирина Владимировна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Петеляева,_Ирина_Владимировна"
+        }
+      ],
+      "name": "Петеляева Ирина Владимировна",
+      "other_names": [
+        {
+          "name": "Петеляева, Ирина Владимировна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Петеляева, Ирина Владимировна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1976-07-09",
