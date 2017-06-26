@@ -17316,10 +17316,6 @@
       "sort_name": "Sirnö Minna"
     },
     {
-      "id": "4983bdfd-48b4-4094-82c9-41ab130e3444",
-      "name": "Ritva Elomaa"
-    },
-    {
       "birth_date": "1972-11-29",
       "contact_details": [
         {
@@ -64696,14 +64692,6 @@
       ]
     },
     {
-      "area_id": "area/varsinais-suomen",
-      "legislative_period_id": "term/37",
-      "on_behalf_of_id": "uv",
-      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
-      "person_id": "4983bdfd-48b4-4094-82c9-41ab130e3444",
-      "role": "member"
-    },
-    {
       "area_id": "area/uudenmaan",
       "legislative_period_id": "term/33",
       "on_behalf_of_id": "kesk",
@@ -76347,6 +76335,14 @@
           "url": "http://www.eduskunta.fi/triphome/bin/hex5000.sh?hnro=1096&kieli=su"
         }
       ]
+    },
+    {
+      "area_id": "area/varsinais-suomen",
+      "legislative_period_id": "term/37",
+      "on_behalf_of_id": "uv",
+      "organization_id": "88d9bfa8-a8f8-4312-bfb9-a851657d3780",
+      "person_id": "f510a0c5-aeee-4df0-ad14-d536d85fc099",
+      "role": "member"
     },
     {
       "area_id": "area/kymen",
