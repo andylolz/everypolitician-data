@@ -331,18 +331,38 @@
           "value": "4108655"
         }
       ],
+      "gender": "male",
       "id": "050d1b87-0cb3-41e5-8d1e-c065b4b8b1fd",
       "identifiers": [
         {
           "identifier": "ram_krishna_yadav",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19683098",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/रामकृष्ण_यादव"
         }
       ],
       "name": "Ram Krishna Yadav",
       "other_names": [
         {
+          "name": "रामकृष्ण यादव",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.रामकृष्ण यादब",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "रामकृष्ण यादव",
           "note": "multilingual"
         }
       ]
@@ -4791,10 +4811,29 @@
         {
           "identifier": "ang_tawa_sherpa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13179186",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/आङ_दावा_शेर्पा"
         }
       ],
       "name": "Ang Tawa Sherpa",
       "other_names": [
+        {
+          "name": "आङ दावा शेर्पा",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "आङ दावा शेर्पा",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा आङ टावा शेर्पा",
@@ -5079,18 +5118,38 @@
         }
       ],
       "email": "rlekhak@hotmail.com",
+      "gender": "male",
       "id": "3bec389c-7d67-43bc-a925-22d089bf2744",
       "identifiers": [
         {
           "identifier": "ramesh_lekhak",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q13185268",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/रमेश_लेखक"
         }
       ],
       "name": "Ramesh Lekhak",
       "other_names": [
         {
+          "name": "रमेश लेखक",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.रमेश लेखक",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "रमेश लेखक",
           "note": "multilingual"
         }
       ]
@@ -13862,13 +13921,32 @@
         {
           "identifier": "sita_gurung",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19712982",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/सिता_गुरुङ"
         }
       ],
       "name": "Sita Gurung",
       "other_names": [
         {
+          "name": "सिता गुरुङ",
+          "note": "alternate"
+        },
+        {
           "lang": "ne",
           "name": "मा.सिता गुरुङ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ne",
+          "name": "सिता गुरुङ",
           "note": "multilingual"
         }
       ]
