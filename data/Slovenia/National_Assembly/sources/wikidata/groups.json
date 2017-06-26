@@ -78,6 +78,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ru",
+        "name": "Партия умеренного центра",
+        "note": "multilingual"
+      },
+      {
         "lang": "ja",
         "name": "ミロ・ツェラル党",
         "note": "multilingual"
@@ -85,6 +90,11 @@
       {
         "lang": "sl",
         "name": "Stranka Mira Cerarja",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Партия Миро Церара",
         "note": "multilingual"
       }
     ],
@@ -1393,6 +1403,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "hy",
+        "name": "անկախ քաղաքական գործիչ",
+        "note": "multilingual"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual"
@@ -1655,6 +1670,11 @@
       {
         "lang": "en",
         "name": "nonpartisan politician",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "independent member",
         "note": "multilingual"
       },
       {
