@@ -1385,6 +1385,7 @@
       "name": "Getrude Ramírez Cabral"
     },
     {
+      "birth_date": "1976-07-03",
       "contact_details": [
         {
           "type": "email",
@@ -1398,6 +1399,10 @@
         {
           "identifier": "2071",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q25303370",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2071&f=lists_images",
@@ -1406,7 +1411,34 @@
           "url": "http://www.camaradediputados.gob.do/serve/renderimage.aspx?x=80&y=90&cz=5&m=0&i=2071&f=lists_images"
         }
       ],
-      "name": "Victor Osvaldo Gómez Casanova"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Víctor_Gómez_Casanova"
+        }
+      ],
+      "name": "Victor Osvaldo Gómez Casanova",
+      "other_names": [
+        {
+          "name": "Víctor Gómez Casanova",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Víctor Gómez Casanova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Víctor Gómez Casanova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Víctor Gómez Casanova",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
