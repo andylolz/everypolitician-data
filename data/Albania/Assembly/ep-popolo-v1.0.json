@@ -11865,9 +11865,31 @@
         {
           "identifier": "ermelinda_meksi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30315479",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Ermelinda Meksi"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ermelinda_Meksi"
+        }
+      ],
+      "name": "Ermelinda Meksi",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ermelinda Meksi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ermelinda Meksi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
