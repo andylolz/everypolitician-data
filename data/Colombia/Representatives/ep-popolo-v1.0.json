@@ -1219,6 +1219,10 @@
         {
           "identifier": "290",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29122056",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/",
@@ -1227,7 +1231,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/"
         }
       ],
-      "name": "RAFAEL EDUARDO PALAU SALAZAR"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rafael_Palau"
+        }
+      ],
+      "name": "RAFAEL EDUARDO PALAU SALAZAR",
+      "other_names": [
+        {
+          "name": "Rafael Palau",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rafael Palau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rafael Palau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rafael Palau",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2105,6 +2136,10 @@
         {
           "identifier": "188",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q29122052",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/GONZALEZ%20GARCIA%20HARRY%20GIOVANNY.jpg",
@@ -2115,6 +2150,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Harry_González"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/harrycaqueta"
         },
@@ -2123,7 +2162,28 @@
           "url": "https://twitter.com/HarryGonzalez"
         }
       ],
-      "name": "HARRY GIOVANNY GONZÁLEZ GARCÍA"
+      "name": "HARRY GIOVANNY GONZÁLEZ GARCÍA",
+      "other_names": [
+        {
+          "name": "Harry González",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Harry González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Harry González",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Harry González",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4568,6 +4628,10 @@
         {
           "identifier": "209",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27961375",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.co/portal2011/images/stories/representantes/BARRETO%20CASTILLO%20MIGUEL%20ANGEL.jpg",
@@ -4576,7 +4640,34 @@
           "url": "http://www.camara.gov.co/portal2011/images/stories/representantes/BARRETO%20CASTILLO%20MIGUEL%20ANGEL.jpg"
         }
       ],
-      "name": "MIGUEL ANGÉL BARRETO CASTILLO"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Miguel_Ángel_Barreto"
+        }
+      ],
+      "name": "MIGUEL ANGÉL BARRETO CASTILLO",
+      "other_names": [
+        {
+          "name": "Miguel Angel Barreto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Miguel Angel Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Miguel Angel Barreto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Miguel Angel Barreto",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
