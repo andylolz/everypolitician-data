@@ -1653,6 +1653,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -1915,6 +1920,11 @@
         {
           "lang": "en",
           "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual"
         },
         {
@@ -2234,7 +2244,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.prd.com.pa"
+          "url": "http://www.prdespanama.com"
         }
       ],
       "name": "Partido Revolucionario Democrático",
