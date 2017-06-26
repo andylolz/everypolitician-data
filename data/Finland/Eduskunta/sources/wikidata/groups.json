@@ -3256,5 +3256,35 @@
         "note": "multilingual"
       }
     ]
+  },
+  "uv": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q30250563"
+      }
+    ],
+    "other_names": [
+      {
+        "lang": "fi",
+        "name": "Uusi vaihtoehto",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sv",
+        "name": "Nytt alternativ",
+        "note": "multilingual"
+      },
+      {
+        "lang": "fr",
+        "name": "Nouvelle alternative",
+        "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "New Alternative",
+        "note": "multilingual"
+      }
+    ]
   }
 }
