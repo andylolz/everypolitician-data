@@ -21,12 +21,18 @@
       "name": "Risto Mancev"
     },
     {
+      "birth_date": "1964-03-06",
       "gender": "female",
+      "given_name": "Shpresa",
       "id": "01c8ec58-bc48-47ed-b21c-12ffdddcca68",
       "identifiers": [
         {
           "identifier": "shpresa-hadri",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30528658",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg",
@@ -35,7 +41,54 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Spresa-Hadri.jpg"
         }
       ],
-      "name": "Shpresa Hadri"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Shpresa_Hadri"
+        }
+      ],
+      "name": "Shpresa Hadri",
+      "other_names": [
+        {
+          "name": "Шпреса Хадри",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Шпреса Хадри",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Shpresa Hadri",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-12-25",
@@ -1350,21 +1403,179 @@
       "name": "Momcilo Avramoski"
     },
     {
+      "birth_date": "1976-01-29",
       "gender": "male",
+      "given_name": "Antonio",
       "id": "851fa6cc-6dff-4f8b-8e65-3821b012f44e",
       "identifiers": [
         {
           "identifier": "antonijo-milososki",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/04zw5tw",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q603634",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg",
       "images": [
         {
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Antonio-Milosevski.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Antonio_Milososki_(2007).jpg"
         }
       ],
-      "name": "Antonijo Milososki"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Антонио_Милошоски"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Antonio_Milošoski"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Αντόνιο_Μιλόσοσκι"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Antonio_Milošoski"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antonio_Milošoski"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Antonio_Milošoski"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Антонио_Милошоски"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Antonio_Milosjoski"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Antonio_Miłoszoski"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Милошоский,_Антонио"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Antonijo_Milloshoski"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Antonio_Milošoski"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Антоніо_Мілошоський"
+        }
+      ],
+      "name": "Antonijo Milososki",
+      "other_names": [
+        {
+          "name": "Антонио Милошоски",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Антонио Милошоски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Αντόνιο Μιλόσοσκι",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Antonio Milososki",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Антонио Милошоски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Antonio Milosjoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Antonio Milosjoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Antonio Miłoszoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Милошоский, Антонио",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Antonijo Milloshoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Antonio Milošoski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Антоніо Мілошоський",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
