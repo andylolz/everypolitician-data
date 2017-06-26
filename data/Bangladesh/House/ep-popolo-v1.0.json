@@ -9769,7 +9769,7 @@
           "url": "http://www.parliament.gov.bd/images/parliament/mps-9th-parliament/2217.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Sheikh_Hasina_-_2009.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Sheikh_Hasina_(1)_(cropped).jpg"
         }
       ],
       "links": [
@@ -9916,6 +9916,10 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Sheikh_Hasina"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Hasīna_Vazeda"
         },
         {
           "note": "Wikipedia (mai)",
@@ -10244,6 +10248,11 @@
         {
           "lang": "la",
           "name": "Sheikh Hasina",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Hasīna Vazeda",
           "note": "multilingual"
         },
         {
@@ -17640,6 +17649,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -17902,6 +17916,11 @@
         {
           "lang": "en",
           "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual"
         },
         {
