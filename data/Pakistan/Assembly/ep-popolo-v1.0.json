@@ -21924,6 +21924,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "independent member",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "candidato indipendente",
           "note": "multilingual"
@@ -22821,6 +22826,11 @@
         {
           "lang": "fr",
           "name": "Ligue musulmane du Pakistan (Z)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hi",
+          "name": "पाकिस्तान मुसलमान संघ",
           "note": "multilingual"
         }
       ]
