@@ -12767,6 +12767,12 @@
       "sort_name": "Childs, Bruce"
     },
     {
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "SenatorGeorgiou"
+        }
+      ],
       "family_name": "Georgiou",
       "gender": "male",
       "given_name": "Peter",
@@ -12789,16 +12795,27 @@
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/269583/upload_ref_binary/269583.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/849781096573042688/iDv4vpq5.jpg"
         }
       ],
       "links": [
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Peter_Georgiou"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/SenatorGeorgiou"
         }
       ],
       "name": "Peter Georgiou",
       "other_names": [
+        {
+          "name": "Sen. Peter Georgiou",
+          "note": "alternate"
+        },
         {
           "name": "Senator Peter Georgiou",
           "note": "alternate"
