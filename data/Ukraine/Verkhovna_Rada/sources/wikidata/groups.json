@@ -922,6 +922,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "en",
+        "name": "independent member",
+        "note": "multilingual"
+      },
+      {
         "lang": "it",
         "name": "candidato indipendente",
         "note": "multilingual"
@@ -1141,6 +1146,16 @@
       {
         "lang": "de",
         "name": "Samopomitsch",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Объединение «Самопомощь»",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Объединение Самопомощь",
         "note": "multilingual"
       }
     ],

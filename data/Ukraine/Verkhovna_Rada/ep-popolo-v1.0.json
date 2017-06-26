@@ -100,6 +100,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Дзензерський_Денис_Вікторович"
+        },
+        {
+          "note": "website",
+          "url": "http://www.dzenzersky.com/"
         }
       ],
       "name": "Дзензерський Денис Вікторович",
@@ -4040,7 +4044,7 @@
         },
         {
           "lang": "ru",
-          "name": "Семерак, Остап Михайлович",
+          "name": "Остап Михайлович Семерак",
           "note": "multilingual"
         },
         {
@@ -7520,6 +7524,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Пинзеник_Віктор_Михайлович"
+        },
+        {
+          "note": "website",
+          "url": "http://pynzenyk.com.ua/"
         }
       ],
       "name": "Пинзеник Віктор Михайлович",
@@ -9730,7 +9738,7 @@
       "other_names": [
         {
           "lang": "ru",
-          "name": "Тимошенко, Юрий Владимирович",
+          "name": "Юрий Владимирович Тимошенко",
           "note": "multilingual"
         },
         {
@@ -17900,6 +17908,11 @@
       "name": "Писаренко Валерій Володимирович",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Pysarenko Valeriy Volodimirovich",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Писаренко, Валерий Владимирович",
           "note": "multilingual"
@@ -18452,6 +18465,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Ткачук_Геннадій_Віталійович"
+        },
+        {
+          "note": "website",
+          "url": "http://www.tkachukrada.com//"
         }
       ],
       "name": "Ткачук Геннадій Віталійович",
@@ -24287,6 +24304,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Кіссе_Антон_Іванович"
+        },
+        {
+          "note": "website",
+          "url": "http://antonkisse.com"
         }
       ],
       "name": "Кіссе Антон Іванович",
@@ -35032,6 +35053,10 @@
         {
           "note": "Wikipedia (ukwikisource)",
           "url": "https://ukwikisource.wikipedia.org/wiki/Автор:Олександр_Бригинець"
+        },
+        {
+          "note": "website",
+          "url": "http://bryhynets.com/"
         }
       ],
       "name": "Бригинець Олександр Михайлович",
@@ -36221,6 +36246,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "independent member",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "candidato indipendente",
           "note": "multilingual"
@@ -36708,6 +36738,16 @@
         {
           "lang": "de",
           "name": "Samopomitsch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединение «Самопомощь»",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Объединение Самопомощь",
           "note": "multilingual"
         }
       ]
