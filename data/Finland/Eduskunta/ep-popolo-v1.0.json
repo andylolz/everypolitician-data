@@ -39984,8 +39984,66 @@
       "sort_name": "Taiveaho Satu"
     },
     {
+      "birth_date": "1976-01-06",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "pilvitorsti"
+        }
+      ],
+      "gender": "female",
+      "given_name": "Pilvi",
       "id": "b2528003-b51e-4fa4-b642-84d5976f927a",
-      "name": "Pilvi Torsti"
+      "identifiers": [
+        {
+          "identifier": "Q11888151",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pilvi_Torsti_2011_-_O495.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pilvi_Torsti_2011_-_O495.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Pilvi_Torsti"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/pilvitorsti"
+        }
+      ],
+      "name": "Pilvi Torsti",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Pilvi Torsti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Pilvi Torsti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pilvi Torsti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pilvi Torsti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pilvi Torsti",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1967-02-21",
