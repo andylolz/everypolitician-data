@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "birth_date": "1979",
+      "birth_date": "1979-02-12",
       "gender": "male",
       "id": "49c51242-2150-4c07-b910-bb03c6ebd358",
       "identifiers": [
@@ -2456,6 +2456,10 @@
         {
           "note": "Wikipedia (mn)",
           "url": "https://mn.wikipedia.org/wiki/Сайнхүүгийн_Ганбаатар"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/赛音呼·钢巴特尔"
         },
         {
           "note": "website",
@@ -4014,7 +4018,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/巴德玛尼亚木布·巴特额尔登"
+          "url": "https://zh.wikipedia.org/wiki/巴达玛宁布·巴特额尔登"
         },
         {
           "note": "website",
@@ -5000,7 +5004,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/哈勒特玛格·巴特图勒嘎"
+          "url": "https://zh.wikipedia.org/wiki/哈勒特马·巴图勒嘎"
         },
         {
           "note": "twitter",
@@ -8425,6 +8429,11 @@
         {
           "lang": "en",
           "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual"
         },
         {
