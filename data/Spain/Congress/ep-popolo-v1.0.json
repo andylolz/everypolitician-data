@@ -5351,6 +5351,10 @@
           "url": "https://eu.wikipedia.org/wiki/Josu_Erkoreka"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Josu_Erkoreka"
+        },
+        {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Josu_Erkoreka"
         },
@@ -18875,11 +18879,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Alberto_Garzón_(crop).jpg",
+      "image": "https://pbs.twimg.com/profile_images/760028030479831040/743PYZds.jpg",
       "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Alberto_Garzón_(crop).jpg"
-        },
         {
           "url": "https://pbs.twimg.com/profile_images/760028030479831040/743PYZds.jpg"
         }
@@ -53240,7 +53241,7 @@
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Gerardo_Camps_Devesa"
+          "url": "https://fr.wikipedia.org/wiki/Gerardo_Camps"
         }
       ],
       "name": "Gerardo Camps",
