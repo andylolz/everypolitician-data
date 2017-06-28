@@ -11667,7 +11667,14 @@
     },
     {
       "classification": "legislative period",
+      "end_date": "2017-03-02",
       "id": "term/5",
+      "identifiers": [
+        {
+          "identifier": "Q31013903",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "5th Convocation",
       "organization_id": "732f3cfe-3740-49df-bfb1-13c67424f3ac",
       "start_date": "2012-05-31"
