@@ -59534,9 +59534,30 @@
         {
           "identifier": "98",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q30819151",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ruth_Grossenbacher"
         }
       ],
       "name": "Ruth Grossenbacher-Schmid",
+      "other_names": [
+        {
+          "name": "Ruth Grossenbacher",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ruth Grossenbacher",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Grossenbacher-Schmid, Ruth"
     },
     {
@@ -68156,9 +68177,41 @@
         {
           "identifier": "4213",
           "scheme": "parlamentdotch"
+        },
+        {
+          "identifier": "Q30118254",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Samuel_Bendahan"
         }
       ],
       "name": "Samuel Bendahan",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Samuel Bendahan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Samuel Bendahan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Samuel Bendahan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Samuel Bendahan",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bendahan, Samuel"
     },
     {
