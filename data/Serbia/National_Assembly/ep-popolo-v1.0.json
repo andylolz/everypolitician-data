@@ -748,6 +748,10 @@
           "url": "https://it.wikipedia.org/wiki/Ivica_Dačić"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/이비차_다치치"
+        },
+        {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Ivica_Dačić"
         },
@@ -922,6 +926,11 @@
         {
           "lang": "ja",
           "name": "イビツァ・ダチッチ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "이비차 다치치",
           "note": "multilingual"
         },
         {
@@ -9964,7 +9973,9 @@
           "value": "djuka_sns"
         }
       ],
+      "family_name": "Đukanović",
       "gender": "male",
+      "given_name": "Vladimír",
       "id": "e7b4408d-11d9-4cca-ab6f-059b370b95b7",
       "identifiers": [
         {
@@ -10004,6 +10015,11 @@
         {
           "lang": "nl",
           "name": "Vladimir Đukanović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Владимир Ђукановић",
           "note": "multilingual"
         }
       ],
