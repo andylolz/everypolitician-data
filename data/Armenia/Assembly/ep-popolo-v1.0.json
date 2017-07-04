@@ -844,6 +844,10 @@
         {
           "identifier": "1069",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31196902",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parliament.am/photo.php?source=deputy&size=big&id=1069",
@@ -852,8 +856,23 @@
           "url": "http://parliament.am/photo.php?source=deputy&size=big&id=1069"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Մարգարիտ_Եսայան"
+        }
+      ],
       "name": "Margarit Yesayan",
       "other_names": [
+        {
+          "name": "Մարգարիտ Եսայան",
+          "note": "alternate"
+        },
+        {
+          "lang": "hy",
+          "name": "Մարգարիտ Եսայան",
+          "note": "multilingual"
+        },
         {
           "lang": "hy",
           "name": "Մարգարիտ Հենրիկի Եսայան",
