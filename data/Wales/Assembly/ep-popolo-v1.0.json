@@ -4822,6 +4822,10 @@
         {
           "type": "email",
           "value": "Lynne.Neagle@assembly.wales"
+        },
+        {
+          "type": "twitter",
+          "value": "lynne_neagle"
         }
       ],
       "email": "Lynne.Neagle@assembly.wales",
@@ -4845,6 +4849,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lynne_Neagle.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/798545175345844224/nBs4-ZEw.jpg"
         }
       ],
       "links": [
@@ -4859,6 +4866,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/lynneneagle"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/lynne_neagle"
         }
       ],
       "name": "Lynne Neagle",
@@ -8965,6 +8976,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/David_Melding_AM.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/866949029904732161/euFbSzOq.jpg"
         }
       ],
       "links": [
@@ -9242,6 +9256,10 @@
         },
         {
           "type": "twitter",
+          "value": "MishBrownAM"
+        },
+        {
+          "type": "twitter",
           "value": "WalesUKIP"
         }
       ],
@@ -9263,6 +9281,9 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Michelle_Brown_AM.png"
         },
         {
+          "url": "https://pbs.twimg.com/profile_images/754729677030293504/pQiirjHJ.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/700352245666287617/c5Twg4TF.png"
         }
       ],
@@ -9273,11 +9294,19 @@
         },
         {
           "note": "twitter",
+          "url": "https://twitter.com/MishBrownAM"
+        },
+        {
+          "note": "twitter",
           "url": "https://twitter.com/WalesUKIP"
         }
       ],
       "name": "Michelle Brown",
       "other_names": [
+        {
+          "name": "Michelle Brown AM",
+          "note": "alternate"
+        },
         {
           "lang": "en",
           "name": "Michelle Brown",
