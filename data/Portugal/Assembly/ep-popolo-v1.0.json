@@ -11074,6 +11074,10 @@
         {
           "identifier": "2522",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q28973800",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2522&type=deputado",
@@ -11085,7 +11089,25 @@
           "url": "http://demo.cratica.org/media/img/deputados/2522.jpg"
         }
       ],
-      "name": "Catarina Marcelino"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Catarina_Marcelino"
+        }
+      ],
+      "name": "Catarina Marcelino",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Catarina Marcelino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Catarina Marcelino",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1942-03-02",
@@ -24642,6 +24664,10 @@
         {
           "identifier": "1135",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q30934999",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=1135&type=deputado",
@@ -24650,7 +24676,20 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1135&type=deputado"
         }
       ],
-      "name": "Helena Lopes da Costa"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Helena_Lopes_da_Costa"
+        }
+      ],
+      "name": "Helena Lopes da Costa",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Helena Lopes da Costa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "862514f2-6063-4457-a03e-ceae74536d0f",
@@ -25513,6 +25552,10 @@
         {
           "identifier": "3339",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q28973801",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=3339&type=deputado",
@@ -25521,7 +25564,29 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=3339&type=deputado"
         }
       ],
-      "name": "Margarida Marques"
+      "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Margarida_Marques"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Margarida_Marques"
+        }
+      ],
+      "name": "Margarida Marques",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Margarida Marques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Margarida Marques",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-07-15",
@@ -29400,6 +29465,14 @@
         {
           "identifier": "2263",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "306464411",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q23904964",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=2263&type=deputado",
@@ -29411,7 +29484,43 @@
           "url": "http://demo.cratica.org/media/img/deputados/2263.jpg"
         }
       ],
-      "name": "Ana Paula Vitorino"
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ana_Paula_Vitorino"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Ana_Paula_Vitorino"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ana_Paula_Vitorino"
+        }
+      ],
+      "name": "Ana Paula Vitorino",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Ana Paula Vitorino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana Paula Vitorino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Ana Paula Vitorino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ana Paula Vitorino",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-10-25",
@@ -42599,6 +42708,10 @@
         {
           "identifier": "5830",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q30930777",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=5830&type=deputado",
@@ -42607,7 +42720,20 @@
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=5830&type=deputado"
         }
       ],
-      "name": "Graça Fonseca"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Graça_Fonseca"
+        }
+      ],
+      "name": "Graça Fonseca",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Graça Fonseca",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-12-14",
@@ -42621,6 +42747,10 @@
         {
           "identifier": "4428",
           "scheme": "parlamento"
+        },
+        {
+          "identifier": "Q30932423",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://app.parlamento.pt/webutils/getimage.aspx?id=4428&type=deputado",
@@ -42632,7 +42762,20 @@
           "url": "http://demo.cratica.org/media/img/deputados/4428.jpg"
         }
       ],
-      "name": "Inês Teotónio Pereira"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Inês_Teotónio_Pereira"
+        }
+      ],
+      "name": "Inês Teotónio Pereira",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Inês Teotónio Pereira",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-07-17",
