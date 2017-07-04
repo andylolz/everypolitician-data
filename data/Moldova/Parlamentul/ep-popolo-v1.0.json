@@ -3416,6 +3416,11 @@
           "lang": "nl",
           "name": "Eugen Bodarev",
           "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Eugen Bodarev",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Bodarev Eugen"
@@ -4602,10 +4607,6 @@
       ],
       "links": [
         {
-          "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Vladimir_Vitiuc"
-        },
-        {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Vladimir_Vitiuc"
         }
@@ -5708,6 +5709,11 @@
         },
         {
           "lang": "nl",
+          "name": "Iurie Chiorescu",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
           "name": "Iurie Chiorescu",
           "note": "multilingual"
         }
@@ -7744,6 +7750,16 @@
       "name": "Mihaela Iacob",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Mihaela Iacob",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mihaela Iacob",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Mihaela Iacob",
           "note": "multilingual"
@@ -9387,6 +9403,11 @@
           "lang": "nl",
           "name": "Alexandru Barbăroșie",
           "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Alexandru Barbăroșie",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Alexandru Barbăroșie"
@@ -9563,13 +9584,17 @@
       "name": "Simion Grişciuc",
       "other_names": [
         {
+          "name": "Simion Grișciuc",
+          "note": "alternate"
+        },
+        {
           "lang": "de",
           "name": "Simion Grişciuc",
           "note": "multilingual"
         },
         {
           "lang": "en",
-          "name": "Simion Grişciuc",
+          "name": "Simion Grișciuc",
           "note": "multilingual"
         },
         {
@@ -9580,6 +9605,11 @@
         {
           "lang": "nl",
           "name": "Simion Grişciuc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Simion Grișciuc",
           "note": "multilingual"
         }
       ],
@@ -13879,6 +13909,11 @@
         {
           "lang": "en",
           "name": "nonpartisan politician",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual"
         },
         {
