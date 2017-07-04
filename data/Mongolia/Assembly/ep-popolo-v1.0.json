@@ -4723,6 +4723,10 @@
         {
           "identifier": "sandagiin_byambatsogt",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31796177",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.mn/en/files/images/1019-7864481.jpg",
@@ -4733,6 +4737,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Сандагийн_Бямбацогт"
+        },
+        {
           "note": "website",
           "url": "http://byambatsogt.parliament.mn"
         }
@@ -4741,6 +4749,10 @@
       "other_names": [
         {
           "name": "BYAMBATSOGT Sandag",
+          "note": "alternate"
+        },
+        {
+          "name": "Сандагийн Бямбацогт",
           "note": "alternate"
         },
         {
@@ -5246,6 +5258,10 @@
         {
           "identifier": "luvsantserengiin_enkh-amgalan",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24174849",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.mn/en/files/images/1076-7864481.jpg",
@@ -5256,6 +5272,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (mn)",
+          "url": "https://mn.wikipedia.org/wiki/Лувсанцэрэнгийн_Энх-Амгалан"
+        },
+        {
           "note": "website",
           "url": "http://enkhamgalan.parliament.mn"
         }
@@ -5264,6 +5284,10 @@
       "other_names": [
         {
           "name": "ENKH-AMGALAN Luvsantseren",
+          "note": "alternate"
+        },
+        {
+          "name": "Лувсанцэрэнгийн Энх-Амгалан",
           "note": "alternate"
         },
         {
@@ -5882,8 +5906,31 @@
     },
     {
       "id": "d2e93223-ce7a-401a-9f66-36d67fe3d147",
+      "identifiers": [
+        {
+          "identifier": "Q22958085",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/Oyundari_deputy_minister_220.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Oyundari_deputy_minister_220.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Navaan-Yundengiin_Oyundari"
+        }
+      ],
       "name": "Navaan-Yundengiin Oyundari",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Navaan-Yundengiin Oyundari",
+          "note": "multilingual"
+        },
         {
           "lang": "mn",
           "name": "Наваан-Юндэнгийн Оюндарь",
