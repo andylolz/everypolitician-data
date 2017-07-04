@@ -177,12 +177,18 @@
       ]
     },
     {
+      "birth_date": "1976-10-03",
       "gender": "male",
+      "given_name": "Dimitar",
       "id": "046fad6d-206a-4848-8b1f-327894630cb9",
       "identifiers": [
         {
           "identifier": "dimitar-stevanandzija",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30752075",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dimitat-Stevanandjija.jpg",
@@ -191,15 +197,82 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dimitat-Stevanandjija.jpg"
         }
       ],
-      "name": "Dimitar Stevanandzija"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Dimitar_Stevananxhija"
+        }
+      ],
+      "name": "Dimitar Stevanandzija",
+      "other_names": [
+        {
+          "name": "Димитар Стевананџија",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Димитар Стевананџија",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dimitar Stevananxhija",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1966-11-02",
       "gender": "male",
       "id": "06a33f60-abba-408c-94d7-4a17dac91711",
       "identifiers": [
         {
           "identifier": "redzailj-ismaili",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30608971",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg",
@@ -208,7 +281,59 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Redjail--Ismailjli.jpg"
         }
       ],
-      "name": "Redzailj Ismaili"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Rexhail_Ismaili"
+        }
+      ],
+      "name": "Redzailj Ismaili",
+      "other_names": [
+        {
+          "name": "Реџаиљ Исмаили",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Реџаиљ Исмаили",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Rexhail Ismaili",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -228,11 +353,18 @@
       "name": "Krsto Mukoski"
     },
     {
+      "birth_date": "1977-06-07",
+      "gender": "male",
+      "given_name": "Artan",
       "id": "0a25e3b6-8a44-4bb5-829c-97614a87c4dd",
       "identifiers": [
         {
           "identifier": "artan-grubi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30608642",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/A.Grubi.jpg",
@@ -241,7 +373,59 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/A.Grubi.jpg"
         }
       ],
-      "name": "Artan Grubi"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Artan_Grubi"
+        }
+      ],
+      "name": "Artan Grubi",
+      "other_names": [
+        {
+          "name": "Артан Груби",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Артан Груби",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Artan Grubi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -261,12 +445,18 @@
       "name": "Selvije Saliu"
     },
     {
+      "birth_date": "1962-10-28",
       "gender": "male",
+      "given_name": "Zoran",
       "id": "0bf5a867-e953-4eab-b3dd-4766f375bffd",
       "identifiers": [
         {
           "identifier": "zoran-ilioski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31368035",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg",
@@ -275,7 +465,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Ilioski.jpg"
         }
       ],
-      "name": "Zoran Ilioski"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Zoran_Ilioski"
+        }
+      ],
+      "name": "Zoran Ilioski",
+      "other_names": [
+        {
+          "name": "Зоран Илиоски",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Зоран Илиоски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Zoran Ilioski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -295,12 +547,17 @@
       "name": "Ejup Rustemi"
     },
     {
+      "birth_date": "1962-12-08",
       "gender": "male",
       "id": "0e716fd9-c094-4882-9dbd-f8726d8dd0c0",
       "identifiers": [
         {
           "identifier": "xhevat-ademi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30608831",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg",
@@ -309,7 +566,59 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Djevad-Ademi-.jpg"
         }
       ],
-      "name": "Xhevat Ademi"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Xhevat_Ademi"
+        }
+      ],
+      "name": "Xhevat Ademi",
+      "other_names": [
+        {
+          "name": "Џеват Адеми",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Џеват Адеми",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Xhevat Ademi",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -397,12 +706,18 @@
       "name": "Olga Najdenovska"
     },
     {
+      "birth_date": "1978-08-31",
       "gender": "male",
+      "given_name": "Vladimir",
       "id": "1b7560ed-6e71-4e61-a4f6-0c9e04b1bfc3",
       "identifiers": [
         {
           "identifier": "vladimir-gjorchev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31368221",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg",
@@ -411,7 +726,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vlatko-Djorcev.jpg"
         }
       ],
-      "name": "Vladimir Gjorchev"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Vlladimir_Gjorçev"
+        }
+      ],
+      "name": "Vladimir Gjorchev",
+      "other_names": [
+        {
+          "name": "Владимир Ѓорчев",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Владимир Ѓорчев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Vlladimir Gjorçev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vladimir Gjorchev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -481,12 +858,18 @@
       "name": "Stojan Milanov"
     },
     {
+      "birth_date": "1958-01-22",
       "gender": "female",
+      "given_name": "Nada",
       "id": "25775e78-c9af-4e2d-95e0-17484fbc49fc",
       "identifiers": [
         {
           "identifier": "nada-cipuseva",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030839",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg",
@@ -495,7 +878,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Nada-Cipuseva.jpg"
         }
       ],
-      "name": "Nada Cipuseva"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Nada_Cipusheva"
+        }
+      ],
+      "name": "Nada Cipuseva",
+      "other_names": [
+        {
+          "name": "Нада Ципушева",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Нада Ципушева",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nada Cipusheva",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -515,12 +960,18 @@
       "name": "Vesna Damcevska-Ilievska"
     },
     {
+      "birth_date": "1966-06-16",
       "gender": "male",
+      "given_name": "Sasho",
       "id": "27d438a2-6559-4548-9813-4d8f65d65378",
       "identifiers": [
         {
           "identifier": "saso-vasilevski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31367739",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg",
@@ -529,7 +980,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Saso-Vasilevski.jpg"
         }
       ],
-      "name": "Saso Vasilevski"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Sasho_Vasilevski"
+        }
+      ],
+      "name": "Saso Vasilevski",
+      "other_names": [
+        {
+          "name": "Сашо Василевски",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Сашо Василевски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sasho Vasilevski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -565,12 +1078,18 @@
       "name": "Bekim Fazliu"
     },
     {
+      "birth_date": "1964-09-06",
       "gender": "female",
+      "given_name": "Liljana",
       "id": "303d9624-01ad-4518-a8ad-ede754ffa358",
       "identifiers": [
         {
           "identifier": "liljana-zaturovska",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030778",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljiljana-Zaturovska.jpg",
@@ -579,7 +1098,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ljiljana-Zaturovska.jpg"
         }
       ],
-      "name": "Liljana Zaturoska"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Liljana_Zaturoska"
+        }
+      ],
+      "name": "Liljana Zaturoska",
+      "other_names": [
+        {
+          "name": "Лилјана Затуроска",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лилјана Затуроска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liljana Zaturoska",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-01-04",
@@ -926,12 +1507,19 @@
       ]
     },
     {
+      "birth_date": "1971-08-11",
+      "family_name": "Ivanov",
       "gender": "male",
+      "given_name": "Ivan",
       "id": "40172fe5-7606-483c-9a20-80eae9068781",
       "identifiers": [
         {
           "identifier": "ivan-ivanov",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30755529",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg",
@@ -940,7 +1528,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ivan-Ivanov.jpg"
         }
       ],
-      "name": "Ivan Ivanov"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Ivan_Ivanov"
+        }
+      ],
+      "name": "Ivan Ivanov",
+      "other_names": [
+        {
+          "name": "Иван Иванов",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Иван Иванов",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ivan Ivanov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1206,12 +1856,17 @@
       ]
     },
     {
+      "birth_date": "1981-01-29",
       "gender": "female",
       "id": "5fe3b602-f91c-44ee-96fb-6384f18f51c9",
       "identifiers": [
         {
           "identifier": "slagjana-mitovska",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030864",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg",
@@ -1220,7 +1875,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Sladjana-Mitovska.jpg"
         }
       ],
-      "name": "Slagjana Mitovska"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Sllagjana_Mitovska"
+        }
+      ],
+      "name": "Slagjana Mitovska",
+      "other_names": [
+        {
+          "name": "Слаѓана Митовска",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Слаѓана Митовска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Sllagjana Mitovska",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1351,12 +2068,18 @@
       "name": "Mirjana Hadzievska"
     },
     {
+      "birth_date": "1965-04-22",
       "gender": "male",
+      "given_name": "Vasil",
       "id": "71f1ba5e-6f9d-42bf-a7ca-4e289b3abc6f",
       "identifiers": [
         {
           "identifier": "vasil-pisev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31367942",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg",
@@ -1365,7 +2088,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vasil-Pisev.jpg"
         }
       ],
-      "name": "Vasil Pisev"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Vasil_Pishev"
+        }
+      ],
+      "name": "Vasil Pisev",
+      "other_names": [
+        {
+          "name": "Васил Пишев",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Васил Пишев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vasil Pishev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1745,12 +2530,18 @@
       ]
     },
     {
+      "birth_date": "1974-07-02",
       "gender": "male",
+      "given_name": "Dragan",
       "id": "8ac4af5c-cd6c-44a2-9c4f-78ae3bee62a5",
       "identifiers": [
         {
           "identifier": "dragan-danev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30752252",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg",
@@ -1759,7 +2550,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/DraganDanev.jpg"
         }
       ],
-      "name": "Dragan Danev"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Dragan_Danev"
+        }
+      ],
+      "name": "Dragan Danev",
+      "other_names": [
+        {
+          "name": "Драган Данев",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Драган Данев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dragan Danev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1796,12 +2649,18 @@
       "name": "Hazbi LJika"
     },
     {
+      "birth_date": "1965-07-08",
       "gender": "female",
+      "given_name": "Mirsada",
       "id": "9b86e4cd-c98f-4da9-a747-467309d61b7f",
       "identifiers": [
         {
           "identifier": "mirsada-emini-asani",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30609048",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg",
@@ -1810,7 +2669,59 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/mirsadaeminiasani.jpg"
         }
       ],
-      "name": "Mirsada Emini Asani"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Mirsada_Emini-Asani"
+        }
+      ],
+      "name": "Mirsada Emini Asani",
+      "other_names": [
+        {
+          "name": "Мирсада Емини-Aсани",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Мирсада Емини-Aсани",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Mirsada Emini-Asani",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-02-15",
@@ -2062,12 +2973,18 @@
       "name": "Trajco Dimkov"
     },
     {
+      "birth_date": "1973-08-17",
       "gender": "male",
+      "given_name": "Dragan",
       "id": "b7ec31ee-6130-4919-ad5e-78bf8f7bfe36",
       "identifiers": [
         {
           "identifier": "dragan-cuklev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30752158",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg",
@@ -2076,7 +2993,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Dragan-Cuklev.jpg"
         }
       ],
-      "name": "Dragan Cuklev"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Dragan_Cuklev"
+        }
+      ],
+      "name": "Dragan Cuklev",
+      "other_names": [
+        {
+          "name": "Драган Цуклев",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Драган Цуклев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Dragan Cuklev",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2096,12 +3075,18 @@
       "name": "Andon Cibisev"
     },
     {
+      "birth_date": "1981-06-22",
       "gender": "female",
+      "given_name": "Magdalena",
       "id": "c2375d01-6636-4179-ab61-fef4b94dbc7f",
       "identifiers": [
         {
           "identifier": "magdalena-manaskova",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030803",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg",
@@ -2110,7 +3095,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Magdalena-Manaskova.jpg"
         }
       ],
-      "name": "Magdalena Manaskova"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Magdalena_Manaskova"
+        }
+      ],
+      "name": "Magdalena Manaskova",
+      "other_names": [
+        {
+          "name": "Магдалена Манаскова",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Магдалена Манаскова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Magdalena Manaskova",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2147,12 +3194,18 @@
       "name": "Mirvan DZemailji"
     },
     {
+      "birth_date": "1958-11-18",
       "gender": "male",
+      "given_name": "Zoran",
       "id": "c77c4658-a5be-47c1-b8a1-bf93ea63247d",
       "identifiers": [
         {
           "identifier": "zoran-gjorgjievski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31368120",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Gjorgjievski.jpg",
@@ -2161,7 +3214,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Zoran-Gjorgjievski.jpg"
         }
       ],
-      "name": "Zoran Gjorgjievski"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Zoran_Gjorgjievski"
+        }
+      ],
+      "name": "Zoran Gjorgjievski",
+      "other_names": [
+        {
+          "name": "Зоран Ѓорѓиевски",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Зоран Ѓорѓиевски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Zoran Gjorgjievski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2287,12 +3402,18 @@
       ]
     },
     {
+      "birth_date": "1962-07-15",
       "gender": "female",
+      "given_name": "Liljana",
       "id": "d6cb301e-2019-4400-ad11-5e7a9635c179",
       "identifiers": [
         {
           "identifier": "liljana-kuzmanovska",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030756",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg",
@@ -2301,7 +3422,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Liljana-Kuzmanovska.jpg"
         }
       ],
-      "name": "Liljana Kuzmanovska"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Liljana_Kuzmanovska"
+        }
+      ],
+      "name": "Liljana Kuzmanovska",
+      "other_names": [
+        {
+          "name": "Лилјана Кузмановска",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Лилјана Кузмановска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Liljana Kuzmanovska",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2373,11 +3556,16 @@
     },
     {
       "gender": "male",
+      "given_name": "Nikola",
       "id": "dff455c7-614c-4bc9-bc0f-b237a043e234",
       "identifiers": [
         {
           "identifier": "nikola-micevski",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31367631",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg",
@@ -2386,7 +3574,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/pratenikNIKOLA-MICEVSKI.jpg"
         }
       ],
-      "name": "Nikola Micevski"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Nikolla_Micevski"
+        }
+      ],
+      "name": "Nikola Micevski",
+      "other_names": [
+        {
+          "name": "Никола Мицевски",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Никола Мицевски",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Nikolla Micevski",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2493,12 +3743,18 @@
       ]
     },
     {
+      "birth_date": "1978-02-24",
       "gender": "female",
+      "given_name": "Ane",
       "id": "ebbe68a8-dc10-4002-acd3-56dd3cfea49c",
       "identifiers": [
         {
           "identifier": "ane-laskoska",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30557049",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg",
@@ -2507,7 +3763,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Ane-Laskoska.jpg"
         }
       ],
-      "name": "Ane Laskoska"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Ane_Llashkoska"
+        }
+      ],
+      "name": "Ane Laskoska",
+      "other_names": [
+        {
+          "name": "Ане Лашкоска",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Ане Лашкоска",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Ane Llashkoska",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ane Laskoska",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -2527,29 +3845,275 @@
       "name": "Jasminka Damceska"
     },
     {
+      "birth_date": "1979-03-19",
       "gender": "male",
+      "given_name": "Emil",
       "id": "f2b6e36a-f92a-4d3f-9599-a53ae789b021",
       "identifiers": [
         {
           "identifier": "emil-dimitriev",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q22077723",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg",
       "images": [
         {
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Emil-Dimitriev.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Эмил_Димитриев.jpg"
         }
       ],
-      "name": "Emil Dimitriev"
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Емил_Димитриев"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Εμίλ_Ντιμιτρίεφ"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/امیل_دیمیتریف"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ემილ_დიმიტრიევი"
+        },
+        {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Aemilius_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Емил_Димитриев"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Emił_Dimitriew"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Димитриев,_Эмил"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Емил_Димитриев"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Emil_Dimitriev"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Еміл_Дімітрієв"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/埃米爾·迪米特里耶夫"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/emil.dimitriev.3"
+        }
+      ],
+      "name": "Emil Dimitriev",
+      "other_names": [
+        {
+          "name": "Емил Димитриев",
+          "note": "alternate"
+        },
+        {
+          "lang": "bg",
+          "name": "Емил Димитриев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Εμίλ Ντιμιτρίεφ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "امیل دیمیتریف",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "エミール・ドミトリエフ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ემილ დიმიტრიევი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Aemilius Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Емил Димитриев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Emił Dimitriew",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Димитриев, Эмил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Емил Димитриев",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Emil Dimitriev",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Еміль Димитрієв",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃米爾·迪米特里耶夫",
+          "note": "multilingual"
+        }
+      ]
     },
     {
+      "birth_date": "1960-11-05",
       "gender": "female",
+      "given_name": "Vesna",
       "id": "f5a77e8a-5973-4d57-8981-2a3afeaf1efb",
       "identifiers": [
         {
           "identifier": "vesna-pemova",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31030908",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg",
@@ -2558,7 +4122,69 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Vesna-Pemova.jpg"
         }
       ],
-      "name": "Vesna Pemova"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Vesna_Pemova"
+        }
+      ],
+      "name": "Vesna Pemova",
+      "other_names": [
+        {
+          "name": "Весна Пемова",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Весна Пемова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Vesna Pemova",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -2578,12 +4204,18 @@
       "name": "Ljupco Dimovski"
     },
     {
+      "birth_date": "1978-07-20",
       "gender": "female",
+      "given_name": "Daniela",
       "id": "fc6daa63-6136-44f1-a8ef-352f1a80a80d",
       "identifiers": [
         {
           "identifier": "daniela-rangelova",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30617491",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg",
@@ -2592,7 +4224,59 @@
           "url": "http://sobranie.mk/content/images/pratenici%20sliki%2014-18/Daniela-Rangelova.jpg"
         }
       ],
-      "name": "Daniela Rangelova"
+      "links": [
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Daniella_Rangellova"
+        }
+      ],
+      "name": "Daniela Rangelova",
+      "other_names": [
+        {
+          "name": "Даниела Рангелова",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mk",
+          "name": "Даниела Рангелова",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Daniella Rangellova",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
