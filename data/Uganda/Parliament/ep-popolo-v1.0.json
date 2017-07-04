@@ -2068,7 +2068,35 @@
     {
       "gender": "female",
       "id": "132cf04a-53dc-450d-afe5-1963287eb878",
-      "name": "Jastine Kashaija Ayebazibwe"
+      "identifiers": [
+        {
+          "identifier": "Q30899710",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Justine_Ayebazibwe"
+        }
+      ],
+      "name": "Jastine Kashaija Ayebazibwe",
+      "other_names": [
+        {
+          "name": "Justine Ayebazibwe",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Justine Ayebazibwe",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Justine Ayebazibwe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-11-18",
@@ -6453,13 +6481,37 @@
       ],
       "gender": "female",
       "id": "3f82f96c-8231-4b5c-a116-ae87ca017818",
+      "identifiers": [
+        {
+          "identifier": "Q30945317",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/TUMUSIIME%20ROSEMARY.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/TUMUSIIME%20ROSEMARY.jpg"
         }
       ],
-      "name": "Rosemary Tumusiime"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rosemary_Tumusiime"
+        }
+      ],
+      "name": "Rosemary Tumusiime",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Rosemary Tumusiime",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rosemary Tumusiime",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-01-01",
@@ -12978,6 +13030,10 @@
         {
           "identifier": "2015-248",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30302621",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.go.ug/mpdata/pics/9parl/SABIITI248.jpg",
@@ -12988,11 +13044,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jack_Sabiiti"
+        },
+        {
           "note": "website",
           "url": "http://www.parliament.go.ug/mpdata/mps.hei?p=f&n=t&details=t&j=248&const=Rukiga++County&dist_id=55&distname=Kabale"
         }
       ],
       "name": "Jack Sabiiti",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jack Sabiiti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jack Sabiiti",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sabiiti, Jack"
     },
     {
@@ -15629,13 +15701,37 @@
       ],
       "gender": "male",
       "id": "90adbac5-c04b-4708-89a7-5143e354619f",
+      "identifiers": [
+        {
+          "identifier": "Q30323636",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Byibesho%20Sam.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Byibesho%20Sam.jpg"
         }
       ],
-      "name": "Sam Byibesho"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sam_Byibesho"
+        }
+      ],
+      "name": "Sam Byibesho",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sam Byibesho",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sam Byibesho",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-03-15",
@@ -19514,13 +19610,37 @@
       ],
       "gender": "male",
       "id": "be9884d0-1489-43ef-b7f0-ef3a9e1e5ea2",
+      "identifiers": [
+        {
+          "identifier": "Q30323559",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Bitangaro%20Sam%20Kwizera,.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Bitangaro%20Sam%20Kwizera,.jpg"
         }
       ],
-      "name": "Sam Bitangaro"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sam_Bitangaro"
+        }
+      ],
+      "name": "Sam Bitangaro",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Sam Bitangaro",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sam Bitangaro",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-12-11",
@@ -19975,13 +20095,37 @@
       ],
       "gender": "male",
       "id": "c2184f9a-9b3f-4669-871a-e1289dbc285d",
+      "identifiers": [
+        {
+          "identifier": "Q31153326",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/OGAMA%20ALLI%20ISMAIL.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/OGAMA%20ALLI%20ISMAIL.jpg"
         }
       ],
-      "name": "Ismail Ogama"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ismail_Ogama"
+        }
+      ],
+      "name": "Ismail Ogama",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Ismail Ogama",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ismail Ogama",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-12-03",
@@ -21085,13 +21229,41 @@
       ],
       "gender": "male",
       "id": "ce64267a-3fd8-4ba8-b922-70641a2889d7",
+      "identifiers": [
+        {
+          "identifier": "Q30323685",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Ninsiima%20Boaz%20Kasirabo,%20Kooki%20County,%20Rakai,%20NRM.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Ninsiima%20Boaz%20Kasirabo,%20Kooki%20County,%20Rakai,%20NRM.jpg"
         }
       ],
-      "name": "Boaz Kasirabo Ninsiiima"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Boaz_Ninsiima"
+        }
+      ],
+      "name": "Boaz Kasirabo Ninsiiima",
+      "other_names": [
+        {
+          "name": "Boaz Ninsiima",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Boaz Ninsiima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Boaz Ninsiima",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -24675,13 +24847,37 @@
       ],
       "gender": "female",
       "id": "f8748b90-4d4b-4dd9-8052-a27db5a1d32a",
+      "identifiers": [
+        {
+          "identifier": "Q30323658",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/Atuhaire%20Jacklet.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/Atuhaire%20Jacklet.jpg"
         }
       ],
-      "name": "Jacklet Atuhaire"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jacklet_Atuhaire"
+        }
+      ],
+      "name": "Jacklet Atuhaire",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jacklet Atuhaire",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jacklet Atuhaire",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-11-18",
