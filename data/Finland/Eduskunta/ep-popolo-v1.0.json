@@ -3389,6 +3389,10 @@
         {
           "type": "phone",
           "value": "(09) 432 3044"
+        },
+        {
+          "type": "twitter",
+          "value": "sirkka_anttila"
         }
       ],
       "email": "sirkka-liisa.anttila@eduskunta.fi",
@@ -3437,6 +3441,9 @@
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sirkka-Liisa_Anttila.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/870190598531297281/HBTmle0u.jpg"
         }
       ],
       "links": [
@@ -3469,12 +3476,20 @@
           "url": "https://tr.wikipedia.org/wiki/Sirkka-Liisa_Anttila"
         },
         {
+          "note": "twitter",
+          "url": "https://twitter.com/sirkka_anttila"
+        },
+        {
           "note": "wikipedia",
           "url": "http://fi.wikipedia.org/wiki/Sirkka-Liisa_Anttila"
         }
       ],
       "name": "Sirkka-Liisa Anttila",
       "other_names": [
+        {
+          "name": "sirkka-liisa.anttila",
+          "note": "alternate"
+        },
         {
           "lang": "da",
           "name": "Sirkka-Liisa Anttila",
@@ -40044,6 +40059,9 @@
       "images": [
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pilvi_Torsti_2011_-_O495.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/profile_images/590173616635039745/CAiiqSx9.jpg"
         }
       ],
       "links": [
