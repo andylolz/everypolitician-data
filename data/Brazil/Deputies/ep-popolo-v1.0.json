@@ -10550,6 +10550,10 @@
         {
           "identifier": "5830419",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30934849",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178952.jpg",
@@ -10558,7 +10562,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178952.jpg"
         }
       ],
-      "name": "WALTER ALVES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Walter_Alves"
+        }
+      ],
+      "name": "WALTER ALVES",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Walter Alves",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-10-29",
@@ -33044,6 +33061,10 @@
         {
           "identifier": "5830384",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30931741",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/160669.jpg",
@@ -33052,7 +33073,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160669.jpg"
         }
       ],
-      "name": "GENECIAS NORONHA"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Genecias_Noronha"
+        }
+      ],
+      "name": "GENECIAS NORONHA",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Genecias Noronha",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-05-10",
@@ -35127,6 +35161,10 @@
         {
           "identifier": "5830540",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30929130",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/178944.jpg",
@@ -35135,7 +35173,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178944.jpg"
         }
       ],
-      "name": "ROBERTO SALES"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Roberto_Sales"
+        }
+      ],
+      "name": "ROBERTO SALES",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Roberto Sales",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -39659,6 +39710,10 @@
         {
           "identifier": "5830437",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30931425",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.camara.gov.br/internet/deputado/bandep/122466.jpg",
@@ -39667,7 +39722,20 @@
           "url": "http://www.camara.gov.br/internet/deputado/bandep/122466.jpg"
         }
       ],
-      "name": "RONALDO MARTINS"
+      "links": [
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Ronaldo_Martins"
+        }
+      ],
+      "name": "RONALDO MARTINS",
+      "other_names": [
+        {
+          "lang": "pt",
+          "name": "Ronaldo Martins",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
