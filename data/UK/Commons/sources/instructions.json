@@ -141,6 +141,14 @@
           "ignore": [ "name", "twitter" ]
         }
       }
+    },
+    {
+      "file": "manual/facebook.csv",
+      "type": "person",
+      "merge": {
+        "incoming_field": "parlparse_id",
+        "existing_field": "identifier__parlparse",
+      }
     }
   ]
 }
