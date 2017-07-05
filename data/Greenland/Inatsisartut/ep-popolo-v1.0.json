@@ -324,23 +324,6 @@
       "name": "Jørgen W. Johansen"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "laura@inatsisartut.gl"
-        }
-      ],
-      "email": "laura@inatsisartut.gl",
-      "id": "0c9476b6-5f6a-4bc7-9e14-55f2b10aec38",
-      "image": "http://www.ina.gl/media/personfiler/2461193/Laura%20Taunajik%202014.12%20-%2015533.jpg",
-      "images": [
-        {
-          "url": "http://www.ina.gl/media/personfiler/2461193/Laura%20Taunajik%202014.12%20-%2015533.jpg"
-        }
-      ],
-      "name": "Laura Táunâjik"
-    },
-    {
       "gender": "male",
       "id": "0f6a0603-1fd3-4fe6-b899-b4f1532cad71",
       "identifiers": [
@@ -356,6 +339,30 @@
         }
       ],
       "name": "Johan Lund Olsen"
+    },
+    {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "laura@inatsisartut.gl"
+        }
+      ],
+      "email": "laura@inatsisartut.gl",
+      "gender": "female",
+      "id": "0fac307b-389a-4cf5-8721-b5e6e4c7ed64",
+      "identifiers": [
+        {
+          "identifier": "laura_tàunâjik",
+          "scheme": "everypolitician_legacy"
+        }
+      ],
+      "image": "http://www.ina.gl/media/personfiler/2461193/Laura%20Taunajik%202014.12%20-%2015533.jpg",
+      "images": [
+        {
+          "url": "http://www.ina.gl/media/personfiler/2461193/Laura%20Taunajik%202014.12%20-%2015533.jpg"
+        }
+      ],
+      "name": "Laura Táunâjik"
     },
     {
       "gender": "male",
@@ -8255,13 +8262,6 @@
       "role": "member"
     },
     {
-      "legislative_period_id": "term/12",
-      "on_behalf_of_id": "siumut",
-      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
-      "person_id": "0c9476b6-5f6a-4bc7-9e14-55f2b10aec38",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "inuit_ataqatigiit",
       "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
@@ -8294,6 +8294,13 @@
       "on_behalf_of_id": "inuit_ataqatigiit",
       "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
       "person_id": "0f6a0603-1fd3-4fe6-b899-b4f1532cad71",
+      "role": "member"
+    },
+    {
+      "legislative_period_id": "term/12",
+      "on_behalf_of_id": "siumut",
+      "organization_id": "64da7dd5-4a08-41d4-9919-9e53a94352b6",
+      "person_id": "0fac307b-389a-4cf5-8721-b5e6e4c7ed64",
       "role": "member"
     },
     {
