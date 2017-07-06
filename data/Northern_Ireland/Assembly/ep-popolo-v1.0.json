@@ -1434,6 +1434,10 @@
           "scheme": "munzinger"
         },
         {
+          "identifier": "ian-paisley",
+          "scheme": "ne_se"
+        },
+        {
           "identifier": "35406216",
           "scheme": "nla"
         },
@@ -3895,6 +3899,10 @@
       "id": "274fad7a-c0cc-441e-b193-691b5f81bc15",
       "identifiers": [
         {
+          "identifier": "biography/Tom-Elliott",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "4367",
           "scheme": "datadotparl"
         },
@@ -4342,6 +4350,10 @@
           "url": "https://ru.wikipedia.org/wiki/Фостер,_Арлин"
         },
         {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Arlene_Foster"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Arlene_Foster"
         },
@@ -4423,6 +4435,11 @@
         },
         {
           "lang": "pt",
+          "name": "Arlene Foster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Arlene Foster",
           "note": "multilingual"
         },
@@ -26486,6 +26503,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "מפלגת העבודה הסוציאל-דמוקרטית",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "UK Social Democratic and Labour Party",
           "note": "multilingual"
@@ -26707,6 +26729,11 @@
         {
           "lang": "he",
           "name": "יושב ראש פרלמנט",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "parlamentuko lehendakari",
           "note": "multilingual"
         },
         {
