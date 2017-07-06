@@ -101,6 +101,21 @@
         "lang": "eu",
         "name": "Etorkizunerako Mugimendua",
         "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Framtidsbevegelsen",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "تيار المستقبل",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Courant du futur",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -205,6 +220,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "nb",
+        "name": "Den frie patriotiske bevegelse",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "Courant Patriotique Libre",
         "note": "multilingual"
@@ -252,6 +272,16 @@
       {
         "lang": "cs",
         "name": "FPB",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "التيار الوطني الحر",
+        "note": "multilingual"
+      },
+      {
+        "lang": "nb",
+        "name": "Courant patriotique libre",
         "note": "multilingual"
       }
     ],
