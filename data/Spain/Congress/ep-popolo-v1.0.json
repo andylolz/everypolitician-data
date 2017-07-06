@@ -3034,6 +3034,12 @@
       "gender": "female",
       "given_name": "Elena María",
       "id": "0d9c0d0a-766a-448d-980a-e64482f8c517",
+      "identifiers": [
+        {
+          "identifier": "Q14134827",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/169_11.jpg",
       "images": [
         {
@@ -3045,6 +3051,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Elena_Bastidas_Bono"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Elena_Bastidas_Bono"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Elena_Bastidas_Bono"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/elenabastidas.oficial"
         },
@@ -3054,6 +3072,58 @@
         }
       ],
       "name": "Elena María Bastidas Bono",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Elena Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Elena María Bastidas Bono",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Элена Мария Бастидас Боно",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bastidas Bono, Elena María"
     },
     {
@@ -4484,16 +4554,37 @@
       "gender": "male",
       "given_name": "Joan",
       "id": "1542286f-a681-477d-ab68-d71aef9e9451",
+      "identifiers": [
+        {
+          "identifier": "Q22337880",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/323_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/323_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/ActeERC_Joan_Capdevila_Esteve_0003.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/687403448178966528/Md3-rgsU.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joan_Capdevila_i_Esteve"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joan_Capdevila_i_Esteve"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joan_Capdevila_i_Esteve"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/joancapdevila"
@@ -4504,6 +4595,28 @@
         }
       ],
       "name": "Joan Capdevila i Esteve",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Joan Capdevila i Esteve",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joan Capdevila i Esteve",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Capdevila i Esteve",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Capdevila i Esteve",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Capdevila i Esteve, Joan"
     },
     {
@@ -10836,6 +10949,12 @@
       "gender": "female",
       "given_name": "Rosa Ana",
       "id": "3ccaf884-5c1a-449d-a4d1-6092f34ec52d",
+      "identifiers": [
+        {
+          "identifier": "Q31825033",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/79_11.jpg",
       "images": [
         {
@@ -10847,6 +10966,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rosa_Ana_Alonso_Clusa"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/rosana.alonsoclusa"
         },
@@ -10856,6 +10979,13 @@
         }
       ],
       "name": "Rosa Ana Alonso Clusa",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "Rosa Ana Alonso Clusa",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Alonso Clusa, Rosa Ana"
     },
     {
@@ -11475,6 +11605,12 @@
       "gender": "male",
       "given_name": "Joaquín",
       "id": "3ea0eda7-6155-4b63-a405-c4237fcd1b1f",
+      "identifiers": [
+        {
+          "identifier": "Q22893686",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/85_11.jpg",
       "images": [
         {
@@ -11486,11 +11622,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joaquín_Albaladejo_Martínez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joaquín_Albaladejo_Martínez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joaquín_Albaladejo_Martínez"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/joaquintorrevie"
         }
       ],
       "name": "Joaquín Albaladejo Martínez",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Joaquín Albaladejo Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joaquín Albaladejo Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joaquín Albaladejo Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joaquín Albaladejo Martínez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Albaladejo Martínez, Joaquín"
     },
     {
@@ -15693,6 +15863,12 @@
       "gender": "male",
       "given_name": "Óscar",
       "id": "534e1f8d-248e-4983-adf4-30a843a4f845",
+      "identifiers": [
+        {
+          "identifier": "Q14066524",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/187_11.jpg",
       "images": [
         {
@@ -15704,6 +15880,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Óscar_Clavell_López"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Óscar_Clavell_López"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Óscar_Clavell_López"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/oscar.clavell.7"
         },
@@ -15713,6 +15901,57 @@
         }
       ],
       "name": "Óscar Clavell López",
+      "other_names": [
+        {
+          "name": "Oscar Clavell Lopez",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Óscar Clavell López",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Oscar Clavell Lopez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Оскар Клавель Лопес",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Clavell López, Óscar"
     },
     {
@@ -22760,13 +22999,64 @@
       "gender": "male",
       "given_name": "Txema",
       "id": "71aa4fe6-645b-4390-8c23-ff205bf8fcef",
+      "identifiers": [
+        {
+          "identifier": "Q22964625",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/287_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/287_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Txema_Guijarro_García"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Txema_Guijarro_García"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Txema_Guijarro_García"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Txema_Guijarro"
+        }
+      ],
       "name": "Txema Guijarro García",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Txema Guijarro García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Txema Guijarro García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Txema Guijarro García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Txema Guijarro García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Txema Guijarro García",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Guijarro García, Txema"
     },
     {
@@ -28917,6 +29207,16 @@
       "gender": "male",
       "given_name": "Artemi Vicent",
       "id": "8ebef721-9e13-4cf2-aeae-24d51a6468dc",
+      "identifiers": [
+        {
+          "identifier": "117053",
+          "scheme": "dialnet"
+        },
+        {
+          "identifier": "Q20101641",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/90_11.jpg",
       "images": [
         {
@@ -28928,11 +29228,68 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Artemi_Rallo_Lombarte"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Artemi_Rallo_Lombarte"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Artemi_Rallo_Lombarte"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Artemi_Rallo"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/RalloArtemi"
         }
       ],
       "name": "Artemi Vicent Rallo Lombarte",
+      "other_names": [
+        {
+          "name": "Artemi Rallo Lombarte",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Artemi Rallo Lombarte",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rallo Lombarte, Artemi Vicent"
     },
     {
@@ -32307,6 +32664,10 @@
         {
           "identifier": "109",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31825621",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/743566115029278720/O0eK7Ld7.jpg",
@@ -32316,6 +32677,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_María_Madrazo_Díaz"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/anamaria.madrazodiaz"
@@ -32334,6 +32699,15 @@
         {
           "name": "Ana María Madrazo Díaz",
           "note": "alternate"
+        },
+        {
+          "name": "Ana María Madrazo Díaz",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Madrazo Díaz, Ana María"
@@ -36611,16 +36985,37 @@
       "gender": "female",
       "given_name": "Marta",
       "id": "ae71a5e6-8456-48b4-97ac-96379f98cfc1",
+      "identifiers": [
+        {
+          "identifier": "Q22965152",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/282_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/282_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Marta_Sorlí_a_La_Represa_03.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/779305349648093184/cYEP29z7.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marta_Sorlí_Fresquet"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marta_Sorlí_Fresquet"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marta_Sorlí_Fresquet"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Marta-Sorl%C3%AD-148074292227465"
@@ -36631,6 +37026,373 @@
         }
       ],
       "name": "Marta Sorlí Fresquet",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Marta Sorlí Fresquet",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Sorlí Fresquet, Marta"
     },
     {
@@ -39588,10 +40350,19 @@
       "gender": "male",
       "given_name": "Jordi",
       "id": "b909593b-3014-449f-b089-7478bff0ef01",
+      "identifiers": [
+        {
+          "identifier": "Q21480157",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/341_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/341_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Salvad.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/783366907986665472/jDs-SPg2.jpg"
@@ -39599,11 +40370,50 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Jordi_Salvador_i_Duch"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jordi_Salvador_i_Duch"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jordi_Salvador_i_Duch"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jsalvadorduch"
         }
       ],
       "name": "Jordi Salvador i Duch",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Jordi Salvador i Duch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jordi Salvador i Duch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jordi Salvador i Duch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jordi Salvador i Duch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jordi Salvador i Duch",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Salvador i Duch, Jordi"
     },
     {
@@ -44982,6 +45792,12 @@
       "gender": "male",
       "given_name": "Domingo",
       "id": "d3ac291c-bde6-476c-a4f6-2e7db6b63785",
+      "identifiers": [
+        {
+          "identifier": "Q22159893",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/190_11.jpg",
       "images": [
         {
@@ -44993,11 +45809,54 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Domingo_Lorenzo_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Domingo_Lorenzo_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Domingo_Lorenzo_Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Domingo_Lorenzo_Rodriguez"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/Dlorenzo54"
         }
       ],
       "name": "Domingo Lorenzo Rodríguez",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Domingo Lorenzo Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Domingo Lorenzo Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Domingo Lorenzo Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Domingo Lorenzo Rodriguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Domingo Lorenzo Rodríguez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lorenzo Rodríguez, Domingo"
     },
     {
@@ -52724,6 +53583,12 @@
       "gender": "female",
       "given_name": "Loreto",
       "id": "f5173d47-1dd9-4e5b-b1df-615af9d937d2",
+      "identifiers": [
+        {
+          "identifier": "Q22962816",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/200_11.jpg",
       "images": [
         {
@@ -52735,11 +53600,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Loreto_Cascales_Martínez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Loreto_Cascales_Martínez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Loreto_Cascales_Martínez"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/LoraCascales"
         }
       ],
       "name": "Loreto Cascales Martínez",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Loreto Cascales Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Loreto Cascales Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Loreto Cascales Martínez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Loreto Cascales Martínez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Cascales Martínez, Loreto"
     },
     {
