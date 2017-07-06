@@ -12469,6 +12469,10 @@
           "url": "https://it.wikipedia.org/wiki/Mihai_Tudose"
         },
         {
+          "note": "Wikipedia (ko)",
+          "url": "https://ko.wikipedia.org/wiki/미하이_투도세"
+        },
+        {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Michael_Tudose"
         },
@@ -12528,6 +12532,11 @@
         {
           "lang": "it",
           "name": "Mihai Tudose",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "미하이 투도세",
           "note": "multilingual"
         },
         {
