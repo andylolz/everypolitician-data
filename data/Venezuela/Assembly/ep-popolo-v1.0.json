@@ -4766,6 +4766,10 @@
         {
           "identifier": "38",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28663858",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_a630a27e249f026ab2a059144a73864f57547c8d.jpg",
@@ -4774,7 +4778,29 @@
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_a630a27e249f026ab2a059144a73864f57547c8d.jpg"
         }
       ],
-      "name": "JOSÉ RICARDO SANGUINO CÁRDENAS"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ricardo_Sanguino"
+        }
+      ],
+      "name": "JOSÉ RICARDO SANGUINO CÁRDENAS",
+      "other_names": [
+        {
+          "name": "Ricardo Sanguino",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ricardo Sanguino",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ricardo Sanguino",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-05-19",
@@ -6274,12 +6300,18 @@
       "name": "Carmen Luisa Bohórquez Morán"
     },
     {
+      "birth_date": "1961",
       "gender": "male",
+      "given_name": "Jesús",
       "id": "ddafdcd6-8c47-4448-a10d-b0a2f1160b7e",
       "identifiers": [
         {
           "identifier": "24",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23291591",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_1899cd03f97959c421b0a62c5e32277dbf308441.jpg",
@@ -6288,7 +6320,29 @@
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_1899cd03f97959c421b0a62c5e32277dbf308441.jpg"
         }
       ],
-      "name": "JESÚS ANTONIO MONTILLA APONTE"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jesús_Montilla_Aponte"
+        }
+      ],
+      "name": "JESÚS ANTONIO MONTILLA APONTE",
+      "other_names": [
+        {
+          "name": "Jesús Montilla Aponte",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Jesús Montilla Aponte",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jesús Montilla Aponte",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
