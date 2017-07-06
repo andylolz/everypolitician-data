@@ -115,6 +115,17 @@
       "description": "member of the lower house of the Venezuelan legislature (until 2000)"
     }
   ],
+  "Q21683673": [
+    {
+      "id": "Q20011182",
+      "label": "member of the National Assembly of Venezuela",
+      "title": "member of the National Assembly of Venezuela",
+      "description": "member of the unicameral legislature of Venezuela",
+      "qualifiers": {
+        "P580": "2016-01-05"
+      }
+    }
+  ],
   "Q5496848": [
     {
       "id": "Q18180916",
