@@ -9165,6 +9165,10 @@
         {
           "identifier": "9554",
           "scheme": "kuvendi"
+        },
+        {
+          "identifier": "Q31967060",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.al/wp-content/uploads/2015/12/Anastas-Angjeli-PS.jpg",
@@ -9175,11 +9179,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Anastas_Angjeli"
+        },
+        {
           "note": "website",
           "url": "https://www.parlament.al/deputet/anastas-angjeli/"
         }
       ],
-      "name": "Anastas Angjeli"
+      "name": "Anastas Angjeli",
+      "other_names": [
+        {
+          "lang": "sq",
+          "name": "Anastas Angjeli",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "c739801d-d794-4373-a746-e27a71b04fa2",
@@ -9823,6 +9838,10 @@
         {
           "identifier": "9795",
           "scheme": "kuvendi"
+        },
+        {
+          "identifier": "Q31965321",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.al/wp-content/uploads/sites/4/2015/12/Klodiana-Spahiu-PS.jpg",
@@ -9833,11 +9852,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Klodiana_Spahiu"
+        },
+        {
           "note": "website",
           "url": "https://www.parlament.al/deputet/klodiana-spahiu-2/"
         }
       ],
-      "name": "Klodiana Spahiu"
+      "name": "Klodiana Spahiu",
+      "other_names": [
+        {
+          "lang": "sq",
+          "name": "Klodiana Spahiu",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1946-03-11",
