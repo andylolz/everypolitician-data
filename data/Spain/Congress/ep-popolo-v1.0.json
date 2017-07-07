@@ -39229,6 +39229,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Aitor_Esteban_Bravo"
+        },
+        {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Aitor_Esteban"
         },
@@ -39262,6 +39266,11 @@
         {
           "name": "Aitor Esteban Bravo",
           "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Aitor Esteban Bravo",
+          "note": "multilingual"
         },
         {
           "lang": "da",
@@ -40380,6 +40389,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Jordi_Salvador_i_Duch"
+        },
+        {
+          "note": "Wikipedia (ml)",
+          "url": "https://ml.wikipedia.org/wiki/ജോർദി_സൽവഡോര്_ഐ_ഡച്ച്"
         },
         {
           "note": "twitter",
@@ -50366,6 +50379,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Noelia_Vera_Ruiz-Herrera"
+        },
+        {
           "note": "Wikipedia (commons)",
           "url": "https://commons.wikipedia.org/wiki/Category:Noelia_Vera"
         },
@@ -50394,7 +50411,7 @@
         },
         {
           "lang": "ca",
-          "name": "Noelia Vera",
+          "name": "Noelia Vera Ruíz-Herrera",
           "note": "multilingual"
         },
         {
@@ -57115,6 +57132,11 @@
         {
           "lang": "ja",
           "name": "アスケーラ・ウニーダ・イ・アルタルナティーバ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Միավորված և այլընտրանքային ձախեր",
           "note": "multilingual"
         },
         {
