@@ -18866,13 +18866,36 @@
       "birth_date": "1965-05-24",
       "gender": "male",
       "id": "6d81990f-b2ee-49e2-8fcc-8f45640efffd",
+      "identifiers": [
+        {
+          "identifier": "Q30879078",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/a9c/a9cdc54b458f2667f2bfd5cda9ede9b0.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/a9c/a9cdc54b458f2667f2bfd5cda9ede9b0.jpg"
         }
       ],
-      "name": "Швыткин Юрий Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Швыткин,_Юрий_Николаевич"
+        }
+      ],
+      "name": "Швыткин Юрий Николаевич",
+      "other_names": [
+        {
+          "name": "Швыткин, Юрий Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Швыткин, Юрий Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-05-30",
@@ -30199,13 +30222,36 @@
       "birth_date": "1957-07-02",
       "gender": "female",
       "id": "ae3d475a-82c0-4af8-9b0a-bb31d8ce74fd",
+      "identifiers": [
+        {
+          "identifier": "Q30880619",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/bf3/bf37620560f5b9478ebb1c3b4d984ffc.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/bf3/bf37620560f5b9478ebb1c3b4d984ffc.jpg"
         }
       ],
-      "name": "Евтушенко Ирина Дмитриевна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Евтушенко,_Ирина_Дмитриевна"
+        }
+      ],
+      "name": "Евтушенко Ирина Дмитриевна",
+      "other_names": [
+        {
+          "name": "Евтушенко, Ирина Дмитриевна",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Евтушенко, Ирина Дмитриевна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-02-03",
