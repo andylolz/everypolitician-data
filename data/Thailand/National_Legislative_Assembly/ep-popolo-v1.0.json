@@ -46,6 +46,10 @@
         {
           "identifier": "72",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31350959",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7042.JPG",
@@ -54,7 +58,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7042.JPG"
         }
       ],
-      "name": "นิสดารก์ เวชยานนท์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นิสดารก์_เวชยานนท์"
+        }
+      ],
+      "name": "นิสดารก์ เวชยานนท์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "นิสดารก์ เวชยานนท์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -773,13 +790,32 @@
     {
       "honorific_prefix": "นาย",
       "id": "1ef0e928-e311-4798-809f-b634360ea5bc",
+      "identifiers": [
+        {
+          "identifier": "Q31350241",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9041.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9041.JPG"
         }
       ],
-      "name": "ปรีดี ดาวฉาย"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ปรีดี_ดาวฉาย"
+        }
+      ],
+      "name": "ปรีดี ดาวฉาย",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ปรีดี ดาวฉาย",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1762,6 +1798,10 @@
         {
           "identifier": "79",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31350956",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7166.JPG",
@@ -1770,7 +1810,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7166.JPG"
         }
       ],
-      "name": "ประดิษฐ์ วรรณรัตน์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/ประดิษฐ์_วรรณรัตน์"
+        }
+      ],
+      "name": "ประดิษฐ์ วรรณรัตน์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "ประดิษฐ์ วรรณรัตน์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -3834,13 +3887,32 @@
     {
       "honorific_prefix": "นาย",
       "id": "9f3df850-a9fb-49e9-964a-a3f3fb1fcc13",
+      "identifiers": [
+        {
+          "identifier": "Q31350339",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://library.senate.go.th/document/Picture_HR//9040.JPG",
       "images": [
         {
           "url": "http://library.senate.go.th/document/Picture_HR//9040.JPG"
         }
       ],
-      "name": "เจน นำชัยศิริ"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เจน_นำชัยศิริ"
+        }
+      ],
+      "name": "เจน นำชัยศิริ",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "เจน นำชัยศิริ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -4594,6 +4666,10 @@
         {
           "identifier": "24",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31351207",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7247.JPG",
@@ -4602,7 +4678,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7247.JPG"
         }
       ],
-      "name": "เจตน์ ศิรธรานนท์"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เจตน์_ศิรธรานนท์"
+        }
+      ],
+      "name": "เจตน์ ศิรธรานนท์",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "เจตน์ ศิรธรานนท์",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
@@ -5903,6 +5992,10 @@
         {
           "identifier": "26",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31350957",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://library.senate.go.th/document/Picture_HR//7014.JPG",
@@ -5911,7 +6004,20 @@
           "url": "http://library.senate.go.th/document/Picture_HR//7014.JPG"
         }
       ],
-      "name": "เฉลิมชัย บุญยะลีพรรณ"
+      "links": [
+        {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/เฉลิมชัย_บุญยะลีพรรณ"
+        }
+      ],
+      "name": "เฉลิมชัย บุญยะลีพรรณ",
+      "other_names": [
+        {
+          "lang": "th",
+          "name": "เฉลิมชัย บุญยะลีพรรณ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
