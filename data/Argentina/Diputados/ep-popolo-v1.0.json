@@ -3912,6 +3912,7 @@
       "sort_name": "Wechsler, Marcelo German"
     },
     {
+      "birth_date": "1958-05-09",
       "contact_details": [
         {
           "type": "email",
@@ -3923,12 +3924,18 @@
         }
       ],
       "email": "pdeferrarir@diputados.gob.ar",
+      "family_name": "Ferrari",
       "gender": "female",
+      "given_name": "Patricia",
       "id": "3313ce1b-99cc-4bfb-aee1-2a4d1c028092",
       "identifiers": [
         {
           "identifier": "pdeferrarir",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16298697",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www4.hcdn.gob.ar/fotos/pdeferrarir.jpg",
@@ -3938,6 +3945,33 @@
         }
       ],
       "name": "PATRICIA DE FERRARI RUEDA",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "باتريشيا فيراري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Patricia de Ferrari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Patricia de Ferrari Rueda",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Patricia de Ferrari",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Patricia De Ferrari",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "DE FERRARI RUEDA, PATRICIA"
     },
     {
@@ -17888,9 +17922,34 @@
       "sort_name": "Caceres, Eduardo Augusto"
     },
     {
+      "birth_date": "1981-10-11",
       "gender": "female",
+      "given_name": "Brenda",
       "id": "c42cdabb-8012-4c53-877e-4ea2c02e2a23",
+      "identifiers": [
+        {
+          "identifier": "Q27307685",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "Brenda Lis Austin",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Brenda Lis Austin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Brenda Lis Austin",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Brenda Lis Austin",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Austin, Brenda Lis"
     },
     {
