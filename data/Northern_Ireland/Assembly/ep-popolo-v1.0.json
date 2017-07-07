@@ -4318,6 +4318,10 @@
           "url": "https://et.wikipedia.org/wiki/Arlene_Foster"
         },
         {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Arlene_Foster"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Arlene_Foster"
         },
@@ -4390,6 +4394,11 @@
         },
         {
           "lang": "et",
+          "name": "Arlene Foster",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Arlene Foster",
           "note": "multilingual"
         },
