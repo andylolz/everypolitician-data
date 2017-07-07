@@ -15712,12 +15712,38 @@
         {
           "identifier": "288",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q21001362",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/145_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/145_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Rubén_Moreno_Palanques"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rubén_Moreno_Palanques"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Rubén_Moreno_Palanques"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rubén_Moreno_Palanques"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Rubén_Moreno_Palanques"
         }
       ],
       "name": "Rubén Moreno",
@@ -15729,6 +15755,40 @@
         {
           "name": "Rubén Moreno Palanques",
           "note": "alternate"
+        },
+        {
+          "name": "Rubén Moreno Palanques",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Rubén Moreno Palanques",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Moreno Palanques, Rubén"
@@ -18086,6 +18146,12 @@
       "gender": "female",
       "given_name": "Águeda",
       "id": "5cd5fb15-b6d8-447b-b3ad-bb90a9962c09",
+      "identifiers": [
+        {
+          "identifier": "Q14035918",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/267_11.jpg",
       "images": [
         {
@@ -18097,6 +18163,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Águeda_Reynés_Calvache"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Águeda_Reynés_Calvache"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Águeda_Reynés_Calvache"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/agueda.reynes"
         },
@@ -18106,6 +18184,53 @@
         }
       ],
       "name": "Águeda Reynés Calvache",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Águeda Reynés Calvache",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Агеда Рейнес Кальваче",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Reynés Calvache, Águeda"
     },
     {
@@ -33811,6 +33936,10 @@
         {
           "identifier": "141",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q20877108",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/794165602550169600/FrYX1ih-.jpg",
@@ -33820,6 +33949,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Sofia_Hernanz_Costa"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Sofía_Hernanz_Costa"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sofia_Hernanz"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/sofiahernanz"
@@ -33838,6 +33979,35 @@
         {
           "name": "Sofía Hernanz Costa",
           "note": "alternate"
+        },
+        {
+          "name": "Sofía Hernanz Costa",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Sofia Hernanz Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Sofia Hernanz Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Sofía Hernanz Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Sofia Hernanz Costa",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Sofia Hernanz Costa",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Hernanz Costa, Sofía"
