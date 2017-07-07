@@ -932,19 +932,39 @@
       "id": "Q27169",
       "label": "member of the European Parliament",
       "title": "member of the European Parliament",
-      "description": "person who has been elected to the European Parliament"
+      "description": "person who has been elected to the European Parliament",
+      "qualifiers": {
+        "P580": "2004-07-20",
+        "P582": "2005-03-11"
+      }
     },
     {
       "id": "Q7925068",
       "label": "Vice President of the European Parliament",
-      "title": "Vice President of the European Parliament"
+      "title": "Vice President of the European Parliament",
+      "qualifiers": {
+        "P580": "2004-07-20",
+        "P582": "2005-03-11"
+      }
     },
     {
       "id": "Q1723031",
       "label": "Prime Minister of Portugal",
       "title": "Prime Minister of Portugal",
       "qualifiers": {
-        "P580": "2015-11-26"
+        "P580": "2015-11-26",
+        "P1365": "Pedro Passos Coelho"
+      }
+    },
+    {
+      "id": "Q30185",
+      "label": "mayor",
+      "title": "mayor (of Lisbon)",
+      "description": "head of municipal government such as a town or city",
+      "qualifiers": {
+        "P642": "Lisbon",
+        "P580": "2007-08-01",
+        "P582": "2015-04-06"
       }
     }
   ],
