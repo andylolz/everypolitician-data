@@ -4776,6 +4776,10 @@
           "scheme": "iiaf"
         },
         {
+          "identifier": "sandra-perkovic",
+          "scheme": "ioc_athlete"
+        },
+        {
           "identifier": "Q6379",
           "scheme": "wikidata"
         }
@@ -16897,6 +16901,31 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "சுயேச்சை",
           "note": "multilingual"
@@ -17695,6 +17724,16 @@
         {
           "lang": "es",
           "name": "Partido Socialdemócrata",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Social Democrata de Croacia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata",
           "note": "multilingual"
         },
         {
