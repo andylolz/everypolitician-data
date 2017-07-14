@@ -2271,6 +2271,16 @@
       ]
     },
     {
+      "id": "1252247c-136c-4813-b6d1-826617ed196e",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25711",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Catherine Kelly"
+    },
+    {
       "birth_date": "1965",
       "gender": "male",
       "given_name": "Danny",
@@ -5788,6 +5798,10 @@
       "id": "3bb0dea9-4128-40bf-948e-072419c8133c",
       "identifiers": [
         {
+          "identifier": "4646",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "13825",
           "scheme": "everypolitician_legacy"
         },
@@ -6307,6 +6321,10 @@
       "given_name": "Elisha",
       "id": "4792896d-4b89-4ce5-8c91-2151e4823529",
       "identifiers": [
+        {
+          "identifier": "4624",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "uk.org.publicwhip/person/25604",
           "scheme": "parlparse"
@@ -10676,6 +10694,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "6c4dbb84-c9f0-42cc-9376-4c46639d00f2",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25710",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Karen Mullan"
     },
     {
       "birth_date": "1981-01-19",
@@ -15113,6 +15141,10 @@
       "id": "9dab0ad2-0d34-4c8e-90f3-cb890d26a2e8",
       "identifiers": [
         {
+          "identifier": "4636",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "25154",
           "scheme": "everypolitician_legacy"
         },
@@ -15322,12 +15354,8 @@
           "url": "https://en.wikipedia.org/wiki/Philip_McGuigan"
         }
       ],
-      "name": "Phillip McGuigan",
+      "name": "Philip McGuigan",
       "other_names": [
-        {
-          "name": "Philip McGuigan",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Philip McGuigan",
@@ -19446,6 +19474,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "ceb9a190-c1e7-476b-9fb3-c67e3b207f29",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25709",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Colm Gildernew"
     },
     {
       "birth_date": "1948-09-27",
@@ -28109,6 +28147,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/629-NI",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "1252247c-136c-4813-b6d1-826617ed196e",
+      "role": "member",
+      "start_date": "2017-06-12"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/192-NI",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "social-democratic-and-labour-party",
@@ -29170,6 +29217,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/629-NI",
+      "end_date": "2017-06-09",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "sinn-fein",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -29363,6 +29411,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/235-NI",
+      "end_date": "2017-06-09",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "sinn-fein",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -30267,6 +30316,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/235-NI",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "6c4dbb84-c9f0-42cc-9376-4c46639d00f2",
+      "role": "member",
+      "start_date": "2017-06-12"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/35-NI",
       "legislative_period_id": "term/3",
       "on_behalf_of_id": "alliance",
@@ -30386,6 +30444,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/231-NI",
+      "end_date": "2017-06-09",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "sinn-fein",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -32380,6 +32439,15 @@
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
       "person_id": "ceb1cea1-de53-4cc4-ac88-cfef2ff68308",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/231-NI",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "sinn-fein",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "ceb9a190-c1e7-476b-9fb3-c67e3b207f29",
+      "role": "member",
+      "start_date": "2017-06-15"
     },
     {
       "area_id": "uk.org.publicwhip/cons/231-NI",
