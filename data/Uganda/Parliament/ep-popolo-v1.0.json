@@ -6175,8 +6175,42 @@
         }
       ],
       "gender": "male",
+      "given_name": "Christopher",
       "id": "3cdb198f-fa9c-4228-828e-f58fbaf14a39",
-      "name": "Christopher Mbalibulha Kibanzaga"
+      "identifiers": [
+        {
+          "identifier": "Q24572740",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Kibanzanga"
+        }
+      ],
+      "name": "Christopher Mbalibulha Kibanzaga",
+      "other_names": [
+        {
+          "name": "Christopher Kibanzanga",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Christopher Kibanzaga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Christopher Kibanzanga",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christopher Kibanzanga",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
