@@ -23887,13 +23887,32 @@
       ],
       "gender": "female",
       "id": "eca85415-2975-4070-983e-afcb6bb13ce0",
+      "identifiers": [
+        {
+          "identifier": "Q32538609",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.parliament.go.ug/mp_database3/uploads/RWAKIMARI%20BEATRICE.jpg",
       "images": [
         {
           "url": "http://www.parliament.go.ug/mp_database3/uploads/RWAKIMARI%20BEATRICE.jpg"
         }
       ],
-      "name": "Beatrice Rwakimari"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Beatrice_Rwakimari"
+        }
+      ],
+      "name": "Beatrice Rwakimari",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Beatrice Rwakimari",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
