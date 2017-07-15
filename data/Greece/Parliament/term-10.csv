@@ -133,7 +133,7 @@ b43abc7e-82d0-4b30-a2e5-9320b6205fe3,Kapsis Giannis,Kapsis Giannis,,,,PA.SO.K. (
 acae0f26-bbc7-4ad7-8af0-2cddeeafbe19,Katsigiannis Athanasios,Katsigiannis Athanasios,,,,N.D. (New Democracy),nd,area/of_attica_(rest),Of Attica (rest),Hellenic Parliament,10,,,,
 3acbeb22-06cc-481e-a4c3-14c03e4b8baa,Katsikis Theodoros,Katsikis Theodoros,,,,N.D. (New Democracy),nd,area/of_attica_(rest),Of Attica (rest),Hellenic Parliament,10,,,,
 4ecf350f-b8cf-4dbb-97eb-2a7a8baa5471,Katsilieris Petros,Katsilieris Petros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/messinia,Messinia,Hellenic Parliament,10,,,,
-e8a617c0-a163-4349-b4e5-c612968499d4,Kedikoglou Vasileios,Kedikoglou Vasileios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/evia,Evia,Hellenic Parliament,10,,,,
+e8a617c0-a163-4349-b4e5-c612968499d4,Kedikoglou Vasileios,Kedikoglou Vasileios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/evia,Evia,Hellenic Parliament,10,,,,male
 d3ef87cd-aac0-4497-af33-5ba224884611,Kefalogiannis Emmanouil,Kefalogiannis Emmanouil,,,,N.D. (New Democracy),nd,area/iraklio,Iraklio,Hellenic Parliament,10,,,,male
 5a0affd0-58b0-4d1d-8477-d2eabff92db4,Kefalogiannis Ioannis,Kefalogiannis Ioannis,,,,N.D. (New Democracy),nd,area/rethymno,Rethymno,Hellenic Parliament,10,,,,male
 089ebc5f-6a34-4ba7-a83d-bec3a4f2d08b,Kiltidis Konstantinos,Kiltidis Konstantinos,,,,N.D. (New Democracy),nd,area/kilkis,Kilkis,Hellenic Parliament,10,,,,male
@@ -155,8 +155,8 @@ f6ef06f5-e16a-4ba4-b4e6-72a94d8eec98,Kosionis Panagiotis,Kosionis Panagiotis,,,,
 2a3cd2a0-ccd4-46bf-aa6f-c27062692fab,Kostopoulos Dimitrios,Kostopoulos Dimitrios,,,,N.D. (New Democracy),nd,area/arcadia,Arcadia,Hellenic Parliament,10,,,,
 ab2bcb8e-ac53-4bf4-b17e-12b07f1d8c72,Kotsonis Theodoros,Kotsonis Theodoros,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/korinthia,Korinthia,Hellenic Parliament,10,,,,
 07825b1c-e832-46a8-a3b7-8ba7f18fe3f5,Koulouris Kimon,Koulouris Kimon,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,10,,,,
-ff996305-3a7c-4e49-b862-46dc5b0506ba,Kourakis Ioannis,Kourakis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,10,,2003-01-08,,
-ff996305-3a7c-4e49-b862-46dc5b0506ba,Kourakis Ioannis,Kourakis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,10,2003-01-09,,,
+ff996305-3a7c-4e49-b862-46dc5b0506ba,Kourakis Ioannis,Kourakis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,10,,2003-01-08,https://upload.wikimedia.org/wikipedia/commons/8/8d/Kourakis.png,male
+ff996305-3a7c-4e49-b862-46dc5b0506ba,Kourakis Ioannis,Kourakis Ioannis,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/iraklio,Iraklio,Hellenic Parliament,10,2003-01-09,,https://upload.wikimedia.org/wikipedia/commons/8/8d/Kourakis.png,male
 8332d869-f4d6-4ba3-8c7a-b054b979dc4a,Kourkoula Eleni,Kourkoula Eleni,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/athens_b,Athens B,Hellenic Parliament,10,,,,female
 68792164-579b-436b-8206-aa1a4f355f39,Kouroumplis Panagiotis,Kouroumplis Panagiotis,panagiotis@kouroumplis.gr,kouroumplis,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/aitolo-akarnania,Aitolo-Akarnania,Hellenic Parliament,10,,,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/kouroumplis.jpg,male
 5193525c-eaa2-4e37-a8a1-ab098372d295,Koutsoukos Giannis,Koutsoukos Giannis,j.koutsoukos@parliament.gr,koutsoukosilia,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/ileia,Ileia,Hellenic Parliament,10,,2000-09-19,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/koutsoukos_1.jpg,male
@@ -303,7 +303,7 @@ db4859aa-b913-44e1-929a-df0ffa3526f4,Spyropoulos Rovertos,Spyropoulos Rovertos,,
 6a615563-b98a-4dca-9af5-d1cbfb0fb57d,Taliadouros Spyridon,Taliadouros Spyridon,,,,N.D. (New Democracy),nd,area/karditsa,Karditsa,Hellenic Parliament,10,,,,male
 e68138c9-ee48-4bd3-834f-9f535cda8f4b,Tasoulas Konstantinos,Tasoulas Konstantinos,tasoulas@parliament.gr,,,N.D. (New Democracy),nd,area/ioannina,Ioannina,Hellenic Parliament,10,,,http://www.hellenicparliament.gr/UserThumbs/ead3237d-2c71-43a9-b9ae-057fcbd6268d/thumbs_80x101/tasoulas.jpg,male
 795dbdee-8388-493f-b30a-104a4bdededf,Tatoulis Panagioti Petros,Tatoulis Panagioti Petros,,,,N.D. (New Democracy),nd,area/arcadia,Arcadia,Hellenic Parliament,10,,,https://upload.wikimedia.org/wikipedia/commons/3/33/Petros_Tatoulis.jpg,male
-8ae216e6-ce02-43c2-96b5-d50d32944b62,Thanos Dimitrios,Thanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fokida,Fokida,Hellenic Parliament,10,,,,
+8ae216e6-ce02-43c2-96b5-d50d32944b62,Thanos Dimitrios,Thanos Dimitrios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/fokida,Fokida,Hellenic Parliament,10,,,,male
 8d238e15-aa99-4f2c-9ff3-6bf98a1541ec,Theodorou Christos,Theodorou Christos,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/evia,Evia,Hellenic Parliament,10,,,,
 7f6d0636-0113-42ae-9459-99be407bb66e,Thoma Maria,Thoma Maria,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/achaia,Achaia,Hellenic Parliament,10,,,,
 4030612b-0d99-4253-b2d9-8316bdd8f6b3,Thomas Georgios,Thomas Georgios,,,,PA.SO.K. (Panhellenic Socialist Movement),pasok,area/achaia,Achaia,Hellenic Parliament,10,,,,
