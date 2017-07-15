@@ -2193,7 +2193,8 @@
       "description": "Representative",
       "qualifiers": {
         "P768": "Western Australia",
-        "P580": "2008-07-01"
+        "P580": "2008-07-01",
+        "P582": "2017-07-14"
       }
     }
   ],
@@ -2613,7 +2614,7 @@
       "title": "Member of the Tasmanian House of Assembly",
       "description": "political office in Tasmania, Australia",
       "qualifiers": {
-        "P580": "2014",
+        "P580": "2014-03-15",
         "P768": "Lyons"
       }
     }
