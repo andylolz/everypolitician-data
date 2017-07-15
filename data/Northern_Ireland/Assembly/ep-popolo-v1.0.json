@@ -13384,7 +13384,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Mark_Robinson_(Unionist_politician)"
+          "url": "https://en.wikipedia.org/wiki/Mark_Robinson_(Northern_Ireland_politician)"
         }
       ],
       "name": "Mark Robinson",
@@ -14660,7 +14660,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jim_Wilson_(British_politician)"
+          "url": "https://en.wikipedia.org/wiki/Jim_Wilson_(Northern_Ireland_politician)"
         }
       ],
       "name": "Jim Wilson",
@@ -19239,7 +19239,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/George_Robinson_(politician)"
+          "url": "https://en.wikipedia.org/wiki/George_Robinson_(Northern_Ireland_politician)"
         }
       ],
       "name": "George Robinson",
@@ -19743,6 +19743,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ナオミ・ロング",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Naomi Long",
           "note": "multilingual"
@@ -19755,6 +19760,16 @@
         {
           "lang": "zh",
           "name": "納奧米·隆",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "内奥米·朗治",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "內奧米·朗治",
           "note": "multilingual"
         }
       ]
@@ -25304,6 +25319,31 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "சுயேச்சை",
           "note": "multilingual"
@@ -26563,6 +26603,11 @@
           "lang": "en",
           "name": "SDLP",
           "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Socialdemocrata y Laborista",
+          "note": "multilingual"
         }
       ],
       "srgb": "99FF66"
@@ -26950,6 +26995,11 @@
         {
           "lang": "ko",
           "name": "전통 통합주의자의 소리",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Voce Tradizionale Unionista",
           "note": "multilingual"
         }
       ]
