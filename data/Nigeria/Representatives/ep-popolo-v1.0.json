@@ -9930,23 +9930,38 @@
       ]
     },
     {
+      "birth_date": "1961-03-21",
       "contact_details": [
         {
           "type": "phone",
           "value": "08037470021"
         }
       ],
+      "gender": "male",
       "id": "dbbb2782-d52b-4594-8150-d98f73ad776e",
       "identifiers": [
         {
           "identifier": "703",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q23414656",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/703.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/703.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Hon._Adekoya_adesegun.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Adekoya_Adesegun_Abdel-Majid"
         }
       ],
       "name": "ADEKOYA ADESEGUN",
@@ -9954,6 +9969,20 @@
         {
           "name": "ADEKOYA ABDEL-MAJID ADESEGUN",
           "note": "alternate"
+        },
+        {
+          "name": "Adekoya Adesegun Abdel-Majid",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Adekoya Adesegun Abdel-Majid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Adekoya Adesegun Abdel-Majid",
+          "note": "multilingual"
         }
       ]
     },
@@ -12028,11 +12057,25 @@
       ]
     },
     {
+      "birth_date": "1965-09-27",
+      "gender": "male",
       "id": "f9a3b9d5-18f7-4d6c-a1b5-4c11be52e9cd",
+      "identifiers": [
+        {
+          "identifier": "Q27517391",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/970.jpg",
       "images": [
         {
           "url": "http://www.nass.gov.ng/images/mps/970.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ben_Nwankwo"
         }
       ],
       "name": "Ben Nwankwo",
@@ -12040,6 +12083,16 @@
         {
           "name": "Ben Nwankwo",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ben Nwankwo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ben Nwankwo",
+          "note": "multilingual"
         }
       ]
     },
