@@ -37795,6 +37795,10 @@
         {
           "identifier": "2419",
           "scheme": "parliament_bg"
+        },
+        {
+          "identifier": "Q31191668",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bg/images/Assembly/2419.png",
@@ -37803,11 +37807,26 @@
           "url": "http://www.parliament.bg/images/Assembly/2419.png"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Чавдар_Георгиев"
+        }
+      ],
       "name": "ЧАВДАР ГЕОРГИЕВ ГЕОРГИЕВ",
       "other_names": [
         {
+          "name": "Чавдар Георгиев",
+          "note": "alternate"
+        },
+        {
           "lang": "bg",
           "name": "ЧАВДАР ГЕОРГИЕВ ГЕОРГИЕВ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bg",
+          "name": "Чавдар Георгиев",
           "note": "multilingual"
         },
         {
