@@ -7549,10 +7549,29 @@
         {
           "identifier": "ganga_lal_tuladhar",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q19671824",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (ne)",
+          "url": "https://ne.wikipedia.org/wiki/गंगालाल_तुलाधर"
         }
       ],
       "name": "Ganga Lal Tuladhar",
       "other_names": [
+        {
+          "name": "गंगालाल तुलाधर",
+          "note": "alternate"
+        },
+        {
+          "lang": "ne",
+          "name": "गंगालाल तुलाधर",
+          "note": "multilingual"
+        },
         {
           "lang": "ne",
           "name": "मा.गंगा लाल तुलाधर",
