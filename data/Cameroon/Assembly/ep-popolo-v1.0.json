@@ -8603,11 +8603,16 @@
       ],
       "email": "placidenguefack@assnat.cm",
       "gender": "male",
+      "given_name": "Placide",
       "id": "85bac3f9-7ba4-47ad-9534-092bfebecb1d",
       "identifiers": [
         {
           "identifier": "917",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30582124",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/nguefack.jpg",
@@ -8616,7 +8621,25 @@
           "url": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/nguefack.jpg"
         }
       ],
-      "name": "Placide NGUEFACK"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Placide_Nguefack"
+        }
+      ],
+      "name": "Placide NGUEFACK",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Placide Nguefack",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Placide Nguefack",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1950-01-01",
@@ -12456,11 +12479,16 @@
       ],
       "email": "luciensiantou@assnat.cm",
       "gender": "male",
+      "given_name": "Lucien",
       "id": "be408679-dab0-41c0-ac14-c7141b84ef6f",
       "identifiers": [
         {
           "identifier": "955",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30546273",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/wantou_siantou_lucien.jpg",
@@ -12469,7 +12497,29 @@
           "url": "http://www.assnat.cm/gestionLoisLegislatures/libraries/files_upload/uploads/SujetsForum/wantou_siantou_lucien.jpg"
         }
       ],
-      "name": "WANTOU SIANTOU Lucien"
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lucien_Wantou_Siantou"
+        }
+      ],
+      "name": "WANTOU SIANTOU Lucien",
+      "other_names": [
+        {
+          "name": "Lucien Wantou Siantou",
+          "note": "alternate"
+        },
+        {
+          "lang": "fr",
+          "name": "Lucien Wantou Siantou",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Lucien Wantou Siantou",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "bea29bb8-1492-462d-a620-9563434de8f5",
