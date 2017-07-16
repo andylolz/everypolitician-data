@@ -5,9 +5,24 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/iceland-althing-wp",
-        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data"
+        "query": "SELECT REPLACE(LOWER(name),' ','_') AS id, REPLACE(LOWER(party),' ','_') AS party_id, * FROM data WHERE term NOT IN ('2013', '2016')"
       },
       "source": "https://is.wikipedia.org/",
+      "type": "membership"
+    },
+    {
+      "file": "morph/p39s.csv",
+      "create": {
+        "from": "morph",
+        "scraper": "everypolitician-scrapers/iceland-althing-members-wikidata",
+        "query": "SELECT * FROM data ORDER BY id"
+      },
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/p39s.csv"
+      },
+      "source": "http://wikidata.org/",
       "type": "membership"
     },
     {
