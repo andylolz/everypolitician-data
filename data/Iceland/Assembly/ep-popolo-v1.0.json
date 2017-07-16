@@ -36,10 +36,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Valgerður_Gunnarsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Valgerður Gunnarsdóttir"
         }
       ],
       "name": "Valgerður Gunnarsdóttir",
@@ -348,10 +344,6 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/ArniPallArnason"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Árni Páll Árnason"
         }
       ],
       "name": "Árni Páll Árnason",
@@ -464,10 +456,6 @@
         {
           "note": "Wikipedia (la)",
           "url": "https://la.wikipedia.org/wiki/Guðlaugur_Thorus_Thori_filius"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Guðlaugur Þór Þórðarson"
         }
       ],
       "name": "Guðlaugur Þór Þórðarson",
@@ -2652,10 +2640,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Vilhjálmur_Árnason_(stjórnmálamaður)"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Vilhjálmur Árnason"
         }
       ],
       "name": "Vilhjálmur Árnason",
@@ -2736,10 +2720,6 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Frosti_Sigurjonsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Frosti Sigurjónsson"
         }
       ],
       "name": "Frosti Sigurjónsson",
@@ -2828,10 +2808,6 @@
         {
           "note": "Wikipedia (iswikiquote)",
           "url": "https://iswikiquote.wikipedia.org/wiki/Sigrún_Magnúsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Sigrún Magnúsdóttir"
         }
       ],
       "name": "Sigrún Magnúsdóttir",
@@ -3461,10 +3437,6 @@
         {
           "note": "Wikipedia (nl)",
           "url": "https://nl.wikipedia.org/wiki/Jón_Þór_Ólafsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Jón Þór Ólafsson"
         }
       ],
       "name": "Jón Þór Ólafsson",
@@ -4879,12 +4851,6 @@
           "scheme": "everypolitician_legacy"
         }
       ],
-      "links": [
-        {
-          "note": "wikipedia",
-          "url": "Guðjón Guðmundsson"
-        }
-      ],
       "name": "Guðjón Guðmundsson"
     },
     {
@@ -4937,18 +4903,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/asta_fish"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Ásta Guðrún Helgadóttir"
         }
       ],
-      "name": "Ásta Guðrún Helgadóttir",
+      "name": "Ásta Helgadóttir",
       "other_names": [
-        {
-          "name": "Ásta Helgadóttir",
-          "note": "alternate"
-        },
         {
           "lang": "af",
           "name": "Ásta Helgadóttir",
@@ -6186,10 +6144,6 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Óttarr_Proppé"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Óttarr Proppé"
         }
       ],
       "name": "Óttarr Proppé",
@@ -6245,6 +6199,10 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "3fc18e95-9adb-454a-8878-d25ae6cacca5",
+      "name": "Sigríður Ásthildur Andersen"
     },
     {
       "birth_date": "1932-07-07",
@@ -7579,18 +7537,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Ragnheiður_Elín_Árnadóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Ragnheiður Elín Árnadóttir"
         }
       ],
-      "name": "Ragnheiður E. Árnadóttir",
+      "name": "Ragnheiður Elín Árnadóttir",
       "other_names": [
-        {
-          "name": "Ragnheiður Elín Árnadóttir",
-          "note": "alternate"
-        },
         {
           "lang": "da",
           "name": "Ragnheiður Elín Árnadóttir",
@@ -7680,10 +7630,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Bjarkey_Gunnarsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Bjarkey Gunnarsdóttir"
         }
       ],
       "name": "Bjarkey Gunnarsdóttir",
@@ -7795,18 +7741,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Jóhanna_María_Sigmundsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Jóhanna María Sigmundsdóttir"
         }
       ],
-      "name": "Jóhanna M. Sigmundsdóttir",
+      "name": "Jóhanna María Sigmundsdóttir",
       "other_names": [
-        {
-          "name": "Jóhanna María Sigmundsdóttir",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Jóhanna María Sigmundsdóttir",
@@ -8440,10 +8378,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Elín_Hirst"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Elín Hirst"
         }
       ],
       "name": "Elín Hirst",
@@ -9567,6 +9501,10 @@
       ]
     },
     {
+      "id": "699717cc-eef1-4c2e-a2c8-a852a4633841",
+      "name": "Steinunn Þóra Árnadóttir"
+    },
+    {
       "birth_date": "1935",
       "gender": "male",
       "id": "6eadb08a-f5d4-4991-9a42-88bf768094c2",
@@ -9707,18 +9645,10 @@
         {
           "note": "Wikipedia (iswikiquote)",
           "url": "https://iswikiquote.wikipedia.org/wiki/Einar_K._Guðfinnsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Einar K. Guðfinnsson"
         }
       ],
-      "name": "Einar K. Guðfinnsson",
+      "name": "Einar Kristinn Guðfinnsson",
       "other_names": [
-        {
-          "name": "Einar Kristinn Guðfinnsson",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Einar K. Guðfinnsson",
@@ -9794,10 +9724,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Kristján_Þór_Júlíusson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Kristján Þór Júlíusson"
         }
       ],
       "name": "Kristján Þór Júlíusson",
@@ -9846,12 +9772,6 @@
         {
           "identifier": "guðjón_jónsson",
           "scheme": "everypolitician_legacy"
-        }
-      ],
-      "links": [
-        {
-          "note": "wikipedia",
-          "url": "Guðjón Jónsson"
         }
       ],
       "name": "Guðjón Jónsson"
@@ -10346,10 +10266,6 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Гуннар_Брагі_Свейнссон"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Gunnar Bragi Sveinsson"
         }
       ],
       "name": "Gunnar Bragi Sveinsson",
@@ -10795,10 +10711,6 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Willum_Þór_Þórsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Willum Þór Þórsson"
         }
       ],
       "name": "Willum Þór Þórsson",
@@ -10952,10 +10864,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Helgi_Hrafn_Gunnarsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Helgi Hrafn Gunnarsson"
         }
       ],
       "name": "Helgi Hrafn Gunnarsson",
@@ -11261,10 +11169,6 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Kristján_L._Möller"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Kristján L. Möller"
         }
       ],
       "name": "Kristján L. Möller",
@@ -11780,18 +11684,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Sigríður_Ingibjörg_Ingadóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Sigríður Ingibjörg Ingadóttir"
         }
       ],
-      "name": "Sigríður I. Ingadóttir",
+      "name": "Sigríður Ingibjörg Ingadóttir",
       "other_names": [
-        {
-          "name": "Sigríður Ingibjörg Ingadóttir",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Sigríður Ingibjörg Ingadóttir",
@@ -11856,18 +11752,10 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Lilja_Rafney_Magnúsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Lilja Rafney Magnúsdóttir"
         }
       ],
-      "name": "Lilja R. Magnúsdóttir",
+      "name": "Lilja Rafney Magnúsdóttir",
       "other_names": [
-        {
-          "name": "Lilja Rafney Magnúsdóttir",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Lilja Rafney Magnúsdóttir",
@@ -12068,18 +11956,10 @@
         {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Hanna_Birna_Kristjánsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Hanna Birna Kristjánsdóttir"
         }
       ],
-      "name": "Hanna B. Kristjánsdóttir",
+      "name": "Hanna Birna Kristjánsdóttir",
       "other_names": [
-        {
-          "name": "Hanna Birna Kristjánsdóttir",
-          "note": "alternate"
-        },
         {
           "lang": "da",
           "name": "Hanna Birna Kristjánsdóttir",
@@ -12461,10 +12341,6 @@
         {
           "note": "Wikipedia (iswikiquote)",
           "url": "https://iswikiquote.wikipedia.org/wiki/Árni_Þór_Sigurðsson"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Árni Þór Sigurðsson"
         }
       ],
       "name": "Árni Þór Sigurðsson",
@@ -12543,10 +12419,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Unnur_Brá_Konráðsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Unnur Brá Konráðsdóttir"
         }
       ],
       "name": "Unnur Brá Konráðsdóttir",
@@ -13443,10 +13315,6 @@
         {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Steingrímur_Jóhann_Sigfússon"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Steingrímur J. Sigfússon"
         }
       ],
       "name": "Steingrímur J. Sigfússon",
@@ -13586,18 +13454,10 @@
         {
           "note": "Wikipedia (ja)",
           "url": "https://ja.wikipedia.org/wiki/ペートゥル・ブロンダル"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Pétur H. Blöndal"
         }
       ],
-      "name": "Pétur H. Blöndal",
+      "name": "Pétur Blöndal",
       "other_names": [
-        {
-          "name": "Pétur Blöndal",
-          "note": "alternate"
-        },
         {
           "lang": "cy",
           "name": "Pétur Blöndal",
@@ -14720,18 +14580,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Sigurduringij"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Sigurður Ingi Jóhannsson"
         }
       ],
-      "name": "Sigurður I. Jóhannsson",
+      "name": "Sigurður Ingi Jóhannsson",
       "other_names": [
-        {
-          "name": "Sigurður Ingi Jóhannsson",
-          "note": "alternate"
-        },
         {
           "lang": "cs",
           "name": "Sigurður Ingi Jóhannsson",
@@ -15233,10 +15085,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Ásmundur_Einar_Daðason"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Ásmundur Einar Daðason"
         }
       ],
       "name": "Ásmundur Einar Daðason",
@@ -15619,18 +15467,10 @@
         {
           "note": "website",
           "url": "http://sigmundurdavid.is/"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Sigmundur Davíð Gunnlaugsson"
         }
       ],
-      "name": "Sigmundur D. Gunnlaugsson",
+      "name": "Sigmundur Davíð Gunnlaugsson",
       "other_names": [
-        {
-          "name": "Sigmundur Davíð Gunnlaugsson",
-          "note": "alternate"
-        },
         {
           "lang": "af",
           "name": "Sigmundur Davíð Gunnlaugsson",
@@ -16405,10 +16245,6 @@
         {
           "note": "Wikipedia (is)",
           "url": "https://is.wikipedia.org/wiki/Björt_Ólafsdóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Björt Ólafsdóttir"
         }
       ],
       "name": "Björt Ólafsdóttir",
@@ -17427,15 +17263,11 @@
         },
         {
           "note": "wikipedia",
-          "url": "Höskuldur Þór Þórhallsson"
+          "url": "Höskuldur Þórhallsson"
         }
       ],
-      "name": "Höskuldur Þór Þórhallsson",
+      "name": "Höskuldur Þórhallsson",
       "other_names": [
-        {
-          "name": "Höskuldur Þórhallsson",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Höskuldur Þórhallsson",
@@ -17721,18 +17553,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Oddný_G._Harðardóttir"
-        },
-        {
-          "note": "wikipedia",
-          "url": "Oddný G. Harðardóttir"
         }
       ],
-      "name": "Oddný G. Harðardóttir",
+      "name": "Oddný Guðbjörg Harðardóttir",
       "other_names": [
-        {
-          "name": "Oddný Guðbjörg Harðardóttir",
-          "note": "alternate"
-        },
         {
           "lang": "de",
           "name": "Oddný G. Harðardóttir",
@@ -18153,6 +17977,11 @@
     },
     {
       "classification": "party",
+      "id": "Q5019160",
+      "name": "Bright Future"
+    },
+    {
+      "classification": "party",
       "id": "bright_future",
       "identifiers": [
         {
@@ -18354,6 +18183,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "Q218303",
+      "name": "Independence Party"
     },
     {
       "classification": "party",
@@ -19274,6 +19108,11 @@
     },
     {
       "classification": "party",
+      "id": "Q1130754",
+      "name": "Left-Green Movement"
+    },
+    {
+      "classification": "party",
       "id": "left-green_movement",
       "identifiers": [
         {
@@ -20063,6 +19902,16 @@
     },
     {
       "classification": "party",
+      "id": "Q198403",
+      "name": "Pirate Party Iceland"
+    },
+    {
+      "classification": "party",
+      "id": "Q1046777",
+      "name": "Progressive Party"
+    },
+    {
+      "classification": "party",
       "id": "progressive_party",
       "identifiers": [
         {
@@ -20314,6 +20163,11 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "classification": "party",
+      "id": "Q1141127",
+      "name": "Social Democratic Alliance"
     },
     {
       "classification": "party",
@@ -20804,9 +20658,9 @@
   },
   "memberships": [
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "008ea8e7-b1d6-47d5-8fcb-25ff721c5c5a",
       "role": "member"
@@ -20825,9 +20679,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "01f9f547-3556-45e6-b822-633fb1c60770",
       "role": "member"
@@ -20861,17 +20715,17 @@
       "start_date": "2011"
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "04758c66-6026-4dff-906f-aa111299015a",
       "role": "member"
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "0974c98c-0676-4926-8f4e-0298650af8d1",
       "role": "member"
@@ -20959,9 +20813,9 @@
       "start_date": "2012-10-12"
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "0ae8a1e0-59c0-4db4-bb33-a696d47aef68",
       "role": "member"
@@ -20994,9 +20848,9 @@
       "start_date": "2011-08-22"
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "0e0eec08-7c4e-470f-a5e6-0bea0d93b5fc",
       "role": "member"
@@ -21042,9 +20896,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "0f01d93c-2ca9-43bf-bebe-3d561be0c626",
       "role": "member"
@@ -21143,9 +20997,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "1118d793-a74d-46ad-836f-a85a7c6f7298",
       "role": "member"
@@ -21309,9 +21163,9 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "19c6a7cd-3a88-49c1-b9a9-5730f56d1454",
       "role": "member"
@@ -21330,9 +21184,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "1c843d2f-ccaf-4c2f-8116-7b35b8c526bf",
       "role": "member"
@@ -21364,9 +21218,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "1d97a1bb-11c8-44ef-a133-8664b4454f27",
       "role": "member"
@@ -21437,9 +21291,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "1ec74dcb-a53d-4d5a-95c6-03c2cf424594",
       "role": "member"
@@ -21524,9 +21378,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "20c70933-a861-4700-b616-2b7075635188",
       "role": "member"
@@ -21571,9 +21425,10 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
+      "end_date": "2015-07-01",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "pirate_party",
+      "on_behalf_of_id": "Q198403",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "25d0e949-c0c1-4e3e-9ef4-40983958d04e",
       "role": "member"
@@ -21827,12 +21682,13 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "pirate_party",
+      "on_behalf_of_id": "Q198403",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "2bb19f43-88a6-4159-898b-b0c30f1491ce",
-      "role": "member"
+      "role": "member",
+      "start_date": "2015-07-01"
     },
     {
       "area_id": "area/capital_region",
@@ -21926,17 +21782,17 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "2f9f5b02-f8c7-4b42-b6e6-df138e689b9c",
       "role": "member"
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "3171b763-9e28-41a3-8f46-8670cd52200e",
       "role": "member"
@@ -22229,12 +22085,21 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "3f5debb0-9397-446f-805f-307ed62a5d6d",
       "role": "member"
+    },
+    {
+      "area_id": "Q2037988",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "Q218303",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "3fc18e95-9adb-454a-8878-d25ae6cacca5",
+      "role": "member",
+      "start_date": "2015-06-26"
     },
     {
       "area_id": "area/reykjanes",
@@ -22355,9 +22220,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "41769e70-1b87-45a2-af3c-d89e7edc3dc0",
       "role": "member"
@@ -22415,9 +22280,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "47528816-94cb-4779-aeaf-d30adea9c4a0",
       "role": "member"
@@ -22645,33 +22510,33 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "56a78c63-a7bb-4c09-a6d5-397704b0f25b",
       "role": "member"
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "56e6ee0a-8cdf-417b-870a-e976da975253",
       "role": "member"
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "578d89e7-3f98-4be7-a9b7-d7d3e2b9e36b",
       "role": "member"
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "59ea1dcf-f87f-4f66-b4d8-0fef78ba6bc8",
       "role": "member"
@@ -22731,9 +22596,9 @@
       "start_date": "2012"
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "pirate_party",
+      "on_behalf_of_id": "Q198403",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "5c6a6964-fbfb-4bf3-a801-aa34f281824c",
       "role": "member"
@@ -22804,9 +22669,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "5d570c48-9b20-46fb-8a38-290452aad493",
       "role": "member"
@@ -22851,9 +22716,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "5e321d0b-e2c3-4f50-b579-a721c4a9feec",
       "role": "member"
@@ -23122,9 +22987,18 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1130754",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "699717cc-eef1-4c2e-a2c8-a852a4633841",
+      "role": "member",
+      "start_date": "2014-08-18"
+    },
+    {
+      "area_id": "Q770576",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "6eadb08a-f5d4-4991-9a42-88bf768094c2",
       "role": "member"
@@ -23156,17 +23030,17 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "7061f49a-3926-4e10-9c76-c1ae47f94339",
       "role": "member"
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "7162705b-03cc-43de-8f8a-25a7c9390d21",
       "role": "member"
@@ -23186,9 +23060,9 @@
       "start_date": "2006"
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "727e4976-d036-4ccc-9a8e-c899cdcfa7c3",
       "role": "member"
@@ -23233,9 +23107,9 @@
       ]
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "770c605e-dc83-4617-b8bf-961fe2ab2206",
       "role": "member"
@@ -23282,9 +23156,9 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "7cfe3b70-9f6e-4352-b8fe-cdd793fa7ac4",
       "role": "member"
@@ -23408,9 +23282,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "83527d1a-1f38-487c-bc21-234b47445445",
       "role": "member"
@@ -23469,9 +23343,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "84a96d38-68ad-4f44-bf8a-1ea23d55baad",
       "role": "member"
@@ -23491,9 +23365,9 @@
       "start_date": "2009"
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "pirate_party",
+      "on_behalf_of_id": "Q198403",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "867efe4d-7acd-42ed-ba0d-d2a74d80b67f",
       "role": "member"
@@ -23512,9 +23386,9 @@
       ]
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "87bbbe99-5350-407c-a130-bbe8563d9f65",
       "role": "member"
@@ -23533,9 +23407,9 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "89ac2e83-7496-470f-8233-3211fa7c6992",
       "role": "member"
@@ -23672,17 +23546,17 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "93aec40f-ffa9-4628-a27a-a956b70acf25",
       "role": "member"
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "93cf4147-0133-486f-bda6-c483c774cdb5",
       "role": "member"
@@ -23740,9 +23614,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "96f72e95-8252-4e44-8c55-02a9702eff80",
       "role": "member"
@@ -23762,17 +23636,18 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
+      "end_date": "2014-08-18",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "988a6d19-1479-4fff-a1b1-e7df16ad1a9e",
       "role": "member"
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "992d9c3f-a4ad-4d16-89fe-d216da44745b",
       "role": "member"
@@ -23830,9 +23705,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "9aeb0dc2-ef4a-43f5-bc13-76d12becdb21",
       "role": "member"
@@ -23984,9 +23859,9 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "a25e0a3f-2c5c-495f-9d22-b4bcfc65ff8a",
       "role": "member"
@@ -24085,9 +23960,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "a6a91b4b-def7-4b1c-8dd7-62bca038cb9e",
       "role": "member"
@@ -24132,9 +24007,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "a76d3f31-e1bc-430b-af0f-785813e249d7",
       "role": "member"
@@ -24193,17 +24068,18 @@
       "start_date": "2013-01-24"
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "aa0a5cc8-1d79-4fda-a6eb-b2587374f0e0",
       "role": "member"
     },
     {
-      "area_id": "area/reykjavik_constituency_south",
+      "area_id": "Q2037988",
+      "end_date": "2015-06-26",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "ab60dd20-5295-42a4-a5d9-f9728e0d2d92",
       "role": "member"
@@ -24381,17 +24257,17 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "b1127799-897b-4b66-b53c-c7f40a5ac1fb",
       "role": "member"
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "b18c2bba-f512-474d-b09a-40f4678630bb",
       "role": "member"
@@ -24569,9 +24445,9 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "bc38d048-0ad7-4c67-a048-4ba536c497b8",
       "role": "member"
@@ -24590,9 +24466,9 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "bf9213b6-1b5d-4b41-90d8-347f5249ffc9",
       "role": "member"
@@ -24689,9 +24565,9 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "c3f3de27-9f53-4ab6-920e-8dcd0d2b93a4",
       "role": "member"
@@ -24749,9 +24625,9 @@
       ]
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "c9b84268-ef4f-4e79-932d-dbcbc27927be",
       "role": "member"
@@ -24783,9 +24659,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "cdb8c96e-5b70-44a3-b075-7675db572f85",
       "role": "member"
@@ -24831,9 +24707,9 @@
       ]
     },
     {
-      "area_id": "area/reykjavik_constituency_north",
+      "area_id": "Q1526538",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "bright_future",
+      "on_behalf_of_id": "Q5019160",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "d0f1656e-58db-4aeb-b37b-0798c220bdb3",
       "role": "member"
@@ -24904,17 +24780,17 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "left-green_movement",
+      "on_behalf_of_id": "Q1130754",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "d1b30e1b-9ae1-4804-be91-aede0eaf9dd7",
       "role": "member"
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "d49dca58-2f96-4b80-80ad-9f9203432da8",
       "role": "member"
@@ -25012,9 +24888,9 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "dc5a89b4-2ab0-470d-9a32-007f137bfaf8",
       "role": "member"
@@ -25191,9 +25067,9 @@
       ]
     },
     {
-      "area_id": "area/southwest_constituency",
+      "area_id": "Q770576",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "independence_party",
+      "on_behalf_of_id": "Q218303",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "e175ca87-1c24-4767-9de4-54e1466302a7",
       "role": "member"
@@ -25277,6 +25153,15 @@
       ]
     },
     {
+      "area_id": "Q2001582",
+      "legislative_period_id": "term/2013",
+      "on_behalf_of_id": "Q1141127",
+      "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
+      "person_id": "e57914ff-8bac-4cd5-ac40-de402147c287",
+      "role": "member",
+      "start_date": "2015-10-26"
+    },
+    {
       "area_id": "area/south",
       "legislative_period_id": "term/2003",
       "on_behalf_of_id": "independence_party",
@@ -25356,9 +25241,10 @@
       ]
     },
     {
-      "area_id": "area/northwest_constituency",
+      "area_id": "Q2001582",
+      "end_date": "2015-10-23",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "f1998505-64a2-48ef-b00a-bed5a2024988",
       "role": "member"
@@ -25417,9 +25303,9 @@
       ]
     },
     {
-      "area_id": "area/northeast_constituency",
+      "area_id": "Q2001559",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "progressive_party",
+      "on_behalf_of_id": "Q1046777",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "f7023bcc-53de-421f-9e15-9eec3005e9c5",
       "role": "member"
@@ -25556,9 +25442,9 @@
       ]
     },
     {
-      "area_id": "area/south_constituency",
+      "area_id": "Q1419190",
       "legislative_period_id": "term/2013",
-      "on_behalf_of_id": "social_democratic_alliance",
+      "on_behalf_of_id": "Q1141127",
       "organization_id": "9be7d6f7-8420-4a3a-a804-fb1a68e8f9ff",
       "person_id": "fccb522b-cbba-4d00-a371-479d209fd444",
       "role": "member"
@@ -26241,6 +26127,36 @@
     }
   ],
   "areas": [
+    {
+      "id": "Q1419190",
+      "name": "South",
+      "type": "constituency"
+    },
+    {
+      "id": "Q1526538",
+      "name": "Reykjavík North",
+      "type": "constituency"
+    },
+    {
+      "id": "Q2001559",
+      "name": "Northeast",
+      "type": "constituency"
+    },
+    {
+      "id": "Q2001582",
+      "name": "Northwest",
+      "type": "constituency"
+    },
+    {
+      "id": "Q2037988",
+      "name": "Reykjavík South",
+      "type": "constituency"
+    },
+    {
+      "id": "Q770576",
+      "name": "Southwest",
+      "type": "constituency"
+    },
     {
       "id": "area/capital_region",
       "name": "Capital Region",

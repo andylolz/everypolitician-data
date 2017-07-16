@@ -1,11 +1,11 @@
 {
   "people": {
-    "count": 204,
+    "count": 206,
     "wikidata": 159,
     "latest_term": {
-      "count": 64,
-      "wikidata": 64,
-      "images": 32,
+      "count": 67,
+      "wikidata": 65,
+      "images": 33,
       "contacts": {
         "email": 0,
         "facebook": 5,
@@ -14,7 +14,7 @@
     }
   },
   "groups": {
-    "count": 14,
+    "count": 20,
     "wikidata": 14
   },
   "terms": {
@@ -23,7 +23,7 @@
     "wikidata": 0
   },
   "areas": {
-    "count": 24,
+    "count": 30,
     "wikidata": 0
   },
   "elections": {
