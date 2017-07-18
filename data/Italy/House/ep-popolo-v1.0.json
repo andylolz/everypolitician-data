@@ -82022,6 +82022,26 @@
           "lang": "ko",
           "name": "포르차 이탈리아",
           "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Ek Italio",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "FI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Forza Italia",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Forza Italia",
+          "note": "multilingual"
         }
       ]
     },
@@ -82994,6 +83014,31 @@
           "lang": "en",
           "name": "Free Alternative",
           "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Alternativa Libera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "AL",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Alternativa Libera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Alternativa Libera",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Alternativa Libera",
+          "note": "multilingual"
         }
       ]
     },
@@ -83011,6 +83056,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Centro_Democratico.svg",
       "links": [
         {
           "note": "website",
@@ -83071,6 +83117,26 @@
         },
         {
           "lang": "es",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "CD",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Centro Democratico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Centro Democratico",
           "note": "multilingual"
         }
