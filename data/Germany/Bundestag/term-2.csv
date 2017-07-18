@@ -20,7 +20,7 @@ a6c45ec6-e75c-4d3f-855b-ba15152187ee,Aloys Feldmann,Feldmann!,,,,CDU,cdu,area/no
 27eafec5-27a6-446d-b4c5-dd83acdd5b6f,Aloys Lenz,"Lenz, Aloys!",,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 d120f391-6a7b-4eb2-b0a6-85addae2887e,Angelo Kramel,Kramel!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,,male
 30aa6c48-f536-451f-9793-d8584cd566fb,Annemarie Ackermann,Ackermann!,,,,CDU,cdu,area/rheinland-pfalz,Rheinland-Pfalz,Bundestag,2,,,,female
-4a8f4522-5fd6-4ab6-aea2-798304d4170f,Annemarie Renger,Renger!,,,,SPD,spd,area/schleswig-holstein,Schleswig-Holstein,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/8/8d/Bundesarchiv_B_145_Bild-F039419-0012,_Hannover,_SPD-Bundesparteitag,_Renger.jpg",female
+4a8f4522-5fd6-4ab6-aea2-798304d4170f,Annemarie Renger,Renger,,,,SPD,spd,area/schleswig-holstein,Schleswig-Holstein,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/8/8d/Bundesarchiv_B_145_Bild-F039419-0012,_Hannover,_SPD-Bundesparteitag,_Renger.jpg",female
 76a59603-9e4f-46b6-9e3e-4d71bd1b6522,Anton Diel,"Diel, Anton!",,,,SPD,spd,area/rheinland-pfalz,Rheinland-Pfalz,Bundestag,2,,,,male
 6cb52b09-3baf-4c5f-b75a-968b7473757f,Anton Donhauser,Donhauser!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,,male
 53b8b32b-fd00-4a79-ac2c-ce5c76dd4da4,Anton Eberhard,Eberhard!,,,,FDP,fdp,area/rheinland-pfalz,Rheinland-Pfalz,Bundestag,2,,,,male
@@ -116,7 +116,7 @@ a440e804-7bd9-4122-86b8-7114c69c17f5,Franz Böhner,Bohmer!,,,,Zentrum,zentrum,ar
 dd4facd0-0843-4fb5-bb32-0901be222298,Franz Gleissner,Gleissner!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,,male
 d6de78a6-a12a-4b22-8f29-cbe61d1267ad,Franz Höhne,Hohne!,,,,SPD,spd,area/bayern,Bayern,Bundestag,2,,,,male
 fa6a9d59-6725-4ad3-b5aa-fb8e544c1c47,Franz Josef Röder,Roder!,,,,CDU,cdu,area/saarland,Saarland,Bundestag,2,1957-01-04,,https://upload.wikimedia.org/wikipedia/commons/5/50/F_J_Roder.jpg,male
-f838f4f2-b46d-43e8-8b4f-064199c1fcf9,Franz Josef Strauß,Strauss!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/b/b3/Franz_Josef_Strauß.jpg,male
+f838f4f2-b46d-43e8-8b4f-064199c1fcf9,Franz Josef Strauß,Strauss,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/b/b3/Franz_Josef_Strauß.jpg,male
 27c80fbf-b8ca-44bb-bf9b-b3ab81090b0d,Franz Lenze,Lenze!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/2/2e/KAS-Lenze,_Franz-Bild-23279-1.jpg",male
 470e400a-91c9-4775-9009-ef16e8e938ed,Franz Marx,"Marx, Franz!",,,,SPD,spd,area/bayern,Bayern,Bundestag,2,,,,male
 8bec7dcf-fcb1-4102-a5c2-fb1985cc46ed,Franz Mühlenberg,Muhlenberg!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
@@ -237,7 +237,7 @@ c566d55f-1d00-4847-a625-eb95fed02c41,Heinrich Lindenberg,Lindenberg!,,,,CDU,cdu,
 0a9523ac-9b85-44cb-98aa-c2c2b494da39,Heinrich Sträter,Strater!,,,,SPD,spd,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 a7ff8a3d-bea6-4bc5-85c2-1e6c5043ec63,Heinrich Voß,Voss!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 9cd40570-a411-4745-9cc0-bf73a45cc914,Heinrich Wehking,Wehking!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/c/c5/KAS-Wehking,_Heinrich-Bild-5994-1.jpg",male
-453ab44c-0b1c-4a06-84a9-9e5bf9da8506,Heinrich Windelen,Windelen!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,1957-09-28,,"https://upload.wikimedia.org/wikipedia/commons/d/d9/Bundesarchiv_B_145_Bild-F042655-0004,_Bonn,_Tagung_CDU-CSU_Bundesvorstand,_Windelen_(cropped).jpg",male
+453ab44c-0b1c-4a06-84a9-9e5bf9da8506,Heinrich Windelen,Windelen,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,1957-09-28,,"https://upload.wikimedia.org/wikipedia/commons/d/d9/Bundesarchiv_B_145_Bild-F042655-0004,_Bonn,_Tagung_CDU-CSU_Bundesvorstand,_Windelen_(cropped).jpg",male
 34aab18f-c3f4-403f-99a9-abef3a84f8ec,Heinrich Wullenhaupt,Wullenhaupt!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 f03f1d7e-f612-48a3-a611-538e045f179c,Heinrich Zimmermann,Zimmermann !,,,,DP,dp,area/niedersachsen,Niedersachsen,Bundestag,2,,,,male
 dbff8780-8cb1-4dde-80d0-e14a235a5e60,Heinrich von Brentano,Brentano!,,,,CDU,cdu,area/hessen,Hessen,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/7/7d/Heinrich_von_Brentano.jpg,male
@@ -255,7 +255,7 @@ d86cc023-f4ea-4c2c-af55-945b413a6a90,Helmut Bazille,Bazille!,,,,SPD,spd,area/bad
 3f48c465-5d48-4398-a95d-b66add408116,Helmut Petersen,Petersen!,,,,GB/BHE,bhe,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 64044d44-a2a8-475d-8875-3e0afba0794b,Helmut Schmidt,"Schmidt, Helmut!",,,,SPD,spd,area/hamburg,Hamburg,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/b/ba/Helmut_Schmidt_(13.07.1977).jpg,male
 f0bdff31-aec8-4bed-b4f1-1871ad9c46e4,Helmuth Schranz,Schranz!,,,,DP,dp,area/hessen,Hessen,Bundestag,2,,,,male
-376a6353-f59c-4499-8001-e02d907230ba,Herbert Czaja,Czaja!,,,,CDU,cdu,area/baden-württemberg,Baden-Württemberg,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/9/97/KAS-Czaja,_Herbert-Bild-1229-2.jpg",male
+376a6353-f59c-4499-8001-e02d907230ba,Herbert Czaja,Czaja,,,,CDU,cdu,area/baden-württemberg,Baden-Württemberg,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/9/97/KAS-Czaja,_Herbert-Bild-1229-2.jpg",male
 19659e1e-a21f-4558-94d2-af574c08b51a,Herbert Hauffe,Hauffe!,,,,SPD,spd,area/bayern,Bayern,Bundestag,2,,,,male
 ffe5f4d6-bfd5-4652-bc34-928065001706,Herbert Kriedemann,Kriedemann!,,,,SPD,spd,area/niedersachsen,Niedersachsen,Bundestag,2,,,,male
 4cf59be1-7ed5-4a72-aa5e-590ba46199f2,Herbert Schneider,"Schneider, Herbert!",,,,DP,dp,area/bremen,Bremen,Bundestag,2,,,,male
@@ -465,7 +465,7 @@ a49aeb77-c1be-4b2c-92cf-fc01bf6fc504,Richard Jaeger,Jaeger!,,,,CSU,csu,area/baye
 3429f69e-af56-455f-8fee-b94ac87dc4e0,Richard Oetzel,Oetzel!,,,,CDU,cdu,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/d/d9/Richard_Oetzel_Wahlplakat.jpg,male
 17c8a907-2e57-403e-96a1-03d55b22b73c,Richard Reitzner,Reitzner!,,,,SPD,spd,area/bayern,Bayern,Bundestag,2,,,,male
 4e13c53a-d204-4bc9-9abd-72572a9a0cc5,Richard Schröter,Schroter!,,,,SPD,spd,area/berlin,Berlin,Bundestag,2,,,,male
-201df46c-3007-4e5f-8652-8b5c3fd028e8,Richard Stücklen,Stucklen!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/1/1f/Bundesarchiv_B_145_Bild-F083825-0008,_Rhöndorf,_Sitzung_Stiftung_Adenauer-Haus.jpg",male
+201df46c-3007-4e5f-8652-8b5c3fd028e8,Richard Stücklen,Stucklen,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,"https://upload.wikimedia.org/wikipedia/commons/1/1f/Bundesarchiv_B_145_Bild-F083825-0008,_Rhöndorf,_Sitzung_Stiftung_Adenauer-Haus.jpg",male
 8cd72c8d-524e-4998-8376-821a2990c459,Robert Dannemann,Dannemann!,,,,FDP,fdp,area/niedersachsen,Niedersachsen,Bundestag,2,,1955-07-01,,male
 a0604e19-8d60-4686-83cb-ad901467b7ca,Robert Daum,Daum!,,,,SPD,spd,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 2beeeec9-a025-4e41-947b-bf073c99c089,Robert Geritzmann,Geritzmann!,,,,SPD,spd,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
@@ -515,7 +515,7 @@ eea1c872-2afc-4509-8f88-3cf9af65b081,Walther Kolbe,Kolbe!,,,,CDU,cdu,area/nordrh
 f21a98af-7d85-4141-8748-97491c592f0c,Walther Kühn,"Kuhn, Walter!",,,,FDP,fdp,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 23d80d4f-f7cb-4a00-bb74-6494c0ef923a,Wendelin Morgenthaler,Morgenthaler!,,,,CDU,cdu,area/baden-württemberg,Baden-Württemberg,Bundestag,2,,,,male
 3137df04-56b7-406d-83ff-d733821a6f1d,Wenzel Jaksch,Jaksch!,,,,SPD,spd,area/hessen,Hessen,Bundestag,2,,,,male
-160ac421-b96a-4d33-be2c-b72a02e8cf75,Werner Dollinger,Dollinger!,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ee/Werner_dollinger2.jpg,male
+160ac421-b96a-4d33-be2c-b72a02e8cf75,Werner Dollinger,Dollinger,,,,CSU,csu,area/bayern,Bayern,Bundestag,2,,,https://upload.wikimedia.org/wikipedia/commons/e/ee/Werner_dollinger2.jpg,male
 dc421000-9c5a-4442-ac21-1907f71bfdd8,Werner Hansen,Hansen!,,,,SPD,spd,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 e4f0a40e-3b0d-428a-8e7b-1b5e001ddb72,Werner Jacobi,"Jacobi, Werner!",,,,SPD,spd,area/nordrhein-westfalen,Nordrhein-Westfalen,Bundestag,2,,,,male
 ae6a7afc-de80-4678-b0b2-14a2263dad68,Werner Pusch,Pusch!,,,,SPD,spd,area/baden-württemberg,Baden-Württemberg,Bundestag,2,,,,male
