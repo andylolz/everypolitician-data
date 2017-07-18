@@ -764,12 +764,18 @@
       "name": "Panganiban, Jose Jr. T."
     },
     {
+      "birth_date": "1951-09-05",
       "gender": "male",
+      "given_name": "Rodolfo",
       "id": "0cae5a6a-15df-4959-a25e-ac6ed47aae2e",
       "identifiers": [
         {
           "identifier": "farinas-r",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q12970074",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congress.gov.ph/members/images/16th/farinas-r.jpg",
@@ -778,7 +784,33 @@
           "url": "http://www.congress.gov.ph/members/images/16th/farinas-r.jpg"
         }
       ],
-      "name": "Fariñas, Rodolfo C."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Rodolfo_Fariñas"
+        },
+        {
+          "note": "Wikipedia (tl)",
+          "url": "https://tl.wikipedia.org/wiki/Rodolfo_Fariñas"
+        }
+      ],
+      "name": "Fariñas, Rodolfo C.",
+      "other_names": [
+        {
+          "name": "Rodolfo Fariñas",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Rodolfo Fariñas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tl",
+          "name": "Rodolfo Fariñas",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-08-22",
@@ -9751,13 +9783,41 @@
     },
     {
       "id": "96827f5d-b2b1-4771-b6a1-4b6707d7d0af",
+      "identifiers": [
+        {
+          "identifier": "Q30549188",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congress.gov.ph/members/images/16th/daza.jpg",
       "images": [
         {
           "url": "http://www.congress.gov.ph/members/images/16th/daza.jpg"
         }
       ],
-      "name": "Daza, Raul A."
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Raul_Daza"
+        }
+      ],
+      "name": "Daza, Raul A.",
+      "other_names": [
+        {
+          "name": "Raul A. Daza",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Raul A. Daza",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Raul A. Daza",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "female",
