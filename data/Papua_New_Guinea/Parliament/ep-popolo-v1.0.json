@@ -538,6 +538,11 @@
           "lang": "fr",
           "name": "Rimbink Pato",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "リンビンク・パト",
+          "note": "multilingual"
         }
       ]
     },
@@ -774,6 +779,11 @@
         {
           "lang": "sv",
           "name": "Theo Zurenuoc",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "西奧多·佐倫諾克",
           "note": "multilingual"
         }
       ]
@@ -1014,6 +1024,10 @@
           "url": "https://en.wikipedia.org/wiki/Bob_Dadae"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Bob_Dadae"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Bob_Dadae"
         },
@@ -1038,8 +1052,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
           "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ボブ・ダダエ",
           "note": "multilingual"
         },
         {
@@ -1055,6 +1079,11 @@
         {
           "lang": "tr",
           "name": "Bob Dadae",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "鮑伯·達達",
           "note": "multilingual"
         }
       ]
@@ -2254,6 +2283,11 @@
         {
           "lang": "it",
           "name": "Francis Potape",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "フランシス・ポタペ",
           "note": "multilingual"
         },
         {
@@ -5006,6 +5040,31 @@
         {
           "lang": "es",
           "name": "Candidata cívica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
           "note": "multilingual"
         },
         {
