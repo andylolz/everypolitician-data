@@ -2582,6 +2582,7 @@
       "name": "Hon. Westly Nukundj, MP"
     },
     {
+      "birth_date": "1988-09-01",
       "contact_details": [
         {
           "type": "email",
@@ -2596,6 +2597,7 @@
           "value": "3277700/72052620/76929850"
         }
       ],
+      "death_date": "2017-05-24",
       "email": "J.Kautasnr@gmail.com",
       "gender": "male",
       "id": "6da34f81-37bb-4ab7-a081-c9271c2d3253",
@@ -2603,6 +2605,10 @@
         {
           "identifier": "Ezekiel-Anisi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28037442",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/assets/img/placeholder-member.jpg",
@@ -2611,7 +2617,46 @@
           "url": "http://www.parliament.gov.pg/assets/img/placeholder-member.jpg"
         }
       ],
-      "name": "Hon. Ezekiel Anisi, MP"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ezekiel_Anisi"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ezekiel_Anisi"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ezekiel_Anisi"
+        },
+        {
+          "note": "Wikipedia (uk)",
+          "url": "https://uk.wikipedia.org/wiki/Езекіель_Анісі"
+        }
+      ],
+      "name": "Hon. Ezekiel Anisi, MP",
+      "other_names": [
+        {
+          "name": "Ezekiel Anisi",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Ezekiel Anisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ezekiel Anisi",
+          "note": "multilingual"
+        },
+        {
+          "lang": "uk",
+          "name": "Езекіель Анісі",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
