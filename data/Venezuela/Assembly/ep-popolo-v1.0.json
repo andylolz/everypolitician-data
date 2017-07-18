@@ -3038,15 +3038,50 @@
       ]
     },
     {
+      "birth_date": "1978-05-08",
       "gender": "female",
+      "given_name": "Amelia",
       "id": "69463809-cde3-4c03-8f24-e8b00dd6b5e0",
+      "identifiers": [
+        {
+          "identifier": "Q28662960",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_d7ebc1359b43956518a9378c242db46171835793.jpg",
       "images": [
         {
           "url": "http://www.asambleanacional.gob.ve/uploads/diputado/dip_d7ebc1359b43956518a9378c242db46171835793.jpg"
         }
       ],
-      "name": "BELISARIO SOCORRO AMELIA GERALDINE"
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Amelia_Belisario"
+        }
+      ],
+      "name": "BELISARIO SOCORRO AMELIA GERALDINE",
+      "other_names": [
+        {
+          "name": "Amelia Belisario",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Amelia Belisario",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Amelia Belisario",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Amelia Belisario",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
