@@ -2007,6 +2007,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "タフシン・エルトゥールロール",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Tahsin Ertuğruloğlu",
           "note": "multilingual"
@@ -2147,6 +2152,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Özdil_Nami"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Özdil_Nami"
@@ -2447,6 +2456,11 @@
         {
           "lang": "es",
           "name": "Demokrat Parti",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Partido Democrata",
           "note": "multilingual"
         },
         {
