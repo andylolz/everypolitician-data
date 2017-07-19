@@ -2391,6 +2391,10 @@
         {
           "identifier": "9673",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q32557023",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congres.nc/wp-content/uploads/2015/01/metzdorf.jpg",
@@ -2399,7 +2403,20 @@
           "url": "http://www.congres.nc/wp-content/uploads/2015/01/metzdorf.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nicolas_Metzdorf"
+        }
+      ],
       "name": "Nicolas Metzdorf",
+      "other_names": [
+        {
+          "lang": "fr",
+          "name": "Nicolas Metzdorf",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Metzdorf, Nicolas"
     }
   ],
