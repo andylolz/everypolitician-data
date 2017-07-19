@@ -191,9 +191,30 @@
         {
           "identifier": "abdullah_maseeh_mohamed",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q28163511",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Abdullah Maseeh MOHAMED"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Abdulla_Maseeh_Mohamed"
+        }
+      ],
+      "name": "Abdullah Maseeh MOHAMED",
+      "other_names": [
+        {
+          "name": "Abdulla Maseeh Mohamed",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Abdulla Maseeh Mohamed",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "23d28234-a9f7-4d87-b27a-f97dc46557fb",
