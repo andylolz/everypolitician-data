@@ -50037,8 +50037,99 @@
       "sort_name": "Rask Maija"
     },
     {
+      "family_name": "Torvinen",
+      "gender": "male",
+      "given_name": "Matti",
       "id": "ea38f5eb-200f-4a93-81a7-a16b8e53de5f",
-      "name": "Matti Torvinen"
+      "identifiers": [
+        {
+          "identifier": "Q31093270",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Matti_Torvinen"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Matti_Torvinen"
+        }
+      ],
+      "name": "Matti Torvinen",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fo",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "se",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sje",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sma",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "smj",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Matti Torvinen",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1956-03-15",
