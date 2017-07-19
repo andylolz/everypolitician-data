@@ -22929,15 +22929,43 @@
       "sort_name": "Chadwick"
     },
     {
+      "birth_date": "1960-10-31",
       "gender": "female",
+      "given_name": "Romy",
       "id": "fe6b5ff5-8b64-403a-b735-9cea5a91065a",
       "identifiers": [
         {
           "identifier": "489",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q32468584",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Romy_Rebolledo"
         }
       ],
       "name": "Romy Rebolledo Leyton",
+      "other_names": [
+        {
+          "name": "Romy Rebolledo",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Romy Rebolledo",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Romy Rebolledo",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Rebolledo"
     },
     {
