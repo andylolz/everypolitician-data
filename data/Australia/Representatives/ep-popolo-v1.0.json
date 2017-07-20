@@ -3054,6 +3054,10 @@
           "url": "https://es.wikipedia.org/wiki/Jacqueline_Marie_Kelly"
         },
         {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/ジャッキー・ケリー"
+        },
+        {
           "note": "wikipedia",
           "url": "http://en.wikipedia.org/wiki/Jackie_Kelly"
         }
@@ -17296,6 +17300,10 @@
           "url": "https://hi.wikipedia.org/wiki/मैल्कम_टर्नबुल"
         },
         {
+          "note": "Wikipedia (hif)",
+          "url": "https://hif.wikipedia.org/wiki/Malcolm_Turnbull"
+        },
+        {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Malcolm_Turnbull"
         },
@@ -24851,6 +24859,11 @@
       "name": "Michael Ferguson",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "مايكل فيرغسون",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Michael Ferguson",
           "note": "multilingual"
@@ -26230,6 +26243,10 @@
         {
           "identifier": "n00028929",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "458700",
+          "scheme": "nlatrove"
         },
         {
           "identifier": "10053",
@@ -29450,6 +29467,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Peter_Dutton"
+        },
+        {
+          "note": "Wikipedia (hif)",
+          "url": "https://hif.wikipedia.org/wiki/Peter_Dutton"
         },
         {
           "note": "Wikipedia (pl)",
@@ -39966,7 +39987,7 @@
       "sort_name": "Nikolic, Andrew"
     },
     {
-      "birth_date": "1967",
+      "birth_date": "1967-03-29",
       "family_name": "Aly",
       "gender": "female",
       "given_name": "Anne",
