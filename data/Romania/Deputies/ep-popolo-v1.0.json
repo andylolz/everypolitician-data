@@ -1080,6 +1080,7 @@
     {
       "birth_date": "1979-04-15",
       "gender": "male",
+      "given_name": "Florentin",
       "id": "0bece5ac-96c5-4643-add9-4368583d3a70",
       "identifiers": [
         {
@@ -2611,6 +2612,7 @@
     {
       "birth_date": "1977-04-20",
       "gender": "male",
+      "given_name": "Adrian",
       "id": "13678655-9fa8-4f96-90eb-e4f31b27ef23",
       "identifiers": [
         {
@@ -2642,6 +2644,11 @@
         {
           "name": "Adrian Gurzău",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Adrian Gurzău",
+          "note": "multilingual"
         },
         {
           "lang": "nl",
@@ -10398,6 +10405,7 @@
     {
       "birth_date": "1979-09-15",
       "gender": "male",
+      "given_name": "Ovidiu",
       "id": "46f53512-5cbc-473b-aa12-80481357b9b3",
       "identifiers": [
         {
@@ -12229,6 +12237,11 @@
       "name": "Ovidiu-Ioan DUMITRU",
       "other_names": [
         {
+          "lang": "en",
+          "name": "Ovidiu-Ioan Dumitru",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Ovidiu-Ioan Dumitru",
           "note": "multilingual"
@@ -12455,6 +12468,10 @@
         {
           "note": "Wikipedia (et)",
           "url": "https://et.wikipedia.org/wiki/Mihai_Tudose"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Mihai_Tudose"
         },
         {
           "note": "Wikipedia (fr)",
@@ -12687,6 +12704,11 @@
       ],
       "name": "Constantin-Cosmin ENEA",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Constantin-Cosmin Enea",
+          "note": "multilingual"
+        },
         {
           "lang": "nl",
           "name": "Constantin-Cosmin Enea",
@@ -13907,6 +13929,7 @@
     {
       "birth_date": "1966-08-18",
       "gender": "male",
+      "given_name": "Ovidiu",
       "id": "6b5ad7e2-7313-408c-8a33-d2dbfbaf249e",
       "identifiers": [
         {
@@ -16090,6 +16113,7 @@
     {
       "birth_date": "1962-12-12",
       "gender": "male",
+      "given_name": "Ovidiu",
       "id": "78932d3b-45c0-47b2-9c89-b6492441c781",
       "identifiers": [
         {
@@ -18812,6 +18836,11 @@
       ],
       "name": "Adrian Constantin SIMIONESCU",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Adrian Constantin Simionescu",
+          "note": "multilingual"
+        },
         {
           "lang": "it",
           "name": "Adrian Constantin Simionescu",
@@ -37227,6 +37256,11 @@
         {
           "lang": "zh-cn",
           "name": "罗马尼亚匈牙利人民主联盟",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "האיחוד הדמוקרטי של ההונגרים ברומניה",
           "note": "multilingual"
         },
         {
