@@ -9516,6 +9516,10 @@
         {
           "identifier": "petrus-johannes-groenewald",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33061390",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/74/d5/74d5cd385284f389a0d4a16067a778ca.jpg",
@@ -9524,7 +9528,24 @@
           "url": "http://www.pa.org.za/media_root/cache/74/d5/74d5cd385284f389a0d4a16067a778ca.jpg"
         }
       ],
-      "name": "Petrus Johannes Groenewald"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Pieter_Groenewald"
+        }
+      ],
+      "name": "Petrus Johannes Groenewald",
+      "other_names": [
+        {
+          "name": "Pieter Groenewald",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Pieter Groenewald",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -14950,6 +14971,10 @@
         {
           "identifier": "hlengiwe-buhle-mkhize",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q16765128",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg",
@@ -14958,7 +14983,35 @@
           "url": "http://www.pa.org.za/media_root/cache/5b/8c/5b8cf37052236a503df2d7f77da89546.jpg"
         }
       ],
-      "name": "Hlengiwe Mkhize"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Hlengiwe_Mkhize"
+        }
+      ],
+      "name": "Hlengiwe Mkhize",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Hlengiwe Mkhize",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Hlengiwe Mkhize",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Hlengiwe Mkhize",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Hlengiwe Mkhize",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "gender": "male",
