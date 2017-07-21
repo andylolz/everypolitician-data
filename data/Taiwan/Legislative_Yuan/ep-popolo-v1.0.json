@@ -3279,6 +3279,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Chang_Liao_Wan-chien"
         },
         {
+          "note": "Wikipedia (hak)",
+          "url": "https://hak.wikipedia.org/wiki/Chông-liau_Van-kiên"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/張廖萬堅"
         }
@@ -3341,6 +3345,11 @@
         {
           "name": "周倪安",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chou Ni-an",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -4097,8 +4106,17 @@
       "birth_date": "1971",
       "family_name": "Cai",
       "gender": "female",
+      "given_name": "Frida",
       "id": "5b389b28-1dac-4a86-9124-a33695bdbd11",
       "identifiers": [
+        {
+          "identifier": "nr2005008073",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "116743417",
+          "scheme": "sudoc"
+        },
         {
           "identifier": "Q15901623",
           "scheme": "wikidata"
@@ -4119,6 +4137,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Tsai_Pei-hui"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Frida_Tsai"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/蔡培慧"
         }
@@ -4128,6 +4150,11 @@
         {
           "name": "蔡培慧",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Frida Tsai",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
