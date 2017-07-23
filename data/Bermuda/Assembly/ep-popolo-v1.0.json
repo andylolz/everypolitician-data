@@ -347,6 +347,10 @@
         {
           "identifier": "E._David_Burt",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33120852",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/2243CABSENATORSFO27F4E3.jpeg",
@@ -355,7 +359,24 @@
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/2243CABSENATORSFO27F4E3.jpeg"
         }
       ],
-      "name": "David Burt"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Edward_David_Burt"
+        }
+      ],
+      "name": "David Burt",
+      "other_names": [
+        {
+          "name": "E. David Burt",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "E. David Burt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
