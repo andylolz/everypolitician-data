@@ -1117,6 +1117,11 @@
           "lang": "da",
           "name": "FijiFirst",
           "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "FijiFirst",
+          "note": "multilingual"
         }
       ]
     },
@@ -1150,6 +1155,11 @@
         {
           "lang": "fr",
           "name": "Parti de la fédération nationale",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Federazione Nazionale",
           "note": "multilingual"
         },
         {
@@ -1191,6 +1201,11 @@
         {
           "lang": "fr",
           "name": "Parti libéral social-démocrate",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Partito Liberale Sociale Democratico",
           "note": "multilingual"
         }
       ]
