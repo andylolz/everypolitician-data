@@ -22248,6 +22248,10 @@
         {
           "identifier": "131125",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q24642452",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.duma.gov.ru/upload/iblock/67b/67bfa870800495d8e04b2e04f6529979.jpg",
@@ -22256,7 +22260,20 @@
           "url": "http://www.duma.gov.ru/upload/iblock/67b/67bfa870800495d8e04b2e04f6529979.jpg"
         }
       ],
-      "name": "Максимова Светлана Викторовна"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Максимова,_Светлана_Викторовна"
+        }
+      ],
+      "name": "Максимова Светлана Викторовна",
+      "other_names": [
+        {
+          "lang": "ru",
+          "name": "Максимова Светлана Викторовна",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1973-09-04",
