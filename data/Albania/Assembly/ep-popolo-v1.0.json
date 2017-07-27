@@ -9333,6 +9333,10 @@
         {
           "identifier": "9829",
           "scheme": "kuvendi"
+        },
+        {
+          "identifier": "Q13043722",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://www.parlament.al/wp-content/uploads/sites/4/2015/12/Olta-Xhacka-PS.jpg",
@@ -9343,6 +9347,18 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Olta_Xhaçka"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Olta_Xhaçka"
+        },
+        {
+          "note": "Wikipedia (sq)",
+          "url": "https://sq.wikipedia.org/wiki/Olta_Xhaçka"
+        },
+        {
           "note": "website",
           "url": "https://www.parlament.al/deputet/olta-xhacka/"
         }
@@ -9352,6 +9368,25 @@
         {
           "name": "Olta Xhaçka",
           "note": "alternate"
+        },
+        {
+          "name": "Olta Xhaçka",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Olta Xhaçka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Olta Xhaçka",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Olta Xhaçka",
+          "note": "multilingual"
         }
       ]
     },
