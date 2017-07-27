@@ -5933,7 +5933,6 @@
       "patronymic_name": "Chaudhry Elahi Bakhsh"
     },
     {
-      "birth_date": "1971-07-15",
       "gender": "female",
       "id": "46d576d6-2b5f-4977-a6d4-c8a6cc19ef72",
       "identifiers": [
@@ -6753,6 +6752,10 @@
         {
           "type": "phone",
           "value": "0300-5275258"
+        },
+        {
+          "type": "twitter",
+          "value": "shehryarafridi1"
         }
       ],
       "gender": "male",
@@ -6777,6 +6780,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Shehryar_Khan_Afridi"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/shehryarafridi1"
         }
       ],
       "name": "Shehryar Afridi",
@@ -9524,6 +9531,10 @@
         {
           "type": "phone",
           "value": "051-9221113 (Office) 0300-5599300 (PS)"
+        },
+        {
+          "type": "twitter",
+          "value": "murtazaj18"
         }
       ],
       "gender": "male",
@@ -9552,6 +9563,10 @@
         {
           "note": "Wikipedia (hi)",
           "url": "https://hi.wikipedia.org/wiki/मुर्तज़ा_जावेद_अब्बासी"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/murtazaj18"
         }
       ],
       "name": "Murtaza Javed Abbasi, Deputy Speaker National Assembly",
@@ -9635,10 +9650,6 @@
         {
           "note": "Wikipedia (ur)",
           "url": "https://ur.wikipedia.org/wiki/عبد_القادر_بلوچ"
-        },
-        {
-          "note": "facebook",
-          "url": "https://facebook.com/baluchofficial"
         }
       ],
       "name": "Lt.G.(R) Abdul Qadir Baloch",
@@ -13782,6 +13793,10 @@
         {
           "type": "phone",
           "value": "0321-9970079"
+        },
+        {
+          "type": "twitter",
+          "value": "babarnawazkhan7"
         }
       ],
       "gender": "male",
@@ -13802,6 +13817,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Babar_Nawaz_Khan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/babarnawazkhan7"
         }
       ],
       "name": "Babar Nawaz Khan",
@@ -15731,7 +15750,6 @@
       "patronymic_name": "Makhdoom Muhammad SajjadHussain Qureshi"
     },
     {
-      "birth_date": "1961-09-08",
       "gender": "male",
       "id": "b92a7135-fb0b-4c7d-9096-eb807f69a134",
       "identifiers": [
@@ -16967,6 +16985,10 @@
         {
           "type": "phone",
           "value": "0343-9151109"
+        },
+        {
+          "type": "twitter",
+          "value": "Ali_MuhammadPTI"
         }
       ],
       "gender": "male",
@@ -16992,6 +17014,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ali_Muhammad_Khan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Ali_MuhammadPTI"
         }
       ],
       "name": "Ali Muhammad Khan",
@@ -20110,6 +20136,10 @@
         {
           "type": "phone",
           "value": "042-7860222-0302-8558777"
+        },
+        {
+          "type": "twitter",
+          "value": "captsafdarawan"
         }
       ],
       "gender": "male",
@@ -20135,6 +20165,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Muhammad_Safdar_Awan"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/captsafdarawan"
         }
       ],
       "name": "Capt (R) Muhammad Safdar",
