@@ -2882,20 +2882,40 @@
         }
       ],
       "gender": "male",
+      "given_name": "Žan",
       "id": "4efef6b2-3e10-46fe-a881-5027cc095621",
       "identifiers": [
         {
+          "identifier": "268265571",
+          "scheme": "conor"
+        },
+        {
           "identifier": "270",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q32078857",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P270",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P270"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zan_Mahnic.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Žan_Mahnič"
+        },
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Žan_Mahnič"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/%C5%BDan-Mahni%C4%8D-1416268151994443"
@@ -2906,6 +2926,28 @@
         }
       ],
       "name": "Žan Mahnič",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Žan Mahnič",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Žan Mahnič",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Žan Mahnič",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Žan Mahnič",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mahnič Žan"
     },
     {
@@ -4911,6 +4953,10 @@
         {
           "identifier": "277",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q32945377",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P277",
@@ -4921,11 +4967,27 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Bojan_Podkrajšek"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/b_podkrajsek"
         }
       ],
       "name": "Bojan Podkrajšek",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Bojan Podkrajšek",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Bojan Podkrajšek",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Podkrajšek Bojan"
     },
     {
@@ -10720,11 +10782,20 @@
     {
       "birth_date": "1990-07-27",
       "gender": "male",
+      "given_name": "Andrej",
       "id": "e3a69b19-1c20-435f-81d6-4b6fbea2807c",
       "identifiers": [
         {
+          "identifier": "149855075",
+          "scheme": "conor"
+        },
+        {
           "identifier": "225",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30278292",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P225",
@@ -10733,7 +10804,44 @@
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P225"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Andrej_Čuš"
+        },
+        {
+          "note": "website",
+          "url": "http://najprej.si/"
+        }
+      ],
       "name": "Andrej Čuš",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Andrej Čuš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Andrej Čuš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrej Čuš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrej Čuš",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Andrej Čuš",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Čuš Andrej"
     },
     {
@@ -10745,20 +10853,32 @@
         }
       ],
       "gender": "male",
+      "given_name": "Anže",
       "id": "e7eb5b01-8378-4b35-a8bb-ae398166b738",
       "identifiers": [
         {
           "identifier": "238",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q32083031",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238",
       "images": [
         {
           "url": "http://www.dz-rs.si/wps/PA_DZ-LN-Osebe/CommonRes?idOseba=P238"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Anže_Logar_2012_(cropped).JPG"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Anže_Logar"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/anze.logar.75"
@@ -10769,6 +10889,32 @@
         }
       ],
       "name": "Dr. Anže Logar",
+      "other_names": [
+        {
+          "name": "Anže Logar",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Anže Logar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Anže Logar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Anže Logar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Anže Logar",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Logar Anže"
     },
     {
