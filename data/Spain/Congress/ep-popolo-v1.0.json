@@ -23060,7 +23060,7 @@
       "sort_name": "López González, Rocío"
     },
     {
-      "birth_date": "1954-05-11",
+      "birth_date": "1954-05-01",
       "contact_details": [
         {
           "type": "email",
@@ -23076,6 +23076,10 @@
         {
           "identifier": "300",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755769",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/157_11.jpg",
@@ -23086,6 +23090,14 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Carmen_Quintanilla"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Carmen_Quintanilla"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/carmen.q.barba"
         }
@@ -23093,12 +23105,41 @@
       "name": "María del Carmen Quintanilla",
       "other_names": [
         {
+          "name": "Carmen Quintanilla",
+          "note": "alternate"
+        },
+        {
           "name": "María del Carmen Quintanilla Barba",
           "note": "alternate"
         },
         {
           "name": "María del Carmen Quintanilla Barba",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Carmen Quintanilla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Carmen Quintanilla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María del Carmen Quintanilla Barba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Carmen Quintanilla",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María del Carmen Quintanilla Barba",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Quintanilla Barba, María del Carmen"
@@ -33023,6 +33064,10 @@
         {
           "identifier": "109",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755704",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/743566115029278720/O0eK7Ld7.jpg",
@@ -33032,6 +33077,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ana_María_Madrazo_Díaz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_María_Madrazo_Díaz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ana_Madrazo"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/anamaria.madrazodiaz"
@@ -33050,6 +33107,35 @@
         {
           "name": "Ana María Madrazo Díaz",
           "note": "alternate"
+        },
+        {
+          "name": "Ana María Madrazo Díaz",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana María Madrazo Díaz",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Madrazo Díaz, Ana María"
@@ -49084,12 +49170,26 @@
         {
           "identifier": "169",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q27755688",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/68_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/68_11.jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Pablo_Matos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pablo_Matos"
         }
       ],
       "name": "Pablo Matos",
@@ -49101,6 +49201,46 @@
         {
           "name": "Pablo Matos Mascareño",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Pablo Matos Mascareño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Pablo Matos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Pablo Matos Mascareño",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Matos Mascareño, Pablo"
