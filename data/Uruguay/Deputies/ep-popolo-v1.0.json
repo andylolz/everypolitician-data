@@ -2015,6 +2015,10 @@
         {
           "identifier": "4809896",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q30904782",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09896_1.JPG",
@@ -2023,7 +2027,24 @@
           "url": "https://parlamento.gub.uy/sites/default/files/styles/avatar_126x148/public/avatars/Fot09896_1.JPG"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Amin_Niffouri"
+        }
+      ],
       "name": "Amín Niffouri Blanco",
+      "other_names": [
+        {
+          "name": "Amin Niffouri",
+          "note": "alternate"
+        },
+        {
+          "lang": "es",
+          "name": "Amin Niffouri",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Niffouri Blanco , Amín"
     },
     {
