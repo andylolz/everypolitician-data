@@ -1673,10 +1673,19 @@
       "gender": "male",
       "given_name": "Enric",
       "id": "074ab806-c8ef-4f1a-9ed2-e9eb15a8cafe",
+      "identifiers": [
+        {
+          "identifier": "Q19999199",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/286_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/286_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Enricbatallercompromis.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/797020023378284544/IaqRvN28.jpg"
@@ -1684,11 +1693,50 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Enric_Bataller_i_Ruiz"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Enric_Bataller_i_Ruiz"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Enric_Bataller_i_Ruiz"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/EBataller"
         }
       ],
       "name": "Enric Bataller i Ruiz",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Enric Bataller i Ruiz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Enric Bataller i Ruiz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Enric Bataller i Ruiz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Enric Bataller i Ruiz",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Enric Bataller i Ruiz",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Bataller i Ruiz, Enric"
     },
     {
@@ -6471,6 +6519,20 @@
       "gender": "male",
       "given_name": "Marc",
       "id": "1f2ee1ee-476a-4de5-b843-94bcf6f28b9b",
+      "identifiers": [
+        {
+          "identifier": "3026080",
+          "scheme": "dialnet"
+        },
+        {
+          "identifier": "200176370",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q22337915",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/305_11.jpg",
       "images": [
         {
@@ -6482,6 +6544,22 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Marc_Lamuà_Estañol"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Marc_Lamuà_Estañol"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marc_Lamuà_Estañol"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Marc_Lamuà_Estañol"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/marc.estanol"
         },
@@ -6491,6 +6569,38 @@
         }
       ],
       "name": "Marc Lamuà Estañol",
+      "other_names": [
+        {
+          "lang": "ast",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marc Lamuà Estañol",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Lamuà Estañol, Marc"
     },
     {
@@ -6826,16 +6936,41 @@
       "gender": "male",
       "given_name": "Antoni",
       "id": "22988c1b-e103-4c13-b1aa-e9f7dee188ff",
+      "identifiers": [
+        {
+          "identifier": "Q19301949",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/3_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/3_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Toni_Postius.jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/818495257298042882/ePOwNTSr.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Toni_Postius_Terrado"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Toni_Postius"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Antoni_Postius_Terrado"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Antoni_Postius_Terrado"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/antoni.postius"
@@ -6846,6 +6981,42 @@
         }
       ],
       "name": "Antoni Postius Terrado",
+      "other_names": [
+        {
+          "name": "Toni Postius Terrado",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Toni Postius Terrado",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Postius Terrado, Antoni"
     },
     {
@@ -10516,13 +10687,69 @@
       "gender": "female",
       "given_name": "María Asunción Jacoba Pía",
       "id": "37da9f8c-9a32-442d-b927-7e66df0eec50",
+      "identifiers": [
+        {
+          "identifier": "Q22964529",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/89_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/89_11.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/María_Asunción_Jacoba_Pía_de_la_Concha_García-Mauriño"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Mae_de_la_Concha_García-Mauriño"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Asunción_Jacoba_Pía_de_la_Concha_García-Mauriño"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mae_De_la_Concha"
+        }
+      ],
       "name": "María Asunción Jacoba Pía De la Concha García-Mauriño",
+      "other_names": [
+        {
+          "lang": "ast",
+          "name": "María Asunción Jacoba Pía de la Concha García-Mauriño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Mae de la Concha García-Mauriño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Mae de la Concha García-Mauriño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Asunción Jacoba Pía de la Concha García-Mauriño",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Mae De la Concha",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mae de la Concha García-Mauriño",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "De la Concha García-Mauriño, María Asunción Jacoba Pía"
     },
     {
@@ -17376,6 +17603,10 @@
         {
           "type": "twitter",
           "value": "joanmena"
+        },
+        {
+          "type": "twitter",
+          "value": "joanmen"
         }
       ],
       "email": "joan.mena@congreso.es",
@@ -17383,10 +17614,19 @@
       "gender": "male",
       "given_name": "Joan Miquel",
       "id": "59dfc58c-10ee-4fa8-a15c-bf346d8c25b5",
+      "identifiers": [
+        {
+          "identifier": "Q19299933",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/101_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/101_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Presentació_de_la_candidatura_(23081197102).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/750072607723102208/_8_3LqIp.jpg"
@@ -17394,15 +17634,71 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joan_Mena_i_Arca"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Joan_Mena_i_Arca"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joan_Mena_Arca"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joan_Mena"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/joanmena"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/joanmena"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/joanmen"
         }
       ],
       "name": "Joan Miquel Mena Arca",
+      "other_names": [
+        {
+          "name": "Joan Mena i Arca",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Mena i Arca",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mena Arca, Joan Miquel"
     },
     {
@@ -24286,6 +24582,12 @@
       "gender": "female",
       "given_name": "Ana",
       "id": "76ec78b2-d675-45ad-add7-0e747660ce7d",
+      "identifiers": [
+        {
+          "identifier": "Q27999093",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/80_11.jpg",
       "images": [
         {
@@ -24297,11 +24599,45 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Ana_Marcello_Santos"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ana_Marcello_Santos"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ana_Marcello"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/anamarcelloana"
         }
       ],
       "name": "Ana Marcello Santos",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Ana Marcello Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ana Marcello Santos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ana Marcello",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ana Marcello",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Marcello Santos, Ana"
     },
     {
@@ -26509,10 +26845,27 @@
       "gender": "male",
       "given_name": "Francesc Xavier",
       "id": "8289fbee-ccef-4a4f-8ea3-421279bdc3e0",
+      "identifiers": [
+        {
+          "identifier": "121465",
+          "scheme": "dialnet"
+        },
+        {
+          "identifier": "7566363",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q21479962",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/345_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/345_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eritja2.jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/763666480739278848/I3bb00DS.jpg"
@@ -26520,11 +26873,69 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Francesc_Xavier_Eritja_Ciuró"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Xavier_Eritja_i_Ciuró"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Francesc_Xavier_Eritja_Ciuró"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Xavier_Eritja_i_Ciuró"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/xavieritja"
         }
       ],
       "name": "Francesc Xavier Eritja Ciuró",
+      "other_names": [
+        {
+          "lang": "ast",
+          "name": "Francesc Xavier Eritja Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Francesc Xavier Eritja Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Xavier Eritja i Ciuró",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Eritja Ciuró, Francesc Xavier"
     },
     {
@@ -28354,6 +28765,10 @@
         {
           "identifier": "143",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q17036717",
+          "scheme": "wikidata"
         }
       ],
       "image": "https://pbs.twimg.com/profile_images/679650124713357312/4OOTzP7k.jpg",
@@ -28363,6 +28778,18 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joan_Ruiz_i_Carbonell"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joan_Ruiz_Carbonell"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joan_Ruiz_i_Carbonell"
+        },
         {
           "note": "twitter",
           "url": "https://twitter.com/jruizcarbonell"
@@ -28377,6 +28804,40 @@
         {
           "name": "Joan Ruiz i Carbonell",
           "note": "alternate"
+        },
+        {
+          "name": "Joan Ruiz i Carbonell",
+          "note": "alternate"
+        },
+        {
+          "lang": "ca",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Ruiz i Carbonell",
+          "note": "multilingual"
         }
       ],
       "sort_name": "Ruiz i Carbonell, Joan"
@@ -32459,16 +32920,37 @@
       "gender": "male",
       "given_name": "Jaume",
       "id": "99d86b13-505c-49b9-a82a-d5e82666327d",
+      "identifiers": [
+        {
+          "identifier": "Q22337922",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/103_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/103_11.jpg"
         },
         {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Jaume_Moya_(14).jpg"
+        },
+        {
           "url": "https://pbs.twimg.com/profile_images/734674253497413632/zJ_G6IYE.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Jaume_Moya_Matas"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jaume_Moya_Matas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jaume_Moya_Matas"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/jaume.moya.7"
@@ -32479,6 +32961,33 @@
         }
       ],
       "name": "Jaume Moya Matas",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Jaume Moya Matas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jaume Moya Matas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jaume Moya Matas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jaume Moya Matas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jaume Moya Matas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Moya Matas, Jaume"
     },
     {
@@ -33471,6 +33980,12 @@
       "gender": "male",
       "given_name": "Fernando",
       "id": "a02c2441-06d1-4980-bcf8-044032c72127",
+      "identifiers": [
+        {
+          "identifier": "Q22965073",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/185_11.jpg",
       "images": [
         {
@@ -33482,11 +33997,55 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Fernando_Navarro_Fernández-Rodríguez"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Fernando_Navarro_Fernández-Rodríguez"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fernando_Navarro_Fernández-Rodríguez"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/CsFernavarro"
         }
       ],
       "name": "Fernando Navarro Fernández-Rodríguez",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Fernando Navarro Fernández-Rodríguez",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Navarro Fernández-Rodríguez, Fernando"
     },
     {
@@ -46253,6 +46812,12 @@
       "gender": "male",
       "given_name": "Jordi",
       "id": "d28be5f4-a3a6-48d5-bbd8-007258ff152c",
+      "identifiers": [
+        {
+          "identifier": "Q20876595",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/304_11.jpg",
       "images": [
         {
@@ -46264,11 +46829,55 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Jordi_Roca_Mas"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Jordi_Roca_Mas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jordi_Roca_Mas"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jordiroca"
         }
       ],
       "name": "Jordi Roca Mas",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jordi Roca Mas",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Roca Mas, Jordi"
     },
     {
@@ -54252,10 +54861,19 @@
       "gender": "male",
       "given_name": "Josep",
       "id": "f504a46e-c212-4273-afc3-c12d143766d1",
+      "identifiers": [
+        {
+          "identifier": "Q17037073",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/96_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/96_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Presentació_de_la_candidatura_(23095057055).jpg"
         },
         {
           "url": "https://pbs.twimg.com/profile_images/786605880280223744/Vk_rnDIX.jpg"
@@ -54263,11 +54881,68 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ast)",
+          "url": "https://ast.wikipedia.org/wiki/Josep_Vendrell_Gardeñes"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Josep_Vendrell_Gardeñes"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Josep_Vendrell_Gardeñes"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Josep_Vendrell_Gardeñes"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Josep_Vendrell_Gardeñes"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/vendrellj"
         }
       ],
       "name": "Josep Vendrell Gardeñes",
+      "other_names": [
+        {
+          "lang": "ast",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Josep Vendrell Gardeñes",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Vendrell Gardeñes, Josep"
     },
     {
@@ -55249,19 +55924,67 @@
       "gender": "male",
       "given_name": "Joan Baptista",
       "id": "fa439e3c-a909-48f4-ade1-dc47ad693ed0",
+      "identifiers": [
+        {
+          "identifier": "Q22337908",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.congreso.es/wc/htdocs/web/img/diputados/319_11.jpg",
       "images": [
         {
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/319_11.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Oloriz2.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Joan_Baptista_Olòriz_i_Serra"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Joan_Baptista_Olòriz_Serra"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joan_Olòriz_Serra"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/joan.oloriz"
         }
       ],
       "name": "Joan Baptista Olòriz Serra",
+      "other_names": [
+        {
+          "lang": "ca",
+          "name": "Joan Baptista Olòriz i Serra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Joan Baptista Olòriz Serra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Joan Baptista Olòriz Serra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Joan Olóriz Serra",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Joan Olóriz Serra",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Olòriz Serra, Joan Baptista"
     },
     {
