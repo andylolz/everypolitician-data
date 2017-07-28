@@ -1,12 +1,7 @@
 {
   "sources": [
     {
-      "file": "morph/nosdeputes.csv",
-      "create": {
-        "from": "morph",
-        "scraper": "tmtmtmtm/nos_deputes_france",
-        "query": "SELECT *, party AS faction, identifier_assemblee_nationale AS identifier__assemblee_nationale, 'http://www2.assemblee-nationale.fr/static/tribun/14/photos/' || identifier_assemblee_nationale || '.jpg' AS image, area || ', ' || area__subdivision AS area, area_department || '_' || area__subdivision AS area_id FROM data ORDER BY id"
-      },
+      "file": "archive/nosdeputes14.csv",
       "source": "http://www.nosdeputes.fr/",
       "type": "membership"
     },
