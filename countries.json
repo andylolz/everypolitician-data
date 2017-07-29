@@ -1175,22 +1175,31 @@
         "slug": "Assembly",
         "sources_directory": "data/Bermuda/Assembly/sources",
         "popolo": "data/Bermuda/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6791a1afe2684deb4306e5e95950cfedefe752e5/data/Bermuda/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bb4a057b46305606ae569c02edf620b0f4c16e7a/data/Bermuda/Assembly/ep-popolo-v1.0.json",
         "names": "data/Bermuda/Assembly/names.csv",
-        "lastmod": "1498474371",
-        "person_count": 38,
-        "sha": "6791a1afe2684deb4306e5e95950cfedefe752e5",
+        "lastmod": "1501324976",
+        "person_count": 48,
+        "sha": "bb4a057b46305606ae569c02edf620b0f4c16e7a",
         "legislative_periods": [
           {
+            "id": "term/2017",
+            "name": "2017–",
+            "start_date": "2017-07-17",
+            "slug": "2017",
+            "csv": "data/Bermuda/Assembly/term-2017.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bb4a057b46305606ae569c02edf620b0f4c16e7a/data/Bermuda/Assembly/term-2017.csv"
+          },
+          {
+            "end_date": "2017-07-17",
             "id": "term/2012",
-            "name": "2012–",
+            "name": "2012–2017",
             "start_date": "2012-12-17",
             "slug": "2012",
             "csv": "data/Bermuda/Assembly/term-2012.csv",
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6791a1afe2684deb4306e5e95950cfedefe752e5/data/Bermuda/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 1499,
+        "statement_count": 1809,
         "type": "lower house"
       }
     ]
