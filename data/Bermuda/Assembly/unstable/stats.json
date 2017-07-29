@@ -1,13 +1,13 @@
 {
   "people": {
-    "count": 38,
+    "count": 48,
     "wikidata": 6,
     "latest_term": {
-      "count": 38,
-      "wikidata": 6,
-      "images": 37,
+      "count": 36,
+      "wikidata": 4,
+      "images": 29,
       "contacts": {
-        "email": 37,
+        "email": 26,
         "facebook": 0,
         "twitter": 0
       }
@@ -18,8 +18,8 @@
     "wikidata": 3
   },
   "terms": {
-    "count": 1,
-    "latest": "2012-12-17",
+    "count": 2,
+    "latest": "2017-07-17",
     "wikidata": 0
   },
   "areas": {
