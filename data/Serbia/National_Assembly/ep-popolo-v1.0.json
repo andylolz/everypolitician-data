@@ -83,14 +83,36 @@
     },
     {
       "birth_date": "1975",
+      "gender": "male",
       "id": "02dc2b28-e237-464a-9c80-6d1502a21a2a",
       "identifiers": [
         {
           "identifier": "802",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33133790",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jovica_Jevtić"
         }
       ],
       "name": "JOVICA JEVTIC",
+      "other_names": [
+        {
+          "name": "Jovica Jevtić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Jovica Jevtić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "JOVICA JEVTIC"
     },
     {
@@ -132,8 +154,32 @@
     },
     {
       "birth_date": "1938",
+      "gender": "male",
       "id": "045066ef-418a-4769-b251-031a140e57a4",
+      "identifiers": [
+        {
+          "identifier": "Q33591498",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Petar_Jojić"
+        }
+      ],
       "name": "PETAR JOJIC",
+      "other_names": [
+        {
+          "name": "Petar Jojić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Petar Jojić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "PETAR JOJIC"
     },
     {
@@ -2702,14 +2748,23 @@
           "value": "EnisImamovic"
         }
       ],
+      "gender": "male",
       "id": "462a8c40-37e0-49e2-8318-eda4a4c8a143",
       "identifiers": [
         {
           "identifier": "703",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31791746",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Enis_Imamović"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/enis.imamovic"
@@ -2720,6 +2775,22 @@
         }
       ],
       "name": "ENIS IMAMOVIC",
+      "other_names": [
+        {
+          "name": "Enis Imamović",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Enis Imamović",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Enis Imamović",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "ENIS IMAMOVIC"
     },
     {
@@ -6409,14 +6480,36 @@
     },
     {
       "birth_date": "1960",
+      "gender": "female",
       "id": "a6a7a01b-c11d-4f5d-b4c9-019b4d0e2644",
       "identifiers": [
         {
           "identifier": "707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33358100",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Milanka_Jevtović_Vukojičić"
         }
       ],
       "name": "MILANKA JEVTOVIC VUKOJICIC",
+      "other_names": [
+        {
+          "name": "Milanka Jevtović Vukojičić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Milanka Jevtović Vukojičić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MILANKA JEVTOVIC VUKOJICIC"
     },
     {
@@ -10694,21 +10787,54 @@
       "sort_name": "SLAVISA RISTIC"
     },
     {
-      "birth_date": "1975",
+      "birth_date": "1975-12-14",
       "contact_details": [
         {
           "type": "twitter",
           "value": "brankoruzicsps"
         }
       ],
+      "gender": "male",
       "id": "fb0488af-5bfc-4a4f-aa1f-b0064d458325",
       "identifiers": [
         {
           "identifier": "508",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "5331",
+          "scheme": "pace"
+        },
+        {
+          "identifier": "Q12749330",
+          "scheme": "wikidata"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (el)",
+          "url": "https://el.wikipedia.org/wiki/Μπράνκο_Ρούζιτς"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Branko_Ružić_(politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Branko_Ružić_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Branko_Ružić"
+        },
+        {
+          "note": "Wikipedia (sh)",
+          "url": "https://sh.wikipedia.org/wiki/Branko_Ružić"
+        },
+        {
+          "note": "Wikipedia (sr)",
+          "url": "https://sr.wikipedia.org/wiki/Бранко_Ружић"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/ruzicbranko"
@@ -10719,6 +10845,72 @@
         }
       ],
       "name": "BRANKO RUZIC",
+      "other_names": [
+        {
+          "name": "Branko Ružić",
+          "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "el",
+          "name": "Μπράνκο Ρούζιτς",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Branko Ruzjić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sh",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr",
+          "name": "Бранко Ружић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-ec",
+          "name": "Бранко Ружић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sr-el",
+          "name": "Branko Ružić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "BRANKO RUZIC"
     },
     {
@@ -10959,14 +11151,36 @@
     },
     {
       "birth_date": "1981",
+      "gender": "female",
       "id": "fc36af8a-be72-45f1-9d09-009de06c0495",
       "identifiers": [
         {
           "identifier": "841",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33128806",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Marija_Jevđić"
         }
       ],
       "name": "MARIJA JEVDJIĆ",
+      "other_names": [
+        {
+          "name": "Marija Jevđić",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Marija Jevđić",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "MARIJA JEVDJIĆ"
     },
     {
