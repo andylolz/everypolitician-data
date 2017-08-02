@@ -9,6 +9,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/Jeff%20Baron%20resized.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/JEFF-BARON-OBA.jpg"
         }
       ],
       "name": "Jeff Baron"
@@ -33,9 +36,18 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Jamahl%20Simmons%20Pic.JPG"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/JAMAHL-SIMMONS-PLP.jpg"
         }
       ],
-      "name": "Jamahl Simmons"
+      "name": "Jamahl Simmons",
+      "other_names": [
+        {
+          "name": "Jamahl Snaith Simmons",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -57,12 +69,21 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SCOTT,%20MICHAEL(1).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/MICHAEL-SCOTT-PLP.jpg"
         }
       ],
       "name": "Michael Scott"
     },
     {
       "id": "0e7e87ce-4744-4f7e-a19a-4c47f028c140",
+      "image": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/KIM-SWAN-PLP.jpg"
+        }
+      ],
       "name": "Kim Swan"
     },
     {
@@ -133,6 +154,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/GIBBONS%20GRANT.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/GRANT-GIBBONS-OBA.jpg"
         }
       ],
       "name": "Grant Gibbons"
@@ -163,6 +187,12 @@
     },
     {
       "id": "26605f25-62ee-494c-aff4-81d49db845dd",
+      "image": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/WAYNE-MICHAEL-CAINES-PLP.jpg"
+        }
+      ],
       "name": "Wayne Caines"
     },
     {
@@ -203,6 +233,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Diallo%20Pic.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/DIALLO-RABIAN-PLP.jpg"
         }
       ],
       "name": "Diallo Rabain"
@@ -258,6 +291,12 @@
     {
       "honorific_prefix": "Colonel",
       "id": "457c1ca2-c3ec-4677-926b-b19bddff7cda",
+      "image": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DAVID-A-BURCH-PLP.jpg"
+        }
+      ],
       "name": "David Burch"
     },
     {
@@ -280,6 +319,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Jeanne%20Atherden%202.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/JEANNE-ATHERDEN-OBA.jpg"
         }
       ],
       "name": "Jeanne Atherden"
@@ -304,9 +346,18 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/5335_HOA_MINISTER_SYLVAN_RICHARDS_CONFERENCE_PHOTO_VSR_015(1).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/SYLVAN-RICHARDS-OBA.jpg"
         }
       ],
-      "name": "Sylvan Richards Jr."
+      "name": "Sylvan Richards Jr.",
+      "other_names": [
+        {
+          "name": "Sylvan Richards",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -328,6 +379,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/WEEKS%20MICHAEL.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/MICHAEL-WEEKS-PLP.jpg"
         }
       ],
       "name": "Michael Weeks"
@@ -352,6 +406,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/BURGESS2c%20D%2008.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/DERRICK-BURGESS-PLP.jpg"
         }
       ],
       "name": "Derrick Burgess"
@@ -380,6 +437,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/2243CABSENATORSFO27F4E3.jpeg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/DAVID-BURT-PLP.jpg"
         }
       ],
       "links": [
@@ -403,6 +463,12 @@
     },
     {
       "id": "5588e9c4-f5ff-4c7a-a319-e891afef600f",
+      "image": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/DENNIS-LISTER-THIRD-PLP.jpg"
+        }
+      ],
       "name": "Dennis Lister III"
     },
     {
@@ -579,9 +645,18 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/DESILVA,%20ZANE%5B1%5D.jpeg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/ZANE-DeSILVA-PLP.jpg"
         }
       ],
-      "name": "Zane DeSilva"
+      "name": "Zane DeSilva",
+      "other_names": [
+        {
+          "name": "Zane DeSilva",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "birth_date": "1958-06-18",
@@ -609,6 +684,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/DUNKELY%20MICHAEL.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/MICHAEL-H-DUNKLEY-OBA.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Michael_Dunkley_2015.jpg"
@@ -688,6 +766,12 @@
     },
     {
       "id": "79ed5586-2c94-4084-9205-ea557d8ef06c",
+      "image": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/BEN-SMITH-OBA.jpg"
+        }
+      ],
       "name": "Ben Smith"
     },
     {
@@ -710,6 +794,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/COMMISSIONG%20ROLFE.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/ROLFE-COMMISSIONG-PLP.jpg"
         }
       ],
       "name": "Rolfe Commissiong"
@@ -734,6 +821,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/LISTER,%20DENNIS.jpeg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/DENNIS-LISTER-PLP.jpg"
         }
       ],
       "name": "Dennis Lister"
@@ -791,6 +881,12 @@
     },
     {
       "id": "84249389-1b59-4a6d-a453-f7372abd4659",
+      "image": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/SCOTT-SIMMONS-PLP.jpg"
+        }
+      ],
       "name": "Scott Simmons"
     },
     {
@@ -813,9 +909,18 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/GORDON%20PAMPLIN.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/PATRICIA-GORDAN-PAMPLIN-OBA.jpg"
         }
       ],
-      "name": "Patricia Gordon Pamplin"
+      "name": "Patricia Gordon Pamplin",
+      "other_names": [
+        {
+          "name": "Patricia Gordon-Pamplin",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -830,6 +935,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/Senate_Picture/Mrs.%20Renne%20Ming.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/RENEE-MING-PLP.jpg"
         }
       ],
       "name": "Renee Ming"
@@ -854,6 +962,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/LAWRENCE%20SCOTT.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/LAWRENCE-SCOTT-PLP.jpg"
         }
       ],
       "name": "Lawrence Scott"
@@ -902,6 +1013,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/WB%20High%20Res%20(Edited%20Version).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/WALTON-BROWN-PLP.jpg"
         }
       ],
       "name": "Walton Brown"
@@ -926,6 +1040,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/WAYNE%20FURBERT%2006.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/WAYNE-FURBERT-PLP.jpg"
         }
       ],
       "name": "Wayne Furbert"
@@ -950,6 +1067,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/ROBAN_WALTER_066_5x7.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/WALTER-ROBAN-PLP.jpg"
         }
       ],
       "name": "Walter Roban"
@@ -974,12 +1094,21 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SCOTT%20LEAH.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/LEAH-SCOTT-OBA.jpg"
         }
       ],
       "name": "Leah Scott"
     },
     {
       "id": "ac1d407c-723d-452e-838a-21133b3709a8",
+      "image": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg",
+      "images": [
+        {
+          "url": "https://elections.gov.bm/images/party/THOMAS-CHRISTOPHER-FAMOUS-PLP.jpg"
+        }
+      ],
       "name": "Christopher Famous"
     },
     {
@@ -1002,6 +1131,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/2114_CAB_MINISTERS_FORMAL_PORTRAITS_VSR_KIM_WILSON_155.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/KIM-N-WILSON-PLP.jpg"
         }
       ],
       "name": "Kim Wilson"
@@ -1026,6 +1158,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/4267_CAB_MP_JACKSON_SUSAN_VSR_003%20copy.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/SUSAN-JACKSON-OBA.jpg"
         }
       ],
       "name": "Susan Jackson"
@@ -1098,6 +1233,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/FOGGO,%20LOVITTA(2).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/LOVITA-FOGGO.jpg"
         }
       ],
       "name": "Lovitta Foggo"
@@ -1122,9 +1260,18 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/SIMONS,%20N.H.%20COLE(2).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/J-COLE-SIMONS-OBA.jpg"
         }
       ],
-      "name": "N. Cole Simons"
+      "name": "N. Cole Simons",
+      "other_names": [
+        {
+          "name": "Cole Simons",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "gender": "male",
@@ -1133,6 +1280,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/House_of_Assembly/Members_of_Parliament/Neville%20Tyrell.jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/NEVILLE-S-TYRELL-PLP.jpg"
         }
       ],
       "name": "Neville Tyrrell"
@@ -1167,6 +1317,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/3216HOACRAIGCANNON7EE40(1).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/LEGAY-CRAIG-CANNONIER-OBA.jpg"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Craig_Cannonier.jpg"
@@ -1276,6 +1429,9 @@
           "url": "http://www.parliament.bm/uploadedImages/Image_Gallery/MONIZ%20TREVOR.jpg"
         },
         {
+          "url": "https://elections.gov.bm/images/party/TREVOR-MONIZ-OBA.jpg"
+        },
+        {
           "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Trevor_Moniz.jpg"
         }
       ],
@@ -1305,6 +1461,9 @@
       "images": [
         {
           "url": "http://www.parliament.bm/uploadedImages/Content/About_Parliament/Senate/Members_of_Senate/7231HOA%20SenatorTineeFurbertGT34%204x5(3).jpg"
+        },
+        {
+          "url": "https://elections.gov.bm/images/party/TINEE-FURBERT-PLP.jpg"
         }
       ],
       "name": "Tinee Furbert"
@@ -2154,6 +2313,7 @@
   "meta": {
     "sources": [
       "http://www.parliament.bm",
+      "https://elections.gov.bm",
       "http://wikidata.org/",
       "http://gender-balance.org/"
     ]
