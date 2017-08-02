@@ -946,6 +946,7 @@
         }
       ],
       "email": "u.ekwunife@yahoo.com",
+      "gender": "female",
       "id": "2d19dc00-2a3d-48a4-9373-f05e3fec46c9",
       "identifiers": [
         {
@@ -955,6 +956,10 @@
         {
           "identifier": "uche-lilian-ekwunife",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q22807281",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/91.jpg",
@@ -966,6 +971,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/PDP_-_Uche_Ekwunife.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Uche_Ekwunife"
+        }
+      ],
       "name": "LILIAN EKWUNIFE",
       "other_names": [
         {
@@ -975,6 +986,25 @@
         {
           "name": "UCHE LILIAN EKWUNIFE",
           "note": "alternate"
+        },
+        {
+          "name": "Uche Ekwunife",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Uche Ekwunife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Uche Ekwunife",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Uche Ekwunife",
+          "note": "multilingual"
         }
       ]
     },
@@ -2006,6 +2036,7 @@
       ]
     },
     {
+      "birth_date": "1967-04-17",
       "contact_details": [
         {
           "type": "email",
@@ -2017,6 +2048,8 @@
         }
       ],
       "email": "honbinta2000@yahoo.com",
+      "gender": "female",
+      "given_name": "Binta",
       "id": "5b2c1b00-d954-44ee-a16b-36f159d12982",
       "identifiers": [
         {
@@ -2026,6 +2059,10 @@
         {
           "identifier": "binta-masi-garba",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "Q19560093",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/740.jpg",
@@ -2037,6 +2074,12 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Binta_Garba.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Binta_Masi_Garba"
+        }
+      ],
       "name": "BINTA GARBA",
       "other_names": [
         {
@@ -2046,6 +2089,30 @@
         {
           "name": "BINTA MASI GARBA",
           "note": "alternate"
+        },
+        {
+          "name": "Binta Masi Garba",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Binta Masi Garba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Binta Masi Garba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Binta Masi Garba",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Binta Masi Garba",
+          "note": "multilingual"
         }
       ]
     },
@@ -2200,8 +2267,18 @@
         }
       ],
       "email": "yarimarufai@yahoo.com",
+      "gender": "male",
+      "given_name": "Ahmed",
       "id": "696fb5d3-0171-4a21-bd5c-dc6a14cf6296",
       "identifiers": [
+        {
+          "identifier": "1681779",
+          "scheme": "fast"
+        },
+        {
+          "identifier": "no2007088226",
+          "scheme": "lcauth"
+        },
         {
           "identifier": "224",
           "scheme": "nass"
@@ -2209,6 +2286,18 @@
         {
           "identifier": "ahmed-sani-yerima",
           "scheme": "shineyoureye"
+        },
+        {
+          "identifier": "120865033",
+          "scheme": "sudoc"
+        },
+        {
+          "identifier": "21926011",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q3510720",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/224.jpg",
@@ -2220,6 +2309,20 @@
           "url": "http://www.shineyoureye.org/media_root/images/APC_-_Sani_Yerima.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Ahmad_Sani_Yerima"
+        },
+        {
+          "note": "Wikipedia (sv)",
+          "url": "https://sv.wikipedia.org/wiki/Ahmed_Sani"
+        },
+        {
+          "note": "Wikipedia (yo)",
+          "url": "https://yo.wikipedia.org/wiki/Ahmed_Sani_Yerima"
+        }
+      ],
       "name": "AHMAD SANI",
       "other_names": [
         {
@@ -2227,8 +2330,52 @@
           "note": "alternate"
         },
         {
+          "name": "Ahmad Sani Yerima",
+          "note": "alternate"
+        },
+        {
           "name": "Ahmed Sani Yerima",
           "note": "alternate"
+        },
+        {
+          "lang": "de",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Ahmad Sani Yerima",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Ahmed Sani",
+          "note": "multilingual"
+        },
+        {
+          "lang": "yo",
+          "name": "Ahmed Sani Yerima",
+          "note": "multilingual"
         }
       ]
     },
