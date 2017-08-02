@@ -5450,6 +5450,10 @@
         {
           "identifier": "tokozile-xasa",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33870385",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg",
@@ -5458,7 +5462,24 @@
           "url": "http://www.pa.org.za/media_root/cache/3a/02/3a0264fe86f4a1cd714c17e8b0393636.jpg"
         }
       ],
-      "name": "Thokozile Xasa"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tokozile_Xasa"
+        }
+      ],
+      "name": "Thokozile Xasa",
+      "other_names": [
+        {
+          "name": "Tokozile Xasa",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Tokozile Xasa",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
