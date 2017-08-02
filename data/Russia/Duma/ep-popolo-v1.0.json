@@ -23515,13 +23515,36 @@
       "birth_date": "1968-10-26",
       "gender": "male",
       "id": "871979b1-381f-46c4-a051-c54a76de3885",
+      "identifiers": [
+        {
+          "identifier": "Q34256225",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.duma.gov.ru/upload/iblock/0ae/0ae0147e4fe4fe7b320c7a2554110e93.jpg",
       "images": [
         {
           "url": "http://www.duma.gov.ru/upload/iblock/0ae/0ae0147e4fe4fe7b320c7a2554110e93.jpg"
         }
       ],
-      "name": "Сухарев Игорь Николаевич"
+      "links": [
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Сухарев,_Игорь_Николаевич"
+        }
+      ],
+      "name": "Сухарев Игорь Николаевич",
+      "other_names": [
+        {
+          "name": "Сухарев, Игорь Николаевич",
+          "note": "alternate"
+        },
+        {
+          "lang": "ru",
+          "name": "Сухарев, Игорь Николаевич",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-02-01",
