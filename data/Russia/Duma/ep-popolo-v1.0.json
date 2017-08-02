@@ -8464,6 +8464,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Старовойтов,_Александр_Сергеевич"
+        },
+        {
+          "note": "website",
+          "url": "http://a-starovoytov.ru/"
         }
       ],
       "name": "Старовойтов Александр Сергеевич",
@@ -13054,10 +13058,18 @@
           "url": "http://www.duma.gov.ru/upload/iblock/048/04890dce8eb0ded47f2e6706ae40af93.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Inga_Yumasheva.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Inga_Yumasheva_(2017).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Юмашева_Инга_Альбертовна"
+        },
+        {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Inga_Yumasheva"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Юмашева,_Инга_Альбертовна"
@@ -15188,6 +15200,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Білик_Дмитро_Анатолійович"
+        },
+        {
+          "note": "website",
+          "url": "http://белик.рф"
         }
       ],
       "name": "Белик Дмитрий Анатольевич",
@@ -18783,6 +18799,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Шаргунов,_Сергей_Александрович"
+        },
+        {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Сергей_Шаргунов"
         },
         {
           "note": "facebook",
@@ -24782,7 +24802,7 @@
           "url": "http://www.duma.gov.ru/upload/iblock/8c6/8c6d67436b9de6ebdc88fd5a8c71e63d.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Евгений_Алексеевич_Фёдоров.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Fedorov_Eugeny_20_july_2017.jpg"
         }
       ],
       "links": [
@@ -29414,6 +29434,10 @@
           "url": "https://ru.wikipedia.org/wiki/Шеин,_Олег_Васильевич"
         },
         {
+          "note": "Wikipedia (ruwikinews)",
+          "url": "https://ruwikinews.wikipedia.org/wiki/Категория:Олег_Шеин"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/oleg.shein.1"
         },
@@ -31072,6 +31096,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ba)",
+          "url": "https://ba.wikipedia.org/wiki/Мәрҙәншин_Рафаэль_Мирхәтим_улы"
+        },
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Марданшин,_Рафаэль_Мирхатимович"
