@@ -23995,12 +23995,26 @@
       ]
     },
     {
+      "birth_date": "1958-10-08",
       "gender": "male",
+      "given_name": "Takeshi",
       "id": "8260964f-12ef-4322-a692-f91a5946fb5d",
       "identifiers": [
         {
           "identifier": "noma_takeshi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "01092290",
+          "scheme": "ndl"
+        },
+        {
+          "identifier": "260932336",
+          "scheme": "viaf"
+        },
+        {
+          "identifier": "Q11646177",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/338.jpg/%24File/338.jpg",
@@ -24009,16 +24023,60 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/338.jpg/%24File/338.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Takeshi_Noma"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/野間健"
+        }
+      ],
       "name": "NOMA Takeshi",
       "other_names": [
+        {
+          "name": "Takeshi Noma",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Takeshi Noma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Takeshi Noma",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "野間 健君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "野間健",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "のま たけし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "のま たけし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Takeshi Noma",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Нома, Такэси",
           "note": "multilingual"
         }
       ]
@@ -33134,12 +33192,19 @@
       ]
     },
     {
+      "birth_date": "1959-12-25",
+      "family_name": "Miyamoto",
       "gender": "male",
+      "given_name": "Takeshi",
       "id": "bfbb9e49-a468-423e-b414-2bc019ffbb12",
       "identifiers": [
         {
           "identifier": "miyamoto_takeshi",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q11454828",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/426.jpg/%24File/426.jpg",
@@ -33148,16 +33213,55 @@
           "url": "http://www.shugiin.go.jp/internet/itdb_giinprof.nsf/html/profile/426.jpg/%24File/426.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Takeshi_Miyamoto"
+        },
+        {
+          "note": "Wikipedia (ja)",
+          "url": "https://ja.wikipedia.org/wiki/宮本岳志"
+        }
+      ],
       "name": "MIYAMOTO Takeshi",
       "other_names": [
+        {
+          "name": "Takeshi Miyamoto",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Takeshi Miyamoto",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "宮本 岳志君",
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "宮本岳志",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja-hira",
           "name": "みやもと たけし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kana",
+          "name": "みやもと たけし",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Takeshi Miyamoto",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Миямото, Такэси",
           "note": "multilingual"
         }
       ]
