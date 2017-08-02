@@ -49,6 +49,10 @@
         {
           "identifier": "77",
           "scheme": "kuvakazim"
+        },
+        {
+          "identifier": "Q32534048",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.kuvakazim.com/media_root/images/kuruneri.jpg",
@@ -57,7 +61,25 @@
           "url": "http://www.kuvakazim.com/media_root/images/kuruneri.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Christopher_Kuruneri"
+        }
+      ],
       "name": "Christopher Kuruneri",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Christopher Kuruneri",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Christopher Kuruneri",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Kuruneri, Christopher",
       "summary": "Mount Darwin East Member of National Assembly. Former Minister of Finance"
     },
@@ -2531,6 +2553,10 @@
         {
           "identifier": "203",
           "scheme": "kuvakazim"
+        },
+        {
+          "identifier": "Q29588993",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlzim.gov.zw/media/k2/items/cache/a6f7e66a6031337001655d616ce68fc7_XL.jpg",
@@ -2539,7 +2565,25 @@
           "url": "http://www.parlzim.gov.zw/media/k2/items/cache/a6f7e66a6031337001655d616ce68fc7_XL.jpg"
         }
       ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Obedingwa_Mguni"
+        }
+      ],
       "name": "Obedingwa Mguni",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Obedingwa Mguni",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Obedingwa Mguni",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Mguni, Obedingwa",
       "summary": "Mangwe Member of the National Assembly."
     },
