@@ -11979,6 +11979,48 @@
       ]
     },
     {
+      "gender": "male",
+      "id": "6c23b571-3c7f-47d3-a8ad-a4efd37cabec",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25715",
+          "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q30260625",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Jamie_Halcro_Johnston"
+        },
+        {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Jamie_Halcro_Johnston"
+        }
+      ],
+      "name": "Jamie Halcro Johnston",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Jamie Halcro Johnston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Jamie Halcro Johnston",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Jamie Halcro Johnston",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "birth_date": "1948-03-03",
       "gender": "female",
       "given_name": "Rosemary",
@@ -12324,6 +12366,39 @@
         {
           "lang": "ru",
           "name": "Ричард Симпсон",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "gender": "male",
+      "id": "6ea30834-1455-41a7-9871-c608b55dffe5",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25714",
+          "scheme": "parlparse"
+        },
+        {
+          "identifier": "Q30263201",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Tom_Mason_(Scottish_politician)"
+        }
+      ],
+      "name": "Tom Mason",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Tom Mason",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Tom Mason",
           "note": "multilingual"
         }
       ]
@@ -14098,6 +14173,10 @@
       "gender": "male",
       "id": "7ff45e4e-a7f8-4816-b532-abe6fd0e46ae",
       "identifiers": [
+        {
+          "identifier": "4599",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "uk.org.publicwhip/person/25539",
           "scheme": "parlparse"
@@ -35237,6 +35316,15 @@
       "start_date": "2016-05-07"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/10718",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "6c23b571-3c7f-47d3-a8ad-a4efd37cabec",
+      "role": "member",
+      "start_date": "2017-06-20"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/10722",
       "end_date": "2006-09-03",
       "legislative_period_id": "term/2",
@@ -35343,6 +35431,15 @@
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
       "person_id": "6e6f3214-55fe-4623-92d5-71d03da3c7a2",
       "role": "member"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/10721",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "conservative",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "6ea30834-1455-41a7-9871-c608b55dffe5",
+      "role": "member",
+      "start_date": "2017-06-20"
     },
     {
       "area_id": "uk.org.publicwhip/cons/10746",
@@ -35695,6 +35792,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10721",
+      "end_date": "2016-06-09",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "conservative",
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
