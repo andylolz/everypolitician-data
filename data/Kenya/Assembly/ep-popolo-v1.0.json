@@ -20535,6 +20535,12 @@
     {
       "classification": "legislative period",
       "id": "term/11",
+      "identifiers": [
+        {
+          "identifier": "Q17007305",
+          "scheme": "wikidata"
+        }
+      ],
       "name": "11th Parliament",
       "organization_id": "574eff8e-8171-4f2b-8279-60ed8dec1a2a",
       "start_date": "2013-03-28"
