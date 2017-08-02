@@ -3090,6 +3090,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジャッキー・ケリー",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Jackie Kelly",
           "note": "multilingual"
@@ -12738,6 +12743,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "バーナビー･ジョイス",
+          "note": "multilingual"
+        },
+        {
           "lang": "ko",
           "name": "바너비 조이스",
           "note": "multilingual"
@@ -17656,6 +17666,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hif",
+          "name": "Malcolm Turnbull",
+          "note": "multilingual"
+        },
+        {
           "lang": "hr",
           "name": "Malcolm Turnbull",
           "note": "multilingual"
@@ -21527,6 +21542,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジュリア･バンクス",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Julia Banks",
           "note": "multilingual"
@@ -22780,6 +22800,10 @@
         {
           "type": "email",
           "value": "senator.hanson@aph.gov.au"
+        },
+        {
+          "type": "twitter",
+          "value": "PaulineHansonOz"
         }
       ],
       "email": "senator.hanson@aph.gov.au",
@@ -22875,6 +22899,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/寶琳·韓森"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PaulineHansonOz"
         },
         {
           "note": "website",
@@ -24319,6 +24347,11 @@
         {
           "lang": "it",
           "name": "Greg Hunt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "グレッグ・ハント",
           "note": "multilingual"
         },
         {
@@ -29650,6 +29683,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hif",
+          "name": "Peter Dutton",
+          "note": "multilingual"
+        },
+        {
           "lang": "hr",
           "name": "Peter Dutton",
           "note": "multilingual"
@@ -29682,6 +29720,11 @@
         {
           "lang": "it",
           "name": "Peter Dutton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ピーター・ダットン",
           "note": "multilingual"
         },
         {
@@ -32378,6 +32421,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "クリスチャン・ポーター",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Christian Porter",
           "note": "multilingual"
@@ -32665,6 +32713,11 @@
         {
           "lang": "it",
           "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "スコット・モリソン",
           "note": "multilingual"
         },
         {
@@ -33676,6 +33729,12 @@
     },
     {
       "birth_date": "1961-06-04",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Deborah_ONeill"
+        }
+      ],
       "family_name": "O'Neill",
       "gender": "female",
       "given_name": "Deborah",
@@ -33712,6 +33771,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Deborah_O'Neill"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Deborah_ONeill"
         }
       ],
       "name": "Deborah O'Neill",
@@ -45376,6 +45439,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジョシュ・フライデンバーグ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Josh Frydenberg",
           "note": "multilingual"
@@ -47694,6 +47762,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ダレン・チェスター",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Darren Chester",
           "note": "multilingual"
@@ -48926,6 +48999,11 @@
         {
           "lang": "hu",
           "name": "Kelly O'Dwyer",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ケリー・オドワイヤー",
           "note": "multilingual"
         },
         {
@@ -51133,6 +51211,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "gd",
+          "name": "Pàrtaidh Làbarach Astràilia",
+          "note": "multilingual"
+        },
+        {
           "lang": "nan",
           "name": "Australia Lô-tōng-tóng",
           "note": "multilingual"
@@ -51844,6 +51927,11 @@
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "neach-poileataigs neo-eisimeileach",
           "note": "multilingual"
         },
         {
@@ -52848,6 +52936,11 @@
         {
           "lang": "ko",
           "name": "오스트레일리아 국민당",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "המפלגה הלאומית של אוסטרליה",
           "note": "multilingual"
         },
         {
