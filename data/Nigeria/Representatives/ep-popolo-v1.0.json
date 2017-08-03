@@ -15,6 +15,10 @@
         {
           "identifier": "616",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "616",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/616.jpg",
@@ -44,6 +48,10 @@
         {
           "identifier": "684",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "684",
+          "scheme": "nass"
         },
         {
           "identifier": "tijjani-jobe-abdulkadir",
@@ -83,6 +91,10 @@
         {
           "identifier": "538",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "538",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/538.jpg",
@@ -118,6 +130,10 @@
         {
           "identifier": "882",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "882",
+          "scheme": "nass"
         },
         {
           "identifier": "james-abiodun-faleke",
@@ -157,6 +173,10 @@
         {
           "identifier": "629",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "629",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/629.jpg",
@@ -185,6 +205,10 @@
         {
           "identifier": "591",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "591",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/591.jpg",
@@ -213,6 +237,10 @@
         {
           "identifier": "739",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "739",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/739.jpg",
@@ -235,6 +263,10 @@
         {
           "identifier": "755",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "755",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/755.jpg",
@@ -257,6 +289,10 @@
         {
           "identifier": "553",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "553",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/553.jpg",
@@ -291,6 +327,10 @@
         {
           "identifier": "799",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "799",
+          "scheme": "nass"
         },
         {
           "identifier": "famurewa-israel-ajibola",
@@ -330,6 +370,10 @@
         {
           "identifier": "861",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "861",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/861.jpg",
@@ -364,6 +408,10 @@
         {
           "identifier": "857",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "857",
+          "scheme": "nass"
         },
         {
           "identifier": "sunday-steve-karim",
@@ -403,6 +451,10 @@
         {
           "identifier": "625",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "625",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/625.jpg",
@@ -425,6 +477,10 @@
         {
           "identifier": "624",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "624",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/624.jpg",
@@ -447,6 +503,10 @@
         {
           "identifier": "960",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "960",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/960.jpg",
@@ -479,6 +539,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "847",
+          "scheme": "nass"
+        },
+        {
           "identifier": "nnenna-ijeoma-elendu-ukeje",
           "scheme": "shineyoureye"
         }
@@ -506,6 +570,12 @@
     },
     {
       "id": "0e6c09f3-3b92-4bf4-9163-3175f142bbd8",
+      "identifiers": [
+        {
+          "identifier": "968",
+          "scheme": "nass"
+        }
+      ],
       "name": "Johnson Oghuma",
       "other_names": [
         {
@@ -532,6 +602,10 @@
         {
           "identifier": "874",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "874",
+          "scheme": "nass"
         },
         {
           "identifier": "umar-buba-jibril",
@@ -565,6 +639,10 @@
         {
           "identifier": "895",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "895",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/895.jpg",
@@ -593,6 +671,10 @@
         {
           "identifier": "648",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "648",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/648.jpg",
@@ -621,6 +703,10 @@
         {
           "identifier": "572",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "572",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/572.jpg",
@@ -649,6 +735,10 @@
         {
           "identifier": "764",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "764",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/764.jpg",
@@ -678,6 +768,10 @@
         {
           "identifier": "660",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "660",
+          "scheme": "nass"
         },
         {
           "identifier": "toby-okechukwu-toby",
@@ -720,6 +814,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "773",
+          "scheme": "nass"
+        },
+        {
           "identifier": "samson-okwu",
           "scheme": "shineyoureye"
         }
@@ -754,6 +852,10 @@
         {
           "identifier": "927",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "927",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/927.jpg",
@@ -782,6 +884,10 @@
         {
           "identifier": "934",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "934",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/934.jpg",
@@ -804,6 +910,10 @@
         {
           "identifier": "599",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "599",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/599.jpg",
@@ -832,6 +942,10 @@
         {
           "identifier": "678",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "678",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/678.jpg",
@@ -860,6 +974,10 @@
         {
           "identifier": "802",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "802",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/802.jpg",
@@ -890,6 +1008,10 @@
         {
           "identifier": "921",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "921",
+          "scheme": "nass"
         },
         {
           "identifier": "abdullahi-muhammed-wamakko",
@@ -929,6 +1051,10 @@
         {
           "identifier": "668",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "668",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/668.jpg",
@@ -957,6 +1083,10 @@
         {
           "identifier": "548",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "548",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/548.jpg",
@@ -979,6 +1109,10 @@
         {
           "identifier": "728",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "728",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/728.jpg",
@@ -1008,6 +1142,10 @@
         {
           "identifier": "798",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "798",
+          "scheme": "nass"
         },
         {
           "identifier": "nwokolo-onyemechi-victor",
@@ -1055,6 +1193,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "785",
+          "scheme": "nass"
+        },
+        {
           "identifier": "azodo-okwunna-eucharia",
           "scheme": "shineyoureye"
         }
@@ -1092,6 +1234,10 @@
         {
           "identifier": "951",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "951",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/951.jpg",
@@ -1121,6 +1267,10 @@
         {
           "identifier": "729",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "729",
+          "scheme": "nass"
         },
         {
           "identifier": "khamisu-mailantarki-ahmed",
@@ -1154,6 +1304,10 @@
         {
           "identifier": "501",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "501",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/501.jpg",
@@ -1184,6 +1338,10 @@
         {
           "identifier": "619",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "619",
+          "scheme": "nass"
         },
         {
           "identifier": "Q20685008",
@@ -1237,6 +1395,10 @@
         {
           "identifier": "853",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "853",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/853.jpg",
@@ -1265,6 +1427,10 @@
         {
           "identifier": "664",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "664",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/664.jpg",
@@ -1294,6 +1460,10 @@
         {
           "identifier": "765",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "765",
+          "scheme": "nass"
         },
         {
           "identifier": "peter-ohiozoje-akpatason",
@@ -1333,6 +1503,10 @@
         {
           "identifier": "831",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "831",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/831.jpg",
@@ -1371,6 +1545,10 @@
         {
           "identifier": "914",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "914",
+          "scheme": "nass"
         },
         {
           "identifier": "salisu-salisco",
@@ -1414,6 +1592,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "460",
+          "scheme": "nass"
+        },
+        {
           "identifier": "chanchangi-rufai-ahmed",
           "scheme": "shineyoureye"
         }
@@ -1451,6 +1633,10 @@
         {
           "identifier": "880",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "880",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/880.jpg",
@@ -1474,6 +1660,10 @@
         {
           "identifier": "551",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "551",
+          "scheme": "nass"
         },
         {
           "identifier": "hembe-herman-iorwase",
@@ -1510,6 +1700,10 @@
         {
           "identifier": "597",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "597",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/597.jpg",
@@ -1540,6 +1734,10 @@
         {
           "identifier": "782",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "782",
+          "scheme": "nass"
         },
         {
           "identifier": "adepoju-sunday-adeyemi",
@@ -1585,6 +1783,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "675",
+          "scheme": "nass"
+        },
+        {
           "identifier": "betty-jocelyne-okagua-apiafi",
           "scheme": "shineyoureye"
         }
@@ -1623,6 +1825,10 @@
         {
           "identifier": "794",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "794",
+          "scheme": "nass"
         },
         {
           "identifier": "Q22005748",
@@ -1671,6 +1877,10 @@
         {
           "identifier": "824",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "824",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/824.jpg",
@@ -1693,6 +1903,10 @@
         {
           "identifier": "916",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "916",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/916.jpg",
@@ -1717,6 +1931,10 @@
         {
           "identifier": "634",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "634",
+          "scheme": "nass"
         },
         {
           "identifier": "Q4727557",
@@ -1776,6 +1994,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "316",
+          "scheme": "nass"
+        },
+        {
           "identifier": "ezenwa-francis-onyewuchi",
           "scheme": "shineyoureye"
         }
@@ -1813,6 +2035,10 @@
         {
           "identifier": "658",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "658",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/658.jpg",
@@ -1847,6 +2073,10 @@
         {
           "identifier": "840",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "840",
+          "scheme": "nass"
         },
         {
           "identifier": "emmanuel-issac-ukoete",
@@ -1894,6 +2124,10 @@
         {
           "identifier": "608",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "608",
+          "scheme": "nass"
         },
         {
           "identifier": "khadija-bukar-ibrahim",
@@ -1967,6 +2201,10 @@
         {
           "identifier": "779",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "779",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/779.jpg",
@@ -1997,6 +2235,10 @@
         {
           "identifier": "705",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "705",
+          "scheme": "nass"
         },
         {
           "identifier": "henry-aladeinyefa-daniel-ofongo",
@@ -2036,6 +2278,10 @@
         {
           "identifier": "565",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "565",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/565.jpg",
@@ -2064,6 +2310,10 @@
         {
           "identifier": "692",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "692",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/692.jpg",
@@ -2098,6 +2348,10 @@
         {
           "identifier": "793",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "793",
+          "scheme": "nass"
         },
         {
           "identifier": "akintayo-amere-gafaru",
@@ -2137,6 +2391,10 @@
         {
           "identifier": "560",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "560",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/560.jpg",
@@ -2159,6 +2417,10 @@
         {
           "identifier": "732",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "732",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/732.jpg",
@@ -2187,6 +2449,10 @@
         {
           "identifier": "556",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "556",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/556.jpg",
@@ -2222,6 +2488,10 @@
         {
           "identifier": "851",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "851",
+          "scheme": "nass"
         },
         {
           "identifier": "yakubu-umaru-barde",
@@ -2261,6 +2531,10 @@
         {
           "identifier": "677",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "677",
+          "scheme": "nass"
         }
       ],
       "name": "OYEWOLE DIYA",
@@ -2283,6 +2557,10 @@
         {
           "identifier": "697",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "697",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/697.jpg",
@@ -2317,6 +2595,10 @@
         {
           "identifier": "558",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "558",
+          "scheme": "nass"
         },
         {
           "identifier": "aliyu-bahago-ahman-pategi",
@@ -2356,6 +2638,10 @@
         {
           "identifier": "786",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "786",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/786.jpg",
@@ -2384,6 +2670,10 @@
         {
           "identifier": "563",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "563",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/563.jpg",
@@ -2412,6 +2702,10 @@
         {
           "identifier": "609",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "609",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/609.jpg",
@@ -2440,6 +2734,10 @@
         {
           "identifier": "738",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "738",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/738.jpg",
@@ -2470,6 +2768,10 @@
         {
           "identifier": "363",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "363",
+          "scheme": "nass"
         },
         {
           "identifier": "adeyinka-ayantunji-ajayi",
@@ -2509,6 +2811,10 @@
         {
           "identifier": "542",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "542",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/542.jpg",
@@ -2543,6 +2849,10 @@
         {
           "identifier": "924",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "924",
+          "scheme": "nass"
         },
         {
           "identifier": "lawal-yahaya-gumau",
@@ -2582,6 +2892,10 @@
         {
           "identifier": "676",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "676",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/676.jpg",
@@ -2611,6 +2925,10 @@
         {
           "identifier": "762",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "762",
+          "scheme": "nass"
         },
         {
           "identifier": "rapheal-uzochi-nnanna-igbokwe",
@@ -2657,6 +2975,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "913",
+          "scheme": "nass"
+        },
+        {
           "identifier": "ahmed-babba-kaita",
           "scheme": "shineyoureye"
         }
@@ -2684,6 +3006,12 @@
     },
     {
       "id": "3fb0cd5c-9cbf-42e6-a26d-ccf17e49443d",
+      "identifiers": [
+        {
+          "identifier": "963",
+          "scheme": "nass"
+        }
+      ],
       "name": "Talatu Yohanna",
       "other_names": [
         {
@@ -2704,6 +3032,10 @@
         {
           "identifier": "690",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "690",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/690.jpg",
@@ -2735,6 +3067,10 @@
         {
           "identifier": "541",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "541",
+          "scheme": "nass"
         },
         {
           "identifier": "john-dyegh",
@@ -2809,6 +3145,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "524",
+          "scheme": "nass"
+        },
+        {
           "identifier": "emmanuel-bartholomew-ekon",
           "scheme": "shineyoureye"
         }
@@ -2846,6 +3186,10 @@
         {
           "identifier": "936",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "936",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/936.jpg",
@@ -2880,6 +3224,10 @@
         {
           "identifier": "617",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "617",
+          "scheme": "nass"
         },
         {
           "identifier": "ayo-tajudeen-yusuf",
@@ -2919,6 +3267,10 @@
         {
           "identifier": "621",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "621",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/621.jpg",
@@ -2949,6 +3301,10 @@
         {
           "identifier": "791",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "791",
+          "scheme": "nass"
         },
         {
           "identifier": "akinlaja-irinola-joseph",
@@ -2988,6 +3344,10 @@
         {
           "identifier": "789",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "789",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/789.jpg",
@@ -3018,6 +3378,10 @@
         {
           "identifier": "850",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "850",
+          "scheme": "nass"
         },
         {
           "identifier": "Q26896971",
@@ -3070,6 +3434,10 @@
         {
           "identifier": "680",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "680",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/680.jpg",
@@ -3092,6 +3460,10 @@
         {
           "identifier": "953",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "953",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/953.jpg",
@@ -3120,6 +3492,10 @@
         {
           "identifier": "654",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "654",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/654.jpg",
@@ -3155,6 +3531,10 @@
         {
           "identifier": "580",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "580",
+          "scheme": "nass"
         },
         {
           "identifier": "abayomi-dauda-kako-are",
@@ -3194,6 +3574,10 @@
         {
           "identifier": "750",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "750",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/750.jpg",
@@ -3225,6 +3609,10 @@
       "email": "hon.asadu.oziokoja@nass.gov.ng",
       "id": "4ed9bbb2-f088-47ea-9320-6a09b91125bb",
       "identifiers": [
+        {
+          "identifier": "630",
+          "scheme": "nass"
+        },
         {
           "identifier": "asadu-patrick-oziokoja",
           "scheme": "shineyoureye"
@@ -3263,6 +3651,10 @@
         {
           "identifier": "689",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "689",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/689.jpg",
@@ -3291,6 +3683,10 @@
         {
           "identifier": "928",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "928",
+          "scheme": "nass"
         },
         {
           "identifier": "Q28839608",
@@ -3346,6 +3742,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "856",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mohammed-umaru-bago",
           "scheme": "shineyoureye"
         }
@@ -3383,6 +3783,10 @@
         {
           "identifier": "598",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "598",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/598.jpg",
@@ -3411,6 +3815,10 @@
         {
           "identifier": "644",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "644",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/644.jpg",
@@ -3439,6 +3847,10 @@
         {
           "identifier": "659",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "659",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/659.jpg",
@@ -3467,6 +3879,10 @@
         {
           "identifier": "642",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "642",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/642.jpg",
@@ -3489,6 +3905,10 @@
         {
           "identifier": "770",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "770",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/770.jpg",
@@ -3511,6 +3931,10 @@
         {
           "identifier": "669",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "669",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/669.jpg",
@@ -3548,6 +3972,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "700",
+          "scheme": "nass"
+        },
+        {
           "identifier": "aliyu-sani-madaki",
           "scheme": "shineyoureye"
         }
@@ -3579,6 +4007,10 @@
         {
           "identifier": "515",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "515",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/515.jpg",
@@ -3601,6 +4033,10 @@
         {
           "identifier": "568",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "568",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/568.jpg",
@@ -3629,6 +4065,10 @@
         {
           "identifier": "545",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "545",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/545.jpg",
@@ -3657,6 +4097,10 @@
         {
           "identifier": "633",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "633",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/633.jpg",
@@ -3686,6 +4130,10 @@
         {
           "identifier": "768",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "768",
+          "scheme": "nass"
         },
         {
           "identifier": "adamu-ochepo-entonu",
@@ -3725,6 +4173,10 @@
         {
           "identifier": "586",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "586",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/586.jpg",
@@ -3753,6 +4205,10 @@
         {
           "identifier": "855",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "855",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/855.jpg",
@@ -3782,6 +4238,10 @@
         {
           "identifier": "583",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "583",
+          "scheme": "nass"
         },
         {
           "identifier": "Q28051589",
@@ -3826,6 +4286,10 @@
         {
           "identifier": "/m/011c8ynf",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "544",
+          "scheme": "nass"
         },
         {
           "identifier": "beni-lar",
@@ -3903,6 +4367,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "578",
+          "scheme": "nass"
+        },
+        {
           "identifier": "aliyu-a-a-shehu",
           "scheme": "shineyoureye"
         }
@@ -3940,6 +4408,10 @@
         {
           "identifier": "751",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "751",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/751.jpg",
@@ -3968,6 +4440,10 @@
         {
           "identifier": "867",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "867",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/867.jpg",
@@ -3996,6 +4472,10 @@
         {
           "identifier": "521",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "521",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/521.jpg",
@@ -4026,6 +4506,10 @@
         {
           "identifier": "437",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "437",
+          "scheme": "nass"
         },
         {
           "identifier": "nasiru-zangon-daura-sani",
@@ -4065,6 +4549,10 @@
         {
           "identifier": "632",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "632",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/632.jpg",
@@ -4093,6 +4581,10 @@
         {
           "identifier": "595",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "595",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/595.jpg",
@@ -4121,6 +4613,10 @@
         {
           "identifier": "893",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "893",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/893.jpg",
@@ -4149,6 +4645,10 @@
         {
           "identifier": "760",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "760",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/760.jpg",
@@ -4177,6 +4677,10 @@
         {
           "identifier": "919",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "919",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/919.jpg",
@@ -4199,6 +4703,10 @@
         {
           "identifier": "954",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "954",
+          "scheme": "nass"
         }
       ],
       "name": "Uthman Munir",
@@ -4221,6 +4729,10 @@
         {
           "identifier": "727",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "727",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/727.jpg",
@@ -4249,6 +4761,10 @@
         {
           "identifier": "569",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "569",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/569.jpg",
@@ -4284,6 +4800,10 @@
         {
           "identifier": "650",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "650",
+          "scheme": "nass"
         },
         {
           "identifier": "aminu-suleiman",
@@ -4323,6 +4843,10 @@
         {
           "identifier": "878",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "878",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/878.jpg",
@@ -4345,6 +4869,10 @@
         {
           "identifier": "958",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "958",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/958.jpg",
@@ -4379,6 +4907,10 @@
         {
           "identifier": "766",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "766",
+          "scheme": "nass"
         },
         {
           "identifier": "ahmed-idris-maje",
@@ -4418,6 +4950,10 @@
         {
           "identifier": "731",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "731",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/731.jpg",
@@ -4448,6 +4984,10 @@
         {
           "identifier": "539",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "539",
+          "scheme": "nass"
         },
         {
           "identifier": "binta-maigari-bello",
@@ -4490,6 +5030,10 @@
         {
           "identifier": "367",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "367",
+          "scheme": "nass"
         },
         {
           "identifier": "yussuff-lasun-sulaimon",
@@ -4566,6 +5110,10 @@
         {
           "identifier": "696",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "696",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/696.jpg",
@@ -4594,6 +5142,10 @@
         {
           "identifier": "579",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "579",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/579.jpg",
@@ -4622,6 +5174,10 @@
         {
           "identifier": "848",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "848",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/848.jpg",
@@ -4650,6 +5206,10 @@
         {
           "identifier": "875",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "875",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/875.jpg",
@@ -4679,6 +5239,10 @@
         {
           "identifier": "611",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "611",
+          "scheme": "nass"
         },
         {
           "identifier": "chukwudi-jones-victor-onyereri",
@@ -4718,6 +5282,10 @@
         {
           "identifier": "615",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "615",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/615.jpg",
@@ -4746,6 +5314,10 @@
         {
           "identifier": "871",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "871",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/871.jpg",
@@ -4774,6 +5346,10 @@
         {
           "identifier": "672",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "672",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/672.jpg",
@@ -4802,6 +5378,10 @@
         {
           "identifier": "710",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "710",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/710.jpg",
@@ -4836,6 +5416,10 @@
         {
           "identifier": "649",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "649",
+          "scheme": "nass"
         },
         {
           "identifier": "badamasi-ayuba",
@@ -4875,6 +5459,10 @@
         {
           "identifier": "573",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "573",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/573.jpg",
@@ -4897,6 +5485,10 @@
         {
           "identifier": "614",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "614",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/614.jpg",
@@ -4925,6 +5517,10 @@
         {
           "identifier": "685",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "685",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/685.jpg",
@@ -4964,6 +5560,10 @@
         {
           "identifier": "803",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "803",
+          "scheme": "nass"
         },
         {
           "identifier": "femi-gbajabiamila",
@@ -5037,6 +5637,10 @@
         {
           "identifier": "956",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "956",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/956.jpg",
@@ -5065,6 +5669,10 @@
         {
           "identifier": "540",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "540",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/540.jpg",
@@ -5100,6 +5708,10 @@
         {
           "identifier": "917",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "917",
+          "scheme": "nass"
         },
         {
           "identifier": "alhassan-ado-garba",
@@ -5142,6 +5754,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "918",
+          "scheme": "nass"
+        },
+        {
           "identifier": "munir-babba-danagundi",
           "scheme": "shineyoureye"
         }
@@ -5179,6 +5795,10 @@
         {
           "identifier": "915",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "915",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/915.jpg",
@@ -5207,6 +5827,10 @@
         {
           "identifier": "747",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "747",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/747.jpg",
@@ -5235,6 +5859,10 @@
         {
           "identifier": "588",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "588",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/588.jpg",
@@ -5265,6 +5893,10 @@
         {
           "identifier": "631",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "631",
+          "scheme": "nass"
         },
         {
           "identifier": "Q20676550",
@@ -5331,6 +5963,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "841",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mutu-nicholas-ebomo",
           "scheme": "shineyoureye"
         }
@@ -5368,6 +6004,10 @@
         {
           "identifier": "801",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "801",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/801.jpg",
@@ -5396,6 +6036,10 @@
         {
           "identifier": "691",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "691",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/691.jpg",
@@ -5424,6 +6068,10 @@
         {
           "identifier": "699",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "699",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/699.jpg",
@@ -5446,6 +6094,10 @@
         {
           "identifier": "959",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "959",
+          "scheme": "nass"
         }
       ],
       "name": "Kurmi Gashaka",
@@ -5462,6 +6114,10 @@
         {
           "identifier": "896",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "896",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/896.jpg",
@@ -5496,6 +6152,10 @@
         {
           "identifier": "933",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "933",
+          "scheme": "nass"
         },
         {
           "identifier": "nasiru-baballe-ila",
@@ -5535,6 +6195,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "906",
+          "scheme": "nass"
+        },
+        {
           "identifier": "uzoma-nkem-abonta",
           "scheme": "shineyoureye"
         }
@@ -5572,6 +6236,10 @@
         {
           "identifier": "618",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "618",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/618.jpg",
@@ -5602,6 +6270,10 @@
         {
           "identifier": "620",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "620",
+          "scheme": "nass"
         },
         {
           "identifier": "goni-bukar-lawan",
@@ -5644,6 +6316,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "543",
+          "scheme": "nass"
+        },
+        {
           "identifier": "nassir-ali-ahmed",
           "scheme": "shineyoureye"
         }
@@ -5682,6 +6358,10 @@
         {
           "identifier": "788",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "788",
+          "scheme": "nass"
         },
         {
           "identifier": "salihu-adamu-shadafi",
@@ -5725,6 +6405,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "641",
+          "scheme": "nass"
+        },
+        {
           "identifier": "samuel-olusegun-williams",
           "scheme": "shineyoureye"
         }
@@ -5762,6 +6446,10 @@
         {
           "identifier": "723",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "723",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/723.jpg",
@@ -5790,6 +6478,10 @@
         {
           "identifier": "535",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "535",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/535.jpg",
@@ -5812,6 +6504,10 @@
         {
           "identifier": "505",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "505",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/505.jpg",
@@ -5841,6 +6537,10 @@
         {
           "identifier": "673",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "673",
+          "scheme": "nass"
         },
         {
           "identifier": "kingsley-sunday-ebanyi",
@@ -5874,6 +6574,10 @@
         {
           "identifier": "561",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "561",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/561.jpg",
@@ -5894,6 +6598,10 @@
       "birth_date": "1966-03-24",
       "id": "882b0aa5-5113-4bdb-81e2-1c47b0c781a4",
       "identifiers": [
+        {
+          "identifier": "302",
+          "scheme": "nass"
+        },
         {
           "identifier": "kingsley-ogundu-chinda",
           "scheme": "shineyoureye"
@@ -5932,6 +6640,10 @@
         {
           "identifier": "681",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "681",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/681.jpg",
@@ -5960,6 +6672,10 @@
         {
           "identifier": "581",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "581",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/581.jpg",
@@ -5982,6 +6698,10 @@
         {
           "identifier": "950",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "950",
+          "scheme": "nass"
         }
       ],
       "name": "Adabah Christian",
@@ -6004,6 +6724,10 @@
         {
           "identifier": "637",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "637",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/637.jpg",
@@ -6032,6 +6756,10 @@
         {
           "identifier": "754",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "754",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/754.jpg",
@@ -6066,6 +6794,10 @@
         {
           "identifier": "607",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "607",
+          "scheme": "nass"
         },
         {
           "identifier": "sani-mohammed-aliyu-rano",
@@ -6105,6 +6837,10 @@
         {
           "identifier": "709",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "709",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/709.jpg",
@@ -6133,6 +6869,10 @@
         {
           "identifier": "688",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "688",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/688.jpg",
@@ -6155,6 +6895,10 @@
         {
           "identifier": "795",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "795",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/795.jpg",
@@ -6163,10 +6907,10 @@
           "url": "http://www.nass.gov.ng/images/mps/795.jpg"
         }
       ],
-      "name": "ADEDAPO LAM-ADESINA",
+      "name": "ADEDAPO ADEDAPO",
       "other_names": [
         {
-          "name": "ADEDAPO DAUDA KAKO LAM-ADESINA",
+          "name": "ADEDAPO LAM-ADESINA ADEDAPO",
           "note": "alternate"
         }
       ]
@@ -6183,6 +6927,10 @@
         {
           "identifier": "725",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "725",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/725.jpg",
@@ -6205,6 +6953,10 @@
         {
           "identifier": "567",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "567",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/567.jpg",
@@ -6223,6 +6975,12 @@
     },
     {
       "id": "90960d4e-51fb-447b-bad5-5ff55391349a",
+      "identifiers": [
+        {
+          "identifier": "967",
+          "scheme": "nass"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/967.jpg",
       "images": [
         {
@@ -6249,6 +7007,10 @@
         {
           "identifier": "749",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "749",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/749.jpg",
@@ -6271,6 +7033,10 @@
         {
           "identifier": "907",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "907",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/907.jpg",
@@ -6299,6 +7065,10 @@
         {
           "identifier": "626",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "626",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/626.jpg",
@@ -6327,6 +7097,10 @@
         {
           "identifier": "872",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "872",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/872.jpg",
@@ -6356,6 +7130,10 @@
         {
           "identifier": "860",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "860",
+          "scheme": "nass"
         },
         {
           "identifier": "zaphaniah-jisalo-bitrus",
@@ -6395,6 +7173,10 @@
         {
           "identifier": "590",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "590",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/590.jpg",
@@ -6423,6 +7205,10 @@
         {
           "identifier": "805",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "805",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/805.jpg",
@@ -6459,6 +7245,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "911",
+          "scheme": "nass"
+        },
+        {
           "identifier": "kehinde-olusegun-odeneye",
           "scheme": "shineyoureye"
         }
@@ -6490,6 +7280,10 @@
         {
           "identifier": "955",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "955",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/955.jpg",
@@ -6518,6 +7312,10 @@
         {
           "identifier": "704",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "704",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/704.jpg",
@@ -6548,6 +7346,10 @@
         {
           "identifier": "884",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "884",
+          "scheme": "nass"
         },
         {
           "identifier": "bright-tamuno-gogo",
@@ -6595,6 +7397,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "905",
+          "scheme": "nass"
+        },
+        {
           "identifier": "leonard-okuweh-ogor",
           "scheme": "shineyoureye"
         }
@@ -6632,6 +7438,10 @@
         {
           "identifier": "922",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "922",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/922.jpg",
@@ -6660,6 +7470,10 @@
         {
           "identifier": "833",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "833",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/833.jpg",
@@ -6694,6 +7508,10 @@
         {
           "identifier": "701",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "701",
+          "scheme": "nass"
         },
         {
           "identifier": "malle-ibrahim-aminu",
@@ -6741,6 +7559,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "931",
+          "scheme": "nass"
+        },
+        {
           "identifier": "babale-bashir",
           "scheme": "shineyoureye"
         }
@@ -6772,6 +7594,10 @@
         {
           "identifier": "949",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "949",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/949.jpg",
@@ -6800,6 +7626,10 @@
         {
           "identifier": "722",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "722",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/722.jpg",
@@ -6828,6 +7658,10 @@
         {
           "identifier": "559",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "559",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/559.jpg",
@@ -6856,6 +7690,10 @@
         {
           "identifier": "557",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "557",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/557.jpg",
@@ -6884,6 +7722,10 @@
         {
           "identifier": "733",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "733",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/733.jpg",
@@ -6913,6 +7755,10 @@
         {
           "identifier": "897",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "897",
+          "scheme": "nass"
         },
         {
           "identifier": "aliyu-betara-muktar",
@@ -6946,6 +7792,10 @@
         {
           "identifier": "603",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "603",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/603.jpg",
@@ -6974,6 +7824,10 @@
         {
           "identifier": "610",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "610",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/610.jpg",
@@ -7002,6 +7856,10 @@
         {
           "identifier": "612",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "612",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/612.jpg",
@@ -7024,6 +7882,10 @@
         {
           "identifier": "576",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "576",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/576.jpg",
@@ -7052,6 +7914,10 @@
         {
           "identifier": "898",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "898",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/898.jpg",
@@ -7075,6 +7941,10 @@
         {
           "identifier": "306",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "306",
+          "scheme": "nass"
         },
         {
           "identifier": "blessing-ibiba-nsiegbe",
@@ -7108,6 +7978,10 @@
         {
           "identifier": "736",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "736",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/736.jpg",
@@ -7136,6 +8010,10 @@
         {
           "identifier": "628",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "628",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/628.jpg",
@@ -7164,6 +8042,10 @@
         {
           "identifier": "534",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "534",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/534.jpg",
@@ -7192,6 +8074,10 @@
         {
           "identifier": "527",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "527",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/527.jpg",
@@ -7220,6 +8106,10 @@
         {
           "identifier": "830",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "830",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/830.jpg",
@@ -7257,6 +8147,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "645",
+          "scheme": "nass"
+        },
+        {
           "identifier": "abbas-tajudeen",
           "scheme": "shineyoureye"
         }
@@ -7288,6 +8182,10 @@
         {
           "identifier": "687",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "687",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/687.jpg",
@@ -7323,6 +8221,10 @@
         {
           "identifier": "746",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "746",
+          "scheme": "nass"
         },
         {
           "identifier": "jerry-alagbaso",
@@ -7362,6 +8264,10 @@
         {
           "identifier": "635",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "635",
+          "scheme": "nass"
         }
       ],
       "name": "Dennis Agbo",
@@ -7384,6 +8290,10 @@
         {
           "identifier": "846",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "846",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/846.jpg",
@@ -7392,10 +8302,10 @@
           "url": "http://www.nass.gov.ng/images/mps/846.jpg"
         }
       ],
-      "name": "SODAGUNO FESTUS-OMONI",
+      "name": "SODAGUWO FESTUS-OMONI",
       "other_names": [
         {
-          "name": "SODAGUNO ADEGADIZA FESTUS-OMONI",
+          "name": "SODAGUWO ADEGADIZA FESTUS-OMONI",
           "note": "alternate"
         }
       ]
@@ -7408,6 +8318,10 @@
         {
           "identifier": "683",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "683",
+          "scheme": "nass"
         },
         {
           "identifier": "Q18618880",
@@ -7460,6 +8374,10 @@
         {
           "identifier": "910",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "910",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/910.jpg",
@@ -7483,6 +8401,10 @@
         {
           "identifier": "761",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "761",
+          "scheme": "nass"
         },
         {
           "identifier": "pally-isumafe-obokhuaime-iriase",
@@ -7526,6 +8448,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "720",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mohammed-tahir-monguno",
           "scheme": "shineyoureye"
         }
@@ -7563,6 +8489,10 @@
         {
           "identifier": "667",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "667",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/667.jpg",
@@ -7597,6 +8527,10 @@
         {
           "identifier": "613",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "613",
+          "scheme": "nass"
         },
         {
           "identifier": "yusuf-bala",
@@ -7636,6 +8570,10 @@
         {
           "identifier": "790",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "790",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/790.jpg",
@@ -7666,6 +8604,10 @@
         {
           "identifier": "566",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "566",
+          "scheme": "nass"
         },
         {
           "identifier": "ismaila-ahmed-gadaka",
@@ -7708,6 +8650,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "666",
+          "scheme": "nass"
+        },
+        {
           "identifier": "linus-okorie",
           "scheme": "shineyoureye"
         }
@@ -7739,6 +8685,10 @@
         {
           "identifier": "952",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "952",
+          "scheme": "nass"
         }
       ],
       "name": "Ugwuegede Ikechukwu",
@@ -7761,6 +8711,10 @@
         {
           "identifier": "646",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "646",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/646.jpg",
@@ -7784,6 +8738,10 @@
         {
           "identifier": "192",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "192",
+          "scheme": "nass"
         },
         {
           "identifier": "essien-ekpeyong-ayi",
@@ -7823,6 +8781,10 @@
         {
           "identifier": "571",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "571",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/571.jpg",
@@ -7857,6 +8819,10 @@
         {
           "identifier": "778",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "778",
+          "scheme": "nass"
         },
         {
           "identifier": "abdullahi-idris-garba",
@@ -7896,6 +8862,10 @@
         {
           "identifier": "546",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "546",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/546.jpg",
@@ -7924,6 +8894,10 @@
         {
           "identifier": "670",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "670",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/670.jpg",
@@ -7952,6 +8926,10 @@
         {
           "identifier": "708",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "708",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/708.jpg",
@@ -7974,6 +8952,10 @@
         {
           "identifier": "674",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "674",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/674.jpg",
@@ -8004,6 +8986,10 @@
         {
           "identifier": "752",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "752",
+          "scheme": "nass"
         },
         {
           "identifier": "olusegun-dokun-odebunmi",
@@ -8043,6 +9029,10 @@
         {
           "identifier": "663",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "663",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/663.jpg",
@@ -8073,6 +9063,10 @@
         {
           "identifier": "932",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "932",
+          "scheme": "nass"
         },
         {
           "identifier": "Q24668829",
@@ -8118,6 +9112,10 @@
         {
           "identifier": "622",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "622",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/622.jpg",
@@ -8146,6 +9144,10 @@
         {
           "identifier": "868",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "868",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/868.jpg",
@@ -8180,6 +9182,10 @@
         {
           "identifier": "756",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "756",
+          "scheme": "nass"
         },
         {
           "identifier": "nkiruka-onyejeocha",
@@ -8219,6 +9225,10 @@
         {
           "identifier": "585",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "585",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/585.jpg",
@@ -8242,6 +9252,10 @@
         {
           "identifier": "839",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "839",
+          "scheme": "nass"
         },
         {
           "identifier": "kenneth-anayo-chikere",
@@ -8276,6 +9290,10 @@
         {
           "identifier": "717",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "717",
+          "scheme": "nass"
         },
         {
           "identifier": "isah-salihu-bashir",
@@ -8318,6 +9336,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "686",
+          "scheme": "nass"
+        },
+        {
           "identifier": "garba-datti-muhammad",
           "scheme": "shineyoureye"
         }
@@ -8355,6 +9377,10 @@
         {
           "identifier": "594",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "594",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/594.jpg",
@@ -8383,6 +9409,10 @@
         {
           "identifier": "777",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "777",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/777.jpg",
@@ -8406,6 +9436,10 @@
         {
           "identifier": "772",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "772",
+          "scheme": "nass"
         },
         {
           "identifier": "awulu-ezekiel-adaji",
@@ -8445,6 +9479,10 @@
         {
           "identifier": "925",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "925",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/925.jpg",
@@ -8467,6 +9505,10 @@
         {
           "identifier": "85",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "85",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/85.jpg",
@@ -8489,6 +9531,10 @@
         {
           "identifier": "843",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "843",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/843.jpg",
@@ -8517,6 +9563,10 @@
         {
           "identifier": "707",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "707",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/707.jpg",
@@ -8545,6 +9595,10 @@
         {
           "identifier": "702",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "702",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/702.jpg",
@@ -8573,6 +9627,10 @@
         {
           "identifier": "886",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "886",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/886.jpg",
@@ -8603,6 +9661,10 @@
         {
           "identifier": "711",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "711",
+          "scheme": "nass"
         },
         {
           "identifier": "ibrahim-babangida",
@@ -8642,6 +9704,10 @@
         {
           "identifier": "698",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "698",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/698.jpg",
@@ -8671,6 +9737,10 @@
         {
           "identifier": "555",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "555",
+          "scheme": "nass"
         },
         {
           "identifier": "mohammed-alhaji-sanda",
@@ -8710,6 +9780,10 @@
         {
           "identifier": "735",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "735",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/735.jpg",
@@ -8738,6 +9812,10 @@
         {
           "identifier": "657",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "657",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/657.jpg",
@@ -8766,6 +9844,10 @@
         {
           "identifier": "753",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "753",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/753.jpg",
@@ -8790,6 +9872,10 @@
         {
           "identifier": "682",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "682",
+          "scheme": "nass"
         },
         {
           "identifier": "nasiru-sule-garo",
@@ -8868,6 +9954,10 @@
         {
           "identifier": "547",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "547",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/547.jpg",
@@ -8896,6 +9986,10 @@
         {
           "identifier": "679",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "679",
+          "scheme": "nass"
         },
         {
           "identifier": "sopuluchukwu-e-ezeonwuka",
@@ -8935,6 +10029,10 @@
         {
           "identifier": "605",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "605",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/605.jpg",
@@ -8963,6 +10061,10 @@
         {
           "identifier": "864",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "864",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/864.jpg",
@@ -8985,6 +10087,10 @@
         {
           "identifier": "903",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "903",
+          "scheme": "nass"
         }
       ],
       "name": "ADAMU KAMALE",
@@ -9007,6 +10113,10 @@
         {
           "identifier": "748",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "748",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/748.jpg",
@@ -9035,6 +10145,10 @@
         {
           "identifier": "865",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "865",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/865.jpg",
@@ -9059,6 +10173,10 @@
         {
           "identifier": "575",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "575",
+          "scheme": "nass"
         },
         {
           "identifier": "Q25938875",
@@ -9112,6 +10230,10 @@
         {
           "identifier": "651",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "651",
+          "scheme": "nass"
         },
         {
           "identifier": "Q22279489",
@@ -9172,6 +10294,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "784",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mohammed-ogoshi-onawo",
           "scheme": "shineyoureye"
         }
@@ -9217,6 +10343,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "593",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mustapha-dawaki-bala",
           "scheme": "shineyoureye"
         }
@@ -9248,6 +10378,10 @@
         {
           "identifier": "719",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "719",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/719.jpg",
@@ -9280,6 +10414,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "797",
+          "scheme": "nass"
+        },
+        {
           "identifier": "jagaba-adams-jagaba",
           "scheme": "shineyoureye"
         }
@@ -9307,6 +10445,12 @@
     },
     {
       "id": "d0f0b376-5c1c-4bd4-bc29-84cb9269a7be",
+      "identifiers": [
+        {
+          "identifier": "966",
+          "scheme": "nass"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/966.jpg",
       "images": [
         {
@@ -9328,6 +10472,10 @@
         {
           "identifier": "596",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "596",
+          "scheme": "nass"
         },
         {
           "identifier": "mohammed-ali-wudil",
@@ -9375,6 +10523,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "787",
+          "scheme": "nass"
+        },
+        {
           "identifier": "julius-olufemi-fakeye",
           "scheme": "shineyoureye"
         }
@@ -9406,6 +10558,10 @@
         {
           "identifier": "656",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "656",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/656.jpg",
@@ -9434,6 +10590,10 @@
         {
           "identifier": "606",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "606",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/606.jpg",
@@ -9465,6 +10625,10 @@
         {
           "identifier": "554",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "554",
+          "scheme": "nass"
         },
         {
           "identifier": "yakubu-dogara",
@@ -9547,6 +10711,10 @@
         {
           "identifier": "862",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "862",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/862.jpg",
@@ -9571,6 +10739,12 @@
         }
       ],
       "id": "d44924f4-be2d-4f5c-afa8-f4510e8d727a",
+      "identifiers": [
+        {
+          "identifier": "842",
+          "scheme": "nass"
+        }
+      ],
       "image": "http://www.nass.gov.ng/images/mps/842.jpg",
       "images": [
         {
@@ -9599,6 +10773,10 @@
         {
           "identifier": "260",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "260",
+          "scheme": "nass"
         },
         {
           "identifier": "mu-azu-b-tudu-lawal",
@@ -9635,6 +10813,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "899",
+          "scheme": "nass"
+        },
+        {
           "identifier": "isa-hassan-mohammed",
           "scheme": "shineyoureye"
         }
@@ -9663,6 +10845,10 @@
         {
           "identifier": "902",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "902",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/902.jpg",
@@ -9692,6 +10878,10 @@
         {
           "identifier": "859",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "859",
+          "scheme": "nass"
         },
         {
           "identifier": "emmanuel-yisa-orker-jev",
@@ -9734,6 +10924,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "957",
+          "scheme": "nass"
+        },
+        {
           "identifier": "abdullahi-salame-balarabe",
           "scheme": "shineyoureye"
         }
@@ -9771,6 +10965,10 @@
         {
           "identifier": "653",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "653",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/653.jpg",
@@ -9794,6 +10992,10 @@
         {
           "identifier": "529",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "529",
+          "scheme": "nass"
         },
         {
           "identifier": "foingha-jephtha",
@@ -9834,6 +11036,10 @@
         {
           "identifier": "671",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "671",
+          "scheme": "nass"
         },
         {
           "identifier": "Q22087359",
@@ -9882,6 +11088,10 @@
         {
           "identifier": "602",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "602",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/602.jpg",
@@ -9910,6 +11120,10 @@
         {
           "identifier": "926",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "926",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/926.jpg",
@@ -9940,6 +11154,10 @@
         {
           "identifier": "703",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "703",
+          "scheme": "nass"
         },
         {
           "identifier": "Q23414656",
@@ -9995,6 +11213,10 @@
         {
           "identifier": "757",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "757",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/757.jpg",
@@ -10023,6 +11245,10 @@
         {
           "identifier": "804",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "804",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/804.jpg",
@@ -10051,6 +11277,10 @@
         {
           "identifier": "582",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "582",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/582.jpg",
@@ -10074,6 +11304,10 @@
         {
           "identifier": "550",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "550",
+          "scheme": "nass"
         },
         {
           "identifier": "nabunkari-mohammed-sa-adu",
@@ -10113,6 +11347,10 @@
         {
           "identifier": "826",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "826",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/826.jpg",
@@ -10135,6 +11373,10 @@
         {
           "identifier": "724",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "724",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/724.jpg",
@@ -10163,6 +11405,10 @@
         {
           "identifier": "881",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "881",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/881.jpg",
@@ -10186,6 +11432,10 @@
         {
           "identifier": "900",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "900",
+          "scheme": "nass"
         },
         {
           "identifier": "adamu-gurai",
@@ -10215,6 +11465,10 @@
         {
           "identifier": "938",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "938",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/938.jpg",
@@ -10252,6 +11506,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "923",
+          "scheme": "nass"
+        },
+        {
           "identifier": "abdulmumin-jibrin",
           "scheme": "shineyoureye"
         }
@@ -10279,6 +11537,10 @@
         {
           "identifier": "737",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "737",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/737.jpg",
@@ -10307,6 +11569,10 @@
         {
           "identifier": "661",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "661",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/661.jpg",
@@ -10341,6 +11607,10 @@
         {
           "identifier": "574",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "574",
+          "scheme": "nass"
         },
         {
           "identifier": "musa-sarkin-adar-kaffe",
@@ -10388,6 +11658,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "623",
+          "scheme": "nass"
+        },
+        {
           "identifier": "akinlade-adekunle-isiaq",
           "scheme": "shineyoureye"
         }
@@ -10425,6 +11699,10 @@
         {
           "identifier": "643",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "643",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/643.jpg",
@@ -10460,6 +11738,10 @@
         {
           "identifier": "662",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "662",
+          "scheme": "nass"
         },
         {
           "identifier": "ayo-hulayat-omidiran",
@@ -10499,6 +11781,10 @@
         {
           "identifier": "627",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "627",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/627.jpg",
@@ -10530,6 +11816,10 @@
         {
           "identifier": "730",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "730",
+          "scheme": "nass"
         },
         {
           "identifier": "tukur-amiruddin",
@@ -10569,6 +11859,10 @@
         {
           "identifier": "503",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "503",
+          "scheme": "nass"
         },
         {
           "identifier": "Q29834852",
@@ -10624,6 +11918,10 @@
         {
           "identifier": "636",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "636",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/636.jpg",
@@ -10652,6 +11950,10 @@
         {
           "identifier": "665",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "665",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/665.jpg",
@@ -10686,6 +11988,10 @@
         {
           "identifier": "638",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "638",
+          "scheme": "nass"
         },
         {
           "identifier": "david-davematics-ombugadu-emmanuel",
@@ -10725,6 +12031,10 @@
         {
           "identifier": "825",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "825",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/825.jpg",
@@ -10747,6 +12057,10 @@
         {
           "identifier": "741",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "741",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/741.jpg",
@@ -10775,6 +12089,10 @@
         {
           "identifier": "640",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "640",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/640.jpg",
@@ -10799,6 +12117,10 @@
         {
           "identifier": "829",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "829",
+          "scheme": "nass"
         },
         {
           "identifier": "daniel-effiong-asuquo",
@@ -10846,6 +12168,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "713",
+          "scheme": "nass"
+        },
+        {
           "identifier": "mohammed-zakari",
           "scheme": "shineyoureye"
         }
@@ -10879,6 +12205,10 @@
         {
           "identifier": "552",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "552",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/552.jpg",
@@ -10908,6 +12238,10 @@
         {
           "identifier": "854",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "854",
+          "scheme": "nass"
         },
         {
           "identifier": "suleiman-yahaya-kwande",
@@ -10947,6 +12281,10 @@
         {
           "identifier": "836",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "836",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/836.jpg",
@@ -10976,6 +12314,10 @@
         {
           "identifier": "570",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "570",
+          "scheme": "nass"
         },
         {
           "identifier": "mahmud-lawan-maina-maina",
@@ -11013,6 +12355,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "763",
+          "scheme": "nass"
+        },
+        {
           "identifier": "sylvester-o-ogbaga",
           "scheme": "shineyoureye"
         }
@@ -11045,6 +12391,10 @@
         {
           "identifier": "904",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "904",
+          "scheme": "nass"
         },
         {
           "identifier": "emmanuel-memga-udende",
@@ -11084,6 +12434,10 @@
         {
           "identifier": "845",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "845",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/845.jpg",
@@ -11114,6 +12468,10 @@
         {
           "identifier": "342",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "342",
+          "scheme": "nass"
         },
         {
           "identifier": "hazeez-babajide-akinloye",
@@ -11153,6 +12511,10 @@
         {
           "identifier": "775",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "775",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/775.jpg",
@@ -11181,6 +12543,10 @@
         {
           "identifier": "828",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "828",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/828.jpg",
@@ -11203,6 +12569,10 @@
         {
           "identifier": "587",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "587",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/587.jpg",
@@ -11231,6 +12601,10 @@
         {
           "identifier": "743",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "743",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/743.jpg",
@@ -11254,6 +12628,10 @@
         {
           "identifier": "564",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "564",
+          "scheme": "nass"
         },
         {
           "identifier": "lawali-anka-hassan",
@@ -11296,6 +12674,10 @@
         {
           "identifier": "577",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "577",
+          "scheme": "nass"
         },
         {
           "identifier": "Q28606434",
@@ -11739,6 +13121,10 @@
         {
           "identifier": "694",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "694",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/694.jpg",
@@ -11761,6 +13147,10 @@
         {
           "identifier": "537",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "537",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/537.jpg",
@@ -11791,6 +13181,10 @@
         {
           "identifier": "518",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "518",
+          "scheme": "nass"
         },
         {
           "identifier": "ojakovo-omavowan-evelyn",
@@ -11830,6 +13224,10 @@
         {
           "identifier": "639",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "639",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/639.jpg",
@@ -11858,6 +13256,10 @@
         {
           "identifier": "726",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "726",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/726.jpg",
@@ -11886,6 +13288,10 @@
         {
           "identifier": "800",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "800",
+          "scheme": "nass"
         },
         {
           "identifier": "ossai-nicholas-ossai",
@@ -11919,6 +13325,10 @@
         {
           "identifier": "562",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "562",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/562.jpg",
@@ -11941,6 +13351,10 @@
         {
           "identifier": "513",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "513",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/513.jpg",
@@ -11970,6 +13384,10 @@
         {
           "identifier": "837",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "837",
+          "scheme": "nass"
         },
         {
           "identifier": "daniel-oritsegbubemi-reyemeju",
@@ -12006,6 +13424,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "939",
+          "scheme": "nass"
+        },
+        {
           "identifier": "kabiru-marafa-achida",
           "scheme": "shineyoureye"
         }
@@ -12037,6 +13459,10 @@
         {
           "identifier": "792",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "792",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/792.jpg",
@@ -12058,6 +13484,10 @@
       "gender": "male",
       "id": "f9a3b9d5-18f7-4d6c-a1b5-4c11be52e9cd",
       "identifiers": [
+        {
+          "identifier": "970",
+          "scheme": "nass"
+        },
         {
           "identifier": "Q27517391",
           "scheme": "wikidata"
@@ -12105,6 +13535,10 @@
         {
           "identifier": "549",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "549",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/549.jpg",
@@ -12139,6 +13573,10 @@
         {
           "identifier": "835",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "835",
+          "scheme": "nass"
         },
         {
           "identifier": "abiodun-dada-awoleye",
@@ -12186,6 +13624,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "920",
+          "scheme": "nass"
+        },
+        {
           "identifier": "aminu-shehu-shagari",
           "scheme": "shineyoureye"
         }
@@ -12227,6 +13669,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "693",
+          "scheme": "nass"
+        },
+        {
           "identifier": "muhtari-muhammad-chiromawa",
           "scheme": "shineyoureye"
         }
@@ -12266,6 +13712,10 @@
         {
           "identifier": "930",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "930",
+          "scheme": "nass"
         },
         {
           "identifier": "akinade-fijabi-saheed",
@@ -12314,6 +13764,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "796",
+          "scheme": "nass"
+        },
+        {
           "identifier": "ewa-henshaw-bassey-eko",
           "scheme": "shineyoureye"
         }
@@ -12351,6 +13805,10 @@
         {
           "identifier": "706",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "706",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/706.jpg",
@@ -12379,6 +13837,10 @@
         {
           "identifier": "908",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "908",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/908.jpg",
@@ -12401,6 +13863,10 @@
         {
           "identifier": "601",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "601",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/601.jpg",
@@ -12429,6 +13895,10 @@
         {
           "identifier": "721",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "721",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/721.jpg",
@@ -12457,6 +13927,10 @@
         {
           "identifier": "909",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "909",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/909.jpg",
@@ -12485,6 +13959,10 @@
         {
           "identifier": "901",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "901",
+          "scheme": "nass"
         }
       ],
       "image": "http://www.nass.gov.ng/images/mps/901.jpg",
