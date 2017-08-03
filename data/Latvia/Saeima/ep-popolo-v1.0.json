@@ -28031,6 +28031,7 @@
       ]
     },
     {
+      "birth_date": "1960-06-04",
       "contact_details": [
         {
           "type": "email",
@@ -28039,15 +28040,38 @@
       ],
       "email": "Astrida.Harju@saeima.lv",
       "family_name": "Harju",
+      "gender": "female",
       "given_name": "Astrīda",
       "id": "a4e54d23-d95a-466e-a51c-728c09951eca",
+      "identifiers": [
+        {
+          "identifier": "Q33103709",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/dfe308cecb363b14c2257d7b0032d89a/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/dfe308cecb363b14c2257d7b0032d89a/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/22.jūnija_Saeimas_sēde_(35077232460).jpg"
         }
       ],
-      "name": "Astrīda Harju"
+      "links": [
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Astrīda_Harju"
+        }
+      ],
+      "name": "Astrīda Harju",
+      "other_names": [
+        {
+          "lang": "lv",
+          "name": "Astrīda Harju",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-06-07",
@@ -31553,6 +31577,7 @@
       ]
     },
     {
+      "birth_date": "1983-10-17",
       "contact_details": [
         {
           "type": "email",
@@ -31561,15 +31586,339 @@
       ],
       "email": "Romans.Miloslavskis@saeima.lv",
       "family_name": "Miloslavskis",
+      "gender": "male",
       "given_name": "Romans",
       "id": "b3be0e4f-b983-41f0-8508-6753ffe96016",
+      "identifiers": [
+        {
+          "identifier": "/m/0h986f8",
+          "scheme": "freebase"
+        },
+        {
+          "identifier": "Q7363444",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/91d7c71569c288f7c2257d7b0032d85b/Foto/0.84?OpenElement&FieldElemFormat=jpg",
       "images": [
         {
           "url": "http://titania.saeima.lv/personal/deputati/saeima12_depweb_public.nsf/0/91d7c71569c288f7c2257d7b0032d85b/Foto/0.84?OpenElement&FieldElemFormat=jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/12.Saeimas_deputāts_Romans_Miloslavskis_(35853947296).jpg"
         }
       ],
-      "name": "Romans Miloslavskis"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Romāns_Miloslavskis"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/رومانس_میلوسلاوسکیس"
+        },
+        {
+          "note": "Wikipedia (lv)",
+          "url": "https://lv.wikipedia.org/wiki/Romans_Miloslavskis"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Romāns_Miloslavskis"
+        }
+      ],
+      "name": "Romans Miloslavskis",
+      "other_names": [
+        {
+          "lang": "af",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bs",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "رومانس میلوسلاوسکیس",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "is",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lmo",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Romans Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Romāns Miloslavskis",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -45525,7 +45874,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Latvijas_Reģionu_apvienība.png",
       "links": [
         {
           "note": "website",
@@ -45669,6 +46017,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Latvijas_Reģionu_apvienība.png",
       "links": [
         {
           "note": "website",
