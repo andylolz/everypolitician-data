@@ -10652,11 +10652,16 @@
       ]
     },
     {
+      "gender": "male",
       "id": "e23d630f-9784-4cb0-b721-e4cd84d6bb8d",
       "identifiers": [
         {
           "identifier": "Malima-N-Philemon",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33445990",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.na/images/nationalassemblymembers/p_malima.jpg",
@@ -10665,7 +10670,24 @@
           "url": "http://www.parliament.gov.na/images/nationalassemblymembers/p_malima.jpg"
         }
       ],
-      "name": "Malima N. Philemon"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Philemon_Malima"
+        }
+      ],
+      "name": "Malima N. Philemon",
+      "other_names": [
+        {
+          "name": "Philemon Malima",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Philemon Malima",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1961-01-02",
