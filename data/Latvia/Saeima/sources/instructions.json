@@ -5,7 +5,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/lativa-saeima",
-        "query": "SELECT * FROM data WHERE term = '12' ORDER BY id"
+        "query": "SELECT * FROM data WHERE term = 12 ORDER BY id"
       },
       "source": "http://www.saeima.lv/",
       "type": "membership"
