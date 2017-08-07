@@ -20872,6 +20872,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "scn",
+          "name": "Angelo Capodicasa",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
           "name": "Angelo Capodicasa",
           "note": "multilingual"
@@ -74327,6 +74332,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (am)",
+          "url": "https://am.wikipedia.org/wiki/ፓዖሎ_ጄንቲሎኒ"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/باولو_جينتيلوني"
