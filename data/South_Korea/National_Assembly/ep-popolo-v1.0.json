@@ -21282,6 +21282,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "139876618",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "0000 0001 0950 5281",
           "scheme": "isni"
         },
@@ -27417,6 +27421,7 @@
         }
       ],
       "email": "ycy513@naver.com",
+      "gender": "male",
       "id": "baa101fb-c27b-4710-96f8-89d13f1fb22e",
       "identifiers": [
         {
@@ -37966,6 +37971,11 @@
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "neach-poileataigs neo-eisimeileach",
           "note": "multilingual"
         },
         {
