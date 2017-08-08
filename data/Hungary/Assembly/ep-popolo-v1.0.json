@@ -225,6 +225,10 @@
         {
           "identifier": "l042",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092251",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/l042.jpg",
@@ -233,7 +237,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/l042.jpg"
         }
       ],
-      "name": "Dr. Lukács, László György"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Lukács_László_György"
+        }
+      ],
+      "name": "Dr. Lukács, László György",
+      "other_names": [
+        {
+          "name": "Lukács László György",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Lukács László György",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1968-10-31",
@@ -752,6 +773,10 @@
         {
           "identifier": "l027",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092481",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/l027.jpg",
@@ -760,7 +785,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/l027.jpg"
         }
       ],
-      "name": "Dr. Legény, Zsolt"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Legény_Zsolt"
+        }
+      ],
+      "name": "Dr. Legény, Zsolt",
+      "other_names": [
+        {
+          "name": "Legény Zsolt",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Legény Zsolt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1963-10-20",
@@ -848,6 +890,10 @@
         {
           "identifier": "h742",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092369",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/h742.jpg",
@@ -856,7 +902,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/h742.jpg"
         }
       ],
-      "name": "Heringes, Anita"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Heringes_Anita"
+        }
+      ],
+      "name": "Heringes, Anita",
+      "other_names": [
+        {
+          "name": "Heringes Anita",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Heringes Anita",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1975-03-01",
@@ -1187,6 +1250,10 @@
         {
           "identifier": "s772",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31091594",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s772.jpg",
@@ -1195,7 +1262,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/s772.jpg"
         }
       ],
-      "name": "Dr. Salacz, László"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Salacz_László"
+        }
+      ],
+      "name": "Dr. Salacz, László",
+      "other_names": [
+        {
+          "name": "Salacz László",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Salacz László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-09-18",
@@ -3821,6 +3905,10 @@
         {
           "identifier": "s773",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31094958",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s773.jpg",
@@ -3829,7 +3917,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/s773.jpg"
         }
       ],
-      "name": "Szabó, Sándor"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Szabó_Sándor_(politikus)"
+        }
+      ],
+      "name": "Szabó, Sándor",
+      "other_names": [
+        {
+          "name": "Szabó Sándor",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Szabó Sándor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1960-05-09",
@@ -4656,6 +4761,10 @@
         {
           "identifier": "k764",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31094909",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/k764.jpg",
@@ -4664,7 +4773,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/k764.jpg"
         }
       ],
-      "name": "Dr. Kiss, László"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kiss_László_(politikus)"
+        }
+      ],
+      "name": "Dr. Kiss, László",
+      "other_names": [
+        {
+          "name": "Kiss László",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Kiss László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-06-08",
@@ -5565,6 +5691,10 @@
         {
           "identifier": "t012",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31094952",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/t012.jpg",
@@ -5573,7 +5703,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/t012.jpg"
         }
       ],
-      "name": "Teleki, László"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Teleki_László_(politikus,_1959)"
+        }
+      ],
+      "name": "Teleki, László",
+      "other_names": [
+        {
+          "name": "Teleki László",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Teleki László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1974-01-22",
@@ -7049,6 +7196,10 @@
         {
           "identifier": "k765",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31094741",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/k765.jpg",
@@ -7057,7 +7208,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/k765.jpg"
         }
       ],
-      "name": "Kovács, Sándor"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kovács_Sándor_(politikus)"
+        }
+      ],
+      "name": "Kovács, Sándor",
+      "other_names": [
+        {
+          "name": "Kovács Sándor",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Kovács Sándor",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1959-12-17",
@@ -8036,6 +8204,10 @@
         {
           "identifier": "s068",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092510",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s068.jpg",
@@ -8044,7 +8216,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/s068.jpg"
         }
       ],
-      "name": "Dr. Szakács, László"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Szakács_László"
+        }
+      ],
+      "name": "Dr. Szakács, László",
+      "other_names": [
+        {
+          "name": "Szakács László",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Szakács László",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1977-07-24",
@@ -8863,6 +9052,10 @@
         {
           "identifier": "o007",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092525",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/o007.jpg",
@@ -8871,7 +9064,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/o007.jpg"
         }
       ],
-      "name": "Dr. Oláh, Lajos"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Oláh_Lajos"
+        }
+      ],
+      "name": "Dr. Oláh, Lajos",
+      "other_names": [
+        {
+          "name": "Oláh Lajos",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Oláh Lajos",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-05-26",
@@ -9691,6 +9901,10 @@
         {
           "identifier": "s771",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31094962",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/s771.jpg",
@@ -9699,7 +9913,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/s771.jpg"
         }
       ],
-      "name": "Szabó, Szabolcs"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Szabó_Szabolcs_(geográfus)"
+        }
+      ],
+      "name": "Szabó, Szabolcs",
+      "other_names": [
+        {
+          "name": "Szabó Szabolcs",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Szabó Szabolcs",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -9715,6 +9946,10 @@
         {
           "identifier": "k107",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092228",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/k107.jpg",
@@ -9723,7 +9958,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/k107.jpg"
         }
       ],
-      "name": "Kepli, Lajos"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Kepli_Lajos"
+        }
+      ],
+      "name": "Kepli, Lajos",
+      "other_names": [
+        {
+          "name": "Kepli Lajos",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Kepli Lajos",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962-06-27",
@@ -13626,6 +13878,10 @@
         {
           "identifier": "h057",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092223",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/h057.jpg",
@@ -13634,7 +13890,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/h057.jpg"
         }
       ],
-      "name": "Hegedűs, Lorántné"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Hegedűs_Lórántné"
+        }
+      ],
+      "name": "Hegedűs, Lorántné",
+      "other_names": [
+        {
+          "name": "Hegedűs Lórántné",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Hegedűs Lórántné",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964",
@@ -15580,6 +15853,10 @@
         {
           "identifier": "e010",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q31092212",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parlament.hu/kepv/kepek/e010.jpg",
@@ -15588,7 +15865,24 @@
           "url": "http://www.parlament.hu/kepv/kepek/e010.jpg"
         }
       ],
-      "name": "Egyed, Zsolt"
+      "links": [
+        {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/Egyed_Zsolt"
+        }
+      ],
+      "name": "Egyed, Zsolt",
+      "other_names": [
+        {
+          "name": "Egyed Zsolt",
+          "note": "alternate"
+        },
+        {
+          "lang": "hu",
+          "name": "Egyed Zsolt",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1965-01-26",
