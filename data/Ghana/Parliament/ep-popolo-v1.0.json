@@ -3178,6 +3178,10 @@
         {
           "identifier": "242",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q33134598",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gh/userfiles/mps/130_AMOAKO_ATTAH_KWASI.jpg",
@@ -3186,7 +3190,24 @@
           "url": "http://www.parliament.gh/userfiles/mps/130_AMOAKO_ATTAH_KWASI.jpg"
         }
       ],
-      "name": "Kwasi Amoako-Attah"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Kwesi_Amoako_Atta"
+        }
+      ],
+      "name": "Kwasi Amoako-Attah",
+      "other_names": [
+        {
+          "name": "Kwesi Amoako Atta",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Kwesi Amoako Atta",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-11-25",
