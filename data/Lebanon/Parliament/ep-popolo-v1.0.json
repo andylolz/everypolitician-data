@@ -3320,7 +3320,31 @@
     },
     {
       "id": "79395b55-5890-423a-86e6-4b290609a44d",
-      "name": "Amal Abou Zeid"
+      "identifiers": [
+        {
+          "identifier": "Q32534683",
+          "scheme": "wikidata"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Amal_Abou_Zeid"
+        }
+      ],
+      "name": "Amal Abou Zeid",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Amal Abou Zeid",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Amal Abou Zeid",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949",
