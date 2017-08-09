@@ -2098,6 +2098,10 @@
         {
           "identifier": "Patrick-Pruaitch",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "Q35553617",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://www.parliament.gov.pg/uploads/profiles/PPruaitch_Resized.jpg",
@@ -2106,7 +2110,33 @@
           "url": "http://www.parliament.gov.pg/uploads/profiles/PPruaitch_Resized.jpg"
         }
       ],
-      "name": "Hon. Patrick Pruaitch, MP"
+      "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Patrick_Pruaitch"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Patrick_Pruaitch"
+        }
+      ],
+      "name": "Hon. Patrick Pruaitch, MP",
+      "other_names": [
+        {
+          "name": "Patrick Pruaitch",
+          "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Patrick Pruaitch",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Patrick Pruaitch",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
