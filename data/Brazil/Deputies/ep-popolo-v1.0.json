@@ -2715,9 +2715,6 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178902.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Zeca_do_PT.jpg"
         }
       ],
       "links": [
@@ -4147,9 +4144,6 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178992.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Deputado-vitor-lippi-2015.png"
         }
       ],
       "links": [
@@ -11370,9 +11364,6 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178956.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mariana_Carvalho_em_Plenário.png"
         }
       ],
       "links": [
@@ -13906,6 +13897,10 @@
         {
           "note": "Wikipedia (mg)",
           "url": "https://mg.wikipedia.org/wiki/Romário"
+        },
+        {
+          "note": "Wikipedia (mk)",
+          "url": "https://mk.wikipedia.org/wiki/Ромарио"
         },
         {
           "note": "Wikipedia (mn)",
@@ -32059,6 +32054,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Rodrigo_Pacheco"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Rodrigo_Pacheco"
         }
@@ -39070,6 +39069,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/178868.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Plenário_do_Congresso_(20511272482).jpg"
         }
       ],
       "links": [
@@ -44303,6 +44305,7 @@
       ],
       "email": "dep.celsopansera@camara.leg.br",
       "gender": "male",
+      "given_name": "Celso",
       "id": "ca90f97c-9721-4147-a6f0-22938c4bf551",
       "identifiers": [
         {
@@ -44339,6 +44342,11 @@
       ],
       "name": "CELSO PANSERA",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Celso Pansera",
+          "note": "multilingual"
+        },
         {
           "lang": "fr",
           "name": "Celso Pansera",
@@ -45635,9 +45643,6 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/73778.jpg"
-        },
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Luiz_Carlos_Hauly_no_Congresso.jpg"
         }
       ],
       "links": [
@@ -51894,6 +51899,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (commons)",
+          "url": "https://commons.wikipedia.org/wiki/Category:Vicente_Cândido"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Vicente_Cândido"
         }
@@ -57632,6 +57641,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ro",
+          "name": "Partidul Republican Brazilian",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "PRB",
           "note": "multilingual"
@@ -58084,6 +58098,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/PSC_logo.svg",
       "links": [
         {
           "note": "website",
@@ -58811,6 +58826,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Psol_ziraldo.png",
       "links": [
         {
           "note": "website",
@@ -59317,6 +59333,11 @@
         {
           "lang": "pt-br",
           "name": "PT",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Arbeiterpartei Brasiliens",
           "note": "multilingual"
         }
       ]
@@ -60511,6 +60532,11 @@
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "neach-poileataigs neo-eisimeileach",
           "note": "multilingual"
         },
         {
