@@ -19039,6 +19039,7 @@
         }
       ],
       "email": "youngcamp1@gmail.com",
+      "gender": "male",
       "id": "8210e92a-de3f-4e30-9000-4f4555a54877",
       "identifiers": [
         {
@@ -25435,6 +25436,11 @@
         {
           "lang": "ko",
           "name": "유일호",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Yoo Il-ho",
           "note": "multilingual"
         },
         {
