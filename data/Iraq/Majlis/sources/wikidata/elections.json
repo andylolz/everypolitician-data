@@ -14,7 +14,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات البرلمانية العراقية، كانون الأول 2005",
+        "name": "انتخابات البرلمان العراقي كانون الأول 2005",
         "note": "multilingual"
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives irakiennes de décembre 2005",
+        "name": "élections législatives irakiennes de décembre 2005",
         "note": "multilingual"
       },
       {
@@ -60,6 +60,11 @@
       {
         "lang": "ja",
         "name": "2005年12月イラク議会選挙",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Irak de diciembre de 2005",
         "note": "multilingual"
       }
     ],
@@ -106,7 +111,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives irakiennes de 2010",
+        "name": "élections législatives irakiennes de 2010",
         "note": "multilingual"
       },
       {
@@ -137,6 +142,16 @@
       {
         "lang": "uk",
         "name": "Парламентські вибори в Іраку 2010",
+        "note": "multilingual"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות לפרלמנט העיראקי (2010)",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Irak de 2010",
         "note": "multilingual"
       }
     ],
@@ -183,7 +198,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives irakiennes de janvier 2005",
+        "name": "élections législatives irakiennes de janvier 2005",
         "note": "multilingual"
       },
       {
@@ -198,7 +213,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات البرلمانية العراقية، كانون الثاني 2005",
+        "name": "انتخابات البرلمان العراقي كانون الثاني 2005",
         "note": "multilingual"
       },
       {
@@ -213,7 +228,7 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari irachene",
+        "name": "elezioni parlamentari irachene",
         "note": "multilingual"
       },
       {
@@ -224,6 +239,11 @@
       {
         "lang": "ja",
         "name": "2005年イラク議会選挙",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones generales de Irak de enero de 2005",
         "note": "multilingual"
       },
       {
@@ -384,6 +404,11 @@
         "lang": "en",
         "name": "Iraqi parliamentary election, 1996",
         "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Irak de 1996",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -411,7 +436,12 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives irakiennes de 2000",
+        "name": "élections législatives irakiennes de 2000",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Elecciones legislativas de Irak de 2000",
         "note": "multilingual"
       }
     ],
@@ -498,7 +528,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections législatives irakiennes de 2014",
+        "name": "élections législatives irakiennes de 2014",
         "note": "multilingual"
       },
       {
@@ -518,7 +548,7 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Iraq del 2014",
+        "name": "elezioni parlamentari in Iraq del 2014",
         "note": "multilingual"
       },
       {
@@ -539,6 +569,16 @@
       {
         "lang": "zh-cn",
         "name": "2014年伊拉克议会选举",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات البرلمانية العراقية، 2014",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات البرلمانية العراقية 2014",
         "note": "multilingual"
       }
     ],
