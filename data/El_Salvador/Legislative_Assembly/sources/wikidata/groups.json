@@ -116,6 +116,16 @@
         "lang": "ko",
         "name": "민족주의 공화 동맹",
         "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "国民共和同盟",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "民族主義共和同盟",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -124,7 +134,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/ARENA_El_Salvador.png"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Alianza_Republicana_Nacionalista.svg"
   },
   "fmln": {
     "identifiers": [
@@ -283,6 +293,16 @@
         "lang": "en",
         "name": "FMLN",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "Farabundo Marti National Liberation Front",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Frente Farabundo Marti para la Liberacion Nacional",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -291,7 +311,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Flag_of_FMLN.jpg"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Frente_Farabundo_Martí_para_la_Liberación_Nacional.svg"
   },
   "gana": {
     "identifiers": [
@@ -332,7 +352,8 @@
         "url": "http://www.gana.org.sv/",
         "note": "website"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bandera_de_GANA.jpg"
   },
   "pcn": {
     "identifiers": [
@@ -395,6 +416,11 @@
       {
         "lang": "es",
         "name": "Partido de Conciliacion Nacional",
+        "note": "multilingual"
+      },
+      {
+        "lang": "es",
+        "name": "Partido de Conciliacion",
         "note": "multilingual"
       }
     ]
