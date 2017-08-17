@@ -74,7 +74,7 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Birmania del 2010",
+        "name": "elezioni parlamentari in Birmania del 2010",
         "note": "multilingual"
       },
       {
@@ -118,7 +118,7 @@
     ],
     "follows": "Burmese general election, 1990",
     "followed_by": "Burmese general election, 2015",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "Thein Sein"
     ]
@@ -261,7 +261,7 @@
     ],
     "follows": "Burmese general election, 1936",
     "followed_by": "Burmese general election, 1951–1952",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -297,7 +297,7 @@
     "end_date": "1952-06",
     "follows": "Burmese general election, 1947",
     "followed_by": "Burmese general election, 1956",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -326,7 +326,7 @@
     ],
     "follows": "Burmese general election, 1951–1952",
     "followed_by": "Burmese general election, 1960",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "Ba Swe"
     ]
@@ -348,6 +348,11 @@
         "lang": "my",
         "name": "အထွေအထွေ ရွေးကောက်ပွဲ၊ ၁၉၆၀",
         "note": "multilingual"
+      },
+      {
+        "lang": "zh",
+        "name": "1960年緬甸國會選舉",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -355,7 +360,7 @@
     ],
     "follows": "Burmese general election, 1956",
     "followed_by": "Burmese general election, 1974",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -468,7 +473,7 @@
     "dates": [
       "1990-05-27"
     ],
-    "office": "Prime Minister of Burma"
+    "office": "Prime Minister of Myanmar"
   },
   "Q16954580": {
     "identifiers": [
@@ -548,7 +553,7 @@
       },
       {
         "lang": "he",
-        "name": "הבחירות הכלליות במיאנמר",
+        "name": "הבחירות הכלליות במיאנמר 2015",
         "note": "multilingual"
       },
       {
@@ -558,7 +563,7 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Birmania del 2015",
+        "name": "elezioni parlamentari in Birmania del 2015",
         "note": "multilingual"
       },
       {
@@ -610,13 +615,19 @@
         "lang": "fi",
         "name": "Myanmarin parlamenttivaalit 2015",
         "note": "multilingual"
+      },
+      {
+        "lang": "kn",
+        "name": "ಮ್ಯಾನ್ಮಾರ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆ-2015",
+        "note": "multilingual"
       }
     ],
     "dates": [
       "2015-11-08"
     ],
     "follows": "Burmese general election, 2010",
-    "office": "President of Burma",
+    "followed_by": "Myanmar by-elections, 2017",
+    "office": "President of Myanmar",
     "successful_candidates": [
       "Htin Kyaw"
     ]
