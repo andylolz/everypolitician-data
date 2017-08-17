@@ -5962,6 +5962,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nb",
+          "name": "Alliance pour la démocratie et la fédération/Rassemblement démocratique africain",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "ADF/RDA",
           "note": "multilingual"
@@ -5984,6 +5989,11 @@
         {
           "lang": "fr",
           "name": "Alliance pour la democratie et la federation/Rassemblement democratique africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza para la Democracia y la Federacion - Agrupacion Democratica Africana",
           "note": "multilingual"
         }
       ]
@@ -6036,6 +6046,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nb",
+          "name": "Alliance pour la démocratie et la fédération/Rassemblement démocratique africain",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "ADF/RDA",
           "note": "multilingual"
@@ -6058,6 +6073,11 @@
         {
           "lang": "fr",
           "name": "Alliance pour la democratie et la federation/Rassemblement democratique africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza para la Democracia y la Federacion - Agrupacion Democratica Africana",
           "note": "multilingual"
         }
       ]
@@ -6105,6 +6125,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "nb",
+          "name": "Alliance pour la démocratie et la fédération/Rassemblement démocratique africain",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "ADF/RDA",
           "note": "multilingual"
@@ -6127,6 +6152,11 @@
         {
           "lang": "fr",
           "name": "Alliance pour la democratie et la federation/Rassemblement democratique africain",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Alianza para la Democracia y la Federacion - Agrupacion Democratica Africana",
           "note": "multilingual"
         }
       ]
@@ -6243,6 +6273,11 @@
         {
           "lang": "he",
           "name": "הקונגרס למען הדמוקרטיה והקדמה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Congrès pour la démocratie et le progrès",
           "note": "multilingual"
         },
         {
@@ -6366,6 +6401,11 @@
         {
           "lang": "he",
           "name": "הקונגרס למען הדמוקרטיה והקדמה",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Congrès pour la démocratie et le progrès",
           "note": "multilingual"
         },
         {
@@ -6493,7 +6533,7 @@
         },
         {
           "lang": "sv",
-          "name": "Partilös",
+          "name": "partilös",
           "note": "multilingual"
         },
         {
@@ -6533,12 +6573,12 @@
         },
         {
           "lang": "ca",
-          "name": "Independent",
+          "name": "polític independent",
           "note": "multilingual"
         },
         {
           "lang": "fi",
-          "name": "Sitoutumaton",
+          "name": "sitoutumaton",
           "note": "multilingual"
         },
         {
@@ -6712,6 +6752,21 @@
           "note": "multilingual"
         },
         {
+          "lang": "tt",
+          "name": "бәйсез",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "անկախ քաղաքական գործիչ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
+          "name": "neach-poileataigs neo-eisimeileach",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual"
@@ -6802,6 +6857,31 @@
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Movimientos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatos civicos",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Movimiento Civico",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidatura civica",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Candidata civica",
+          "note": "multilingual"
+        },
+        {
           "lang": "ta",
           "name": "சுயேச்சை",
           "note": "multilingual"
@@ -6848,42 +6928,42 @@
         },
         {
           "lang": "sv",
-          "name": "Vänstervilde",
+          "name": "vänstervilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Liberal vilde",
+          "name": "liberal vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Moderat vilde",
+          "name": "moderat vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politiska vildar",
+          "name": "politiska vildar",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Obunden",
+          "name": "obunden",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Politisk vilde",
+          "name": "politisk vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Frisinnad vilde",
+          "name": "frisinnad vilde",
           "note": "multilingual"
         },
         {
           "lang": "sv",
-          "name": "Högervilde",
+          "name": "högervilde",
           "note": "multilingual"
         },
         {
@@ -6977,6 +7057,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "en",
+          "name": "independent member",
+          "note": "multilingual"
+        },
+        {
           "lang": "it",
           "name": "candidato indipendente",
           "note": "multilingual"
@@ -7029,6 +7114,11 @@
         {
           "lang": "ru",
           "name": "беспартийный",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "фиркасез",
           "note": "multilingual"
         }
       ]
@@ -7218,7 +7308,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=239"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=239"
         }
       ]
     },
@@ -7253,7 +7343,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=223"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=223"
         }
       ]
     },
@@ -7272,7 +7362,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=132"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=132"
         }
       ]
     },
@@ -7301,7 +7391,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=251"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=251"
         }
       ]
     },
@@ -7314,7 +7404,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=147"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=147"
         }
       ]
     },
@@ -7355,7 +7445,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=226"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=226"
         }
       ]
     },
@@ -7368,7 +7458,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=225"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=225"
         }
       ]
     },
@@ -7381,7 +7471,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=198"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=198"
         }
       ]
     },
@@ -7394,7 +7484,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=184"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=184"
         }
       ]
     },
@@ -7421,7 +7511,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=212"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=212"
         }
       ]
     },
@@ -7491,7 +7581,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=209"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=209"
         }
       ]
     },
@@ -7503,7 +7593,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=203"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=203"
         }
       ]
     },
@@ -7531,7 +7621,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=172"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=172"
         }
       ]
     },
@@ -7566,7 +7656,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=181"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=181"
         }
       ]
     },
@@ -7586,7 +7676,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=167"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=167"
         }
       ]
     },
@@ -7607,7 +7697,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=157"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=157"
         }
       ]
     },
@@ -7664,7 +7754,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=166"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=166"
         }
       ]
     },
@@ -7684,7 +7774,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=136"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=136"
         }
       ]
     },
@@ -7741,7 +7831,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=207"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=207"
         }
       ]
     },
@@ -7819,7 +7909,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=247"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=247"
         }
       ]
     },
@@ -7846,7 +7936,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=173"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=173"
         }
       ]
     },
@@ -7859,7 +7949,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=242"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=242"
         }
       ]
     },
@@ -7894,7 +7984,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=259"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=259"
         }
       ]
     },
@@ -7988,7 +8078,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=144"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=144"
         }
       ]
     },
@@ -8037,7 +8127,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=165"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=165"
         }
       ]
     },
@@ -8064,7 +8154,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=133"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=133"
         }
       ]
     },
@@ -8077,7 +8167,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=257"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=257"
         }
       ]
     },
@@ -8090,7 +8180,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=192"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=192"
         }
       ]
     },
@@ -8146,7 +8236,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=168"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=168"
         }
       ]
     },
@@ -8166,7 +8256,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=210"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=210"
         }
       ]
     },
@@ -8179,7 +8269,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=222"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=222"
         }
       ]
     },
@@ -8226,7 +8316,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=208"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=208"
         }
       ]
     },
@@ -8269,7 +8359,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=186"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=186"
         }
       ]
     },
@@ -8282,7 +8372,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=135"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=135"
         }
       ]
     },
@@ -8352,7 +8442,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=233"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=233"
         }
       ]
     },
@@ -8423,7 +8513,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=188"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=188"
         }
       ]
     },
@@ -8486,7 +8576,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=202"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=202"
         }
       ]
     },
@@ -8506,7 +8596,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=131"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=131"
         }
       ]
     },
@@ -8533,7 +8623,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=143"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=143"
         }
       ]
     },
@@ -8553,7 +8643,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=161"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=161"
         }
       ]
     },
@@ -8580,7 +8670,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=254"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=254"
         }
       ]
     },
@@ -8593,7 +8683,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=178"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=178"
         }
       ]
     },
@@ -8687,7 +8777,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=180"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=180"
         }
       ]
     },
@@ -8700,7 +8790,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=141"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=141"
         }
       ]
     },
@@ -8790,7 +8880,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=201"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=201"
         }
       ]
     },
@@ -8810,7 +8900,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=162"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=162"
         }
       ]
     },
@@ -8829,7 +8919,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=230"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=230"
         }
       ]
     },
@@ -8899,7 +8989,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=232"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=232"
         }
       ]
     },
@@ -8926,7 +9016,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=158"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=158"
         }
       ]
     },
@@ -8966,7 +9056,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=260"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=260"
         }
       ]
     },
@@ -9008,7 +9098,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=197"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=197"
         }
       ]
     },
@@ -9079,7 +9169,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=248"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=248"
         }
       ]
     },
@@ -9092,7 +9182,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=174"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=174"
         }
       ]
     },
@@ -9156,7 +9246,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=196"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=196"
         }
       ]
     },
@@ -9220,7 +9310,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=171"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=171"
         }
       ]
     },
@@ -9233,7 +9323,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=238"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=238"
         }
       ]
     },
@@ -9268,7 +9358,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=148"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=148"
         }
       ]
     },
@@ -9332,7 +9422,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=134"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=134"
         }
       ]
     },
@@ -9366,7 +9456,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=214"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=214"
         }
       ]
     },
@@ -9446,7 +9536,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=234"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=234"
         }
       ]
     },
@@ -9495,7 +9585,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=185"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=185"
         }
       ]
     },
@@ -9508,7 +9598,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=258"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=258"
         }
       ]
     },
@@ -9557,7 +9647,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=189"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=189"
         }
       ]
     },
@@ -9584,7 +9674,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=150"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=150"
         }
       ]
     },
@@ -9670,7 +9760,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=146"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=146"
         }
       ]
     },
@@ -9712,7 +9802,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=199"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=199"
         }
       ]
     },
@@ -9725,7 +9815,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=163"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=163"
         }
       ]
     },
@@ -9752,7 +9842,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=200"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=200"
         }
       ]
     },
@@ -9765,7 +9855,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=206"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=206"
         }
       ]
     },
@@ -9786,7 +9876,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=231"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=231"
         }
       ]
     },
@@ -9821,7 +9911,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=220"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=220"
         }
       ]
     },
@@ -9841,7 +9931,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=195"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=195"
         }
       ]
     },
@@ -9876,7 +9966,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=193"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=193"
         }
       ]
     },
@@ -9911,7 +10001,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=218"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=218"
         }
       ]
     },
@@ -9953,7 +10043,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=182"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=182"
         }
       ]
     },
@@ -9989,7 +10079,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=155"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=155"
         }
       ]
     },
@@ -10009,7 +10099,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=241"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=241"
         }
       ]
     },
@@ -10070,7 +10160,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=194"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=194"
         }
       ]
     },
@@ -10142,7 +10232,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=219"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=219"
         }
       ]
     },
@@ -10242,7 +10332,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=187"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=187"
         }
       ]
     },
@@ -10350,7 +10440,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=159"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=159"
         }
       ]
     },
@@ -10384,7 +10474,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=140"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=140"
         }
       ]
     },
@@ -10405,7 +10495,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=224"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=224"
         }
       ]
     },
@@ -10418,7 +10508,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=152"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=152"
         }
       ]
     },
@@ -10438,7 +10528,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=156"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=156"
         }
       ]
     },
@@ -10451,7 +10541,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=169"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=169"
         }
       ]
     },
@@ -10492,7 +10582,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=179"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=179"
         }
       ]
     },
@@ -10505,7 +10595,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=154"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=154"
         }
       ]
     },
@@ -10518,7 +10608,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=177"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=177"
         }
       ]
     },
@@ -10538,7 +10628,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=227"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=227"
         }
       ]
     },
@@ -10565,7 +10655,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=261"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=261"
         }
       ]
     },
@@ -10577,7 +10667,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=191"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=191"
         }
       ]
     },
@@ -10613,7 +10703,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=256"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=256"
         }
       ]
     },
@@ -10668,7 +10758,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=255"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=255"
         }
       ]
     },
@@ -10694,7 +10784,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=190"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=190"
         }
       ]
     },
@@ -10749,7 +10839,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=151"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=151"
         }
       ]
     },
@@ -10770,7 +10860,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=153"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=153"
         }
       ]
     },
@@ -10805,7 +10895,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=250"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=250"
         }
       ]
     },
@@ -10818,7 +10908,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=175"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=175"
         }
       ]
     },
@@ -10831,7 +10921,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=235"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=235"
         }
       ]
     },
@@ -10851,7 +10941,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=5"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=5"
         }
       ]
     },
@@ -10938,7 +11028,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=183"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=183"
         }
       ]
     },
@@ -10958,7 +11048,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=211"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=211"
         }
       ]
     },
@@ -10993,7 +11083,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=149"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=149"
         }
       ]
     },
@@ -11020,7 +11110,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=213"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=213"
         }
       ]
     },
@@ -11221,7 +11311,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=236"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=236"
         }
       ]
     },
@@ -11234,7 +11324,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=217"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=217"
         }
       ]
     },
@@ -11247,7 +11337,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=138"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=138"
         }
       ]
     },
@@ -11304,7 +11394,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=252"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=252"
         }
       ]
     },
@@ -11346,7 +11436,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=142"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=142"
         }
       ]
     },
@@ -11402,7 +11492,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=228"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=228"
         }
       ]
     },
@@ -11414,7 +11504,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=216"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=216"
         }
       ]
     },
@@ -11449,7 +11539,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=215"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=215"
         }
       ]
     },
@@ -11514,7 +11604,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=246"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=246"
         }
       ]
     },
@@ -11527,7 +11617,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=240"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=240"
         }
       ]
     },
@@ -11570,7 +11660,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=253"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=253"
         }
       ]
     },
@@ -11618,7 +11708,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=243"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=243"
         }
       ]
     },
@@ -11647,7 +11737,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=249"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=249"
         }
       ]
     },
@@ -11784,7 +11874,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=139"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=139"
         }
       ]
     },
@@ -11797,7 +11887,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=204"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=204"
         }
       ]
     },
@@ -11823,7 +11913,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=170"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=170"
         }
       ]
     },
@@ -11836,7 +11926,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=160"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=160"
         }
       ]
     },
@@ -11849,7 +11939,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=176"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=176"
         }
       ]
     },
@@ -11934,7 +12024,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=229"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=229"
         }
       ]
     },
@@ -11996,7 +12086,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=221"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=221"
         }
       ]
     },
@@ -12059,7 +12149,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=164"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=164"
         }
       ]
     },
@@ -12072,7 +12162,7 @@
       "role": "member",
       "sources": [
         {
-          "url": "http://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=205"
+          "url": "https://www.assembleenationale.bf/spip.php?page=depute&id_article=8&id=205"
         }
       ]
     }
