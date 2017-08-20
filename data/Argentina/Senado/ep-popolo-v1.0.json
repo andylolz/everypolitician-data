@@ -3566,7 +3566,7 @@
           "scheme": "allocine"
         },
         {
-          "identifier": "23712",
+          "identifier": "000023712",
           "scheme": "bna"
         },
         {
@@ -5532,6 +5532,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Federico_Pinedo_(bisnieto)"
+        },
+        {
+          "note": "Wikipedia (eswikisource)",
+          "url": "https://eswikisource.wikipedia.org/wiki/Autor:Federico_Pinedo_(bisnieto)"
         },
         {
           "note": "Wikipedia (fr)",
