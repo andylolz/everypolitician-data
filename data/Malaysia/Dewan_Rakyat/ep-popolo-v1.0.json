@@ -12760,6 +12760,12 @@
     },
     {
       "birth_date": "1976-01-10",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Khairykj"
+        }
+      ],
       "gender": "male",
       "id": "3cead93a-4d56-4fbc-a9a2-6b07c296a70d",
       "identifiers": [
@@ -12814,6 +12820,18 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/凯里·嘉马鲁丁"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Khairykj"
+        },
+        {
+          "note": "instagram",
+          "url": "khairykj"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Khairykj"
         },
         {
           "note": "wikipedia",
