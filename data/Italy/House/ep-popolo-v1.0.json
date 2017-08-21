@@ -3724,6 +3724,10 @@
           "scheme": "italian_cod"
         },
         {
+          "identifier": "500293",
+          "scheme": "openpolis"
+        },
+        {
           "identifier": "Q16164768",
           "scheme": "wikidata"
         }
@@ -3762,8 +3766,16 @@
           "url": "https://facebook.com/Paolo-Alli-506353226081363"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/PaoloAlli"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/paoloalli"
+        },
+        {
+          "note": "website",
+          "url": "http://www.paoloalli.it"
         }
       ],
       "name": "ALLI Paolo",
@@ -3779,6 +3791,16 @@
         },
         {
           "lang": "en",
+          "name": "Paolo Alli",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Paolo ALLI",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
           "name": "Paolo Alli",
           "note": "multilingual"
         },
@@ -10327,6 +10349,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Matteo_Richetti"
+        },
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Matteo_Richetti"
@@ -21027,7 +21053,7 @@
       "email": "PISANO_G@CAMERA.IT",
       "family_name": "Pisano",
       "gender": "male",
-      "given_name": "Girolamo",
+      "given_name": "Girolamon",
       "id": "4984377e-cb75-4dc3-bfba-1927b70f1339",
       "identifiers": [
         {
@@ -28329,6 +28355,11 @@
         },
         {
           "lang": "en",
+          "name": "Giuseppe Galati",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Giuseppe Galati",
           "note": "multilingual"
         },
@@ -74602,6 +74633,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "am",
+          "name": "ፓዖሎ ጄንቲሎኒ",
+          "note": "multilingual"
+        },
+        {
           "lang": "an",
           "name": "Paolo Gentiloni",
           "note": "multilingual"
@@ -81890,7 +81926,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Area_Popolare.svg",
       "name": "AREA POPOLARE (NCD-UDC)",
       "other_names": [
         {
@@ -81939,7 +81975,7 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Area_Popolare.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Area_Popolare.svg",
       "name": "AREA POPOLARE-NCD-CENTRISTI PER L'ITALIA",
       "other_names": [
         {
