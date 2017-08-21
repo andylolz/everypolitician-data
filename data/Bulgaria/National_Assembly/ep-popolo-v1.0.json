@@ -7575,6 +7575,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Boiko Borisov",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "بویکو بوریسوف",
           "note": "multilingual"
@@ -25411,6 +25416,11 @@
         {
           "lang": "ru",
           "name": "Данаилов, Стефан",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "史特凡·丹爾洛夫",
           "note": "multilingual"
         }
       ]
@@ -45656,6 +45666,10 @@
         {
           "note": "Wikipedia (bg)",
           "url": "https://bg.wikipedia.org/wiki/Юлияна_Дончева"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Yuliana_Doncheva"
         }
       ],
       "name": "ЮЛИЯНА ДОНЧЕВА ПЕТКОВА",
@@ -45677,6 +45691,21 @@
         {
           "lang": "en",
           "name": "IULIANA DONCHEVA PETKOVA",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Yuliana Doncheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Yuliana Doncheva",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Yuliana Doncheva",
           "note": "multilingual"
         }
       ]
