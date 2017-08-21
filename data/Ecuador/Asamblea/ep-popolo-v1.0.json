@@ -3844,7 +3844,7 @@
       "name": "René Caza"
     },
     {
-      "birth_date": "1962",
+      "birth_date": "1962-12-08",
       "contact_details": [
         {
           "type": "twitter",
@@ -6360,10 +6360,6 @@
         }
       ],
       "links": [
-        {
-          "note": "Wikipedia (es)",
-          "url": "https://es.wikipedia.org/wiki/Moisés_Tacle"
-        },
         {
           "note": "facebook",
           "url": "https://facebook.com/MoisesTacleEC"
