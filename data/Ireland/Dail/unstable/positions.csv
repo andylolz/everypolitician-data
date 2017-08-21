@@ -2,7 +2,7 @@ id,name,position,start_date,end_date,type
 71ad0227-ac53-4f6f-b1a1-077e5c7e7494,Paschal Donohoe,Minister for Public Expenditure and Reform,2016-05-06,,cabinet
 71ad0227-ac53-4f6f-b1a1-077e5c7e7494,Paschal Donohoe,"Minister for Transport, Tourism and Sport",2014-07-11,2016-05-06,cabinet
 2da32874-0427-426a-84e6-044dbed6991b,Willie O'Dea,Minister for Defence,"",,cabinet
-30317025-111d-4fad-b4d0-3a169dbd1b95,Michael Noonan,Minister for Finance,2011-03-09,,cabinet
+30317025-111d-4fad-b4d0-3a169dbd1b95,Michael Noonan,Minister for Finance,2011-03-09,2017-06-14,cabinet
 30317025-111d-4fad-b4d0-3a169dbd1b95,Michael Noonan,Minister for Health,1994-12-15,1997-06-26,cabinet
 30317025-111d-4fad-b4d0-3a169dbd1b95,Michael Noonan,"Minister for Jobs, Enterprise and Innovation",1986-02-14,1987-03-10,cabinet
 30317025-111d-4fad-b4d0-3a169dbd1b95,Michael Noonan,Minister for Justice and Equality,1982-12-14,1986-02-14,cabinet
@@ -52,6 +52,7 @@ fee6a407-8bd8-43c0-a9ce-f5b1c8ecb08b,Frances Fitzgerald,Minister for Children an
 31eec3de-c928-40c3-a8dd-7e6ce781755b,Enda Kenny,Taoiseach,2011-03-09,2017-06-14,cabinet
 31eec3de-c928-40c3-a8dd-7e6ce781755b,Enda Kenny,"Minister for Arts, Heritage and the Gaeltacht",1994-12-15,1997-06-26,cabinet
 31eec3de-c928-40c3-a8dd-7e6ce781755b,Enda Kenny,Minister for Defence,2014-05-07,2014-07-11,cabinet
+31eec3de-c928-40c3-a8dd-7e6ce781755b,Enda Kenny,Minister for Defence,2016-05-06,2017-06-14,cabinet
 4c070a31-285a-41bf-b186-347189be34a6,John Curran,Minister of State at the Department of the Taoiseach,"",,cabinet
 7ffb0a7d-b904-490a-ad02-fdce1debf758,Mary Mitchell O'Connor,"Minister for Jobs, Enterprise and Innovation",2016-05-06,,cabinet
 7814a872-bbbd-4bec-9e83-dfe119ebe6cc,Patrick O'Donovan,Minister of State for Tourism and Sport,2016-05-19,,cabinet
@@ -63,5 +64,6 @@ fee6a407-8bd8-43c0-a9ce-f5b1c8ecb08b,Frances Fitzgerald,Minister for Children an
 88eb72eb-6288-48d3-bcb2-a5877991fd0b,Micheál Martin,"Minister for Jobs, Enterprise and Innovation",2004-09-29,2008-05-07,cabinet
 d79d8c55-88a7-4c87-9642-60eb38db2c97,Richard Bruton,Minister for Education and Skills,2016-05-06,,cabinet
 d79d8c55-88a7-4c87-9642-60eb38db2c97,Richard Bruton,"Minister for Jobs, Enterprise and Innovation",1994-12-05,1997-06-26,cabinet
+d79d8c55-88a7-4c87-9642-60eb38db2c97,Richard Bruton,"Minister for Jobs, Enterprise and Innovation",1994-12-15,1997-06-26,cabinet
 d79d8c55-88a7-4c87-9642-60eb38db2c97,Richard Bruton,"Minister for Jobs, Enterprise and Innovation",2011-03-09,2016-05-06,cabinet
 b10bf1ad-ed83-4f17-94d7-de6363b1baec,Eamon Gilmore,Minister for Foreign Affairs and Trade,2011-03-09,2014-07-11,cabinet
