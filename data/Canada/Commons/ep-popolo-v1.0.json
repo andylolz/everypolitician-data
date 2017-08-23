@@ -689,6 +689,14 @@
           "url": "https://gl.wikipedia.org/wiki/Justin_Trudeau"
         },
         {
+          "note": "Wikipedia (gu)",
+          "url": "https://gu.wikipedia.org/wiki/જસ્ટિન_ટ્રુડો"
+        },
+        {
+          "note": "Wikipedia (hak)",
+          "url": "https://hak.wikipedia.org/wiki/Justin_Trudeau"
+        },
+        {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/ג'סטין_טרודו"
         },
@@ -1075,6 +1083,16 @@
         },
         {
           "lang": "gl",
+          "name": "Justin Trudeau",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gu",
+          "name": "જસ્ટિન ટ્રુડો",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
           "name": "Justin Trudeau",
           "note": "multilingual"
         },
@@ -3900,6 +3918,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Bob_Rae"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Рэй,_Боб"
         },
         {
           "note": "Wikipedia (uk)",
@@ -14113,6 +14135,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Chris_Alexander_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Александер,_Крис"
         },
         {
           "note": "Wikipedia (uk)",
@@ -30836,6 +30862,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Христя_Фріланд"
+        },
+        {
+          "note": "Wikipedia (ukwikiquote)",
+          "url": "https://ukwikiquote.wikipedia.org/wiki/Христя_Фріланд"
         },
         {
           "note": "Wikipedia (zh)",
