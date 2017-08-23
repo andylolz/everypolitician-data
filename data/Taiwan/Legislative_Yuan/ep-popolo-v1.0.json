@@ -207,6 +207,10 @@
           "url": "https://en.wikipedia.org/wiki/Chiu_Chih-wei"
         },
         {
+          "note": "Wikipedia (hak)",
+          "url": "https://hak.wikipedia.org/wiki/Hiû_Chṳ-vî"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/邱志偉_(政治人物)"
         }
@@ -220,6 +224,11 @@
         {
           "lang": "en",
           "name": "Chiu Chi-wei",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Hiû Chṳ-vî",
           "note": "multilingual"
         },
         {
@@ -4942,6 +4951,10 @@
           "url": "https://commons.wikipedia.org/wiki/Category:Chen_Chieh-ju"
         },
         {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Chen_Chieh-ju_(born_1944)"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/陳節如"
         }
@@ -4951,6 +4964,11 @@
         {
           "name": "陳節如",
           "note": "alternate"
+        },
+        {
+          "lang": "en",
+          "name": "Chen Chieh-ju",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -5699,6 +5717,10 @@
           "url": "https://en.wikipedia.org/wiki/Chiu_Yi-ying"
         },
         {
+          "note": "Wikipedia (hak)",
+          "url": "https://hak.wikipedia.org/wiki/Hiû_Ngi-yìn"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/邱議瑩"
         },
@@ -5716,6 +5738,11 @@
         {
           "lang": "en",
           "name": "Chiu Yi-ying",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hak",
+          "name": "Hiû Ngi-yìn",
           "note": "multilingual"
         },
         {
@@ -11422,6 +11449,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "it",
+          "name": "Partito Progressista Democratico (Taiwan)",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Демократическая прогрессивная партия (Тайвань)",
           "note": "multilingual"
@@ -11754,6 +11786,11 @@
         {
           "lang": "es",
           "name": "Partido Democratico Progresista",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "PPD",
           "note": "multilingual"
         }
       ]
