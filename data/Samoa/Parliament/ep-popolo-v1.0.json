@@ -85,6 +85,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0gh849r",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q16731362",
           "scheme": "wikidata"
         }
@@ -1275,6 +1279,10 @@
           "url": "https://ko.wikipedia.org/wiki/투일라에파_사일렐레_말리엘레가오이"
         },
         {
+          "note": "Wikipedia (la)",
+          "url": "https://la.wikipedia.org/wiki/Tuilaepa_Aiono_Sailele_Malielegaoi"
+        },
+        {
           "note": "Wikipedia (lb)",
           "url": "https://lb.wikipedia.org/wiki/Sailele_Tuila'epa_Malielegaoi"
         },
@@ -1428,6 +1436,11 @@
         {
           "lang": "ko",
           "name": "투일라에파 사일렐레 말리엘레가오이",
+          "note": "multilingual"
+        },
+        {
+          "lang": "la",
+          "name": "Tuilaepa Aiono Sailele Malielegaoi",
           "note": "multilingual"
         },
         {
