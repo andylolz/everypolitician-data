@@ -12455,6 +12455,10 @@
           "url": "https://als.wikipedia.org/wiki/António_Guterres"
         },
         {
+          "note": "Wikipedia (an)",
+          "url": "https://an.wikipedia.org/wiki/António_Guterres"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/أنطونيو_غوتيريس"
         },
@@ -12625,6 +12629,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/안토니우_구테흐스"
+        },
+        {
+          "note": "Wikipedia (ku)",
+          "url": "https://ku.wikipedia.org/wiki/António_Guterres"
         },
         {
           "note": "Wikipedia (la)",
@@ -37827,6 +37835,9 @@
       "images": [
         {
           "url": "http://app.parlamento.pt/webutils/getimage.aspx?id=1652&type=deputado"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/FernandoRosas.jpg"
         }
       ],
       "links": [
