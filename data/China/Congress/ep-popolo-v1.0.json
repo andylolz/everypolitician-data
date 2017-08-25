@@ -10702,10 +10702,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Michael_Tien_Puk_Sun.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/15/田北辰扮海盜.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Michael_Tien_Puk_Sun.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/田北辰扮海盜.jpg"
         }
       ],
       "links": [
@@ -38833,6 +38833,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "an",
+          "name": "Xi Jinping",
+          "note": "multilingual"
+        },
+        {
           "lang": "ar",
           "name": "شي جين بينغ",
           "note": "multilingual"
@@ -49783,6 +49788,11 @@
         {
           "lang": "ru",
           "name": "Го Шэнкунь",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Quách Thanh Côn",
           "note": "multilingual"
         },
         {
