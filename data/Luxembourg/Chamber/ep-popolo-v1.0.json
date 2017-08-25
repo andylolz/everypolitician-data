@@ -958,12 +958,27 @@
       "name": "Guy Arendt",
       "other_names": [
         {
+          "lang": "de",
+          "name": "Guy Arendt",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Guy Arendt",
           "note": "multilingual"
         },
         {
+          "lang": "es",
+          "name": "Guy Arendt",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Guy Arendt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
           "name": "Guy Arendt",
           "note": "multilingual"
         },
@@ -974,6 +989,11 @@
         },
         {
           "lang": "nl",
+          "name": "Guy Arendt",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
           "name": "Guy Arendt",
           "note": "multilingual"
         }
