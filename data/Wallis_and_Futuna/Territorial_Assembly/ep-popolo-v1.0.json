@@ -185,8 +185,16 @@
       "id": "8277e5e2-5983-4f6f-8553-97af9a89aebb",
       "identifiers": [
         {
+          "identifier": "610824",
+          "scheme": "assemblee_nationale"
+        },
+        {
           "identifier": "Q3018926",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "18543",
+          "scheme": "sycomore"
         },
         {
           "identifier": "Q3018926",
@@ -226,6 +234,11 @@
         },
         {
           "lang": "en",
+          "name": "David Vergé",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
           "name": "David Vergé",
           "note": "multilingual"
         },
@@ -298,6 +311,10 @@
       "given_name": "Sosefo",
       "id": "8d4e3072-b63e-4bf5-80e0-b69f3ad3674b",
       "identifiers": [
+        {
+          "identifier": "suve",
+          "scheme": "esec"
+        },
         {
           "identifier": "Q16677532",
           "scheme": "everypolitician_legacy"
