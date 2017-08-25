@@ -4916,6 +4916,10 @@
           "url": "https://sh.wikipedia.org/wiki/Sandra_Perković"
         },
         {
+          "note": "Wikipedia (sl)",
+          "url": "https://sl.wikipedia.org/wiki/Sandra_Perković"
+        },
+        {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Сандра_Перковић"
         },
@@ -7771,6 +7775,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "hu",
+          "name": "Branko Grčić",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Branko Grčić",
           "note": "multilingual"
@@ -7788,6 +7797,11 @@
         {
           "lang": "sr",
           "name": "Бранко Грчић",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Branko Grčić",
           "note": "multilingual"
         },
         {
@@ -12972,7 +12986,7 @@
       "links": [
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Anka_Mrak_-_Taritaš"
+          "url": "https://en.wikipedia.org/wiki/Anka_Mrak-Taritaš"
         },
         {
           "note": "Wikipedia (hr)",
