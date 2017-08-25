@@ -2686,6 +2686,10 @@
       "id": "167a93eb-dcd3-4ea1-8e13-4d2d57fe51b5",
       "identifiers": [
         {
+          "identifier": "biography/Moon-Jae-In",
+          "scheme": "britannica"
+        },
+        {
           "identifier": "19531110",
           "scheme": "everypolitician_legacy"
         },
@@ -17866,6 +17870,10 @@
       "gender": "male",
       "id": "7a18c77e-e204-45ba-84ae-1314773e9cfb",
       "identifiers": [
+        {
+          "identifier": "biography/Ahn-Cheol-Soo",
+          "scheme": "britannica"
+        },
         {
           "identifier": "19621122",
           "scheme": "everypolitician_legacy"
