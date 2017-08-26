@@ -10,37 +10,38 @@
       {
         "lang": "en",
         "name": "All Progressives Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "مؤتمر الجميع التقدميين النيجيري",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Congresso di Tutti i Progressisti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "All Progressives Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Congrés de Tots els Progressistes",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "全体进步大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "全体進歩議会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -61,152 +62,146 @@
       {
         "lang": "pt",
         "name": "Partido Democrático Popular",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "People’s Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Ludowa Partia Demokratyczna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ig",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti démocratique populaire",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Democrático Popular",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yo",
         "name": "Ẹgbẹ́ Olóṣèlúaráìlú àwọn Aráàlù",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ms",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "People’s Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito democratico del popolo",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "حزب الشعب الديمقراطي",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "Demokratikus Néppárt",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Народная демократическая партия",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Popola Demokratia Partio",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Democratische Volkspartij",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr",
         "name": "Народна демократска странка",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Democràtic dels Pobles de Nigèria",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "人民民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido Democrático do Povo",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ig",
         "name": "PDP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Democratico del Pueblo de Nigeria",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Democrático del Pueblo de Nigeria",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Democratico Popular",
-        "note": "multilingual"
-      },
-      {
-        "lang": "yo",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "yo",
         "name": "PDP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "yo",
         "name": "Egbe Toseluarailu awon Aralu",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -227,27 +222,20 @@
       {
         "lang": "en",
         "name": "All Progressives Grand Alliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ig",
-        "name": "All Progressives Grand Alliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "All Progressives Grand Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Gran Aliança de Tots els Progressistes",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ig",
         "name": "All Progressive Grand Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -262,7 +250,8 @@
       {
         "lang": "en",
         "name": "Labour Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -283,7 +272,8 @@
       {
         "lang": "en",
         "name": "Accord",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -298,12 +288,14 @@
       {
         "lang": "en",
         "name": "Social Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Social Democràtic de Nigèria",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   }
