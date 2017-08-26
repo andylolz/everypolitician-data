@@ -10,12 +10,14 @@
       {
         "lang": "fr",
         "name": "élections législatives maliennes de 1992",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian parliamentary election, 1992",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -33,12 +35,14 @@
       {
         "lang": "fr",
         "name": "élections législatives maliennes de 1988",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian parliamentary election, 1988",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -56,12 +60,14 @@
       {
         "lang": "fr",
         "name": "élections législatives maliennes de 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian parliamentary election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -79,17 +85,20 @@
       {
         "lang": "fr",
         "name": "élections législatives maliennes de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian parliamentary election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Elections legislatives maliennes de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -110,12 +119,14 @@
       {
         "lang": "ru",
         "name": "Парламентские выборы 1964 года в Мали",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian parliamentary election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -133,12 +144,14 @@
       {
         "lang": "ru",
         "name": "Всеобщие выборы 1979 года в Мали",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malian general election, 1979",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -156,7 +169,8 @@
       {
         "lang": "en",
         "name": "Malian general election, 1985",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -174,7 +188,8 @@
       {
         "lang": "en",
         "name": "Malian parliamentary election, 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -192,42 +207,50 @@
       {
         "lang": "en",
         "name": "Malian parliamentary election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives maliennes de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Мали",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "parlementaire verkiezingen in Mali in 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "Malin parlamenttivaalit 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2013年馬利國會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne w Mali w 2013 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Mali del 2013",
-        "note": "multilingual"
+        "name": "elezioni parlamentari in Mali del 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -246,7 +269,8 @@
       {
         "lang": "en",
         "name": "Malian parliamentary election, April 1997",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -264,7 +288,8 @@
       {
         "lang": "en",
         "name": "Malian parliamentary election, July 1997",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -282,7 +307,8 @@
       {
         "lang": "en",
         "name": "Malian parliamentary election, 2018",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
