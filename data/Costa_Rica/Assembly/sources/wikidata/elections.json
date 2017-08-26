@@ -10,47 +10,56 @@
       {
         "lang": "pt",
         "name": "Eleições gerais na Costa Rica em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory powszechne w Kostaryce w 2010 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vi",
         "name": "Tổng tuyển cử Costa Rica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Costa Rican general election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle costaricienne de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Коста-Рике 2010 года",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -75,102 +84,122 @@
       {
         "lang": "zh-hans",
         "name": "2006年哥斯达黎加大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2006年哥斯達黎加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "2006年哥斯達黎加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "2006年哥斯达黎加大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-sg",
         "name": "2006年哥斯达黎加大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-tw",
         "name": "2006年哥斯大黎加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle costaricienne de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Costa Rican general election, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Коста-Рике 2006 года",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2006年哥斯达黎加大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2006年哥斯大黎加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Election presidentielle costaricaine de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Élection présidentielle costaricaine 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Élection présidentielle du Costa Rica 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Élection présidentielle costaricaine de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones Presidenciales de Costa Rica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica en 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -195,17 +224,20 @@
       {
         "lang": "en",
         "name": "Costa Rican Constitutional Assembly election, 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones para diputados constituyentes de Costa Rica de 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -223,17 +255,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1919",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1919",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1919",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -257,22 +292,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1913",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1913",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "da",
         "name": "Valget i Costa Rica 1913",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1913",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -295,17 +334,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1917",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1917",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1917",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -329,17 +371,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1923",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1923",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1923",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -363,17 +408,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1928",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1928",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1928",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -397,17 +445,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -431,17 +482,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1936",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1936",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1936",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -465,17 +519,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1940",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1940",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1940",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -499,17 +556,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -533,22 +593,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -572,17 +636,20 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1949",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1949",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1949",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -600,22 +667,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -639,22 +710,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -678,22 +753,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -717,22 +796,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -756,22 +839,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -795,22 +882,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -834,22 +925,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -873,22 +968,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -912,22 +1011,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -951,22 +1054,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -990,22 +1097,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1030,27 +1141,32 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Коста-Рике 2002 года",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1075,17 +1191,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1915",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1915",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1915",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1103,17 +1222,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1921",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1921",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1921",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1131,17 +1253,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1930",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1930",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1930",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1159,17 +1284,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1934",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1934",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1934",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1187,17 +1315,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1938",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1938",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1938",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1215,17 +1346,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1942",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1942",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1942",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1243,22 +1377,26 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1946",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1946",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni parlamentari in Costa Rica del 1946",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1946",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1276,72 +1414,74 @@
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle costaricienne de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Costa Rican general election, 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Коста-Рике 2014 года",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nb",
         "name": "Valget i Costa Rica 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "2014년 코스타리카 대통령 선거",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στην Κόστα Ρίκα 2014",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Costa Rican general election, 2014",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Costa Rican general election, 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "da",
         "name": "Valget i Costa Rica 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Präsidentschaftswahl in Costa Rica 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2014年哥斯大黎加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1364,22 +1504,26 @@
       {
         "lang": "en",
         "name": "Costa Rican general election, 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Costa Rica de 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Costa Rica del 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בקוסטה ריקה 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1403,17 +1547,20 @@
       {
         "lang": "en",
         "name": "Costa Rican parliamentary election, 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Costa Rica de 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הפרלמנטריות בקוסטה ריקה 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
