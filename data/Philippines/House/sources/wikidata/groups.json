@@ -8,19 +8,16 @@
     ],
     "other_names": [
       {
-        "lang": "tl",
-        "name": "Buhay Hayaan Yumabong",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Buhay Hayaan Yumabong",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tl",
         "name": "Ika-14 Konggreso ng Pilipinas",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -35,7 +32,8 @@
       {
         "lang": "en",
         "name": "Advocacy for Teacher Empowerment Through Action, Cooperation and Harmony Towards Educational Reforms",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -48,19 +46,16 @@
     ],
     "other_names": [
       {
-        "lang": "nl",
-        "name": "Bayan Muna",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Bayan Muna",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "民族第一",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -75,57 +70,56 @@
       {
         "lang": "lt",
         "name": "AKBAYAN",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Akbayan Citizens' Action Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Akbayan Citizens' Action Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Akbayan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Acción de los Ciudadanos",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tl",
-        "name": "Akbayan Citizens' Action Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Akbayan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "アカバヤン党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Akbayan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "AKBAYAN Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Accion de los Ciudadanos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -146,7 +140,8 @@
       {
         "lang": "en",
         "name": "Ako Bicol Political Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -161,27 +156,8 @@
       {
         "lang": "en",
         "name": "Abono",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Abono",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Abono",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Abono",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Abono",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -196,37 +172,32 @@
       {
         "lang": "en",
         "name": "GABRIELA",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ceb",
-        "name": "GABRIELA",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ckb",
         "name": "گابریێلا",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tl",
-        "name": "GABRIELA",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "加布里埃拉妇女党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tl",
         "name": "Ika-14 Konggreso ng Pilipinas",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "菲律賓全國婦女組織聯盟",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -247,7 +218,8 @@
       {
         "lang": "en",
         "name": "Cooperative NATCCO Network Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -268,7 +240,8 @@
       {
         "lang": "en",
         "name": "Agricultural Sector Alliance of the Philippines",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -283,17 +256,20 @@
       {
         "lang": "en",
         "name": "Citizens' Battle Against Corruption",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ceb",
         "name": "CIBAC",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ceb",
         "name": "Citizens' Battle against Corruption",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -308,7 +284,8 @@
       {
         "lang": "en",
         "name": "Magdalo Party-List",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -323,7 +300,8 @@
       {
         "lang": "en",
         "name": "An Waray",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -338,12 +316,14 @@
       {
         "lang": "en",
         "name": "Alliance of Concerned Teachers",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "关心教师联盟",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -364,12 +344,14 @@
       {
         "lang": "en",
         "name": "Butil Farmers Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "穀物農民党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -390,7 +372,8 @@
       {
         "lang": "en",
         "name": "Trade Union Congress Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -405,7 +388,8 @@
       {
         "lang": "en",
         "name": "Kabataan Partylist",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -420,12 +404,14 @@
       {
         "lang": "en",
         "name": "Anakpawis",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "劳动群众",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -446,7 +432,8 @@
       {
         "lang": "en",
         "name": "Alliance of Volunteer Educators",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   }
