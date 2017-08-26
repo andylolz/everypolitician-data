@@ -10,42 +10,50 @@
       {
         "lang": "pt",
         "name": "Eleições gerais no Panamá em 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Панаме",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Panamanian general election, 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Президентские выборы в Панаме",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panama de 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Panama de 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Panamá de 2009",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -66,7 +74,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1924",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -84,7 +93,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1928",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -102,7 +112,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -120,7 +131,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1936",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -138,7 +150,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1940",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -156,7 +169,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -174,7 +188,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1956",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -192,7 +207,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1952",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -210,7 +226,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1960",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -228,7 +245,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -246,12 +264,14 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -269,7 +289,8 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1968",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -287,12 +308,14 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -310,17 +333,20 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panama de 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -338,12 +364,14 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -361,12 +389,14 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -384,7 +414,8 @@
       {
         "lang": "en",
         "name": "Panamanian parliamentary election, 1972",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -402,7 +433,8 @@
       {
         "lang": "en",
         "name": "Panamanian parliamentary election, 1918",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -420,7 +452,8 @@
       {
         "lang": "en",
         "name": "Panamanian parliamentary election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -438,7 +471,8 @@
       {
         "lang": "en",
         "name": "Panamanian parliamentary election, 1980",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -456,42 +490,50 @@
       {
         "lang": "en",
         "name": "Panamanian general election, 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panamá de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Панаме",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales panaméennes de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στον Παναμά 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni generali a Panama del 2014",
-        "note": "multilingual"
+        "name": "elezioni generali a Panama del 2014",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2014年巴拿馬大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Panama de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
