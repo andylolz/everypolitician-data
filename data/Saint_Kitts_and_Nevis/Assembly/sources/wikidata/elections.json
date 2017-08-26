@@ -10,42 +10,50 @@
       {
         "lang": "pt",
         "name": "Eleições gerais em São Cristóvão e Névis em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Saint Kitts i Nevis w 2010 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales de Saint-Christophe-et-Niévès",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2010年聖克里斯多福及尼維斯大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "2010年圣基茨和尼维斯大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições gerais em São Cristóvão e Nevis em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -63,12 +71,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 1980",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 1980",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -86,12 +96,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -109,12 +121,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -132,12 +146,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 1993",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 1993",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -155,12 +171,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -178,12 +196,14 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 2000",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 2000",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -201,22 +221,26 @@
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições gerais em São Cristóvão e Névis em 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições gerais de São Cristóvão e Nevis em 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -234,27 +258,32 @@
       {
         "lang": "el",
         "name": "Γενικές εκλογές στον Άγιο Χριστόφορο και Νέβις 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Saint Kitts and Nevis general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Сент-Китсе и Невисе",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2015年聖克里斯多福及尼維斯國會大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות בסנט קיטס ונוויס 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
