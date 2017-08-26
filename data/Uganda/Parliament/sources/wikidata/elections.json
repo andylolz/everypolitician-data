@@ -10,52 +10,62 @@
       {
         "lang": "de",
         "name": "Präsidentschaftswahl in Uganda 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Уганде",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Ugandan general election, 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "الانتخابات الرئاسية الأوغندية 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Uganda del 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Ugandan general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2011年烏幹達大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "2011年烏干達大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Präsidentschaftswahlen in Uganda 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "الانتخابات الرئاسية الاوغندية 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -75,17 +85,20 @@
       {
         "lang": "de",
         "name": "Wahl zum Legislativrat im Protektorat Uganda 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Ugandan general election, 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Uganda de 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -103,37 +116,38 @@
       {
         "lang": "de",
         "name": "Präsidentschaftswahlen in Uganda 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Ugandan general election, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum Presiden Uganda 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Uganda del 2006",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Ugandan general election, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "Alegeri prezidențiale în Uganda, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Uganda de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -151,7 +165,8 @@
       {
         "lang": "en",
         "name": "Ugandan Constituent Assembly election, 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -169,12 +184,14 @@
       {
         "lang": "en",
         "name": "Ugandan general election, 1961",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Uganda de 1961",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -192,12 +209,14 @@
       {
         "lang": "en",
         "name": "Ugandan general election, 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Uganda de 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -215,22 +234,26 @@
       {
         "lang": "en",
         "name": "Ugandan general election, 1980",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1980年烏幹達大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1980年烏干達大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Uganda de 1980",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -248,7 +271,8 @@
       {
         "lang": "en",
         "name": "Ugandan general election, 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -266,7 +290,8 @@
       {
         "lang": "en",
         "name": "Ugandan parliamentary election, 1996",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -284,7 +309,8 @@
       {
         "lang": "en",
         "name": "Ugandan parliamentary election, 2001",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -302,32 +328,38 @@
       {
         "lang": "fr",
         "name": "élections générales ougandaises de 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Ugandan general election, 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Выборы в Уганде в 2016 году",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sco",
         "name": "2016 Ugandan general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni generali in Uganda del 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στην Ουγκάντα 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
