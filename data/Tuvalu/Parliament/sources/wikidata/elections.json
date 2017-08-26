@@ -10,42 +10,50 @@
       {
         "lang": "pt",
         "name": "Eleições gerais em Tuvalu em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Tuvalu w 2010 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives tuvaluanes de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Tuvaluan general election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "Tuvalun parlamenttivaalit 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2010年吐瓦魯大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parlamentswahl in Tuvalu 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleição geral de Tuvalu de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -63,12 +71,14 @@
       {
         "lang": "fr",
         "name": "élections législatives tuvaluanes de 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Tuvaluan general election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -86,12 +96,14 @@
       {
         "lang": "fr",
         "name": "élections législatives tuvaluanes de 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Tuvaluan general election, 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -109,7 +121,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, 1977",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -127,7 +140,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, 1981",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -145,7 +159,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, 1985",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -163,7 +178,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -181,7 +197,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -199,7 +216,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, November 1993",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -217,7 +235,8 @@
       {
         "lang": "en",
         "name": "Tuvaluan general election, September 1993",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -235,37 +254,32 @@
       {
         "lang": "fr",
         "name": "élections législatives tuvaluanes de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Тувалу",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Tuvaluan general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Tuvalu w 2015 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στο Τουβαλού 2015",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Tuvaluan general election, 2015",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Tuvaluan general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
