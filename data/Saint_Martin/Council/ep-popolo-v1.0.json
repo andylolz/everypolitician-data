@@ -522,7 +522,8 @@
         {
           "lang": "en",
           "name": "Rally Responsibility Success",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -540,7 +541,8 @@
         {
           "lang": "en",
           "name": "Team Daniel Gibbs 2012",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
