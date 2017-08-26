@@ -10,47 +10,56 @@
       {
         "lang": "ko",
         "name": "1999년 말레이시아 총선",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malaysian general election, 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1999)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "馬來西亞第10屆全國大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "马来西亚第10届全国大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-hant",
         "name": "1999年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-cn",
         "name": "1999年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -72,52 +81,62 @@
       {
         "lang": "ko",
         "name": "2004년 말레이시아 총선",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malaysian general election, 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (2004)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2004年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2004年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "第11届全国大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia 2004",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-hant",
         "name": "第11屆全國大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -140,112 +159,122 @@
       {
         "lang": "zh-hans",
         "name": "2008年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2008年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "2008年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum Malaysia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parlamentswahlen in Malaysia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "2008년 말레이시아 총선",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malaysian general election, 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "மலேசியப் பொதுத் தேர்தல்",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de-ch",
         "name": "Parlamentswahlen in Malaysia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Βουλευτικές εκλογές στη Μαλαισία 2008",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Malaysian general election, 2008",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Malaysian general election, 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2008年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones Generales de Malasia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "马来西亚第12届大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "2008年マレーシア総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia ke-12",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia ke-12",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-hant",
         "name": "馬來西亞第12屆大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -267,27 +296,32 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1964年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1964年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -311,27 +345,32 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1974年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1974年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -355,52 +394,62 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1969",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "1969年マレーシア総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1969",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1969)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1969年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1969年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "1969年総選挙 (マレーシア)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum 1969",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaya 1969",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia 1969",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -424,32 +473,38 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1978)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1978年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1978年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -473,32 +528,38 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1982)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1982年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1982年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -522,37 +583,44 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1990)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1990年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1990年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -576,87 +644,92 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "2013년 말레이시아 총선",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Malaysian general election, 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Malaysian general election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives malaisiennes de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "การเลือกตั้งทั่วไปในประเทศมาเลเซีย พ.ศ. 2556",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (2013)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2013年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "min",
         "name": "Pamiliahan umum Malaysia 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parlamentswahlen in Malaysia 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "su",
         "name": "Pamilihan umum Malaysia 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum Malaysia 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "மலேசியப் பொதுத் தேர்தல், 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yue",
         "name": "2013年馬來西亞選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni parlamentari in Malesia del 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "2013年マレーシアの総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -680,37 +753,44 @@
       {
         "lang": "en",
         "name": "Malaysian general election, 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1995)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1995年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1995年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihanraya Umum Malaysia 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ms",
         "name": "Pilihan Raya Umum Malaysia 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -734,27 +814,32 @@
       {
         "lang": "en",
         "name": "Malaysian general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Malaysia 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы в Малайзии (1986)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1986年馬來西亞大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1986年马来西亚大选",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -778,7 +863,8 @@
       {
         "lang": "en",
         "name": "Next Malaysian general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
