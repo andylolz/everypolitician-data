@@ -10,52 +10,62 @@
       {
         "lang": "de",
         "name": "Präsidentschaftswahl in Guatemala 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στη Γουατεμάλα",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Guatemalteekse verkiezingen 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle guatémaltèque de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Guatemala",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones de presidenciales de Guatemala de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales en Guatemala en 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -78,47 +88,56 @@
       {
         "lang": "pl",
         "name": "Wybory powszechne w Gwatemali w 2011 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Президентские и парламентские выборы в Гватемале",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle guatémaltèque de 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 2011",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni generali in Guatemala del 2011",
-        "note": "multilingual"
+        "name": "elezioni generali in Guatemala del 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Guatemalan general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2011年瓜地馬拉大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Президентские выборы в Гватемале",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -137,12 +156,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -160,17 +181,20 @@
       {
         "lang": "fr",
         "name": "élection présidentielle guatémaltèque de 1926",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 1926",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1926",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -188,17 +212,20 @@
       {
         "lang": "fr",
         "name": "élection présidentielle guatémaltèque de 1931",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 1931",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1931",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -219,17 +246,20 @@
       {
         "lang": "fr",
         "name": "élection présidentielle guatémaltèque de 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -252,17 +282,20 @@
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1957",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 1957",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Guatemala de 1957",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -280,12 +313,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -306,12 +341,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1955",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1955",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -329,12 +366,14 @@
       {
         "lang": "es",
         "name": "Elecciones Asamblea Nacional Constituyente de Guatemala de 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan Constitutional Assembly election, 1984",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -352,12 +391,14 @@
       {
         "lang": "es",
         "name": "Elecciones Asamblea Nacional Constituyente de Guatemala de 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan Constitutional Assembly election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -375,7 +416,8 @@
       {
         "lang": "en",
         "name": "Guatemalan Constituent Assembly election, 1935",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -393,7 +435,8 @@
       {
         "lang": "en",
         "name": "Guatemalan Constitutional Assembly election, 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -411,12 +454,14 @@
       {
         "lang": "en",
         "name": "Guatemalan Constitutional Convention election, 1927",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones Asamblea Nacional Constituyente de Guatemala de 1927",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -434,12 +479,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1954",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1954",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -460,12 +507,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -486,12 +535,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -512,12 +563,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -538,12 +591,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -564,22 +619,26 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "1982年瓜地馬拉總統選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "1982年危地馬拉總統選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -597,12 +656,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1985",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1985",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -623,12 +684,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -649,17 +712,20 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1996",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -681,12 +747,14 @@
       {
         "lang": "en",
         "name": "Guatemalan general election, 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -708,12 +776,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1923",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1923",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -731,12 +801,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -754,12 +826,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1929",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1929",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -777,12 +851,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -800,12 +876,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1948",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -823,12 +901,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1950",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1950",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -846,12 +926,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -869,12 +951,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1961",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de 1961",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -892,12 +976,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, 1959",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "elecciones legislativas de Guatemala de 1959",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -915,12 +1001,14 @@
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, November 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de noviembre de 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -938,37 +1026,44 @@
       {
         "lang": "es",
         "name": "Elecciones generales de Guatemala de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales guatémaltèques de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στη Γουατεμάλα 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2015年危地馬拉大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni generali in Guatemala del 2015",
-        "note": "multilingual"
+        "name": "elezioni generali in Guatemala del 2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "2015年グアテマラ総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -987,12 +1082,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Guatemala de octubre de 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Guatemalan parliamentary election, October 1944",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
