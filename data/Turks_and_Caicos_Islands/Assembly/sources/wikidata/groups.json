@@ -10,22 +10,26 @@
       {
         "lang": "en",
         "name": "Progressive National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "進步民族黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "进步民族党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "進步民族黨 (特克斯和凱科斯群島)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -40,7 +44,8 @@
       {
         "lang": "en",
         "name": "People's Democratic Movement",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   }

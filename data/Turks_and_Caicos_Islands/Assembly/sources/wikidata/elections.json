@@ -10,37 +10,44 @@
       {
         "lang": "pt",
         "name": "Eleições legislativas das Turcas e Caicos de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Turks and Caicos Islands general election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de las Islas Turcas y Caicos de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "2007-es Turks- és Caicos-szigeteki parlamenti választások",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות באיי טרקס וקייקוס 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições legislativas nas Turks e Caicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de las Islas Turcas y Caicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -58,12 +65,14 @@
       {
         "lang": "en",
         "name": "Turks and Caicos Islands general election, 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות באיי טרקס וקייקוס 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -81,22 +90,26 @@
       {
         "lang": "en",
         "name": "Turks and Caicos Islands general election, 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2012年特克斯與凱科斯群島大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות באיי טרקס וקייקוס 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2012年特克斯和凱科斯群島大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -115,17 +128,20 @@
       {
         "lang": "zh",
         "name": "2016年特克斯和凱科斯群島大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Turks and Caicos Islands general election, 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "הבחירות הכלליות באיי טרקס וקייקוס 2016",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
