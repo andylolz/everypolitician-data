@@ -10,132 +10,146 @@
       {
         "lang": "de",
         "name": "Partido Nuevo Progresista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "푸에르토리코 진보신당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Nuevo Progresista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "New Progressive Party of Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "الحزب الجديد التقدمي",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Nuovo Partito Progressista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido Novo Progressista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "新进步党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Новая прогрессивная партия Пуэрто-Рико",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Nieuw Progressieve Partij van Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Nou Progressista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nb",
         "name": "Partido Nuevo Progresista (Puerto Rico)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "プエルトリコ新進歩党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt-br",
         "name": "Partido Novo Progressista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Partido Nuevo Progresista de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ko",
         "name": "푸에르토리코 신진보당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Nuovo Partito Progressista di Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "pnp",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ca",
         "name": "PNP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "New Progressive Party of Puerto Rico（英文）",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "PNP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "pnp",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Partido Novo Progressista de Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt-br",
         "name": "PNP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "pnp",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt-br",
         "name": "Partido Novo Progressista de Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -157,92 +171,110 @@
       {
         "lang": "es",
         "name": "Partido Popular Democrático",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito Popolare Democratico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti populaire démocrate",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Popular Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bs",
         "name": "Narodna demokratska stranka (Portoriko)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "人民民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Народно-демократическая партия",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Populaire Democratische Partij",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Partido Popular Democrático",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Popular Democràtic",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido Popular Democrático",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "プエルトリコ人民民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Popular Democratico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Popular Democrático de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Popular Democratico de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Partito Popolare Democratico di Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Parti populaire démocrate de Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ca",
         "name": "PPD",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -263,1507 +295,1136 @@
       {
         "lang": "zh",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ky",
         "name": "Пуэрто-Рико эгемендик партиясы",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Portorykańska Partia Niepodległości",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eu",
         "name": "Puerto Ricoko Alderdi Independentista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bs",
         "name": "Portorikanska stranka nezavisnosti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uz",
         "name": "Puerto-Riko Mustaqillik Partiyasi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "oc",
         "name": "Partit Independentista Puertorican",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "Puerto Ricó-i Függetlenségi Párt",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cbk-zam",
         "name": "Partido Independencia Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sw",
         "name": "Chama cha Uhuru cha Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sq",
         "name": "Partia e Pavarur Portorikane",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "am",
         "name": "የፕዌርቶ ሪኮ ነጻነት ፓርቲ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ia",
         "name": "Partito Independentista Portorrican",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ga",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "حزب استقلال بورتوريكو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Puerto Ricaanse Onafhankelijkheidspartij",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido Independentista Portorriquenho",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Partio de la Sendependeco de Porto-Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yi",
         "name": "פארטא-ריקאנישע אומאפהענגיקייט פארטיי",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "new",
         "name": "पुएर्टो रिको स्वातन्त्र पार्टी",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "su",
         "name": "Partéy Kamerdékaan Puerto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr",
         "name": "Странка за независност Порторика",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Партія незалежності Пуерто-Рико",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be-tarask",
         "name": "Партыя незалежнасьці Пуэрта-Рыка",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gu",
         "name": "પ્યૂએર્ટો રિકન ઈન્ડીપેન્ડન્સ પાર્ટી",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sco",
         "name": "Puerto Rican Independence Pairty",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ne",
         "name": "पुएर्टो रिको स्वातन्त्र पार्टी",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "az",
         "name": "Müstəqil Puerto Riko Partiyası",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hr",
         "name": "Stranka za neovisnost Portorika",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fur",
         "name": "Partît Independentist Puertorican",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "dv",
         "name": "ޕުއެޓްރިކަން އިންޑެޕެންޑެންސް ޕާޓީ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vec",
         "name": "Partito Indipendentista Portorican",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nah",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "מפלגת העצמאות הפוארטוריקנית",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be",
         "name": "Партыя незалежнасці Пуэрта-Рыка",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "lad",
         "name": "Partido Independentista Puertorrikenyo",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yo",
         "name": "Egbé Osèlú Olómìnira tí Puèrtó Ríko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito Indipendentista Portoricano",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "プエルトリコ独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ml",
         "name": "പ്യുവെർട്ടോ റിക്കോ ഇൻഡിപ്പെൻഡൻസ് പാർട്ടി",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vi",
         "name": "Đảng Độc lập Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sc",
         "name": "Partidu Indipendentista Portoricanu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yue",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "wo",
         "name": "Kureelu tembte bu Poortorikoo",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ht",
         "name": "Pati Endepandantis Pòtoriken",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "wuu",
         "name": "波多黎各独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ku",
         "name": "Partiya Azadiyê ya Porto Rîkoyê",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tg",
         "name": "Ҳизби Истиқлоли Пуэрто-Рико",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "พรรคเอกราชปวยร์โตรีโก",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Independentista Porto-riqueny",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "la",
         "name": "Factio Libertatis Portus Divitis",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fo",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cy",
         "name": "Plaid Annibyniaeth Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sgs",
         "name": "Puerto Rėka liousoma partėjė",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "os",
         "name": "Пуэрто-Рикойы хæдбардзинады парти",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bg",
         "name": "Пуерториканска партия за независимост",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "arc",
         "name": "ܓܒܐ ܕܚܐܪܘܬܐ ܕܦܘܐܪܛܘ ܪܝܩܘ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "te",
         "name": "పోర్టోరీకో స్వతంత్ర పార్టీ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "glk",
         "name": "پؤرتؤريکؤ ئستئقلال ِ حيزب",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ur",
         "name": "جماعت برائے آزاد پورٹو ریکو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "jv",
         "name": "Partai Kamardikan Puerto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "qu",
         "name": "Burinkin mana warkurinapaq partidu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gd",
         "name": "Buidheann neo-eisimeileachd na Porto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "haw",
         "name": "‘Ao‘ao Kū‘oko‘a Pokoliko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vo",
         "name": "Palet Nesekida Puertorikeänas",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "புவேர்ட்டோ ரிக்கோ விடுதலைக் கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "af",
         "name": "Puerto Ricaanse Onafhanklikheidsparty",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ceb",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Parti Kemerdekaan Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ce",
         "name": "Пуэрто-Рико дозуш цаилар парти",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bn",
         "name": "পার্তিদো ইন্দেপেন্দেন্তিস্তা পুয়ের্তোরিকেনিয়ো",
-        "note": "multilingual"
-      },
-      {
-        "lang": "br",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Κόμμα για την Ανεξαρτησία του Πουέρτο Ρίκο",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ba",
         "name": "Пуэрто-Риконың бойондороҡһоҙлоҡ фирҡәһе",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Puertoricanska självständighetspartiet",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "is",
         "name": "Sjálfstæðisflokkur Púertó Ríkó",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Партия независимости Пуэрто-Рико",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "diq",
         "name": "Partiya Porto Rikoya Xosere",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tr",
         "name": "Porto Riko Bağımsızlık Partisi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mk",
         "name": "Партија за независност на Порторико",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hak",
         "name": "Pô-tô Lì-kok Thu̍k-li̍p-tóng",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "si",
         "name": "පෝට රිකානු නිදහස් පක්ෂය",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nn",
         "name": "Det puertoricanske sjølvstendepartiet",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zea",
         "name": "Puertoricaonse Onafankelijkeidspartij",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tl",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nan",
         "name": "Puerto Rico To̍k-li̍p Tóng",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "wa",
         "name": "Pårti pol Dislaxhaedje di Porto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "푸에르토리코 독립당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti indépendantiste portoricain",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ug",
         "name": "پوئىرتورىكان مۇستەقىللىق پارتىيىسى",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "lv",
         "name": "Puertoriko Neatkarības partija",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gl",
         "name": "Partido Independentista Portorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Partai Kemerdekaan Puerto Riko",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Portorikanska stranka nezavisnosti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "scn",
         "name": "Partitu Nnipinnintista Porturicanu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hi",
         "name": "पुएर्तो रिको स्वतंत्रता पार्टी",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nov",
         "name": "Partise de independante de Puerto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hy",
         "name": "Պուերտո Ռիկոյական անկախություն կուսակցություն",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "kn",
         "name": "ಪೋರ್ಟೊ ರಿಕೊದ ಸ್ವಾತಂತ್ರ್ಯ ಪಕ್ಷ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cv",
         "name": "Пуэрто-Рико ирĕклĕх партийĕ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fy",
         "name": "Partij foar ûnôfhinklikheid fan Porto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "Partidul Independentist Portorican",
-        "note": "multilingual"
-      },
-      {
-        "lang": "co",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sl",
         "name": "Portoriška osamosvojitvena stranka",
-        "note": "multilingual"
-      },
-      {
-        "lang": "war",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "حزب استقلال پورتوریکو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ka",
         "name": "პუერტო-რიკოს დამოუკიდებლობის პარტია",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nds",
         "name": "Puertorikaansche Unafhängigkeitspartei",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "lt",
         "name": "Puerto Riko nepriklausomybės partija",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hans",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "zh",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Partido Independentista de Puerto Rico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pl",
         "name": "Partido Independentista",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Independentista de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Nacionalismo puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Independentismo puertorriqueno",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Independentista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Nacionalismo puertorriqueno",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Independentismo puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido de la independencia de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Independentista Puertorriqueno",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cbk-zam",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cbk-zam",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cbk-zam",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cbk-zam",
         "name": "Partido Independentista Puertorriquenyo",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sq",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "am",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ia",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "حزب استقلال بورتوريكو (تأسس عام",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Partido Independencista Porto-riquenho",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Partido Independentista Porto-riquenho",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "eo",
         "name": "Partio de la Sendependeco de Puerto-Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "new",
         "name": "पिप्",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sr",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fi",
         "name": "Puerto Ricon itsenäisyyspuolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "uk",
         "name": "Партія пуерториканської незалежності",
-        "note": "multilingual"
-      },
-      {
-        "lang": "uk",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "uk",
         "name": "Партія незалежності Пуерто-Ріко",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "uk",
         "name": "Пуерториканська партія незалежності",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "gu",
         "name": "પ્યૂએર્ટો રીકન ઈન્ડીપેન્ડન્ટ પાર્ટી",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sco",
         "name": "Puerto Reican Eendependence Pairtie",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ne",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "az",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "an",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Puerto Ricos Selvstændighedsparti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "dv",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nah",
         "name": "Partido Independentista Portorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "he",
         "name": "מפלגת העצמאות הפורטוריקנית",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "be",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lad",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lad",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "lad",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "yo",
         "name": "Egbe Oselu Olominira ti Puerto Rico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Partito Independentista Portoricano",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ml",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vi",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vi",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ht",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ht",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "wuu",
         "name": "波多黎各獨立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "wuu",
         "name": "波多黎各獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "wuu",
         "name": "布爱勒导里高独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ku",
         "name": "Partiya Azadiyê ya Porto Rîko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sk",
         "name": "Portorická strana nezávislosti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ca",
         "name": "Partit Independentista Portorriqueny",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ca",
         "name": "Partit Independentista de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "la",
         "name": "Factio Independentiae Portus Divitis",
-        "note": "multilingual"
-      },
-      {
-        "lang": "la",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "la",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Plaid Annibyniaeth Puerto Rica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sgs",
         "name": "Puerta Rėka liousoma partėjė",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "Portorická strana nezávislosti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "arc",
         "name": "ܓܒܐ ܕܚܐܪܘܬܐ ܕܦܘܐܪܬܐ ܪܝܟܐ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ur",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "qu",
         "name": "Burikin mana warkurinapaq partidu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "qu",
         "name": "Borinken mana warkurinapaq partidu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "qu",
         "name": "Boriken mana warkurinapaq partidu",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vo",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vo",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vo",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "af",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "af",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "af",
         "name": "Puerto Rikaanse onhafhanklikheidsparty",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "af",
         "name": "Puerto Rikaanse onhafhandliksheidparty",
-        "note": "multilingual"
-      },
-      {
-        "lang": "af",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "af",
         "name": "Puerto Rikaanse onhafhankliksheidparty",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "af",
         "name": "Puerto Rikaanse onafhanklikheidsparty",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ceb",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ceb",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "et",
         "name": "Partido Independentista Puertoriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "et",
         "name": "Puerto Rico Iseseisvuslaste Partei",
-        "note": "multilingual"
-      },
-      {
-        "lang": "el",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ba",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ba",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ba",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ba",
         "name": "Пуэрто-Риконың бойондороҡһыҙлыҡ фирҡәһе",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ru",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ast",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "diq",
         "name": "Partiya Porto Rikanana Xosere",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tr",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tr",
         "name": "Puerto Rico Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "si",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nn",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nn",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partido Independentista de Puerto Rico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tl",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partido sa Kasarinlan ng Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partidong Portorikenyo para sa Kasarinlan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Independence Party of Puerto Rico",
-        "note": "multilingual"
-      },
-      {
-        "lang": "tl",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partido Portorikenyo para sa Kasarinlan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partido para sa Kasarinlan ng Porto Riko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tl",
         "name": "Partido para sa Kasarinlan ng Portoriko",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nan",
         "name": "Puerto Rico To̍k-li̍p-tóng",
-        "note": "multilingual"
-      },
-      {
-        "lang": "wa",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Parti independantiste portoricain",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ug",
         "name": "Poirtorikan musteqilliq partiyisi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "lv",
         "name": "Puertorikāņu Neatkarības partija",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "gl",
         "name": "Partido Independentista Portorriquenho",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "id",
         "name": "Partido Independentista Puetroririqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "id",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Puerto-ricanische Unabhängigkeitspartei",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Puertoricanische Unabhängigkeitspartei",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Partido Independentista Puertorriqueno",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sh",
         "name": "Stranka za nezavisnost Portorika",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sh",
         "name": "Stranka za neovisnost Portorika",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hi",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "kn",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "kn",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "kn",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fy",
         "name": "Party foar ûnôfhinklikens fan Porto Riko",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fy",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "co",
         "name": "Partitu Indipendentista Porturicanu",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sl",
-        "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sl",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sl",
         "name": "Puertoriška osamosvojitvena stranka",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sl",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "war",
-        "name": "PIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "war",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "حزب استقلال پرتریکو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "حزب استقلال پرتوریکو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "حزب استقلال پورتریکو",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ka",
         "name": "პუერტო რიკოს დამოუკიდებლობის პარტია",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Puertoricanske Uavhengighetsparti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Det sosialdemokratiske parti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Partido Independentista de Puerto Rico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Sosialdemokratiske parti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Puerto Rico Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "Det puertoricanske uavhengighetspartiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Puerto Rican Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "Partido Independentista Puertorriqueño",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "PIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
