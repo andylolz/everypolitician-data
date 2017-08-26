@@ -10,52 +10,56 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 2008 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "2008 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 2008",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 2008",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en-ca",
         "name": "Maltese general election, 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en-gb",
         "name": "Maltese general election, 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parlamentswahl in Malta 2008",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы на Мальте",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "2008 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -79,32 +83,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1987 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1987",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Maltese general election, 1987",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1987",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1987",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1987",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1987",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -127,23 +131,21 @@
     "other_names": [
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1939",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1939",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Maltese general election, 1939",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1939",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1939",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -162,33 +164,33 @@
     "other_names": [
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1996",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1996",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1996",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Maltese general election, 1996",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1996 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1996",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1996",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -212,62 +214,68 @@
       {
         "lang": "ru",
         "name": "Парламентские выборы на Мальте",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "2013 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives maltaises de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 2013 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "Parlamentní volby na Maltě 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mt",
         "name": "Elezzjonijiet Ġenerali 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Парламентські вибори на Мальті",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "2013 Maltese general election",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2013年馬爾他大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Parlamentsvalet i Malta 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2013年馬耳他大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -290,32 +298,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1951 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1951 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1951",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1951",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1951",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1951",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1951 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -335,37 +343,38 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 2003 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "2003 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 2003",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 2003",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы на Мальте",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 2003",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "2003 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -389,32 +398,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1998 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1998 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1998",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1998",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1998",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1998 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -438,32 +447,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1976 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1976 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1976",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1976",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1976",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1976",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1976 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -487,32 +496,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1955 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1955 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1955",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1955",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1955",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1955",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1955 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -532,32 +541,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1953 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1953 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1953",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1953",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1953",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1953 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -577,32 +586,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1950 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1950 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1950",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1950",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1950",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1950",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1950 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -622,32 +631,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1971 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1971 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1971",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1971",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1971",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1971",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1971 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -667,32 +676,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1992 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1992 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1992",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1992",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1992",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1992",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1992 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -716,32 +725,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1962 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1962 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1962",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1962",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1962",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1962 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -761,32 +770,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1947 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1947 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1947",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1947",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1947",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1947 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -806,32 +815,32 @@
       {
         "lang": "pl",
         "name": "Wybory parlamentarne na Malcie w 1966 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "1966 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1966",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1966",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1966",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "1966 Maltese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -851,22 +860,20 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1927",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1927",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1927",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1927",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1927",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -886,22 +893,20 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1932",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1932",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1932",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -921,22 +926,20 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1945",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1945",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1945",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1945",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1945",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -956,27 +959,26 @@
       {
         "lang": "ca",
         "name": "Eleccions legislatives malteses de 1981",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Maltese general election, 1981",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari maltesi del 1981",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1981",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Maltese general election, 1981",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1000,12 +1002,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1849",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1849",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1026,12 +1030,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1860",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1860",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1049,12 +1055,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1854",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1854",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1072,12 +1080,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1870",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1870",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1095,12 +1105,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1865",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1865",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1118,12 +1130,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1875",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1875",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1141,12 +1155,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1883",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1883",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1164,12 +1180,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1888",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1888",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1187,12 +1205,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1889",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1889",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1210,12 +1230,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1895",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1895",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1233,12 +1255,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1898",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1898",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1256,12 +1280,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1900",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1900",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1279,7 +1305,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1907",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1297,7 +1324,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1909",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1315,7 +1343,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1911",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1333,7 +1362,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1913",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1351,7 +1381,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1912",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1369,17 +1400,20 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1921",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1921",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari a Malta del 1921",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1921",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1398,7 +1432,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1917",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1416,17 +1451,20 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1924",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales maltaises de 1924",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari a Malta del 1924",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 1924",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1446,7 +1484,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, April 1904",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1464,12 +1503,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, January 1904",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de enero de 1904",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1487,32 +1528,38 @@
       {
         "lang": "en",
         "name": "Maltese general election, 2017",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Élections générales maltaises de 2017",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parlamentswahl in Malta 2017",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari a Malta del 2017",
-        "note": "multilingual"
+        "name": "elezioni parlamentari a Malta del 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Parlamentsvalet i Malta 2017",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mt",
         "name": "Elezzjonijiet Ġenerali 2017",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1532,12 +1579,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1880",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1880",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1555,12 +1604,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1892",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1892",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1578,12 +1629,14 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1899",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones generales de Malta de 1899",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1601,7 +1654,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, 1915",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -1619,7 +1673,8 @@
       {
         "lang": "en",
         "name": "Maltese general election, February 1904",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
