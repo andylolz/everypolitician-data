@@ -10,92 +10,104 @@
       {
         "lang": "zh",
         "name": "圣马力诺基督教民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Partito Democratico Cristiano Sammarinese",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Chrześcijańsko-Demokratyczna Partia San Marino",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bg",
         "name": "Санмаринска християндемократическа партия",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Сан-Маринская христианско-демократическая партия",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti chrétien-démocrate saint-marinais",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Sanmarinska kršćanska demokratska stranka",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Sammarinese Christian Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito Democratico Cristiano Sammarinese",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "scn",
         "name": "Partitu Dìmucraticu Cristianu Sammarinisi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Partai Demokratik Kristen Sammarinese",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido Democrata Cristão de San Marino",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Sammarinese Christian Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "キリスト教民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Demócrata Cristiano Sanmarinense",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti chretien-democrate saint-marinais",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sh",
         "name": "Sanmarinska hrišćanska demokratska stranka",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Democrata Cristiano Sanmarinense",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -116,32 +128,32 @@
       {
         "lang": "en",
         "name": "We Sammarinese",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Noi Sammarinesi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "We Sammarinese",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "我們聖馬利諾",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "我們聖馬力諾",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "我々サンマリノ人",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -162,62 +174,68 @@
       {
         "lang": "pl",
         "name": "Partia Socjalistów i Demokratów",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bg",
         "name": "Партия на социалистите и демократите",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti des socialistes et des démocrates",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Party of Socialists and Democrats",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "lt",
         "name": "San Marino socialistų ir demokratų partija",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito dei Socialisti e dei Democratici",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Партия социалистов и демократов",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Partito dei Socialisti e dei Democratici",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Socialisternas och demokraternas parti",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Party of Socialists and Democrats",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "社会主義者・民主主義者党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti des socialistes et des democrates",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -238,57 +256,62 @@
       {
         "lang": "de",
         "name": "Alleanza Popolare dei Democratici Sammarinesi per la Repubblica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Alliance populaire",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Popular Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Alleanza Popolare",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "scn",
         "name": "Allianza Pòpulari",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Popular Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "人民聯盟 (聖馬利諾)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "人民聯盟 (聖馬力諾)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "人民同盟",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Alleanza Popolare dei Democratici Sammarinesi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Alleanza Popolare dei Democratici Sammarinesi per la Repubblica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -309,27 +332,26 @@
       {
         "lang": "en",
         "name": "Socialist Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito Socialista",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Socialistpartiet",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Socialist Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "社会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -350,27 +372,26 @@
       {
         "lang": "en",
         "name": "Union for the Republic",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Unione per la Repubblica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "scn",
         "name": "Unioni pi la Ripùbbrica",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Union for the Republic",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "共和国のための連合",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -391,62 +412,74 @@
       {
         "lang": "nl",
         "name": "Verenigd Links",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "United Left",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Izquierda Unida de San Marino",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Gauche unie",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Sinistra Unita",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Zjednoczona Lewica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "scn",
         "name": "Manca Unita",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "联合左翼",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Förenade Vänstern",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "統一左翼",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Объединённые левые",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "統一左派",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -467,22 +500,26 @@
       {
         "lang": "it",
         "name": "Movimento Civico10",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Движение Civico10",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Civic 10",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "市民10",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -503,682 +540,818 @@
       {
         "lang": "zh-hans",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-sg",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-tw",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Sans étiquette",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "무소속",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "arz",
         "name": "سياسى مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Candidato independiente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "சுயேட்சை",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parteiloser",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Independen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "無所属",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "ανεξάρτητος",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "independent politician",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yue",
         "name": "獨立人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "onafhankelijk politicus",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "partilös",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "سياسي مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "político sem partido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "независимый",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mn",
         "name": "Бие даагч",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr-ec",
         "name": "независни политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tr",
         "name": "Bağımsız siyasetçi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "polític independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "sitoutumaton",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cy",
         "name": "Annibynnwr",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ur",
         "name": "آزاد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "az",
         "name": "Partiyasız",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "da",
         "name": "løsgænger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr",
         "name": "независни политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "کنشگر سیاسی مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "war",
         "name": "Independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "oc",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr-el",
         "name": "nezavisni političar",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be",
         "name": "Беспартыйны",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "polityk niezrzeszony",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mr",
         "name": "अपक्ष",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be-tarask",
         "name": "Беспартыйны",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "פוליטיקאי עצמאי",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nb",
         "name": "partiløs",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "nezávislý",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "független politikus",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Sendependa",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hi",
         "name": "निर्दलीय",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Nezavisni",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sco",
         "name": "independent politeecian",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sk",
         "name": "Nezávislý politik",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hak",
         "name": "Mò-tóng-sit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "นักการเมืองอิสระ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Незалежний політик",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sd",
         "name": "آزاد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "la",
         "name": "Politicus nullius factionis",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nan",
         "name": "Bû-tóng-che̍k",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tg",
         "name": "сиёсатмадори мустақил",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-mo",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-my",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mk",
         "name": "независен политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tt",
         "name": "бәйсез",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hy",
         "name": "անկախ քաղաքական գործիչ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gd",
         "name": "neach-poileataigs neo-eisimeileach",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "無黨派",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "无党派人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "獨立人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "獨立候選人",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Sans etiquette",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Indépendant",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Non-inscrits",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Non-inscrit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "arz",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidato civico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimientos cívicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Independientes",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatos cívicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidato Cívico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura independiente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimiento Cívico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura cívica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidata cívica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimientos civicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatos civicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimiento Civico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura civica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidata civica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "சுயேச்சை",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Unabhängiger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "freier Abgeordneter",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "id",
         "name": "Politikus independen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ja",
         "name": "無所属議員",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "onafhankelijke",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijloos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijloze",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijlozen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "vänstervilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "liberal vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "moderat vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "politiska vildar",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "obunden",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "politisk vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "frisinnad vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "högervilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "سياسيون مستقلون",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Sem partido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Político independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Candidato independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tr",
         "name": "Bağımsız Politikacı",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tr",
         "name": "Serbest siyasetçi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Politicieni independenţi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Politicieni independenți",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Gwleidydd annibynnol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Annibynnol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Annibynol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Uden for partierne",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Frigænger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Udenfor partierne",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Uafhængig",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Partiløs",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "nonpartisan politician",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "independent member",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "candidato indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "politico indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "be-tarask",
         "name": "Беспартыйны палітык",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "uavhengig",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "bezpartajní",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "bez stranické příslušnosti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sr",
         "name": "нестраначки политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sr",
         "name": "ванстраначки политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "mk",
         "name": "непартиски политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ru",
         "name": "независимый политик",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ru",
         "name": "беспартийный",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tt",
         "name": "фиркасез",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -1193,27 +1366,32 @@
       {
         "lang": "it",
         "name": "Movimento Civico R.E.T.E.",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "RETE Movement",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "市民運動・ネットワーク",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Rinnovamento, Equità, Transparenza, Ecosostenibilità Movimento Civico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "Renewal, Equity, Transparency and Eco-sustainability Civic Movement",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
