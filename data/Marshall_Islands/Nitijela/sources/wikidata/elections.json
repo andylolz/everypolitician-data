@@ -10,12 +10,14 @@
       {
         "lang": "hu",
         "name": "2007-es Marshall-szigeteki általános választás",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Marshall Islands general election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -33,37 +35,44 @@
       {
         "lang": "id",
         "name": "Pemilihan umum Presiden Kepulauan Marshall 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory prezydenckie na Wyspach Marshalla w 2012 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle des îles Marshall de 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Marshall Islands general election, 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2011年馬紹爾群島大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan presiden Kepulauan Marshall 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Election présidentielle des îles Marshall de 2012",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -81,7 +90,8 @@
       {
         "lang": "en",
         "name": "Marshall Islands general election, 1995",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -99,7 +109,8 @@
       {
         "lang": "en",
         "name": "Marshall Islands general election, 1999",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -117,7 +128,8 @@
       {
         "lang": "en",
         "name": "Marshall Islands general election, 2003",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -135,17 +147,20 @@
       {
         "lang": "en",
         "name": "Marshall Islands general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στις Νήσους Μάρσαλ 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives marshallaises de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
