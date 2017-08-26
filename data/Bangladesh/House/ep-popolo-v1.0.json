@@ -16908,157 +16908,182 @@
         {
           "lang": "de",
           "name": "Awami-Liga",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশ আওয়ামী লীগ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Bangladesh Awami League",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Ligue Awami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "बांग्लादेश अवामी लीग",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Liga Awami Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Lega Popolare Bengalese",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "アワミ連盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "kk",
           "name": "Авами лиг партиясы",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Awami Liga",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Awamiförbundet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "அவாமி லீக்",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "สันนิบาตอวามี",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Awami League",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ml",
           "name": "ബംഗ്ലാദേശ് അവാമി ലീഗ്",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Авами Лиг",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pnb",
           "name": "عوامی لیگ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "رابطة عوامي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Partido Nacionalista Awami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Lliga Awami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "아와미 연맹",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "孟加拉国人民联盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Авамі Ліг",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Awamiliitto",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ms",
           "name": "Liga Awami Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Liga Awami de Bangladés",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Bangladeş Avami Birliği",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Awami League",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Лига Авами",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Бангладешская Авами Лиг",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Liga Awami de Banglades",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -17080,154 +17105,160 @@
       "name": "Bangladesh Jamaat-e-Islami",
       "other_names": [
         {
-          "lang": "id",
-          "name": "Jamaat-e-Islami Bangladesh",
-          "note": "multilingual"
-        },
-        {
           "lang": "bn",
           "name": "বাংলাদেশ জামায়াতে ইসলামী",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ml",
           "name": "ബംഗ്ലാദേശ് ജമാഅത്തെ ഇസ്ലാമി",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "イスラム協会",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Джамаат-и-Ислами Бангладеш",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Bangladesh Jamaat-e-Islami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Джамаат-і-Ісламі Бангладеш",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Blocco Islamico Bengalese",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Abdulkadir molla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "الجماعة الإسلامية البنغالية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "வங்காளதேச ஜமாத்-இ-இஸ்லாமி",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Jamaat-e-Islami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "جماعت اسلامی بنگلہ دیش",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "جماعت اسلامی بنگلادش",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Bangladesh Jamaat-e-Islami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "बांग्लादेश जमात-ए-इस्लामी",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Bangladesh Jamaat-e-Islami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "伊斯蘭大會黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "孟加拉伊斯蘭賈馬特",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "伊斯兰大会党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "בנגלדש",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Bangladeş Cemaat-i İslami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "জামায়াত-এ-ইসলামী বাংলাদেশ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশ জামায়তে ইসলামী",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "জামায়াতে ইসলামী বাংলাদেশ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ml",
-          "name": "Bangladesh Jamaat-e-Islami",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Jamaat-e-Islami Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh-cn",
           "name": "孟加拉伊斯兰贾马特",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "孟加拉伊斯蘭大會黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "孟加拉國伊斯蘭大會黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -17261,117 +17292,116 @@
         {
           "lang": "ru",
           "name": "Националистическая партия Бангладеш",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti nationaliste du Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Bangladesh Nationalist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Nacionalista de Bangladés",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Bangladeshin nationalistipuolue",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Націоналістична партія Бангладеш",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Nazionalista Bengalese",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Partai Nasionalis Bangladesh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Bangladesh Nationalist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশ জাতীয়তাবাদী দল",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "バングラデシュ民族主義党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Bangladeshs Nationalistparti",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Bangladesh Nationalist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "बांग्लादेश नेशनलिस्ट पार्टी",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "방글라데시 민족주의당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "孟加拉國民族主義黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "بنگلہ دیش نیشنلسٹ پارٹی",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Bangladesh Nationalist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Nacionalista de Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Nacionalista de Banglades",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "বিএনপি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশ জাতীয়তাবাদী দল(বিএনপি)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Bangladesh Nationalist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -17389,12 +17419,14 @@
         {
           "lang": "de",
           "name": "Bangladesh Tariqat Federation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Bangladesh Tarikat Federation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -17412,682 +17444,818 @@
         {
           "lang": "zh-hans",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Sans étiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "무소속",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "سياسى مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Candidato independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "சுயேட்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Parteiloser",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "無所属",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "ανεξάρτητος",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "independent politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yue",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "onafhankelijk politicus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "partilös",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "سياسي مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "político sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "независимый",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mn",
           "name": "Бие даагч",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-ec",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Bağımsız siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "polític independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "sitoutumaton",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cy",
           "name": "Annibynnwr",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Partiyasız",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "løsgænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "کنشگر سیاسی مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "war",
           "name": "Independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "oc",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-el",
           "name": "nezavisni političar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "polityk niezrzeszony",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mr",
           "name": "अपक्ष",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "פוליטיקאי עצמאי",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "nezávislý",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "független politikus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Sendependa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "निर्दलीय",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Nezavisni",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sco",
           "name": "independent politeecian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sk",
           "name": "Nezávislý politik",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hak",
           "name": "Mò-tóng-sit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "นักการเมืองอิสระ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Незалежний політик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sd",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Politicus nullius factionis",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nan",
           "name": "Bû-tóng-che̍k",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-mo",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-my",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "независен политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tt",
           "name": "бәйсез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨派",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "无党派人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立候選人",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Sans etiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Indépendant",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrits",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "arz",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Independientes",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ta",
           "name": "சுயேச்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Unabhängiger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "freier Abgeordneter",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "id",
           "name": "Politikus independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "無所属議員",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "onafhankelijke",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloze",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijlozen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "vänstervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "liberal vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "moderat vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politiska vildar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "obunden",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politisk vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "frisinnad vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "högervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "سياسيون مستقلون",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Político independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Candidato independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Bağımsız Politikacı",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenţi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenți",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Gwleidydd annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uden for partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Frigænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Udenfor partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uafhængig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "nonpartisan politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "independent member",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "candidato indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "politico indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны палітык",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "uavhengig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bezpartajní",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "нестраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "mk",
           "name": "непартиски политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "независимый политик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "беспартийный",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tt",
           "name": "фиркасез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -18109,74 +18277,70 @@
       "name": "Jatiya Party",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Jatiya Party",
-          "note": "multilingual"
-        },
-        {
           "lang": "bn",
           "name": "জাতীয় পার্টি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Partai Jatiya",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Nazionale",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Джатія",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Джатья",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Jatiya",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "民族黨 (艾爾沙德)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "民族党 (艾尔沙德)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "艾爾沙德國家黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "जातीय पार्टी",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -18198,74 +18362,70 @@
       "name": "Jatiya Party (JP)",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Jatiya Party",
-          "note": "multilingual"
-        },
-        {
           "lang": "bn",
           "name": "জাতীয় পার্টি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Partai Jatiya",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Nazionale",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Джатія",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Джатья",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Jatiya",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "民族黨 (艾爾沙德)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "民族党 (艾尔沙德)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "艾爾沙德國家黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Jatiya Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "जातीय पार्टी",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -18289,42 +18449,44 @@
         {
           "lang": "en",
           "name": "Jatiyo Samajtantrik Dal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "জাতীয় সমাজতান্ত্রিক দল",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Jatiyo Samajtantrik Dal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "民族社會黨 (孟加拉國)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "民族社会党 (孟加拉国)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "国家社会主義党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "जातीय समाजतांत्रिक दल",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "জাসদ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -18361,42 +18523,44 @@
         {
           "lang": "bn",
           "name": "লিবারেল ডেমোক্র্যাটিক পার্টি (বাংলাদেশ)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Liberal Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Liberal Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "自由民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "लिबरल डेमोक्रेटिक पार्टी",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "লিবারেল ডেমোক্র্যাটিক পার্টি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "লিবারেল ডেমোক্র্যাটিক পার্ট, বাংলাদেশ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bn",
           "name": "এলডিপি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -18414,57 +18578,62 @@
         {
           "lang": "ja",
           "name": "バングラデシュ労働者党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "br",
           "name": "Strollad Labourerion Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Workers Party of Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-el",
           "name": "Radnička partija Bangladeša",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-ec",
           "name": "Радничка партија Бангладеша",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "孟加拉工人党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশের ওয়ার্কার্স পার্টি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Радничка партија Бангладеша",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti des travailleurs du Bangladesh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Workers Party of Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "वर्कर्स पार्टी ऑफ़ बांग्लादेश",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -18482,57 +18651,62 @@
         {
           "lang": "ja",
           "name": "バングラデシュ労働者党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "br",
           "name": "Strollad Labourerion Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Workers Party of Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-el",
           "name": "Radnička partija Bangladeša",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-ec",
           "name": "Радничка партија Бангладеша",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "孟加拉工人党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "বাংলাদেশের ওয়ার্কার্স পার্টি",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Радничка партија Бангладеша",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti des travailleurs du Bangladesh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Workers Party of Bangladesh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "वर्कर्स पार्टी ऑफ़ बांग्लादेश",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     }
