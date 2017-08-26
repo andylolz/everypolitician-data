@@ -391,12 +391,14 @@
         {
           "lang": "en",
           "name": "Saint Barth First!",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Saint-Barth d’abord!",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -414,12 +416,14 @@
         {
           "lang": "fr",
           "name": "Saint-Barth en mouvement!",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Saint Barth in Motion",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -450,12 +454,14 @@
         {
           "lang": "en",
           "name": "All United for Saint Barthélemy",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "All United for Saint Barthelemy",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     }
