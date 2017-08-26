@@ -10,82 +10,80 @@
       {
         "lang": "fr",
         "name": "élection présidentielle malgache de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malagasy general election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições parlamentares em Madagascar em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Wahlen in Madagaskar 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Всеобщие выборы на Мадагаскаре (2013)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mg",
         "name": "Fifidianana filoham-pirenena ao Madagasikara 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de-ch",
         "name": "Wahlen in Madagaskar 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Γενικές εκλογές στη Μαδαγασκάρη 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Malagasy general election, 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Malagasy general election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt-br",
         "name": "Eleições parlamentares em Madagascar em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2013年馬達加斯加大選",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni presidenziali in Madagascar del 2013",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Malagasy general election, 2013",
-        "note": "multilingual"
+        "name": "elezioni generali in Madagascar del 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Präsidentschaftswahl in Madagaskar 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Parlamentswahl in Madagaskar 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -108,22 +106,26 @@
       {
         "lang": "fr",
         "name": "élections législatives malgaches de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Élections législatives malgache de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Elections legislatives malgaches de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -141,7 +143,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1960",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -159,7 +162,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1965",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -177,7 +181,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -195,7 +200,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1977",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -213,7 +219,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1983",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -231,7 +238,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1993",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -249,7 +257,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -267,7 +276,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -285,7 +295,8 @@
       {
         "lang": "en",
         "name": "Malagasy parliamentary election, 1989",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
