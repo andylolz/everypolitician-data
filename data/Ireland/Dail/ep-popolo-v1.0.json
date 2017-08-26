@@ -2178,6 +2178,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "vtls000315920",
+          "scheme": "n6i"
+        },
+        {
           "identifier": "71342303",
           "scheme": "viaf"
         },
@@ -21849,382 +21853,194 @@
         {
           "lang": "zh-hans",
           "name": "爱尔兰共和党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "愛爾蘭共和黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "愛爾蘭共和黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "爱尔兰共和党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
           "name": "爱尔兰共和党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
           "name": "愛爾蘭共和黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gd",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bs",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "피아나 페일",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "פיאנה פול",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "フィアナ・フォイル",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Φιάνα Φάιλ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Soldatoj de Irlando",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Фианна Файл",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gv",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Фијана Фол",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "愛爾蘭共和黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Фіанна Файл",
-          "note": "multilingual"
-        },
-        {
-          "lang": "scn",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sk",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Фиана Файл",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "爱尔兰共和党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Fianna Fail",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "피어너 포일",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "피아나페일 당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "아일랜드 공화당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "피아나 페일당",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Fianna Fail",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Republicano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Soldados del Destino",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Soldati d'Irlanda",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Fianna Fàil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "gl",
           "name": "FF",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Fianna Fail",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "フィアナ・フォール",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Fianna Fáil",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Фианна фойл",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Солдаты судьбы",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Fianna Fail",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Fianna Fail",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Fianna Fáil, The Republican Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Fianna Fail",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -22247,174 +22063,70 @@
       "name": "Fine Gael",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
           "lang": "el",
           "name": "Φάιν Γκέιλ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gd",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gv",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "מפלגת פינה גייל",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "フィナ・ゲール",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "피네 게일",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Фине Гэл",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "爱尔兰统一党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Фіне Гел",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "scn",
-          "name": "Fine Gael",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Fine Gael",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Фине Гейл",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "فاين جايل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "Фине Гел",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -22438,282 +22150,302 @@
         {
           "lang": "pt",
           "name": "Partido Verde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Verda Partio",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Partia Zielonych",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Irlandako Alderdi Berdea",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Зелёная партия Ирландии",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti vert",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Verde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Partit Verd",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Vihreä puolue",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "Zöld Párt",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Verde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "et",
           "name": "Roheline Partei",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "緑の党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gv",
           "name": "Yn Partee Glass",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Green Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "scn",
           "name": "Partitu Virdi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "綠黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "綠黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-mo",
           "name": "綠黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "绿党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hans",
           "name": "绿党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "綠黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-my",
           "name": "绿党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
           "name": "绿党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
           "name": "綠黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Verda Partio de Irlando",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Verda Alianco",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "An Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Зелёная партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Партия зелёных",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "parti écologiste d’Irlande",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Green Party Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Green Party-Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Verdi",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Green Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Iirimaa Ökoloogia Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Green Alliance",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Ecology Party of Ireland",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Green Party/Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "Páirtí Éiceolaíochta na hÉireann",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "An Comhaontas Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "Páirtí Glas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "gv",
           "name": "Cochaarjys Glass",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "绿党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -22731,682 +22463,818 @@
         {
           "lang": "zh-hans",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Sans étiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "무소속",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "سياسى مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Candidato independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "சுயேட்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Parteiloser",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "無所属",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "ανεξάρτητος",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "independent politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yue",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "onafhankelijk politicus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "partilös",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "سياسي مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "político sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "независимый",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mn",
           "name": "Бие даагч",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-ec",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Bağımsız siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "polític independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "sitoutumaton",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cy",
           "name": "Annibynnwr",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Partiyasız",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "løsgænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "کنشگر سیاسی مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "war",
           "name": "Independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "oc",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-el",
           "name": "nezavisni političar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "polityk niezrzeszony",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mr",
           "name": "अपक्ष",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "פוליטיקאי עצמאי",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "nezávislý",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "független politikus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Sendependa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "निर्दलीय",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Nezavisni",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sco",
           "name": "independent politeecian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sk",
           "name": "Nezávislý politik",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hak",
           "name": "Mò-tóng-sit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "นักการเมืองอิสระ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Незалежний політик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sd",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Politicus nullius factionis",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nan",
           "name": "Bû-tóng-che̍k",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-mo",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-my",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "независен политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tt",
           "name": "бәйсез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨派",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "无党派人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立候選人",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Sans etiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Indépendant",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrits",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "arz",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Independientes",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ta",
           "name": "சுயேச்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Unabhängiger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "freier Abgeordneter",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "id",
           "name": "Politikus independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "無所属議員",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "onafhankelijke",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloze",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijlozen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "vänstervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "liberal vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "moderat vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politiska vildar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "obunden",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politisk vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "frisinnad vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "högervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "سياسيون مستقلون",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Político independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Candidato independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Bağımsız Politikacı",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenţi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenți",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Gwleidydd annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uden for partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Frigænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Udenfor partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uafhængig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "nonpartisan politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "independent member",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "candidato indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "politico indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны палітык",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "uavhengig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bezpartajní",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "нестраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "mk",
           "name": "непартиски политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "независимый политик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "беспартийный",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tt",
           "name": "фиркасез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -23430,297 +23298,326 @@
         {
           "lang": "zh-hans",
           "name": "爱尔兰工党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "愛爾蘭工黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "愛爾蘭工黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Alderdi Laborista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Partia Pracy",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti travailliste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "노동당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Laborista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ms",
           "name": "Parti Buruh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Laburista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gl",
           "name": "Partido Laborista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "労働党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Εργατικό Κόμμα",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Laburistička stranka",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Páirtí an Lucht Oibre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Arbetarpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Partido Trabalhista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Лейбористская партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "İşçi Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Partit Laborista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Työväenpuolue",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lt",
           "name": "Airijos darbininkų partija",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gv",
           "name": "Partee yn Lught Obbyr",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Лейбористська партія (Ірландія)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Лабуристичка партија",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "爱尔兰工党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "מפלגת הלייבור",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "工黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Irlandako Alderdi Laborista",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Alderdi Laborista(Irlanda)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "아일랜드 노동당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Laborista de Irlanda",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Irish Labour Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "アイルランド労働党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sh",
           "name": "Laburistička partija",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "Pháirtí na Lucht Oibre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "Pháirtí an Lucht Oibre",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Páirtí an Lucht Oibre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Labour",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Pairti an Lucht Oibre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Labourpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Irish Labour Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Ирландская лейбористская партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit Laborista Irlandès",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit Laborista d'Irlanda",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Labour",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Arbeiderpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Irish Labour Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -23738,42 +23635,50 @@
         {
           "lang": "zh",
           "name": "反紧缩联盟－人民先于利润",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Anti-Austerity Alliance–People Before Profit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Aliança Anti-Austeridade - Pessoas Antes do Lucro",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Συμμαχία Κατά της Λιτότητας-Άνθρωποι Πάνω από το Κέρδος",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Anti-Austerity Alliance-People Before Profit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Alleanza Anti-austerità - Alleanza Popolo Prima del Profitto",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Comhghuaillíocht Frith-Dhéine-Comhghuaillíocht an Phobail roimh Bhrabús",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Альянс против жёсткой экономии — Люди важнее прибыли",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -23797,27 +23702,32 @@
         {
           "lang": "en",
           "name": "Reboot Ireland",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Renua Éireann",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Renua Irlanda",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "新時代愛爾蘭",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Renua Ireland",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -23842,577 +23752,314 @@
         {
           "lang": "zh",
           "name": "新芬黨",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "af",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "শিন ফেইন",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Σιν Φέιν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "شين فين",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Шинн Фейн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Шин Фејн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "Шин Фејн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Шинн Фейн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be-tarask",
           "name": "Шын Фэйн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "io",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "kv",
           "name": "Шинн Фейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "an",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Шын Фейн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "שין פיין",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "신페인",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "シン・フェイン党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yue",
           "name": "新芬黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "koi",
           "name": "Шинн фейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sk",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "شن‌فن",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Шин Фейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "scn",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Շինֆեյներներ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Şin Feyn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fy",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ka",
           "name": "შინ ფეინი",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "சின் பெயின்",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lrc",
           "name": "شین فئن",
-          "note": "multilingual"
-        },
-        {
-          "lang": "id",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "新芬党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pl",
           "name": "Shin Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "el",
           "name": "Σινν Φέιν",
-          "note": "multilingual"
-        },
-        {
-          "lang": "el",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ga",
           "name": "Shinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الشن فين",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الشين فين",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "شن فين",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Sinn fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eo",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Шин Фейн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Шинфейнер",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ru",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fi",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uk",
           "name": "Шин Фейн",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be",
           "name": "Шын Фэйн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "신페인 당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "신페인당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ko",
           "name": "신 페인",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Sinn Féin provisoire",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Provisonnal Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Provisional Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Provisonal Sinn Féin",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Feniani",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Sinnfeiner",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "シン・フェイン",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "シン・フェイン暫定派",
-          "note": "multilingual"
-        },
-        {
-          "lang": "yue",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "yue",
-          "name": "Sinn Féin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sh",
           "name": "Šin Fejn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sk",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "SF",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Sinn Fein",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "شن فن",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Sinn Fèin",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Sinn Fein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "008800"
@@ -24437,37 +24084,32 @@
         {
           "lang": "en",
           "name": "Social Democrats",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Na Daonlathaigh Shóisialta",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Social-Democratas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "社會民主黨 (愛爾蘭)",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Social Democrats",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Social Democrats",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt-br",
           "name": "Social-Democratas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -24489,134 +24131,148 @@
       "name": "Socialist Party",
       "other_names": [
         {
-          "lang": "de",
-          "name": "Socialist Party",
-          "note": "multilingual"
-        },
-        {
           "lang": "eu",
           "name": "Alderdi Sozialista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Partia Socjalistyczna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Социалистическая партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti socialiste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Socialist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Socialista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Páirtí Sóisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Partit Socialista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Socialistische Partij",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Socialistpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Socialista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "המפלגה הסוציאליסטית",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "社会党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Partido Socialista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "社会党 (アイルランド)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Socialist Party Irland",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Páirtí Sóisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Pairti Soisialach",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Socialist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Alderdi Sozialista(Irlanda)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pl",
           "name": "Páirti Sóisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pl",
           "name": "Irlandzka Partia Socjalistyczna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pl",
           "name": "Pairti Soisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Páirtí Sóisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Pairti Soisialach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -24640,32 +24296,38 @@
         {
           "lang": "en",
           "name": "Solidarity",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Comhaontas Frith-Ghéire",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "反紧缩联盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Solidarity (Partei)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Alliance anti-austérité",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Anti-Austerity Alliance",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -24689,12 +24351,14 @@
         {
           "lang": "en",
           "name": "United Left (Ireland)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Aontaithe an Chlé",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -24716,34 +24380,28 @@
       "name": "Workers and Unemployed Action Group",
       "other_names": [
         {
-          "lang": "pl",
-          "name": "Workers and Unemployed Action Group",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
           "name": "Workers and Unemployed Action Group",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Grúpa Gníomhaíochta na n-Oibrithe is iad atá Dífhostaithe",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "工人與失業者行動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ga",
           "name": "Grúpa Gníomhaíochta na nOibrithe agus na nDaoine Dífhostaithe",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ga",
-          "name": "Workers and Unemployed Action Group",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     }
