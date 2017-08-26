@@ -10,137 +10,116 @@
       {
         "lang": "pl",
         "name": "Walijska Partia Pracy",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Welsh Labour",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Laborista Gal·lès",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "Munkáspárt",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito Laburista del Galles",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Welsh Labour",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Welsh Labour",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nn",
-        "name": "Welsh Labour",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Welsh Labour",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "حزب کارگر (ولز)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cy",
         "name": "Llafur Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Welsh Labour",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Kimra Laborista Partio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Welsh Labour",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Welsh Labour Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti travailliste gallois",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "威爾斯工黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "ウェールズ労働党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "웨일스 노동당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "威爾士工黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "威尔士工党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gd",
         "name": "Pàrtaidh Làbarach na Cuimrigh",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Wales Labour Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Llafur Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Partito Laburista Gallese",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Welsh Labour",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "Welsh Labour Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -161,47 +140,50 @@
       {
         "lang": "ca",
         "name": "Partit Conservador Gal·lès",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Welsh Conservative Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "Konzervativní strana",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Kimra Konservisma Partio",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Welsh Conservative Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "威爾斯保守黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "웨일스 보수당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti conservateur gallois",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "המפלגה השמרנית הוולשית",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -222,252 +204,104 @@
       {
         "lang": "en",
         "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "af",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "br",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cy",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Πλάιντ Κάμρυ",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "es",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "et",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "eu",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fi",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "プライド・カムリ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "kv",
         "name": "Кӧмри ютыр",
-        "note": "multilingual"
-      },
-      {
-        "lang": "kw",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pl",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "pt-br",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ro",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Партия Уэльса",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Плайд Кімру",
-        "note": "multilingual"
-      },
-      {
-        "lang": "vec",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "威尔士党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "gl",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "is",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be",
         "name": "Партыя Уэльса",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sk",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "플라이드 컴리",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "פלייד קמרי",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "az",
         "name": "Pleyd Kamri",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
-      },
-      {
-        "lang": "bar",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "پلاید کامری",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Partio de Kimrujo",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "威爾士黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sco",
-        "name": "Plaid Cymru",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Plaid",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "The Party of Wales",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "Plaid Cymru – the Party of Wales",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Plaid",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "The Party of Wales",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -488,27 +322,26 @@
       {
         "lang": "en",
         "name": "Welsh Liberal Democrats",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Kimraj Liberalaj Demokratoj",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Welsh Liberal Democrats",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "威爾斯自由民主黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "웨일스 자유민주당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -527,329 +360,280 @@
     ],
     "other_names": [
       {
-        "lang": "en-gb",
-        "name": "UK Independence Party",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "UK Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "UKIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "UK Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "br",
         "name": "Strollad evit Dizalc’hted ar Rouantelezh-Unanet",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit de la Independència del Regne Unit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "Strana nezávislosti Spojeného království (UKIP)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cy",
         "name": "Plaid Annibyniaeth y Deyrnas Unedig",
-        "note": "multilingual"
-      },
-      {
-        "lang": "da",
-        "name": "UK Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Κόμμα Ανεξαρτησίας Ηνωμένου Βασιλείου",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "UK Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido de la Independencia del Reino Unido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "et",
         "name": "Suurbritannia Iseseisvuspartei",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "Yhdistyneen kuningaskunnan itsenäisyyspuolue",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hsb",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Partito per l'Indipendenza del Regno Unito",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "イギリス独立党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "kw",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "la",
         "name": "Factio Libertatis Britanniarum Regni",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Partia Niepodległości Zjednoczonego Królestwa",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Партия независимости Соединённого Королевства",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "英國獨立黨",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de-ch",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "영국 독립당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Partido da Independência do Reino Unido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "حزب استقلال پادشاهی متحد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ga",
         "name": "Páirtí Neamhspleách na Ríochta Aontaithe",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "Partidul pentru independența Regatului Unit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Stranka nezavisnosti UK",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "英國獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "英国独立党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "dsb",
-        "name": "United Kingdom Independence Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Партія незалежності Сполученого Королівства",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "oc",
         "name": "Partit de l'Independéncia del Reialme Unit",
-        "note": "multilingual"
-      },
-      {
-        "lang": "he",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "af",
         "name": "Verenigde Koninkryk Onafhanklikheidsparty",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr",
         "name": "Странка за независност Уједињеног Краљевства",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "حزب استقلال المملكة المتحدة",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mk",
         "name": "Партија за независност на Обединетото Кралство",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eu",
         "name": "Erresuma Batuaren Independentziaren Alderdia",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yue",
         "name": "英國獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hans",
         "name": "英国独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "英國獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-mo",
         "name": "英國獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-my",
         "name": "英国独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-sg",
         "name": "英国独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-tw",
         "name": "英國獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Partio por la Sendependeco de la Unuiĝinta Reĝlando",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sco",
         "name": "UK Unthirldom Pairty",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "Brit Függetlenségi Párt",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tr",
         "name": "Birleşik Krallık Bağımsızlık Partisi",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "United Kingdom Independence Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ja",
         "name": "英国独立党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ja",
-        "name": "UKIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "mk",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "mk",
         "name": "УКИП",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "Strana nezávislosti Spojeného království",
-        "note": "multilingual"
-      },
-      {
-        "lang": "cs",
-        "name": "UKIP",
-        "note": "multilingual"
-      },
-      {
-        "lang": "hu",
-        "name": "UKIP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -871,682 +655,818 @@
       {
         "lang": "zh-hans",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-sg",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-tw",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Sans étiquette",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "무소속",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "arz",
         "name": "سياسى مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Candidato independiente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "சுயேட்சை",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Parteiloser",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Independen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "無所属",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "ανεξάρτητος",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "independent politician",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "yue",
         "name": "獨立人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "onafhankelijk politicus",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "partilös",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "سياسي مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "político sem partido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "независимый",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mn",
         "name": "Бие даагч",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr-ec",
         "name": "независни политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tr",
         "name": "Bağımsız siyasetçi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "polític independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "sitoutumaton",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cy",
         "name": "Annibynnwr",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ur",
         "name": "آزاد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "az",
         "name": "Partiyasız",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "da",
         "name": "løsgænger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr",
         "name": "независни политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "کنشگر سیاسی مستقل",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "war",
         "name": "Independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "oc",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sr-el",
         "name": "nezavisni političar",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be",
         "name": "Беспартыйны",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "polityk niezrzeszony",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mr",
         "name": "अपक्ष",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "be-tarask",
         "name": "Беспартыйны",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "פוליטיקאי עצמאי",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nb",
         "name": "partiløs",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "nezávislý",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hu",
         "name": "független politikus",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Sendependa",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hi",
         "name": "निर्दलीय",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Nezavisni",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sco",
         "name": "independent politeecian",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sk",
         "name": "Nezávislý politik",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hak",
         "name": "Mò-tóng-sit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "นักการเมืองอิสระ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "uk",
         "name": "Незалежний політик",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sd",
         "name": "آزاد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "la",
         "name": "Politicus nullius factionis",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nan",
         "name": "Bû-tóng-che̍k",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tg",
         "name": "сиёсатмадори мустақил",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-mo",
         "name": "無黨籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-my",
         "name": "无党籍政治人物",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "mk",
         "name": "независен политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "tt",
         "name": "бәйсез",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "hy",
         "name": "անկախ քաղաքական գործիչ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "gd",
         "name": "neach-poileataigs neo-eisimeileach",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "無黨派",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "无党派人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "獨立人士",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "獨立候選人",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Sans etiquette",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Indépendant",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Non-inscrits",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fr",
         "name": "Non-inscrit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "arz",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidato civico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimientos cívicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Independientes",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatos cívicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidato Cívico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura independiente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimiento Cívico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura cívica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidata cívica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimientos civicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatos civicos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Movimiento Civico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidatura civica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Candidata civica",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "சுயேச்சை",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Unabhängiger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "freier Abgeordneter",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "id",
         "name": "Politikus independen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ja",
         "name": "無所属議員",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "onafhankelijke",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijloos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijloze",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "partijlozen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "vänstervilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "liberal vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "moderat vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "politiska vildar",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "obunden",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "politisk vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "frisinnad vilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "högervilde",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "سياسيون مستقلون",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Sem partido",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Político independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "pt",
         "name": "Candidato independente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tr",
         "name": "Bağımsız Politikacı",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tr",
         "name": "Serbest siyasetçi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Politicieni independenţi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Independent",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ro",
         "name": "Politicieni independenți",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Gwleidydd annibynnol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Annibynnol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cy",
         "name": "Annibynol",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Uden for partierne",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Frigænger",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Udenfor partierne",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Uafhængig",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "da",
         "name": "Partiløs",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "nonpartisan politician",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "independent member",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "candidato indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "politico indipendente",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "be-tarask",
         "name": "Беспартыйны палітык",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nb",
         "name": "uavhengig",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "bezpartajní",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "cs",
         "name": "bez stranické příslušnosti",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sr",
         "name": "нестраначки политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sr",
         "name": "ванстраначки политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "mk",
         "name": "непартиски политичар",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ru",
         "name": "независимый политик",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ru",
         "name": "беспартийный",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "tt",
         "name": "фиркасез",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   }
