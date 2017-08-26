@@ -3256,104 +3256,94 @@
       "name": "Tahoera'a huiraatira",
       "other_names": [
         {
-          "lang": "ca",
-          "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
-        },
-        {
           "lang": "en",
           "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Tahoeraa huiraatira",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Tahoeraa huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Tahoeraa huiraatira",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "人民陣線 (法屬玻里尼西亞)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "人民聯盟 (法屬波利尼西亞)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "人民联盟 (法属波利尼西亚)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Tāhō’ēra’a Huira’atira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Tahoera’a Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Tahoeraa huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Tahoeraa Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Tahoera'a",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Tahoera'a Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Tahoeraa Huiraatira",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Tahoeraa Huiraatiraa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Tahoeraa Huiratiraa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -3371,42 +3361,50 @@
         {
           "lang": "ca",
           "name": "Unió per la Democràcia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Union pour la démocratie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Union pour la démocratie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ty",
           "name": "Tāpura ’āmui nō te fa’aterera’a manahune",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "UPLD",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Union pour la democratie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Union Pour La Démocratie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ty",
           "name": "Tapura Amui No Te Faatereraa Manahune",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     }
