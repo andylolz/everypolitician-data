@@ -134,6 +134,19 @@
       "title": "Mayor of Accra"
     }
   ],
+  "Q33134598": [
+    {
+      "id": "Q21290881",
+      "label": "Member of the Parliament of Ghana",
+      "title": "Member of the Parliament of Ghana",
+      "qualifiers": {
+        "P580": "2010-10-19",
+        "P768": "Atiwa",
+        "P1365": "Kwasi Annoh Ankama",
+        "P4100": "New Patriotic Party"
+      }
+    }
+  ],
   "Q16211514": [
     {
       "id": "Q21290881",
