@@ -8,34 +8,34 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Democratic Congress",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Democratic Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bg",
         "name": "Демократичен конгрес",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "民主会議",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Congreso Democrático",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Congreso Democratico",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -48,59 +48,58 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "All Basotho Convention",
-        "note": "multilingual"
-      },
-      {
         "lang": "ja",
         "name": "全バソト会議",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "bg",
         "name": "Общобасотски конвент",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "All Basotho Convention",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "All Basotho Convention",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "全巴蘇陀大會黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "全巴索托大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Convención de Todos los Basotos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "全巴索托大會黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-cn",
         "name": "全巴苏陀大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Convencion de Todos los Basotos",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -113,64 +112,64 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Lesotho Congress for Democracy",
-        "note": "multilingual"
-      },
-      {
         "lang": "bg",
         "name": "Лесотски конгрес за демокрация",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Lesotho Congress for Democracy",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "et",
         "name": "Lesotho Vabaduskongress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Congrès du Lesotho pour la démocratie",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "レソト民主会議",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Lesotho Congress for Democracy",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "Congresul pentru Democrație din Lesotho",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "萊索托民主大會黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "莱索托民主大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Congreso por la Democracia de Lesoto",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Lesotho Congress for Democracy, \"LCD\"",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -191,62 +190,56 @@
       {
         "lang": "en",
         "name": "Basotho National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "الحزب الوطني الباسوتي",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Basotho National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "バソト国民党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Basotho National Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Basotho National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "巴蘇陀蘭國民黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "巴索托国民党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Partido Nacional Basoto",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "巴索托國民黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-cn",
         "name": "巴苏陀兰国民党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "BNP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -259,14 +252,10 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Popular Front for Democracy",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Popular Front for Democracy",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -281,7 +270,8 @@
       {
         "lang": "en",
         "name": "Reformed Congress of Lesotho",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -294,24 +284,16 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Marematlou Freedom Party",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Marematlou Freedom Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "マレマトロウ自由党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Marematlou Freedom Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -324,49 +306,52 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Basutoland Congress Party",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "Basutoland Congress Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Basotho Congress Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "巴蘇陀蘭大會黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "巴苏陀兰大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "バソトランド会議党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "巴索托大會黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh-cn",
         "name": "巴索托大会党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ja",
         "name": "バソト会議党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -381,22 +366,20 @@
       {
         "lang": "en",
         "name": "National Independent Party",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "National Independent Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "民族獨立黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "民族独立党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   },
@@ -411,12 +394,14 @@
       {
         "lang": "de",
         "name": "Lesotho People’s Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Lesotho Peoples' Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   }
