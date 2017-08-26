@@ -1884,7 +1884,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1997-10-30",
+        "P1365": "Cheryl Kernot",
+        "P582": "2008-06-30"
+      }
     }
   ],
   "Q6110750": [
@@ -1998,7 +2003,13 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P768": "Victoria",
+        "P580": "1983-03-05",
+        "P582": "1995-03-06",
+        "P1366": "Jacinta Collins"
+      }
     }
   ],
   "Q6551715": [
@@ -3561,7 +3572,12 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "1996-07-01",
+        "P1366": "Peter Whish-Wilson",
+        "P582": "2012-06-15"
+      }
     },
     {
       "id": "Q19007285",
@@ -4033,7 +4049,11 @@
       "id": "Q6814428",
       "label": "member of the Australian Senate",
       "title": "member of the Australian Senate",
-      "description": "Representative"
+      "description": "Representative",
+      "qualifiers": {
+        "P580": "2002-07-01",
+        "P582": "2008-06-30"
+      }
     }
   ],
   "Q16731201": [
