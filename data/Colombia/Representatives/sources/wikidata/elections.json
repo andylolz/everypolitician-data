@@ -10,17 +10,20 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian legislative election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Colombiaanse congresverkiezingen 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -38,52 +41,62 @@
       {
         "lang": "en",
         "name": "Colombian legislative election, 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Colombiaanse congresverkiezingen 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni parlamentari in Colombia del 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones parlamentaria de Colombia de 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones parlamentarias de Colombia",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "Colombiaanse congresverkiezingen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "nl",
         "name": "Colombiaanse parlementsverkiezingen 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "it",
         "name": "Elezioni parlamentari colombiane 2006",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -101,62 +114,56 @@
       {
         "lang": "pt",
         "name": "Eleições legislativas na Colômbia em 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pl",
         "name": "Wybory parlamentarne w Kolumbii w 2010 roku",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni parlamentari in Colombia del 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives colombiennes de 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Колумбии",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Κολομβιανές βουλευτικές εκλογές 2010",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Colombian parliamentary election, 2010",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Colombian parliamentary election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt-br",
         "name": "Eleições legislativas na Colômbia em 2010",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Colombian parliamentary election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -175,17 +182,20 @@
       {
         "lang": "nl",
         "name": "Colombiaanse congresverkiezingen 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1998",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -203,7 +213,8 @@
       {
         "lang": "en",
         "name": "Colombian Constitutional Assembly election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -221,12 +232,14 @@
       {
         "lang": "en",
         "name": "Colombian legislative election, 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "elecciones legislativas de Colombia de 1982",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -244,12 +257,14 @@
       {
         "lang": "en",
         "name": "Colombian legislative election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "elecciones legislativas de Colombia de 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -267,12 +282,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -290,12 +307,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1958",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -313,12 +332,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1960",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1960",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -336,12 +357,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1962",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -359,12 +382,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -382,12 +407,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1966",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -405,12 +432,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1968",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1968",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -428,12 +457,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1986",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -451,12 +482,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1991",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1991",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -474,12 +507,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1994",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -497,22 +532,26 @@
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Colombia de 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Президентские выборы в Колумбии (1970)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian general election, 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle colombienne de 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -533,22 +572,26 @@
       {
         "lang": "es",
         "name": "Elecciones presidenciales de Colombia de 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Президентские выборы в Колумбии (1974)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian general election, 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élection présidentielle colombienne de 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -569,52 +612,50 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives colombiennes de 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Колумбии",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Κολομβιανές βουλευτικές εκλογές 2014",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-ca",
-        "name": "Colombian parliamentary election, 2014",
-        "note": "multilingual"
-      },
-      {
-        "lang": "en-gb",
-        "name": "Colombian parliamentary election, 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "elezioni parlamentari in Colombia del 2014",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2014年哥倫比亞議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
         "name": "2014年哥伦比亚议会选举",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -633,12 +674,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1931",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1931",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -656,12 +699,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1933",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1933",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -679,12 +724,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1935",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1935",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -702,12 +749,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1937",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1937",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -725,12 +774,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1939",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1939",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -748,12 +799,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1941",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1941",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -771,12 +824,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1943",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1943",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -794,12 +849,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1945",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1945",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -817,12 +874,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -840,12 +899,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1949",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1949",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -863,12 +924,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1951",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1951",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -886,12 +949,14 @@
       {
         "lang": "es",
         "name": "Elecciones legislativas de Colombia de 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Colombian parliamentary election, 1953",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
