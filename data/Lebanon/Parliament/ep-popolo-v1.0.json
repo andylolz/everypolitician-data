@@ -8095,167 +8095,200 @@
         {
           "lang": "fr",
           "name": "Ama",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Amal Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "ขบวนการอมัล",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ast",
           "name": "Movimientu Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hr",
           "name": "Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Amal-Bewegung",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "جنبش امل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حركة أمل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Амал",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "アマル",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Movimiento Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "אמל",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Амаль",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Movimento Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Harakat Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Амаль",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Ruch Amal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Amal-bevegelsen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "아말 운동",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "阿邁勒運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "阿迈勒运动",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Amalrörelsen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Amalrörelse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "سازمان امل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حركة امل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حركة المحرومين",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "أفواج المقاومة اللبنانية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "אמ\"ל",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Amal-militsen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -8273,37 +8306,44 @@
         {
           "lang": "ar",
           "name": "حزب البعث العربي الاشتراكي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Arab Socialist Ba'ath Party of Lebanon",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "阿拉伯社會復興黨 - 黎巴嫩地區",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Baath Árabe Socialista del Líbano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب البعث اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب البعث العربي الاشتراكي اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Baath Arabe Socialista del Libano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -8327,52 +8367,62 @@
         {
           "lang": "de",
           "name": "Demokratische Linke Bewegung",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Mouvement de la gauche démocratique (Liban)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Democratic Left Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حركة اليسار الديمقراطي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Demokratyczny Ruch Lewicy (Liban)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "民主左翼運動 (黎巴嫩)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "レバノン民主主義左派運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Mouvement de la gauche démocratique (liban)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Mouvement de la gauche democratique (Liban)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حركه اليسار الديمقراطي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -8396,152 +8446,176 @@
         {
           "lang": "fr",
           "name": "Courant patriotique libre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "التيار الوطني الحر",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Free Patriotic Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Wolny Ruch Patriotyczny",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Вільна національна течія Лівану",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Freie Patriotische Bewegung",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Movimiento Patriótico Libre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הזרם הפטריוטי החופשי",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "التيار الوطنى الحر",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Свободное патриотическое движение",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Vrije Patriottische Beweging",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Movimento Patriottico Libero",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Ազատ հայրենասիրական շարժում",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "자유애국운동",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "自由愛國運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "自由愛国運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Volné vlastenecké hnutí",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Den frie patriotiske bevegelse",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Courant Patriotique Libre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Sois belle et vote",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "التيار الوطنى الحر",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "FPB",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Patriotico Libre",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Free Patriotic Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "التيار الوطني الحر",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "al-Tayyar al-Watání al-Horr",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "CPL",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "FPB",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "التيار الوطني الحر",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Courant patriotique libre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -8566,112 +8640,128 @@
         {
           "lang": "fr",
           "name": "Courant du futur",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Future Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "未来阵线",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Moviment Futur",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Zukunftsbewegung",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "تيار المستقبل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Strumień Przyszłości",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Hnutí budoucnosti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "未来運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Movimiento del Futuro",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "זרם העתיד",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Gelecek Hareketi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Аль-Мустакбаль",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "جریان المستقبل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Ապագայի շարժում",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Movimento il Futuro",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "미래운동",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Future Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Etorkizunerako Mugimendua",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Framtidsbevegelsen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "تيار المستقبل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Courant du futur",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -8695,1307 +8785,1352 @@
         {
           "lang": "zh",
           "name": "真主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "jv",
           "name": "Hizbullah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pl",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Hezbola",
-          "note": "multilingual"
-        },
-        {
-          "lang": "bs",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Hezbolá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "ஹிஸ்புல்லா",
-          "note": "multilingual"
-        },
-        {
-          "lang": "af",
-          "name": "Hezbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hu",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ms",
           "name": "Hizbullah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sw",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "et",
           "name": "Ḩizb Allāh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "br",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Χεζμπολάχ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ia",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pnb",
           "name": "حزب اللہ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Hizbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الله",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "is",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Hizbulaho",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yi",
           "name": "כעזבאלא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Хезболла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "Хезболах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Хізбалла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be-tarask",
           "name": "Хэзбала",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nn",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "io",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Hizbullah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hr",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nan",
           "name": "Hizb Allah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Хезбала",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "חזבאללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "헤즈볼라",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mwl",
           "name": "Hizbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lv",
-          "name": "Hezbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "it",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gl",
           "name": "Hesbulá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ps",
           "name": "د حزب الله اسلامی غورځنګ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "ヒズボラ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "vi",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Hezbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sh",
-          "name": "Hezbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "scn",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "हिजबुल्लाह",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sk",
           "name": "Hizballáh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mn",
           "name": "Хезболлах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Հեզբոլլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cv",
           "name": "Хиспăлла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "ฮิซบุลลอฮ์",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ro",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Hesbol·là",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cy",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sl",
           "name": "Hezbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Hizballáh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب‌الله لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Хизбула",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "te",
           "name": "హిజ్బుల్లాహ్",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arc",
           "name": "ܚܙܒܐܠܠܗ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "حزب اللہ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ka",
           "name": "ჰეზბოლა",
-          "note": "multilingual"
-        },
-        {
-          "lang": "lt",
-          "name": "Hezbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pam",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bn",
           "name": "হিজবুল্লাহ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "oc",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Hizbollah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الله",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pa",
           "name": "ਹਿਜ਼ਬੁੱਲਾ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mr",
           "name": "हिझबुल्ला",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ml",
           "name": "ഹിസ്ബുല്ല",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mzn",
           "name": "حزب‌الله",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lrc",
           "name": "حئزبوللە",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gsw",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tt",
           "name": "Xizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yue",
           "name": "真主黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "wuu",
           "name": "真主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "kk",
           "name": "Хизбуллаһ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "黎巴嫩真主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "真主黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "真主教",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pl",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Hizbula",
-          "note": "multilingual"
-        },
-        {
-          "lang": "eu",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbolá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbulá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbolab",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hezbola",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbula",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbulah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "es",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbola",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hisbulá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hisbula",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ta",
           "name": "ஹெஸ்புல்லா",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ms",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Hizb Allah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "et",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hisbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hizbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hizbulla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hesbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hezbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hesbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hezbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hizballah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sv",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Hesbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Hezbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "المقاومة الإسلامية في لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "المقاومة الإسلامية اللبنانية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الله في لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الله اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "‮حزب الله‬",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hizbolá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Esbolá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hezzbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hezbullah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pt",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hizbola",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Hezbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hizballa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hizbolaho",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hizbala",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hezbolaho",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Hezbolao",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "חיזבאלא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "חיזבאללא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "חיזבאלה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "חיזיבאלה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "חיזבאללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "כיזיבאלא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "כיזבאללא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "כיזבולא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "כיזבאלא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хизболла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хезболлах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хизбаллах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хизбулла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хезбалла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хизбалла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Хизбуллах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Hizbullah Örgütü",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uk",
           "name": "Хезболлах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uk",
           "name": "Хезболла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nn",
           "name": "Hizb Allah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nn",
           "name": "Hizballah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nn",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hr",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hr",
           "name": "Hezbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Hizbollahs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Hizbolla",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Hispolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be",
           "name": "Хізбала",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be",
           "name": "Хізбалах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be",
           "name": "Хезбалах",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "חיזבאללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "החזבאללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "חזב אללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "חיזבללה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Hesbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Parti de Dieu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "lv",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "lv",
           "name": "Hezballāh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Ezbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "gl",
           "name": "Hisbulá",
-          "note": "multilingual"
-        },
-        {
-          "lang": "gl",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "gl",
           "name": "Hesbolá",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hisbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Partei Gottes",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hisbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hizballah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "ヒズブッラー",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "ヒズボッラー",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "ヘズボッラー",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "vi",
           "name": "Héc-bô-la",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "vi",
           "name": "Hecbôla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sh",
           "name": "Hezbolah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hi",
           "name": "हिज्बुल्लाह्",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հիզբալլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հիզբ Ալլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հիզբոլլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հեզբոլլա",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հզբալլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հեզբոլա",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հեզբալլահ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cv",
           "name": "Хезболла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cv",
           "name": "Хиспӑлла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "th",
           "name": "ฮิซบอลเลาะห์",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "th",
           "name": "ฮิซบุลลอหฺ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "th",
           "name": "ฮิซบุลเลาะห์",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "th",
           "name": "เฮซบอลลาห์",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hesbol•là",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hezbol·lah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hezbol·là",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hesbol.là",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hesboŀlà",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hizb Allāh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "ca",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "la",
           "name": "Factio Dei",
-          "note": "multilingual"
-        },
-        {
-          "lang": "la",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "la",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Hisbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Hizbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Hizb Allah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cy",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Hezballah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sl",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "Hizbaláh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "Hizbu'lláh",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "Hizbulláh",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "حزب الله لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "arc",
           "name": "ܚܙܒܠܠܗ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ka",
           "name": "ჰეზბოლაჰ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hizbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hizballa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hizb Allah",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Hezbollah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hizballah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hizbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hezbolla",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Hezbullah",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "حزب الله",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "kk",
           "name": "Хезболла",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -10019,192 +10154,224 @@
         {
           "lang": "eo",
           "name": "Social-demokrata partio Hunĉakian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Sozialdemokratische Hntschak-Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Социал-демократическая партия Гнчакян",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Social Democrat Hunchakian Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti social-démocrate Hentchak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Սոցիալ դեմոկրատ Հնչակյան կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Hınçak komitesi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Hnçak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Social Democratico Hunchakian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الهنشاك",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الهنشاق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "המפלגה הסוציאל-דמוקרטית הנצ'אק",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب سوسیال دموکرات هنچاکیان",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Social Democrat Hunchakian Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "社會民主亨察人黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "社会民主フンチャク党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "Partidul Social-Democrat Hunceac",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Henĉako",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Huntschak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Гнчак",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Hentchak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Henchak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Parti Social-Démocrate Hentchakian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Hintchak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հնչակյան կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Սոցիալ-դեմոկրատ հնչակյան կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հնչակյաններ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Սոցիալ դեմոկրատ Հնչակյան կուսակցության",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Սոցիալ դեմոկրատական հնչակյան կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "ՍԴՀԿ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Սոցիալ-դեմոկրատական հնչակյան կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հնչակներ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Hınçak Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Hınçak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Hınçak cemiyeti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Hentchak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "フンチャク党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الهانشاك",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -10222,682 +10389,818 @@
         {
           "lang": "zh-hans",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Sans étiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "무소속",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "سياسى مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Candidato independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ta",
           "name": "சுயேட்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Parteiloser",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "無所属",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "ανεξάρτητος",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "independent politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yue",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "onafhankelijk politicus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "partilös",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "سياسي مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "político sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "независимый",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mn",
           "name": "Бие даагч",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-ec",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Bağımsız siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "polític independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "sitoutumaton",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cy",
           "name": "Annibynnwr",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ur",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Partiyasız",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "løsgænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr",
           "name": "независни политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "کنشگر سیاسی مستقل",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "war",
           "name": "Independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "oc",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sr-el",
           "name": "nezavisni političar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "polityk niezrzeszony",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mr",
           "name": "अपक्ष",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "פוליטיקאי עצמאי",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "nezávislý",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "független politikus",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Sendependa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hi",
           "name": "निर्दलीय",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Nezavisni",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sco",
           "name": "independent politeecian",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sk",
           "name": "Nezávislý politik",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hak",
           "name": "Mò-tóng-sit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "th",
           "name": "นักการเมืองอิสระ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Незалежний політик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sd",
           "name": "آزاد",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Politicus nullius factionis",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nan",
           "name": "Bû-tóng-che̍k",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-mo",
           "name": "無黨籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-my",
           "name": "无党籍政治人物",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "независен политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tt",
           "name": "бәйсез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "անկախ քաղաքական գործիչ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "gd",
           "name": "neach-poileataigs neo-eisimeileach",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "無黨派",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "无党派人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立人士",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "zh",
           "name": "獨立候選人",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Sans etiquette",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Indépendant",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrits",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Non-inscrit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "arz",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Independientes",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos cívicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidato Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura independiente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Cívico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata cívica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimientos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatos civicos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Movimiento Civico",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidatura civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Candidata civica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ta",
           "name": "சுயேச்சை",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Unabhängiger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "freier Abgeordneter",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "id",
           "name": "Politikus independen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "無所属議員",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "onafhankelijke",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloos",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijloze",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "partijlozen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "vänstervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "liberal vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "moderat vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politiska vildar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "obunden",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "politisk vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "frisinnad vilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "högervilde",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "سياسيون مستقلون",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Sem partido",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Político independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Candidato independente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Bağımsız Politikacı",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Serbest siyasetçi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenţi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Independent",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ro",
           "name": "Politicieni independenți",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Gwleidydd annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynnol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cy",
           "name": "Annibynol",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uden for partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Frigænger",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Udenfor partierne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Uafhængig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Partiløs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "nonpartisan politician",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "independent member",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "candidato indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "politico indipendente",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "be-tarask",
           "name": "Беспартыйны палітык",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "uavhengig",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bezpartajní",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "bez stranické příslušnosti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "нестраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sr",
           "name": "ванстраначки политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "mk",
           "name": "непартиски политичар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "независимый политик",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "беспартийный",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tt",
           "name": "фиркасез",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -10947,477 +11250,560 @@
         {
           "lang": "zh-hans",
           "name": "黎巴嫩长枪党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "黎巴嫩長槍黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "黎巴嫩長槍黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pam",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הפלנגות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Phalanges libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Falangi libanesi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Kata’ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "ファランヘ党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Falangisme",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Falangistpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبنانية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Libana Socialdemokrata Partio",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yi",
           "name": "פאלאנגען",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Катаиб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Kataeb Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Kataeb Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Falanges Libaneses",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Катаїб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Phalanges",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Katáib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب فالانژ لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Катаеб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lt",
           "name": "Libano falanga",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "黎巴嫩长枪党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Falangistpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الكتايب اللبنانيه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de-ch",
           "name": "Kata’ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Κόμμα Καταέμπ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Kataeb Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Kataeb Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt-br",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Քաթայիբ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Partai Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Libanoar Falangeak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הפלאנגות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "פלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "פלאנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "כתאיב",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלאנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "מפלגת הפלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלנג'ות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "מפלגת הכתאיב",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Phalanges chrétiennes libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Parti Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Al Kataëb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataëbs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataëb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Falange libanesa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Falange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Falange libanese",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Phalangisten",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Falange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Katai'b",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataebpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Falangister",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Falangisterna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبنانيه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الكتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Partido Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Partido Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "פאלאנג",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Falanjist",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit de les Falanges Libaneses",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Falange Libanesa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit Demòcrata Social",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "فالانژهای لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "شبه نظامیان فالانژ لبنانی",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "حزب کتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bg",
           "name": "Фалангисти",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataibpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Katai'b",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataebpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Lebanese Phalanges Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Phalange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -11442,477 +11828,560 @@
         {
           "lang": "zh-hans",
           "name": "黎巴嫩长枪党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "黎巴嫩長槍黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "黎巴嫩長槍黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pam",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הפלנגות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Phalanges libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Falangi libanesi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Kata’ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "ファランヘ党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Falangisme",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Falangistpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبنانية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Libana Socialdemokrata Partio",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yi",
           "name": "פאלאנגען",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Катаиб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Kataeb Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Kataeb Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Falanges Libaneses",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Катаїб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "la",
           "name": "Phalanges",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Katáib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب فالانژ لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Катаеб",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lt",
           "name": "Libano falanga",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "黎巴嫩长枪党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Falangistpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الكتايب اللبنانيه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de-ch",
           "name": "Kata’ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Κόμμα Καταέμπ",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Kataeb Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Kataeb Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt-br",
           "name": "Falanges Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Քաթայիբ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Partai Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eu",
           "name": "Libanoar Falangeak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הפלאנגות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "פלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "פלאנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "כתאיב",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלאנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "מפלגת הפלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלנג'ות הנוצריות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "הפלנגות",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "מפלגת הכתאיב",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Phalanges chrétiennes libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Parti Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Al Kataëb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataëbs",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Kataëb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Falange libanesa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Falange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Falange libanese",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Phalangisten",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Falange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Katai'b",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataebpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Falangister",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Falangisterna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبنانيه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الكتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الكتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Partido Kata'ib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Partido Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "yi",
           "name": "פאלאנג",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Falanjist",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit de les Falanges Libaneses",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Falange Libanesa",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Partit Demòcrata Social",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "فالانژهای لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "شبه نظامیان فالانژ لبنانی",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "حزب کتائب",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bg",
           "name": "Фалангисти",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataibpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Katai'b",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataebpartiet",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nb",
           "name": "Kataib",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Lebanese Phalanges Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Phalange",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "Kataeb",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -11941,77 +12410,86 @@
         {
           "lang": "fr",
           "name": "Parti démocratique libanais",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Lebanese Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Libanesische Demokratische Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "الحزب الديمقراطي اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Libańska Partia Demokratyczna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "המפלגה הדמוקרטית הלבנונית",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Democratico Libanese",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Lebanese Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "黎巴嫩民主黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti Démocratique Libanais",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Parti democratique libanais",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الحزب الديموقراطي اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Parti démocratique libanais",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Parti democratique libanais",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hizb al-democraty al-lubnany",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12036,152 +12514,164 @@
         {
           "lang": "eo",
           "name": "Libanaj Fortoj",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pam",
           "name": "Forces Libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Siły Libańskie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "yi",
           "name": "לבנון קרעפטן",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Ливанские силы",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הכוחות הלבנוניים",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Forces libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Lebanese Forces",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Fuerzas Libanesas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Партія Ліванських сил",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Forze Libanesi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Forces Libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arc",
           "name": "ܚܝܠܐ ܠܒܢܝܐ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "القوات اللبنانية",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Al Qouwat al Lubnania",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Forces Libanaises",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Al Qouwat al Lubnania",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "القوات اللبنانيه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Λιβανικές Δυνάμεις",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "レバノン軍団",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "القوات اللبنانیه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "黎巴嫩力量",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Լիբանանյան ուժեր",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Lübnan Kuvvetleri",
-          "note": "multilingual"
-        },
-        {
-          "lang": "pam",
-          "name": "Lebanese Forces",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הכוחות הלבנונים",
-          "note": "multilingual"
-        },
-        {
-          "lang": "de",
-          "name": "Lebanese Forces",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "arc",
           "name": "ܚܝܠܐ ܠܒܢܢܝܐ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "القوات اللبنانيه",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nb",
-          "name": "Lebanese Forces",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12220,77 +12710,92 @@
         {
           "lang": "fr",
           "name": "Brigade Marada",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "تيار المردة",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Marada Strijdkrachten",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Marada-Brigade",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "בריגדת מרדה",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Brygada Marada",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Marada Movement",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "تيار المرده",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Movimento Marada",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "馬拉達運動",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "ميليشيا المردة",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "تيار المرده",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Marada Brigade",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Zgharta Liberation Army",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "he",
           "name": "צבא השחרור של זע'רתא",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12315,102 +12820,122 @@
         {
           "lang": "zh-hans",
           "name": "自由国民党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "自由國民黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
           "name": "自由國民黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "National-Liberale Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Narodowa Partia Liberalna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti national libéral",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "המפלגה הליברלית הלאומית",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "National Liberal Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Nacional Liberal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Національно-ліберальна партія",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الوطنيين الأحرار",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Nationaal-Liberale Partij",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الوطنيين الأحرار",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "自由国民党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Национально-либеральная партия",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Nazionalisti Liberi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "国民自由党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti national liberal",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Liberal Nacional",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "uk",
           "name": "Національно-ліберальна партія Лівану",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12448,147 +12973,164 @@
         {
           "lang": "pl",
           "name": "Socjalistyczna Partia Postępu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti socialiste progressiste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "המפלגה הסוציאליסטית הפרוגרסיבית",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Socialista Progresista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Progressive Socialist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Прогресивна соціалістична партія Лівану",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Socialista Progressista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cy",
           "name": "Plaid Sosialaidd Flaengar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Progressive Sozialistische Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "進歩社会党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Pokroková socialistická strana",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب سوسیالیست ترقی‌خواه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lt",
           "name": "Libano progresyvi socialistinė partija",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "الحزب التقدمي الاشتراكي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Progressieve Socialistische Partij",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Прогрессивно-социалистическая партия Ливана",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Προοδευτικό Σοσιαλιστικό Κόμμα",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-ca",
-          "name": "Progressive Socialist Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
-          "name": "Progressive Socialist Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "진보사회당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "社會進步黨 (黎巴嫩)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "黎巴嫩社會進步黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "黎巴嫩社会进步党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Al-Hizb at-taqadummi al-ischtiraki",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Sozialistische Fortschrittspartei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Al-Hizb at-taqaddumi al-ischtiraki",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "حزب سوسیالیست ترقی خواه",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الحزب التقدمي الأشتراكي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الحزب التقدمي الإشتراكي",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12612,132 +13154,152 @@
         {
           "lang": "eo",
           "name": "Armena Liberala Demokratia Partio",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Ռամկավար ազատական կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Armenian Democratic Liberal Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Ermeni Demokrat Liberal Parti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Demokratisch-Liberale Partei (Armenien)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Armenakan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الرامغافار",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti libéral démocrate arménien",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Liberale Democratico Armeno",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الرامغافار",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "حزب لیبرال دموکرات ارمنی",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Armenian Democratic Liberal Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "亞美尼亞民主自由黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "アルメニア民主自由党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "Partidul Liberal Democrat Armean",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Партия Рамкавар Азатакан",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Արմենական կազմակերպություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Ռամկավար Ազատական Կուսակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Ռամկավար Ազատական Կուսակցություն։",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "ՌԱԿ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Parti libéral démocrate arménien",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Armenekan Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Armenakan",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Ramgavar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Ramgavar",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Рамкавар",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12760,27 +13322,32 @@
         {
           "lang": "fr",
           "name": "Parti Solidarité",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Solidarity Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "團結黨 (黎巴嫩)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب التضامن اللبناني",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti Solidarité (liban)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -12805,12 +13372,14 @@
         {
           "lang": "en",
           "name": "Syrian Social Nationalist Party in Lebanon",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "الحزب السوري القومي الاجتماعي في لبنان",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -12835,622 +13404,728 @@
         {
           "lang": "pl",
           "name": "Armeńska Federacja Rewolucyjna",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Fédération révolutionnaire arménienne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "he",
           "name": "הפדרציה המהפכנית הארמנית",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Federación Revolucionaria Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lad",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Federazione Rivoluzionaria Armena",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "et",
           "name": "Dašnaktshuthjun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Armenische Revolutionäre Föderation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "id",
           "name": "Federasi Revolusionaris Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "アルメニア革命連盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Armenian Revolutionary Federation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Armeniska revolutionsfederationen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ar",
           "name": "حزب الطاشناق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pt",
           "name": "Federação Revolucionária Armênia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "eo",
           "name": "Armena Revolucia Federacio",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Дашнакцутюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hy",
           "name": "Հայ Հեղափոխական Դաշնակցություն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "tr",
           "name": "Ermeni Devrimci Federasyonu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ca",
           "name": "Daixnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Armenian vallankumouksellinen liitto",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Arménská revoluční federace",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Арменска революционна федерация",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fa",
           "name": "فدراسیون انقلابی ارمنی",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ka",
           "name": "დაშნაკცუთიუნი",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "az",
           "name": "Daşnaksütun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lt",
           "name": "Armėnijos revoliucinė federacija",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Armeniens Revolutionære Føderation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Дашнакцутюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "Federația Revoluționară Armeană",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "亚美尼亚革命联盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uz",
           "name": "Dashnaksutyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "arz",
           "name": "حزب الطاشناق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "Ерменска револуционерна федерација",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "lrc",
           "name": "فدراسیون وضع آلیشت کار ارمنی",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Дашнакцуцюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Dachnaks",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Dachnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Tachnag",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "Federation revolutionnaire armenienne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Federacion Revolucionaria Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Federacion Revolucionaria de Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Federación Revolucionaria de Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "it",
           "name": "Tashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Dašnaktsutjun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Dašnakk",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Dašnakid",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Armeenia Revolutsiooniline Föderatsioon",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "et",
           "name": "Armeenia Revolutsiooniline Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Hay Heghapokhakan Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Armenische Revolutionsföderation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Armenische Revolutionsvereinigung",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Fédération révolutionnaire arménienne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Federation revolutionnaire armenienne",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Tashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Daschnaken",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "id",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "id",
           "name": "Federasi Revolusioner Armenia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ja",
           "name": "ダシナクツチュン",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Tasnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "nl",
           "name": "Armeense Revolutionaire Federatie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Armeniska revolutionära federationen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Hay Heghapokhakan Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Tashnag",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Dasjnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Dasjnaker",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "sv",
           "name": "Dashnaks",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "حزب الطشناق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "الطاشناق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ar",
           "name": "طاشناق",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Tashnag",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "F.R.A.",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Federação Revolucionária Arménia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Federação Revolucionaria Arménia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "pt",
           "name": "Federação Revolucionaria Armênia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "eo",
           "name": "Daŝnako",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Армянская Революционная Федерация Дашнакцутюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Армянская революционная федерация",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Дашнак",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "Дашнаки",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "АРФ Дашнакцутюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "АРФД",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ru",
           "name": "АРФ «Дашнакцутюн»",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Հ.Յ.Դ.",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "hy",
           "name": "Դաշնակցութիւն",
-          "note": "multilingual"
-        },
-        {
-          "lang": "hy",
-          "name": "Հայ Յեղափոխական Դաշնակցութիւն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Taşnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Taşnaksütyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Taşnak Partisi",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Taşnaklar",
-          "note": "multilingual"
-        },
-        {
-          "lang": "tr",
-          "name": "Armenian Revolutionary Federation",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Taşnaksutyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "tr",
           "name": "Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Dashnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Hay Heghapokhakan Dashnaktsutiun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ca",
           "name": "Federació Revolucionària Armènia",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Dašnaktsutjun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Dašnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fi",
           "name": "Dašnatsutjun",
-          "note": "multilingual"
-        },
-        {
-          "lang": "cs",
-          "name": "ARF",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "cs",
           "name": "Dašnaci",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bg",
           "name": "Дашнакцутюн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "bg",
           "name": "Дашнакцютун",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "داشناک‌ها",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "داشناک ها",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "داشناک",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fa",
           "name": "داشناکسیون",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ka",
           "name": "სომხეთის რევოლუციური ფედერაცია",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ka",
           "name": "დაშნაკცუტიუნი",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "ka",
           "name": "დაშნაკები",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "az",
           "name": "Daşnaktütyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "az",
           "name": "Taşnak",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "az",
           "name": "Daşnaksütyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Dashnaktsutyun",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "ARF",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Հայ Յեղափոխական Դաշնակցութիւն",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
