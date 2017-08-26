@@ -5504,42 +5504,50 @@
         {
           "lang": "ru",
           "name": "Независимые",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "The Independents",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Les Indépendants",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Незалежні",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Die Unabhängigen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Gli Indipendenti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "무소속 (리히텐슈타인)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Indipendenti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -5564,127 +5572,152 @@
         {
           "lang": "fr",
           "name": "Parti progressiste des citoyens",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Fortschrittliche Bürgerpartei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Fortschrittliche Bürgerpartei in Liechtenstein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Progressive Citizens' Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "et",
           "name": "Progressiivne Kodanikepartei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Edistyksellinen kansanpuolue",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "Haladás Polgári Párt",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Fortschrittliche Bürgerpartei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Postępowa Partia Obywatelska",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Прогрессивная гражданская партия в Лихтенштейне",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Napredna građanska stranka u Lihtenštajnu",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Прогресивна громадянська партія Ліхтенштейну",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Cívico Progresista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Fortschrittliche Bürgerpartei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Прогресивна гражданска партия в Лихтенщайн",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Progressista dei Cittadini",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Προοδευτικό Κόμμα Πολιτών",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
           "name": "進步公民黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
           "name": "进步公民党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "リヒテンシュタイン進歩市民党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "진보시민당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Fortschrittliche Bürgerpartei in Liechtenstein",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "FBP",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "de",
           "name": "FBP",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Civico Progresista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -5708,82 +5741,98 @@
         {
           "lang": "fr",
           "name": "Liste libre",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Freie Liste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Freie Liste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Free List",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Vapaa lista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Lista Libera",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Freie Liste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Wolna Lista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Свободный список",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Slobodna lista",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Вільний список",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Freie Liste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "be",
           "name": "Свабодны спіс",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "자유 명단",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Freie Liste",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "FL",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -5821,122 +5870,146 @@
         {
           "lang": "fr",
           "name": "Union patriotique",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Vlastenecká unie",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "da",
           "name": "Vaterländische Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Vaterländische Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Fatherland Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "et",
           "name": "Isamaaline Liit",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fi",
           "name": "Isänmaallinen liitto",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "hu",
           "name": "Anyaországi Unió",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Unione Patriottica",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nl",
           "name": "Vaterländische Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "pl",
           "name": "Unia Ojczyźniana",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Патриотический союз",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sh",
           "name": "Domovinska unija",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Fosterlandsunionen",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "愛國聯盟",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Unión Patriótica (Liechtenstein)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "bg",
           "name": "Патриотичен съюз",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "uk",
           "name": "Патріотичний союз",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "nb",
           "name": "Vaterländische Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "el",
           "name": "Πατριωτική Ένωση",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "祖国連合 (リヒテンシュタイン)",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "애국연합",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Vaterländische Union",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "fr",
           "name": "VU",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     }
