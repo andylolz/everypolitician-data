@@ -330,7 +330,9 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P580": "2001-06-07",
-        "P1365": "William Thompson"
+        "P1365": "William Thompson",
+        "P582": "2017-05-03",
+        "P1366": "Barry McElduff"
       }
     },
     {
@@ -2203,7 +2205,13 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1987-06-12",
+        "P1365": "Enoch Powell",
+        "P582": "2010-04-12",
+        "P1366": "Margaret Ritchie"
+      }
     },
     {
       "id": "Q35647955",
@@ -4060,7 +4068,9 @@
       "title": "Member of Parliament in the United Kingdom",
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
-        "P580": "2005-05-05"
+        "P580": "2005-05-05",
+        "P1366": "Elisha McCallion",
+        "P582": "2017-05-03"
       }
     },
     {
@@ -5183,7 +5193,13 @@
       "id": "Q16707842",
       "label": "Member of Parliament in the United Kingdom",
       "title": "Member of Parliament in the United Kingdom",
-      "description": "voters' representative in the House of Commons of the United Kingdom"
+      "description": "voters' representative in the House of Commons of the United Kingdom",
+      "qualifiers": {
+        "P580": "1995-06-15",
+        "P1365": "James Kilfedder",
+        "P582": "2001-05-14",
+        "P1366": "Sylvia Hermon"
+      }
     },
     {
       "id": "Q36634044",
@@ -5572,7 +5588,9 @@
       "description": "voters' representative in the House of Commons of the United Kingdom",
       "qualifiers": {
         "P2937": "54th United Kingdom Parliament",
-        "P768": "Fermanagh and South Tyrone"
+        "P768": "Fermanagh and South Tyrone",
+        "P580": "2017-06-09",
+        "P1365": "Tom Elliott"
       }
     },
     {
