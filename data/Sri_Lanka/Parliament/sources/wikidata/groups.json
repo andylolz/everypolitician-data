@@ -8,84 +8,76 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "United National Party",
-        "note": "multilingual"
-      },
-      {
         "lang": "en",
         "name": "United National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Parti national uni",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "統一国民党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "si",
         "name": "එක්සත් ජාතික පක්ෂය",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "United National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "ஐக்கிய தேசியக் கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "斯里兰卡统一国民党",
-        "note": "multilingual"
-      },
-      {
-        "lang": "it",
-        "name": "United National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "الحزب الوطني المتحد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Объединённая национальная партия Шри-Ланки",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "통일국민당",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "oc",
         "name": "Partit Nacionau Unit",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Partai Nasional Serikat",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "United National Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
         "name": "המפלגה הלאומית המאוחדת",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -106,112 +98,116 @@
       {
         "lang": "si",
         "name": "එක්සත් ජනතා නිදහස් සන්ධානය",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "ائتلاف آزادی خلق متحد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "United People's Freedom Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "ஐக்கிய மக்கள் சுதந்திரக் கூட்டணி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Perikatan Kebebasan Rakyat Bersatu",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Frihetsalliansen",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
         "name": "Alleanza per la Libertà e l'Unità del Popolo",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "統一人民自由同盟",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "تحالف الحرية الشعب الاتحادي",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "cs",
         "name": "Sjednocená lidová aliance svobody",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "统一人民自由联盟",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "United People’s Freedom Alliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "United People's Freedom Alliance",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "United People's Freedom Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "ائتلاف ازادی خلق متحد",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஐக்கிய மக்கள் சுதந்திரக் கூட்டமைப்பு",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஐக்கிய மக்கள் சுதந்திர முன்னணி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஐக்கிய மக்கள் விடுதலைக் கூட்டணி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "UPFA",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "United People's Freedom Alliance",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "UPFA",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Freiheitsallianz des geeinten Volkes",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -232,52 +228,62 @@
       {
         "lang": "si",
         "name": "ඉලංගෙයි තමිළ් අරසු කච්චි",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Illankai Tamil Arasu Kachchi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "இலங்கைத் தமிழரசுக் கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Partit Federal de Ceilan",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sv",
         "name": "Federal Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Ilankai Tamil Arasu Kachchi",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "タミル国民連合",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "si",
         "name": "ෆෙඩරල් පක්ෂය",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "இலங்கை தமிழரசுக் கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "இலங்கைத் தமிழரசுக்கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ]
   },
@@ -290,139 +296,124 @@
     ],
     "other_names": [
       {
-        "lang": "de",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
-      },
-      {
         "lang": "si",
         "name": "ජනතා විමුක්ති පෙරමුණ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "スリランカ人民解放戦線",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fa",
         "name": "جبهه آزادی بخش خلق سری‌لانکا",
-        "note": "multilingual"
-      },
-      {
-        "lang": "fr",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "மக்கள் விடுதலை முன்னணி",
-        "note": "multilingual"
-      },
-      {
-        "lang": "ca",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "sv",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nl",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "人民解放阵线",
-        "note": "multilingual"
-      },
-      {
-        "lang": "nb",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
-      },
-      {
-        "lang": "oc",
-        "name": "Janatha Vimukthi Peramuna",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "si",
         "name": "ජ.වි.පෙ.",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "si",
         "name": "ජේවීපී",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "si",
         "name": "ජනතා විමුත්ති පෙරමුණ - JVP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبههٔ آزادی بخش خلق(سری لانکا)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبههٔ ازادی بخش خلق(سری لانکا)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبههٔ ازادی بخش خلق سری لانکا",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبههٔ آزادی بخش خلق سری لانکا",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبهه آزادی بخش خلق",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبهه ازادی بخش خلق(سری لانکا)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبهه آزادی بخش خلق(سری لانکا)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "fa",
         "name": "جبههٔ آزادی بخش خلق",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஜனதா விமுக்தி பெரமுன",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஜே.வி.பி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "sv",
         "name": "JVP",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -443,62 +434,68 @@
       {
         "lang": "ru",
         "name": "Конгресс мусульман Шри-Ланки",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Sri Lanka Muslim Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "சிறீலங்கா முஸ்லிம் காங்கிரசு",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ca",
         "name": "Congrés Musulmà de Sri Lanka",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ar",
         "name": "المؤتمر الإسلامي لسريلانكا",
-        "note": "multilingual"
-      },
-      {
-        "lang": "de",
-        "name": "Sri Lanka Muslim Congress",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "si",
         "name": "ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "斯里蘭卡穆斯林大會",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "スリランカ・ムスリム会議",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "சிறீலங்கா முஸ்லிம் காங்கிரஸ்",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "இலங்கை முஸ்லிம் காங்கிரஸ்",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "ta",
         "name": "ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ்",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -519,32 +516,38 @@
       {
         "lang": "en",
         "name": "Eelam People's Democratic Party",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "ஈழ மக்கள் ஜனநாயகக் கட்சி",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "伊蘭人民民主黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "イーラム人民民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "ஈ.பி.டி.பி.",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "zh",
         "name": "伊拉姆人民民主黨",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
