@@ -2134,32 +2134,32 @@
         {
           "lang": "dv",
           "name": "ޢަދާލަތު ޕާޓީ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Adhaalath Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "正義党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "dv",
-          "name": "Adhaalath Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "dv",
           "name": "Adhaalath party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Justice Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2196,82 +2196,86 @@
         {
           "lang": "dv",
           "name": "ދިވެހިރައްޔިތުންގެ ޑިމޮކްރެޓިކް ޕާޓީ",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "de",
           "name": "Maledivische Demokratische Partei",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Maldivian Democratic Party",
-          "note": "multilingual"
-        },
-        {
-          "lang": "da",
-          "name": "Maldivian Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "sv",
           "name": "Maldiviska demokratiska partiet",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nl",
-          "name": "Maldivian Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Democratico Maldiviano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "モルディブ民主党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "mk",
           "name": "Малдивска демократска партија",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "parti démocratique maldivien",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ko",
           "name": "몰디브 민주당",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Democrático de las Maldivas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "dv",
           "name": "MDP",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "da",
           "name": "Maldiviske demokratiske parti",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "en",
           "name": "Maldives Democratic Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         },
         {
           "lang": "es",
           "name": "Partido Democratico de las Maldivas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
@@ -2289,12 +2293,14 @@
         {
           "lang": "en",
           "name": "Maldives Development Alliance",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "モルディブ開発連合",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -2318,42 +2324,50 @@
         {
           "lang": "en",
           "name": "Progressive Party of Maldives",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Progressista delle Maldive",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "fr",
           "name": "Parti progressiste des Maldives",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ru",
           "name": "Прогрессивная партия Мальдив",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "モルディブ進歩党",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "cs",
           "name": "Progresivní strana Malediv",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "zh",
           "name": "馬爾地夫進步黨",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Progresista de Malvidas",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ]
     },
@@ -2371,32 +2385,32 @@
         {
           "lang": "en",
           "name": "Republican Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "ja",
           "name": "共和党",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
-          "name": "Republican Party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "it",
           "name": "Partito Repubblicano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "es",
           "name": "Partido Republicano",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-label"
         },
         {
           "lang": "en",
           "name": "Jumhooree party",
-          "note": "multilingual"
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ]
     },
