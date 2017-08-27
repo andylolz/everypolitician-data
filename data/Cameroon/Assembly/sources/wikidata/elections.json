@@ -10,32 +10,38 @@
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum Parlemen Kamerun 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "Elections legislatives camerounaises de 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum parlemen Kamerun, 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum parlemen Kamerun 2007",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -55,12 +61,14 @@
       {
         "lang": "en",
         "name": "Cameroonian general election, 1988",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections générales camerounaises de 1988",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -78,12 +86,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1964",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -103,12 +113,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1970",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -128,12 +140,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1973",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1973",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -153,12 +167,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1983",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1983",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -178,12 +194,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -203,12 +221,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1992",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1992",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -228,12 +248,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 1997",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 1997",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -253,12 +275,14 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 2002",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -278,22 +302,26 @@
       {
         "lang": "en",
         "name": "Cameroonian parliamentary election, 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives camerounaises de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones parlamentarias de Camerún de 2013",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Camerun del 2013",
-        "note": "multilingual"
+        "name": "elezioni parlamentari in Camerun del 2013",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
