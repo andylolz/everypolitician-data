@@ -10,22 +10,26 @@
       {
         "lang": "sh",
         "name": "Demokratska stranka (Guam)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Democratic Party of Guam",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "グアム民主党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Demokratska stranka Guama",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -47,17 +51,20 @@
       {
         "lang": "sh",
         "name": "Republikanska stranka (Guam)",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Republican Party of Guam",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "グアム共和党",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ]
   }
