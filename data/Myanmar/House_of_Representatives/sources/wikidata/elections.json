@@ -10,107 +10,128 @@
       {
         "lang": "zh-hans",
         "name": "2010年缅甸议会选举",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
         "name": "2010年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
         "name": "2010年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "de",
         "name": "Wahlen in Myanmar 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "2010年ミャンマー総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Мьянме",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "sh",
         "name": "Парламентарни избори у Мјанмару 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Burmese general election, 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "การเลือกตั้งทั่วไปในประเทศพม่า พ.ศ. 2553",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေထွေ ရွေးကောက်ပွဲ၊ ၂၀၁၀",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Myanmar 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "burma",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2010年缅甸议会选举",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Birmania del 2010",
-        "note": "multilingual"
+        "name": "elezioni parlamentari in Birmania del 2010",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "nl",
         "name": "Burmese general election",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "2010年缅甸国会选举",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "de",
         "name": "Wahlen in Birma 2010",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "my",
         "name": "၂၀၁၀ အထွေထွေရွေးကောက်ပွဲ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "my",
         "name": "မြန်မာနိုင်ငံ အထွေထွေရွေးကောက်ပွဲ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "my",
         "name": "၂၀၁၀ ခုနှစ် အထွေထွေ ရွေးကောက်ပွဲ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       },
       {
         "lang": "my",
         "name": "မြန်မာ့အထွေထွေရွေးကောက်ပွဲ",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -118,7 +139,7 @@
     ],
     "follows": "Burmese general election, 1990",
     "followed_by": "Burmese general election, 2015",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "Thein Sein"
     ]
@@ -134,7 +155,8 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1928",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -154,7 +176,8 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1925",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -174,12 +197,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1922",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1922年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -198,7 +223,8 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1932",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -218,12 +244,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1936",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေအထွေ ရွေးကောက်ပွဲ၊ ၁၉၃၆",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -243,17 +271,20 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1947",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1947年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေထွေ ရွေးကောက်ပွဲ၊ ၁၉၄၇",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -261,7 +292,7 @@
     ],
     "follows": "Burmese general election, 1936",
     "followed_by": "Burmese general election, 1951–1952",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -277,17 +308,20 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1951–1952",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1951–1952年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေအထွေ ရွေးကောက်ပွဲ၊ ၁၉၅၁ - ၁၉၅၂",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -297,7 +331,7 @@
     "end_date": "1952-06",
     "follows": "Burmese general election, 1947",
     "followed_by": "Burmese general election, 1956",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -313,12 +347,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1956",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေထွေ ရွေးကောက်ပွဲ၊ ၁၉၅၆",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -326,7 +362,7 @@
     ],
     "follows": "Burmese general election, 1951–1952",
     "followed_by": "Burmese general election, 1960",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "Ba Swe"
     ]
@@ -342,12 +378,20 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1960",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေအထွေ ရွေးကောက်ပွဲ၊ ၁၉၆၀",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1960年緬甸國會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -355,7 +399,7 @@
     ],
     "follows": "Burmese general election, 1956",
     "followed_by": "Burmese general election, 1974",
-    "office": "Prime Minister of Burma",
+    "office": "Prime Minister of Myanmar",
     "successful_candidates": [
       "U Nu"
     ]
@@ -371,12 +415,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1974",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1974年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -396,12 +442,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1981",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1981年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -419,12 +467,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1985",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1985年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -442,33 +492,38 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "ပါတီစုံ ဒီမိုကရေစီ အထွေထွေ ရွေးကောက်ပွဲ၊ ၁၉၉၀",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1990年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vi",
         "name": "Tổng tuyển cử Myanmar",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives birmanes de 1990",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "1990-05-27"
     ],
-    "office": "Prime Minister of Burma"
+    "office": "Prime Minister of Myanmar"
   },
   "Q16954580": {
     "identifiers": [
@@ -481,12 +536,14 @@
       {
         "lang": "en",
         "name": "Burmese general election, 1978",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "zh",
         "name": "1978年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -504,119 +561,148 @@
       {
         "lang": "zh",
         "name": "2015年緬甸議會選舉",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fr",
         "name": "élections législatives birmanes de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
         "name": "Burmese general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ru",
         "name": "Парламентские выборы в Мьянме",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "da",
         "name": "Parlamentsvalget i Burma 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en-ca",
         "name": "Myanma general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en-gb",
         "name": "Myanma general election, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "eo",
         "name": "Birma parlamenta balotado",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "es",
         "name": "Elecciones legislativas de Birmania de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "he",
-        "name": "הבחירות הכלליות במיאנמר",
-        "note": "multilingual"
+        "name": "הבחירות הכלליות במיאנמר 2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "id",
         "name": "Pemilihan umum Myanmar 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "it",
-        "name": "Elezioni parlamentari in Birmania del 2015",
-        "note": "multilingual"
+        "name": "elezioni parlamentari in Birmania del 2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ja",
         "name": "2015年ミャンマー総選挙",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ko",
         "name": "2015년 미얀마 총선거",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ms",
         "name": "Pilihan raya umum Myanmar 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "my",
         "name": "အထွေထွေ ရွေးကောက်ပွဲ ၂၀၁၅",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "th",
         "name": "การเลือกตั้งทั่วไปในประเทศพม่า พ.ศ. 2558",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "vi",
         "name": "Bầu cử Quốc hội Myanmar, 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "pt",
         "name": "Eleições legislativas de Myanmar de 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "ta",
         "name": "மியான்மர் பொதுத் தேர்தல்",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "el",
         "name": "Βιρμανικές γενικές εκλογές 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "fi",
         "name": "Myanmarin parlamenttivaalit 2015",
-        "note": "multilingual"
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "kn",
+        "name": "ಮ್ಯಾನ್ಮಾರ್ ಸಾರ್ವತ್ರಿಕ ಚುನಾವಣೆ-2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "2015-11-08"
     ],
     "follows": "Burmese general election, 2010",
-    "office": "President of Burma",
+    "followed_by": "Myanmar by-elections, 2017",
+    "office": "President of Myanmar",
     "successful_candidates": [
       "Htin Kyaw"
     ]
